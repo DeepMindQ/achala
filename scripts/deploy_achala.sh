@@ -1,9 +1,11 @@
 #!/bin/bash
 # Deploy the Achala site build to the gh-pages branch of DeepMindQ/achala.
 # Requires the GitHub token at /tmp/.ghtoken (0600).
-# Usage: bash /home/z/my-project/achala/scripts/deploy_achala.sh
+# Usage: bash /home/z/my-project/achala-main/scripts/deploy_achala.sh
+# Layout (2026-11-23): source worktree = achala-main (branch main),
+# deployed-site worktree = achala (branch gh-pages). Build happens HERE.
 set -euo pipefail
-cd /home/z/my-project/achala
+cd /home/z/my-project/achala-main
 
 if [ ! -s /tmp/.ghtoken ]; then
   echo "ERROR: /tmp/.ghtoken missing — write the GitHub token to that file first:"
@@ -36,6 +38,7 @@ cd ..
 git fetch origin gh-pages 2>/dev/null || true
 git worktree remove --force .gh-deploy 2>/dev/null || true
 rm -rf .gh-deploy
+git worktree prune
 git worktree add --force .gh-deploy gh-pages
 git -C .gh-deploy reset --hard origin/gh-pages 2>/dev/null || true
 
