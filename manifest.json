@@ -1,20 +1,20 @@
 {
   "name": "Achala IT Solutions",
   "short_name": "Achala",
-  "description": "Achala IT Solutions \u2014 transforming industries through AI acceleration.",
-  "start_url": "/",
+  "description": "Achala IT Solutions — transforming industries through AI acceleration.",
+  "start_url": "./",
   "display": "browser",
   "background_color": "#FFFFFF",
   "theme_color": "#2b5672",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/apple-touch-icon.png",
+      "src": "apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
