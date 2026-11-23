@@ -1,8 +1,8 @@
 :HL["/achala/_next/static/chunks/1y_9e1cs5fjkr.css","style"]
-:HL["/achala/_next/static/chunks/35vwgcai2kmty.css","style"]
+:HL["/achala/_next/static/chunks/1_g-1rus0prl2.css","style"]
 :HL["/achala/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/achala/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/achala/achala-logo-white.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"oc","k":"industries/insurance/capabilities/agentic-ai-hyperautomation","s":["patented-intelligence","search","style-guide"]},"h":65600,"c":"$Q2"}]]
-0:{"b":"CmjLoI9oZcK78rdWquTW9","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"96Me6XfpfpmT_gb4uYqhj","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
