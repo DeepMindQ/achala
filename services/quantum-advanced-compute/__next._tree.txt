@@ -3,4 +3,4 @@
 :HL["/achala/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/achala/_next/static/media/c41ca59f1c34ba31-s.p.e20f337c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/achala/achala-logo-white.png","image"]
-0:{"buildId":"YUXD3JrHde_GbnH5o_knL","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"oc","paramKey":"services/quantum-advanced-compute","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"0m6nrhw_veC7PYRLjTVGs","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"oc","paramKey":"services/quantum-advanced-compute","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
