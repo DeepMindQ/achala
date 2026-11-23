@@ -1,15 +1,15 @@
 {
  "id": "PLT-swarm-ov",
- "title": "Achala Swarm — Agentic AI Orchestration Platform",
+ "title": "Achala Swarm — Overview",
  "url": "/platforms/swarm/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Swarm > Overview",
- "seo_title": "Achala Swarm — Agentic AI Orchestration Platform | Achala IT Solutions",
- "meta_description": "Achala Swarm, our Agentic AI Orchestration Platform, coordinates large agent fleets with queues, budgets, human checkpoints and full audit.",
+ "seo_title": "Achala Swarm — Overview | Achala IT Solutions",
+ "meta_description": "Hundreds of agents as one governed, measurable workforce.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Hundreds of AI agents, working as one measurable team. Achala Swarm orchestrates agent fleets with work queues, spend budgets and human checkpoints, so automation scales without losing control."
+   "x": "Hundreds of agents as one governed, measurable workforce. Achala Swarm is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
@@ -17,34 +17,42 @@
   },
   {
    "t": "p",
-   "x": "Achala Swarm is our Agentic AI Orchestration Platform. It takes the agents you have validated and runs them as a coordinated workforce: tasks are queued, prioritized, budgeted and monitored. Where a decision matters too much to automate, the platform routes it to a person instead of guessing."
+   "x": "Achala Swarm is the orchestration layer for agentic operations: role definitions, task queues and bidding, durable execution with saga compensation, policy envelopes (solo/approval/forbidden), per-team budgets, kill switches, and a control tower for fleet health, throughput and cost per completed task. Swarm treats agents as workforce, not scripts: onboarding with role specs, SLAs and budget; release management with shadow and canary cohorts; incident response with rollback. It runs our agentic process automation, digital workforce and workflow orchestration services under one accountable control plane."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "Inside the engagement"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "What ships, in the order it ships — Achala Swarm edition:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Agent registry",
-     "Every agent versioned, with its permissions and test record"
+     "Fleet control tower",
+     "health, throughput, cost and policy telemetry"
     ],
     [
-     "Work queues",
-     "Task assignment with priorities, retries and deadlines"
+     "Role & queue engine",
+     "roles, bidding, priority lanes, SLA routing"
     ],
     [
-     "Spend budgets",
-     "Per-team and per-workflow model spend, with alerts"
+     "Policy engine",
+     "autonomy tiers routed to approvals"
     ],
     [
-     "Human checkpoints",
-     "Escalation paths for the decisions that keep a person in the loop"
+     "Durable execution",
+     "saga patterns, compensation, idempotency"
+    ],
+    [
+     "Budget metering",
+     "per-team/role token and action chargeback"
+    ],
+    [
+     "Release machinery",
+     "shadow/canary cohorts with auto-rollback"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Security and compliance"
+   "x": "Trust and controls"
   },
   {
    "t": "p",
-   "x": "Agents act on your systems, so their actions need the same governance as people's:"
+   "x": "Every agent action is policy-checked and logged under immutable audit trails. Tool access is scoped per role with short-lived credentials; high-risk actions require approval workflows. Swarm's evidence pack maps to ISO 42001 and NIST AI RMF expectations for agentic systems."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Least-privilege access",
-     "Agents get scoped credentials, rotated and logged"
+     "Scoped tool access",
+     "short-lived credentials per role"
     ],
     [
-     "Action audit",
-     "Every agent action recorded with its inputs and authorizations"
-    ],
-    [
-     "Spend and rate limits",
-     "Hard ceilings per workflow, enforced at runtime"
+     "Immutable audit",
+     "every action replayable"
     ],
     [
      "Kill switches",
-     "Any agent or fleet can be stopped in one action"
+     "per-agent and per-fleet"
+    ],
+    [
+     "EU AI Act evidence",
+     "agentic-system documentation generated"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "Where you would find it working"
   },
   {
    "t": "p",
-   "x": "Achala Swarm runs document-heavy operations in banking, insurance, healthcare and shared-service centers, anywhere a validated task repeats often enough to automate and matters enough to govern."
+   "x": "Achala Swarm runs under NDA in Banking & Financial Services, Insurance & Risk, Telecom, Media & Entertainment, Logistics & Supply Chain, Public Sector & Government. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "Under the hood"
   },
   {
    "t": "p",
-   "x": "Works with your existing agent frameworks and model providers through adapters. Orchestrated work lands back in your systems of record via versioned, contract-tested connectors."
+   "x": "Connects to: Temporal, LangGraph, Kafka, OPA, Kubernetes, core/SaaS connectors. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Swarm runs agent fleets on generative knowledge-workflow blueprints. A planner compiles the work into an orchestration blueprint; a temporal reasoning module sequences the time-sensitive steps; a knowledge-liquidity protocol layer lets workflows reconfigure and share structure across teams without hard-coded pipelines. Execution is decentralized with validation at every handoff. A multi-objective evolutionary algorithm tunes execution parameters, and policy-gradient multi-agent reinforcement learning assigns shared-reward credit across the fleet — so the system learns which agent did what, and one node cannot game the payoff."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "AI-generated orchestration blueprints",
+     "Work is compiled to blueprints, not scripted — the fleet re-plans when the process changes."
+    ],
+    [
+     "Temporal reasoning for time-sensitive steps",
+     "Deadlines, windows and sequencing are first-class constraints in the plan."
+    ],
+    [
+     "Knowledge-liquidity protocol layer",
+     "Workflow structure moves between teams without hard-coded pipelines."
+    ],
+    [
+     "Multi-objective evolutionary tuning",
+     "Execution parameters are refined against cost, quality and throughput together."
+    ],
+    [
+     "Shared-reward credit assignment",
+     "Policy-gradient multi-agent RL keeps incentives aligned across the fleet."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: hundreds of governed agents instead of dozens of unattended scripts, every action inside a signed envelope, and containment you can report — 216 automations governed and 78% portfolio containment in the reference program."
   },
   {
    "t": "cta",
-   "x": "Bring one process to a briefing. We will show the agent fleet, the queues and the human checkpoints it would run with."
+   "x": "Bring Achala Swarm to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 593,
+ "words": 587,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Swarm",
@@ -211,7 +260,7 @@
  ],
  "related": [
   {
-   "title": "Achala Swarm — Agentic AI Orchestration Platform",
+   "title": "Achala Swarm — Overview",
    "url": "/platforms/swarm/",
    "desc": "Agentic AI Orchestration Platform"
   },
@@ -223,7 +272,27 @@
   {
    "title": "Achala Swarm — Industry Use Cases",
    "url": "/platforms/swarm/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A multinational corporate bank",
+   "url": "/case-studies/bank-02/",
+   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
+  },
+  {
+   "title": "A top-5 global P&C insurer",
+   "url": "/case-studies/ins-01/",
+   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
+  },
+  {
+   "title": "A leading life insurer (North America)",
+   "url": "/case-studies/ins-02/",
+   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
+  },
+  {
+   "title": "A national health insurer",
+   "url": "/case-studies/hc-02/",
+   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
   }
  ],
  "cards": []

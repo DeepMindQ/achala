@@ -264,7 +264,7 @@ export function ContentPage({ page }: { page: PageData }) {
             removed — they produced the term-paper structure the redesign bans.
             Section wayfinding = breadcrumbs (hero) + hover anchors (headings)
             + the related/next-step rails at the end. */}
-        <article className="dq-article mx-auto w-full">
+        <article className="dq-article mx-auto w-full max-w-[1080px]">
           <Blocks blocks={page.blocks} skip={["hero"]} />
 
           {/* in-narrative exploration cards ("Services in this expertise", hubs…) */}
@@ -380,7 +380,7 @@ function sectionKicker(page: PageData): string | undefined {
     services_hub: "Services & Expertise",
     industries_hub: "Industries",
     solutions_hub: "Solutions",
-    platforms_hub: "Platforms",
+    platforms_hub: "Proprietary Platforms",
     insights_hub: "Insights Library",
   };
   return map[page.template];
@@ -389,8 +389,8 @@ function sectionKicker(page: PageData): string | undefined {
 function cardsHeading(template: string): string {
   const map: Record<string, string> = {
     services_hub: "The eight expertise domains",
-    industries_hub: "Twelve industries, one delivery standard",
-    solutions_hub: "24 packaged solutions",
+    industries_hub: "Twelve industries, one operating discipline",
+    solutions_hub: "24 outcome-linked solutions",
     platforms_hub: "The Achala platform portfolio",
     cases_hub: "The case index",
     insights_hub: "Insight categories",
@@ -399,6 +399,7 @@ function cardsHeading(template: string): string {
     subindustry_page: "Capabilities for this sub-industry",
     industry_capability: "Sub-industry depth",
     solution_page: "Related solutions",
+    insights_category: "The articles",
     platforms_hub_alt: "",
   };
   return map[template] ?? "Explore further";
@@ -406,10 +407,9 @@ function cardsHeading(template: string): string {
 
 function cardsSub(template: string): string {
   const map: Record<string, string> = {
-    services_hub: "Each domain page lists its practices, reference architectures, sector briefs and the metric the domain is managed on.",
-    cases_hub: "Indexed by industry and service area. Every case carries its measured result and the gates that governed the build.",
-    insights_hub: "Written by the people who ran the work — vendor questions included.",
-    platforms_hub: "Eight licensed products from our R&D programme, and eight platforms running in production today.",
+    services_hub: "Each domain card opens its hub — the practices, the reference architectures, the sector briefs and the metric the domain is managed on.",
+    cases_hub: "Indexed by industry and service area — every case carries its measured delta and the gates that governed the build.",
+    insights_hub: "Eight categories, each argued from programs in flight — the articles name what shipped and what it took.",
   };
   return map[template] ?? "";
 }

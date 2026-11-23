@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Yield +3.4 points and energy per tonne down 17%, APC augmentation program"
+   "x": "Yield +3.4 points and energy per tonne down 17% — APC augmentation program"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A specialty chemicals producer: Plants feel data gaps in scrap rates and unplanned downtime, both traceable to decisions made hours earlier. The Achala program started at the line —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A specialty chemicals producer, Manufacturing & Industrial sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "ML-augmented control with constraint awareness now adapts setpoints to feedstock drift; rotating equipment carries vibration/thermal telemetry into RUL models wired to CMMS; the batch genealogy platform unified process, quality and ERP with lineage, investigations now close in hours."
+   "x": "ML-augmented control with constraint awareness now adapts setpoints to feedstock drift; rotating equipment carries vibration/thermal telemetry into RUL models wired to CMMS; the batch genealogy platform unified process, quality and ERP with lineage — investigations now close in hours."
   },
   {
    "t": "arch",
@@ -213,7 +213,7 @@
    "items": [
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
     ],
     [
      "IoT, Twin & Robotics",
@@ -231,7 +231,7 @@
   },
   {
    "t": "p",
-   "x": "Plants feel data gaps in scrap rates and unplanned downtime, both traceable to decisions made hours earlier. The Achala program started at the line — the baseline signed in week two made the cost visible in units the finance team already owns. The engagement ran under the standard Achala charter: a named metric, a named control owner and gates that evidence every move."
+   "x": "If the specialty chemicals producer program reads like your own estate, the honest advice is: start with the baseline diagnostic, not with the build. The differences that matter only show up in measurement The engagement model here was outcome-linked; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -258,10 +258,10 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the same diagnostic in production. The briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the same diagnostic in production — the briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 400,
+ "words": 468,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Manufacturing & Industrial",

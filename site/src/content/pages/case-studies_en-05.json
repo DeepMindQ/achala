@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Turbine fleet predictive maintenance, forced-outage rate down 29% and availability up 2.1 points across the thermal fleet"
+   "x": "Turbine fleet predictive maintenance — forced-outage rate down 29% and availability up 2.1 points across the thermal fleet"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A power generation company: Utility operations carry physical consequence: a forecasting miss or an asset failure cascades fast. The Achala program started where that consequence concentrates —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a generation company whose outages arrived uninvited and whose maintenance calendar didn't believe in sensors. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The owned-signature pattern transfers across thermal fleets; the failure families were this fleet's history. Another operator starts from its outage reports, the diagnostic cross-reads them before promising availability."
+   "x": "The owned-signature pattern transfers across thermal fleets; the failure families were this fleet's history. Another operator starts from its outage reports — the diagnostic cross-reads them before promising availability."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 371,
+ "words": 455,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Energy & Utilities",

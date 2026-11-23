@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Claims-fraud network analytics on a governed lakehouse, improper-payment recovery up 34% and investigator false-positive burden down 41%"
+   "x": "Claims-fraud network analytics on a governed lakehouse — improper-payment recovery up 34% and investigator false-positive burden down 41%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A health insurer: Insurers feel process gaps in loss adjustment expense and customer churn, both of them slow, both of them measurable. The Achala program started with the claims journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a health insurer whose special-investigations unit worked referral lists that aged out before the schemes did. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter measured the hunt: SIU caseload built from rule hits, 71% of which cleared on first review, while the schemes that cost the most, provider rings billing across aliases, never triggered a single rule."
+   "x": "The baseline quarter measured the hunt: SIU caseload built from rule hits, 71% of which cleared on first review, while the schemes that cost the most — provider rings billing across aliases — never triggered a single rule."
   },
   {
    "t": "p",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the network layer first: one governed entity model resolving providers, facilities and billers across systems, graph analytics surfacing rings as structures, shared addresses, tax IDs, device usage patterns, and a case system where evidence assembles itself for each referral. Investigators start with the network in view, not a spreadsheet of hits."
+   "x": "We built the network layer first: one governed entity model resolving providers, facilities and billers across systems, graph analytics surfacing rings as structures — shared addresses, tax IDs, device usage patterns — and a case system where evidence assembles itself for each referral. Investigators start with the network in view, not a spreadsheet of hits."
   },
   {
    "t": "arch",
@@ -212,7 +212,7 @@
    "x": "Run the two-week diagnostic on your estate first; the numbers decide whether this pattern earns a build on yours."
   }
  ],
- "words": 367,
+ "words": 456,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Insurance & Risk",

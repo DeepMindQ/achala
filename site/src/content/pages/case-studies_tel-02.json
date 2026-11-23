@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Energy per site down 18%, telemetry-driven optimization at 12,000 sites"
+   "x": "Energy per site down 18% — telemetry-driven optimization at 12,000 sites"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A Middle East operator group: Operators feel decision gaps in churn and support volume, both visible in monthly cohorts. The Achala program started with the subscriber journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A Middle East operator group — a Telecom, Media & Entertainment engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model."
   },
   {
    "t": "h2",
@@ -217,7 +217,7 @@
     ],
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
     ],
     [
      "Data & Lakehouse",
@@ -261,7 +261,7 @@
    "x": "If the same diagnostic is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 378,
+ "words": 317,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Telecom, Media & Entertainment",

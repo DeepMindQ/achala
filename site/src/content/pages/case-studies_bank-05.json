@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cash-flow underwriting for MSME lending, approval rate up 14 points at a flat delinquency rate, decision time from nine days to 36 hours"
+   "x": "Cash-flow underwriting for MSME lending — approval rate up 14 points at a flat delinquency rate, decision time from nine days to 36 hours"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A tier-2 universal bank: Banking margins live between risk and speed: approve too slowly and the customer leaves, approve too fast and the losses follow. The Achala program started where that tension is sharpest —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a tier-2 universal bank whose MSME book was stuck between two failures: relationship managers couldn't underwrite fast enough, and the scorecard built for salaried credit rejected profitable traders. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "What travels is the cited-memo pattern, it has since run for two other lenders with different document estates. The cash-flow entity does not transfer as-is; each lender's source systems decide its shape, and the diagnostic is where that gets settled."
+   "x": "What travels is the cited-memo pattern — it has since run for two other lenders with different document estates. The cash-flow entity does not transfer as-is; each lender's source systems decide its shape, and the diagnostic is where that gets settled."
   },
   {
    "t": "table",
@@ -217,7 +217,7 @@
    "x": "Start with the diagnostic, not the contract: the same diagnostic that baselined this program takes two weeks, and a scoped proposal follows only if the delta justifies it."
   }
  ],
- "words": 396,
+ "words": 510,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Banking & Financial Services",

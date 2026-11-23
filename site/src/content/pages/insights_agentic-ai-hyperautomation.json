@@ -5,19 +5,23 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Agentic AI & Hyperautomation",
  "seo_title": "Insights: Agentic AI & Hyperautomation | Insights",
- "meta_description": "Agentic AI & Hyperautomation — viewpoints from the Achala delivery floor.",
+ "meta_description": "Achala IT Solutions perspectives on Agentic AI & Hyperautomation: engineering notes, market views and delivery lessons.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
+   "x": "Agentic AI & Hyperautomation — what we are learning running governed agent fleets in production."
+  },
+  {
+   "t": "p",
+   "x": "Agents fail for organizational reasons before they fail for technical ones: unclear autonomy tiers, missing envelopes, no credit assignment. The theses below come from fleets we operate, not from a demo script."
+  },
+  {
+   "t": "p",
+   "x": "Read the position that matches the decision on your desk this quarter — then bring your counter-case; the briefing exists for exactly that argument."
   },
   {
    "t": "h2",
-   "x": "What this category publishes"
-  },
-  {
-   "t": "h2",
-   "x": "Latest articles"
+   "x": "The positions we hold"
   },
   {
    "t": "bullets",
@@ -28,45 +32,16 @@
     ],
     [
      "Decision hubs beat model sprawl",
-     "The full argument is in the article, with the vendor questions to bring to your next evaluation meeting."
-    ],
-    [
-     "Process mining is the cheapest AI you will buy",
-     "Event-log truth exposes the rework loops that every automation program Silently funds."
+     "One governed decision API with replay outperforms a zoo of embedded models."
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Cadence"
-  },
-  {
-   "t": "h2",
-   "x": "Key questions this category answers"
-  },
-  {
-   "t": "bullets",
-   "items": [
-    [
-     "Is this real in production?",
-     "The references here run in production today, the pages name the shape of the deployment and what it took."
-    ],
-    [
-     "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
-    ]
-   ]
-  },
-  {
-   "t": "h2",
-   "x": "Where to go deeper"
   },
   {
    "t": "cta",
-   "x": "Subscribe to the briefing or book one, both start from the same evidence-first view of the category."
+   "x": "Bring the process you want to hand to agents — leave with the envelope it would run inside."
   }
  ],
- "words": 191,
+ "words": 136,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Agentic AI & Hyperautomation",

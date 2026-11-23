@@ -5,6 +5,7 @@
    props (all data computed server-side → hydration-safe). Reduced motion: the
    globals.css kill switch drops every transition to instant.                 */
 
+import { useRef, useState } from "react";
 import { useInView } from "./Motion";
 import { hashStr, mulberry32 } from "@/lib/seeded";
 
@@ -48,6 +49,34 @@ function Frame({
   );
 }
 
+/* ── shared hover tooltip (interactive charts) ─────────────────────────
+   Absolutely-positioned readout that follows the hovered data index.
+   Pure CSS transform positioning inside a relative wrapper — no layout shift. */
+function ChartTip({
+  left,
+  dark,
+  children,
+}: {
+  left: number; // 0..100 percentage inside the plot wrapper
+  dark?: boolean;
+  children: React.ReactNode;
+}) {
+  return (
+    <div
+      className="pointer-events-none absolute top-1 z-10 -translate-x-1/2 whitespace-nowrap rounded-lg px-2.5 py-1.5 text-[11px] leading-snug shadow-2"
+      style={{
+        left: `${Math.max(9, Math.min(91, left))}%`,
+        background: dark ? "rgba(24,20,45,0.94)" : "rgba(24,20,45,0.94)",
+        color: "#fff",
+        border: "1px solid rgba(210,0,0,0.45)",
+      }}
+      role="status"
+    >
+      {children}
+    </div>
+  );
+}
+
 /* ── grouped bar chart (before/after or multi-metric) ─────────────────── */
 export function BarChart({
   title,
@@ -66,24 +95,45 @@ export function BarChart({
   height?: number;
 } & Dark) {
   const { ref, inView } = useInView<HTMLDivElement>(0.3);
+  const [hi, setHi] = useState<number | null>(null);
   const max = Math.max(...series.flatMap((s) => values1(s.values))) * 1.15 || 1;
   return (
     <div ref={ref}>
       <Frame title={title} caption={caption} dark={dark}>
         <div style={{ height }} className="flex items-end">
-          <div className="flex h-full flex-1 flex-col">
+          <div className="relative flex h-full flex-1 flex-col">
+            {hi !== null && (
+              <ChartTip left={((hi + 0.5) / labels.length) * 100} dark={dark}>
+                <span className="font-semibold">{labels[hi]}</span>
+                {series.map((s, si) => (
+                  <span key={s.name} className="ml-2 inline-flex items-center gap-1">
+                    <span aria-hidden="true" className="h-1.5 w-1.5 rounded-full" style={{ background: s.color ?? (si === 0 ? NAVY_SOFT : BRAND) }} />
+                    {s.values[hi]?.toLocaleString("en-US")}
+                    {unit}
+                  </span>
+                ))}
+              </ChartTip>
+            )}
             <div className="flex h-full items-end gap-1">
               {labels.map((lb, gi) => (
-                <div key={lb} className="flex h-full flex-1 items-end justify-center gap-1.5">
+                <div
+                  key={lb}
+                  className="flex h-full flex-1 cursor-pointer items-end justify-center gap-1.5"
+                  onPointerEnter={() => setHi(gi)}
+                  onPointerLeave={() => setHi((v) => (v === gi ? null : v))}
+                  onFocus={() => setHi(gi)}
+                  tabIndex={-1}
+                >
                   {series.map((s, si) => {
                     const v = s.values[gi] ?? 0;
                     const h = Math.max(2, (v / max) * 100);
+                    const active = hi === gi;
                     return (
                       <div key={si} className="relative flex h-full flex-1 max-w-[46px] flex-col justify-end">
                         <span
                           className={`absolute -top-5 w-full text-center text-[10.5px] font-semibold tabular-nums ${dark ? "text-white/80" : "text-navy-800"}`}
                           style={{
-                            opacity: inView ? 1 : 0,
+                            opacity: inView && (hi === null || active) ? 1 : 0.35,
                             transition: "opacity 500ms ease " + (si * 90 + gi * 90 + 350) + "ms",
                           }}
                         >
@@ -95,10 +145,12 @@ export function BarChart({
                           style={{
                             height: `${h}%`,
                             background: s.color ?? (si === 0 ? NAVY : BRAND),
-                            opacity: si === 0 && series.length > 1 ? 0.55 : 1,
+                            opacity: si === 0 && series.length > 1 ? (active ? 0.8 : 0.55) : 1,
+                            filter: active ? "brightness(1.18)" : "none",
+                            boxShadow: active ? "0 0 0 1.5px rgba(210,0,0,.5)" : "none",
                             transform: inView ? "scaleY(1)" : "scaleY(0)",
                             transformOrigin: "bottom",
-                            transition: `transform 800ms cubic-bezier(.22,1,.36,1) ${si * 90 + gi * 90}ms`,
+                            transition: `transform 800ms cubic-bezier(.22,1,.36,1) ${si * 90 + gi * 90}ms, filter 200ms ease, box-shadow 200ms ease`,
                           }}
                         />
                       </div>
@@ -153,6 +205,7 @@ export function LineArea({
   height?: number;
 } & Dark) {
   const { ref, inView } = useInView<HTMLDivElement>(0.3);
+  const [hi, setHi] = useState<number | null>(null);
   const W = 560;
   const H = height;
   const pad = { l: 34, r: 12, t: 14, b: 26 };
@@ -161,10 +214,48 @@ export function LineArea({
   const max = Math.max(...all) * 1.1 || 1;
   const x = (i: number, n: number) => pad.l + (i * (W - pad.l - pad.r)) / Math.max(1, n - 1);
   const y = (v: number) => pad.t + (1 - (v - min) / (max - min || 1)) * (H - pad.t - pad.b);
+  const nPts = series[0]?.values.length ?? 0;
+  const svgRef = useRef<SVGSVGElement | null>(null);
+  const onMove = (e: React.PointerEvent<SVGSVGElement>) => {
+    if (nPts < 2) return;
+    const rect = e.currentTarget.getBoundingClientRect();
+    const vx = ((e.clientX - rect.left) / rect.width) * W;
+    let best = 0;
+    let bd = Infinity;
+    for (let i = 0; i < nPts; i++) {
+      const d = Math.abs(x(i, nPts) - vx);
+      if (d < bd) {
+        bd = d;
+        best = i;
+      }
+    }
+    setHi(best);
+  };
   return (
     <div ref={ref}>
       <Frame title={title} caption={caption} dark={dark}>
-        <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label={title}>
+        <div className="relative">
+          {hi !== null && labels[hi] !== undefined && (
+            <ChartTip left={((x(hi, nPts) - pad.l) / (W - pad.l - pad.r)) * 100} dark={dark}>
+              <span className="font-semibold">{labels[hi]}</span>
+              {series.map((s, si) => (
+                <span key={s.name} className="ml-2 inline-flex items-center gap-1">
+                  <span aria-hidden="true" className="h-1.5 w-1.5 rounded-full" style={{ background: s.color ?? (si === 0 ? BRAND : NAVY_SOFT) }} />
+                  {s.values[hi]?.toLocaleString("en-US")}
+                  {unit}
+                </span>
+              ))}
+            </ChartTip>
+          )}
+          <svg
+            ref={svgRef}
+            viewBox={`0 0 ${W} ${H}`}
+            className="w-full cursor-crosshair"
+            role="img"
+            aria-label={title}
+            onPointerMove={onMove}
+            onPointerLeave={() => setHi(null)}
+          >
           {[0, 0.5, 1].map((g) => (
             <line
               key={g}
@@ -201,17 +292,29 @@ export function LineArea({
                     key={i}
                     cx={x(i, s.values.length)}
                     cy={y(v)}
-                    r={2.6}
+                    r={hi === i ? 4.6 : 2.6}
                     fill={dark ? "#fff" : "#fff"}
                     stroke={color}
-                    strokeWidth="1.6"
+                    strokeWidth={hi === i ? "2.4" : "1.6"}
                     opacity={inView ? 1 : 0}
-                    style={{ transition: `opacity 300ms ease ${700 + i * 60 + si * 180}ms` }}
+                    style={{ transition: `opacity 300ms ease ${700 + i * 60 + si * 180}ms, r 150ms ease, stroke-width 150ms ease` }}
                   />
                 ))}
               </g>
             );
           })}
+          {hi !== null && nPts > 0 && (
+            <line
+              x1={x(hi, nPts)}
+              x2={x(hi, nPts)}
+              y1={pad.t}
+              y2={H - pad.b}
+              stroke={dark ? "rgba(255,255,255,.35)" : "rgba(24,20,45,.3)"}
+              strokeWidth="1"
+              strokeDasharray="3 3"
+              pointerEvents="none"
+            />
+          )}
           {labels.map((lb, i) =>
             i % Math.ceil(labels.length / 7) === 0 || i === labels.length - 1 ? (
               <text key={i} x={x(i, labels.length)} y={H - 8} textAnchor="middle" fontSize="9.5" fill={dark ? "rgba(255,255,255,.5)" : "#6B6580"}>
@@ -224,6 +327,7 @@ export function LineArea({
             {unit}
           </text>
         </svg>
+        </div>
         {series.length > 1 && (
           <div className="mt-1 flex flex-wrap gap-4">
             {series.map((s, si) => (
@@ -253,6 +357,7 @@ export function Donut({
   center?: string;
 } & Dark) {
   const { ref, inView } = useInView<HTMLDivElement>(0.35);
+  const [hi, setHi] = useState<number | null>(null);
   const total = segments.reduce((a, s) => a + s.value, 0) || 1;
   const C = 2 * Math.PI * 40;
   let acc = 0;
@@ -268,6 +373,7 @@ export function Donut({
               const dash = `${inView ? frac * C : 0} ${C}`;
               const off = -acc * C;
               acc += frac;
+              const dimmed = hi !== null && hi !== i;
               return (
                 <circle
                   key={i}
@@ -276,10 +382,14 @@ export function Donut({
                   r="40"
                   fill="none"
                   stroke={s.color ?? palette[i % palette.length]}
-                  strokeWidth="13"
+                  strokeWidth={hi === i ? 16 : 13}
                   strokeDasharray={dash}
                   strokeDashoffset={off}
-                  style={{ transition: `stroke-dasharray 1000ms cubic-bezier(.22,1,.36,1) ${i * 160}ms` }}
+                  opacity={dimmed ? 0.35 : 1}
+                  className="cursor-pointer"
+                  onPointerEnter={() => setHi(i)}
+                  onPointerLeave={() => setHi((v) => (v === i ? null : v))}
+                  style={{ transition: `stroke-dasharray 1000ms cubic-bezier(.22,1,.36,1) ${i * 160}ms, stroke-width 200ms ease, opacity 200ms ease` }}
                 />
               );
             })}
@@ -289,8 +399,13 @@ export function Donut({
               <p className={`text-[20px] font-bold tabular-nums ${dark ? "text-white" : "text-navy-800"}`}>{center}</p>
             )}
             {segments.map((s, i) => (
-              <div key={s.name} className="flex items-center justify-between gap-3 text-[12px]">
-                <span className={`flex items-center gap-2 ${dark ? "text-white/75" : "text-slate-body/85"}`}>
+              <div
+                key={s.name}
+                className={`flex items-center justify-between gap-3 rounded-md px-1.5 py-0.5 text-[12px] transition ${hi === i ? (dark ? "bg-white/10" : "bg-brand-tint") : ""}`}
+                onPointerEnter={() => setHi(i)}
+                onPointerLeave={() => setHi((v) => (v === i ? null : v))}
+              >
+                <span className={`flex items-center gap-2 ${hi === i ? (dark ? "text-white" : "text-navy-800 font-semibold") : dark ? "text-white/75" : "text-slate-body/85"}`}>
                   <span aria-hidden="true" className="h-2.5 w-2.5 rounded-full" style={{ background: s.color ?? palette[i % palette.length] }} />
                   {s.name}
                 </span>
@@ -516,6 +631,7 @@ export function Heatmap({
   unit?: string;
 } & Dark) {
   const { ref, inView } = useInView<HTMLDivElement>(0.3);
+  const [hi, setHi] = useState<string | null>(null);
   const max = Math.max(...matrix.flat()) || 1;
   return (
     <div ref={ref}>
@@ -539,13 +655,17 @@ export function Heatmap({
                   {matrix[ri].map((v, ci) => (
                     <td
                       key={ci}
-                      className="rounded-[4px] text-center font-semibold tabular-nums text-white"
+                      className="cursor-pointer rounded-[4px] text-center font-semibold tabular-nums text-white"
+                      title={`${r} · ${cols[ci]}: ${v.toLocaleString("en-US")}${unit}`}
+                      onPointerEnter={() => setHi(`${ri}-${ci}`)}
+                      onPointerLeave={() => setHi((cur) => (cur === `${ri}-${ci}` ? null : cur))}
                       style={{
                         background: `rgba(210, 0, 0, ${0.12 + 0.78 * (v / max)})`,
                         color: v / max > 0.55 || v / max < 0.2 ? (dark ? "#fff" : NAVY) : "#fff",
                         opacity: inView ? 1 : 0,
-                        transform: inView ? "scale(1)" : "scale(.6)",
-                        transition: `opacity 500ms ease ${(ri * cols.length + ci) * 35}ms, transform 500ms ease ${(ri * cols.length + ci) * 35}ms`,
+                        transform: inView ? (hi === `${ri}-${ci}` ? "scale(1.14)" : "scale(1)") : "scale(.6)",
+                        boxShadow: hi === `${ri}-${ci}` ? "0 0 0 2px rgba(24,20,45,.55)" : "none",
+                        transition: `opacity 500ms ease ${(ri * cols.length + ci) * 35}ms, transform 400ms ease ${(ri * cols.length + ci) * 35}ms, box-shadow 150ms ease`,
                       }}
                     >
                       {v.toLocaleString("en-US")}

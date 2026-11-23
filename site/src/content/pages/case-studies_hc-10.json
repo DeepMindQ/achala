@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Genomic pipeline platform on hybrid cloud, cost per genome down 44% and turnaround from nine days to three"
+   "x": "Genomic pipeline platform on hybrid cloud — cost per genome down 44% and turnaround from nine days to three"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A genomics laboratory: Hospitals feel technology gaps in patient waiting times and staff overtime, both visible within a quarter. The Achala program started with the patient journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a genomics lab whose sequencing machines outran its compute: samples queued for days while the on-prem cluster churned, and clinical reports waited on batch windows. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Clinical demand was spiky, oncology panels arrived in bursts, and the cluster sized for average load failed both directions: idle most days, overrun on burst days."
+   "x": "Clinical demand was spiky — oncology panels arrived in bursts — and the cluster sized for average load failed both directions: idle most days, overrun on burst days."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt the pipeline as a hybrid platform: burstable secondary analysis on cloud with data gravity respected, sequencing data staged once, cached hot, workload manager scheduling across both estates, and the clinical report chain kept inside the lab's validated boundary. Cost guards run in the platform: every workload carries its budget, and overrun is a governed exception."
+   "x": "We rebuilt the pipeline as a hybrid platform: burstable secondary analysis on cloud with data gravity respected — sequencing data staged once, cached hot — workload manager scheduling across both estates, and the clinical report chain kept inside the lab's validated boundary. Cost guards run in the platform: every workload carries its budget, and overrun is a governed exception."
   },
   {
    "t": "arch",
@@ -213,7 +213,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 363,
+ "words": 477,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Healthcare & Life Sciences",

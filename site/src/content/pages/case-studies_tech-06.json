@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Live-service backend on capacity discipline, session infrastructure cost down 31% and launch-day concurrency 3.4x served without incident"
+   "x": "Live-service backend on capacity discipline — session infrastructure cost down 31% and launch-day concurrency 3.4x served without incident"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A gaming company: Product companies feel platform gaps in churn and support cost, both visible in cohort data. The Achala program started with the release pipeline —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a gaming company whose launches were cinematic and whose backends were improvised. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Capacity planning used peak-of-peak folklore; the real session shape, joins, matches, store traffic, lived unmeasured in fleets of similar-but-not-identical services."
+   "x": "Capacity planning used peak-of-peak folklore; the real session shape — joins, matches, store traffic — lived unmeasured in fleets of similar-but-not-identical services."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The rehearsal-gate pattern transfers to any live-service launch; the session shapes were this game's community. Another studio starts from its last outage thread, the diagnostic turns the thread into the first load model."
+   "x": "The rehearsal-gate pattern transfers to any live-service launch; the session shapes were this game's community. Another studio starts from its last outage thread — the diagnostic turns the thread into the first load model."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "Run the two-week diagnostic on your estate first; the numbers decide whether this pattern earns a build on yours."
   }
  ],
- "words": 346,
+ "words": 433,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Technology & SaaS",

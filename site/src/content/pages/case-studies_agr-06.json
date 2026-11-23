@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Farm-to-shelf traceability on a permissioned chain, recall scope down 85% and the retailer audit passed in one walkthrough"
+   "x": "Farm-to-shelf traceability on a permissioned chain — recall scope down 85% and the retailer audit passed in one walkthrough"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A food processing group: Agricultural operations live by the season: one wrong input decision or one cold-chain gap shows up in yield, quality or compliance. The Achala team started where that cost concentrates —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a food processing group whose recall drill assumed the worst and whose traceability couldn't say how bad the worst was. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Traceability data existed at each step, farm lots, processing batches, shipments, but in systems that didn't link. The chain was a filing exercise, not a query."
+   "x": "Traceability data existed at each step — farm lots, processing batches, shipments — but in systems that didn't link. The chain was a filing exercise, not a query."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The anchor-at-source pattern transfers wherever recall scope is contractual; the supplier network was this group's procurement reality and the actual schedule. Replication starts from its last recall file, the diagnostic reads what took 61 hours."
+   "x": "The anchor-at-source pattern transfers wherever recall scope is contractual; the supplier network was this group's procurement reality and the actual schedule. Replication starts from its last recall file — the diagnostic reads what took 61 hours."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "Run the two-week diagnostic on your estate first; the numbers decide whether this pattern earns a build on yours."
   }
  ],
- "words": 383,
+ "words": 477,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Agriculture & Food Systems",

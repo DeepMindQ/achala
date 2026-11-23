@@ -1,15 +1,15 @@
 {
  "id": "PLT-sentinel-ov",
- "title": "Achala Sentinel — Zero-Trust & AI Security Platform",
+ "title": "Achala Sentinel — Overview",
  "url": "/platforms/sentinel/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Sentinel > Overview",
- "seo_title": "Achala Sentinel — Zero-Trust & AI Security Platform | Achala IT Solutions",
- "meta_description": "Achala Sentinel, our Zero-Trust & AI Security Platform, protects people, machines and models with controls you can evidence.",
+ "seo_title": "Achala Sentinel — Overview | Achala IT Solutions",
+ "meta_description": "Security architecture you can evidence — for humans, machines and models.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Security architecture you can prove, not just promise. Achala Sentinel applies zero-trust controls to people, machines and AI models, and generates the evidence your auditors and regulators ask for."
+   "x": "Security architecture you can evidence — for humans, machines and models. Achala Sentinel is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
@@ -17,34 +17,42 @@
   },
   {
    "t": "p",
-   "x": "Achala Sentinel is our Zero-Trust & AI Security Platform. It covers identity, device posture, network segmentation and, the part most vendors skip, the AI models themselves: prompt-injection defense, model access control and output monitoring."
+   "x": "Achala Sentinel unifies our security delivery: zero-trust enforcement points (identity, posture, segmentation, workload identity), detection-as-code with ATT&CK coverage, cloud posture guardrails, and the AI-specific layer — prompt-injection defense, agent containment, shadow-AI discovery and model security cards. Sentinel is engineered for the evidence economy: controls mapped across SOC 2, ISO 27001, NIST 800-207, DORA and AI regimes, tested continuously, exported to auditors. Boards get measured trust reduction, not adjectives."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "What goes live, and in what order"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "Achala Sentinel: the build decomposes into named pieces, each with an owner and a gate,"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Identity and posture",
-     "Every request authenticated, every device checked"
+     "Zero-trust enforcement",
+     "identity, posture, segmentation, workload identity"
     ],
     [
-     "Segmentation",
-     "Workloads talk only along declared paths"
+     "Detection-as-code",
+     "versioned rules with CI testing"
     ],
     [
-     "AI model protection",
-     "Prompt-injection defense, output filtering, model access logs"
+     "Posture guardrails",
+     "policy-as-code with fix-the-pipeline flows"
     ],
     [
-     "Evidence engine",
-     "Control tests run continuously and file their own reports"
+     "AI defense layer",
+     "injection filtering, containment, red-teaming"
+    ],
+    [
+     "Identity plane",
+     "workforce/CIAM/machine lifecycle"
+    ],
+    [
+     "Evidence exports",
+     "multi-framework control mapping"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Security and compliance"
+   "x": "The security posture"
   },
   {
    "t": "p",
-   "x": "The platform is itself the evidence source:"
+   "x": "Sentinel assumes breach and designs for audit: purple-team validation of segmentation, restore-tested backups, AI red-team suites with findings-to-fix tracking. The platform's own controls are SOC 2 Type II audited and ISO 27001 certified."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Continuous control tests",
-     "Findings filed automatically, with timestamps"
+     "Purple-team validated",
+     "segmentation proven in exercises"
     ],
     [
-     "Framework mapping",
-     "Controls mapped to ISO 27001, SOC 2, TISAX and NIS2"
+     "AI red-teaming",
+     "OWASP LLM Top 10 mapped suites"
     ],
     [
-     "Incident drills",
-     "Containment exercises rehearsed and recorded"
+     "Continuous evidence",
+     "auditor-ready on demand"
     ],
     [
-     "Access reviews",
-     "Recertification cycles with named owners"
+     "AI asset registry",
+     "shadow-AI discovery included"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "In delivery, sector by sector"
   },
   {
    "t": "p",
-   "x": "Achala Sentinel runs in banking, insurance, healthcare, automotive and public sector estates, including TISAX-audited automotive supply chains and HIPAA-regulated healthcare data flows."
+   "x": "Achala Sentinel runs under NDA in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government, Technology & SaaS. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "The technology choices, justified"
   },
   {
    "t": "p",
-   "x": "Integrates with your identity provider, SIEM and cloud estates. Model protection attaches to your AI serving layer without changing application code."
+   "x": "Connects to: SIEM/XDR, SPIFFE/SPIRE, OPA, IdPs/IGA, CNAPP tooling. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Sentinel is privacy-preserving federated learning over a Byzantine-consensus trust fabric. Gradients synchronize over a DAG asynchronously, so latency falls compared with linear sync rounds — and nothing aggregates before a validation unit clears it against accuracy thresholds. Zero-knowledge homomorphic neural encryption keeps each party's data unexposed even during joint computation. Fault monitoring isolates misbehaving nodes and reallocates their tasks without stopping the fleet."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "DAG-based asynchronous gradient sync",
+     "Latency drops versus linear synchronization rounds."
+    ],
+    [
+     "Zero-knowledge homomorphic neural encryption",
+     "Joint computation happens without exposing any party's raw records — including ours."
+    ],
+    [
+     "Validation before aggregation",
+     "Accuracy thresholds gate every update; a poisoned gradient never reaches the model."
+    ],
+    [
+     "Byzantine-consensus trust fabric",
+     "Cross-party workflows survive untrusted participants by design."
+    ],
+    [
+     "Fault monitoring with node isolation",
+     "Bad nodes are cut out and their tasks reallocated, mid-flight."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: joint intelligence across borders and business units with zero-exposure defaults, evidence freshness your auditor accepts (97.4% in the reference program), and 41/41 controls kept live."
   },
   {
    "t": "cta",
-   "x": "Bring one threat model to a briefing. We will show the controls, the tests and the evidence pack it maps to."
+   "x": "The next step is small and real: one working session on Achala Sentinel, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 549,
+ "words": 533,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Sentinel",
@@ -211,7 +260,7 @@
  ],
  "related": [
   {
-   "title": "Achala Sentinel — Zero-Trust & AI Security Platform",
+   "title": "Achala Sentinel — Overview",
    "url": "/platforms/sentinel/",
    "desc": "Zero-Trust & AI Security Platform"
   },
@@ -223,7 +272,27 @@
   {
    "title": "Achala Sentinel — Industry Use Cases",
    "url": "/platforms/sentinel/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A tier-1 US bank",
+   "url": "/case-studies/bank-03/",
+   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
+  },
+  {
+   "title": "A European TSO-DSO group",
+   "url": "/case-studies/en-01/",
+   "desc": "Forecast error down 31% — imbalance cost recovered across three control zones"
+  },
+  {
+   "title": "A national tax administration",
+   "url": "/case-studies/pub-02/",
+   "desc": "Fraud and error capture up 26% — cross-source analytics with investigator case packs"
+  },
+  {
+   "title": "A metropolitan city government",
+   "url": "/case-studies/pub-03/",
+   "desc": "Fault-to-fix down 63% and street-light energy down 22% — urban asset platform"
   }
  ],
  "cards": []

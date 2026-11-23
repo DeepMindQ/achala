@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Peak-ready fulfillment platform, throughput up 26% through peak and infrastructure cost per order down 21%"
+   "x": "Peak-ready fulfillment platform — throughput up 26% through peak and infrastructure cost per order down 21%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "An e-commerce fulfillment group: Logistics operations lose money in the gaps: idle fleets, dwell time and manual re-planning. The Achala program started with the route economics —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a fulfillment group whose year was four weeks long and whose platform met those four weeks on hope and autoscaling bills. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The rehearsal-standard pattern transfers to any peak-driven platform; the load shapes were this group's order book. Another operation starts from its last post-mortem, the diagnostic turns it into the capacity model's first constraints."
+   "x": "The rehearsal-standard pattern transfers to any peak-driven platform; the load shapes were this group's order book. Another operation starts from its last post-mortem — the diagnostic turns it into the capacity model's first constraints."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 373,
+ "words": 471,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Logistics & Supply Chain",

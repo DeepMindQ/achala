@@ -30,8 +30,6 @@ export type CaseCard = {
   region?: string;
 };
 
-const NDAA_CHIP = "Identity withheld · Baseline audited · Method under NDA";
-
 function useCaseIndex(cards: CaseCard[]) {
   return useMemo(() => {
     const byInd = new Map<string, { url: string; cases: CaseCard[] }>();
@@ -59,9 +57,6 @@ export function CaseHubView({ page }: { page: PageData }) {
   const [fSvc, setFSvc] = useState<string | null>(null);
 
   const heroX = page.blocks.find((b) => b.t === "hero")?.x ?? "";
-  const readingH2 = page.blocks.find((b) => b.t === "h2")?.x;
-  const readingP = page.blocks.find((b) => b.t === "p")?.x;
-  const noteX = page.blocks.find((b) => b.t === "note")?.x;
   const ctaX = page.blocks.find((b) => b.t === "cta")?.x;
 
   const filtered = cards.filter(
@@ -87,14 +82,14 @@ export function CaseHubView({ page }: { page: PageData }) {
           <Breadcrumbs crumbs={page.crumbs} dark />
           <div className="measure mt-6 max-w-4xl">
             <p className="kicker-bar-dark text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-300">
-              Evidence library
+              Client results
             </p>
             <h1 className="text-display-2 mt-2 text-white">Case studies</h1>
             {heroX && <p className="mt-4 text-[15px] leading-relaxed text-white/70">{heroX}</p>}
           </div>
           <div className="mt-6 flex flex-wrap items-center gap-2.5">
             <span className="rounded-full border border-brand/40 bg-brand/15 px-3.5 py-1.5 text-[12px] font-semibold text-brand-300">
-              {cards.length} case studies
+              {cards.length} engagements published
             </span>
             <span className="rounded-full border border-white/15 bg-white/[0.06] px-3.5 py-1.5 text-[12px] text-white/70">
               {industries.length} industries
@@ -103,7 +98,7 @@ export function CaseHubView({ page }: { page: PageData }) {
               {services.length} service areas
             </span>
             <span className="inline-flex items-center gap-1.5 rounded-full border border-white/15 bg-white/[0.06] px-3.5 py-1.5 text-[12px] text-white/70">
-              <ShieldCheck className="h-3.5 w-3.5 text-brand-300" aria-hidden="true" /> {NDAA_CHIP}
+              <ShieldCheck className="h-3.5 w-3.5 text-brand-300" aria-hidden="true" /> Measured against signed baselines
             </span>
           </div>
           <div className="mt-7 flex flex-wrap gap-3">
@@ -112,41 +107,17 @@ export function CaseHubView({ page }: { page: PageData }) {
               onClick={() => scrollToIndex(null, null)}
               className="btn-sheen inline-flex items-center gap-2 rounded-[10px] bg-brand px-5 py-2.5 text-[13px] font-semibold text-white transition hover:bg-brand-hover"
             >
-              Browse the full index <ArrowDownIcon />
+              Explore the results <ArrowDownIcon />
             </button>
             <Link
               href="/book-a-briefing/"
               className="inline-flex items-center rounded-[10px] border border-white/25 px-5 py-2.5 text-[13px] font-medium text-white/85 transition hover:border-brand-300 hover:text-brand-300"
             >
-              Book an Executive Briefing
+              Book a 45-minute briefing
             </Link>
           </div>
         </div>
       </section>
-
-      {/* reading a case */}
-      {(readingH2 || noteX) && (
-        <section className="border-b border-line bg-white">
-          <div className="container-dq py-10">
-            <div className="grid gap-6 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)]">
-              <div>
-                {readingH2 && (
-                  <h2 className="font-display text-[20px] font-semibold text-navy-800 sm:text-[22px]">
-                    {readingH2}
-                  </h2>
-                )}
-                {readingP && <p className="measure mt-3 text-[14.5px] leading-[1.75] text-slate-body">{readingP}</p>}
-              </div>
-              {noteX && (
-                <p className="flex items-start gap-2.5 self-start rounded-xl border border-brand/30 bg-brand-tint px-4 py-3.5 text-[12.5px] leading-relaxed text-slate-body/90">
-                  <ShieldCheck className="mt-0.5 h-4 w-4 shrink-0 text-brand-deep" aria-hidden="true" />
-                  {noteX}
-                </p>
-              )}
-            </div>
-          </div>
-        </section>
-      )}
 
       {/* ── browse by industry ─────────────────────────────────────────── */}
       <section id="by-industry" className="scroll-mt-28 border-b border-line bg-mist/60 dot-grid-light">
@@ -155,15 +126,15 @@ export function CaseHubView({ page }: { page: PageData }) {
             <div className="flex flex-wrap items-end justify-between gap-4">
               <div>
                 <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-                  Index one — by industry
+                  By industry
                 </p>
                 <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[26px]">
-                  Find the cases that operate under your rules
+                  Start with the sector you run
                 </h2>
               </div>
               <p className="max-w-md text-[13px] text-slate-body/70">
-                Twelve industry groups — {industries.map((i) => `${i.name} (${i.count})`).slice(0, 4).join(", ")} and
-                more — each case written for the sector&rsquo;s regulatory and operational reality.
+                Engagement notes from every sector we serve — each written for the rules, pressures and systems of
+                record of that industry.
               </p>
             </div>
           </Reveal>
@@ -216,10 +187,10 @@ export function CaseHubView({ page }: { page: PageData }) {
         <div className="container-dq section-y-sm">
           <Reveal>
             <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-              Index two — by service area
+              By service area
             </p>
             <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[26px]">
-              Or start from the capability that did the work
+              Or start with the capability
             </h2>
           </Reveal>
           <div className="mt-8 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
@@ -251,10 +222,10 @@ export function CaseHubView({ page }: { page: PageData }) {
         <div className="container-dq section-y-sm">
           <Reveal>
             <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-              Full index
+              All client builds
             </p>
             <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[26px]">
-              Every engagement, filterable both ways
+              Every engagement, one filter away
             </h2>
           </Reveal>
 
@@ -379,7 +350,7 @@ export function CaseHubView({ page }: { page: PageData }) {
 
       {/* closing CTA */}
       <section className="container-dq pb-16 pt-12">
-        <CtaBand message={ctaX ?? "Book an executive briefing — bring the metric, leave with the method."} />
+        <CtaBand message={ctaX ?? "Book a briefing — bring the metric you need to move, and we will walk the closest engagement end to end."} />
       </section>
     </>
   );
@@ -432,7 +403,7 @@ export function CaseStudyView({
           <Breadcrumbs crumbs={page.crumbs} dark />
           <div className="mt-6 max-w-4xl">
             <p className="kicker-bar-dark text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-300">
-              Case study — anonymized
+              Case study
             </p>
             <h1 className="text-display-2 mt-2 text-white">{page.title}</h1>
             {heroX && <p className="mt-4 max-w-3xl text-[16px] leading-relaxed text-white/80">{heroX}</p>}
@@ -460,9 +431,6 @@ export function CaseStudyView({
                 {factRows.find(([k]) => k === "Region")![1]}
               </span>
             )}
-            <span className="inline-flex items-center gap-1.5 rounded-full border border-brand/40 bg-brand/15 px-3.5 py-1.5 text-[12px] font-semibold text-brand-300">
-              <ShieldCheck className="h-3.5 w-3.5" aria-hidden="true" /> {NDAA_CHIP}
-            </span>
           </div>
         </div>
       </section>
@@ -530,9 +498,9 @@ export function CaseStudyView({
                 className="group flex items-start justify-between gap-3 rounded-2xl border border-line bg-mist/50 p-4 transition hover:border-brand/60 hover:bg-white"
               >
                 <span>
-                  <span className="block text-[12px] font-semibold text-brand-deep">Evidence library</span>
+                  <span className="block text-[12px] font-semibold text-brand-deep">All case studies</span>
                   <span className="mt-0.5 block text-[13px] font-medium text-navy-800 group-hover:text-brand-deep">
-                    All case studies, indexed by industry &amp; service area
+                    The full results library, filterable by industry and capability
                   </span>
                 </span>
                 <ArrowUpRight className="mt-1 h-4 w-4 shrink-0 text-brand-deep transition group-hover:translate-x-0.5" aria-hidden="true" />
@@ -558,7 +526,7 @@ export function CaseStudyView({
                 onClick={() => document.getElementById("case-index")?.scrollIntoView({ behavior: "smooth" })}
                 className="hidden text-[12.5px] font-semibold text-brand-deep hover:underline lg:inline-flex lg:items-center lg:gap-1.5"
               >
-                Browse the full index <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
+                All {cards.length + 1} engagements <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
               </button>
             </div>
             <div className="mt-5 grid gap-3 md:grid-cols-3">

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Fault-to-fix down 63% and street-light energy down 22%, urban asset platform"
+   "x": "Fault-to-fix down 63% and street-light energy down 22% — urban asset platform"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A metropolitan city government: Public services feel technology gaps at the counter, where waiting times are political. The Achala program started with the citizen journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A metropolitan city government — a Public Sector & Government engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "The urban telemetry fabric brought multi-vendor assets into governed streams with privacy-by-design tags; condition-based maintenance orchestration schedules work citywide; and the urban OT security program (segmentation, monitoring) protected public systems, governance evidence accepted by the data-protection authority."
+   "x": "The urban telemetry fabric brought multi-vendor assets into governed streams with privacy-by-design tags; condition-based maintenance orchestration schedules work citywide; and the urban OT security program (segmentation, monitoring) protected public systems — governance evidence accepted by the data-protection authority."
   },
   {
    "t": "arch",
@@ -209,7 +209,7 @@
     ],
     [
      "Cyber & Zero-Trust",
-     "the controls were architectural, identity-first, segmented, instrumented, not bolted on after the fact."
+     "the controls were architectural — identity-first, segmented, instrumented — not bolted on after the fact."
     ]
    ]
   },
@@ -246,10 +246,10 @@
   },
   {
    "t": "cta",
-   "x": "one working session on the same diagnostic, your data, and a written feasibility read you can circulate."
+   "x": "The next step is small and real: one working session on the same diagnostic, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 361,
+ "words": 310,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Public Sector & Government",

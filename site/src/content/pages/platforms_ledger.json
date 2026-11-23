@@ -1,15 +1,15 @@
 {
  "id": "PLT-ledger-ov",
- "title": "Achala Ledger — Distributed Trust & Tokenization Platform",
+ "title": "Achala Ledger — Overview",
  "url": "/platforms/ledger/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Ledger > Overview",
- "seo_title": "Achala Ledger — Distributed Trust & Tokenization Platform | Achala IT Solutions",
- "meta_description": "Achala Ledger, our Distributed Trust & Tokenization Platform, runs permissioned networks for shared records and tokenized assets.",
+ "seo_title": "Achala Ledger — Overview | Achala IT Solutions",
+ "meta_description": "Shared truth with regulatory teeth — permissioned networks that survive supervision.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Shared records that survive an audit. Achala Ledger runs permissioned distributed networks where multiple organizations read the same truth, and tokenization when real assets need digital form."
+   "x": "Shared truth with regulatory teeth — permissioned networks that survive supervision. Achala Ledger is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
@@ -17,34 +17,42 @@
   },
   {
    "t": "p",
-   "x": "Achala Ledger is our Distributed Trust & Tokenization Platform. It gives consortia and trading partners a shared record with consensus-gated writes: every participant sees the same history, and no one can change it alone."
+   "x": "Achala Ledger is the institution-grade DLT platform: permissioned network engineering (Fabric/Besu-class) with governance charters and legal wrappers, tokenization with securities-law discipline, smart contracts built to formal-verification standards, provenance networks for EUDR/DPP-grade traceability, and verifiable-credential ecosystems against eIDAS 2.0 expectations. Ledger leads with governance because networks fail on governance, not cryptography: membership rules, data-visibility zones, key custody under HSM, and regulator packs — privacy model, audit exports, jurisdiction analysis — shipped with every network."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "The working system, described"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "For Achala Ledger, named modules with a gate at each boundary:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Permissioned network",
-     "Membership, roles and consensus rules set by the consortium"
+     "Network engineering",
+     "permissioned DLT with bank-grade operations"
     ],
     [
-     "Consensus gates",
-     "Writes committed only when the network's rules are satisfied"
+     "Governance charter",
+     "membership, visibility zones, legal wrapper"
     ],
     [
-     "Tokenization engine",
-     "Assets represented digitally with issuance and transfer controls"
+     "Tokenization stack",
+     "compliance-aware issuance and transfer controls"
     ],
     [
-     "Inspection exports",
-     "Regulator-ready views of any record's full history"
+     "Contract factory",
+     "specification-first, verified, audited contracts"
+    ],
+    [
+     "Provenance service",
+     "custody anchoring with role-based verification"
+    ],
+    [
+     "Credential ecosystem",
+     "W3C VC/DID with trust frameworks"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Security and compliance"
+   "x": "The security posture"
   },
   {
    "t": "p",
-   "x": "Distributed records are only useful if they are defensible:"
+   "x": "Ledger networks ship key management under HSM custody, timelocked upgrade governance, and immutable audit exports. Smart contracts carry specification, verification and independent audit before value moves; pause procedures are rehearsed, not improvised."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Consensus parity checks",
-     "All nodes agree, and the platform proves it"
+     "HSM custody",
+     "keys never in software alone"
     ],
     [
-     "Audit chain",
-     "Every write linked to its authorization"
+     "Formal verification",
+     "core invariants specified and checked"
     ],
     [
-     "GDPR-aligned data handling",
-     "Personal data kept off-chain by design"
+     "Regulator pack",
+     "privacy model, audit exports, jurisdiction analysis"
     ],
     [
-     "Key ceremonies",
-     "Network keys managed with documented procedures"
+     "eIDAS 2.0 alignment",
+     "EUDI-wallet-compatible credentials"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "The deployment footprint"
   },
   {
    "t": "p",
-   "x": "Achala Ledger runs in trade finance, supply-chain provenance, healthcare record sharing and asset registry programs, wherever multiple organizations need one version of the truth."
+   "x": "Achala Ledger runs under NDA in Banking & Financial Services, Agriculture & Food Systems, Logistics & Supply Chain, Energy & Utilities, Public Sector & Government. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "The stack, chosen for operability"
   },
   {
    "t": "p",
-   "x": "Built on permissioned ledger frameworks with adapters to ERP, core banking and hospital systems. Token standards follow your jurisdiction's requirements."
+   "x": "Connects to: Hyperledger Fabric/Besu, HSM fleets, W3C VC/DID, static/formal verification tools. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Ledger anchors shared truth. Immutable audit chains record every decision and mutation; zk-validated execution lets a counterparty verify a computation without seeing its inputs; consensus-gated releases mean nothing ships until the validator network signs. Blockchain-integrated recovery and self-healing clusters keep the chain itself resilient, and verifiable credentials turn \"trusted partner\" from a slide into a cryptographic property."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Immutable audit chains",
+     "Every decision and mutation lands once, in order, forever."
+    ],
+    [
+     "zk-validated execution",
+     "Counterparties verify results without seeing each other's inputs."
+    ],
+    [
+     "Consensus-gated releases",
+     "Deploys ship when the validator network signs — not before."
+    ],
+    [
+     "Verifiable credentials",
+     "412k credentials issued at reference scale; trust becomes checkable."
+    ],
+    [
+     "Self-healing clusters",
+     "Recovery is blockchain-integrated, so continuity is provable."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: zero reconciliation deltas between parties, an audit chain regulators can walk alone, and recovery you can evidence rather than assert."
   },
   {
    "t": "cta",
-   "x": "Bring one shared-record problem to a briefing. We will show the network, the consensus rules and the inspection views it would run with."
+   "x": "A value assessment prices the delta in your estate before anything is signed: Achala Ledger, measured against your baseline, in two weeks."
   }
  ],
- "words": 557,
+ "words": 518,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Ledger",
@@ -211,7 +260,7 @@
  ],
  "related": [
   {
-   "title": "Achala Ledger — Distributed Trust & Tokenization Platform",
+   "title": "Achala Ledger — Overview",
    "url": "/platforms/ledger/",
    "desc": "Distributed Trust & Tokenization Platform"
   },
@@ -223,7 +272,27 @@
   {
    "title": "Achala Ledger — Industry Use Cases",
    "url": "/platforms/ledger/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A European specialty reinsurer",
+   "url": "/case-studies/ins-03/",
+   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+  },
+  {
+   "title": "A global fashion group",
+   "url": "/case-studies/ret-02/",
+   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
+  },
+  {
+   "title": "A global coffee trader",
+   "url": "/case-studies/agr-02/",
+   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened"
+  },
+  {
+   "title": "A food processor (dairy)",
+   "url": "/case-studies/agr-03/",
+   "desc": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program"
   }
  ],
  "cards": []

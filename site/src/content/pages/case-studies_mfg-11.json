@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Post-quantum readiness for connected machines, 100% crypto inventory across the connected fleet and a signed migration sequence for firmware and cloud"
+   "x": "Post-quantum readiness for connected machines — 100% crypto inventory across the connected fleet and a signed migration sequence for firmware and cloud"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A heavy-equipment manufacturer: Plants feel data gaps in scrap rates and unplanned downtime, both traceable to decisions made hours earlier. The Achala program started at the line —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a heavy-equipment manufacturer whose machines phone home for diagnostics and whose connected fleet would outlive every cryptographic assumption shipped with it. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "The inventory-as-code method and generation-ordered sequencing travel across connected-product businesses; the bridge-certificate design was this fleet's hardware reality. Machines already sold set the clock, the diagnostic measures it before promising dates."
+   "x": "The inventory-as-code method and generation-ordered sequencing travel across connected-product businesses; the bridge-certificate design was this fleet's hardware reality. Machines already sold set the clock — the diagnostic measures it before promising dates."
   },
   {
    "t": "table",
@@ -212,7 +212,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 374,
+ "words": 473,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Manufacturing & Industrial",

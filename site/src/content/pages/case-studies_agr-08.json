@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Greenhouse climate twin with edge control, energy per kilo down 17% and yield up 6% without a single crop experiment wasted"
+   "x": "Greenhouse climate twin with edge control — energy per kilo down 17% and yield up 6% without a single crop experiment wasted"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A controlled-environment agriculture operator: Agricultural operations live by the season: one wrong input decision or one cold-chain gap shows up in yield, quality or compliance. The Achala team started where that cost concentrates —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a CEA operator whose greenhouses were climate-controlled by rules written for a different decade of energy prices. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter priced the rules: energy per kilo of produce 23% above the operator's own best-performing house, climate setpoints identical across houses facing different weather and crops, and every improvement attempt requiring a crop cycle to verify, six weeks per experiment."
+   "x": "The baseline quarter priced the rules: energy per kilo of produce 23% above the operator's own best-performing house, climate setpoints identical across houses facing different weather and crops, and every improvement attempt requiring a crop cycle to verify — six weeks per experiment."
   },
   {
    "t": "p",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The simulate-don't-grow pattern transfers across CEA; the thermal models were these houses' physics. Another operator starts from its best house, the diagnostic finds why it wins before scaling it."
+   "x": "The simulate-don't-grow pattern transfers across CEA; the thermal models were these houses' physics. Another operator starts from its best house — the diagnostic finds why it wins before scaling it."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 379,
+ "words": 466,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Agriculture & Food Systems",

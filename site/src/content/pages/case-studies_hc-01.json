@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Clinicians get 90 minutes a day back, ambient documentation inside the EHR"
+   "x": "Clinicians get 90 minutes a day back — ambient documentation inside the EHR"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A 12-hospital US health system: Hospitals feel technology gaps in patient waiting times and staff overtime, both visible within a quarter. The Achala program started with the patient journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A 12-hospital US health system — a Healthcare & Life Sciences engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We deployed ambient documentation integrated into the EHR with clinician sign-off, grounded on specialty-specific note templates and governed by the clinical AI board on Compass (model cards, evaluations, oversight gates). A parallel security program segmented medical devices and rehearsed clinical-continuity recovery, including a manual-fallback drill per department."
+   "x": "We deployed ambient documentation integrated into the EHR with clinician sign-off, grounded on specialty-specific note templates and governed by the clinical AI board on Compass (model cards, evaluations, oversight gates). A parallel security program segmented medical devices and rehearsed clinical-continuity recovery — including a manual-fallback drill per department."
   },
   {
    "t": "arch",
@@ -219,7 +219,7 @@
    "items": [
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
     ],
     [
      "Data & Lakehouse",
@@ -227,7 +227,7 @@
     ],
     [
      "Cyber & Zero-Trust",
-     "the controls were architectural, identity-first, segmented, instrumented, not bolted on after the fact."
+     "the controls were architectural — identity-first, segmented, instrumented — not bolted on after the fact."
     ]
    ]
   },
@@ -264,10 +264,10 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the same diagnostic in production. The briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the same diagnostic in production — the briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 413,
+ "words": 354,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Healthcare & Life Sciences",

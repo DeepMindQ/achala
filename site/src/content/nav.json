@@ -877,23 +877,23 @@
       "url": "/case-studies/",
       "children": [
        {
-        "label": "All case studies (116 engagements)",
+        "label": "The results library",
         "url": "/case-studies/"
        },
        {
-        "label": "Index one — browse by industry",
+        "label": "Browse by industry",
         "url": "/case-studies/#by-industry"
        },
        {
-        "label": "Index two — browse by service area",
+        "label": "Browse by service area",
         "url": "/case-studies/#by-service"
        },
        {
-        "label": "Banking fraud decisioning (top-10 EU bank)",
+        "label": "Banking fraud decisioning — EU bank",
         "url": "/case-studies/bank-01/"
        },
        {
-        "label": "Retail demand & waste (top-3 grocer)",
+        "label": "Retail demand & waste — grocery chain",
         "url": "/case-studies/ret-01/"
        },
        {

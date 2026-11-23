@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Computer-vision drive-thru intelligence, service time down 14 seconds and order accuracy up 6 points at peak"
+   "x": "Computer-vision drive-thru intelligence — service time down 14 seconds and order accuracy up 6 points at peak"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A quick-service restaurant group: Retail chains feel decision gaps in margin per store, visible in the weekly numbers. The Achala program started with the pricing and availability flow —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a QSR group whose drive-thru peaked at the exact minutes its labor schedule never matched. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the drive-thru twin: lane cameras timing each stage with consent-clear analytics, service stages decomposed, order, pay, handoff, so the slow stage is a fact not a feeling, forecast models joining menu mix, weather and staffing to stage times, and the crew schedule adapting per site to its own shape. The timer finally told the truth and got to act on it."
+   "x": "We built the drive-thru twin: lane cameras timing each stage with consent-clear analytics, service stages decomposed — order, pay, handoff — so the slow stage is a fact not a feeling, forecast models joining menu mix, weather and staffing to stage times, and the crew schedule adapting per site to its own shape. The timer finally told the truth and got to act on it."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The stage-attribution pattern transfers across formats; the consent architecture was this group's works-council reality. Replication starts from the timer data it already has, the diagnostic joins it to everything it's been ignoring."
+   "x": "The stage-attribution pattern transfers across formats; the consent architecture was this group's works-council reality. Replication starts from the timer data it already has — the diagnostic joins it to everything it's been ignoring."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "Bring your own baseline. The two-week diagnostic is how this engagement started, and it is how we find out whether your estate can carry the same delta."
   }
  ],
- "words": 372,
+ "words": 470,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Retail & Consumer Goods",

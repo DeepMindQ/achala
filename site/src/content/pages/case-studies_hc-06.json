@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Trial patient-matching grounded in protocol criteria, screen-fail rate down 28% and enrollment timelines met on three of three studies"
+   "x": "Trial patient-matching grounded in protocol criteria — screen-fail rate down 28% and enrollment timelines met on three of three studies"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A clinical research organization: Hospitals feel technology gaps in patient waiting times and staff overtime, both visible within a quarter. The Achala program started with the patient journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a global CRO whose enrollment engine was coordinator memory: the right patients existed in referring networks, but nobody could search them against a protocol's fine print. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built matching on retrieval: protocol eligibility criteria parsed into a machine-checkable form with the coordinator reviewing each interpretation, candidate records normalized across referring EHRs, and match rankings produced with every criterion hit cited to its source. Coordinators approve with evidence attached; the study dashboard shows exactly which criterion loses candidates."
+   "x": "We built matching on the retrieval layer: protocol eligibility criteria parsed into a machine-checkable form with the coordinator reviewing each interpretation, candidate records normalized across referring EHRs, and match rankings produced with every criterion hit cited to its source. Coordinators approve with evidence attached; the study dashboard shows exactly which criterion loses candidates."
   },
   {
    "t": "arch",
@@ -209,10 +209,10 @@
   },
   {
    "t": "cta",
-   "x": "The method on this page is documented because it worked twice, here and on the next estate. Book a briefing and bring the metric you need to move."
+   "x": "The method on this page is documented because it worked twice — here and on the next estate. Book a briefing and bring the metric you need to move."
   }
  ],
- "words": 343,
+ "words": 444,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Healthcare & Life Sciences",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Prior-authorization on governed agents, 61% of requests auto-adjudicated within policy and clinician review time down 57%"
+   "x": "Prior-authorization on governed agents — 61% of requests auto-adjudicated within policy and clinician review time down 57%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A pharmacy benefits manager: Hospitals feel technology gaps in patient waiting times and staff overtime, both visible within a quarter. The Achala program started with the patient journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a PBM whose prior-authorization desk had become the industry's favorite complaint: clinicians waited days for decisions their patients' pharmacists needed in hours. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We moved prior-auth onto governed agents: requests parsed against the signed policy criteria, chart evidence retrieved and cited per criterion, and the decision path split, policy-satisfied requests auto-adjudicated with the full evidence trail, everything else queued for clinicians with the reading already done. The appeals loop learns back into the criteria library."
+   "x": "We moved prior-auth onto governed agents: requests parsed against the signed policy criteria, chart evidence retrieved and cited per criterion, and the decision path split — policy-satisfied requests auto-adjudicated with the full evidence trail, everything else queued for clinicians with the reading already done. The appeals loop learns back into the criteria library."
   },
   {
    "t": "arch",
@@ -213,7 +213,7 @@
    "x": "Bring your own baseline. The two-week diagnostic is how this engagement started, and it is how we find out whether your estate can carry the same delta."
   }
  ],
- "words": 351,
+ "words": 450,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Healthcare & Life Sciences",

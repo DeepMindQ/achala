@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "KYC refresh backlog cleared, 70% faster cycles with agentic file assembly"
+   "x": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A multinational corporate bank: Banking margins live between risk and speed: approve too slowly and the customer leaves, approve too fast and the losses follow. The Achala program started where that tension is sharpest —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A multinational corporate bank — a Banking & Financial Services engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "KYC Management System agents now assemble each review file, registries, screening, financials, relationship notes, under a defined policy limit that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is written as the work happens, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
+   "x": "Achala Swarm agents now assemble each review file — registries, screening, financials, relationship notes — under a policy envelope that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is written as the work happens, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
   },
   {
    "t": "arch",
@@ -213,7 +213,7 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
+     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",
@@ -227,7 +227,7 @@
   },
   {
    "t": "p",
-   "x": "Banking margins live between risk and speed: approve too slowly and the customer leaves, approve too fast and the losses follow. The Achala program started where that tension is sharpest — the baseline signed in week two made the cost visible in units the finance team already owns. The engagement ran under the standard Achala charter: a named metric, a named control owner and gates that evidence every move."
+   "x": "If the multinational corporate bank program reads like your own estate, the honest advice is: start with the baseline diagnostic, not with the build. The differences that matter only show up in measurement The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -254,10 +254,10 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the same diagnostic in production. The briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the same diagnostic in production — the briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 432,
+ "words": 342,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Banking & Financial Services",

@@ -5,19 +5,23 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Quantum & Advanced Compute",
  "seo_title": "Insights: Quantum & Advanced Compute | Insights | Achala IT Solutions",
- "meta_description": "Quantum & Advanced Compute — viewpoints from the Achala delivery floor.",
+ "meta_description": "Achala IT Solutions perspectives on Quantum & Advanced Compute: engineering notes, market views and delivery lessons.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
+   "x": "Quantum & Advanced Compute — solver tournaments, PQC deadlines, and throughput honesty."
+  },
+  {
+   "t": "p",
+   "x": "Hype is not a compute strategy. Solver tournaments beat vendor benchmarks; harvest-now-decrypt-later makes post-quantum cryptography a 2026 procurement question; HPC throughput is a software story before it is a hardware story."
+  },
+  {
+   "t": "p",
+   "x": "Every claim here survived a benchmark you can rerun."
   },
   {
    "t": "h2",
-   "x": "What this category publishes"
-  },
-  {
-   "t": "h2",
-   "x": "Latest articles"
+   "x": "The positions we hold"
   },
   {
    "t": "bullets",
@@ -28,45 +32,16 @@
     ],
     [
      "Solver tournaments beat quantum hype",
-     "The full argument is in the article, with the vendor questions to bring to your next evaluation meeting."
-    ],
-    [
-     "HPC throughput is a software story before a hardware story",
-     "The full argument is in the article, with the vendor questions to bring to your next evaluation meeting."
+     "Benchmark classical, quantum-inspired and hybrid solvers on your problem — and publish the verdict either way."
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Cadence"
-  },
-  {
-   "t": "h2",
-   "x": "Key questions this category answers"
-  },
-  {
-   "t": "bullets",
-   "items": [
-    [
-     "Is this real in production?",
-     "The references here run in production today, the pages name the shape of the deployment and what it took."
-    ],
-    [
-     "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
-    ]
-   ]
-  },
-  {
-   "t": "h2",
-   "x": "Where to go deeper"
   },
   {
    "t": "cta",
-   "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
+   "x": "Bring the workload you wonder about — leave with a tournament result, not a brochure."
   }
  ],
- "words": 200,
+ "words": 118,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Quantum & Advanced Compute",
@@ -100,7 +75,7 @@
    "title": "Solver tournaments beat quantum hype",
    "url": "/insights/insight-17/",
    "tag": "Quantum & Advanced Compute",
-   "desc": "Benchmark classical, quantum-inspired and hybrid solvers on your problem, and publish the verdict either way."
+   "desc": "Benchmark classical, quantum-inspired and hybrid solvers on your problem — and publish the verdict either way."
   },
   {
    "title": "HPC throughput is a software story before a hardware story",

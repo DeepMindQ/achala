@@ -1,15 +1,15 @@
 {
  "id": "PLT-compass-ov",
- "title": "Achala Compass — Responsible AI & Governance Suite",
+ "title": "Achala Compass — Overview",
  "url": "/platforms/compass/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Compass > Overview",
- "seo_title": "Achala Compass — Responsible AI & Governance Suite | Achala IT Solutions",
- "meta_description": "Achala Compass, our Responsible AI & Governance Suite, gives model-risk and compliance teams validation, monitoring and audit evidence for AI systems.",
+ "seo_title": "Achala Compass — Overview | Achala IT Solutions",
+ "meta_description": "AI your model-risk committee approves and your regulator can inspect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "AI your model-risk committee approves and your regulator can inspect. Achala Compass is the governance suite for the rest of the platform suite, validation, monitoring and evidence in one place."
+   "x": "AI your model-risk committee approves and your regulator can inspect. Achala Compass is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
@@ -17,34 +17,42 @@
   },
   {
    "t": "p",
-   "x": "Achala Compass is our Responsible AI & Governance Suite. It inventories your models, runs validation and fairness testing, monitors drift and performance in production, and files the documentation each review asks for. Governance stops being a slide and becomes a system."
+   "x": "Achala Compass operationalizes AI governance: the policy layer (NIST AI RMF, ISO 42001, EU AI Act mapping), model registry with technical documentation, evaluation suites with red-team suites, guardrail configuration, incident response for AI events, and the evidence pack that turns conformity assessment into a formality. Compass is where AI programs stop being risky: every model carries its model card, its evaluation results, its guardrail configuration and its control owner. High-risk use cases (credit scoring, employment, medical) get the documentation, human-oversight and post-market monitoring the EU AI Act actually requires — built in, not bolted on."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "What goes live, and in what order"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "What ships, in the order it ships — Achala Compass edition:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Model inventory",
-     "Every model, version, owner and intended use, in one register"
+     "Policy layer",
+     "regime mapping to controls and owners"
     ],
     [
-     "Validation workflows",
-     "Fairness, robustness and performance tests with sign-offs"
+     "Model registry",
+     "cards, lineage, versions, documentation"
     ],
     [
-     "Production monitoring",
-     "Drift, bias and performance tracked against thresholds"
+     "Evaluation suite",
+     "golden datasets, judge panels, red teams"
     ],
     [
-     "Evidence packs",
-     "Review documentation generated from the register, not rebuilt each time"
+     "Guardrail configuration",
+     "PII, injection, topic fences as code"
+    ],
+    [
+     "Incident response",
+     "AI-specific playbooks and disclosure flows"
+    ],
+    [
+     "Evidence pack",
+     "conformity-grade documentation generated"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Security and compliance"
+   "x": "Built for the auditors too"
   },
   {
    "t": "p",
-   "x": "Built for review by the strictest reviewer:"
+   "x": "Compass treats governance as system behavior: policies versioned, evaluations gated in CI, incidents tracked to closure with owners. The output is an AI estate your CISO defends to the board and your regulator inspects without expeditions."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Framework mapping",
-     "EU AI Act readiness, model-risk guidelines, ISO/IEC 42001 alignment"
+     "EU AI Act evidence",
+     "high-risk documentation generated"
     ],
     [
-     "Protected-attribute testing",
-     "Fairness metrics computed and archived per release"
+     "Continuous evaluation",
+     "regression gates in CI/CD"
     ],
     [
-     "Approval trails",
-     "Sign-offs recorded with reviewer, scope and date"
+     "Control ownership",
+     "named owner per model"
     ],
     [
-     "Incident linkage",
-     "Production issues traced back to model versions"
+     "Shadow-AI discovery",
+     "unsanctioned use surfaced and routed"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "Where it runs today"
   },
   {
    "t": "p",
-   "x": "Achala Compass runs in banking model-risk functions, insurance actuarial review, healthcare AI governance and public-sector AI programs."
+   "x": "Achala Compass runs under NDA in Banking & Financial Services, Healthcare & Life Sciences, Insurance & Risk, Public Sector & Government, Technology & SaaS. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "Standards and components"
   },
   {
    "t": "p",
-   "x": "Reads from your ML platforms and registries through standard interfaces; monitors any model that serves predictions, whatever trained it."
+   "x": "Connects to: MLflow, evaluation frameworks, guardrail libraries, GRC integration. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Compass makes AI inspectable through multi-layer decision validation. Every decision passes rule-based checks, then probabilistic scoring, then predictive simulation against encoded principles — the way a model-risk committee already thinks. Attention mechanisms and neuro-symbolic reasoning operate on high-dimensional vectors; explainability is multi-modal with causal inference behind it; synthetic adversarial defense probes the decision surface before a regulator does. Reinforcement-optimized self-evolving loops improve the checks in production, not in a lab."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Hierarchical validation layers",
+     "Rule-based, then probabilistic, then predictive simulation — each decision cleared layer by layer."
+    ],
+    [
+     "Neuro-symbolic reasoning",
+     "High-dimensional judgment with symbolic accountability behind it."
+    ],
+    [
+     "Causal, multi-modal explainability",
+     "The why is causal, not correlational — and it is legible to reviewers."
+    ],
+    [
+     "Synthetic adversarial defense",
+     "The decision surface is probed continuously, before an attacker or auditor finds it."
+    ],
+    [
+     "Self-evolving decision loops",
+     "Reinforcement-optimized checks improve in production under governance."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: 87% eval coverage, a 68% PoC kill rate that keeps you from funding dead ends, and decisions your model-risk committee can defend without translation."
   },
   {
    "t": "cta",
-   "x": "Bring one model portfolio to a briefing. We will show the register, the validation workflow and the evidence pack it produces."
+   "x": "Start with the diagnostic, not the contract: Achala Compass baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 558,
+ "words": 576,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Compass",
@@ -211,9 +260,9 @@
  ],
  "related": [
   {
-   "title": "Achala Compass — Responsible AI & Governance Suite",
+   "title": "Achala Compass — Overview",
    "url": "/platforms/compass/",
-   "desc": "Responsible AI & Governance Suite"
+   "desc": "Responsible AI & Governance Platform"
   },
   {
    "title": "Achala Compass — Architecture & Trust",
@@ -223,7 +272,27 @@
   {
    "title": "Achala Compass — Industry Use Cases",
    "url": "/platforms/compass/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A tier-1 US bank",
+   "url": "/case-studies/bank-03/",
+   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
+  },
+  {
+   "title": "A 12-hospital US health system",
+   "url": "/case-studies/hc-01/",
+   "desc": "Clinicians get 90 minutes a day back — ambient documentation inside the EHR"
+  },
+  {
+   "title": "A national digital-government agency",
+   "url": "/case-studies/pub-01/",
+   "desc": "Case processing down 52% — document intelligence under accountable-AI gates"
+  },
+  {
+   "title": "A national EdTech platform (2M learners)",
+   "url": "/case-studies/edu-02/",
+   "desc": "Outcome evidence published — renewals secured with learning-gain pipelines"
   }
  ],
  "cards": []

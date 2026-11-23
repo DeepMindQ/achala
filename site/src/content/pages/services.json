@@ -515,7 +515,7 @@
       },
       {
        "kind": "line",
-       "title": "Anonymized evidence builds published, cumulative",
+       "title": "Client builds published with signed baselines, cumulative",
        "cats": [
         "FY24 Q1",
         "FY24 Q2",
@@ -549,7 +549,7 @@
   },
   {
    "t": "h2",
-   "x": "Where the sector depth sits — and how to read it",
+   "x": "Where the sector depth sits",
    "sub": "Published structure, not claims: 336 written capability briefs across 12 industries × 8 domains, 96 industry-level and 240 sub-industry, each with workflows, controls and the regulation that binds them."
   },
   {
@@ -717,7 +717,7 @@
   {
    "t": "explorer",
    "title": "Pick your industry — see the engagement we would run",
-   "intro": "Twelve industries, one selector. Each panel shows the entry problem we meet first, the cross-domain build we propose, the three targets we sign, the estate it lands on and the anonymized builds behind the numbers.",
+   "intro": "Twelve industries, one selector. Each panel shows the entry problem we meet first, the cross-domain build we propose, the three targets we sign, the estate it lands on and the client builds behind the numbers.",
    "service": "All eight domains",
    "practiceNote": "The targets shown are the flagship values each domain signs for in this sector — they reconcile to the domain pages, which carry the full gate map.",
    "industries": [
@@ -1336,10 +1336,10 @@
    "desc": "The delivery method and gates behind the operating contract — read it before you compare proposals."
   },
   {
-   "title": "Evidence library — 116 builds",
+   "title": "Client builds, with the deltas published",
    "url": "/case-studies/",
    "tag": "Proof",
-   "desc": "Anonymized builds with measured deltas, filterable by industry and service area."
+   "desc": "Real builds with measured deltas — pick your industry and see what changed."
   },
   {
    "title": "Industries",

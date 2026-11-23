@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Yield +2.8 points, recalls scoped in minutes, quality and traceability program"
+   "x": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A food processor (dairy): Agricultural operations live by the season: one wrong input decision or one cold-chain gap shows up in yield, quality or compliance. The Achala team started where that cost concentrates —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A food processor (dairy), Agriculture & Food Systems sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -201,7 +201,7 @@
    "items": [
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
     ],
     [
      "Data & Lakehouse",
@@ -219,7 +219,7 @@
   },
   {
    "t": "p",
-   "x": "Agricultural operations live by the season: one wrong input decision or one cold-chain gap shows up in yield, quality or compliance. The Achala team started where that cost concentrates — the baseline signed in week two made the cost visible in units the finance team already owns. The engagement ran under the standard Achala charter: a named metric, a named control owner and gates that evidence every move."
+   "x": "If the food processor (dairy) program reads like your own estate, the honest advice is: start with the baseline diagnostic, not with the build. The differences that matter only show up in measurement The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -249,7 +249,7 @@
    "x": "Start with the diagnostic, not the contract: the same diagnostic baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 399,
+ "words": 446,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Agriculture & Food Systems",

@@ -1412,22 +1412,7 @@ a:hover > .dq-link,
    One centered article column replaces the old prose + TOC-rail split.
    Sections carry a leading orange index (01, 02, …) for orientation —
    the wayfinding job the removed "On this page" rail used to do.         */
-.dq-article {
-  counter-reset: dq-h2;
-}
-.dq-article .dq-h2 {
-  counter-increment: dq-h2;
-}
-.dq-article .dq-h2::before {
-  content: counter(dq-h2, decimal-leading-zero);
-  flex: none;
-  font-family: var(--font-display);
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  color: var(--color-brand);
-  transform: translateY(-0.18em);
-}
+/* Wave 6: leading 01/02 heading counters removed — plain editorial headings */
 .dq-article .dq-h2::after {
   content: "";
   flex: 1 1 auto;
@@ -1439,4 +1424,58 @@ a:hover > .dq-link,
 }
 @media (max-width: 640px) {
   .dq-article .dq-h2::after { display: none; }
+}
+
+/* ── Wave 6 motion layer: interactive-chart + autoplay-slider keyframes ── */
+@keyframes oc-draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
+@keyframes oc-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes dq-slide-bar {
+  from { width: 0%; }
+  to { width: 100%; }
+}
+@keyframes dq-panel-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes float-y {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-7px); }
+}
+@keyframes pulse-ring {
+  0% { transform: scale(0.6); opacity: 0.7; }
+  100% { transform: scale(1.9); opacity: 0; }
+}
+@keyframes dq-beam {
+  0% { left: -30%; opacity: 0; }
+  12% { opacity: 0.55; }
+  45% { left: 120%; opacity: 0; }
+  100% { left: 120%; opacity: 0; }
+}
+/* hero beam sweep — a light bar crossing the hero once every 9s */
+.dq-beam {
+  position: absolute;
+  top: -10%;
+  height: 120%;
+  width: 26%;
+  background: linear-gradient(100deg, transparent, rgba(210, 0, 0, 0.13), transparent);
+  transform: skewX(-16deg);
+  animation: dq-beam 9s ease-in-out infinite;
+  pointer-events: none;
+}
+.dq-beam-2 {
+  animation-delay: 4.5s;
+  animation-duration: 11s;
+  width: 16%;
+  background: linear-gradient(100deg, transparent, rgba(255, 255, 255, 0.08), transparent);
+}
+.float-slow { animation: float-y 6s ease-in-out infinite; }
+.float-slower { animation: float-y 9s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .dq-beam, .float-slow, .float-slower { animation: none !important; }
 }

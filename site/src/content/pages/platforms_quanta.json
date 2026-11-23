@@ -1,50 +1,58 @@
 {
  "id": "PLT-quanta-ov",
- "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+ "title": "Achala Quanta — Overview",
  "url": "/platforms/quanta/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Quanta > Overview",
- "seo_title": "Achala Quanta — Quantum & Advanced Compute Suite | Achala IT Solutions",
- "meta_description": "Achala Quanta, our Quantum & Advanced Compute Suite, benchmarks emerging compute against classical baselines before you commit budget.",
+ "seo_title": "Achala Quanta — Overview | Achala IT Solutions",
+ "meta_description": "Emerging compute with investor discipline — baselines, benchmarks, verdicts.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Emerging compute, evaluated honestly. Achala Quanta benchmarks quantum and advanced-compute approaches against the best classical baseline, so you invest where the math actually pays back."
+   "x": "Emerging compute with investor discipline — baselines, benchmarks, verdicts. Achala Quanta is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
-   "x": "What it is"
+   "x": "What runs on it"
   },
   {
    "t": "p",
-   "x": "Achala Quanta is our Quantum & Advanced Compute Suite. For optimization and simulation problems that outgrow classical tools, it runs candidate quantum and quantum-inspired methods side by side with tuned classical solvers, and reports which one wins on your data."
+   "x": "Achala Quanta runs our quantum and advanced-compute programs: readiness assessments with HNDL risk clocks, solver tournaments (classical vs. quantum-inspired vs. hybrid) on your actual formulations, PQC migration with CBOM-grade discovery, HPC engineering, and the emerging-silicon watchlist. Quanta's discipline is economic: every initiative carries a classical baseline it must beat on identical benchmarks; negative results are documented deliverables. Where solvers win, we industrialize them as services with re-solve SLAs; where they don't, you keep an improved baseline and a revisit trigger."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "What gets built first"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "Named modules with a gate at each boundary — Achala Quanta edition:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Problem bench",
-     "Formulate the problem once, run it on every candidate method"
+     "Readiness engine",
+     "workload inventory + HNDL exposure ranking"
     ],
     [
-     "Baseline parity",
-     "The classical baseline is tuned first, no straw-man comparisons"
+     "Solver tournament",
+     "benchmarking suite across solver families"
     ],
     [
-     "Benchmark ledger",
-     "Every run's result, hardware and cost recorded"
+     "Solver-as-a-service",
+     "industrialized winners with warm starts and SLAs"
     ],
     [
-     "Advisory reports",
-     "A plain-language read: invest, wait, or drop"
+     "PQC program",
+     "CBOM discovery through hybrid transition"
+    ],
+    [
+     "HPC engineering",
+     "scheduler/GPU/storage tuning and cloud burst"
+    ],
+    [
+     "Watchlist",
+     "emerging silicon scored against your workloads"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Method and governance"
+   "x": "Built for the auditors too"
   },
   {
    "t": "p",
-   "x": "Emerging-tech programs fail through hype. The suite is built to prevent that:"
+   "x": "Quanta's PQC work aligns to NIST FIPS 203/204/205 with crypto-agility architectures that make future transitions configuration events. All benchmarks publish methodology and baselines — your quantum narrative survives diligence because it is true."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Honest baselines",
-     "Results are only published against a tuned classical run"
+     "NIST PQC alignment",
+     "ML-KEM/ML-DSA/SLH-DSA programs"
     ],
     [
-     "Reproducibility",
-     "Every benchmark re-runnable from its ledger entry"
+     "Published benchmarks",
+     "methodology and baselines disclosed"
     ],
     [
-     "Cost transparency",
-     "Compute spend per run, per method"
+     "Crypto-agility",
+     "algorithm swaps as configuration"
     ],
     [
-     "Decision gates",
-     "Go/no-go criteria agreed before the first run"
+     "Verdict discipline",
+     "advantage/parity/no-advantage documented"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "The deployment footprint"
   },
   {
    "t": "p",
-   "x": "Achala Quanta serves logistics (routing and scheduling), finance (portfolio and risk), manufacturing (production optimization) and energy (grid balancing), wherever the optimization problem is the business."
+   "x": "Achala Quanta runs under NDA in Banking & Financial Services, Energy & Utilities, Logistics & Supply Chain, Manufacturing & Industrial, Healthcare & Life Sciences. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "The technology choices, justified"
   },
   {
    "t": "p",
-   "x": "Works against major quantum hardware and simulator backends, plus quantum-inspired solvers that run on classical infrastructure. Data flows in from your existing estate through the same contract discipline as the rest of the platform suite."
+   "x": "Connects to: Qiskit, PennyLane, Gurobi/CP-SAT, Slurm, CUDA, CBOM tooling. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Quanta treats advanced compute as an engineering discipline, not a headline. Solver tournaments put classical, quantum-inspired and hybrid implementations against the same benchmark and the same data — the winner is measured, not marketed. Quantum-walk state-space exploration and Riemannian clustering attack the problem classes where geometry genuinely helps; temporal-logic verification proves a schedule's properties before it runs; hybrid quantum-classical routing falls back to classical hardware the moment quantum loses the tournament."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Solver tournaments",
+     "Classical and quantum contenders race on your data; adoption follows the result."
+    ],
+    [
+     "Quantum-walk state-space exploration",
+     "The search geometry is used where it provably helps."
+    ],
+    [
+     "Riemannian clustering",
+     "Structure that lives on curves, not planes, is handled natively."
+    ],
+    [
+     "Temporal-logic verification",
+     "Schedules are proven before they execute — 100% benchmark honesty is a gate."
+    ],
+    [
+     "Hybrid quantum-classical routing",
+     "Workload lands on the hardware that won, and the routing changes as the evidence does."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: 82% parallel efficiency where the math justifies it, benchmark honesty everywhere, and a quantum posture you adopt where it wins — not where a vendor needs a lighthouse."
   },
   {
    "t": "cta",
-   "x": "Bring one optimization problem to a briefing. We will show the bench, the baseline and the benchmark plan it would run under."
+   "x": "If Achala Quanta is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 579,
+ "words": 559,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Quanta",
@@ -211,7 +260,7 @@
  ],
  "related": [
   {
-   "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+   "title": "Achala Quanta — Overview",
    "url": "/platforms/quanta/",
    "desc": "Quantum & Advanced Compute Suite"
   },
@@ -223,7 +272,27 @@
   {
    "title": "Achala Quanta — Industry Use Cases",
    "url": "/platforms/quanta/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A European specialty reinsurer",
+   "url": "/case-studies/ins-03/",
+   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+  },
+  {
+   "title": "A European biopharma group",
+   "url": "/case-studies/hc-03/",
+   "desc": "Trial eligibility matching at 10x — enrollment windows met"
+  },
+  {
+   "title": "A global integrated energy major",
+   "url": "/case-studies/en-02/",
+   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale"
+  },
+  {
+   "title": "A container-terminal operator",
+   "url": "/case-studies/log-02/",
+   "desc": "Berth productivity +16% — planning platform and crane health sensing"
   }
  ],
  "cards": []

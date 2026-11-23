@@ -5,19 +5,23 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Data, Analytics & Lakehouse",
  "seo_title": "Insights: Data & Lakehouse | Insights | Achala IT Solutions",
- "meta_description": "Data, Analytics & Lakehouse — viewpoints from the Achala delivery floor.",
+ "meta_description": "Achala IT Solutions perspectives on Data, Analytics & Lakehouse: engineering notes, market views and delivery lessons.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data, Analytics & Lakehouse — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
+   "x": "Data & Lakehouse — contracts, streaming, and the decisions a lakehouse is actually for."
+  },
+  {
+   "t": "p",
+   "x": "Nobody buys a lakehouse; they buy decisions they can defend. Data contracts turn reliability into a property instead of a promise, and streaming is a business decision wearing a technology costume — the theses below take both seriously."
+  },
+  {
+   "t": "p",
+   "x": "Argued from estates we migrated and operate, with the reconciliation deltas to show for it."
   },
   {
    "t": "h2",
-   "x": "What this category publishes"
-  },
-  {
-   "t": "h2",
-   "x": "Latest articles"
+   "x": "The positions we hold"
   },
   {
    "t": "bullets",
@@ -28,45 +32,16 @@
     ],
     [
      "Streaming is a business decision wearing a technology costume",
-     "Written up as a viewpoint on the Insights page, including what we would do differently."
-    ],
-    [
-     "The lakehouse is the AI program's foundation — literally",
-     "Written up as a viewpoint on the Insights page, including what we would do differently."
+     "Batch thinking caps fraud, pricing and personalization at yesterday's information."
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Cadence"
-  },
-  {
-   "t": "h2",
-   "x": "Key questions this category answers"
-  },
-  {
-   "t": "bullets",
-   "items": [
-    [
-     "Is this real in production?",
-     "The references here run in production today, the pages name the shape of the deployment and what it took."
-    ],
-    [
-     "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
-    ]
-   ]
-  },
-  {
-   "t": "h2",
-   "x": "Where to go deeper"
   },
   {
    "t": "cta",
-   "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
+   "x": "Bring the report nobody trusts — leave with the contract that would make it trustworthy."
   }
  ],
- "words": 191,
+ "words": 127,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Data, Analytics & Lakehouse",

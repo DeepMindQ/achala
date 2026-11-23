@@ -5,34 +5,26 @@
  "template": "insights_hub",
  "breadcrumb": "Insights",
  "seo_title": "Insights Library | Achala IT Solutions",
- "meta_description": "Perspectives from the delivery floor on production AI, data platforms, security and emerging compute — with the vendor questions to ask.",
+ "meta_description": "Perspectives across eight deep-tech domains — retrieval economics, agentic policy, PQC clocks, provenance compliance and more.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Practical writing from the delivery floor: what ships, what scales and what stalls in production AI, data and security programs. Each piece takes a position and includes the questions you should ask any vendor, including us."
-  },
-  {
-   "t": "h2",
-   "x": "Field notes from production, not a content calendar"
+   "x": "Viewpoints from the delivery floor — what shipped, what scaled, what stalled, and what we would do differently."
   },
   {
    "t": "p",
-   "x": "These viewpoints come from the delivery floor: what shipped, what scaled, what stalled, and what we would do differently. Where a claim depends on a client number, the case page it comes from is linked, the reasoning chain is always walkable."
-  },
-  {
-   "t": "h2",
-   "x": "Where to begin"
+   "x": "Every insight takes a position, shows where it breaks in practice, and names the discipline that keeps it honest. Where a claim depends on a client number, the engagement note behind it is linked."
   },
   {
    "t": "p",
-   "x": "Start with the viewpoint closest to your current decision, retrieval economics, decision hubs versus model sprawl, process mining, or where quantum math pays back, then bring your own metric to a briefing."
+   "x": "Start with the category that matches the decision on your desk, or the article closest to the argument you are having internally."
   },
   {
    "t": "cta",
-   "x": "A value assessment prices the delta in your estate before anything is signed: the section map above, measured against your baseline, in two weeks."
+   "x": "Disagree with any of it? Good — the briefing exists for exactly that argument."
   }
  ],
- "words": 124,
+ "words": 88,
  "section": "Insights",
  "l1": "Insights",
  "l2": "",
@@ -45,5 +37,46 @@
   }
  ],
  "related": [],
- "cards": []
+ "cards": [
+  {
+   "title": "Agentic AI & Hyperautomation",
+   "url": "/insights/agentic-ai-hyperautomation/",
+   "desc": "what we are learning running governed agent fleets in production"
+  },
+  {
+   "title": "Applied AI & GenAI",
+   "url": "/insights/applied-ai-generative-ai/",
+   "desc": "the retrieval, permissions and economics work that decides whether assistants get trusted"
+  },
+  {
+   "title": "Blockchain & Digital Trust",
+   "url": "/insights/blockchain-digital-trust/",
+   "desc": "provenance, tokenization and credentials, argued from regulated deployments"
+  },
+  {
+   "title": "Cloud, Edge & Platform",
+   "url": "/insights/cloud-edge-platform-engineering/",
+   "desc": "platform economics, golden paths, and the edge where latency becomes revenue"
+  },
+  {
+   "title": "Cyber & Zero-Trust",
+   "url": "/insights/cybersecurity-zero-trust/",
+   "desc": "architecture positions for teams being audited, attacked, and asked to prove both"
+  },
+  {
+   "title": "Data & Lakehouse",
+   "url": "/insights/data-analytics-lakehouse/",
+   "desc": "contracts, streaming, and the decisions a lakehouse is actually for"
+  },
+  {
+   "title": "IoT, Twin & Robotics",
+   "url": "/insights/iot-digital-twin-robotics/",
+   "desc": "twins that drive decisions, sensors that mount on live assets, maintenance that people actually adopt"
+  },
+  {
+   "title": "Quantum & Advanced Compute",
+   "url": "/insights/quantum-advanced-compute/",
+   "desc": "solver tournaments, PQC deadlines, and throughput honesty"
+  }
+ ]
 }

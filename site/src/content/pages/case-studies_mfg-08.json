@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Predictive maintenance across the fab, unplanned downtime down 37% and tool-availability reporting finally reconciled to one number"
+   "x": "Predictive maintenance across the fab — unplanned downtime down 37% and tool-availability reporting finally reconciled to one number"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A semiconductor manufacturer: Plants feel data gaps in scrap rates and unplanned downtime, both traceable to decisions made hours earlier. The Achala program started at the line —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a semiconductor manufacturer whose fab measured losses in basis points of yield and whose maintenance ran on intervals the tools kept ignoring. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "The reconcile-first pattern, one availability truth before any prediction, transfers to any fabscale operation; the precursor library is this fab's failure history and compounds with every labeled event. Another fab starts from its own handover notes."
+   "x": "The reconcile-first pattern — one availability truth before any prediction — transfers to any fabscale operation; the precursor library is this fab's failure history and compounds with every labeled event. Another fab starts from its own handover notes."
   },
   {
    "t": "table",
@@ -212,7 +212,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 375,
+ "words": 471,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Manufacturing & Industrial",

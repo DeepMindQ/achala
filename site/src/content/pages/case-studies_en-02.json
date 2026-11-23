@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Turnaround duration down 14%, scheduling optimization at refinery scale"
+   "x": "Turnaround duration down 14% — scheduling optimization at refinery scale"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A global integrated energy major: Utility operations carry physical consequence: a forecasting miss or an asset failure cascades fast. The Achala program started where that consequence concentrates —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A global integrated energy major — a Energy & Utilities engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model."
   },
   {
    "t": "h2",
@@ -211,11 +211,11 @@
     ],
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
+     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
     ],
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
     ]
    ]
   },
@@ -252,10 +252,10 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the same diagnostic in production. The briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the same diagnostic in production — the briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 384,
+ "words": 322,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Energy & Utilities",

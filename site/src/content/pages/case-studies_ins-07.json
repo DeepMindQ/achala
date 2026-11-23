@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Underwriting copilot with cited evidence, medical-evidence reading time down 65% and risk density up 23% at flat mortality assumptions"
+   "x": "Underwriting copilot with cited evidence — medical-evidence reading time down 65% and risk density up 23% at flat mortality assumptions"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A life insurer: Insurers feel process gaps in loss adjustment expense and customer churn, both of them slow, both of them measurable. The Achala program started with the claims journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a life insurer whose underwriters spent most of a case's life reading — attending-physician statements, lab reports, MIB hits — and the remainder deciding. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the copilot on retrieval with evaluation gates: every document parsed into structured evidence with each finding cited to its page, debits proposed against the codified manual, and an evaluation harness scoring extraction quality against senior-underwriter reads before the copilot saw live cases. The underwriter decides with the citations attached; the file carries both."
+   "x": "We built the copilot on the retrieval layer with evaluation gates: every document parsed into structured evidence with each finding cited to its page, debits proposed against the codified manual, and an evaluation harness scoring extraction quality against senior-underwriter reads before the copilot saw live cases. The underwriter decides with the citations attached; the file carries both."
   },
   {
    "t": "arch",
@@ -212,7 +212,7 @@
    "x": "Run the two-week diagnostic on your estate first; the numbers decide whether this pattern earns a build on yours."
   }
  ],
- "words": 356,
+ "words": 453,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Insurance & Risk",

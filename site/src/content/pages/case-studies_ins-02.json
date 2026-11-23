@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Underwriting evidence assembled in hours, case cycle time down 44%"
+   "x": "Underwriting evidence assembled in hours — case cycle time down 44%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A leading life insurer (North America): Insurers feel process gaps in loss adjustment expense and customer churn, both of them slow, both of them measurable. The Achala program started with the claims journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A leading life insurer (North America) — a Insurance & Risk engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "KYC Management System agents classify, extract and assemble underwriting evidence with confidence routing; the actuarial data workbench on Forge unified valuation and experience pipelines with lineage for LDTI reporting; sensitive health data moved under classification-aware controls. Lapse models now trigger retention actions within weeks of drift signals."
+   "x": "Achala Swarm agents classify, extract and assemble underwriting evidence with confidence routing; the actuarial data workbench on Forge unified valuation and experience pipelines with lineage for LDTI reporting; sensitive health data moved under classification-aware controls. Lapse models now trigger retention actions within weeks of drift signals."
   },
   {
    "t": "arch",
@@ -213,7 +213,7 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
+     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",
@@ -231,7 +231,7 @@
   },
   {
    "t": "p",
-   "x": "What transferred directly from the leading life insurer (North America) program: the decision pattern and the evidence design. What never transfers: the estate's quirks, which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
+   "x": "What transferred directly from the leading life insurer (North America) program: the decision pattern and the evidence design. What never transfers: the estate's quirks — which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -261,7 +261,7 @@
    "x": "Start with the diagnostic, not the contract: the same diagnostic baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 416,
+ "words": 347,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Insurance & Risk",

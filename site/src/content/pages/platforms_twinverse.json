@@ -1,15 +1,15 @@
 {
  "id": "PLT-twinverse-ov",
- "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+ "title": "Achala Twinverse — Overview",
  "url": "/platforms/twinverse/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Twinverse > Overview",
- "seo_title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform | Achala IT Solutions",
- "meta_description": "Achala Twinverse, our Digital Twin & IoT Intelligence Platform, connects sensor data to simulation and actuation for physical operations.",
+ "seo_title": "Achala Twinverse — Overview | Achala IT Solutions",
+ "meta_description": "Sense, simulate, act — the operations stack for physical assets.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Your physical operations, mirrored in software you can act on. Achala Twinverse connects sensor data to simulation and actuation, from industrial IoT fleets to connected medical devices."
+   "x": "Sense, simulate, act — the operations stack for physical assets. Achala Twinverse is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
@@ -17,34 +17,42 @@
   },
   {
    "t": "p",
-   "x": "Achala Twinverse is our Digital Twin & IoT Intelligence Platform. It ingests telemetry from devices, keeps a faithful model of the physical world, and closes the loop: simulate a change, compare it to reality, then apply it through controlled actuation."
+   "x": "Achala Twinverse bridges sensor fabric to decisions: governed telemetry (OPC UA/Sparkplug) from retrofit-friendly devices, physics+data digital twins with validated models, edge inference fleets with OTA, predictive maintenance wired into CMMS work orders, and the scenario engines planners actually use. Twinverse is built for brownfield reality: non-invasive mounting, protocol translation from fieldbuses, offline-first edge patterns, and calibration discipline. Twins ship with the decisions they must improve and the baseline they must beat — a decision instrument, not a 3D screenshot."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "What goes live, and in what order"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "In Achala Twinverse, named modules with a gate at each boundary:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Device fabric",
-     "Fleet ingestion with OTA update safety gates"
+     "Sensor fabric",
+     "retrofit telemetry with data contracts"
     ],
     [
-     "Twin models",
-     "State models of assets and processes, validated against telemetry"
+     "Twin core",
+     "physics+data models with validation regime"
     ],
     [
-     "Simulation runs",
-     "Test operational changes in the twin before touching production"
+     "Edge fleet",
+     "KubeEdge-class orchestration with OTA"
     ],
     [
-     "Actuation paths",
-     "Controlled outputs to plant systems and devices, with rollback"
+     "Maintenance loop",
+     "RUL models into CMMS scheduling"
+    ],
+    [
+     "Scenario engine",
+     "what-if and capacity simulation"
+    ],
+    [
+     "Vision integration",
+     "inspection and safety analytics"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Safety and compliance"
+   "x": "Built for the auditors too"
   },
   {
    "t": "p",
-   "x": "Physical systems need safety discipline alongside security:"
+   "x": "Twinverse runs IEC 62443-aligned segmentation for industrial estates, hardware roots of trust and signed boot on edge fleets, and privacy governance (face blurring, retention) for camera systems. Telemetry carries contracts — units, timestamps and lineage are trustworthy by construction."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "OTA safety gates",
-     "Firmware updates staged, signed and reversible"
-    ],
-    [
-     "Twin fidelity reports",
-     "Model-vs-reality drift measured and published"
-    ],
-    [
      "IEC 62443 alignment",
-     "Industrial security zones and conduits respected"
+     "zones-and-conduits for OT estates"
     ],
     [
-     "Actuation audit",
-     "Every control action logged with its authorization"
+     "Signed edge fleet",
+     "measured boot, OTA rollback"
+    ],
+    [
+     "Telemetry contracts",
+     "units, timestamps, lineage enforced"
+    ],
+    [
+     "Privacy pack",
+     "camera governance with works-council alignment"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "In delivery, sector by sector"
   },
   {
    "t": "p",
-   "x": "Achala Twinverse runs in manufacturing plants, energy networks, logistics fleets and connected-health estates, anywhere sensors produce decisions and decisions move physical assets."
+   "x": "Achala Twinverse runs under NDA in Manufacturing & Industrial, Energy & Utilities, Logistics & Supply Chain, Retail & Consumer Goods, Agriculture & Food Systems. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "The technology choices, justified"
   },
   {
    "t": "p",
-   "x": "Connects to OPC-UA, MQTT and industrial historians on the ingestion side, and to SCADA/MES systems on the actuation side, through versioned integrations."
+   "x": "Connects to: OPC UA, MQTT Sparkplug B, LoRaWAN/NB-IoT, KubeEdge/K3s, CMMS/MES adapters. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Twinverse runs a hierarchical multimodal perception layer. Image, video, text, audio and sensor streams are fused by contextual dependency analyzers that model relationships within and across modalities; multi-scale feature amplifiers adjust to data complexity; an adaptive optimization layer fine-tunes under changing conditions against reward metrics you set — recognition accuracy, processing latency, energy. Recalibration happens without retraining from scratch, so the twin keeps faith with the asset as it wears, drifts and gets upgraded."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Multimodal sensor fusion",
+     "Vision, text, audio and telemetry are one state, not four dashboards."
+    ],
+    [
+     "Contextual dependency analyzers",
+     "The model learns how modalities relate — a vibration signature in context, not in isolation."
+    ],
+    [
+     "Multi-scale feature amplifiers",
+     "Fine-grained signals survive alongside system-level trends."
+    ],
+    [
+     "Adaptive optimization layer",
+     "The perception stack retunes itself as operating conditions change."
+    ],
+    [
+     "Recalibration without retraining",
+     "The twin re-bases locally as assets wear and upgrade — no rebuild per firmware push."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: 1,842 assets instrumented and mirrored live in the reference program, 99.7% fleet OTA success, and anomalies surfacing while they are still cheap to fix."
   },
   {
    "t": "cta",
-   "x": "Bring one production line or asset class to a briefing. We will show the twin, the simulation loop and the actuation path it would run with."
+   "x": "The next step is small and real: one working session on Achala Twinverse, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 565,
+ "words": 573,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Twinverse",
@@ -211,7 +260,7 @@
  ],
  "related": [
   {
-   "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+   "title": "Achala Twinverse — Overview",
    "url": "/platforms/twinverse/",
    "desc": "Digital Twin & IoT Intelligence Platform"
   },
@@ -223,7 +272,27 @@
   {
    "title": "Achala Twinverse — Industry Use Cases",
    "url": "/platforms/twinverse/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A global automotive OEM",
+   "url": "/case-studies/mfg-01/",
+   "desc": "OEE +7.2 points across 14 plants — sensor network to scheduling decisions"
+  },
+  {
+   "title": "A specialty chemicals producer",
+   "url": "/case-studies/mfg-02/",
+   "desc": "Yield +3.4 points and energy per tonne down 17% — APC augmentation program"
+  },
+  {
+   "title": "A construction-equipment manufacturer",
+   "url": "/case-studies/mfg-03/",
+   "desc": "Connected machines to connected margin — service revenue attach up 3x"
+  },
+  {
+   "title": "A top-3 grocery retailer (800+ stores)",
+   "url": "/case-studies/ret-01/",
+   "desc": "Fresh waste down 28%, OOS down 31% — day-part demand and ordering agents"
   }
  ],
  "cards": []

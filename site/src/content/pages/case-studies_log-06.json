@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Exception handling on governed agents, 68% of exceptions auto-resolved and the customer-promise recovery loop runs itself"
+   "x": "Exception handling on governed agents — 68% of exceptions auto-resolved and the customer-promise recovery loop runs itself"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A parcel network operator: Logistics operations lose money in the gaps: idle fleets, dwell time and manual re-planning. The Achala program started with the route economics —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a parcel operator whose exception queue was the network's confession: every scan that didn't match the plan, waiting for a human to decide what to tell whom. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We moved exceptions to governed agents: each exception classified against the play library with required actions, reroute, re-label, notify, escalate, executed in sequence, ambiguous cases routed to hub supervisors with the evidence attached, and the customer promise updated the moment the network knows. The play library is versioned; supervisors own its edits."
+   "x": "We moved exceptions to governed agents: each exception classified against the play library with required actions — reroute, re-label, notify, escalate — executed in sequence, ambiguous cases routed to hub supervisors with the evidence attached, and the customer promise updated the moment the network knows. The play library is versioned; supervisors own its edits."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The versioned-play-library pattern transfers to any exception-driven operation; the plays were this network's accumulated judgment. Replication starts from its supervisors' heads, the diagnostic writes the first library with them."
+   "x": "The versioned-play-library pattern transfers to any exception-driven operation; the plays were this network's accumulated judgment. Replication starts from its supervisors' heads — the diagnostic writes the first library with them."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "Run the two-week diagnostic on your estate first; the numbers decide whether this pattern earns a build on yours."
   }
  ],
- "words": 347,
+ "words": 460,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Logistics & Supply Chain",

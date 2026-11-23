@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Post-quantum IP portfolio readied, crypto-agile IP blocks delivered ahead of the standards freeze and two flagship design wins attributed to the roadmap"
+   "x": "Post-quantum IP portfolio readied — crypto-agile IP blocks delivered ahead of the standards freeze and two flagship design wins attributed to the roadmap"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A semiconductor IP vendor: Product companies feel platform gaps in churn and support cost, both visible in cohort data. The Achala program started with the release pipeline —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a semiconductor IP vendor whose customers asked about post-quantum and whose answer had been a roadmap slide. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "The gap wasn't research, it was productization: crypto-agile interfaces, algorithm flexibility at the block level, and the validation story customers' compliance teams require."
+   "x": "The gap wasn't research — it was productization: crypto-agile interfaces, algorithm flexibility at the block level, and the validation story customers' compliance teams require."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The agility-layer pattern transfers across IP portfolios; the standards milestone map was this vendor's market position. Another vendor starts from its RFP losses, the diagnostic reads what customers actually score."
+   "x": "The agility-layer pattern transfers across IP portfolios; the standards milestone map was this vendor's market position. Another vendor starts from its RFP losses — the diagnostic reads what customers actually score."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "Run the two-week diagnostic on your estate first; the numbers decide whether this pattern earns a build on yours."
   }
  ],
- "words": 350,
+ "words": 445,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Technology & SaaS",

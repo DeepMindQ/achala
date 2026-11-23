@@ -5,68 +5,43 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Cloud, Edge & Platform Engineering",
  "seo_title": "Insights: Cloud, Edge & Platform | Insights | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform Engineering — viewpoints from the Achala delivery floor.",
+ "meta_description": "Achala IT Solutions perspectives on Cloud, Edge & Platform Engineering: engineering notes, market views and delivery lessons.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform Engineering — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
+   "x": "Cloud, Edge & Platform Engineering — platform economics, golden paths, and the edge where latency becomes revenue."
+  },
+  {
+   "t": "p",
+   "x": "Platforms are economics wearing an engineering uniform: golden paths convert engineering months into days, FinOps turns cloud spend into unit economics, and at the edge latency is literally revenue. These are the positions we defend with numbers."
+  },
+  {
+   "t": "p",
+   "x": "Written from migration factories, platform builds and edge estates we operate every day."
   },
   {
    "t": "h2",
-   "x": "What this category publishes"
-  },
-  {
-   "t": "h2",
-   "x": "Latest articles"
+   "x": "The positions we hold"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Platform engineering is the highest-apply hire you will make",
-     "Golden paths turn engineering months into days: and make the secure path the easy path."
+     "Platform engineering is the highest-leverage hire you will make",
+     "Golden paths turn engineering months into days, and make the secure path the easy path."
     ],
     [
      "FinOps is unit economics, not cost cutting",
      "Cost per transaction, per customer, per inference: engineering metrics with P&L consequences."
-    ],
-    [
-     "Edge is where latency becomes revenue",
-     "The article carries the thesis, the counter-argument and the checklist we use on real programs."
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Cadence"
-  },
-  {
-   "t": "h2",
-   "x": "Key questions this category answers"
-  },
-  {
-   "t": "bullets",
-   "items": [
-    [
-     "Is this real in production?",
-     "The references here run in production today, the pages name the shape of the deployment and what it took."
-    ],
-    [
-     "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
-    ]
-   ]
-  },
-  {
-   "t": "h2",
-   "x": "Where to go deeper"
   },
   {
    "t": "cta",
-   "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
+   "x": "Bring the estate that will not move — leave with the sequence that moves it without breaking something."
   }
  ],
- "words": 191,
+ "words": 132,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cloud, Edge & Platform Engineering",
@@ -91,16 +66,16 @@
  ],
  "cards": [
   {
-   "title": "Platform engineering is the highest-apply hire you will make",
+   "title": "Platform engineering is the highest-leverage hire you will make",
    "url": "/insights/insight-13/",
    "tag": "Cloud, Edge & Platform",
-   "desc": "Golden paths turn engineering months into days, and make the secure path the easy path."
+   "desc": "Golden paths turn engineering months into days — and make the secure path the easy path."
   },
   {
    "title": "FinOps is unit economics, not cost cutting",
    "url": "/insights/insight-14/",
    "tag": "Cloud, Edge & Platform",
-   "desc": "Cost per transaction, per customer, per inference, engineering metrics with P&L consequences."
+   "desc": "Cost per transaction, per customer, per inference — engineering metrics with P&L consequences."
   },
   {
    "title": "Edge is where latency becomes revenue",

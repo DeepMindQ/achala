@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Denial prevention on a claims lakehouse, initial denial rate down 26% and net collection rate up 4.1 points"
+   "x": "Denial prevention on a claims lakehouse — initial denial rate down 26% and net collection rate up 4.1 points"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "An integrated payer-provider group: Hospitals feel technology gaps in patient waiting times and staff overtime, both visible within a quarter. The Achala program started with the patient journey —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "an integrated payer-provider group that was, unusually, both sides of the claim: its hospitals denied its own plan's claims for reasons neither side could see end to end. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter measured the absurdity: 11.8% initial denial rate, EUR, no, USD 34 million net under-collected, and the payer side and provider side reconciling each other's errors by email twice a year."
+   "x": "The baseline quarter measured the absurdity: 11.8% initial denial rate, EUR — no, USD 34 million net under-collected, and the payer side and provider side reconciling each other's errors by email twice a year."
   },
   {
    "t": "p",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the claims spine both sides read: registration, authorization, coding and adjudication events in one lineage-complete model, denial causes attributed to their originating process, and prevention feeds running to the desks that can actually fix each cause, registration checklists, coding prompts, authorization gates. The denial rate became a managed process variable, not weather."
+   "x": "We built the claims spine both sides read: registration, authorization, coding and adjudication events in one lineage-complete model, denial causes attributed to their originating process, and prevention feeds running to the desks that can actually fix each cause — registration checklists, coding prompts, authorization gates. The denial rate became a managed process variable, not weather."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The shared-spine pattern applies wherever one organization sits on both sides of a transaction; the process taxonomy was this group's operations. The diagnostic's first deliverable is the cause map, everything else sequences from it."
+   "x": "The shared-spine pattern applies wherever one organization sits on both sides of a transaction; the process taxonomy was this group's operations. The diagnostic's first deliverable is the cause map — everything else sequences from it."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 370,
+ "words": 474,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Healthcare & Life Sciences",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "DORA-grade resilience posture, third-party and incident evidence automated"
+   "x": "DORA-grade resilience posture — third-party and incident evidence automated"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A tier-1 US bank: Banking margins live between risk and speed: approve too slowly and the customer leaves, approve too fast and the losses follow. The Achala program started where that tension is sharpest —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A tier-1 US bank, Banking & Financial Services sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
    "items": [
     [
      "Cyber & Zero-Trust",
-     "the controls were architectural, identity-first, segmented, instrumented, not bolted on after the fact."
+     "the controls were architectural — identity-first, segmented, instrumented — not bolted on after the fact."
     ],
     [
      "Cloud, Edge & Platform",
@@ -251,7 +251,7 @@
    "x": "Start with the diagnostic, not the contract: the same diagnostic baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 388,
+ "words": 469,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Banking & Financial Services",

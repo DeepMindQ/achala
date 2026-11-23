@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Real-time fraud decisioning on instant rails, 38% lower fraud losses at a higher approval rate"
+   "x": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A top-10 European retail bank: Banking margins live between risk and speed: approve too slowly and the customer leaves, approve too fast and the losses follow. The Achala program started where that tension is sharpest —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "A top-10 European retail bank, Banking & Financial Services sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the streaming decision hub: Kafka/Flink features at event time, champion-challenger models behind policy layers on EEMS Platform, and full decision replay with cryptographic logs. Network analytics across accounts and devices added organized-fraud detection, while the model-risk pack was produced as we built, documentation the regulator read directly."
+   "x": "We built the streaming decision hub: Kafka/Flink features at event time, champion-challenger models behind policy layers on Achala Nexus, and full decision replay with cryptographic logs. Network analytics across accounts and devices added organized-fraud detection, while the model-risk pack was produced as we built — documentation the regulator read directly."
   },
   {
    "t": "arch",
@@ -219,7 +219,7 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
+     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",
@@ -227,7 +227,7 @@
     ],
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
     ]
    ]
   },
@@ -237,7 +237,7 @@
   },
   {
    "t": "p",
-   "x": "Two things from the top-10 European retail bank program generalize, the governance shape and the gate design. Everything else was estate-specific, and pretending otherwise is how programs waste their first quarter The engagement model here was outcome-linked build-run; the same pattern runs fixed-scope where the estate allows it."
+   "x": "Two things from the top-10 European retail bank program generalize — the governance shape and the gate design. Everything else was estate-specific, and pretending otherwise is how programs waste their first quarter The engagement model here was outcome-linked build-run; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -267,7 +267,7 @@
    "x": "Start with the diagnostic, not the contract: the same diagnostic baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 425,
+ "words": 533,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Banking & Financial Services",

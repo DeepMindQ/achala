@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IEC 62443 zones across pipeline OT, the security audit passed with zero findings and remote maintenance access brought under controlled gateways"
+   "x": "IEC 62443 zones across pipeline OT — the security audit passed with zero findings and remote maintenance access brought under controlled gateways"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A gas transmission system operator: Utility operations carry physical consequence: a forecasting miss or an asset failure cascades fast. The Achala program started where that consequence concentrates —. The baseline signed in week two made the cost visible in units the finance team already owns, and the engagement ran under the standard Achala charter — a named metric, a named control owner and gates that evidence every move."
+   "x": "a gas TSO whose compressor stations ran trusted-by-proximity OT and whose remote maintenance vendors connected like they owned the place. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "The constraint was throughput, compressor stations could not stop, and the vendor estate could not be frozen. Security had to move at the speed of maintenance windows."
+   "x": "The constraint was throughput — compressor stations could not stop — and the vendor estate could not be frozen. Security had to move at the speed of maintenance windows."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The crew-speed cutover pattern transfers across pipeline OT; the vendor pathway map was this TSO's maintenance history. Another operator starts from its jump-host list, the diagnostic counts what shares what."
+   "x": "The crew-speed cutover pattern transfers across pipeline OT; the vendor pathway map was this TSO's maintenance history. Another operator starts from its jump-host list — the diagnostic counts what shares what."
   },
   {
    "t": "table",
@@ -213,7 +213,7 @@
    "x": "If this case sits close to your operation, the briefing is the right next step: 45 minutes with the practice lead who ran it, your metric against the pattern that moved here."
   }
  ],
- "words": 367,
+ "words": 472,
  "section": "Case Studies",
  "l1": "Case Studies",
  "l2": "Energy & Utilities",

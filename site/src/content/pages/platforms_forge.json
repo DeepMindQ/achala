@@ -1,50 +1,58 @@
 {
  "id": "PLT-forge-ov",
- "title": "Achala Forge — Data & Lakehouse Engineering Platform",
+ "title": "Achala Forge — Overview",
  "url": "/platforms/forge/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Achala Forge > Overview",
- "seo_title": "Achala Forge — Data & Lakehouse Engineering Platform | Achala IT Solutions",
- "meta_description": "Achala Forge, our Data & Lakehouse Engineering Platform, builds data estates with contracts, tested pipelines and controlled run cost.",
+ "seo_title": "Achala Forge — Overview | Achala IT Solutions",
+ "meta_description": "The governed data estate every intelligence program silently depends on.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The data platform every AI program depends on, built properly. Achala Forge sets up your lakehouse with data contracts, tested pipelines and a run cost you can steer, and keeps it that way as volume grows."
+   "x": "The governed data estate every intelligence program silently depends on. Achala Forge is the platform layer behind it — deployed under NDA, documented for the audit."
   },
   {
    "t": "h2",
-   "x": "What it is"
+   "x": "What runs on it"
   },
   {
    "t": "p",
-   "x": "Achala Forge is our Data & Lakehouse Engineering Platform. It covers the full path from source systems to decision-ready data: ingestion, quality gates, transformation, serving and cost control. Every table has an owner and a contract, so downstream teams build on data they can trust."
+   "x": "Achala Forge operationalizes the lakehouse: medallion pipelines with data contracts, Unity Catalog-class governance, lineage and freshness SLAs, streaming and batch in one estate, and the AI-ready layer (feature stores, vector search, retrieval services) built on the same governed data. It is the substrate domain made product. Forge is deliberately boring where it matters: schema contracts enforced at boundaries, expectations tested on every pipeline, cost telemetry per workload, and audit exports regulators can read. Teams inherit reliability as a measured property — and GenAI programs inherit a corpus that doesn't rot."
   },
   {
    "t": "h2",
-   "x": "The modules"
+   "x": "Inside the engagement"
   },
   {
    "t": "p",
-   "x": "Named modules, each with a clear job:"
+   "x": "The working system, decomposed — Achala Forge edition:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Data contracts",
-     "Producers and consumers agree on schema and quality; breaks are caught at the boundary"
+     "Pipeline framework",
+     "medallion architecture with data contracts"
     ],
     [
-     "Pipeline catalog",
-     "Every pipeline documented, versioned and owned"
+     "Governance baseline",
+     "tag-based access control with lineage"
     ],
     [
-     "Freshness SLAs",
-     "Each dataset carries a committed freshness target and reports against it"
+     "Streaming core",
+     "Kafka/Flink with exactly-once semantics"
     ],
     [
-     "Cost steering",
-     "Per-pipeline cost visibility with the levers to fix spikes"
+     "AI data layer",
+     "feature store, vector search, retrieval services"
+    ],
+    [
+     "Cost governance",
+     "workload isolation and showback"
+    ],
+    [
+     "Data product registry",
+     "owned, SLA'd products with consumer contracts"
     ]
    ]
   },
@@ -141,55 +149,96 @@
   },
   {
    "t": "h2",
-   "x": "Security and compliance"
+   "x": "How it earns audit sign-off"
   },
   {
    "t": "p",
-   "x": "Data estates carry the most sensitive information in the enterprise. Achala Forge treats that as a design input:"
+   "x": "Forge inherits platform controls from the customer landing zone and adds its own: contract enforcement, lineage capture, quality gates and privacy-tag-driven access. Every dataset carries its owner, SLA and classification — governance is system behavior, not committee minutes."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Lineage, end to end",
-     "Column-level lineage from source to dashboard"
+     "Privacy tags",
+     "sensitivity driving access automatically"
     ],
     [
-     "Access controls",
-     "Role-based access with periodic recertification"
+     "Lineage",
+     "column-level, exportable for audit"
     ],
     [
-     "Quality reports",
-     "Every table publishes its own quality score"
+     "Freshness SLAs",
+     "measured per dataset with alerts"
     ],
     [
-     "Evidence packs",
-     "Audit documentation generated from the catalog, not from spreadsheets"
+     "Clean rooms",
+     "sharing without exposure for data products"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs"
+   "x": "The deployment footprint"
   },
   {
    "t": "p",
-   "x": "Achala Forge underpins decision platforms in banking, insurance, healthcare, manufacturing and retail. Wherever the estate runs, cloud, hybrid or on-prem, the platform manages it the same way."
+   "x": "Achala Forge runs under NDA in Banking & Financial Services, Insurance & Risk, Retail & Consumer Goods, Healthcare & Life Sciences, Energy & Utilities. Deployments stay private; the architecture and control packs are the part we can show."
   },
   {
    "t": "h2",
-   "x": "How it connects"
+   "x": "Engineering standards we hold"
   },
   {
    "t": "p",
-   "x": "Built around Databricks, Spark, Delta Lake, Kafka and your existing warehouse estate. Migration paths are staged and reconciled: the old system and the new one run side by side until the numbers match."
+   "x": "Connects to: Databricks, Snowflake, Kafka, dbt, Unity Catalog/Purview. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "h2",
+   "x": "Inside the technology"
+  },
+  {
+   "t": "p",
+   "x": "Forge is a quantum-inspired optimization core wrapped around the lakehouse. Workloads are compiled into tensor-manifold representations, where tensor contraction and amplitude amplification collapse dimensionality without destroying the interrelations that matter. Scheduling runs at logarithmic complexity, so plan quality holds as the estate grows. Every plan is verified by abstract interpretation and temporal logic before a row moves — deterministic correctness, not best effort. An energy-aware orchestration layer keeps the same plan honest on cost: execution graphs are compressed with low-rank approximation, task profiles decomposed by wavelets, and power thresholds predicted from historical failure patterns."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Tensor-manifold workload processing",
+     "Dimensionality drops without losing the interrelations the plan depends on."
+    ],
+    [
+     "Log-complexity scheduling",
+     "Plan quality holds as the estate grows — no cliff at petabyte scale."
+    ],
+    [
+     "Verification before movement",
+     "Abstract interpretation and temporal logic prove the plan's properties before any row migrates."
+    ],
+    [
+     "Energy-aware orchestration",
+     "Grid-aware scheduling economics: the cheapest window is computed, not guessed."
+    ],
+    [
+     "Fault-tolerant checkpointing",
+     "A failed slice resumes from its checkpoint — 0 lost rows is a gate, not a hope."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What this changes for your program"
+  },
+  {
+   "t": "p",
+   "x": "What this changes for your program: migrations that finish with a 0.00% reconciliation delta because verification precedes movement, freshness SLAs that hold under load, and a cost-per-workload story finance can actually audit."
   },
   {
    "t": "cta",
-   "x": "Bring one data domain to a briefing. We will show the contract, the pipeline and the cost picture it would run under."
+   "x": "The next step is small and real: one working session on Achala Forge, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 610,
+ "words": 601,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Achala Forge",
@@ -211,7 +260,7 @@
  ],
  "related": [
   {
-   "title": "Achala Forge — Data & Lakehouse Engineering Platform",
+   "title": "Achala Forge — Overview",
    "url": "/platforms/forge/",
    "desc": "Data & Lakehouse Engineering Platform"
   },
@@ -223,7 +272,27 @@
   {
    "title": "Achala Forge — Industry Use Cases",
    "url": "/platforms/forge/use-cases/",
-   "desc": "Where the platform runs, sector by sector."
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A top-10 European retail bank",
+   "url": "/case-studies/bank-01/",
+   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
+  },
+  {
+   "title": "A multinational corporate bank",
+   "url": "/case-studies/bank-02/",
+   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
+  },
+  {
+   "title": "A top-5 global P&C insurer",
+   "url": "/case-studies/ins-01/",
+   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
+  },
+  {
+   "title": "A leading life insurer (North America)",
+   "url": "/case-studies/ins-02/",
+   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
   }
  ],
  "cards": []
