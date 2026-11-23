@@ -5,4 +5,4 @@
 :HL["/achala/achala-logo-white.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"oc","k":"industries/technology-saas/capabilities/data-analytics-lakehouse","s":["patented-intelligence","search","style-guide"]},"h":65600,"c":"$Q2"}]]
-0:{"b":"96Me6XfpfpmT_gb4uYqhj","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"sMhl2RepdXv5i8e3psi3Z","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
