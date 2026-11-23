@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Semiconductors & Hardware lives inside Design/simulation, Supply-chain visibility and Yield analytics — paths that all carry decisions now. The work: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "IoT, Twin & Robotics in Semiconductors & Hardware lives inside Design/simulation, Supply-chain visibility and Yield analytics, paths that all carry decisions now. The work: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Semiconductors & Hardware, the pattern is yield telemetry — test/fab data unified. Rca fast sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "In Semiconductors & Hardware, the pattern is yield telemetry, test/fab data unified. Rca fast sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. design simulation costs is measured with your finance and risk leads in the room, then one working path — Yield telemetry — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. design simulation costs is measured with your finance and risk leads in the room, then one working path, Yield telemetry, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Semiconductors & Hardware: Export controls — technology transfer; CRA (products) — security duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Semiconductors & Hardware: Export controls, technology transfer; CRA (products), security duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

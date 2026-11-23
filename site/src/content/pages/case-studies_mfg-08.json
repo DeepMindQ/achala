@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Predictive maintenance across the fab — unplanned downtime down 37% and tool-availability reporting finally reconciled to one number"
+   "x": "Predictive maintenance across the fab, unplanned downtime down 37% and tool-availability reporting finally reconciled to one number"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a semiconductor manufacturer whose fab measured losses in basis points of yield and whose maintenance ran on intervals the tools kept ignoring. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a semiconductor manufacturer whose fab measured losses in basis points of yield and whose maintenance ran on intervals the tools kept ignoring. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "The reconcile-first pattern — one availability truth before any prediction — transfers to any fabscale operation; the precursor library is this fab's failure history and compounds with every labeled event. Another fab starts from its own handover notes."
+   "x": "The reconcile-first pattern, one availability truth before any prediction, transfers to any fabscale operation; the precursor library is this fab's failure history and compounds with every labeled event. Another fab starts from its own handover notes."
   },
   {
    "t": "table",

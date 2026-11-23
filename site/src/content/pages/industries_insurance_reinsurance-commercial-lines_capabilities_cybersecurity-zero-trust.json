@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Setting the Cyber & Zero-Trust scene in Reinsurance & Commercial Lines: Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets — which is why settlement cycles and model confidence suffer."
+   "x": "Setting the Cyber & Zero-Trust scene in Reinsurance & Commercial Lines: Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets, which is why settlement cycles and model confidence suffer."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Reinsurance & Commercial Lines, the pattern is exchange security — secured data exchange with counterparties under policy. Confidentiality engineered sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Reinsurance & Commercial Lines."
+   "x": "In Reinsurance & Commercial Lines, the pattern is exchange security, secured data exchange with counterparties under policy. Confidentiality engineered sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Reinsurance & Commercial Lines."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for counterparty data exchange exposure is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Exchange security, bounded to one path, running on your estate. In Reinsurance & Commercial Lines programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Delivery opens with measurement: the baseline for counterparty data exchange exposure is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Exchange security, bounded to one path, running on your estate. In Reinsurance & Commercial Lines programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Reinsurance & Commercial Lines: Solvency II / RBC — capital and reserving discipline; Contract certainty rules — documentation timeliness. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Reinsurance & Commercial Lines: Solvency II / RBC, capital and reserving discipline; Contract certainty rules, documentation timeliness. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cyber & Zero-Trust for Reinsurance & Commercial Lines to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cyber & Zero-Trust for Reinsurance & Commercial Lines to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 528,

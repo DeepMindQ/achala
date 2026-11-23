@@ -5,16 +5,16 @@
  "template": "services_hub",
  "breadcrumb": "Services",
  "seo_title": "IT Services & Expertise Domains | Achala IT Solutions",
- "meta_description": "54 engineering practices across 8 expertise domains — every engagement enters on a signed metric baseline, clears evidenced gates and exits with audited numbers. Pick your industry and see the engagement we would run.",
+ "meta_description": "54 engineering practices across 8 expertise domains — AI, data, cloud, security, IoT and more. Every engagement is measured against a signed business baseline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Whichever of the eight domains you enter, the contract is identical: a business metric signed before delivery starts, an architecture you can audit before it ships, and exit numbers your finance team can reconcile. Fifty-four practices. Twelve industries. One governed spine."
+   "x": "Achala runs 54 engineering practices across 8 expertise domains, from AI and data to cloud, security and IoT. Each engagement starts with a business metric you sign before delivery begins, and every domain works to the same delivery standard."
   },
   {
    "t": "h2",
    "x": "How the eight domains divide the work",
-   "sub": "Cut along the seams where enterprises actually buy — what decides, what acts, what feeds the decision, what protects it, what runs it — and the metric each domain is managed on."
+   "sub": "Cut along the seams where enterprises actually buy, what decides, what acts, what feeds the decision, what protects it, what runs it, and the metric each domain is managed on."
   },
   {
    "t": "p",
@@ -34,49 +34,49 @@
      "Applied AI & Generative AI",
      "7",
      "Grounded answer rate, cost per 1k calls",
-     "Grounded advisory assistant, top-10 European bank — 99% citation coverage"
+     "Grounded advisory assistant, top-10 European bank, 99% citation coverage"
     ],
     [
      "Agentic AI & Hyperautomation",
      "7",
      "Automation coverage, human-checkpoint fidelity",
-     "Claims auto-adjudication, top-5 global insurer — 67% straight to settlement"
+     "Claims auto-adjudication, top-5 global insurer, 67% straight to settlement"
     ],
     [
      "Data, Analytics & Lakehouse",
      "7",
      "Freshness SLA, lineage completeness",
-     "Streaming decisioning, tier-1 operator — 361 ms p99, exactly-once audit"
+     "Streaming decisioning, tier-1 operator, 361 ms p99, exactly-once audit"
     ],
     [
      "Cybersecurity & Zero-Trust",
      "7",
      "Containment time, evidence freshness",
-     "OT-zone segmentation, European TSO-DSO — zero violations on record"
+     "OT-zone segmentation, European TSO-DSO, zero violations on record"
     ],
     [
      "Cloud, Edge & Platform Engineering",
      "7",
      "Change failure rate, unit cost",
-     "Peak-trade readiness, top-3 grocer — 100% availability across the peak"
+     "Peak-trade readiness, top-3 grocer, 100% availability across the peak"
     ],
     [
      "Quantum & Advanced Compute",
      "6",
      "Verified advantage, PQC coverage",
-     "Grid optimization screening, global energy major — 8% verified gain"
+     "Grid optimization screening, global energy major, 8% verified gain"
     ],
     [
      "Blockchain & Digital Trust",
      "6",
      "Reconciliation deltas, attestation coverage",
-     "Parametric payouts on attested events, top-5 insurer — 99%"
+     "Parametric payouts on attested events, top-5 insurer, 99%"
     ],
     [
      "IoT, Digital Twin & Robotics",
      "7",
      "Twin fidelity, freshness p95",
-     "Cold-chain twins, 12-hospital health system — 93% fidelity"
+     "Cold-chain twins, 12-hospital health system, 93% fidelity"
     ]
    ]
   },
@@ -550,11 +550,11 @@
   {
    "t": "h2",
    "x": "Where the sector depth sits — and how to read it",
-   "sub": "Published structure, not claims: 336 written capability briefs across 12 industries × 8 domains — 96 industry-level and 240 sub-industry, each with workflows, controls and the regulation that binds them."
+   "sub": "Published structure, not claims: 336 written capability briefs across 12 industries × 8 domains, 96 industry-level and 240 sub-industry, each with workflows, controls and the regulation that binds them."
   },
   {
    "t": "p",
-   "x": "Depth is a structure you can count. Every domain × industry pair carries one industry-level capability page — 96 in total — and the matrix below counts the deeper sub-industry briefs (240 of them): each names the workflows we automate, the controls we evidence and the regulator who audits them. Use the matrix to see whether your sector's hard problems already have a written method here, then open the selector beneath it to turn any row into a concrete engagement view."
+   "x": "Depth is a structure you can count. Every domain × industry pair carries one industry-level capability page, 96 in total, and the matrix below counts the deeper sub-industry briefs (240 of them): each names the workflows we automate, the controls we evidence and the regulator who audits them. Use the matrix to see whether your sector's hard problems already have a written method here, then open the selector beneath it to turn any row into a concrete engagement view."
   },
   {
    "t": "chart",
@@ -1218,11 +1218,11 @@
   {
    "t": "h2",
    "x": "The engagement ladder — four rungs, no leaps of faith",
-   "sub": "Diagnostic, provability sprint, delivery slice, industrialization — enter at the rung your evidence supports."
+   "sub": "Diagnostic, provability sprint, delivery slice, industrialization, enter at the rung your evidence supports."
   },
   {
    "t": "p",
-   "x": "Work enters at the rung that matches the evidence you already hold. The ladder is deliberately short: the provability sprint exists so that nobody buys a large program on a hypothesis, and the diagnostic exists so the first conversation is about your estate rather than our slideware. Each rung ends with artifacts you keep — the documents are the exit criteria, not a courtesy."
+   "x": "Work enters at the rung that matches the evidence you already hold. The ladder is deliberately short: the provability sprint exists so that nobody buys a large program on a hypothesis, and the diagnostic exists so the first conversation is about your estate rather than our slideware. Each rung ends with artifacts you keep, the documents are the exit criteria, not a courtesy."
   },
   {
    "t": "table",
@@ -1258,11 +1258,11 @@
   {
    "t": "h2",
    "x": "The operating contract behind every service page",
-   "sub": "Signed baseline, named gates, patent-mapped methods — the clauses that hold across all eight domains."
+   "sub": "Signed baseline, named gates, patent-mapped methods, the clauses that hold across all eight domains."
   },
   {
    "t": "p",
-   "x": "Three clauses hold across all eight domains and every practice inside them. First, the baseline is signed by the metric owner before the build starts — no metric, no build. Second, releases clear gates whose evidence is checkable, not asserted — an auditor can replay the trail without asking us for anything. Third, the methods underneath a gate are published, counted and mapped."
+   "x": "Three clauses hold across all eight domains and every practice inside them. First, the baseline is signed by the metric owner before the build starts, no metric, no build. Second, releases clear gates whose evidence is checkable, not asserted, an auditor can replay the trail without asking us for anything. Third, the methods underneath a gate are published, counted and mapped."
   },
   {
    "t": "bullets",
@@ -1273,47 +1273,47 @@
     ],
     [
      "Clause 2 — Named gates",
-     "Every release clears gates whose evidence is checkable by replay — named gate owners, timestamps and artifacts, not assertions."
+     "Every release clears gates whose evidence is checkable by replay, named gate owners, timestamps and artifacts, not assertions."
     ],
     [
      "Clause 3 — Published methods",
-     "The method families underneath each gate are counted and mapped on this site — read them before you talk to us, not after."
+     "The method families underneath each gate are counted and mapped on this site, read them before you talk to us, not after."
     ]
    ]
   },
   {
    "t": "p",
-   "x": "Where our patent-pending method families strengthen a gate, the service page names them and maps each family to the gate it reinforces — you can read the capability summary on the method map without asking for a briefing first. The patents protect how the gates bind; the contract protects what you can hold us to."
+   "x": "Where our patent-pending method families strengthen a gate, the service page names them and maps each family to the gate it reinforces, you can read the capability summary on the method map without asking for a briefing first. The patents protect how the gates bind; the contract protects what you can hold us to."
   },
   {
    "t": "h2",
    "x": "Questions buyers ask first",
-   "sub": "The four questions that decide the first meeting — answered before it."
+   "sub": "The four questions that decide the first meeting, answered before it."
   },
   {
    "t": "bullets",
    "items": [
     [
      "Which domain owns our problem?",
-     "Enter where the metric lives: a decision that gets better is Applied AI; work that stops leaking money is Agentic AI; data nobody trusts is Data & Lakehouse; proof your regulator accepts is Cybersecurity or Digital Trust. If the problem spans seams — most do — the hub architecture shows how the domains compose on one spine, and the briefing maps it for your estate."
+     "Enter where the metric lives: a decision that gets better is Applied AI; work that stops leaking money is Agentic AI; data nobody trusts is Data & Lakehouse; proof your regulator accepts is Cybersecurity or Digital Trust. If the problem spans seams, most do, the hub architecture shows how the domains compose on one spine, and the briefing maps it for your estate."
     ],
     [
      "What does the two-week diagnostic actually end with?",
-     "A signed baseline, an estate map, a scored gate map for your controls and a build order with named owners. You keep the documents whichever way the engagement goes — that is deliberate, because the diagnostic is designed to be the cheapest way to price the truth."
+     "A signed baseline, an estate map, a scored gate map for your controls and a build order with named owners. You keep the documents whichever way the engagement goes, that is deliberate, because the diagnostic is designed to be the cheapest way to price the truth."
     ],
     [
      "Can we skip the ladder and start at build?",
-     "Only when the evidence you already hold supports it: a verified baseline from an audit or a prior program can collapse the first rung. Nobody buys a large program on a hypothesis here — the provability sprint exists precisely so a fund-or-kill verdict arrives before a big commitment."
+     "Only when the evidence you already hold supports it: a verified baseline from an audit or a prior program can collapse the first rung. Nobody buys a large program on a hypothesis here, the provability sprint exists precisely so a fund-or-kill verdict arrives before a big commitment."
     ],
     [
      "Where do the patented methods fit?",
-     "Eight proprietary method families sit underneath the release gates. Where a family strengthens a gate, the service page names it and links the method map — so you can read what the method does without asking for a briefing first."
+     "Eight proprietary method families sit underneath the release gates. Where a family strengthens a gate, the service page names it and links the method map, so you can read what the method does without asking for a briefing first."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the metric you own to a 45-minute practice briefing — we will map it to the domain that moves it, name the rung you should enter at, and price the two-week diagnostic that ends in a signed baseline for your estate."
+   "x": "Bring the metric you own to a 45-minute practice briefing, we will map it to the domain that moves it, name the rung you should enter at, and price the two-week diagnostic that ends in a signed baseline for your estate."
   }
  ],
  "words": 3781,
@@ -1364,49 +1364,49 @@
   {
    "title": "Applied AI & Generative AI",
    "tag": "7 practices · 40 sector briefs",
-   "desc": "Strategy to production models measured on the P&L — grounded answers with citations your risk team accepts, eval-gated before anything ships.",
+   "desc": "Strategy to production models measured on the P&L, grounded answers with citations your risk team accepts, eval-gated before anything ships.",
    "url": "/services/applied-ai-generative-ai/"
   },
   {
    "title": "Agentic AI & Hyperautomation",
    "tag": "7 practices · 37 sector briefs",
-   "desc": "Digital workers that recover from failure on their own — policy-bounded tool use, risk-placed human checkpoints and logs built for exam day.",
+   "desc": "Digital workers that recover from failure on their own, policy-bounded tool use, risk-placed human checkpoints and logs built for exam day.",
    "url": "/services/agentic-ai-hyperautomation/"
   },
   {
    "title": "Data, Analytics & Lakehouse",
    "tag": "7 practices · 48 sector briefs",
-   "desc": "Trusted data in near real time — contracts on every metric, lineage that survives model-risk review and freshness your operations can run on.",
+   "desc": "Trusted data in near real time, contracts on every metric, lineage that survives model-risk review and freshness your operations can run on.",
    "url": "/services/data-analytics-lakehouse/"
   },
   {
    "title": "Cybersecurity & Zero-Trust",
    "tag": "7 practices · 41 sector briefs",
-   "desc": "Identity, detection, resilience and AI security as one program — containment measured in minutes, evidence packs that produce themselves.",
+   "desc": "Identity, detection, resilience and AI security as one program, containment measured in minutes, evidence packs that produce themselves.",
    "url": "/services/cybersecurity-zero-trust/"
   },
   {
    "title": "Cloud, Edge & Platform Engineering",
    "tag": "7 practices · 24 sector briefs",
-   "desc": "Hybrid estates and internal platforms engineered for unit cost — golden paths your teams adopt and change windows that hold at peak.",
+   "desc": "Hybrid estates and internal platforms engineered for unit cost, golden paths your teams adopt and change windows that hold at peak.",
    "url": "/services/cloud-edge-platform-engineering/"
   },
   {
    "title": "Quantum & Advanced Compute",
    "tag": "6 practices · 14 sector briefs",
-   "desc": "Quantum readiness, optimization and PQC migration — advantage claims verified against classical baselines, or they do not reach the board pack.",
+   "desc": "Quantum readiness, optimization and PQC migration, advantage claims verified against classical baselines, or they do not reach the board pack.",
    "url": "/services/quantum-advanced-compute/"
   },
   {
    "title": "Blockchain & Digital Trust",
    "tag": "6 practices · 13 sector briefs",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared record whose attestations anchor audit and settle disputes in hours.",
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared record whose attestations anchor audit and settle disputes in hours.",
    "url": "/services/blockchain-digital-trust/"
   },
   {
    "title": "IoT, Digital Twin & Robotics",
    "tag": "7 practices · 23 sector briefs",
-   "desc": "Sensing, simulating, acting — physical assets turned into self-monitoring systems whose twins survive changeovers and audits alike.",
+   "desc": "Sensing, simulating, acting, physical assets turned into self-monitoring systems whose twins survive changeovers and audits alike.",
    "url": "/services/iot-digital-twin-robotics/"
   }
  ],

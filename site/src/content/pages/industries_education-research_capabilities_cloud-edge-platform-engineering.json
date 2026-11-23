@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. research computing fragmented gets a number, an owner and a signature; the quarter belongs to a bounded slice — research computing platform — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. research computing fragmented gets a number, an owner and a signature; the quarter belongs to a bounded slice, research computing platform, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -213,30 +213,30 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Named services for Cloud, Edge & Platform for Education & Research — each page documents the build as delivered:"
+   "x": "Named services for Cloud, Edge & Platform for Education & Research, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },
@@ -324,19 +324,19 @@
    "title": "Cloud, Edge & Platform for Higher Education & Universities",
    "url": "/industries/education-research/higher-education/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Workforce & Vocational Training",
    "url": "/industries/education-research/workforce-training/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

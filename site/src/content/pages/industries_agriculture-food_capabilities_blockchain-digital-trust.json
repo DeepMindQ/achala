@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what provenance claims unverifiable costs Agriculture & Food Systems firms in a year and the honest answer is: more than anyone has measured. We measure first, then we put the record on rails — immutable event history, selective disclosure, and integrations your counterparties' auditors accept. For Agriculture & Food Systems, this is the standard the build is held to."
+   "x": "Ask what provenance claims unverifiable costs Agriculture & Food Systems firms in a year and the honest answer is: more than anyone has measured. We measure first, then we put the record on rails, immutable event history, selective disclosure, and integrations your counterparties' auditors accept. For Agriculture & Food Systems, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. provenance claims unverifiable gets a number, an owner and a signature; the quarter belongs to a bounded slice — eudr chain-of-custody network — live on your estate. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Agriculture & Food Systems, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. provenance claims unverifiable gets a number, an owner and a signature; the quarter belongs to a bounded slice, eudr chain-of-custody network, live on your estate. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Agriculture & Food Systems, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "For the Blockchain & Digital Trust side of Agriculture & Food Systems, the binding duties are concrete — EUDR (deforestation-free due diligence with geolocation evidence for in-scope commodities); Digital Product Passport (EU) (product-level data duties approaching for food-adjacent goods); Food-safety regimes (HACCP/EU 178/FSMA) (traceability and recall duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Blockchain & Digital Trust side of Agriculture & Food Systems, the binding duties are concrete, EUDR (deforestation-free due diligence with geolocation evidence for in-scope commodities); Digital Product Passport (EU) (product-level data duties approaching for food-adjacent goods); Food-safety regimes (HACCP/EU 178/FSMA) (traceability and recall duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -86,19 +86,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -112,7 +112,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Blockchain & Digital Trust in Agriculture & Food Systems to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Blockchain & Digital Trust in Agriculture & Food Systems to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 525,
@@ -186,19 +186,19 @@
    "title": "Blockchain & Digital Trust for Agri-Food Processing",
    "url": "/industries/agriculture-food/agrifood-processing/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "Blockchain & Digital Trust for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "Blockchain & Digital Trust for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in FinTech & Digital Natives meets two truths at once — volume keeps growing, and the old way stopped scaling. The structured response: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. FinTech & Digital Natives is where this discipline pays."
+   "x": "Cyber & Zero-Trust in FinTech & Digital Natives meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. FinTech & Digital Natives is where this discipline pays."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Credit signals thin is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Credit signals thin is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In FinTech & Digital Natives, the pattern is evidence maturity — compliance-as-code mapped to licensing. Audits routine sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. FinTech & Digital Natives is where this discipline pays."
+   "x": "In FinTech & Digital Natives, the pattern is evidence maturity, compliance-as-code mapped to licensing. Audits routine sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. FinTech & Digital Natives is where this discipline pays."
   },
   {
    "t": "arch",
@@ -177,11 +177,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. credit signals thin is measured with your finance and risk leads in the room, then one working path — Evidence maturity — goes live inside the quarter. In FinTech & Digital Natives programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. credit signals thin is measured with your finance and risk leads in the room, then one working path, Evidence maturity, goes live inside the quarter. In FinTech & Digital Natives programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -189,7 +189,7 @@
   },
   {
    "t": "p",
-   "x": "The Cyber & Zero-Trust control frame for FinTech & Digital Natives: AML/CTF (monitoring duties); PSD2/PSD3 (payment rules); GDPR (financial data duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Cyber & Zero-Trust control frame for FinTech & Digital Natives: AML/CTF (monitoring duties); PSD2/PSD3 (payment rules); GDPR (financial data duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

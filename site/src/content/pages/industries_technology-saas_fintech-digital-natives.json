@@ -21,7 +21,7 @@
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring operations in FinTech & Digital Natives to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring operations in FinTech & Digital Natives to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 338,
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for FinTech & Digital Natives",
    "url": "/industries/technology-saas/fintech-digital-natives/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for FinTech & Digital Natives",
    "url": "/industries/technology-saas/fintech-digital-natives/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for FinTech & Digital Natives",
    "url": "/industries/technology-saas/fintech-digital-natives/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for FinTech & Digital Natives",
@@ -351,7 +351,7 @@
    "title": "Cloud, Edge & Platform for FinTech & Digital Natives",
    "url": "/industries/technology-saas/fintech-digital-natives/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

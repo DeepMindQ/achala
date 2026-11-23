@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Fine-tuning is a data engineering program that occasionally involves a GPU. The wins come from dataset construction — decontamination, label consistency, hard-negative mining — and the losses come from skipping the eval design and discovering regressions in front of users."
+   "x": "Fine-tuning is a data engineering program that occasionally involves a GPU. The wins come from dataset construction, decontamination, label consistency, hard-negative mining, and the losses come from skipping the eval design and discovering regressions in front of users."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "None of these failures announce themselves in the demo — they surface weeks later in production, which is why each countermeasure is structural rather than procedural."
+   "x": "None of these failures announce themselves in the demo, they surface weeks later in production, which is why each countermeasure is structural rather than procedural."
   },
   {
    "t": "table",
@@ -71,7 +71,7 @@
   {
    "t": "h2",
    "x": "Dataset to canary: the tuning factory line",
-   "sub": "Curate, decontaminate, train, evaluate, canary — as one pipeline"
+   "sub": "Curate, decontaminate, train, evaluate, canary, as one pipeline"
   },
   {
    "t": "p",
@@ -320,7 +320,7 @@
   },
   {
    "t": "p",
-   "x": "Task accuracy against base, multi-task regressions, contamination rate, distillation retention and time-to-promotion — the five numbers that decide whether tuning is compounding or thrashing."
+   "x": "Task accuracy against base, multi-task regressions, contamination rate, distillation retention and time-to-promotion, the five numbers that decide whether tuning is compounding or thrashing."
   },
   {
    "t": "idash",
@@ -671,7 +671,7 @@
   },
   {
    "t": "p",
-   "x": "The distillation decision, quantified: task quality retained and serving cost per thousand calls at each model size — the trade surfaced so the fleet mix is an economic choice, not a default."
+   "x": "The distillation decision, quantified: task quality retained and serving cost per thousand calls at each model size, the trade surfaced so the fleet mix is an economic choice, not a default."
   },
   {
    "t": "chart",
@@ -1228,7 +1228,7 @@
     [
      "Eval harness",
      "Per-task suites with thresholds; contamination checks on every run",
-     "Single aggregate score — it hides exactly the regressions that hurt"
+     "Single aggregate score, it hides exactly the regressions that hurt"
     ],
     [
      "Training compute",
@@ -1238,7 +1238,7 @@
     [
      "Registry",
      "Lineage-bound: dataset hash, config, eval report per checkpoint",
-     "Name-only versioning — it loses the audit trail regulators ask for"
+     "Name-only versioning, it loses the audit trail regulators ask for"
     ],
     [
      "Rollout",
@@ -1422,23 +1422,23 @@
   },
   {
    "t": "note",
-   "x": "Contamination probes run against every dataset version: overlapping n-grams against eval sets are measured and reported — zero is the only passing number.",
+   "x": "Contamination probes run against every dataset version: overlapping n-grams against eval sets are measured and reported, zero is the only passing number.",
    "variant": "warning"
   },
   {
    "t": "h2",
    "x": "Decontamination is the first gate",
-   "sub": "Dataset engineering as the program — leakage tests, task matrices and the promotion path",
+   "sub": "Dataset engineering as the program, leakage tests, task matrices and the promotion path",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Tuned models fail quietly through contamination: eval questions leaking into training data make the golden set flatter than reality, and the regression appears only in production phrasing. The factory therefore runs decontamination as a hard gate — n-gram and embedding-similarity scans against every eval split, with provenance recorded per document — before any GPU hour is spent. The multi-task eval matrix then protects against the classic LoRA failure: gains on the target task that quietly degrade general capability, so every candidate runs the full matrix and regression on any off-task domain blocks promotion.",
+   "x": "Tuned models fail quietly through contamination: eval questions leaking into training data make the golden set flatter than reality, and the regression appears only in production phrasing. The factory therefore runs decontamination as a hard gate, n-gram and embedding-similarity scans against every eval split, with provenance recorded per document, before any GPU hour is spent. The multi-task eval matrix then protects against the classic LoRA failure: gains on the target task that quietly degrade general capability, so every candidate runs the full matrix and regression on any off-task domain blocks promotion.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Method selection is budget-matched engineering, not fashion: LoRA for narrow style/format shifts, full tuning when behavior must move and data supports it, distillation when serving cost dominates. The registry carries signed dataset lineage — every training document traceable to its source and license class — and the promotion path ends in a canary ring before estate-wide serving, because the last mile of a tune is operational, not academic.",
+   "x": "Method selection is budget-matched engineering, not fashion: LoRA for narrow style/format shifts, full tuning when behavior must move and data supports it, distillation when serving cost dominates. The registry carries signed dataset lineage, every training document traceable to its source and license class, and the promotion path ends in a canary ring before estate-wide serving, because the last mile of a tune is operational, not academic.",
    "phase3_deep": true
   },
   {
@@ -1472,15 +1472,15 @@
     ],
     [
      "What stops a tune from quietly regressing on tasks we did not test?",
-     "The eval suite is multi-task and versioned — a candidate must hold the floor on every task family, not just average well. Regressions below the floor block promotion, and the console shows the per-task deltas."
+     "The eval suite is multi-task and versioned, a candidate must hold the floor on every task family, not just average well. Regressions below the floor block promotion, and the console shows the per-task deltas."
     ],
     [
      "Is fine-tuning always better than prompting a frontier model?",
-     "No — the chart is the argument: we size the smallest model whose quality holds the floor for the task, and distillation happens only where the eval deltas justify it. The factory prices quality against serving cost per task."
+     "No, the chart is the argument: we size the smallest model whose quality holds the floor for the task, and distillation happens only where the eval deltas justify it. The factory prices quality against serving cost per task."
     ],
     [
      "Can our team run the factory after handover?",
-     "Yes — dataset lineage, eval harness, canary cadence and the promotion gates are documented and owned by your team at handover; we support the first two promotion cycles."
+     "Yes, dataset lineage, eval harness, canary cadence and the promotion gates are documented and owned by your team at handover; we support the first two promotion cycles."
     ],
     [
      "How do you handle regulated data in training sets?",
@@ -1581,7 +1581,7 @@
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Same domain",
-   "desc": "one governed door for every model call — authz, budgets, caching, guardrails and traces — so fifty use cases stay operable and affordable."
+   "desc": "one governed door for every model call, authz, budgets, caching, guardrails and traces, so fifty use cases stay operable and affordable."
   },
   {
    "title": "Multimodal AI & Vision-Language Systems",
@@ -1593,25 +1593,25 @@
    "title": "Decision Intelligence Systems",
    "url": "/services/agentic-ai-hyperautomation/decision-intelligence-systems/",
    "tag": "Pairs with",
-   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs — decisions you can defend to a regulator, not just scores in a dashboard."
+   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs, decisions you can defend to a regulator, not just scores in a dashboard."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Pairs with",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Pairs with",
-   "desc": "workforce and machine identity lifecycle done properly — joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
+   "desc": "workforce and machine identity lifecycle done properly, joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
   },
   {
    "title": "A national EdTech platform (2M learners)",
    "url": "/case-studies/edu-02/",
    "tag": "Evidence",
-   "desc": "Outcome evidence published — renewals secured with learning-gain pipelines."
+   "desc": "Outcome evidence published, renewals secured with learning-gain pipelines."
   }
  ],
  "evidence": [

@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In 3PL & Freight Forwarding, the pattern is quote & exception agents — rate assembly and exception remediation within policy. Ops capacity freed sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "In 3PL & Freight Forwarding, the pattern is quote & exception agents, rate assembly and exception remediation within policy. Ops capacity freed sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. freight fraud rising gets a number, an owner and a signature; the quarter belongs to a bounded slice — Quote & exception agents — live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For 3PL & Freight Forwarding, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. freight fraud rising gets a number, an owner and a signature; the quarter belongs to a bounded slice, Quote & exception agents, live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For 3PL & Freight Forwarding, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",

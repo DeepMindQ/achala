@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Maintenance scheduled by evidence: failure-mode-driven models instead of anomaly  soup, work-order integration that closes the action gap, and verified outcomes that pay down truth debt — predictions that the maintenance team actually schedule against."
+   "x": "Maintenance scheduled by evidence: failure-mode-driven models instead of anomaly soup, work-order integration that closes the action gap, and verified outcomes that pay down truth debt, predictions that the maintenance team actually schedule against."
   },
   {
    "t": "p",
-   "x": "Predictive maintenance works when it is failure-mode engineering: for each asset class, the physical failure modes (bearing wear, winding insulation, cavitation), the signals that precede them, and a model per mode with a lead-time target. The value is measured in one number — unplanned downtime — and one honesty metric: how many predictions were true, false, or simply never checked."
+   "x": "Predictive maintenance works when it is failure-mode engineering: for each asset class, the physical failure modes (bearing wear, winding insulation, cavitation), the signals that precede them, and a model per mode with a lead-time target. The value is measured in one number, unplanned downtime, and one honesty metric: how many predictions were true, false, or simply never checked."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these produces dashboards the planners ignore — the countermeasures tie models to failure modes, alarms to work orders and every prediction to a verified outcome."
+   "x": "Each of these produces dashboards the planners ignore, the countermeasures tie models to failure modes, alarms to work orders and every prediction to a verified outcome."
   },
   {
    "t": "table",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Models are built per failure mode with labeled history, predictions carry lead-time estimates planners can schedule against, work-order integration closes the loop, and every intervention is verified — the truth ledger that keeps precision honest and the planners trusting."
+   "x": "Models are built per failure mode with labeled history, predictions carry lead-time estimates planners can schedule against, work-order integration closes the loop, and every intervention is verified, the truth ledger that keeps precision honest and the planners trusting."
   },
   {
    "t": "arch",
@@ -295,7 +295,7 @@
   },
   {
    "t": "p",
-   "x": "From the model's flag through planner review, work-order creation, the intervention and the verified outcome — including the false-alarm path and what it feeds back into the model."
+   "x": "From the model's flag through planner review, work-order creation, the intervention and the verified outcome, including the false-alarm path and what it feeds back into the model."
   },
   {
    "t": "diagram",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Unplanned downtime trend, prediction precision and verified outcomes — the three numbers that decide whether maintenance is evidence-led or calendar-led."
+   "x": "Unplanned downtime trend, prediction precision and verified outcomes, the three numbers that decide whether maintenance is evidence-led or calendar-led."
   },
   {
    "t": "idash",
@@ -637,7 +637,7 @@
   },
   {
    "t": "p",
-   "x": "Unplanned downtime trend and prediction precision per asset class — the paired shape that shows where predictions are earning their keep and where the failure modes need re-labeling."
+   "x": "Unplanned downtime trend and prediction precision per asset class, the paired shape that shows where predictions are earning their keep and where the failure modes need re-labeling."
   },
   {
    "t": "chart",
@@ -1162,27 +1162,27 @@
     [
      "Modes",
      "Library per asset class from physics",
-     "One generic 'failure' model — it predicts nothing"
+     "One generic 'failure' model, it predicts nothing"
     ],
     [
      "Models",
      "Model-per-mode with thresholds",
-     "Anomaly-only scoring — floods alerts"
+     "Anomaly-only scoring, floods alerts"
     ],
     [
      "Lead time",
      "Negotiated with planning windows",
-     "Technical-only targets — predictions expire unused"
+     "Technical-only targets, predictions expire unused"
     ],
     [
      "Work orders",
      "Native CMMS integration",
-     "Email alerts — nobody owns them"
+     "Email alerts, nobody owns them"
     ],
     [
      "Truth",
      "Outcome verification ledger",
-     "Set-and-forget models — they decay into noise"
+     "Set-and-forget models, they decay into noise"
     ]
    ]
   },
@@ -1336,7 +1336,7 @@
   },
   {
    "t": "p",
-   "x": "Every prediction is resolved against a verified outcome — component opened, condition confirmed or alarm refuted — and the truth ledger feeds precision metrics that planners can audit."
+   "x": "Every prediction is resolved against a verified outcome, component opened, condition confirmed or alarm refuted, and the truth ledger feeds precision metrics that planners can audit."
   },
   {
    "t": "bullets",
@@ -1361,7 +1361,7 @@
   },
   {
    "t": "note",
-   "x": "Alert floods are treated as model failures, not user problems: when alarm volume exceeds the planners' processing capacity, the model is recalibrated against the truth ledger — the action gap is closed by design, not by heroics."
+   "x": "Alert floods are treated as model failures, not user problems: when alarm volume exceeds the planners' processing capacity, the model is recalibrated against the truth ledger, the action gap is closed by design, not by heroics."
   },
   {
    "t": "h2",
@@ -1371,12 +1371,12 @@
   },
   {
    "t": "p",
-   "x": "Predictive maintenance becomes theater when the model predicts and nothing changes: alarms land in a dashboard, planners keep their PM calendar, and the same failures happen on schedule. The discipline starts from the failure-mode library — named modes per asset class (bearing wear, winding insulation, fouling), each with its own specialized model rather than one general anomaly score — and wires prediction into the CMMS: a prediction above threshold creates a work order natively, with the evidence attached and the planner's disposition requested.",
+   "x": "Predictive maintenance becomes theater when the model predicts and nothing changes: alarms land in a dashboard, planners keep their PM calendar, and the same failures happen on schedule. The discipline starts from the failure-mode library, named modes per asset class (bearing wear, winding insulation, fouling), each with its own specialized model rather than one general anomaly score, and wires prediction into the CMMS: a prediction above threshold creates a work order natively, with the evidence attached and the planner's disposition requested.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The truth ledger closes the loop: every prediction is dispositioned (act, defer, dismiss), every teardown result is recorded against the prediction, and the program KPIs read downtime, cost and prediction precision per mode — verified outcomes, not alarm counts. Models retrain on verified outcomes (the only labels that matter), and the console reads precision per mode, because a mode-level precision number is what a planner will actually trust with a maintenance window.",
+   "x": "The truth ledger closes the loop: every prediction is dispositioned (act, defer, dismiss), every teardown result is recorded against the prediction, and the program KPIs read downtime, cost and prediction precision per mode, verified outcomes, not alarm counts. Models retrain on verified outcomes (the only labels that matter), and the console reads precision per mode, because a mode-level precision number is what a planner will actually trust with a maintenance window.",
    "phase3_deep": true
   },
   {
@@ -1414,21 +1414,21 @@
     ],
     [
      "What is the truth ledger?",
-     "The verified-outcome record: every prediction is checked against what the teardown, inspection or failure actually showed — 93–98% verification — and the ledger is the governance artifact the overlay maintains."
+     "The verified-outcome record: every prediction is checked against what the teardown, inspection or failure actually showed, 93–98% verification, and the ledger is the governance artifact the overlay maintains."
     ],
     [
      "Can this work with our CMMS?",
-     "Yes — the integration surface names the CMMS, the sensor fabric and the planner’s calendar. Predictions arrive as plannable work orders with their evidence attached, not as dashboard alerts."
+     "Yes, the integration surface names the CMMS, the sensor fabric and the planner’s calendar. Predictions arrive as plannable work orders with their evidence attached, not as dashboard alerts."
     ],
     [
      "What does the maintenance organization inherit?",
-     "The predictive loop, the console with verified outcomes as the headline, the gates and the truth ledger — the organization runs on plannable notice, not on alarm fatigue."
+     "The predictive loop, the console with verified outcomes as the headline, the gates and the truth ledger, the organization runs on plannable notice, not on alarm fatigue."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask what fraction of last quarter's predictions were verified against reality. The diagnostic will build the truth ledger for your worst asset class — and show what evidence-led maintenance would save."
+   "x": "Ask what fraction of last quarter's predictions were verified against reality. The diagnostic will build the truth ledger for your worst asset class, and show what evidence-led maintenance would save."
   }
  ],
  "words": 983,
@@ -1513,43 +1513,43 @@
    "title": "Robotics & Autonomous Systems Integration",
    "url": "/services/iot-digital-twin-robotics/robotics-autonomous-systems/",
    "tag": "Same domain",
-   "desc": "robot fleets with safety cases — bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
+   "desc": "robot fleets with safety cases, bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
   },
   {
    "title": "Smart Infrastructure, Buildings & Cities",
    "url": "/services/iot-digital-twin-robotics/smart-infrastructure/",
    "tag": "Same domain",
-   "desc": "city and utility scale on the same disciplines — segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
+   "desc": "city and utility scale on the same disciplines, segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
   },
   {
    "title": "Computer Vision & Edge AI",
    "url": "/services/iot-digital-twin-robotics/computer-vision-edge-ai/",
    "tag": "Same domain",
-   "desc": "inference at the edge with model ops — constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
+   "desc": "inference at the edge with model ops, constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
   },
   {
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Pairs with",
-   "desc": "one operating model across clouds and on-prem — workload placement by policy, portable patterns, and drift that is measured in one place."
+   "desc": "one operating model across clouds and on-prem, workload placement by policy, portable patterns, and drift that is measured in one place."
   },
   {
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Pairs with",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Pairs with",
-   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline — conformance-checked, variant-ranked and ROI-priced before anything is built."
+   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline, conformance-checked, variant-ranked and ROI-priced before anything is built."
   },
   {
    "title": "A global automotive OEM",
    "url": "/case-studies/mfg-01/",
    "tag": "Evidence",
-   "desc": "OEE +7.2 points across 14 plants — sensor fabric to scheduling decisions."
+   "desc": "OEE +7.2 points across 14 plants, sensor fabric to scheduling decisions."
   }
  ],
  "evidence": [

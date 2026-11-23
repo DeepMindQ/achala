@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines — and both run better on governed telemetry, evaluation-driven ML and cost telemetry. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines, and both run better on governed telemetry, evaluation-driven ML and cost telemetry. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -272,7 +272,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring operations in Streaming & Digital Platforms to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring operations in Streaming & Digital Platforms to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 379,
@@ -337,19 +337,19 @@
    "title": "Applied AI & GenAI for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Streaming & Digital Platforms",
@@ -361,7 +361,7 @@
    "title": "Cloud, Edge & Platform for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

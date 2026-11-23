@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with Microsoft Azure covers Enterprise AI, data and hybrid estates on Microsoft Azure — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with Microsoft Azure covers Enterprise AI, data and hybrid estates on Microsoft Azure, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "Azure OpenAI retrieval platforms with citation-grade answers",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Fabric and Synapse lakehouse estates with contract-governed quality",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Hybrid zero-trust estates under Arc with policy-as-code",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Databricks-on-Azure governed platforms for regulated analytics",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },
@@ -66,7 +66,7 @@
   },
   {
    "t": "p",
-   "x": "Joint delivery on Microsoft Azure Alliance is designed for handover from the first week — runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
+   "x": "Joint delivery on Microsoft Azure Alliance is designed for handover from the first week, runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
   }
  ],
  "crumbs": [

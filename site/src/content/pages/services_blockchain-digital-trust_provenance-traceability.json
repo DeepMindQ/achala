@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "End-to-end supply-chain evidence: anchored document hashes, event provenance at every handoff, capture coverage that reaches your partners — and recall drills that resolve the affected batch in minutes, not days of spreadsheet archaeology."
+   "x": "End-to-end supply-chain evidence: anchored document hashes, event provenance at every handoff, capture coverage that reaches your partners, and recall drills that resolve the affected batch in minutes, not days of spreadsheet archaeology."
   },
   {
    "t": "h2",
@@ -18,11 +18,11 @@
   },
   {
    "t": "p",
-   "x": "Provenance is the practice of proving where a thing came from and what happened to it — across suppliers, plants, logistics and regulators. The engineering is evidence capture at handoffs (not storytelling after the fact), anchoring of document hashes to a ledger, and a query layer that reconstructs any item's history on demand."
+   "x": "Provenance is the practice of proving where a thing came from and what happened to it, across suppliers, plants, logistics and regulators. The engineering is evidence capture at handoffs (not storytelling after the fact), anchoring of document hashes to a ledger, and a query layer that reconstructs any item's history on demand."
   },
   {
    "t": "p",
-   "x": "The measure that matters is the recall drill: given a batch, how fast can you enumerate everything that touched it — forward and backward — with evidence attached? Minutes is the target; weeks is the industry norm."
+   "x": "The measure that matters is the recall drill: given a batch, how fast can you enumerate everything that touched it, forward and backward, with evidence attached? Minutes is the target; weeks is the industry norm."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these survives a pilot and fails a recall — the countermeasures measure capture coverage at partner level and drill the recall path on schedule."
+   "x": "Every one of these survives a pilot and fails a recall, the countermeasures measure capture coverage at partner level and drill the recall path on schedule."
   },
   {
    "t": "table",
@@ -71,11 +71,11 @@
   {
    "t": "h2",
    "x": "Field to ledger: the capture chain, provenance second",
-   "sub": "Normalize, anchor, reconstruct — with the crosswalk underneath"
+   "sub": "Normalize, anchor, reconstruct, with the crosswalk underneath"
   },
   {
    "t": "p",
-   "x": "Events are captured at each handoff under shared identifier standards, documents are anchored as hashes with the originals in your systems of record, and the ledger stitches the chain — so the recall query is a lookup, not an investigation."
+   "x": "Events are captured at each handoff under shared identifier standards, documents are anchored as hashes with the originals in your systems of record, and the ledger stitches the chain, so the recall query is a lookup, not an investigation."
   },
   {
    "t": "arch",
@@ -301,7 +301,7 @@
   },
   {
    "t": "p",
-   "x": "From harvest or production events through partner handoffs, anchored documents and the ledger chain to the recall drill — including the gap analysis that runs when capture coverage drops."
+   "x": "From harvest or production events through partner handoffs, anchored documents and the ledger chain to the recall drill, including the gap analysis that runs when capture coverage drops."
   },
   {
    "t": "diagram",
@@ -325,7 +325,7 @@
   },
   {
    "t": "p",
-   "x": "Recall drill time, provenance completeness and partner capture coverage — the three numbers that decide whether the chain is evidence or decoration."
+   "x": "Recall drill time, provenance completeness and partner capture coverage, the three numbers that decide whether the chain is evidence or decoration."
   },
   {
    "t": "idash",
@@ -625,7 +625,7 @@
   },
   {
    "t": "p",
-   "x": "Event capture coverage per partner tier and quarter — the shape that shows where the chain breaks and which partners need integration work, not reminders."
+   "x": "Event capture coverage per partner tier and quarter, the shape that shows where the chain breaks and which partners need integration work, not reminders."
   },
   {
    "t": "chart",
@@ -1101,27 +1101,27 @@
     [
      "Event standards",
      "EPCIS-class normalization",
-     "Proprietary JSON per partner — the crosswalk never converges"
+     "Proprietary JSON per partner, the crosswalk never converges"
     ],
     [
      "Anchoring",
      "Merkle batches to a permissioned ledger",
-     "Per-document transactions — cost kills coverage"
+     "Per-document transactions, cost kills coverage"
     ],
     [
      "Identity",
      "Partner-key crosswalk service",
-     "String-matching partner names — recalls fail on typos"
+     "String-matching partner names, recalls fail on typos"
     ],
     [
      "Documents",
      "Hash-anchored vault with credential checks",
-     "Scanned PDFs in email — nobody can verify them"
+     "Scanned PDFs in email, nobody can verify them"
     ],
     [
      "Reconstruction",
      "Drilled bi-directional tracing",
-     "Best-effort queries — drills never happen"
+     "Best-effort queries, drills never happen"
     ]
    ]
   },
@@ -1275,7 +1275,7 @@
   },
   {
    "t": "p",
-   "x": "Recall drills run on schedule with live data: the affected batch is traced, the affected downstream partners are enumerated and the notification pack is generated — recall theater dies in rehearsal."
+   "x": "Recall drills run on schedule with live data: the affected batch is traced, the affected downstream partners are enumerated and the notification pack is generated, recall theater dies in rehearsal."
   },
   {
    "t": "bullets",
@@ -1300,22 +1300,22 @@
   },
   {
    "t": "note",
-   "x": "Paper analogs are detected, not assumed away: when a partner's events arrive as week-late batch uploads, the drill treats that segment as unproven — coverage claims must match capture cadence."
+   "x": "Paper analogs are detected, not assumed away: when a partner's events arrive as week-late batch uploads, the drill treats that segment as unproven, coverage claims must match capture cadence."
   },
   {
    "t": "h2",
    "x": "Capture fidelity beats ledger choice",
-   "sub": "The capture chain, the identity crosswalk and recall drills — what actually makes provenance defensible",
+   "sub": "The capture chain, the identity crosswalk and recall drills, what actually makes provenance defensible",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Provenance programs decorate supply chains when the events are typed into portals at the end of the week; they defend supply chains when capture happens at the source, signed by the device or system that observed the physical event. The capture chain therefore runs from scanners, IoT signals and ERP events through a normalization layer that anchors batches as merkle roots — the full chain is reconstructable from the roots plus the sealed evidence store, and the identity crosswalk maps EPCIS identifiers to real parties so 'lot 4711' has a name, a site and a certification status behind it.",
+   "x": "Provenance programs decorate supply chains when the events are typed into portals at the end of the week; they defend supply chains when capture happens at the source, signed by the device or system that observed the physical event. The capture chain therefore runs from scanners, IoT signals and ERP events through a normalization layer that anchors batches as merkle roots, the full chain is reconstructable from the roots plus the sealed evidence store, and the identity crosswalk maps EPCIS identifiers to real parties so 'lot 4711' has a name, a site and a certification status behind it.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Recall drills are the product test: on a schedule, the reconstruction service must rebuild the affected lot's journey — forward and backward trace — inside the drill window, with the evidence pack a regulator expects. Partner onboarding is evidence-gated (a partner joins with capture capability proven on their line, not with a signed promise), and capture coverage is measured per tier, because tier-2 and tier-3 blindness is where recalls quietly fail.",
+   "x": "Recall drills are the product test: on a schedule, the reconstruction service must rebuild the affected lot's journey, forward and backward trace, inside the drill window, with the evidence pack a regulator expects. Partner onboarding is evidence-gated (a partner joins with capture capability proven on their line, not with a signed promise), and capture coverage is measured per tier, because tier-2 and tier-3 blindness is where recalls quietly fail.",
    "phase3_deep": true
   },
   {
@@ -1345,7 +1345,7 @@
    "items": [
     [
      "Why is provenance a capture problem before a ledger problem?",
-     "A ledger anchors what reaches it; if handoff events never get captured, the trail is decorative. Coverage per partner tier is the design target — the console shows the honest weak points, and onboarding gates prove capture before a partner ships."
+     "A ledger anchors what reaches it; if handoff events never get captured, the trail is decorative. Coverage per partner tier is the design target, the console shows the honest weak points, and onboarding gates prove capture before a partner ships."
     ],
     [
      "How does this survive a real recall drill?",
@@ -1353,11 +1353,11 @@
     ],
     [
      "What about partners with no digital systems?",
-     "The defaults table covers capture per partner class — label scans, mobile capture or EDI. Coverage targets are signed per class, and deviations where a partner cannot meet capture are priced and logged, not papered over."
+     "The defaults table covers capture per partner class, label scans, mobile capture or EDI. Coverage targets are signed per class, and deviations where a partner cannot meet capture are priced and logged, not papered over."
     ],
     [
      "Can we anchor our existing certificates and documents?",
-     "Yes — document hashes anchor at the event where the certificate is produced, so provenance covers the paper trail as well as the goods. The evidence plane reconciles both."
+     "Yes, document hashes anchor at the event where the certificate is produced, so provenance covers the paper trail as well as the goods. The evidence plane reconciles both."
     ],
     [
      "Which ledger do you use — and does it matter?",
@@ -1367,7 +1367,7 @@
   },
   {
    "t": "cta",
-   "x": "Time your last mock recall — or admit there wasn't one. The diagnostic will measure capture coverage across your partner network and drill the recall path until it resolves in minutes."
+   "x": "Time your last mock recall, or admit there wasn't one. The diagnostic will measure capture coverage across your partner network and drill the recall path until it resolves in minutes."
   }
  ],
  "words": 986,
@@ -1452,43 +1452,43 @@
    "title": "Enterprise DLT Network Engineering",
    "url": "/services/blockchain-digital-trust/enterprise-dlt-networks/",
    "tag": "Same domain",
-   "desc": "permissioned networks with real governance — membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
+   "desc": "permissioned networks with real governance, membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
   },
   {
    "title": "Smart Contract Engineering & Audit",
    "url": "/services/blockchain-digital-trust/smart-contract-engineering/",
    "tag": "Same domain",
-   "desc": "audited contracts with upgrade discipline — formal-verified cores, independent audits at zero highs, and upgrade paths that cannot surprise the network."
+   "desc": "audited contracts with upgrade discipline, formal-verified cores, independent audits at zero highs, and upgrade paths that cannot surprise the network."
   },
   {
    "title": "Asset Tokenization & Digital Assets",
    "url": "/services/blockchain-digital-trust/asset-tokenization/",
    "tag": "Same domain",
-   "desc": "regulated token designs — legal-wrapper-first architecture, transfer controls that enforce restrictions in code, and settlement that shortens cycles honestly."
+   "desc": "regulated token designs, legal-wrapper-first architecture, transfer controls that enforce restrictions in code, and settlement that shortens cycles honestly."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Pairs with",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Predictive Maintenance & Asset Intelligence",
    "url": "/services/iot-digital-twin-robotics/predictive-asset-intelligence/",
    "tag": "Pairs with",
-   "desc": "maintenance scheduled by evidence — failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
+   "desc": "maintenance scheduled by evidence, failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
   },
   {
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Pairs with",
-   "desc": "detection engineering with measured coverage — threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
+   "desc": "detection engineering with measured coverage, threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
   },
   {
    "title": "A European specialty reinsurer",
    "url": "/case-studies/ins-03/",
    "tag": "Evidence",
-   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%."
+   "desc": "Bordereaux automation and settlement evidence, reconciliation effort down 74%."
   }
  ],
  "evidence": [

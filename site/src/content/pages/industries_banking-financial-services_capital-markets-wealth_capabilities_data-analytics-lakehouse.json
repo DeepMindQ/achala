@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse treats advisor research friction in Capital Markets & Wealth Management as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Data & Lakehouse treats advisor research friction in Capital Markets & Wealth Management as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "p",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for advisor research friction — a script here, a spreadsheet there — have usually been tried in Capital Markets & Wealth Management. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for advisor research friction, a script here, a spreadsheet there, have usually been tried in Capital Markets & Wealth Management. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Capital Markets & Wealth Management, the pattern is client 360 platform — positions/performance/fees unified with certified definitions. Client questions answered live sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "In Capital Markets & Wealth Management, the pattern is client 360 platform, positions/performance/fees unified with certified definitions. Client questions answered live sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for advisor research friction is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Client 360 platform, bounded to one path, running on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Delivery opens with measurement: the baseline for advisor research friction is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Client 360 platform, bounded to one path, running on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -108,7 +108,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Data & Lakehouse for Capital Markets & Wealth Management, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Data & Lakehouse for Capital Markets & Wealth Management, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 525,

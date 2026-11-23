@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Kiln optimization on edge intelligence — specific fuel consumption down 6% and clinker quality variance down 22%"
+   "x": "Kiln optimization on edge intelligence, specific fuel consumption down 6% and clinker quality variance down 22%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a cement producer whose kiln operators tuned by flame color and whose fuel bill made the CFO learn what a kiln was. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a cement producer whose kiln operators tuned by flame color and whose fuel bill made the CFO learn what a kiln was. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Recommendations from a vendor's black box had been tried and rejected — operators overrode what they couldn't see reasons for, and the override log was the most honest document on site."
+   "x": "Recommendations from a vendor's black box had been tried and rejected, operators overrode what they couldn't see reasons for, and the override log was the most honest document on site."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The shown-reasoning operator loop is the transferable design; the thermal model's calibration is this kiln's physics. Another line starts from its override log — the diagnostic reads it first, because that is where the last project died."
+   "x": "The shown-reasoning operator loop is the transferable design; the thermal model's calibration is this kiln's physics. Another line starts from its override log, the diagnostic reads it first, because that is where the last project died."
   },
   {
    "t": "table",

@@ -9,20 +9,20 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "One governed door for every model call in the enterprise: the gateway, registry, prompt CI, guardrails, caching and spend controls that let fifty use cases share infrastructure without sharing incidents — or budgets."
+   "x": "One governed door for every model call in the enterprise: the gateway, registry, prompt CI, guardrails, caching and spend controls that let fifty use cases share infrastructure without sharing incidents, or budgets."
   },
   {
    "t": "h2",
    "x": "The platform economics nobody prices until month three",
-   "sub": "Metering, caching and allocation designed in — before the first invoice lands"
+   "sub": "Metering, caching and allocation designed in, before the first invoice lands"
   },
   {
    "t": "p",
-   "x": "The GenAI platform is the layer that makes every model call in the enterprise observable, bounded and cheap enough to survive finance. Gateway, registry, prompt CI, guardrails, caching, spend controls — none of it is glamorous, all of it decides whether the fifty use cases on the roadmap become real."
+   "x": "The GenAI platform is the layer that makes every model call in the enterprise observable, bounded and cheap enough to survive finance. Gateway, registry, prompt CI, guardrails, caching, spend controls, none of it is glamorous, all of it decides whether the fifty use cases on the roadmap become real."
   },
   {
    "t": "p",
-   "x": "Without this layer, every team builds its own model plumbing: three vector stores, five prompt formats, no idea what anything costs. With it, a new use case is configuration plus an eval suite — and the platform team holds p95 latency and cost per 1k calls the way SREs hold availability."
+   "x": "Without this layer, every team builds its own model plumbing: three vector stores, five prompt formats, no idea what anything costs. With it, a new use case is configuration plus an eval suite, and the platform team holds p95 latency and cost per 1k calls the way SREs hold availability."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Platforms fail politically before they fail technically — these four failure modes are why internal platforms get bypassed, and the countermeasures that keep teams on the governed path."
+   "x": "Platforms fail politically before they fail technically, these four failure modes are why internal platforms get bypassed, and the countermeasures that keep teams on the governed path."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Every property the platform promises — observability, bounded spend, policy enforcement — is a structural fact of this topology, not a policy document. Notice that no lane talks to a model directly except through the gateway."
+   "x": "Every property the platform promises, observability, bounded spend, policy enforcement, is a structural fact of this topology, not a policy document. Notice that no lane talks to a model directly except through the gateway."
   },
   {
    "t": "arch",
@@ -313,7 +313,7 @@
   },
   {
    "t": "p",
-   "x": "Trace one call end to end: authentication, quota check, prompt injection scan, cache lookup, model routing, guardrail pass, metered response — with the short-circuit paths where requests are stopped cheaply."
+   "x": "Trace one call end to end: authentication, quota check, prompt injection scan, cache lookup, model routing, guardrail pass, metered response, with the short-circuit paths where requests are stopped cheaply."
   },
   {
    "t": "diagram",
@@ -337,7 +337,7 @@
   },
   {
    "t": "p",
-   "x": "Latency, cache economics, unit cost, guardrail pressure and registry drift on one screen — the same numbers in the steering pack and the on-call runbook."
+   "x": "Latency, cache economics, unit cost, guardrail pressure and registry drift on one screen, the same numbers in the steering pack and the on-call runbook."
   },
   {
    "t": "idash",
@@ -1229,7 +1229,7 @@
     [
      "Guardrails",
      "Inline classification stack: injection, PII, topic, output schema",
-     "Post-hoc sampling only for internal low-risk tiers — never for regulated surfaces"
+     "Post-hoc sampling only for internal low-risk tiers, never for regulated surfaces"
     ],
     [
      "Caching",
@@ -1315,7 +1315,7 @@
     ],
     [
      "Showback dashboards",
-     "Cost per use case, per cohort, per model — owned like error budgets"
+     "Cost per use case, per cohort, per model, owned like error budgets"
     ],
     [
      "Capacity runbook",
@@ -1398,7 +1398,7 @@
   },
   {
    "t": "p",
-   "x": "Platform-level controls multiply across every consuming use case, which is exactly why they are enforced once, here — injection scanning, egress policy, key vaulting and per-domain budget enforcement."
+   "x": "Platform-level controls multiply across every consuming use case, which is exactly why they are enforced once, here, injection scanning, egress policy, key vaulting and per-domain budget enforcement."
   },
   {
    "t": "bullets",
@@ -1428,17 +1428,17 @@
   {
    "t": "h2",
    "x": "The gateway is the product",
-   "sub": "Routing, caching, budgeting and guardrails as one governed surface — and the economics that prove it",
+   "sub": "Routing, caching, budgeting and guardrails as one governed surface, and the economics that prove it",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "GenAI platforms justify themselves in month three, when the first per-team invoices land. The design that survives is the governed gateway: every request enters through one surface that routes by class of service, enforces use-case authz, applies the guard chain before generation, and meters cost per use case — so finance reads an allocation, engineering reads a router config, and neither reads a spreadsheet reconciliation. The semantic cache is the silent margin-maker: content-hash keyed, TTL-bounded and eval-safe, it turns repeated enterprise queries into a fraction of their token cost.",
+   "x": "GenAI platforms justify themselves in month three, when the first per-team invoices land. The design that survives is the governed gateway: every request enters through one surface that routes by class of service, enforces use-case authz, applies the guard chain before generation, and meters cost per use case, so finance reads an allocation, engineering reads a router config, and neither reads a spreadsheet reconciliation. The semantic cache is the silent margin-maker: content-hash keyed, TTL-bounded and eval-safe, it turns repeated enterprise queries into a fraction of their token cost.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Budgets and cutoffs are policy, not dashboards. Each use case carries a spend ceiling with a loud trip — the circuit breaker pattern the agent runtime uses — and the model registry pins versions with signed lineage, because a silent model swap is a compliance event wearing a deploy. The platform release gate asks one question: can a consuming team ship a use case without touching the platform team? If the answer is no, the golden path is not done.",
+   "x": "Budgets and cutoffs are policy, not dashboards. Each use case carries a spend ceiling with a loud trip, the circuit breaker pattern the agent runtime uses, and the model registry pins versions with signed lineage, because a silent model swap is a compliance event wearing a deploy. The platform release gate asks one question: can a consuming team ship a use case without touching the platform team? If the answer is no, the golden path is not done.",
    "phase3_deep": true
   },
   {
@@ -1454,7 +1454,7 @@
     ],
     [
      "Budgets that trip loudly",
-     "Per-use-case ceilings with circuit breakers — cost control is policy."
+     "Per-use-case ceilings with circuit breakers, cost control is policy."
     ],
     [
      "Signed model lineage",
@@ -1468,7 +1468,7 @@
    "items": [
     [
      "Why do we need a gateway when every team can call the model APIs directly?",
-     "Because direct calls are how spend, prompt quality and guardrails fragment. The gateway meters every call, caches what repeats, enforces the guardrail set once and allocates spend to teams — bypass culture is the first failure this closes."
+     "Because direct calls are how spend, prompt quality and guardrails fragment. The gateway meters every call, caches what repeats, enforces the guardrail set once and allocates spend to teams, bypass culture is the first failure this closes."
     ],
     [
      "How do you stop model providers from being swapped silently?",
@@ -1476,7 +1476,7 @@
     ],
     [
      "Can finance actually see who is spending what?",
-     "Yes — spend is metered per team, per feature and per model, allocated monthly, with unit-cost ceilings per consumer. The console finance reads is the same one engineering reads."
+     "Yes, spend is metered per team, per feature and per model, allocated monthly, with unit-cost ceilings per consumer. The console finance reads is the same one engineering reads."
     ],
     [
      "What happens when a consumer needs a capability the gateway blocks?",
@@ -1484,7 +1484,7 @@
     ],
     [
      "How long until teams are productive on the platform?",
-     "The golden path — SDK, registry entry, eval harness, spend tag — is provisioned in a day; the gates they inherit are the platform’s, so a new feature ships against the same guardrails every other team runs."
+     "The golden path, SDK, registry entry, eval harness, spend tag, is provisioned in a day; the gates they inherit are the platform’s, so a new feature ships against the same guardrails every other team runs."
     ]
    ]
   },
@@ -1570,7 +1570,7 @@
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Same domain",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "Enterprise AI Strategy & Roadmapping",
@@ -1588,25 +1588,25 @@
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Pairs with",
-   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit — orchestration that survives partial failure as a normal event."
+   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit, orchestration that survives partial failure as a normal event."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Pairs with",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Pairs with",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "A food processor (dairy)",
    "url": "/case-studies/agr-03/",
    "tag": "Evidence",
-   "desc": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program."
+   "desc": "Yield +2.8 points, recalls scoped in minutes, quality and traceability program."
   }
  ],
  "evidence": [

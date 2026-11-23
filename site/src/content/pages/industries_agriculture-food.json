@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Food systems sit under simultaneous pressure: feed more with less input, prove sustainability claims to regulators and buyers, absorb climate volatility, and keep margins across a chain famous for thinning them. The technology response spans the chain — sensing and agronomy models in the field, traceability and EUDR-grade provenance through the chain, yield and quality intelligence in processing, and provenance premium capture at retail."
+   "x": "Food systems sit under simultaneous pressure: feed more with less input, prove sustainability claims to regulators and buyers, absorb climate volatility, and keep margins across a chain famous for thinning them. The technology response spans the chain, sensing and agronomy models in the field, traceability and EUDR-grade provenance through the chain, yield and quality intelligence in processing, and provenance premium capture at retail."
   },
   {
    "t": "h2",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Agriculture & Food Systems programs pay first in this order — and here is why:"
+   "x": "Agriculture & Food Systems programs pay first in this order, and here is why:"
   },
   {
    "t": "bullets",

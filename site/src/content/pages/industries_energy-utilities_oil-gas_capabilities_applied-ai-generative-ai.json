@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI against trading decisions lag in Oil & Gas: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "Applied AI & GenAI against trading decisions lag in Oil & Gas: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Oil & Gas, the pattern is process optimization — ML-augmented APC with constraint awareness. Yield/energy up sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "In Oil & Gas, the pattern is process optimization, ML-augmented APC with constraint awareness. Yield/energy up sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. trading decisions lag is measured with your finance and risk leads in the room, then one working path — Process optimization — goes live inside the quarter. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "Nothing scales before the baseline is signed. trading decisions lag is measured with your finance and risk leads in the room, then one working path, Process optimization, goes live inside the quarter. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Oil & Gas: Process safety (Seveso/OSHA PSM) (safety-case duties); IEC 62443 (OT security); Methane regulation (EU) (measurement duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Oil & Gas: Process safety (Seveso/OSHA PSM) (safety-case duties); IEC 62443 (OT security); Methane regulation (EU) (measurement duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Applied AI & GenAI for Oil & Gas to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Applied AI & GenAI for Oil & Gas to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 440,

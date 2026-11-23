@@ -9,19 +9,19 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust treats broker/TPA ecosystem exposure in Property & Casualty as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. Property & Casualty is where this discipline pays."
+   "x": "Cyber & Zero-Trust treats broker/TPA ecosystem exposure in Property & Casualty as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. Property & Casualty is where this discipline pays."
   },
   {
    "t": "p",
-   "x": "Through the Cyber & Zero-Trust lens, the operating reality: P&C economics live in two moments: pricing the risk before the event and handling the claim after it. Both are decision factories — rate against exposure and catastrophe models, settle against policy language and fraud signals — and both reward carriers whose document and data machinery is industrialized."
+   "x": "Through the Cyber & Zero-Trust lens, the operating reality: P&C economics live in two moments: pricing the risk before the event and handling the claim after it. Both are decision factories, rate against exposure and catastrophe models, settle against policy language and fraud signals, and both reward carriers whose document and data machinery is industrialized."
   },
   {
    "t": "p",
-   "x": "Point fixes for broker/TPA ecosystem exposure — a script here, a spreadsheet there — have usually been tried in Property & Casualty. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for broker/TPA ecosystem exposure, a script here, a spreadsheet there, have usually been tried in Property & Casualty. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Property & Casualty, the pattern is TPA security gating — third-party tiers, access reviews and evidence automation. Handler risk governed sits on top as the measured result, tracked from the signed baseline onward. Around it, security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. Property & Casualty is where this discipline pays."
+   "x": "In Property & Casualty, the pattern is TPA security gating, third-party tiers, access reviews and evidence automation. Handler risk governed sits on top as the measured result, tracked from the signed baseline onward. Around it, security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. Property & Casualty is where this discipline pays."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. broker/TPA ecosystem exposure gets a number, an owner and a signature; the quarter belongs to a bounded slice — TPA security gating — live on your estate. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. broker/TPA ecosystem exposure gets a number, an owner and a signature; the quarter belongs to a bounded slice, TPA security gating, live on your estate. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Property & Casualty: Rate filing regimes — actuarial justification and filing evidence; Unfair-claims practices — timely handling and documentation. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Property & Casualty: Rate filing regimes, actuarial justification and filing evidence; Unfair-claims practices, timely handling and documentation. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

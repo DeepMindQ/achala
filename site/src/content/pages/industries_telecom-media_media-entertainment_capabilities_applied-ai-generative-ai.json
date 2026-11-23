@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Media & Entertainment gets concrete fast: Rights reconciliation disputed names a real queue, a real wait, a real cost. What we build to end it: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. For Media & Entertainment, this is the standard the build is held to."
+   "x": "Applied AI & GenAI in Media & Entertainment gets concrete fast: Rights reconciliation disputed names a real queue, a real wait, a real cost. What we build to end it: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. For Media & Entertainment, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Rights reconciliation disputed is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Rights reconciliation disputed is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Media & Entertainment, the pattern is content-ops automation — metadata/localization/compliance pipelines with human QC. Cycle down 40-60% sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. For Media & Entertainment, this is the standard the build is held to."
+   "x": "In Media & Entertainment, the pattern is content-ops automation, metadata/localization/compliance pipelines with human QC. Cycle down 40-60% sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. For Media & Entertainment, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. rights reconciliation disputed gets a number, an owner and a signature; the quarter belongs to a bounded slice — Content-ops automation — live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Media & Entertainment, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. rights reconciliation disputed gets a number, an owner and a signature; the quarter belongs to a bounded slice, Content-ops automation, live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Media & Entertainment, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Applied AI & GenAI side of Media & Entertainment, the binding duties are concrete — Privacy (CDPA/GDPR-class) (audience data duties); Content regulation (compliance/labeling duties); Rights contracts (accounting duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Applied AI & GenAI side of Media & Entertainment, the binding duties are concrete, Privacy (CDPA/GDPR-class) (audience data duties); Content regulation (compliance/labeling duties); Rights contracts (accounting duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Applied AI & GenAI for Media & Entertainment in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Applied AI & GenAI for Media & Entertainment in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 486,

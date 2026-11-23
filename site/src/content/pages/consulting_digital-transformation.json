@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Digital Transformation Programs: Transformation that changes the operating model, not just the org chart font. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Digital Transformation Programs: Transformation that changes the operating model, not just the org chart font. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Transformation programs fail at the seam between strategy and operations. We run them from both ends: the strategy end sequences a portfolio against the P&L with funding gates that can stop a program, and the operations end engineers the delivery system — platforms, pods, evidence cadence — that turns decisions into production systems. Between the two sits an operating model that names who decides what, at which gate, with which evidence."
+   "x": "Transformation programs fail at the seam between strategy and operations. We run them from both ends: the strategy end sequences a portfolio against the P&L with funding gates that can stop a program, and the operations end engineers the delivery system, platforms, pods, evidence cadence, that turns decisions into production systems. Between the two sits an operating model that names who decides what, at which gate, with which evidence."
   },
   {
    "t": "p",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a Digital Transformation Programs briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Digital Transformation Programs briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 329,

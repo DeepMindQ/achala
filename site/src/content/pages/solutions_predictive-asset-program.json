@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Predictive Maintenance & Asset Performance composes BI & Analytics Platform, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Manufacturing & Industrial, Energy & Utilities, Logistics & Supply Chain, Retail & Consumer Goods."
+   "x": "Predictive Maintenance & Asset Performance composes BI & Analytics Platform, EEMS Platform, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Manufacturing & Industrial, Energy & Utilities, Logistics & Supply Chain, Retail & Consumer Goods."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "Every Predictive Maintenance & Asset Performance value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic — never a promise from a brochure."
+   "x": "Every Predictive Maintenance & Asset Performance value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic, never a promise from a brochure."
   },
   {
    "t": "bullets",
@@ -203,7 +203,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Predictive Maintenance & Asset Performance to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Predictive Maintenance & Asset Performance to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 367,
@@ -284,7 +284,7 @@
    "title": "Intelligent Process Automation at Scale",
    "url": "/solutions/process-automation-scale/",
    "tag": "Ops",
-   "desc": "From pilot purgatory to a governed fleet — automation with conformance."
+   "desc": "From pilot purgatory to a governed fleet, automation with conformance."
   },
   {
    "title": "AIOps & Autonomous IT Operations",

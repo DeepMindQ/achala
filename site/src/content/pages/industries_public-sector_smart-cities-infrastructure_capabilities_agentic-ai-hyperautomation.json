@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Smart Cities & Infrastructure targets a specific gap: systems exist, but no governed path connects them — which is why service ops reactive still costs what it costs. The build closes it: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Smart Cities & Infrastructure, this is the standard the build is held to."
+   "x": "Agentic AI & Hyperautomation in Smart Cities & Infrastructure targets a specific gap: systems exist, but no governed path connects them, which is why service ops reactive still costs what it costs. The build closes it: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Smart Cities & Infrastructure, this is the standard the build is held to."
   },
   {
    "t": "p",
-   "x": "The Agentic AI & Hyperautomation ground truth in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
+   "x": "The Agentic AI & Hyperautomation ground truth in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
   },
   {
    "t": "p",
-   "x": "The fix for service ops reactive is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for service ops reactive is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Smart Cities & Infrastructure, the pattern is maintenance orchestration — condition-based work orders citywide. Fault-to-fix days sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Smart Cities & Infrastructure, this is the standard the build is held to."
+   "x": "In Smart Cities & Infrastructure, the pattern is maintenance orchestration, condition-based work orders citywide. Fault-to-fix days sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Smart Cities & Infrastructure, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The service ops reactive cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Maintenance orchestration), and the gate review decides what scales — all inside one quarter in Smart Cities & Infrastructure. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The service ops reactive cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Maintenance orchestration), and the gate review decides what scales, all inside one quarter in Smart Cities & Infrastructure. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -195,7 +195,7 @@
   },
   {
    "t": "p",
-   "x": "The Agentic AI & Hyperautomation control frame for Smart Cities & Infrastructure: GDPR (public-space data duties); NIS2 (essential services); Procurement law (vendor competition). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Agentic AI & Hyperautomation control frame for Smart Cities & Infrastructure: GDPR (public-space data duties); NIS2 (essential services); Procurement law (vendor competition). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Agentic AI & Hyperautomation for Smart Cities & Infrastructure to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Agentic AI & Hyperautomation for Smart Cities & Infrastructure to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 485,

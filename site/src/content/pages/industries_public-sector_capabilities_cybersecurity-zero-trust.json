@@ -169,7 +169,7 @@
   },
   {
    "t": "p",
-   "x": "The legacy estates and accreditation drag cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (zero-trust government estate), and the gate review decides what scales — all inside one quarter in Public Sector & Government. In Public Sector & Government programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The legacy estates and accreditation drag cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (zero-trust government estate), and the gate review decides what scales, all inside one quarter in Public Sector & Government. In Public Sector & Government programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -207,26 +207,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Cyber & Zero-Trust for Public Sector & Government — each page documents the build as delivered:"
+   "x": "Named services for Cyber & Zero-Trust for Public Sector & Government, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "Never trust, always verify — zero-trust as an executable architecture, not a slide."
+     "Never trust, always verify, zero-trust as an executable architecture, not a slide."
     ],
     [
      "Threat Intelligence & Managed SOC",
-     "Detection that keeps pace — intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
+     "Detection that keeps pace, intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
     ],
     [
      "Identity & Access Modernization",
-     "Identity as the perimeter — workforce, customer and machine identities on one governed plane."
+     "Identity as the perimeter, workforce, customer and machine identities on one governed plane."
     ],
     [
      "Cloud Security & Posture Management",
-     "Secure at the control plane — posture, workload and data security engineered into the platform."
+     "Secure at the control plane, posture, workload and data security engineered into the platform."
     ]
    ]
   },
@@ -240,7 +240,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust in Public Sector & Government in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust in Public Sector & Government in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 512,

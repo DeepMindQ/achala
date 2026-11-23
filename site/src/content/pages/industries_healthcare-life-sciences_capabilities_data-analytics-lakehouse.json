@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first — Healthcare & Life Sciences edition:"
+   "x": "The queues and waits that come up first, Healthcare & Life Sciences edition:"
   },
   {
    "t": "bullets",
@@ -42,11 +42,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Healthcare & Life Sciences, the working pattern is clinical data platform: EHR, imaging, genomics and claims on FHIR-native governed foundations with terminology services. Cohort queries in minutes with lineage is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Healthcare & Life Sciences, the working pattern is clinical data platform: EHR, imaging, genomics and claims on FHIR-native governed foundations with terminology services. Cohort queries in minutes with lineage is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -193,7 +193,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for trial recruitment and RWE pipelines manual is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — clinical data platform, bounded to one path, running on your estate. In Healthcare & Life Sciences programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Delivery opens with measurement: the baseline for trial recruitment and RWE pipelines manual is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, clinical data platform, bounded to one path, running on your estate. In Healthcare & Life Sciences programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -238,19 +238,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -338,25 +338,25 @@
    "title": "Data & Lakehouse for Hospitals & Provider Networks",
    "url": "/industries/healthcare-life-sciences/hospitals-providers/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Pharmaceuticals & Biotech",
    "url": "/industries/healthcare-life-sciences/pharma-biotech/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Trial eligibility matching at 10x — enrollment windows met"
+   "x": "Trial eligibility matching at 10x, enrollment windows met"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A European biopharma group — a Healthcare & Life Sciences engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A European biopharma group, a Healthcare & Life Sciences engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the eligibility engine: protocol criteria translated to governed EHR queries with evidence bundles for each candidate, plus a Quanta pilot benchmarking screening formulations against classical baselines (verdict: parity at current scale — documented). RWE pipelines moved to reusable, provenance-complete templates."
+   "x": "We built the eligibility engine: protocol criteria translated to governed EHR queries with evidence bundles for each candidate, plus a Quanta pilot benchmarking screening formulations against classical baselines (verdict: parity at current scale, documented). RWE pipelines moved to reusable, provenance-complete templates."
   },
   {
    "t": "arch",
@@ -225,7 +225,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind the European biopharma group program travels; the estate does not. Teams considering this path should expect the diagnostic to reshape scope at least once — that is the process working, not failing The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
+   "x": "The pattern behind the European biopharma group program travels; the estate does not. Teams considering this path should expect the diagnostic to reshape scope at least once, that is the process working, not failing The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",

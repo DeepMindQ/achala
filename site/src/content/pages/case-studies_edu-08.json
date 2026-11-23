@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Federated learning across hospital networks — model training across 17 sites with zero patient-data movement and the ethics board's public endorsement"
+   "x": "Federated learning across hospital networks, model training across 17 sites with zero patient-data movement and the ethics board's public endorsement"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a medical research institute whose model needed 40 hospitals' data and whose ethics board would never let it move. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a medical research institute whose model needed 40 hospitals' data and whose ethics board would never let it move. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the federated spine: training runs executed at each site with only model updates — never patient data — crossing the boundary, aggregation under cryptographic attestation each site can verify, site-level contribution and bias metrics reported openly, and the ethics documentation generated from the protocol rather than written around it. Four sites became seventeen; the board endorsed publicly."
+   "x": "We built the federated spine: training runs executed at each site with only model updates, never patient data, crossing the boundary, aggregation under cryptographic attestation each site can verify, site-level contribution and bias metrics reported openly, and the ethics documentation generated from the protocol rather than written around it. Four sites became seventeen; the board endorsed publicly."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The attested-federation pattern transfers to any multi-institution data problem; the site agreements were this institute's governance reality and the true critical path. Another consortium starts from its stalled agreements — the diagnostic finds what each site actually needs verified."
+   "x": "The attested-federation pattern transfers to any multi-institution data problem; the site agreements were this institute's governance reality and the true critical path. Another consortium starts from its stalled agreements, the diagnostic finds what each site actually needs verified."
   },
   {
    "t": "table",

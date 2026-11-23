@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Setting the Cyber & Zero-Trust scene in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
+   "x": "Setting the Cyber & Zero-Trust scene in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
   },
   {
    "t": "p",
-   "x": "The fix for citizen privacy risk is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for citizen privacy risk is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Smart Cities & Infrastructure, the pattern is urban OT security — segmentation and monitoring for public systems. Resilience evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Smart Cities & Infrastructure, the pattern is urban OT security, segmentation and monitoring for public systems. Resilience evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -181,7 +181,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. citizen privacy risk gets a number, an owner and a signature; the quarter belongs to a bounded slice — Urban OT security — live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For Smart Cities & Infrastructure, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. citizen privacy risk gets a number, an owner and a signature; the quarter belongs to a bounded slice, Urban OT security, live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For Smart Cities & Infrastructure, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -189,7 +189,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Smart Cities & Infrastructure: GDPR — public-space data duties; NIS2 — essential services. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Smart Cities & Infrastructure: GDPR, public-space data duties; NIS2, essential services. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",
@@ -227,7 +227,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust for Smart Cities & Infrastructure in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust for Smart Cities & Infrastructure in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 466,

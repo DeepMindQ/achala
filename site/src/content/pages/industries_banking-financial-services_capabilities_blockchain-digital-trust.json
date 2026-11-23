@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust as we run it in Banking & Financial Services inverts the predictable failures — the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "Blockchain & Digital Trust as we run it in Banking & Financial Services inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Blockchain & Digital Trust reality in Banking & Financial Services: Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move — loss rate, straight-through rate, cycle time."
+   "x": "One more Blockchain & Digital Trust reality in Banking & Financial Services: Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move, loss rate, straight-through rate, cycle time."
   },
   {
    "t": "h2",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. settlement and reconciliation friction gets a number, an owner and a signature; the quarter belongs to a bounded slice — interbank reconciliation network — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Banking & Financial Services, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. settlement and reconciliation friction gets a number, an owner and a signature; the quarter belongs to a bounded slice, interbank reconciliation network, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Banking & Financial Services, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Blockchain & Digital Trust in Banking & Financial Services in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Blockchain & Digital Trust in Banking & Financial Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 579,

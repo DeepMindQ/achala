@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse for Oil & Gas starts at the OT estates exposed queue — pricing it honestly, then we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Data & Lakehouse for Oil & Gas starts at the OT estates exposed queue, pricing it honestly, then we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for OT estates exposed is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for OT estates exposed is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Oil & Gas, the pattern is trading decision hub — market data + positions into scheduling/bidding. P&l up sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "In Oil & Gas, the pattern is trading decision hub, market data + positions into scheduling/bidding. P&l up sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. OT estates exposed gets a number, an owner and a signature; the quarter belongs to a bounded slice — Trading decision hub — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Oil & Gas, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. OT estates exposed gets a number, an owner and a signature; the quarter belongs to a bounded slice, Trading decision hub, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Oil & Gas, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Data & Lakehouse for Oil & Gas to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Data & Lakehouse for Oil & Gas to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 453,

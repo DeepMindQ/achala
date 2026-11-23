@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust treats traceability slow in Agri-Food Processing as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. For Agri-Food Processing, this is the standard the build is held to."
+   "x": "Blockchain & Digital Trust treats traceability slow in Agri-Food Processing as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. For Agri-Food Processing, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for traceability slow — a script here, a spreadsheet there — have usually been tried in Agri-Food Processing. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for traceability slow, a script here, a spreadsheet there, have usually been tried in Agri-Food Processing. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Agri-Food Processing, the pattern is provenance network — EUDR-grade custody with regulator interface. Claims verified sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. For Agri-Food Processing, this is the standard the build is held to."
+   "x": "In Agri-Food Processing, the pattern is provenance network, EUDR-grade custody with regulator interface. Claims verified sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. For Agri-Food Processing, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. traceability slow gets a number, an owner and a signature; the quarter belongs to a bounded slice — Provenance network — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The first two weeks belong to the baseline. traceability slow gets a number, an owner and a signature; the quarter belongs to a bounded slice, Provenance network, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Agri-Food Processing: Food safety (HACCP/EU 178/FSMA) — traceability/recall duties; EUDR — commodity evidence. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Agri-Food Processing: Food safety (HACCP/EU 178/FSMA), traceability/recall duties; EUDR, commodity evidence. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

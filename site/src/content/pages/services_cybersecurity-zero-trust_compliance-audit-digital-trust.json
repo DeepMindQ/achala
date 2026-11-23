@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Evidence-grade compliance without theater: controls mapped once across frameworks, evidence generated continuously by the systems themselves, and audits that start from a portal instead of a document hunt — with vendor blind spots named, not assumed away."
+   "x": "Evidence-grade compliance without theater: controls mapped once across frameworks, evidence generated continuously by the systems themselves, and audits that start from a portal instead of a document hunt, with vendor blind spots named, not assumed away."
   },
   {
    "t": "h2",
@@ -18,11 +18,11 @@
   },
   {
    "t": "p",
-   "x": "Compliance burns teams when it is a documentation sport: frameworks multiply, evidence is gathered by hand, and every audit becomes a fire drill. The fix is engineering — one control register mapped to many frameworks, evidence generated continuously from the systems themselves, and audits that read from the register instead of interrogating humans."
+   "x": "Compliance burns teams when it is a documentation sport: frameworks multiply, evidence is gathered by hand, and every audit becomes a fire drill. The fix is engineering, one control register mapped to many frameworks, evidence generated continuously from the systems themselves, and audits that read from the register instead of interrogating humans."
   },
   {
    "t": "p",
-   "x": "Digital trust extends this outward: customer due-diligence packs, vendor assurance, and the trust page that shows — with evidence — what you actually operate."
+   "x": "Digital trust extends this outward: customer due-diligence packs, vendor assurance, and the trust page that shows, with evidence, what you actually operate."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these costs the same audit twice — the countermeasures generate evidence where the control runs, so the artifact never goes stale."
+   "x": "Every one of these costs the same audit twice, the countermeasures generate evidence where the control runs, so the artifact never goes stale."
   },
   {
    "t": "table",
@@ -298,7 +298,7 @@
   },
   {
    "t": "p",
-   "x": "From auditor request through evidence lookup, freshness check, assertion rendering and the exception path — including what happens when evidence for a control is older than its SLA."
+   "x": "From auditor request through evidence lookup, freshness check, assertion rendering and the exception path, including what happens when evidence for a control is older than its SLA."
   },
   {
    "t": "diagram",
@@ -322,7 +322,7 @@
   },
   {
    "t": "p",
-   "x": "First-time pass rate, assertion coverage and evidence freshness — the three numbers that decide whether the next audit is a portal review or an emergency."
+   "x": "First-time pass rate, assertion coverage and evidence freshness, the three numbers that decide whether the next audit is a portal review or an emergency."
   },
   {
    "t": "idash",
@@ -644,7 +644,7 @@
   },
   {
    "t": "p",
-   "x": "Coverage and freshness per framework across the audit year — the shape that shows which frameworks are genuinely covered and which are carried by overlapping claims."
+   "x": "Coverage and freshness per framework across the audit year, the shape that shows which frameworks are genuinely covered and which are carried by overlapping claims."
   },
   {
    "t": "chart",
@@ -1138,27 +1138,27 @@
     [
      "Register",
      "Single control register with assertions",
-     "Per-framework spreadsheets — mappings rot immediately"
+     "Per-framework spreadsheets, mappings rot immediately"
     ],
     [
      "Evidence",
      "Automated collectors with immutable timestamps",
-     "Screenshot folders — provenance never survives"
+     "Screenshot folders, provenance never survives"
     ],
     [
      "Assertions",
      "Technical tests bound to each control",
-     "Policy PDFs — nothing tests behavior"
+     "Policy PDFs, nothing tests behavior"
     ],
     [
      "Audit",
      "Sampling engine over the evidence store",
-     "Human-prepared binders — weeks per request"
+     "Human-prepared binders, weeks per request"
     ],
     [
      "Vendor",
      "Continuous monitoring on critical vendors",
-     "Annual questionnaire — it measures paperwork"
+     "Annual questionnaire, it measures paperwork"
     ]
    ]
   },
@@ -1278,7 +1278,7 @@
   },
   {
    "t": "p",
-   "x": "Evidence lives in your systems of record; these contracts carry it — with freshness metadata — into the portal auditors actually use."
+   "x": "Evidence lives in your systems of record; these contracts carry it, with freshness metadata, into the portal auditors actually use."
   },
   {
    "t": "bullets",
@@ -1312,7 +1312,7 @@
   },
   {
    "t": "p",
-   "x": "Vendor controls are in scope until proven otherwise: third-party assertions are collected, freshness-tracked and spot-tested — the blind spot that fails audits is mapped, not discovered."
+   "x": "Vendor controls are in scope until proven otherwise: third-party assertions are collected, freshness-tracked and spot-tested, the blind spot that fails audits is mapped, not discovered."
   },
   {
    "t": "bullets",
@@ -1343,17 +1343,17 @@
   {
    "t": "h2",
    "x": "Audit readiness is a systems property",
-   "sub": "The control register, continuous evidence and assertion coverage — compliance as engineering",
+   "sub": "The control register, continuous evidence and assertion coverage, compliance as engineering",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Compliance becomes archaeology when controls live in documents and evidence lives in screenshots: every audit is a dig, every framework a re-mapping. The systems answer is the control register — every control with an owner, an evidence source and a review date — wired to a collector that gathers proof as the controls run: config states, access reviews, drill results, signed policy versions. Assertions are mapped per framework once; the collector keeps the evidence fresh; and an audit request is answered from the portal in hours, with the pack an examiner expects.",
+   "x": "Compliance becomes archaeology when controls live in documents and evidence lives in screenshots: every audit is a dig, every framework a re-mapping. The systems answer is the control register, every control with an owner, an evidence source and a review date, wired to a collector that gathers proof as the controls run: config states, access reviews, drill results, signed policy versions. Assertions are mapped per framework once; the collector keeps the evidence fresh; and an audit request is answered from the portal in hours, with the pack an examiner expects.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The quarterly rhythm makes it durable: assertion coverage and evidence freshness are reported per framework, gaps become backlog items with owners, and vendor/third-party assurance rides the same register (their SOC 2s, their pen-tests, tracked to review dates). The console reads readiness as a number — coverage and freshness — because a number trends, and a trend is what a board or a regulator actually trusts.",
+   "x": "The quarterly rhythm makes it durable: assertion coverage and evidence freshness are reported per framework, gaps become backlog items with owners, and vendor/third-party assurance rides the same register (their SOC 2s, their pen-tests, tracked to review dates). The console reads readiness as a number, coverage and freshness, because a number trends, and a trend is what a board or a regulator actually trusts.",
    "phase3_deep": true
   },
   {
@@ -1365,7 +1365,7 @@
     ],
     [
      "Continuous collection",
-     "Proof gathered as controls run — no screenshot archaeology."
+     "Proof gathered as controls run, no screenshot archaeology."
     ],
     [
      "Framework-mapped once",
@@ -1387,7 +1387,7 @@
     ],
     [
      "Can one control set really serve multiple frameworks?",
-     "Yes — controls are mapped once to a canonical set, then asserted per framework (SOC 2, ISO 27001, GDPR, sector rules): 88–94% coverage with the gaps named, and one evidence stream feeding every assertion."
+     "Yes, controls are mapped once to a canonical set, then asserted per framework (SOC 2, ISO 27001, GDPR, sector rules): 88–94% coverage with the gaps named, and one evidence stream feeding every assertion."
     ],
     [
      "What happens when a control fails mid-year?",
@@ -1395,17 +1395,17 @@
     ],
     [
      "How are vendors and third parties handled?",
-     "The vendor overlay carries their controls into the same plane: attestations tracked, evidence refreshed on calendar, and the console flags vendors whose assertions age out — third-party risk stops being a spreadsheet."
+     "The vendor overlay carries their controls into the same plane: attestations tracked, evidence refreshed on calendar, and the console flags vendors whose assertions age out, third-party risk stops being a spreadsheet."
     ],
     [
      "What does the compliance office inherit?",
-     "The control map, the evidence pipelines, the audit portal, the console and the gates — the office shifts from producing artifacts to reading readiness and negotiating exceptions with expiry dates."
+     "The control map, the evidence pipelines, the audit portal, the console and the gates, the office shifts from producing artifacts to reading readiness and negotiating exceptions with expiry dates."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Time your next audit's evidence hunt — then price never running it again. The diagnostic will score your evidence freshness per control family and show what portal-first audits would take."
+   "x": "Time your next audit's evidence hunt, then price never running it again. The diagnostic will score your evidence freshness per control family and show what portal-first audits would take."
   }
  ],
  "words": 988,
@@ -1490,43 +1490,43 @@
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Same domain",
-   "desc": "per-request policy decisions on identity, device and context — network location stops being a privilege, and coverage is measured on the paths that matter."
+   "desc": "per-request policy decisions on identity, device and context, network location stops being a privilege, and coverage is measured on the paths that matter."
   },
   {
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Same domain",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Same domain",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Pairs with",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "Neuromorphic & Emerging Compute Advisory",
    "url": "/services/quantum-advanced-compute/emerging-compute-advisory/",
    "tag": "Pairs with",
-   "desc": "neutral horizon scanning — photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
+   "desc": "neutral horizon scanning, photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
   },
   {
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Pairs with",
-   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers — baseline first, real data path, no demo-ware."
+   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers, baseline first, real data path, no demo-ware."
   },
   {
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

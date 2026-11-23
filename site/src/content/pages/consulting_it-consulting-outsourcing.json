@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IT Consulting & Managed Capacity: Senior capacity with accountability — scoped, governed and measurable. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "IT Consulting & Managed Capacity: Senior capacity with accountability, scoped, governed and measurable. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "Capacity flexes by quarter against measured demand — scaling pods up and down without renegotiating quality, because the delivery system (methods, runbooks, evidence) stays constant regardless of team size. Every engagement carries the same gate discipline as a full build."
+   "x": "Capacity flexes by quarter against measured demand, scaling pods up and down without renegotiating quality, because the delivery system (methods, runbooks, evidence) stays constant regardless of team size. Every engagement carries the same gate discipline as a full build."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a IT Consulting & Managed Capacity briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a IT Consulting & Managed Capacity briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 323,

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Public Sector & Government does not chase announcements; it delivers audited change — which means the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. Public Sector & Government is where this discipline pays."
+   "x": "Applied AI & GenAI in Public Sector & Government does not chase announcements; it delivers audited change, which means the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. Public Sector & Government is where this discipline pays."
   },
   {
    "t": "p",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. casework drowning in documents gets a number, an owner and a signature; the quarter belongs to a bounded slice — citizen service assistant — live on your estate. In Public Sector & Government programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. casework drowning in documents gets a number, an owner and a signature; the quarter belongs to a bounded slice, citizen service assistant, live on your estate. In Public Sector & Government programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -75,7 +75,7 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -86,19 +86,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -112,7 +112,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Applied AI & GenAI in Public Sector & Government to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Applied AI & GenAI in Public Sector & Government to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 554,
@@ -186,19 +186,19 @@
    "title": "Applied AI & GenAI for National Government & Digital Services",
    "url": "/industries/public-sector/national-government/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Smart Cities & Infrastructure",
    "url": "/industries/public-sector/smart-cities-infrastructure/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Public Safety & Justice",
    "url": "/industries/public-sector/public-safety-justice/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

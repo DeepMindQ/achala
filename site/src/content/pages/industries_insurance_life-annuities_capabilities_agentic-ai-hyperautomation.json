@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation answers Insurance & Risk pressure where it lands in Life & Annuities: surrender and service queues, week after week. The architectural answer: orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. Life & Annuities is where this discipline pays."
+   "x": "Agentic AI & Hyperautomation answers Insurance & Risk pressure where it lands in Life & Annuities: surrender and service queues, week after week. The architectural answer: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. Life & Annuities is where this discipline pays."
   },
   {
    "t": "p",
-   "x": "Through the Agentic AI & Hyperautomation lens, the operating reality: Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy — ideal ground for governed automation."
+   "x": "Through the Agentic AI & Hyperautomation lens, the operating reality: Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy, ideal ground for governed automation."
   },
   {
    "t": "p",
-   "x": "Point fixes for surrender and service queues — a script here, a spreadsheet there — have usually been tried in Life & Annuities. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for surrender and service queues, a script here, a spreadsheet there, have usually been tried in Life & Annuities. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Life & Annuities, the pattern is underwriting evidence agent — APS/paramedical/financial docs classified, extracted and assembled. Case cycle time down 40-60% sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. Life & Annuities is where this discipline pays."
+   "x": "In Life & Annuities, the pattern is underwriting evidence agent, APS/paramedical/financial docs classified, extracted and assembled. Case cycle time down 40-60% sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. Life & Annuities is where this discipline pays."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. surrender and service queues is measured with your finance and risk leads in the room, then one working path — Underwriting evidence agent — goes live inside the quarter. In Life & Annuities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. surrender and service queues is measured with your finance and risk leads in the room, then one working path, Underwriting evidence agent, goes live inside the quarter. In Life & Annuities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Agentic AI & Hyperautomation control frame for Life & Annuities: IFRS 17 / LDTI (actuarial data and reporting discipline); GLBA/privacy regimes (health and financial data duties); State insurance regulation (unfair-claims and advertising rules). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Agentic AI & Hyperautomation control frame for Life & Annuities: IFRS 17 / LDTI (actuarial data and reporting discipline); GLBA/privacy regimes (health and financial data duties); State insurance regulation (unfair-claims and advertising rules). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

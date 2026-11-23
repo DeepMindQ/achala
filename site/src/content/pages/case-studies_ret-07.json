@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Shrink analytics on a transaction spine — inventory shrink down 18% and investigations down to evidence, not suspicion"
+   "x": "Shrink analytics on a transaction spine, inventory shrink down 18% and investigations down to evidence, not suspicion"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a pharmacy retail chain whose shrink number was negotiated at year-end rather than managed any day before that. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a pharmacy retail chain whose shrink number was negotiated at year-end rather than managed any day before that. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "POS, inventory and staff-scheduling data lived apart, so a pattern that needed all three — the refund without the return, the void after the shift change — stayed invisible."
+   "x": "POS, inventory and staff-scheduling data lived apart, so a pattern that needed all three, the refund without the return, the void after the shift change, stayed invisible."
   },
   {
    "t": "h2",
@@ -210,7 +210,7 @@
   },
   {
    "t": "cta",
-   "x": "The method on this page is documented because it worked twice — here and on the next estate. Book a briefing and bring the metric you need to move."
+   "x": "The method on this page is documented because it worked twice, here and on the next estate. Book a briefing and bring the metric you need to move."
   }
  ],
  "words": 432,

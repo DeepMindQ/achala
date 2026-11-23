@@ -36,6 +36,18 @@ const HUB_BY_SLUG: Record<string, string> = {
   "blockchain-digital-trust": "Blockchain & Digital Trust",
 };
 
+/* the eight platform-suite cards — licensed products from our R&D programme */
+const SUITE_CARDS = [
+  { title: "Achala Nexus — Decision Intelligence Hub", desc: "One decision API for credit, claims, triage and fraud, with versioned policies and full replay.", url: "/platforms/nexus/" },
+  { title: "Achala Forge — Data & Lakehouse Engineering Platform", desc: "A lakehouse built with data contracts, tested pipelines and a run cost you can steer.", url: "/platforms/forge/" },
+  { title: "Achala Swarm — Agentic AI Orchestration Platform", desc: "Agent fleets run as one measurable workforce, with queues, budgets and human checkpoints.", url: "/platforms/swarm/" },
+  { title: "Achala Sentinel — Zero-Trust & AI Security Platform", desc: "Zero-trust controls for people, machines and models, with evidence your auditors accept.", url: "/platforms/sentinel/" },
+  { title: "Achala Twinverse — Digital Twin & IoT Intelligence Platform", desc: "Sensor data to simulation to actuation — a twin you can trust for physical operations.", url: "/platforms/twinverse/" },
+  { title: "Achala Quanta — Quantum & Advanced Compute Suite", desc: "Emerging compute benchmarked against the best classical baseline before you invest.", url: "/platforms/quanta/" },
+  { title: "Achala Ledger — Distributed Trust & Tokenization Platform", desc: "Permissioned networks for shared records and tokenized assets regulators can inspect.", url: "/platforms/ledger/" },
+  { title: "Achala Compass — Responsible AI & Governance Suite", desc: "Model risk, validation and monitoring with evidence your model-risk committee approves.", url: "/platforms/compass/" },
+];
+
 /* A-33: the regime each industry is held to — sourced from the industry hubs */
 const INDUSTRY_REGIME: Record<string, string> = {
   "Banking & Financial Services": "DORA",
@@ -195,7 +207,7 @@ const HOME_FAQ = [
   },
   {
     q: "What does AI-first mean in an engagement, practically?",
-    a: "AI enters where it measurably helps: document analysis that cut loan processing from 3 days to 2 hours, queue prediction that slashed laboratory queues by 20-30%, telematics analytics that optimized workforce efficiency by up to 40%. Every model ships with its measured delta against your baseline — acceleration you can audit, not a claim.",
+    a: "AI enters where it measurably helps: document analysis that cut loan processing from 3 days to 2 hours, queue prediction that brought laboratory queues down 20-30%, telematics analytics that improved workforce efficiency by up to 40%. Every model ships with its measured result against your baseline, so the acceleration is verifiable.",
   },
   {
     q: "Who delivers the work?",
@@ -279,13 +291,13 @@ export default function HomeView() {
   /* A-49/50 metadata lives in HOME_META + layout; home.json carries the same strings */
 
   const SECTION_NAV = [
-    { id: "output", label: "Delivery output" },
+    { id: "output", label: "Reporting" },
     { id: "services", label: "Services" },
     { id: "consulting", label: "Consulting" },
-    { id: "patents", label: "Accelerators" },
+    { id: "patents", label: "R&D" },
     { id: "platforms", label: "Platforms" },
     { id: "evidence", label: "Evidence" },
-    { id: "value", label: "Charter" },
+    { id: "value", label: "Method" },
     { id: "industries", label: "Industries" },
     { id: "insights", label: "Insights" },
     { id: "faq", label: "FAQ" },
@@ -316,34 +328,31 @@ export default function HomeView() {
             <Reveal className="hero-choreo">
               {/* A-02: category chips, TCS-boilerplate vocabulary — the descriptor lives here, not in the H1 */}
               <p className="rise-item text-[12px] font-semibold uppercase tracking-[0.22em] text-brand-300" style={{ ["--rise-delay" as string]: "40ms" }}>
-                AI acceleration · platform-driven delivery · full-cycle engineering
+                AI services · Platforms · Consulting
               </p>
-              {/* A-01: brand line, not a category sentence — Infosys/TCS pattern (aspiration up top, category below) */}
               <h1 className="text-display-1 mt-4 max-w-3xl text-white">
                 <span className="line-mask block" style={{ ["--rise-delay" as string]: "120ms" }}>
-                  <span className="line-mask-inner block">Intelligence, accelerated.</span>
+                  <span className="line-mask-inner block">Enterprise AI solutions,</span>
                 </span>
                 <span className="line-mask block" style={{ ["--rise-delay" as string]: "260ms" }}>
                   <span className="line-mask-inner block">
-                    Industries, <span className="grad-text">transformed</span>.
+                    from proof of concept to <span className="grad-text">production</span>.
                   </span>
                 </span>
               </h1>
-              {/* A-03: one promise sentence + one proof sentence */}
               <p className="rise-item measure mt-5 text-body-lg leading-relaxed text-white/70" style={{ ["--rise-delay" as string]: "560ms" }}>
-                Achala IT Solutions takes AI solutions from proof-of-concept to industrialized production — for Fortune
-                500 enterprises, SMEs and startups across mobility, healthcare, manufacturing and financial services.
-                Our own platforms do the heavy lifting from day one, and every engagement is measured on outcomes your
-                board already tracks.
+                Achala IT Solutions builds AI platforms and engineering services that take enterprise programs from
+                first pilot to industrialized production. Our own platforms process millions of transactions a day,
+                and every engagement is measured against a business metric you sign before delivery starts.
               </p>
               {/* A-03: the three delivery vignettes, as a rotating proof line */}
               <div className="rise-item" style={{ ["--rise-delay" as string]: "620ms" }}>
                 <RotatingProof
                   lines={[
-                    "50,000+ emergency cases a day — dispatched by one AI platform.",
-                    "KYC verified in 5 minutes — not 30 days.",
+                    "50,000+ emergency cases a day, dispatched by one AI platform.",
+                    "KYC verified in 5 minutes, not 30 days.",
                     "Loan processing cut from 3 days to 2 hours.",
-                    "Laboratory queues reduced by 20-30% across hospital OPDs.",
+                    "Laboratory queues down 20-30% across hospital OPDs.",
                     "Workforce efficiency up 40% through telematics analytics.",
                   ]}
                 />
@@ -360,18 +369,18 @@ export default function HomeView() {
                   href="/services/"
                   className="inline-flex items-center rounded-[10px] border border-white/25 px-6 py-3 text-[14px] font-medium text-white/85 transition hover:border-brand-300 hover:text-brand-300"
                 >
-                  Explore what we do
+                  Explore our services
                 </Link>
               </div>
               <p className="rise-item mt-2 text-[12px] text-white/45" style={{ ["--rise-delay" as string]: "720ms" }}>
-                45 minutes with a practice lead — leave with your acceleration path scoped.
+                45 minutes with a practice lead. You leave with a written feasibility note.
               </p>
               {/* A-05: outcome proof instead of compliance badges, linking to the evidence */}
               <p className="rise-item mt-6 flex flex-wrap items-center gap-x-4 gap-y-2 text-[12.5px] text-white/65" style={{ ["--rise-delay" as string]: "780ms" }}>
                 <Link href="#evidence" className="inline-flex flex-wrap items-center gap-x-2 gap-y-1 hover:text-brand-300">
                   <ShieldCheck className="h-3.5 w-3.5 text-brand-300" aria-hidden="true" />
-                  <span className="font-semibold text-white/80">KYC 60% faster · lab queues −20-30% · loans 3 days → 2 hours</span>
-                  <span className="text-white/45">— see the engagements</span>
+                  <span className="font-semibold text-white/80">KYC 60% faster · lab queues −20-30% · loans 3 days to 2 hours</span>
+                  <span className="text-white/45">— see the client engagements</span>
                 </Link>
                 <span className="rounded-full border border-white/15 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-white/45">
                   Published engagement deltas
@@ -418,15 +427,13 @@ export default function HomeView() {
         <div className="absolute inset-0 pattern-noise" aria-hidden="true" />
         <div className="relative container-dq section-y-sm">
           <Reveal>
-            <p className="kicker-bar-dark text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-300">What delivery produces</p>
-            {/* A-12 */}
+            <p className="kicker-bar-dark text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-300">Delivery reporting</p>
             <h2 className="text-display-3 mt-1 max-w-4xl text-white sm:text-[28px]">
-              The numbers your leadership signs off — refreshed every fortnight, against the baseline you signed
+              Your program reports the numbers leadership signed off on — every fortnight, against the baseline
             </h2>
-            {/* A-13: the intro carries a sample panel row, labeled illustrative */}
             <p className="mt-2 max-w-4xl text-[14.5px] leading-relaxed text-white/65">
-              One panel per program surface — consulting or deep-tech, generated from your estate, so week two
-              already reads like your business. A sample row, illustrative reference program:{" "}
+              One panel per program surface, generated from your estate, so week two already reflects your business. A
+              sample row, illustrative reference program:{" "}
               <span className="rounded-md border border-white/20 bg-white/[0.07] px-2 py-0.5 font-mono text-[11.5px] text-white/85">
                 Decision p95 148 ms · owner: COO · refreshed 14 days · evidence: replay pack
               </span>
@@ -465,16 +472,13 @@ export default function HomeView() {
                 <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
                   Services &amp; consulting
                 </p>
-                {/* A-17 */}
                 <h2 className="text-display-3 mt-1 max-w-4xl text-navy-800 sm:text-[30px]">
-                  The expertise your next move needs — under one accountable delivery system
+                  Eight expertise domains, 54 practices, one delivery standard
                 </h2>
-                {/* A-18 */}
                 <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                  Decision, action, data, trust, platform, compute, records, field — one of these seams is where your
-                  P&amp;L leaks today, and deep-tech programs enter through a domain. Classic-estate work — migration,
-                  engineering pods, Azure, ERP, managed operations — enters through consulting. Both tracks run the same
-                  release gates on the same production platforms.
+                  Deep-tech programs enter through one of eight domains, from AI and data to cloud, security and IoT.
+                  Classic-estate work — migration, engineering pods, Azure, ERP, managed operations — enters through
+                  consulting. Both tracks run the same release gates on the same production platforms.
                 </p>
               </div>
               <div className="flex flex-col items-start gap-1.5">
@@ -561,16 +565,14 @@ export default function HomeView() {
                 <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
                   Consulting &amp; IT services
                 </p>
-                {/* A-23 */}
                 <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
-                  Consulting that ends in delivery — the advisor is the builder
+                  Consulting that ends in a delivered system
                 </h2>
-                {/* A-24 */}
                 <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
                   Transformation programs, migration factories, engineering pods, quality engineering, Azure estates,
-                  ERP cores, managed operations and end-user support. The team that recommends is the team that builds
-                  it — the same two-week diagnostic, signed baseline and evidence-or-stop contract as every expertise
-                  domain.
+                  ERP cores, managed operations and end-user support. The team that advises you is the team that
+                  builds — with the same two-week diagnostic, signed baseline and evidence-gated delivery as every
+                  expertise domain.
                 </p>
               </div>
               <Link
@@ -635,19 +637,18 @@ export default function HomeView() {
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
               <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-                The acceleration differential
+                Our R&amp;D programme
               </p>
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
-                AI accelerators — proven in production before they reach your program
+                AI accelerators proven in production before they reach your program
               </h2>
-              {/* A-32: the platforms named · A-28: the four-of-eight affordance */}
               <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                Ambition is common in this industry; production is not. Every engagement starts from configured
-                platforms, not a blank page and a staffing plan: AI-led dispatch and fleet readiness, document
-                intelligence for onboarding, queue prediction for hospital operations, connected-device engineering and
-                data platforms — hardened in production with clients like KIMS, AIG and European automotive groups.{" "}
+                Most providers can promise this; fewer can show it running. Every engagement starts from configured
+                platforms rather than a blank page: AI-led dispatch and fleet readiness, document intelligence for
+                onboarding, queue prediction for hospital operations and data platforms, hardened with clients like
+                KIMS, AIG and European automotive groups.{" "}
                 <Link href="/patented-intelligence/" className="link-animated font-semibold text-brand-deep">
-                  A few of the accelerator families are shown here — the acceleration map lists them all.
+                  The accelerator families are listed here — the acceleration map shows them all.
                 </Link>
               </p>
             </div>
@@ -728,13 +729,12 @@ export default function HomeView() {
                 Platforms
               </p>
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
-                The platforms that put the AI accelerators to work
+                Platforms built in-house, proven in production
               </h2>
-              {/* A-37: the role line under the row */}
               <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                EEMS runs emergency response · FMS keeps fleets ready · KYC onboards customers in minutes ·
-                Tele Medicine extends care · BI turns operations into decisions · Token Management clears queues ·
-                Patient Priority Portal personalizes care · Driisti restores sight.
+                Eight licensed products from our R&amp;D programme, from decision intelligence to AI governance, and
+                eight platforms running client operations today — emergency response, fleet management, KYC,
+                telemedicine and more.
               </p>
             </div>
             <Link
@@ -745,7 +745,34 @@ export default function HomeView() {
             </Link>
           </div>
         </Reveal>
-        <div className="mt-8">
+        <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {SUITE_CARDS.map((s, i) => (
+            <Reveal key={s.url} delay={i * 40}>
+              <Link
+                href={s.url}
+                className="tilt-card group flex h-full flex-col rounded-2xl border border-line bg-white p-5 transition hover:-translate-y-0.5 hover:border-brand/60 shadow-1 hover:shadow-2"
+              >
+                <span className="inline-flex w-fit rounded-full bg-brand-tint px-2.5 py-0.5 text-[10.5px] font-semibold uppercase tracking-wider text-brand-deep">
+                  Platform suite
+                </span>
+                <p className="mt-3 font-display text-[15px] font-semibold leading-snug text-navy-800 group-hover:text-brand-deep">
+                  {s.title}
+                </p>
+                <p className="mt-2 flex-1 text-[12.5px] leading-relaxed text-slate-body/75">{s.desc}</p>
+                <span className="mt-3 inline-flex items-center gap-1 text-[12px] font-semibold text-brand-deep">
+                  Explore <ArrowRight className="h-3.5 w-3.5 transition group-hover:translate-x-0.5" />
+                </span>
+              </Link>
+            </Reveal>
+          ))}
+        </div>
+        <Reveal>
+          <p className="mt-12 font-display text-[19px] font-semibold text-navy-800">In production today</p>
+          <p className="mt-1 max-w-2xl text-[13.5px] text-slate-body/70">
+            Platforms running client operations every day, each with a published result.
+          </p>
+        </Reveal>
+        <div className="mt-6">
           <PlatformTabs platforms={brand.platforms} />
         </div>
       </section>
@@ -761,12 +788,11 @@ export default function HomeView() {
                   Evidence library
                 </p>
                 <h2 className="text-display-3 mt-1 text-white sm:text-[28px]">
-                  The numbers are the client&rsquo;s. The method is on the page.
+                  Client numbers, published with the method behind them
                 </h2>
-                {/* A-08: reconciled count language */}
                 <p className="mt-2 max-w-2xl text-[14.5px] text-white/65">
-                  A track record you can audit: every published engagement note carries the measured delta, the system
-                  that produced it and the gates that governed the build.
+                  Every published engagement note carries the measured result, the system that produced it and the
+                  gates that governed the build.
                 </p>
               </div>
               <Link
@@ -822,9 +848,9 @@ export default function HomeView() {
       <section id="value" className="scroll-mt-24 border-y border-line bg-mist/60 dot-grid-light">
         <div className="container-dq section-y-sm">
           <Reveal>
-            <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">The operating discipline</p>
+            <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">How every engagement runs</p>
             <h2 className="text-display-3 mt-1 max-w-3xl text-navy-800 sm:text-[28px]">
-              The names signed before delivery begins — the engagement charter
+              The engagement charter, signed before delivery begins
             </h2>
           </Reveal>
           <div className="mt-8 grid gap-4 lg:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
@@ -884,12 +910,11 @@ export default function HomeView() {
                   Industries
                 </p>
                 <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
-                  Built where you operate — under the rules you are held to
+                  Built where you operate, under the rules you are held to
                 </h2>
-                {/* A-42: the list is named for what it is */}
                 <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                  Each sector brief maps the industry&rsquo;s regulatory reality and decision pressure to our expertise
-                  domains, with named workflows and the systems of record your programs will touch.
+                  Each sector brief maps the industry&rsquo;s regulations and daily workflows to our expertise domains,
+                  with named systems of record and published engagement notes.
                 </p>
               </div>
               <Link
@@ -949,8 +974,8 @@ export default function HomeView() {
                 From the delivery floor
               </h2>
               <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                Practitioner theses on the retrieval layer, decision hubs, policy envelopes and the
-                economics of GenAI — with the vendor questions you should be asking.
+                Practical writing on retrieval, decision systems and the economics of GenAI, with the vendor questions
+                you should be asking.
               </p>
             </div>
             {/* A-45: the library button is a visible button */}
@@ -1000,7 +1025,7 @@ export default function HomeView() {
             <div>
               <p className="text-[11px] font-bold uppercase tracking-[0.16em] text-brand-deep">The Delivery Floor — monthly</p>
               <p className="mt-1.5 max-w-lg font-display text-[18px] font-semibold leading-snug text-navy-800">
-                One email a month — the delivery-floor thesis, the vendor questions, no noise.
+                One email a month. What we shipped, what we learned — no noise.
               </p>
             </div>
             <NewsletterForm />
@@ -1013,7 +1038,7 @@ export default function HomeView() {
         <Reveal>
           <div className="max-w-3xl">
             <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">Before you commit</p>
-            <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">The questions every buyer asks</h2>
+            <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">Questions we hear from every buyer</h2>
           </div>
         </Reveal>
         <Reveal delay={80}>
@@ -1025,7 +1050,7 @@ export default function HomeView() {
 
       {/* closing CTA */}
       <section className="container-dq pb-16 pt-12">
-        <CtaBand message="Bring the outcome you need — we will show you the accelerator, the platform and the plan we would sign." />
+        <CtaBand message="Bring the outcome you need. We will show you the platform, the plan and the metric we would sign." />
       </section>
     </>
   );

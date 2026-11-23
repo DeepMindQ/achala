@@ -1,112 +1,84 @@
 {
- "id": "PLT-nexus-ar",
- "title": "EEMS Platform — Architecture & Trust",
+ "id": "PLT-eems-ar",
+ "title": "EEMS Platform — Architecture & Security",
  "url": "/platforms/eems/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > EEMS Platform > Architecture & Trust",
- "seo_title": "EEMS Platform — Architecture & Trust | Achala IT Solutions",
- "meta_description": "Architecture, security posture and compliance evidence for EEMS Platform — Decision Intelligence Hub from Achala IT Solutions.",
+ "breadcrumb": "Platforms > EEMS Platform > Architecture & Security",
+ "seo_title": "EEMS Platform — Architecture & Security | Achala IT Solutions",
+ "meta_description": "Architecture and security posture of EEMS Platform — AI-powered emergency response at state scale.",
  "blocks": [
   {
    "t": "hero",
-   "x": "EEMS Platform's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+   "x": "How EEMS Platform is built for 24x7 emergency duty: availability, integrations and the controls that protect patient data."
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "The EEMS Platform architecture is three planes and an evidence spine. Modules compose behind one governed API; every decision crossing a plane boundary is logged with the inputs, the policy version and the accountable owner."
-  },
-  {
-   "t": "p",
-   "x": "In EEMS Platform architecture, the build decomposes into named pieces, each with an owner and a gate:"
+   "x": "The platform runs on cloud infrastructure with redundant failover for dispatch continuity. Integrations cover call feeds, hospital availability and vehicle telematics. Sensitive patient data is encrypted in transit and at rest, with access limited by role."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Decision API",
-     "one governed entry point with SLA guarantees"
+     "High availability",
+     "Redundant deployment for dispatch continuity, 24x7 operations"
     ],
     [
-     "Policy-as-artifact",
-     "versioned decision policies with effective-dating and simulation"
+     "Role-based access",
+     "Dispatchers, crews and administrators see only what they need"
     ],
     [
-     "Champion-challenger",
-     "shadow scoring and incremental traffic shifting"
+     "Data protection",
+     "Patient data encrypted in transit and at rest"
     ],
     [
-     "Decision replay",
-     "full input/model/policy snapshots per decision"
-    ],
-    [
-     "Feature integration",
-     "online feature store with point-in-time correctness"
-    ],
-    [
-     "Decision analytics",
-     "outcome, fairness and drift monitoring"
+     "Audit logs",
+     "Every dispatch decision recorded and reviewable"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Trust and controls"
+   "x": "Security and compliance"
   },
   {
    "t": "p",
-   "x": "The program tracks these without being asked — EEMS Platform edition:"
+   "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Customer-managed keys",
-     "CMK/BYOK for all decision data"
+     "High availability",
+     "Redundant deployment for dispatch continuity, 24x7 operations"
     ],
     [
-     "Immutable replay",
-     "tamper-evident decision logs"
+     "Role-based access",
+     "Dispatchers, crews and administrators see only what they need"
     ],
     [
-     "Fairness monitoring",
-     "protected-attribute testing built in"
+     "Data protection",
+     "Patient data encrypted in transit and at rest"
     ],
     [
-     "Model-risk docs",
-     "SR 11-7/TRIM-aligned evidence generated"
+     "Audit logs",
+     "Every dispatch decision recorded and reviewable"
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Engineering standards we hold"
-  },
-  {
-   "t": "p",
-   "x": "Runtime dependencies: Databricks Feature Store, Kafka/Flink, Redis, OPA, core-system adapters. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
-  },
-  {
-   "t": "h2",
-   "x": "The delivery rhythm"
-  },
-  {
-   "t": "p",
-   "x": "Deployment models for EEMS Platform follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
   },
   {
    "t": "cta",
-   "x": "If EEMS Platform architecture is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
+   "x": "Book a briefing with the EEMS team. We will walk through your dispatch workflow and show what the platform would change."
   }
  ],
- "words": 271,
+ "words": 249,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "EEMS Platform",
- "l3": "Architecture & Trust",
+ "l3": "Architecture & Security",
  "l4": "",
  "crumbs": [
   {
@@ -118,45 +90,25 @@
    "url": null
   },
   {
-   "name": "Architecture & Trust",
+   "name": "Architecture & Security",
    "url": "/platforms/eems/architecture/"
   }
  ],
  "related": [
   {
-   "title": "EEMS Platform — Overview",
+   "title": "EEMS Platform",
    "url": "/platforms/eems/",
-   "desc": "Decision Intelligence Hub"
+   "desc": "AI-powered emergency response — dispatch, fleet readiness and field coordination"
   },
   {
-   "title": "EEMS Platform — Architecture & Trust",
+   "title": "EEMS Platform — Architecture & Security",
    "url": "/platforms/eems/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "EEMS Platform — Industry Use Cases",
    "url": "/platforms/eems/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A top-10 European retail bank",
-   "url": "/case-studies/bank-01/",
-   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A national health insurer",
-   "url": "/case-studies/hc-02/",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
-  },
-  {
-   "title": "A global fashion group",
-   "url": "/case-studies/ret-02/",
-   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

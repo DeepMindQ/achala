@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Health payers sit between clinical reality and administrative machinery: prior authorization, coding integrity, quality programs and member experience all hinge on reading clinical evidence quickly and acting on it consistently — at HIPAA-grade privacy. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Health payers sit between clinical reality and administrative machinery: prior authorization, coding integrity, quality programs and member experience all hinge on reading clinical evidence quickly and acting on it consistently, at HIPAA-grade privacy. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -224,7 +224,7 @@
   },
   {
    "t": "p",
-   "x": "Hipaa — PHI safeguards and BAA chains. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
+   "x": "Hipaa, PHI safeguards and BAA chains. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
   },
   {
    "t": "table",
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Health Insurance & Benefits",
@@ -351,7 +351,7 @@
    "title": "Cloud, Edge & Platform for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

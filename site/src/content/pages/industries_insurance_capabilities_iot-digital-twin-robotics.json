@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against claims intake drowning in documents in Insurance & Risk — the structural pressure will not be solved by another dashboard. It gets solved underneath: the physical layer gets wired to the decision loop — sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "IoT, Twin & Robotics against claims intake drowning in documents in Insurance & Risk, the structural pressure will not be solved by another dashboard. It gets solved underneath: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Insurance & Risk, the working pattern is commercial property risk telemetry: water, temperature and vibration sensors pricing and preventing perils. Water-damage frequency down on instrumented sites is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Insurance & Risk, the working pattern is commercial property risk telemetry: water, temperature and vibration sensors pricing and preventing perils. Water-damage frequency down on instrumented sites is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. claims intake drowning in documents is measured with your finance and risk leads in the room, then one working path — commercial property risk telemetry — goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Nothing scales before the baseline is signed. claims intake drowning in documents is measured with your finance and risk leads in the room, then one working path, commercial property risk telemetry, goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -229,26 +229,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for IoT, Twin & Robotics for Insurance & Risk — each page documents the build as delivered:"
+   "x": "Named services for IoT, Twin & Robotics for Insurance & Risk, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "Sense everything that matters — retrofit-friendly sensor fabric with governed telemetry."
+     "Sense everything that matters, retrofit-friendly sensor fabric with governed telemetry."
     ],
     [
      "Digital Twin Platform Engineering",
-     "Simulate before you cut steel — plant, fleet and product twins with governed physics and data."
+     "Simulate before you cut steel, plant, fleet and product twins with governed physics and data."
     ],
     [
      "Computer Vision & Edge AI",
-     "Cameras into instruments — inspection, safety and counting at the edge, inside policy."
+     "Cameras into instruments, inspection, safety and counting at the edge, inside policy."
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "Fix it before it fails — RUL models wired into planning, spare parts and work orders."
+     "Fix it before it fails, RUL models wired into planning, spare parts and work orders."
     ]
    ]
   },
@@ -336,7 +336,7 @@
    "title": "IoT, Twin & Robotics for Property & Casualty",
    "url": "/industries/insurance/property-casualty/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

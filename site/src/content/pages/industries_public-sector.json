@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Governments face a delivery paradox: citizen expectations are set by the best private digital experiences, while estates run on legacy systems, procurement cycles and risk cultures that penalize innovation. The administrations breaking the paradox do three things well — they build shared digital infrastructure (identity, payments, notification), they industrialize service delivery on data, and they deploy AI under frameworks citizens can actually inspect."
+   "x": "Governments face a delivery paradox: citizen expectations are set by the best private digital experiences, while estates run on legacy systems, procurement cycles and risk cultures that penalize innovation. The administrations breaking the paradox do three things well, they build shared digital infrastructure (identity, payments, notification), they industrialize service delivery on data, and they deploy AI under frameworks citizens can actually inspect."
   },
   {
    "t": "h2",
@@ -133,22 +133,22 @@
   },
   {
    "t": "p",
-   "x": "Reference deliveries in Public Sector & Government — identity withheld as standard, method notes available under NDA:"
+   "x": "Reference deliveries in Public Sector & Government, identity withheld as standard, method notes available under NDA:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "A national digital-government agency",
-     "Case processing down 52% — document intelligence under accountable-AI gates"
+     "Case processing down 52%, document intelligence under accountable-AI gates"
     ],
     [
      "A national tax administration",
-     "Fraud and error capture up 26% — cross-source analytics with investigator case packs"
+     "Fraud and error capture up 26%, cross-source analytics with investigator case packs"
     ],
     [
      "A metropolitan city government",
-     "Fault-to-fix down 63% and street-light energy down 22% — urban asset platform"
+     "Fault-to-fix down 63% and street-light energy down 22%, urban asset platform"
     ]
    ]
   },
@@ -255,7 +255,7 @@
    "title": "National Government & Digital Services",
    "url": "/industries/public-sector/national-government/",
    "tag": "Sub-industry",
-   "desc": "National digital government builds shared rails — identity, data exchange, notification, payments — and indust…"
+   "desc": "National digital government builds shared rails, identity, data exchange, notification, payments, and indust…"
   },
   {
    "title": "Defense & National Security",
@@ -267,7 +267,7 @@
    "title": "Smart Cities & Infrastructure",
    "url": "/industries/public-sector/smart-cities-infrastructure/",
    "tag": "Sub-industry",
-   "desc": "Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the n…"
+   "desc": "Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the n…"
   },
   {
    "title": "Public Safety & Justice",

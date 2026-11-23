@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics for Automotive & Discrete Manufacturing starts at the manual inspection stations queue — pricing it honestly, then we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "IoT, Twin & Robotics for Automotive & Discrete Manufacturing starts at the manual inspection stations queue, pricing it honestly, then we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics ground truth in Automotive & Discrete Manufacturing: Automotive and discrete plants chase three numbers — OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
+   "x": "The IoT, Twin & Robotics ground truth in Automotive & Discrete Manufacturing: Automotive and discrete plants chase three numbers, OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
   },
   {
    "t": "p",
-   "x": "Manual inspection stations is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Manual inspection stations is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Automotive & Discrete Manufacturing, the pattern is line sensor fabric — retrofit sensing on live lines with governed telemetry. Oee components real sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "In Automotive & Discrete Manufacturing, the pattern is line sensor fabric, retrofit sensing on live lines with governed telemetry. Oee components real sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. manual inspection stations gets a number, an owner and a signature; the quarter belongs to a bounded slice — Line sensor fabric — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Automotive & Discrete Manufacturing, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. manual inspection stations gets a number, an owner and a signature; the quarter belongs to a bounded slice, Line sensor fabric, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Automotive & Discrete Manufacturing, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Automotive & Discrete Manufacturing: IATF 16949 — quality traceability evidence; IEC 62443 — OT security zoning. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Automotive & Discrete Manufacturing: IATF 16949, quality traceability evidence; IEC 62443, OT security zoning. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs IoT, Twin & Robotics for Automotive & Discrete Manufacturing in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs IoT, Twin & Robotics for Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 549,

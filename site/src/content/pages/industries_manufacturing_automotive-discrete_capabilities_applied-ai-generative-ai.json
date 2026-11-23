@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Through the Applied AI & GenAI lens, the operating reality: Automotive and discrete plants chase three numbers — OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
+   "x": "Through the Applied AI & GenAI lens, the operating reality: Automotive and discrete plants chase three numbers, OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Automotive & Discrete Manufacturing, the pattern is vision inspection loops — defect detection closed into andon/MES holds. Escapes down sharply sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "In Automotive & Discrete Manufacturing, the pattern is vision inspection loops, defect detection closed into andon/MES holds. Escapes down sharply sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for manual inspection stations is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Vision inspection loops, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Delivery opens with measurement: the baseline for manual inspection stations is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Vision inspection loops, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Automotive & Discrete Manufacturing: IATF 16949 (quality traceability evidence); IEC 62443 (OT security zoning); NIS2 (EU plants) (essential-entity duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Automotive & Discrete Manufacturing: IATF 16949 (quality traceability evidence); IEC 62443 (OT security zoning); NIS2 (EU plants) (essential-entity duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -108,7 +108,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Applied AI & GenAI for Automotive & Discrete Manufacturing in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Applied AI & GenAI for Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 515,

@@ -5,15 +5,15 @@
  "template": "company_page",
  "breadcrumb": "About Us > About Achala IT Solutions",
  "seo_title": "About Achala IT Solutions | AI-First, Platform-Driven Engineering",
- "meta_description": "Achala IT Solutions Private Limited — founded in 2009 in Hyderabad, an AI-first, platform-driven engineering company with global delivery from India, Germany and Bulgaria. 300+ projects, 95% client retention.",
+ "meta_description": "Achala IT Solutions — founded 2009, Hyderabad HQ with delivery teams in Munich and Sofia. 300+ people, ISO/IEC 27001, TISAX-audited, GDPR-aligned delivery.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Achala IT Solutions Private Limited, founded in 2009, is a leading AI-first solutions and platform-driven company offering full-cycle software product engineering services. Headquartered in Hyderabad with global presence in Munich and Sofia, we empower Fortune 500 enterprises, SMEs and startups."
+   "x": "Achala IT Solutions Private Limited, founded in 2009, is an AI-first, platform-driven engineering company with full-cycle software product engineering services. Headquartered in Hyderabad with delivery teams in Munich and Sofia, the company runs 300+ people, including 200+ IT specialists, and holds ISO/IEC 27001 certification with TISAX-audited, GDPR-aligned delivery."
   },
   {
    "t": "p",
-   "x": "Achala was built on a simple conviction: industries transform when AI moves out of the lab and into production. That is why our teams own the whole arc — from proof-of-concept to industrialization — across generative AI, ML, data and analytics engineering, quality engineering, connected devices and IoT, design engineering, mobile application development and DevOps."
+   "x": "Achala was built on a simple conviction: industries transform when AI moves out of the lab and into production. That is why our teams own the whole arc, from proof-of-concept to industrialization, across generative AI, ML, data and analytics engineering, quality engineering, connected devices and IoT, design engineering, mobile application development and DevOps."
   },
   {
    "t": "p",
@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "We are recognized as Innovators in the NASSCOM #AI Game Changers 2021 program and were selected for the first cohort of the Telangana AI Mission (T-AIM) revv-up accelerator. In partnership with Sulzer GmbH — one of the 25 largest IT service providers in the German automotive industry — we operate Achala Sulzer Ltd. in Sofia, offering clients flexible and global shoring models."
+   "x": "We are recognized as Innovators in the NASSCOM #AI Game Changers 2021 program and were selected for the first cohort of the Telangana AI Mission (T-AIM) revv-up accelerator. In partnership with Sulzer GmbH, one of the 25 largest IT service providers in the German automotive industry, we operate Achala Sulzer Ltd. in Sofia, offering clients flexible and global shoring models."
   },
   {
    "t": "h2",
@@ -141,11 +141,11 @@
    "items": [
     [
      "POC to industrialization",
-     "We take AI solutions from proof-of-concept to production-grade platforms — the full arc, not a demo."
+     "We take AI solutions from proof-of-concept to production-grade platforms, the full arc, not a demo."
     ],
     [
      "Platform-first delivery",
-     "Flagship platforms — EEMS, FMS, KYC, Tele Medicine, BI — arrive configured, then tailored to your estate."
+     "Flagship platforms, EEMS, FMS, KYC, Tele Medicine, BI, arrive configured, then tailored to your estate."
     ],
     [
      "Global shoring with Sulzer",

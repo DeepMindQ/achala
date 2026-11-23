@@ -67,7 +67,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. genAI stuck between pilot and policy gets a number, an owner and a signature; the quarter belongs to a bounded slice — zero-trust for the branch and core estate — live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "The first two weeks belong to the baseline. genAI stuck between pilot and policy gets a number, an owner and a signature; the quarter belongs to a bounded slice, zero-trust for the branch and core estate, live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -105,26 +105,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Cyber & Zero-Trust for Banking & Financial Services — each page documents the build as delivered:"
+   "x": "Named services for Cyber & Zero-Trust for Banking & Financial Services, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "Never trust, always verify — zero-trust as an executable architecture, not a slide."
+     "Never trust, always verify, zero-trust as an executable architecture, not a slide."
     ],
     [
      "Threat Intelligence & Managed SOC",
-     "Detection that keeps pace — intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
+     "Detection that keeps pace, intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
     ],
     [
      "Identity & Access Modernization",
-     "Identity as the perimeter — workforce, customer and machine identities on one governed plane."
+     "Identity as the perimeter, workforce, customer and machine identities on one governed plane."
     ],
     [
      "Cloud Security & Posture Management",
-     "Secure at the control plane — posture, workload and data security engineered into the platform."
+     "Secure at the control plane, posture, workload and data security engineered into the platform."
     ]
    ]
   },

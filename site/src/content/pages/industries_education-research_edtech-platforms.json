@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -337,19 +337,19 @@
    "title": "Applied AI & GenAI for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for EdTech & Learning Platforms",
@@ -361,7 +361,7 @@
    "title": "Cloud, Edge & Platform for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

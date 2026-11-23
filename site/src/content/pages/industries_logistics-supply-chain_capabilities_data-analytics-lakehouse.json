@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. visibility stitched from portals is measured with your finance and risk leads in the room, then one working path — control-tower event spine — goes live inside the quarter. In Logistics & Supply Chain programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. visibility stitched from portals is measured with your finance and risk leads in the room, then one working path, control-tower event spine, goes live inside the quarter. In Logistics & Supply Chain programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse control frame for Logistics & Supply Chain: EUDR (deforestation due diligence for in-scope commodities with evidence duties); CSRD/ISSB logistics emissions (scope 3 transport emissions with auditability); CMR/ADR/IMDG transport rules (dangerous-goods and carriage documentation duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Data & Lakehouse control frame for Logistics & Supply Chain: EUDR (deforestation due diligence for in-scope commodities with evidence duties); CSRD/ISSB logistics emissions (scope 3 transport emissions with auditability); CMR/ADR/IMDG transport rules (dangerous-goods and carriage documentation duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -86,19 +86,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -112,7 +112,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Data & Lakehouse in Logistics & Supply Chain to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Data & Lakehouse in Logistics & Supply Chain to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 511,
@@ -186,25 +186,25 @@
    "title": "Data & Lakehouse for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Last-Mile & Urban Logistics",
    "url": "/industries/logistics-supply-chain/last-mile-mobility/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

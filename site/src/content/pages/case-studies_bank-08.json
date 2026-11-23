@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Corporate-actions processing with agentic extraction — manual touches down 70% and the exception backlog cleared for the first time in two years"
+   "x": "Corporate-actions processing with agentic extraction, manual touches down 70% and the exception backlog cleared for the first time in two years"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a national CSD whose corporate-actions desk processed announcements by retyping them into twelve downstream systems. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a national CSD whose corporate-actions desk processed announcements by retyping them into twelve downstream systems. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline fortnight found 34% of announcements published late against the client's own SLA, and the exception backlog stood at 1,900 items — older than the youngest analyst on the desk."
+   "x": "The baseline fortnight found 34% of announcements published late against the client's own SLA, and the exception backlog stood at 1,900 items, older than the youngest analyst on the desk."
   },
   {
    "t": "p",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "What generalizes is the canonical-event-model-plus-confidence-gates pattern; it has since run in a fund administration business. The parser models stay estate-specific — announcement formats differ per market — which is why every rollout starts with its own diagnostic."
+   "x": "What generalizes is the canonical-event-model-plus-confidence-gates pattern; it has since run in a fund administration business. The parser models stay estate-specific, announcement formats differ per market, which is why every rollout starts with its own diagnostic."
   },
   {
    "t": "table",
@@ -209,7 +209,7 @@
   },
   {
    "t": "cta",
-   "x": "The method on this page is documented because it worked twice — here and on the next estate. Book a briefing and bring the metric you need to move."
+   "x": "The method on this page is documented because it worked twice, here and on the next estate. Book a briefing and bring the metric you need to move."
   }
  ],
  "words": 452,

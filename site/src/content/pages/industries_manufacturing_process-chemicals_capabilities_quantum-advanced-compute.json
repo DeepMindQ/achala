@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "The Quantum & Advanced Compute ground truth in Process Industries & Chemicals: Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack — now with agentic planning on top."
+   "x": "The Quantum & Advanced Compute ground truth in Process Industries & Chemicals: Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack, now with agentic planning on top."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Process Industries & Chemicals, the pattern is formulation tournaments — blend optimization benchmarked across solvers. Cost per tonne down sits on top as the measured result, tracked from the signed baseline onward. Around it, the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both. Process Industries & Chemicals is where this discipline pays."
+   "x": "In Process Industries & Chemicals, the pattern is formulation tournaments, blend optimization benchmarked across solvers. Cost per tonne down sits on top as the measured result, tracked from the signed baseline onward. Around it, the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both. Process Industries & Chemicals is where this discipline pays."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for critical assets uninstrumented is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Formulation tournaments, bounded to one path, running on your estate. In Process Industries & Chemicals programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Delivery opens with measurement: the baseline for critical assets uninstrumented is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Formulation tournaments, bounded to one path, running on your estate. In Process Industries & Chemicals programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Quantum & Advanced Compute frame in Process Industries & Chemicals: IEC 62443 / ISA S84 — OT security and SIS integrity; REACH/process safety (Seveso-class) — safety case duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Quantum & Advanced Compute frame in Process Industries & Chemicals: IEC 62443 / ISA S84, OT security and SIS integrity; REACH/process safety (Seveso-class), safety case duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

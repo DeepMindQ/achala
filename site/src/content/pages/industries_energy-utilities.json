@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The energy transition rewires the operating model: distributed renewables make supply stochastic, demand flexibility becomes an asset class, and the grid's control philosophy shifts from dispatchable certainty to probabilistic orchestration. Every actor in the value chain — generation, TSO/DSO, retail, trading, oil & gas — now competes on how fast it can turn telemetry into decisions and decisions into money."
+   "x": "The energy transition rewires the operating model: distributed renewables make supply stochastic, demand flexibility becomes an asset class, and the grid's control philosophy shifts from dispatchable certainty to probabilistic orchestration. Every actor in the value chain, generation, TSO/DSO, retail, trading, oil & gas, now competes on how fast it can turn telemetry into decisions and decisions into money."
   },
   {
    "t": "h2",
@@ -40,7 +40,7 @@
     ],
     [
      "Asset fleets uninstrumented",
-     "Turbines, transformers and pipelines hold decades of life left — and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
+     "Turbines, transformers and pipelines hold decades of life left, and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
     ],
     [
      "Trading and scheduling decisions at market speed",
@@ -129,7 +129,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs programs in Energy & Utilities in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs programs in Energy & Utilities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 505,

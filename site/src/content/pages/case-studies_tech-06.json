@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Live-service backend on capacity discipline — session infrastructure cost down 31% and launch-day concurrency 3.4x served without incident"
+   "x": "Live-service backend on capacity discipline, session infrastructure cost down 31% and launch-day concurrency 3.4x served without incident"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a gaming company whose launches were cinematic and whose backends were improvised. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a gaming company whose launches were cinematic and whose backends were improvised. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Capacity planning used peak-of-peak folklore; the real session shape — joins, matches, store traffic — lived unmeasured in fleets of similar-but-not-identical services."
+   "x": "Capacity planning used peak-of-peak folklore; the real session shape, joins, matches, store traffic, lived unmeasured in fleets of similar-but-not-identical services."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The rehearsal-gate pattern transfers to any live-service launch; the session shapes were this game's community. Another studio starts from its last outage thread — the diagnostic turns the thread into the first load model."
+   "x": "The rehearsal-gate pattern transfers to any live-service launch; the session shapes were this game's community. Another studio starts from its last outage thread, the diagnostic turns the thread into the first load model."
   },
   {
    "t": "table",

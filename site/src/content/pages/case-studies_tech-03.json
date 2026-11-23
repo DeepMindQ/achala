@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "D30 retention +4.7 points — player intelligence and live-ops automation"
+   "x": "D30 retention +4.7 points, player intelligence and live-ops automation"
   },
   {
    "t": "h2",
@@ -225,7 +225,7 @@
   },
   {
    "t": "p",
-   "x": "What transferred directly from the global gaming studio (live-service title, 15M MAU) program: the decision pattern and the evidence design. What never transfers: the estate's quirks — which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was build-run; the same pattern runs fixed-scope where the estate allows it."
+   "x": "What transferred directly from the global gaming studio (live-service title, 15M MAU) program: the decision pattern and the evidence design. What never transfers: the estate's quirks, which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was build-run; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -252,7 +252,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the same diagnostic in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the same diagnostic in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 332,

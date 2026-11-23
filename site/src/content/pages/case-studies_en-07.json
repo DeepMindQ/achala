@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Meter-data lakehouse with billing-grade quality — billing exceptions down 63% and non-technical loss analytics finally trustworthy"
+   "x": "Meter-data lakehouse with billing-grade quality, billing exceptions down 63% and non-technical loss analytics finally trustworthy"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a city utility whose meters spoke daily and whose billing listened roughly once a month. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a city utility whose meters spoke daily and whose billing listened roughly once a month. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "The meter estate was heterogeneous — three AMI generations and a decade of manual reads — and no layer existed that made any of it billing-grade."
+   "x": "The meter estate was heterogeneous, three AMI generations and a decade of manual reads, and no layer existed that made any of it billing-grade."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The quality-scoring pattern transfers to any meter estate; the AMI generation mix was this utility's procurement history. Another utility starts from its billing exceptions — the diagnostic traces them to their read quality first."
+   "x": "The quality-scoring pattern transfers to any meter estate; the AMI generation mix was this utility's procurement history. Another utility starts from its billing exceptions, the diagnostic traces them to their read quality first."
   },
   {
    "t": "table",

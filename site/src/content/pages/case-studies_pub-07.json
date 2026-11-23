@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Trusted trade documents on a permissioned network — targeting precision up 26% and documentary fraud flagged before clearance, not after"
+   "x": "Trusted trade documents on a permissioned network, targeting precision up 26% and documentary fraud flagged before clearance, not after"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a customs agency whose risk targeting read declarations and whose fraudsters wrote declarations to be read. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a customs agency whose risk targeting read declarations and whose fraudsters wrote declarations to be read. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The issue-at-source pattern transfers wherever certificates are trusted by sight; the issuing-body network was this agency's diplomatic work. Replication starts from its fraud case files — the diagnostic reads where the assertions broke."
+   "x": "The issue-at-source pattern transfers wherever certificates are trusted by sight; the issuing-body network was this agency's diplomatic work. Replication starts from its fraud case files, the diagnostic reads where the assertions broke."
   },
   {
    "t": "table",

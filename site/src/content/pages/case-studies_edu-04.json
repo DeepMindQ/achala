@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "HPC scheduling reformulated — cluster utilization up 19 points and the paper backlog from compute queues cut by two-thirds"
+   "x": "HPC scheduling reformulated, cluster utilization up 19 points and the paper backlog from compute queues cut by two-thirds"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a research university whose cluster was world-class and whose queue was world-famous among its PhD students. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a research university whose cluster was world-class and whose queue was world-famous among its PhD students. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The open-fairness-as-code pattern transfers to any shared compute estate; the job shapes were this university's research mix. Another institution starts from its queue log — the diagnostic reads a semester of it first."
+   "x": "The open-fairness-as-code pattern transfers to any shared compute estate; the job shapes were this university's research mix. Another institution starts from its queue log, the diagnostic reads a semester of it first."
   },
   {
    "t": "table",

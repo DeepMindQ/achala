@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Connected machines to connected margin — service revenue attach up 3x"
+   "x": "Connected machines to connected margin, service revenue attach up 3x"
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
    "items": [
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
     ],
     [
      "Data & Lakehouse",

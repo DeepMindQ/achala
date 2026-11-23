@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what post-quantum product pressure costs Technology & SaaS firms in a year and the honest answer is: more than anyone has measured. We measure first, then we treat advanced compute as a tool with a contract — bounded problem classes, measured speedups, and a classical baseline the CFO can read. Technology & SaaS is where this discipline pays."
+   "x": "Ask what post-quantum product pressure costs Technology & SaaS firms in a year and the honest answer is: more than anyone has measured. We measure first, then we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read. Technology & SaaS is where this discipline pays."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Technology & SaaS, the working pattern is pqc product roadmap: crypto-agility design for products holding customer secrets. Enterprise pqc demands answered is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Technology & SaaS, the working pattern is pqc product roadmap: crypto-agility design for products holding customer secrets. Enterprise pqc demands answered is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. post-quantum product pressure gets a number, an owner and a signature; the quarter belongs to a bounded slice — pqc product roadmap — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Technology & SaaS, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. post-quantum product pressure gets a number, an owner and a signature; the quarter belongs to a bounded slice, pqc product roadmap, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Technology & SaaS, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -108,19 +108,19 @@
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Quantum & Advanced Compute in Technology & SaaS, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Quantum & Advanced Compute in Technology & SaaS, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 520,
@@ -208,7 +208,7 @@
    "title": "Quantum & Advanced Compute for Semiconductors & Hardware",
    "url": "/industries/technology-saas/semiconductors-hardware/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

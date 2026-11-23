@@ -21,11 +21,11 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind Enterprise Copilots & Digital Workplace: decisions that should be systematized are still assembled by hand — one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
+   "x": "The pattern behind Enterprise Copilots & Digital Workplace: decisions that should be systematized are still assembled by hand, one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The working system, decomposed — Enterprise Copilots & Digital Workplace edition:"
+   "x": "The working system, decomposed, Enterprise Copilots & Digital Workplace edition:"
   },
   {
    "t": "bullets",
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Enterprise Copilots & Digital Workplace composes KYC Management System, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in All."
+   "x": "Enterprise Copilots & Digital Workplace composes KYC Management System, Fleet Management System, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in All."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "Enterprise Copilots & Digital Workplace runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Enterprise Copilots & Digital Workplace runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "Every Enterprise Copilots & Digital Workplace value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic — never a promise from a brochure."
+   "x": "Every Enterprise Copilots & Digital Workplace value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic, never a promise from a brochure."
   },
   {
    "t": "bullets",
@@ -278,7 +278,7 @@
    "title": "Contact Center & Conversational Transformation",
    "url": "/solutions/contact-center-transformation/",
    "tag": "People",
-   "desc": "Resolution-first voice and chat — measured on outcomes, not deflection."
+   "desc": "Resolution-first voice and chat, measured on outcomes, not deflection."
   },
   {
    "title": "Knowledge & Collaboration Fabric",

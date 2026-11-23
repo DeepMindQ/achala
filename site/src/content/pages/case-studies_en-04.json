@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Grid-edge visibility and orchestration — curtailment of renewables down 31% and congestion costs down 24% on a network built for one direction"
+   "x": "Grid-edge visibility and orchestration, curtailment of renewables down 31% and congestion costs down 24% on a network built for one direction"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a DSO whose network was engineered for power flowing one way and whose rooftops had other plans. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a DSO whose network was engineered for power flowing one way and whose rooftops had other plans. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The observability-plus-envelope pattern transfers to any DER-heavy network; the flexibility registry was this DSO's market reality. Another operator starts from its curtailment ledger — the diagnostic reconciles it to settlement first."
+   "x": "The observability-plus-envelope pattern transfers to any DER-heavy network; the flexibility registry was this DSO's market reality. Another operator starts from its curtailment ledger, the diagnostic reconciles it to settlement first."
   },
   {
    "t": "table",

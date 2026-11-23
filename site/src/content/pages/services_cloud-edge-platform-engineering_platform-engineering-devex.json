@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The platform as a product with developers as customers: golden paths published as versioned APIs, scaffolds that carry SLOs and budgets by default, bypass reasons logged and answered — adoption earned through experience, never mandated."
+   "x": "The platform as a product with developers as customers: golden paths published as versioned APIs, scaffolds that carry SLOs and budgets by default, bypass reasons logged and answered, adoption earned through experience, never mandated."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Platform engineering exists to make the right thing the easy thing: a new service should inherit observability, security defaults, SLOs and cost budgets because it rode a golden path — not because a hero wired them by hand. The platform team runs this as a product with a roadmap, SLAs and customers: your engineers."
+   "x": "Platform engineering exists to make the right thing the easy thing: a new service should inherit observability, security defaults, SLOs and cost budgets because it rode a golden path, not because a hero wired them by hand. The platform team runs this as a product with a roadmap, SLAs and customers: your engineers."
   },
   {
    "t": "p",
@@ -26,7 +26,7 @@
   },
   {
    "t": "p",
-   "x": "Below: the failure modes that make internal platforms mandatory-but-bypassed, the reference architecture of paths-as-products, and the console that tracks adoption honestly — including why people leave the path."
+   "x": "Below: the failure modes that make internal platforms mandatory-but-bypassed, the reference architecture of paths-as-products, and the console that tracks adoption honestly, including why people leave the path."
   },
   {
    "t": "h2",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each failure mode drives a quiet fork around the platform — the countermeasures log the bypass reasons and fix the platform until leaving is harder than staying."
+   "x": "Each failure mode drives a quiet fork around the platform, the countermeasures log the bypass reasons and fix the platform until leaving is harder than staying."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "A path is a product surface: versioned, documented, owned, carrying SLOs and budget defaults, deprecated on a schedule. Scaffolds instantiate paths, not templates — so every new service is observable and costed before its first commit."
+   "x": "A path is a product surface: versioned, documented, owned, carrying SLOs and budget defaults, deprecated on a schedule. Scaffolds instantiate paths, not templates, so every new service is observable and costed before its first commit."
   },
   {
    "t": "arch",
@@ -292,7 +292,7 @@
   },
   {
    "t": "p",
-   "x": "From scaffold instantiation through CI with SLO defaults, budget wiring, progressive delivery and the review that logs any manual step — including the bypass fork and what pulled the team off the path."
+   "x": "From scaffold instantiation through CI with SLO defaults, budget wiring, progressive delivery and the review that logs any manual step, including the bypass fork and what pulled the team off the path."
   },
   {
    "t": "diagram",
@@ -316,7 +316,7 @@
   },
   {
    "t": "p",
-   "x": "Repo-to-prod median, path adoption and logged bypass reasons — the three numbers that run the platform backlog, because every bypass reason is a feature request the product owes its customers."
+   "x": "Repo-to-prod median, path adoption and logged bypass reasons, the three numbers that run the platform backlog, because every bypass reason is a feature request the product owes its customers."
   },
   {
    "t": "idash",
@@ -644,7 +644,7 @@
   },
   {
    "t": "p",
-   "x": "Lead time and change failure rate for teams on-path versus off-path — the comparison that makes the platform's value statement unnecessary, because the numbers argue for it."
+   "x": "Lead time and change failure rate for teams on-path versus off-path, the comparison that makes the platform's value statement unnecessary, because the numbers argue for it."
   },
   {
    "t": "chart",
@@ -1144,27 +1144,27 @@
     [
      "Portal",
      "Backstage-class portal with scorecards",
-     "Wiki-only docs — nobody finds anything"
+     "Wiki-only docs, nobody finds anything"
     ],
     [
      "Scaffolds",
      "Versioned templates with automated upgrades",
-     "Copy-paste starter repos — rot is instant"
+     "Copy-paste starter repos, rot is instant"
     ],
     [
      "Environments",
      "Ephemeral envs per PR with cost caps",
-     "Long-lived shared staging — contention and drift"
+     "Long-lived shared staging, contention and drift"
     ],
     [
      "Support",
      "Tiered support with SLAs",
-     "Slack-only support — it dies at scale"
+     "Slack-only support, it dies at scale"
     ],
     [
      "Measurement",
      "Funnel telemetry + NPS",
-     "Ticket counts — they measure complaints, not velocity"
+     "Ticket counts, they measure complaints, not velocity"
     ]
    ]
   },
@@ -1348,17 +1348,17 @@
   {
    "t": "h2",
    "x": "A golden path is a product with a roadmap",
-   "sub": "Adoption economics, scaffold contracts and the DevEx funnel — why paths win or get bypassed",
+   "sub": "Adoption economics, scaffold contracts and the DevEx funnel, why paths win or get bypassed",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Internal platforms become mandatory-but-bypassed when they are built as infrastructure rather than products: no roadmap, no support promise, no telemetry on where developers drop off. The discipline treats every path as a product — a versioned scaffold contract ('one command to a compliant service'), a support SLO on the path itself, and a DevEx funnel that measures time-to-first-deploy, time-to-production and the step where engineers fork off the path. Fork-off analysis is the honesty mechanism: engineers bypass for reasons, and every major fork reason becomes a backlog item with a date.",
+   "x": "Internal platforms become mandatory-but-bypassed when they are built as infrastructure rather than products: no roadmap, no support promise, no telemetry on where developers drop off. The discipline treats every path as a product, a versioned scaffold contract ('one command to a compliant service'), a support SLO on the path itself, and a DevEx funnel that measures time-to-first-deploy, time-to-production and the step where engineers fork off the path. Fork-off analysis is the honesty mechanism: engineers bypass for reasons, and every major fork reason becomes a backlog item with a date.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The security path is built into the scaffold rather than audited afterwards — compliance, posture and evidence generation ride the default — and the platform team's roadmap is published and adoption-owned: success is measured in path share of production deploys, not tickets closed. The console reads adoption with its reasons; the governance overlay keeps the product discipline honest (roadmaps, deprecations with notice, version contracts), because infrastructure that behaves like a product earns the adoption that infrastructure-by-mandate never does.",
+   "x": "The security path is built into the scaffold rather than audited afterwards, compliance, posture and evidence generation ride the default, and the platform team's roadmap is published and adoption-owned: success is measured in path share of production deploys, not tickets closed. The console reads adoption with its reasons; the governance overlay keeps the product discipline honest (roadmaps, deprecations with notice, version contracts), because infrastructure that behaves like a product earns the adoption that infrastructure-by-mandate never does.",
    "phase3_deep": true
   },
   {
@@ -1366,7 +1366,7 @@
    "items": [
     [
      "Path as product",
-     "Roadmap, support SLO, version contract — the platform team sells, not polices."
+     "Roadmap, support SLO, version contract, the platform team sells, not polices."
     ],
     [
      "Scaffold contracts",
@@ -1388,29 +1388,29 @@
    "items": [
     [
      "Why do developers bypass internal platforms?",
-     "Because the path was slower than the workaround. We treat the path as a product with adoption metrics and their reasons on the console — a bypass with a named reason is a roadmap item, not a compliance violation."
+     "Because the path was slower than the workaround. We treat the path as a product with adoption metrics and their reasons on the console, a bypass with a named reason is a roadmap item, not a compliance violation."
     ],
     [
      "What is a \"golden path\" technically?",
-     "A versioned API: scaffold, CI, ephemeral environments, review and deploy composed as a product surface. Teams consume the path like an API — semver releases, deprecation notices and a roadmap they can read."
+     "A versioned API: scaffold, CI, ephemeral environments, review and deploy composed as a product surface. Teams consume the path like an API, semver releases, deprecation notices and a roadmap they can read."
     ],
     [
      "How do you measure platform success?",
-     "Adoption plus velocity: time-to-first-green-CI, ephemeral environment time, review hours — on-path versus current, published on the console. If the path is not faster, the roadmap changes; adoption follows economics."
+     "Adoption plus velocity: time-to-first-green-CI, ephemeral environment time, review hours, on-path versus current, published on the console. If the path is not faster, the roadmap changes; adoption follows economics."
     ],
     [
      "Can teams deviate from the path?",
-     "Yes, with a signed deviation: the defaults table names what each path stage guarantees and the conditions under which a stage is replaced. Deviations are reviewed like product decisions — priced and dated."
+     "Yes, with a signed deviation: the defaults table names what each path stage guarantees and the conditions under which a stage is replaced. Deviations are reviewed like product decisions, priced and dated."
     ],
     [
      "What does the platform team inherit at handover?",
-     "The paths as versioned products, the console, the gates and the sprint cadence — a platform team that ships like a product team, with the adoption ledger that keeps it honest."
+     "The paths as versioned products, the console, the gates and the sprint cadence, a platform team that ships like a product team, with the adoption ledger that keeps it honest."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Count the services created last quarter and ask which ran the paved road. The diagnostic will score adoption with bypass reasons attached — and turn the top two into the platform roadmap."
+   "x": "Count the services created last quarter and ask which ran the paved road. The diagnostic will score adoption with bypass reasons attached, and turn the top two into the platform roadmap."
   }
  ],
  "words": 1026,
@@ -1495,43 +1495,43 @@
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Same domain",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Same domain",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Same domain",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Pairs with",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "Connected Products & Smart Devices",
    "url": "/services/iot-digital-twin-robotics/connected-products-devices/",
    "tag": "Pairs with",
-   "desc": "product fleets in the field — OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
+   "desc": "product fleets in the field, OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Pairs with",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

@@ -1,0 +1,143 @@
+{
+ "id": "PLT-nexus-ar",
+ "title": "Achala Nexus — Architecture & Trust",
+ "url": "/platforms/nexus/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Achala Nexus > Architecture & Trust",
+ "seo_title": "Achala Nexus — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Achala Nexus — Decision Intelligence Hub.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "How Achala Nexus is put together: the planes, the controls and the evidence export, written the way your auditors read."
+  },
+  {
+   "t": "h2",
+   "x": "How the platform works"
+  },
+  {
+   "t": "p",
+   "x": "The Achala Nexus architecture is three planes and an evidence spine. Modules compose behind one governed API; every decision crossing a plane boundary is logged with the inputs, the policy version and the accountable owner."
+  },
+  {
+   "t": "p",
+   "x": "In Achala Nexus architecture, the build decomposes into named pieces, each with an owner and a gate:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Decision API",
+     "one single entry point with SLA guarantees"
+    ],
+    [
+     "Policy-as-artifact",
+     "versioned decision policies with effective-dating and simulation"
+    ],
+    [
+     "Champion-challenger",
+     "shadow scoring and incremental traffic shifting"
+    ],
+    [
+     "Decision replay",
+     "full input/model/policy snapshots per decision"
+    ],
+    [
+     "Feature integration",
+     "online feature store with point-in-time correctness"
+    ],
+    [
+     "Decision analytics",
+     "outcome, fairness and drift monitoring"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "The platform tracks these by default, Achala Nexus edition:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Customer-managed keys",
+     "CMK/BYOK for all decision data"
+    ],
+    [
+     "Immutable replay",
+     "tamper-evident decision logs"
+    ],
+    [
+     "Fairness monitoring",
+     "protected-attribute testing built in"
+    ],
+    [
+     "Model-risk docs",
+     "SR 11-7/TRIM-aligned evidence generated"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Engineering standards we hold"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: Databricks Feature Store, Kafka/Flink, Redis, OPA, core-system adapters. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "Deployment options"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Achala Nexus follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one decision flow to a 45-minute briefing. We will show it running on Achala Nexus and leave you with a written feasibility note you can circulate."
+  }
+ ],
+ "words": 380,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Nexus",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Nexus",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/nexus/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Nexus — Decision Intelligence Hub",
+   "url": "/platforms/nexus/",
+   "desc": "Decision Intelligence Hub"
+  },
+  {
+   "title": "Achala Nexus — Architecture & Trust",
+   "url": "/platforms/nexus/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Nexus — Industry Use Cases",
+   "url": "/platforms/nexus/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Connected imaging fleets with predictive service — uptime up 3.4 points and emergency engineer dispatch down 41%"
+   "x": "Connected imaging fleets with predictive service, uptime up 3.4 points and emergency engineer dispatch down 41%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a device maker whose imaging fleets were serviced on calendar and whose hospital customers measured uptime in surgical-schedule impact. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a device maker whose imaging fleets were serviced on calendar and whose hospital customers measured uptime in surgical-schedule impact. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The twin-drives-dispatch pattern transfers to any serviced fleet; the signature library is this fleet's failure history and grows with it. Another manufacturer starts from its own service records — the diagnostic reads them first."
+   "x": "The twin-drives-dispatch pattern transfers to any serviced fleet; the signature library is this fleet's failure history and grows with it. Another manufacturer starts from its own service records, the diagnostic reads them first."
   },
   {
    "t": "table",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "UI/UX Design & Product Experience: Interfaces your customers finish — designed from evidence, built for accessibility. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "UI/UX Design & Product Experience: Interfaces your customers finish, designed from evidence, built for accessibility. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "Accessibility is an engineering requirement, not a compliance annex — WCAG 2.2 AA is the floor, verified in CI with automated checks and assistive-technology test passes. Design systems we deliver ship as versioned component libraries with usage guidance, so the hundredth screen is as considered as the first."
+   "x": "Accessibility is an engineering requirement, not a compliance annex, WCAG 2.2 AA is the floor, verified in CI with automated checks and assistive-technology test passes. Design systems we deliver ship as versioned component libraries with usage guidance, so the hundredth screen is as considered as the first."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a UI/UX Design & Product Experience briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a UI/UX Design & Product Experience briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 335,

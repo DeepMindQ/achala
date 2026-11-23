@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against device fleets unconnected in Medical Devices & MedTech: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Cloud, Edge & Platform against device fleets unconnected in Medical Devices & MedTech: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "p",
-   "x": "Through the Cloud, Edge & Platform lens, the operating reality: MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product — and EU MDR/CRA raise its bar."
+   "x": "Through the Cloud, Edge & Platform lens, the operating reality: MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product, and EU MDR/CRA raise its bar."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Medical Devices & MedTech, the pattern is service economics — cost per device instrumented; contracts repriced. Margin visible sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "In Medical Devices & MedTech, the pattern is service economics, cost per device instrumented; contracts repriced. Margin visible sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. device fleets unconnected gets a number, an owner and a signature; the quarter belongs to a bounded slice — Service economics — live on your estate. In Medical Devices & MedTech programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The first two weeks belong to the baseline. device fleets unconnected gets a number, an owner and a signature; the quarter belongs to a bounded slice, Service economics, live on your estate. In Medical Devices & MedTech programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "The Cloud, Edge & Platform control frame for Medical Devices & MedTech: EU MDR (vigilance, post-market surveillance duties); EU Cyber Resilience Act (product security duties); FDA cybersecurity guidance (premarket/postmarket cyber duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Cloud, Edge & Platform control frame for Medical Devices & MedTech: EU MDR (vigilance, post-market surveillance duties); EU Cyber Resilience Act (product security duties); FDA cybersecurity guidance (premarket/postmarket cyber duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -108,7 +108,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cloud, Edge & Platform for Medical Devices & MedTech, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cloud, Edge & Platform for Medical Devices & MedTech, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 491,

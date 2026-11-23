@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "We start Chief Security Officer by writing the mandate down — decision rights, budget authority and stop conditions — because unstated mandates are how programs drift."
+   "x": "We start Chief Security Officer by writing the mandate down, decision rights, budget authority and stop conditions, because unstated mandates are how programs drift."
   },
   {
    "t": "h2",
@@ -49,7 +49,7 @@
   },
   {
    "t": "p",
-   "x": "The practice behind Chief Security Officer is deliberately small per program — senior people, short feedback loops, and a rule that whoever designs it also sees it run."
+   "x": "The practice behind Chief Security Officer is deliberately small per program, senior people, short feedback loops, and a rule that whoever designs it also sees it run."
   },
   {
    "t": "h2",
@@ -60,21 +60,21 @@
    "items": [
     [
      "Zero-trust architecture",
-     "We commit to Zero-trust architecture as a measured outcome — reported every fortnight, audited at the gate, owned by a name on both sides."
+     "We commit to Zero-trust architecture as a measured outcome, reported every fortnight, audited at the gate, owned by a name on both sides."
     ],
     [
      "Security operations",
-     "Security operations is tracked weekly against the baseline signed in week two — the number at each gate is the number finance sees."
+     "Security operations is tracked weekly against the baseline signed in week two, the number at each gate is the number finance sees."
     ],
     [
      "Compliance",
-     "Compliance is tracked weekly against the baseline signed in week two — the number at each gate is the number finance sees."
+     "Compliance is tracked weekly against the baseline signed in week two, the number at each gate is the number finance sees."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Contact the practice directly — briefings are 45 minutes, working-session format, no pitch deck required."
+   "x": "Contact the practice directly, briefings are 45 minutes, working-session format, no pitch deck required."
   }
  ],
  "crumbs": [

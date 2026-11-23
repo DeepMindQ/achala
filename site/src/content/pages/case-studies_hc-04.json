@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ambient clinical documentation — physician note time down 37% and after-hours EHR work down 44% with full clinician review before signature"
+   "x": "Ambient clinical documentation, physician note time down 37% and after-hours EHR work down 44% with full clinician review before signature"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a twelve-hospital network whose physicians finished notes after their children's bedtime. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a twelve-hospital network whose physicians finished notes after their children's bedtime. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Ambient tools existed but produced notes the clinicians did not trust — hallucinated findings were rare but catastrophic in trust terms, and one bad draft could poison adoption for a whole service line."
+   "x": "Ambient tools existed but produced notes the clinicians did not trust, hallucinated findings were rare but catastrophic in trust terms, and one bad draft could poison adoption for a whole service line."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We deployed ambient documentation with trust engineering: encounter audio drafted into structured notes grounded in the encounter's own EHR context, every draft validated against source signals — meds, vitals, orders — before the clinician sees it, and the review step kept sacred: nothing signs without the clinician. Service-line champions reviewed quality weekly in the open."
+   "x": "We deployed ambient documentation with trust engineering: encounter audio drafted into structured notes grounded in the encounter's own EHR context, every draft validated against source signals, meds, vitals, orders, before the clinician sees it, and the review step kept sacred: nothing signs without the clinician. Service-line champions reviewed quality weekly in the open."
   },
   {
    "t": "arch",

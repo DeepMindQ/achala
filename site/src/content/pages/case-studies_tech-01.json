@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Lead time down 58%, AI margin protected — platform engineering plus AI factory"
+   "x": "Lead time down 58%, AI margin protected, platform engineering plus AI factory"
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "The platform program delivered golden paths with SLO discipline and DORA instrumentation; the AI feature factory wired evaluations, guardrails and cost telemetry into the release train; and compliance-as-code produced continuous SOC 2 evidence — security reviews passed in days."
+   "x": "The platform program delivered golden paths with SLO discipline and DORA instrumentation; the AI feature factory wired evaluations, guardrails and cost telemetry into the release train; and compliance-as-code produced continuous SOC 2 evidence, security reviews passed in days."
   },
   {
    "t": "arch",
@@ -215,7 +215,7 @@
     ],
     [
      "Cyber & Zero-Trust",
-     "the controls were architectural — identity-first, segmented, instrumented — not bolted on after the fact."
+     "the controls were architectural, identity-first, segmented, instrumented, not bolted on after the fact."
     ]
    ]
   },

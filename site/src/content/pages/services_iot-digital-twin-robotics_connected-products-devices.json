@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Product fleets in the field managed as products: OTA updates that never brick, telemetry that earns its bandwidth, support APIs your service desk can actually use — and firmware attack surfaces treated with the same gates as your cloud."
+   "x": "Product fleets in the field managed as products: OTA updates that never brick, telemetry that earns its bandwidth, support APIs your service desk can actually use, and firmware attack surfaces treated with the same gates as your cloud."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A connected product is a fleet you promised to keep working: the coffee machine in 40,000 kitchens, the charger in 200 supermarkets, the pump at 900 sites. The engineering is fleet product management — OTA with staged waves and rollback, telemetry budgets that earn their bandwidth, and diagnostics deep enough that support resolves cases before the customer finishes the call."
+   "x": "A connected product is a fleet you promised to keep working: the coffee machine in 40,000 kitchens, the charger in 200 supermarkets, the pump at 900 sites. The engineering is fleet product management, OTA with staged waves and rollback, telemetry budgets that earn their bandwidth, and diagnostics deep enough that support resolves cases before the customer finishes the call."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these surfaces as a support crisis or a security headline — the countermeasures make updates safe by design and telemetry earn its keep."
+   "x": "Each of these surfaces as a support crisis or a security headline, the countermeasures make updates safe by design and telemetry earn its keep."
   },
   {
    "t": "table",
@@ -305,7 +305,7 @@
   },
   {
    "t": "p",
-   "x": "From image signing through staged rollout, health monitoring and the auto-revert decision — including the cohort analysis that decides whether the next wave ships."
+   "x": "From image signing through staged rollout, health monitoring and the auto-revert decision, including the cohort analysis that decides whether the next wave ships."
   },
   {
    "t": "diagram",
@@ -329,7 +329,7 @@
   },
   {
    "t": "p",
-   "x": "Fleet firmware currency, update success rate and auto-revert events — the three numbers that decide whether the connected product is an asset or an apology pipeline."
+   "x": "Fleet firmware currency, update success rate and auto-revert events, the three numbers that decide whether the connected product is an asset or an apology pipeline."
   },
   {
    "t": "idash",
@@ -645,7 +645,7 @@
   },
   {
    "t": "p",
-   "x": "Success and revert rates per hardware generation and firmware version — the shape that shows which cohorts tolerate change and where the fleet needs a different update strategy."
+   "x": "Success and revert rates per hardware generation and firmware version, the shape that shows which cohorts tolerate change and where the fleet needs a different update strategy."
   },
   {
    "t": "chart",
@@ -1166,27 +1166,27 @@
     [
      "OTA",
      "A/B partitions, signed, staged",
-     "Full-image pushes with pray — bricking is when, not if"
+     "Full-image pushes with pray, bricking is when, not if"
     ],
     [
      "Telemetry",
      "Budgeted with value review",
-     "Log-everything — bandwidth and cost drown you"
+     "Log-everything, bandwidth and cost drown you"
     ],
     [
      "Support",
      "Remote diagnostics attached to cases",
-     "Phone-script support — resolution time never drops"
+     "Phone-script support, resolution time never drops"
     ],
     [
      "Security",
      "Secure boot + signed OTA",
-     "Debug ports left open — the fleet is the attack surface"
+     "Debug ports left open, the fleet is the attack surface"
     ],
     [
      "EOL",
      "Planned end-of-life with migration",
-     "Abandoned fleets — they become someone's liability"
+     "Abandoned fleets, they become someone's liability"
     ]
    ]
   },
@@ -1365,22 +1365,22 @@
   },
   {
    "t": "note",
-   "x": "Telemetry earns its bandwidth by review: each signal is re-justified quarterly against the decisions it informs — signals without decisions are dropped, and the savings are real money at fleet scale."
+   "x": "Telemetry earns its bandwidth by review: each signal is re-justified quarterly against the decisions it informs, signals without decisions are dropped, and the savings are real money at fleet scale."
   },
   {
    "t": "h2",
    "x": "A firmware wave is a product launch",
-   "sub": "OTA discipline, telemetry budgets and support-grade diagnostics — the connected-product operating model",
+   "sub": "OTA discipline, telemetry budgets and support-grade diagnostics, the connected-product operating model",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Connected products fail operationally when firmware is treated as a patch instead of a launch: unsigned images, estate-wide pushes, no revert path. The discipline runs waves like releases — signed images, staged rollout with canary cohorts, health monitoring against auto-revert thresholds, and a wave report that reads like a launch review. Device identity is per-device and rotatable (a fleet with one shared secret is one breach away from a recall), and the telemetry budget prices sampling against cost so the fleet reports what decisions need, not everything it could.",
+   "x": "Connected products fail operationally when firmware is treated as a patch instead of a launch: unsigned images, estate-wide pushes, no revert path. The discipline runs waves like releases, signed images, staged rollout with canary cohorts, health monitoring against auto-revert thresholds, and a wave report that reads like a launch review. Device identity is per-device and rotatable (a fleet with one shared secret is one breach away from a recall), and the telemetry budget prices sampling against cost so the fleet reports what decisions need, not everything it could.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Support is engineered in: a diagnostics API that turns 'it's broken' into queryable state, telemetry-shaped support playbooks, and update success tracked across hardware generations — because the fleet is heterogeneous and the wave that works on gen-3 may strand gen-1. The console reads fleet currency (who is on which firmware, which devices stopped reporting), and the support desk reads the same console, which is the point.",
+   "x": "Support is engineered in: a diagnostics API that turns 'it's broken' into queryable state, telemetry-shaped support playbooks, and update success tracked across hardware generations, because the fleet is heterogeneous and the wave that works on gen-3 may strand gen-1. The console reads fleet currency (who is on which firmware, which devices stopped reporting), and the support desk reads the same console, which is the point.",
    "phase3_deep": true
   },
   {
@@ -1388,7 +1388,7 @@
    "items": [
     [
      "Waves as launches",
-     "Signed, staged, monitored, reversible — with a wave report per release."
+     "Signed, staged, monitored, reversible, with a wave report per release."
     ],
     [
      "Per-device identity",
@@ -1414,11 +1414,11 @@
     ],
     [
      "How do you handle failed updates in the field?",
-     "Auto-revert is the default: devices that fail health checks after update roll back to the last signed image, and the console shows revert counts per wave — a wave with unexplained reverts pauses by policy."
+     "Auto-revert is the default: devices that fail health checks after update roll back to the last signed image, and the console shows revert counts per wave, a wave with unexplained reverts pauses by policy."
     ],
     [
      "Can you manage mixed device generations?",
-     "Yes — per-line targets differ honestly: legacy line D carries 97.5% uptime and 80% currency targets because its hardware budget is real, and the defaults table prices the deviation of demanding more."
+     "Yes, per-line targets differ honestly: legacy line D carries 97.5% uptime and 80% currency targets because its hardware budget is real, and the defaults table prices the deviation of demanding more."
     ],
     [
      "How does support see what the customer’s device sees?",
@@ -1426,13 +1426,13 @@
     ],
     [
      "What does product operations inherit?",
-     "The fleet plane, the console with currency as the headline, the wave gates and the firmware-security overlay — operations runs the fleet as a product, not as a cost center."
+     "The fleet plane, the console with currency as the headline, the wave gates and the firmware-security overlay, operations runs the fleet as a product, not as a cost center."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask what percentage of your fleet runs current firmware — and what updating the rest would risk. The diagnostic will wire signed waves with auto-revert and make currency boring."
+   "x": "Ask what percentage of your fleet runs current firmware, and what updating the rest would risk. The diagnostic will wire signed waves with auto-revert and make currency boring."
   }
  ],
  "words": 1009,
@@ -1517,43 +1517,43 @@
    "title": "Industrial IoT & Sensor Fabric",
    "url": "/services/iot-digital-twin-robotics/industrial-iot-sensor-fabric/",
    "tag": "Same domain",
-   "desc": "instrumentation as infrastructure — versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
+   "desc": "instrumentation as infrastructure, versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
   },
   {
    "title": "Predictive Maintenance & Asset Intelligence",
    "url": "/services/iot-digital-twin-robotics/predictive-asset-intelligence/",
    "tag": "Same domain",
-   "desc": "maintenance scheduled by evidence — failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
+   "desc": "maintenance scheduled by evidence, failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
   },
   {
    "title": "Robotics & Autonomous Systems Integration",
    "url": "/services/iot-digital-twin-robotics/robotics-autonomous-systems/",
    "tag": "Same domain",
-   "desc": "robot fleets with safety cases — bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
+   "desc": "robot fleets with safety cases, bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Pairs with",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Pairs with",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Pairs with",
-   "desc": "the contracted seams — ERP, CRM, ITSM, comms and queues — with typed contracts, replayable failures and monitors that catch drift before business users do."
+   "desc": "the contracted seams, ERP, CRM, ITSM, comms and queues, with typed contracts, replayable failures and monitors that catch drift before business users do."
   },
   {
    "title": "A national water utility",
    "url": "/case-studies/en-03/",
    "tag": "Evidence",
-   "desc": "Non-revenue water down 21% — district metering to decision loop."
+   "desc": "Non-revenue water down 21%, district metering to decision loop."
   }
  ],
  "evidence": [

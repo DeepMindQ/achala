@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for defect classification manual is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for defect classification manual is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Electronics & Semiconductors, the pattern is tool health sensing — tool telemetry into predictive maintenance. Tool-down down 25-40% sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "In Electronics & Semiconductors, the pattern is tool health sensing, tool telemetry into predictive maintenance. Tool-down down 25-40% sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The defect classification manual cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Tool health sensing), and the gate review decides what scales — all inside one quarter in Electronics & Semiconductors. In Electronics & Semiconductors programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The defect classification manual cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Tool health sensing), and the gate review decides what scales, all inside one quarter in Electronics & Semiconductors. In Electronics & Semiconductors programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring IoT, Twin & Robotics for Electronics & Semiconductors to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring IoT, Twin & Robotics for Electronics & Semiconductors to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 462,

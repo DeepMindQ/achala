@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Permit processing on governed agents — median cycle time down 41% and completeness problems resolved before submission, not after"
+   "x": "Permit processing on governed agents, median cycle time down 41% and completeness problems resolved before submission, not after"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a city government whose building-permit queue was measured in months and whose applicants measured it in frustration. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a city government whose building-permit queue was measured in months and whose applicants measured it in frustration. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter timed the queue: 71-day median permit cycle, 38% of applications returned once for completeness — adding six weeks per return — and planners reviewing files that lacked the documents the checklist already demanded."
+   "x": "The baseline quarter timed the queue: 71-day median permit cycle, 38% of applications returned once for completeness, adding six weeks per return, and planners reviewing files that lacked the documents the checklist already demanded."
   },
   {
    "t": "p",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The intake-time-completeness pattern transfers to any permitting workflow; the checklist was this city's ordinance reality. Replication starts from its return-cycle log — the diagnostic prices each restart."
+   "x": "The intake-time-completeness pattern transfers to any permitting workflow; the checklist was this city's ordinance reality. Replication starts from its return-cycle log, the diagnostic prices each restart."
   },
   {
    "t": "table",

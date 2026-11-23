@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Fresh waste down 28%, OOS down 31% — day-part demand and ordering agents"
+   "x": "Fresh waste down 28%, OOS down 31%, day-part demand and ordering agents"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — A top-3 grocery retailer (800+ stores), Retail & Consumer Goods sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, A top-3 grocery retailer (800+ stores), Retail & Consumer Goods sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -221,7 +221,7 @@
     ],
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
     ]
    ]
   },

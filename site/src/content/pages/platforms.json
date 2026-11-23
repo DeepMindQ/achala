@@ -5,31 +5,39 @@
  "template": "platforms_hub",
  "breadcrumb": "Platforms",
  "seo_title": "Platforms Overview | Achala IT Solutions",
- "meta_description": "Eight proprietary platforms encode our delivery patterns as configurable products — governance, security controls and evidence generation arrive pre-built.",
+ "meta_description": "The Achala platform portfolio: eight licensed products from our R&D programme and eight production platforms running client operations today.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Eight proprietary platforms encode a decade of deep-tech delivery as configurable products: decision intelligence, lakehouse, agent orchestration, security fabric, digital twin operations, advanced compute, digital trust and AI governance."
+   "x": "Achala builds platforms for the decisions enterprises make at scale. Eight come from our own R&D programme and license as products; another eight run in production today for clients in healthcare, mobility, public sector and finance."
   },
   {
    "t": "h2",
-   "x": "Eight platforms, one governed stack"
+   "x": "The platform suite from our R&D programme"
   },
   {
    "t": "p",
-   "x": "Each platform packages a proprietary method family as a product you can run: Nexus decides in milliseconds with a replayable trail, Forge keeps the lakehouse contracted and affordable, Swarm runs agent fleets inside policy envelopes, Sentinel encrypts collaboration, Twinverse mirrors physical operations, Quanta benchmarks every optimization run against the best classical solver, Ledger makes records auditable, and Compass governs the whole decision estate."
+   "x": "Eight platforms, each built on a patented method family from our R&D programme and licensed as a product: decision intelligence, data engineering, agent orchestration, zero-trust security, digital twin operations, advanced compute, distributed trust and AI governance. They deploy under NDA, run on your infrastructure, and produce the evidence your auditors ask for."
   },
   {
    "t": "h2",
-   "x": "Where to start"
+   "x": "Platforms in production"
   },
   {
    "t": "p",
-   "x": "Start from the platform that matches the metric you are accountable for, or bring the use case to a briefing and we will show the same scenario running on your data rather than on a demo script."
+   "x": "Eight production platforms run client operations every day: emergency response across 9 states, fleet management, KYC verification in about 5 minutes, telemedicine, queue management, patient portals, BI and analytics, and assistive smart glasses. Each one carries a published client result."
+  },
+  {
+   "t": "h2",
+   "x": "How a platform engagement starts"
+  },
+  {
+   "t": "p",
+   "x": "Most engagements begin with a 45-minute briefing on one use case. We configure the platform against your data, agree the metric it will be measured on, and scope the pilot in writing before delivery starts."
   },
   {
    "t": "cta",
-   "x": "Start with the diagnostic, not the contract: the section map above baselined in two weeks, and a scoped proposal only if the delta justifies it."
+   "x": "Book a briefing with the platform team. Bring one use case, we will show it running on the platform and leave you with a written feasibility read."
   }
  ],
  "words": 123,
@@ -47,52 +55,100 @@
  "related": [],
  "cards": [
   {
-   "title": "EEMS Platform — Decision Intelligence Hub",
+   "title": "Achala Nexus — Decision Intelligence Hub",
+   "url": "/platforms/nexus/",
+   "tag": "Platform suite",
+   "desc": "One decision API for credit, claims, triage and fraud, millisecond responses with versioned policies and full replay."
+  },
+  {
+   "title": "Achala Forge — Data & Lakehouse Engineering Platform",
+   "url": "/platforms/forge/",
+   "tag": "Platform suite",
+   "desc": "Build and run a lakehouse with data contracts, tested pipelines and unit costs you can steer."
+  },
+  {
+   "title": "Achala Swarm — Agentic AI Orchestration Platform",
+   "url": "/platforms/swarm/",
+   "tag": "Platform suite",
+   "desc": "Run large agent fleets as one measurable workforce, with queues, budgets and human checkpoints."
+  },
+  {
+   "title": "Achala Sentinel — Zero-Trust & AI Security Platform",
+   "url": "/platforms/sentinel/",
+   "tag": "Platform suite",
+   "desc": "Zero-trust controls for people, machines and models, security you can evidence to an auditor."
+  },
+  {
+   "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+   "url": "/platforms/twinverse/",
+   "tag": "Platform suite",
+   "desc": "Sense, simulate and act on physical assets, a twin you can trust, with a control loop that closes."
+  },
+  {
+   "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+   "url": "/platforms/quanta/",
+   "tag": "Platform suite",
+   "desc": "Quantum and advanced compute with investor discipline, benchmarked against the best classical baseline."
+  },
+  {
+   "title": "Achala Ledger — Distributed Trust & Tokenization Platform",
+   "url": "/platforms/ledger/",
+   "tag": "Platform suite",
+   "desc": "Permissioned networks for shared records and tokenized assets, shared truth regulators can inspect."
+  },
+  {
+   "title": "Achala Compass — Responsible AI & Governance Suite",
+   "url": "/platforms/compass/",
+   "tag": "Platform suite",
+   "desc": "Model risk, validation and monitoring in one governance suite, evidence your model-risk committee approves."
+  },
+  {
+   "title": "EEMS Platform",
    "url": "/platforms/eems/",
-   "tag": "Platform",
-   "desc": "Decision Intelligence Hub"
+   "tag": "In production",
+   "desc": "AI-powered emergency response, dispatch, fleet readiness and field coordination for 50,000+ daily cases across 9 states."
   },
   {
-   "title": "Fleet Management System — Data & Lakehouse Engineering Platform",
+   "title": "Fleet Management System",
    "url": "/platforms/fms/",
-   "tag": "Platform",
-   "desc": "Data & Lakehouse Engineering Platform"
+   "tag": "In production",
+   "desc": "Real-time tracking, predictive maintenance, telematics and compliance, fleet efficiency up 40% in published deployments."
   },
   {
-   "title": "KYC Management System — Agentic AI Orchestration Platform",
+   "title": "KYC Management System",
    "url": "/platforms/kyc/",
-   "tag": "Platform",
-   "desc": "Agentic AI Orchestration Platform"
+   "tag": "In production",
+   "desc": "Document verification and face recognition that onboard customers in 5 minutes, 60% faster than manual cycles."
   },
   {
-   "title": "Tele Medicine Platform — Zero-Trust & AI Security Platform",
-   "url": "/platforms/telemedicine/",
-   "tag": "Platform",
-   "desc": "Zero-Trust & AI Security Platform"
-  },
-  {
-   "title": "BI & Analytics Platform — Digital Twin & IoT Intelligence Platform",
-   "url": "/platforms/bi-analytics/",
-   "tag": "Platform",
-   "desc": "Digital Twin & IoT Intelligence Platform"
-  },
-  {
-   "title": "Token Management System — Quantum & Advanced Compute Suite",
-   "url": "/platforms/token-management/",
-   "tag": "Platform",
-   "desc": "Quantum & Advanced Compute Suite"
-  },
-  {
-   "title": "Patient Priority Portal — Distributed Trust & Tokenization Platform",
-   "url": "/platforms/patient-portal/",
-   "tag": "Platform",
-   "desc": "Distributed Trust & Tokenization Platform"
-  },
-  {
-   "title": "Driisti Smart Vision Glasses — Responsible AI & Governance Platform",
+   "title": "Driisti Smart Vision Glasses",
    "url": "/platforms/driisti/",
-   "tag": "Platform",
-   "desc": "Responsible AI & Governance Platform"
+   "tag": "In production",
+   "desc": "AI-enabled smart vision glasses for the visually challenged, plus assistive devices for elderly care."
+  },
+  {
+   "title": "Patient Priority Portal",
+   "url": "/platforms/patient-portal/",
+   "tag": "In production",
+   "desc": "One portal for appointments, results and priority care, laboratory queues down 20-30% in hospital OPDs."
+  },
+  {
+   "title": "Token Management System",
+   "url": "/platforms/token-management/",
+   "tag": "In production",
+   "desc": "AI-led token and queue management for service halls, queues visible, predictable and shorter."
+  },
+  {
+   "title": "Tele Medicine Platform",
+   "url": "/platforms/telemedicine/",
+   "tag": "In production",
+   "desc": "Consultations, e-prescriptions and follow-ups over secure video, care that reaches past the OPD."
+  },
+  {
+   "title": "BI & Analytics Platform",
+   "url": "/platforms/bi-analytics/",
+   "tag": "In production",
+   "desc": "Operational dashboards and KPI monitoring that turn daily operations into decisions leaders trust."
   }
  ]
 }

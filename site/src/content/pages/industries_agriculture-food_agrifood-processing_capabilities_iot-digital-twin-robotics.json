@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against cold chain unverified in Agri-Food Processing: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "IoT, Twin & Robotics against cold chain unverified in Agri-Food Processing: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for cold chain unverified is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for cold chain unverified is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Agri-Food Processing, the pattern is cold-chain telemetry — storage/transport monitoring. Spoilage prevented sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "In Agri-Food Processing, the pattern is cold-chain telemetry, storage/transport monitoring. Spoilage prevented sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for cold chain unverified is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Cold-chain telemetry, bounded to one path, running on your estate. In Agri-Food Processing programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Delivery opens with measurement: the baseline for cold chain unverified is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Cold-chain telemetry, bounded to one path, running on your estate. In Agri-Food Processing programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics control frame for Agri-Food Processing: Food safety (HACCP/EU 178/FSMA) (traceability/recall duties); EUDR (commodity evidence); Labeling/claims law (substantiation duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The IoT, Twin & Robotics control frame for Agri-Food Processing: Food safety (HACCP/EU 178/FSMA) (traceability/recall duties); EUDR (commodity evidence); Labeling/claims law (substantiation duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs IoT, Twin & Robotics for Agri-Food Processing in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs IoT, Twin & Robotics for Agri-Food Processing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 410,

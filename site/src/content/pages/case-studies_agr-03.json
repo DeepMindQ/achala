@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program"
+   "x": "Yield +2.8 points, recalls scoped in minutes, quality and traceability program"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — A food processor (dairy), Agriculture & Food Systems sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, A food processor (dairy), Agriculture & Food Systems sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -201,7 +201,7 @@
    "items": [
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
     ],
     [
      "Data & Lakehouse",

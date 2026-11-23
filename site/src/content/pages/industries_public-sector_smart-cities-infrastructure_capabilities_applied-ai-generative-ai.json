@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Setting the Applied AI & GenAI scene in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
+   "x": "Setting the Applied AI & GenAI scene in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
   },
   {
    "t": "p",
-   "x": "Point fixes for service ops reactive — a script here, a spreadsheet there — have usually been tried in Smart Cities & Infrastructure. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for service ops reactive, a script here, a spreadsheet there, have usually been tried in Smart Cities & Infrastructure. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Smart Cities & Infrastructure, the pattern is mobility optimization — signal/priority models with evaluation. Flow improved sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "In Smart Cities & Infrastructure, the pattern is mobility optimization, signal/priority models with evaluation. Flow improved sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. service ops reactive is measured with your finance and risk leads in the room, then one working path — Mobility optimization — goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Smart Cities & Infrastructure, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. service ops reactive is measured with your finance and risk leads in the room, then one working path, Mobility optimization, goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Smart Cities & Infrastructure, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Smart Cities & Infrastructure: GDPR — public-space data duties; NIS2 — essential services. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Smart Cities & Infrastructure: GDPR, public-space data duties; NIS2, essential services. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Applied AI & GenAI for Smart Cities & Infrastructure, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Applied AI & GenAI for Smart Cities & Infrastructure, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 463,

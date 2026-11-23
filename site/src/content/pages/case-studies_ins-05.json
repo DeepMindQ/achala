@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Claims-fraud network analytics on a governed lakehouse — improper-payment recovery up 34% and investigator false-positive burden down 41%"
+   "x": "Claims-fraud network analytics on a governed lakehouse, improper-payment recovery up 34% and investigator false-positive burden down 41%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a health insurer whose special-investigations unit worked referral lists that aged out before the schemes did. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a health insurer whose special-investigations unit worked referral lists that aged out before the schemes did. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter measured the hunt: SIU caseload built from rule hits, 71% of which cleared on first review, while the schemes that cost the most — provider rings billing across aliases — never triggered a single rule."
+   "x": "The baseline quarter measured the hunt: SIU caseload built from rule hits, 71% of which cleared on first review, while the schemes that cost the most, provider rings billing across aliases, never triggered a single rule."
   },
   {
    "t": "p",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the network layer first: one governed entity model resolving providers, facilities and billers across systems, graph analytics surfacing rings as structures — shared addresses, tax IDs, device usage patterns — and a case system where evidence assembles itself for each referral. Investigators start with the network in view, not a spreadsheet of hits."
+   "x": "We built the network layer first: one governed entity model resolving providers, facilities and billers across systems, graph analytics surfacing rings as structures, shared addresses, tax IDs, device usage patterns, and a case system where evidence assembles itself for each referral. Investigators start with the network in view, not a spreadsheet of hits."
   },
   {
    "t": "arch",

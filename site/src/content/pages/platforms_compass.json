@@ -1,0 +1,230 @@
+{
+ "id": "PLT-compass-ov",
+ "title": "Achala Compass — Responsible AI & Governance Suite",
+ "url": "/platforms/compass/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Compass > Overview",
+ "seo_title": "Achala Compass — Responsible AI & Governance Suite | Achala IT Solutions",
+ "meta_description": "Achala Compass, our Responsible AI & Governance Suite, gives model-risk and compliance teams validation, monitoring and audit evidence for AI systems.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "AI your model-risk committee approves and your regulator can inspect. Achala Compass is the governance suite for the rest of the platform suite, validation, monitoring and evidence in one place."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Compass is our Responsible AI & Governance Suite. It inventories your models, runs validation and fairness testing, monitors drift and performance in production, and files the documentation each review asks for. Governance stops being a slide and becomes a system."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Model inventory",
+     "Every model, version, owner and intended use, in one register"
+    ],
+    [
+     "Validation workflows",
+     "Fairness, robustness and performance tests with sign-offs"
+    ],
+    [
+     "Production monitoring",
+     "Drift, bias and performance tracked against thresholds"
+    ],
+    [
+     "Evidence packs",
+     "Review documentation generated from the register, not rebuilt each time"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Compass — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "MLflow",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Policy layer",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Model registry",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Evaluation harness",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "Guardrail configuration",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "EU AI Act evidence",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "Built for review by the strictest reviewer:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Framework mapping",
+     "EU AI Act readiness, model-risk guidelines, ISO/IEC 42001 alignment"
+    ],
+    [
+     "Protected-attribute testing",
+     "Fairness metrics computed and archived per release"
+    ],
+    [
+     "Approval trails",
+     "Sign-offs recorded with reviewer, scope and date"
+    ],
+    [
+     "Incident linkage",
+     "Production issues traced back to model versions"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Compass runs in banking model-risk functions, insurance actuarial review, healthcare AI governance and public-sector AI programs."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Reads from your ML platforms and registries through standard interfaces; monitors any model that serves predictions, whatever trained it."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one model portfolio to a briefing. We will show the register, the validation workflow and the evidence pack it produces."
+  }
+ ],
+ "words": 558,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Compass",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Compass",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/compass/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Compass — Responsible AI & Governance Suite",
+   "url": "/platforms/compass/",
+   "desc": "Responsible AI & Governance Suite"
+  },
+  {
+   "title": "Achala Compass — Architecture & Trust",
+   "url": "/platforms/compass/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Compass — Industry Use Cases",
+   "url": "/platforms/compass/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

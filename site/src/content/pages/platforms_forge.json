@@ -1,0 +1,230 @@
+{
+ "id": "PLT-forge-ov",
+ "title": "Achala Forge — Data & Lakehouse Engineering Platform",
+ "url": "/platforms/forge/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Forge > Overview",
+ "seo_title": "Achala Forge — Data & Lakehouse Engineering Platform | Achala IT Solutions",
+ "meta_description": "Achala Forge, our Data & Lakehouse Engineering Platform, builds data estates with contracts, tested pipelines and controlled run cost.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "The data platform every AI program depends on, built properly. Achala Forge sets up your lakehouse with data contracts, tested pipelines and a run cost you can steer, and keeps it that way as volume grows."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Forge is our Data & Lakehouse Engineering Platform. It covers the full path from source systems to decision-ready data: ingestion, quality gates, transformation, serving and cost control. Every table has an owner and a contract, so downstream teams build on data they can trust."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Data contracts",
+     "Producers and consumers agree on schema and quality; breaks are caught at the boundary"
+    ],
+    [
+     "Pipeline catalog",
+     "Every pipeline documented, versioned and owned"
+    ],
+    [
+     "Freshness SLAs",
+     "Each dataset carries a committed freshness target and reports against it"
+    ],
+    [
+     "Cost steering",
+     "Per-pipeline cost visibility with the levers to fix spikes"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Forge — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "Databricks",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Pipeline framework",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Governance baseline",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Streaming core",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "AI data layer",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "Privacy tags",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "Data estates carry the most sensitive information in the enterprise. Achala Forge treats that as a design input:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Lineage, end to end",
+     "Column-level lineage from source to dashboard"
+    ],
+    [
+     "Access controls",
+     "Role-based access with periodic recertification"
+    ],
+    [
+     "Quality reports",
+     "Every table publishes its own quality score"
+    ],
+    [
+     "Evidence packs",
+     "Audit documentation generated from the catalog, not from spreadsheets"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Forge underpins decision platforms in banking, insurance, healthcare, manufacturing and retail. Wherever the estate runs, cloud, hybrid or on-prem, the platform manages it the same way."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Built around Databricks, Spark, Delta Lake, Kafka and your existing warehouse estate. Migration paths are staged and reconciled: the old system and the new one run side by side until the numbers match."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one data domain to a briefing. We will show the contract, the pipeline and the cost picture it would run under."
+  }
+ ],
+ "words": 610,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Forge",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Forge",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/forge/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Forge — Data & Lakehouse Engineering Platform",
+   "url": "/platforms/forge/",
+   "desc": "Data & Lakehouse Engineering Platform"
+  },
+  {
+   "title": "Achala Forge — Architecture & Trust",
+   "url": "/platforms/forge/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Forge — Industry Use Cases",
+   "url": "/platforms/forge/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

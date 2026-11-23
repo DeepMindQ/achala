@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Renewable operators industrialize asset performance: turbine and inverter health, generation forecasting, PPA settlement and hybrid-plant optimization. Margins live in availability percentage points and forecast accuracy — both telemetry problems. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Renewable operators industrialize asset performance: turbine and inverter health, generation forecasting, PPA settlement and hybrid-plant optimization. Margins live in availability percentage points and forecast accuracy, both telemetry problems. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Renewable Energy edition:"
+   "x": "Where the friction concentrates, Renewable Energy edition:"
   },
   {
    "t": "bullets",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -327,31 +327,31 @@
    "title": "Agentic AI & Hyperautomation for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cloud, Edge & Platform for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Blockchain & Digital Trust for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "IoT, Twin & Robotics for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

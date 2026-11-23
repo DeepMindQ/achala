@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Manufacturing & Industrial does not chase announcements; it delivers audited change — which means the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. Manufacturing & Industrial is where this discipline pays."
+   "x": "Blockchain & Digital Trust in Manufacturing & Industrial does not chase announcements; it delivers audited change, which means the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. Manufacturing & Industrial is where this discipline pays."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Manufacturing & Industrial edition:"
+   "x": "Where the friction concentrates, Manufacturing & Industrial edition:"
   },
   {
    "t": "bullets",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Manufacturing & Industrial, the working pattern is lot traceability network: custody-anchored traceability across suppliers to satisfy IATF/DPP demands. Recall scoping in minutes is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Manufacturing & Industrial, the working pattern is lot traceability network: custody-anchored traceability across suppliers to satisfy IATF/DPP demands. Recall scoping in minutes is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The planning by spreadsheet under volatility cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (lot traceability network), and the gate review decides what scales — all inside one quarter in Manufacturing & Industrial. In Manufacturing & Industrial programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The planning by spreadsheet under volatility cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (lot traceability network), and the gate review decides what scales, all inside one quarter in Manufacturing & Industrial. In Manufacturing & Industrial programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -120,19 +120,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },

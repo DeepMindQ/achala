@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Semiconductors & Hardware answers a daily gap: Design/simulation and Supply-chain visibility produce data faster than decisions. The structured answer: security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Cyber & Zero-Trust in Semiconductors & Hardware answers a daily gap: Design/simulation and Supply-chain visibility produce data faster than decisions. The structured answer: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for product security rising is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for product security rising is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Semiconductors & Hardware, the pattern is IP protection — classification-aware controls + monitoring. Exfiltration closed sits on top as the measured result, tracked from the signed baseline onward. Around it, security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "In Semiconductors & Hardware, the pattern is IP protection, classification-aware controls + monitoring. Exfiltration closed sits on top as the measured result, tracked from the signed baseline onward. Around it, security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. product security rising gets a number, an owner and a signature; the quarter belongs to a bounded slice — IP protection — live on your estate. In Semiconductors & Hardware programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The first two weeks belong to the baseline. product security rising gets a number, an owner and a signature; the quarter belongs to a bounded slice, IP protection, live on your estate. In Semiconductors & Hardware programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Cyber & Zero-Trust control frame for Semiconductors & Hardware: Export controls (technology transfer); CRA (products) (security duties); Conflict minerals (chain evidence). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Cyber & Zero-Trust control frame for Semiconductors & Hardware: Export controls (technology transfer); CRA (products) (security duties); Conflict minerals (chain evidence). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

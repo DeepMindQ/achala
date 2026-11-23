@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for process optimization static — a script here, a spreadsheet there — have usually been tried in Oil & Gas. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for process optimization static, a script here, a spreadsheet there, have usually been tried in Oil & Gas. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Oil & Gas, the pattern is OT security program — 62443 zoning with monitoring and access control. Attack paths closed sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Oil & Gas, the pattern is OT security program, 62443 zoning with monitoring and access control. Attack paths closed sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The process optimization static cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (OT security program), and the gate review decides what scales — all inside one quarter in Oil & Gas. In Oil & Gas programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The process optimization static cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (OT security program), and the gate review decides what scales, all inside one quarter in Oil & Gas. In Oil & Gas programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Oil & Gas: Process safety (Seveso/OSHA PSM) — safety-case duties; IEC 62443 — OT security. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Oil & Gas: Process safety (Seveso/OSHA PSM), safety-case duties; IEC 62443, OT security. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

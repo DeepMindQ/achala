@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In EdTech & Learning Platforms, the pattern is unit economics — cost/learner telemetry with showback. Margin protected sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind EdTech & Learning Platforms."
+   "x": "In EdTech & Learning Platforms, the pattern is unit economics, cost/learner telemetry with showback. Margin protected sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind EdTech & Learning Platforms."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The content production slow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Unit economics), and the gate review decides what scales — all inside one quarter in EdTech & Learning Platforms. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For EdTech & Learning Platforms, that discipline is not optional — it is the engagement model."
+   "x": "The content production slow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Unit economics), and the gate review decides what scales, all inside one quarter in EdTech & Learning Platforms. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For EdTech & Learning Platforms, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cloud, Edge & Platform side of EdTech & Learning Platforms, the binding duties are concrete — FERPA/COPPA/GDPR-K (minors/student data duties); Accessibility (WCAG) (platform duties); SOC 2/ISO (procurement gates). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cloud, Edge & Platform side of EdTech & Learning Platforms, the binding duties are concrete, FERPA/COPPA/GDPR-K (minors/student data duties); Accessibility (WCAG) (platform duties); SOC 2/ISO (procurement gates). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

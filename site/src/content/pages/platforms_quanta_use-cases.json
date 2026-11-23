@@ -1,0 +1,118 @@
+{
+ "id": "PLT-quanta-uc",
+ "title": "Achala Quanta — Industry Use Cases",
+ "url": "/platforms/quanta/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Achala Quanta > Industry Use Cases",
+ "seo_title": "Achala Quanta — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "Industry use cases for Achala Quanta — Quantum & Advanced Compute Suite: routing, scheduling, portfolio and grid optimization benchmarks.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Achala Quanta runs, sector by sector: the optimization problems each industry benchmarks and what the program adds."
+  },
+  {
+   "t": "h2",
+   "x": "What slows the operation down"
+  },
+  {
+   "t": "table",
+   "caption": "Achala Quanta — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Logistics",
+     "Routing and load planning at fleet scale",
+     "Optimality bounds, not vibes"
+    ],
+    [
+     "Banking",
+     "Portfolio construction and rebalancing",
+     "Classical baseline the CFO can read"
+    ],
+    [
+     "Manufacturing",
+     "Production scheduling under constraints",
+     "Reproducible runs with explain reports"
+    ],
+    [
+     "Energy",
+     "Grid scheduling and unit commitment",
+     "Verified results before dispatch"
+    ],
+    [
+     "Telecom",
+     "Network resource optimization",
+     "Benchmarked honestly against best classical"
+    ],
+    [
+     "Insurance",
+     "Claims batching and reserve optimization",
+     "Formulation discipline with a contract"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "The cadence you would see"
+  },
+  {
+   "t": "p",
+   "x": "Each Achala Quanta deployment starts with one decision class in production, not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "What this environment runs on"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Achala Quanta as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not, fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one optimization problem to a briefing. We will show the bench, the baseline and the benchmark plan it would run under."
+  }
+ ],
+ "words": 301,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Quanta",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Quanta",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/quanta/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+   "url": "/platforms/quanta/",
+   "desc": "Quantum & Advanced Compute Suite"
+  },
+  {
+   "title": "Achala Quanta — Architecture & Trust",
+   "url": "/platforms/quanta/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Quanta — Industry Use Cases",
+   "url": "/platforms/quanta/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

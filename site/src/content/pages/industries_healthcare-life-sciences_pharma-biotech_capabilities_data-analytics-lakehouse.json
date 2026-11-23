@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse against trial recruitment manual in Pharmaceuticals & Biotech: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Pharmaceuticals & Biotech."
+   "x": "Data & Lakehouse against trial recruitment manual in Pharmaceuticals & Biotech: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Pharmaceuticals & Biotech."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Pharmaceuticals & Biotech, the pattern is eligibility engine — protocol criteria translated to EHR queries with evidence. Matching at 10x manual rate sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Pharmaceuticals & Biotech."
+   "x": "In Pharmaceuticals & Biotech, the pattern is eligibility engine, protocol criteria translated to EHR queries with evidence. Matching at 10x manual rate sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Pharmaceuticals & Biotech."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. trial recruitment manual is measured with your finance and risk leads in the room, then one working path — Eligibility engine — goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For Pharmaceuticals & Biotech, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. trial recruitment manual is measured with your finance and risk leads in the room, then one working path, Eligibility engine, goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For Pharmaceuticals & Biotech, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Pharmaceuticals & Biotech: GxP/GCP validation — system validation duties; FDA/EMA pharmacovigilance — AE reporting clocks and quality. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Pharmaceuticals & Biotech: GxP/GCP validation, system validation duties; FDA/EMA pharmacovigilance, AE reporting clocks and quality. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -247,7 +247,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Data & Lakehouse for Pharmaceuticals & Biotech in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Data & Lakehouse for Pharmaceuticals & Biotech in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 503,

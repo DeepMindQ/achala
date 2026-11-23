@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Authorization path rebuilt for latency — p99 down 83% and the peak-season authorization budget met with headroom"
+   "x": "Authorization path rebuilt for latency, p99 down 83% and the peak-season authorization budget met with headroom"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a payments platform whose merchants measured it in milliseconds and whose authorization path had accreted nine synchronous hops over seven years. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a payments platform whose merchants measured it in milliseconds and whose authorization path had accreted nine synchronous hops over seven years. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "The reasons were historical — an ordering system here, a fraud pre-check there — and no single view existed of the whole path's latency budget. Every team optimized locally."
+   "x": "The reasons were historical, an ordering system here, a fraud pre-check there, and no single view existed of the whole path's latency budget. Every team optimized locally."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt the path as a latency budget: end-to-end budget decomposed per hop with owners, hops re-sequenced — fraud checks parallelized, non-critical work made async with event sourcing, the critical path reduced to four hops — and load models rehearsed at 130% of forecast peak before the season. The budget holds; the reasons became events."
+   "x": "We rebuilt the path as a latency budget: end-to-end budget decomposed per hop with owners, hops re-sequenced, fraud checks parallelized, non-critical work made async with event sourcing, the critical path reduced to four hops, and load models rehearsed at 130% of forecast peak before the season. The budget holds; the reasons became events."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The budget-per-hop pattern transfers to any latency-critical path; the hop histories were this platform's archaeology. Another platform starts from its traces — the diagnostic decomposes the budget in a fortnight."
+   "x": "The budget-per-hop pattern transfers to any latency-critical path; the hop histories were this platform's archaeology. Another platform starts from its traces, the diagnostic decomposes the budget in a fortnight."
   },
   {
    "t": "table",

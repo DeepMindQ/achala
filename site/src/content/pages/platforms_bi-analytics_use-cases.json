@@ -1,83 +1,56 @@
 {
- "id": "PLT-twinverse-uc",
+ "id": "PLT-bi-analytics-uc",
  "title": "BI & Analytics Platform — Industry Use Cases",
  "url": "/platforms/bi-analytics/use-cases/",
  "template": "platform_usecases",
  "breadcrumb": "Platforms > BI & Analytics Platform > Industry Use Cases",
  "seo_title": "BI & Analytics Platform — Industry Use Cases | Achala IT Solutions",
- "meta_description": "How BI & Analytics Platform is deployed across industries: manufacturing, energy, logistics, retail and more.",
+ "meta_description": "Use cases for BI & Analytics Platform: hospitals, logistics, manufacturing and financial services.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Where BI & Analytics Platform earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+   "x": "Where BI & Analytics Platform runs: the reporting estates each industry builds on it and what the deployment delivers."
   },
   {
    "t": "h2",
-   "x": "The workflows that feel it"
+   "x": "Who runs it and what it delivers"
+  },
+  {
+   "t": "p",
+   "x": "Hospital groups, logistics operators, manufacturing plants and financial-service teams, any operation whose weekly review needs numbers everyone trusts."
   },
   {
    "t": "table",
    "caption": "BI & Analytics Platform — where it runs and what it does there",
    "headers": [
-    "Industry",
-    "The decision routed through the platform",
-    "What the deployment adds"
+    "Operator",
+    "The workflow on the platform",
+    "What the deployment delivers"
    ],
    "rows": [
     [
-     "Manufacturing",
-     "Line-status awareness and predictive maintenance",
-     "Twins synchronized to the asset, not to the demo"
+     "Hospital groups",
+     "Occupancy, queue and cost dashboards",
+     "Operational reviews run on shared numbers"
     ],
     [
-     "Energy",
-     "Grid and plant simulation for what-if planning",
-     "Operator-facing actuation with governance"
+     "Logistics operators",
+     "Fleet, route and utilization reporting",
+     "Utilization gains visible per route and per crew"
     ],
     [
-     "Logistics",
-     "Fleet and warehouse flow twins",
-     "What-if before the physical move"
-    ],
-    [
-     "Healthcare",
-     "Facility flow and capacity twins",
-     "Privacy-safe sensing architecture"
-    ],
-    [
-     "Retail",
-     "Store operations and freshness twins",
-     "Perception models tuned for messy reality"
-    ],
-    [
-     "Cities & infrastructure",
-     "Asset lifecycle twins",
-     "Accuracy that survives noise suppression"
+     "Manufacturing plants",
+     "Production and quality KPI monitoring",
+     "Drift flagged early; reviews start from data"
     ]
    ]
   },
   {
-   "t": "h2",
-   "x": "The delivery rhythm"
-  },
-  {
-   "t": "p",
-   "x": "Each BI & Analytics Platform deployment starts with one decision class in production — not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
-  },
-  {
-   "t": "h2",
-   "x": "The ground truth of this sector"
-  },
-  {
-   "t": "p",
-   "x": "Operators see BI & Analytics Platform as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
-  },
-  {
    "t": "cta",
-   "x": "A value assessment prices the delta in your estate before anything is signed: a working session on BI & Analytics Platform, measured against your baseline, in two weeks."
+   "x": "Book a briefing with the BI team. Bring one messy report and we will show the dashboard and pipeline it would become."
   }
  ],
- "words": 233,
+ "words": 178,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "BI & Analytics Platform",
@@ -99,39 +72,19 @@
  ],
  "related": [
   {
-   "title": "BI & Analytics Platform — Overview",
+   "title": "BI & Analytics Platform",
    "url": "/platforms/bi-analytics/",
-   "desc": "Digital Twin & IoT Intelligence Platform"
+   "desc": "Operational dashboards and KPI monitoring that turn daily operations into decisi"
   },
   {
-   "title": "BI & Analytics Platform — Architecture & Trust",
+   "title": "BI & Analytics Platform — Architecture & Security",
    "url": "/platforms/bi-analytics/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "BI & Analytics Platform — Industry Use Cases",
    "url": "/platforms/bi-analytics/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A global automotive OEM",
-   "url": "/case-studies/mfg-01/",
-   "desc": "OEE +7.2 points across 14 plants — sensor network to scheduling decisions"
-  },
-  {
-   "title": "A specialty chemicals producer",
-   "url": "/case-studies/mfg-02/",
-   "desc": "Yield +3.4 points and energy per tonne down 17% — APC augmentation program"
-  },
-  {
-   "title": "A construction-equipment manufacturer",
-   "url": "/case-studies/mfg-03/",
-   "desc": "Connected machines to connected margin — service revenue attach up 3x"
-  },
-  {
-   "title": "A top-3 grocery retailer (800+ stores)",
-   "url": "/case-studies/ret-01/",
-   "desc": "Fresh waste down 28%, OOS down 31% — day-part demand and ordering agents"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

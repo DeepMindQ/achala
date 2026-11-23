@@ -1,203 +1,96 @@
 {
- "id": "PLT-forge-ov",
+ "id": "PLT-fms-ov",
  "title": "Fleet Management System",
  "url": "/platforms/fms/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Fleet Management System > Overview",
  "seo_title": "Fleet Management System | Achala IT Solutions",
- "meta_description": "The governed data estate every intelligence program silently depends on.",
+ "meta_description": "Fleet Management System (FMS) delivers real-time tracking, predictive maintenance and telematics — workforce efficiency up 40% in published deployments.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Real-time tracking, predictive maintenance, telematics and compliance management — keeping mission-critical fleets ready."
+   "x": "Mission-critical fleets, ready when they are needed. FMS combines real-time tracking, predictive maintenance, telematics analytics and compliance management in one platform."
   },
   {
    "t": "h2",
-   "x": "What runs on it"
+   "x": "What it is"
   },
   {
    "t": "p",
-   "x": "Fleet Management System operationalizes the lakehouse: medallion pipelines with data contracts, Unity Catalog-class governance, lineage and freshness SLAs, streaming and batch in one estate, and the AI-ready layer (feature stores, vector search, retrieval services) built on the same governed data. It is the substrate domain made product. Forge is deliberately boring where it matters: schema contracts enforced at boundaries, expectations tested on every pipeline, cost telemetry per workload, and audit exports regulators can read. Teams inherit reliability as a measured property — and GenAI programs inherit a corpus that doesn't rot."
+   "x": "FMS is the operating system for a vehicle fleet. It tracks every vehicle live, predicts maintenance before breakdowns, analyzes telematics to improve how vehicles and crews are used, and keeps compliance records current. Published deployments report workforce efficiency gains of up to 40%."
   },
   {
    "t": "h2",
-   "x": "Inside the engagement"
+   "x": "What it does"
   },
   {
    "t": "p",
-   "x": "The working system, decomposed — Fleet Management System edition:"
+   "x": "The platform's working capabilities:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Pipeline framework",
-     "medallion architecture with data contracts"
+     "Real-time tracking",
+     "Every vehicle's location and status, live"
     ],
     [
-     "Governance baseline",
-     "tag-based access control with lineage"
+     "Predictive maintenance",
+     "Service scheduled from usage and condition data, not guesswork"
     ],
     [
-     "Streaming core",
-     "Kafka/Flink with exactly-once semantics"
+     "Telematics analytics",
+     "Fuel, idle time, routes and driver behavior, with the levers to fix them"
     ],
     [
-     "AI data layer",
-     "feature store, vector search, retrieval services"
-    ],
-    [
-     "Cost governance",
-     "workload isolation and showback"
-    ],
-    [
-     "Data product registry",
-     "owned, SLA'd products with consumer contracts"
+     "Compliance management",
+     "Permits, inspections and duty-time records kept current automatically"
     ]
    ]
   },
   {
-   "t": "arch",
-   "title": "Fleet Management System — module topology",
-   "lanes": [
-    "Ingest",
-    "Core",
-    "Delivery",
-    "Trust"
-   ],
-   "nodes": [
-    {
-     "id": "in1",
-     "lane": 0,
-     "label": "Adapters & contracts",
-     "hot": false
-    },
-    {
-     "id": "in2",
-     "lane": 0,
-     "label": "Databricks",
-     "hot": false
-    },
-    {
-     "id": "c1",
-     "lane": 1,
-     "label": "Pipeline framework",
-     "hot": true
-    },
-    {
-     "id": "c2",
-     "lane": 1,
-     "label": "Governance baseline",
-     "hot": false
-    },
-    {
-     "id": "d1",
-     "lane": 2,
-     "label": "Streaming core",
-     "hot": false
-    },
-    {
-     "id": "d2",
-     "lane": 2,
-     "label": "AI data layer",
-     "hot": false
-    },
-    {
-     "id": "t1",
-     "lane": 3,
-     "label": "Evidence packs",
-     "hot": false
-    },
-    {
-     "id": "t2",
-     "lane": 3,
-     "label": "Privacy tags",
-     "hot": false
-    }
-   ],
-   "edges": [
-    {
-     "a": "in1",
-     "b": "c1"
-    },
-    {
-     "a": "in2",
-     "b": "c1"
-    },
-    {
-     "a": "c1",
-     "b": "c2"
-    },
-    {
-     "a": "c1",
-     "b": "d1"
-    },
-    {
-     "a": "c2",
-     "b": "d2"
-    },
-    {
-     "a": "d1",
-     "b": "t1"
-    },
-    {
-     "a": "d2",
-     "b": "t2"
-    }
-   ],
-   "note": "Modules are the platform's named components; trust lane is what the audit reads."
-  },
-  {
    "t": "h2",
-   "x": "How it earns audit sign-off"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Forge inherits platform controls from the customer landing zone and adds its own: contract enforcement, lineage capture, quality gates and privacy-tag-driven access. Every dataset carries its owner, SLA and classification — governance is system behavior, not committee minutes."
+   "x": "Telematics devices stream into a cloud data platform; rules and machine-learning models turn the stream into maintenance schedules and route recommendations. The driver app and the operations dashboard read from the same data, so dispatch and drivers always agree."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Privacy tags",
-     "sensitivity driving access automatically"
+     "Streaming ingestion",
+     "Vehicle telemetry processed in near real time"
     ],
     [
-     "Lineage",
-     "column-level, exportable for audit"
+     "Maintenance models",
+     "Service triggers computed per vehicle class"
     ],
     [
-     "Freshness SLAs",
-     "measured per dataset with alerts"
+     "Driver and ops apps",
+     "One source of truth for both sides of the operation"
     ],
     [
-     "Clean rooms",
-     "sharing without exposure for data products"
+     "Data security",
+     "Location and driver data access-controlled and encrypted"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "The deployment footprint"
+   "x": "Who runs it"
   },
   {
    "t": "p",
-   "x": "Fleet Management System runs under NDA in Banking & Financial Services, Insurance & Risk, Retail & Consumer Goods, Healthcare & Life Sciences, Energy & Utilities. Deployments stay private; the architecture and control packs are the part we can show."
-  },
-  {
-   "t": "h2",
-   "x": "Engineering standards we hold"
-  },
-  {
-   "t": "p",
-   "x": "Connects to: Databricks, Snowflake, Kafka, dbt, Unity Catalog/Purview. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+   "x": "Logistics and supply-chain operators, field-service organizations, emergency fleets and corporate transport teams."
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Fleet Management System, your data, and a written feasibility read you can circulate."
+   "x": "Book a briefing with the FMS team. Bring your fleet profile and we will show the maintenance and utilization picture it would produce."
   }
  ],
- "words": 330,
+ "words": 337,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Fleet Management System",
@@ -219,39 +112,19 @@
  ],
  "related": [
   {
-   "title": "Fleet Management System — Overview",
+   "title": "Fleet Management System",
    "url": "/platforms/fms/",
-   "desc": "Data & Lakehouse Engineering Platform"
+   "desc": "Real-time tracking, predictive maintenance, telematics and compliance — fleet ef"
   },
   {
-   "title": "Fleet Management System — Architecture & Trust",
+   "title": "Fleet Management System — Architecture & Security",
    "url": "/platforms/fms/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Fleet Management System — Industry Use Cases",
    "url": "/platforms/fms/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A top-10 European retail bank",
-   "url": "/case-studies/bank-01/",
-   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
-  },
-  {
-   "title": "A multinational corporate bank",
-   "url": "/case-studies/bank-02/",
-   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A leading life insurer (North America)",
-   "url": "/case-studies/ins-02/",
-   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Four delivery centers, one accountability chain — strategy in the US, execution around the sun."
+   "x": "Four delivery centers, one accountability chain, strategy in the US, execution around the sun."
   },
   {
    "t": "p",
-   "x": "Achala IT Solutions runs four centers with distinct mandates. Programs are staffed by named pods that stay with the outcome — the team that designs your decision hub is accountable for its production results, wherever they sit."
+   "x": "Achala IT Solutions runs four centers with distinct mandates. Programs are staffed by named pods that stay with the outcome, the team that designs your decision hub is accountable for its production results, wherever they sit."
   },
   {
    "t": "h2",
@@ -28,19 +28,19 @@
    ],
    "rows": [
     [
-     "India — Headquarters",
+     "India, Headquarters",
      "Achala IT Solutions Private Limited, Floor 10, 285 FD by Phoenix, Financial District, Nanakramguda, Hyderabad, Telangana 500089"
     ],
     [
-     "India — Registered office",
+     "India, Registered office",
      "3rd Floor, Plot No 342 & 343, Road Number 7, Kakateeya Hills, Hyderabad, Telangana 500081"
     ],
     [
-     "Germany — European Hub",
+     "Germany, European Hub",
      "Achala GmbH, C/O Sulzer GmbH, Frankfurter Ring 162, 80807 Munich, Germany"
     ],
     [
-     "Bulgaria — EU Delivery Center",
+     "Bulgaria, EU Delivery Center",
      "Achala Sulzer Ltd., MHQ Building, 115 Tsarigradsko Shose Blvd, Floor 3, Sofia 1784, Bulgaria"
     ]
    ]
@@ -95,19 +95,19 @@
    ],
    "rows": [
     [
-     "India — Headquarters",
+     "India, Headquarters",
      "Achala IT Solutions Private Limited, Floor 10, 285 FD by Phoenix, Financial District, Nanakramguda, Hyderabad, Telangana 500089"
     ],
     [
-     "India — Registered office",
+     "India, Registered office",
      "3rd Floor, Plot No 342 & 343, Road Number 7, Kakateeya Hills, Hyderabad, Telangana 500081"
     ],
     [
-     "Germany — European Hub",
+     "Germany, European Hub",
      "Achala GmbH, C/O Sulzer GmbH, Frankfurter Ring 162, 80807 Munich, Germany"
     ],
     [
-     "Bulgaria — EU Delivery Center",
+     "Bulgaria, EU Delivery Center",
      "Achala Sulzer Ltd., MHQ Building, 115 Tsarigradsko Shose Blvd, Floor 3, Sofia 1784, Bulgaria"
     ]
    ]

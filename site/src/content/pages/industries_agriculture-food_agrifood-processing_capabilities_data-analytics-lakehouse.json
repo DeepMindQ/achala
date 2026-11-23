@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Agri-Food Processing targets a specific gap: systems exist, but no governed path connects them — which is why intake grading manual still costs what it costs. The build closes it: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Data & Lakehouse in Agri-Food Processing targets a specific gap: systems exist, but no governed path connects them, which is why intake grading manual still costs what it costs. The build closes it: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Agri-Food Processing, the pattern is yield analytics — line/lot yield with loss decomposition. Recovery targeted sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Agri-Food Processing, the pattern is yield analytics, line/lot yield with loss decomposition. Recovery targeted sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. intake grading manual gets a number, an owner and a signature; the quarter belongs to a bounded slice — Yield analytics — live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "The first two weeks belong to the baseline. intake grading manual gets a number, an owner and a signature; the quarter belongs to a bounded slice, Yield analytics, live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Agri-Food Processing: Food safety (HACCP/EU 178/FSMA) — traceability/recall duties; EUDR — commodity evidence. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Agri-Food Processing: Food safety (HACCP/EU 178/FSMA), traceability/recall duties; EUDR, commodity evidence. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "What cookies and similar technologies run on achalasolutions.com, what each category does, and how you control them — written to be read, not to be endured."
+   "x": "What cookies and similar technologies run on achalasolutions.com, what each category does, and how you control them, written to be read, not to be endured."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "These make the site work: session integrity, security tokens, and your cookie-consent choice itself. They do not require consent and cannot be switched off in our hosting configuration without breaking core functionality. Their lifetime matches the technical purpose — from the browsing session up to 12 months for the consent record."
+   "x": "These make the site work: session integrity, security tokens, and your cookie-consent choice itself. They do not require consent and cannot be switched off in our hosting configuration without breaking core functionality. Their lifetime matches the technical purpose, from the browsing session up to 12 months for the consent record."
   },
   {
    "t": "h2",
@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "We measure aggregate page performance — page views, referrers, rough geography, load times — to find broken journeys and slow pages. Analytics runs only after you accept non-essential cookies, IP addresses are truncated where the tool supports it, and we do not build advertising profiles from this data."
+   "x": "We measure aggregate page performance, page views, referrers, rough geography, load times, to find broken journeys and slow pages. Analytics runs only after you accept non-essential cookies, IP addresses are truncated where the tool supports it, and we do not build advertising profiles from this data."
   },
   {
    "t": "h2",

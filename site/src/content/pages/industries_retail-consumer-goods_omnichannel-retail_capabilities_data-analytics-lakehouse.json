@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Through the Data & Lakehouse lens, the operating reality: Omnichannel retail wins on promise-keeping: availability, delivery promise, price consistency and service resolution across channels. The decision infrastructure behind those promises — demand sensing, allocation, pricing — decides margin before marketing spends a cent."
+   "x": "Through the Data & Lakehouse lens, the operating reality: Omnichannel retail wins on promise-keeping: availability, delivery promise, price consistency and service resolution across channels. The decision infrastructure behind those promises, demand sensing, allocation, pricing, decides margin before marketing spends a cent."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Omnichannel Retail, the pattern is demand sensing platform — streaming signals into daily SKU-store forecasts. Forecast error down 20-35% sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Omnichannel Retail, the pattern is demand sensing platform, streaming signals into daily SKU-store forecasts. Forecast error down 20-35% sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The shelf truth unknown cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Demand sensing platform), and the gate review decides what scales — all inside one quarter in Omnichannel Retail. In Omnichannel Retail programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The shelf truth unknown cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Demand sensing platform), and the gate review decides what scales, all inside one quarter in Omnichannel Retail. In Omnichannel Retail programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Data & Lakehouse side of Omnichannel Retail, the binding duties are concrete — GDPR/CCPA (profiling and consent duties); EU AI Act transparency (personalization disclosure); PCI DSS 4.0 (payment estate duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Data & Lakehouse side of Omnichannel Retail, the binding duties are concrete, GDPR/CCPA (profiling and consent duties); EU AI Act transparency (personalization disclosure); PCI DSS 4.0 (payment estate duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Data & Lakehouse for Omnichannel Retail, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Data & Lakehouse for Omnichannel Retail, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 450,

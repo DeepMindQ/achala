@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Instrumentation as infrastructure: versioned schemas per device class, store-and-forward capture that survives partitions, heartbeat monitoring that catches zombie devices — wired into brownfield PLCs and protocols that were never meant to interoperate."
+   "x": "Instrumentation as infrastructure: versioned schemas per device class, store-and-forward capture that survives partitions, heartbeat monitoring that catches zombie devices, wired into brownfield PLCs and protocols that were never meant to interoperate."
   },
   {
    "t": "p",
-   "x": "Sensor fabric is the difference between an IoT program and a box of dashboards: every device class speaks a versioned schema, every gateway survives disconnection, and every device has an owner, a firmware version and an end-of-life date. The unglamorous parts — provisioning, OTA, schema registries — are the program."
+   "x": "Sensor fabric is the difference between an IoT program and a box of dashboards: every device class speaks a versioned schema, every gateway survives disconnection, and every device has an owner, a firmware version and an end-of-life date. The unglamorous parts, provisioning, OTA, schema registries, are the program."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these silently poisons everything downstream — analytics, twins and predictions all inherit the rot — which is why the countermeasures live at the capture layer."
+   "x": "Each of these silently poisons everything downstream, analytics, twins and predictions all inherit the rot, which is why the countermeasures live at the capture layer."
   },
   {
    "t": "table",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Device classes carry versioned schemas, gateways buffer through partitions with store-and-forward guarantees, the broker normalizes without losing provenance, and heartbeat monitors treat a silent device as an incident — fidelity is enforced at the layer where it is won or lost."
+   "x": "Device classes carry versioned schemas, gateways buffer through partitions with store-and-forward guarantees, the broker normalizes without losing provenance, and heartbeat monitors treat a silent device as an incident, fidelity is enforced at the layer where it is won or lost."
   },
   {
    "t": "arch",
@@ -292,7 +292,7 @@
   },
   {
    "t": "p",
-   "x": "From the transducer through the gateway buffer, schema validation, normalization and the downstream broker — including the partition path and what reconciliation looks like when the link returns."
+   "x": "From the transducer through the gateway buffer, schema validation, normalization and the downstream broker, including the partition path and what reconciliation looks like when the link returns."
   },
   {
    "t": "diagram",
@@ -316,7 +316,7 @@
   },
   {
    "t": "p",
-   "x": "Capture fidelity, heartbeat pass rate and forward loss — the three numbers that decide whether everything downstream is built on truth."
+   "x": "Capture fidelity, heartbeat pass rate and forward loss, the three numbers that decide whether everything downstream is built on truth."
   },
   {
    "t": "idash",
@@ -629,7 +629,7 @@
   },
   {
    "t": "p",
-   "x": "Fidelity per device class and quarter — the shape that shows which brownfield protocols need gateway work and which device fleets are drifting toward zombie-hood."
+   "x": "Fidelity per device class and quarter, the shape that shows which brownfield protocols need gateway work and which device fleets are drifting toward zombie-hood."
   },
   {
    "t": "chart",
@@ -1144,27 +1144,27 @@
     [
      "Gateway",
      "Industrial gateways with dual-path uplink",
-     "Consumer-grade hubs — they die silently"
+     "Consumer-grade hubs, they die silently"
     ],
     [
      "Schemas",
      "Registry with versioned pinning",
-     "JSON-by-convention — the swamp begins"
+     "JSON-by-convention, the swamp begins"
     ],
     [
      "Transport",
      "QoS classes: alarm vs telemetry vs bulk",
-     "One-size MQTT QoS — alarms drop with telemetry"
+     "One-size MQTT QoS, alarms drop with telemetry"
     ],
     [
      "Brownfield",
      "Protocol translation tier with conformance",
-     "Skipping legacy — it is where the machines are"
+     "Skipping legacy, it is where the machines are"
     ],
     [
      "Lifecycle",
      "OTA + graveyard process",
-     "Set-and-forget fleets — zombies compound"
+     "Set-and-forget fleets, zombies compound"
     ]
    ]
   },
@@ -1318,7 +1318,7 @@
   },
   {
    "t": "p",
-   "x": "Provenance survives the pipeline: every reading carries device identity, schema version and gateway path — so a suspect reading can be traced to hardware, firmware or transport in one query."
+   "x": "Provenance survives the pipeline: every reading carries device identity, schema version and gateway path, so a suspect reading can be traced to hardware, firmware or transport in one query."
   },
   {
    "t": "bullets",
@@ -1343,7 +1343,7 @@
   },
   {
    "t": "note",
-   "x": "Zombie sweeps run monthly: devices that heartbeat but emit flat-lined or physically implausible values are flagged for field verification — silent failure is the fabric's most expensive failure mode.",
+   "x": "Zombie sweeps run monthly: devices that heartbeat but emit flat-lined or physically implausible values are flagged for field verification, silent failure is the fabric's most expensive failure mode.",
    "variant": "warning"
   },
   {
@@ -1354,12 +1354,12 @@
   },
   {
    "t": "p",
-   "x": "Sensor fabrics fail quietly: a Modbus register misread becomes a wrong temperature in the historian, becomes a wrong trend, becomes a wrong decision — and nobody can say where it broke. The fabric therefore normalizes at the edge: protocol translators (OPC UA, Modbus, MQTT, proprietary) produce one schema per event class from the registry, store-and-forward buffers survive plant partitions with priced autonomy, and capture fidelity is measured per device class against signed targets. Heartbeat SLOs are on silence — a sensor that stops reporting pages inside its budget, because a blind spot that hides for weeks is how narratives form.",
+   "x": "Sensor fabrics fail quietly: a Modbus register misread becomes a wrong temperature in the historian, becomes a wrong trend, becomes a wrong decision, and nobody can say where it broke. The fabric therefore normalizes at the edge: protocol translators (OPC UA, Modbus, MQTT, proprietary) produce one schema per event class from the registry, store-and-forward buffers survive plant partitions with priced autonomy, and capture fidelity is measured per device class against signed targets. Heartbeat SLOs are on silence, a sensor that stops reporting pages inside its budget, because a blind spot that hides for weeks is how narratives form.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The fabric is operated like an estate: OTA pipelines stage signed firmware with canary gateways, heartbeat and fidelity trend on the console per class, and data-integrity governance (checksums at ingest, provenance per reading) keeps the historian defensible. Downstream consumers sign against the fabric's SLAs — because every twin, model and dashboard downstream is only as true as the wire it came from.",
+   "x": "The fabric is operated like an estate: OTA pipelines stage signed firmware with canary gateways, heartbeat and fidelity trend on the console per class, and data-integrity governance (checksums at ingest, provenance per reading) keeps the historian defensible. Downstream consumers sign against the fabric's SLAs, because every twin, model and dashboard downstream is only as true as the wire it came from.",
    "phase3_deep": true
   },
   {
@@ -1389,29 +1389,29 @@
    "items": [
     [
      "Why is capture fidelity the headline metric?",
-     "Because every downstream promise — analytics, twins, predictive maintenance — rests on the sensor readings being true. Fidelity is measured per device class against ground truth, and the honest weak classes are priced, not hidden."
+     "Because every downstream promise, analytics, twins, predictive maintenance, rests on the sensor readings being true. Fidelity is measured per device class against ground truth, and the honest weak classes are priced, not hidden."
     ],
     [
      "How does the fabric survive network outages?",
-     "Buffer autonomy: each device class carries signed autonomy — 72 hours on power meters, 8 on legacy PLC registers — and reconciliation on reconnect is rehearsed, so a partition costs nothing but patience."
+     "Buffer autonomy: each device class carries signed autonomy, 72 hours on power meters, 8 on legacy PLC registers, and reconciliation on reconnect is rehearsed, so a partition costs nothing but patience."
     ],
     [
      "Can you integrate with our existing PLCs and historians?",
-     "Yes — the integration surface names PLCs, gateways and historians. Legacy registers enter through typed adapters with their own fidelity targets, and the defaults table prices what retrofitting would buy."
+     "Yes, the integration surface names PLCs, gateways and historians. Legacy registers enter through typed adapters with their own fidelity targets, and the defaults table prices what retrofitting would buy."
     ],
     [
      "How do you detect a failing sensor?",
-     "Integrity monitors per device class: range checks, cross-sensor plausibility, drift detection against calibration history — a failing sensor flags before its data poisons downstream models."
+     "Integrity monitors per device class: range checks, cross-sensor plausibility, drift detection against calibration history, a failing sensor flags before its data poisons downstream models."
     ],
     [
      "What does the OT team inherit?",
-     "The fabric, the fidelity console, the gates and the data-integrity overlay — OT operates capture as a measured service that downstream consumers can rely on."
+     "The fabric, the fidelity console, the gates and the data-integrity overlay, OT operates capture as a measured service that downstream consumers can rely on."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the production line whose data nobody fully trusts. The diagnostic will baseline capture fidelity by device class — and price what honest instrumentation costs on your brownfield estate."
+   "x": "Bring the production line whose data nobody fully trusts. The diagnostic will baseline capture fidelity by device class, and price what honest instrumentation costs on your brownfield estate."
   }
  ],
  "words": 949,
@@ -1496,43 +1496,43 @@
    "title": "Computer Vision & Edge AI",
    "url": "/services/iot-digital-twin-robotics/computer-vision-edge-ai/",
    "tag": "Same domain",
-   "desc": "inference at the edge with model ops — constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
+   "desc": "inference at the edge with model ops, constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
   },
   {
    "title": "Connected Products & Smart Devices",
    "url": "/services/iot-digital-twin-robotics/connected-products-devices/",
    "tag": "Same domain",
-   "desc": "product fleets in the field — OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
+   "desc": "product fleets in the field, OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
   },
   {
    "title": "Digital Twin Platform Engineering",
    "url": "/services/iot-digital-twin-robotics/digital-twin-platforms/",
    "tag": "Same domain",
-   "desc": "twins that stay honest — state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
+   "desc": "twins that stay honest, state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
   },
   {
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Pairs with",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Pairs with",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "Decision Intelligence Systems",
    "url": "/services/agentic-ai-hyperautomation/decision-intelligence-systems/",
    "tag": "Pairs with",
-   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs — decisions you can defend to a regulator, not just scores in a dashboard."
+   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs, decisions you can defend to a regulator, not just scores in a dashboard."
   },
   {
    "title": "A European agri-cooperative (4,200 farms)",
    "url": "/case-studies/agr-01/",
    "tag": "Evidence",
-   "desc": "Input cost per hectare down 14% — precision agronomy at cooperative scale."
+   "desc": "Input cost per hectare down 14%, precision agronomy at cooperative scale."
   }
  ],
  "evidence": [

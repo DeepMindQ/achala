@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Executive analytics fails as a numbers argument: three dashboards, five versions of revenue, a meeting spent reconciling spreadsheets. The cure is metric contracts — one definition, one certified dataset, one owner — and a semantic layer that makes the contract executable rather than a wiki page."
+   "x": "Executive analytics fails as a numbers argument: three dashboards, five versions of revenue, a meeting spent reconciling spreadsheets. The cure is metric contracts, one definition, one certified dataset, one owner, and a semantic layer that makes the contract executable rather than a wiki page."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these grows the spreadsheet shadow — the countermeasures make certified metrics faster and more trusted than the private rebuild."
+   "x": "Each of these grows the spreadsheet shadow, the countermeasures make certified metrics faster and more trusted than the private rebuild."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Metrics are contracts: definitions with owners, certified datasets underneath, change control on definitions, and an executive serving layer whose p95 is itself an SLA — speed is why the shadow exists, so speed is part of the governance."
+   "x": "Metrics are contracts: definitions with owners, certified datasets underneath, change control on definitions, and an executive serving layer whose p95 is itself an SLA, speed is why the shadow exists, so speed is part of the governance."
   },
   {
    "t": "arch",
@@ -288,7 +288,7 @@
   },
   {
    "t": "p",
-   "x": "From definition argument through contract drafting, certification, downstream adoption and the dispute ledger — including what happens when a definition change is requested mid-quarter."
+   "x": "From definition argument through contract drafting, certification, downstream adoption and the dispute ledger, including what happens when a definition change is requested mid-quarter."
   },
   {
    "t": "diagram",
@@ -312,7 +312,7 @@
   },
   {
    "t": "p",
-   "x": "Certified coverage, dispute rate, executive query p95 and the shrinking spreadsheet count — the four numbers that tell you whether the estate is gaining or losing the trust war."
+   "x": "Certified coverage, dispute rate, executive query p95 and the shrinking spreadsheet count, the four numbers that tell you whether the estate is gaining or losing the trust war."
   },
   {
    "t": "idash",
@@ -625,7 +625,7 @@
   },
   {
    "t": "p",
-   "x": "Certification coverage, dispute rates and query performance across domains — the shape that shows where the shadow spreads and where certification is winning."
+   "x": "Certification coverage, dispute rates and query performance across domains, the shape that shows where the shadow spreads and where certification is winning."
   },
   {
    "t": "chart",
@@ -1182,27 +1182,27 @@
     [
      "Semantic layer",
      "Versioned metric contracts bound to gold datasets",
-     "Definitions in docs — they drift from every dashboard"
+     "Definitions in docs, they drift from every dashboard"
     ],
     [
      "Certification",
      "Board with evidence requirements",
-     "Self-certification — trust erodes within a quarter"
+     "Self-certification, trust erodes within a quarter"
     ],
     [
      "Exec experience",
      "Curated suite with narrative annotations",
-     "Thirty executive dashboards — attention does not scale"
+     "Thirty executive dashboards, attention does not scale"
     ],
     [
      "Self-serve",
      "Governed workbench over certified sources",
-     "Raw database access for analysts — anarchy follows"
+     "Raw database access for analysts, anarchy follows"
     ],
     [
      "Consolidation",
      "Usage-telemetry-driven retirement",
-     "Keeping everything 'just in case' — sprawl is a cost"
+     "Keeping everything 'just in case', sprawl is a cost"
     ]
    ]
   },
@@ -1356,7 +1356,7 @@
   },
   {
    "t": "p",
-   "x": "Metric definitions are versioned with change control; the dispute ledger records every challenge and its resolution — the institutional memory that stops the same argument restarting each quarter."
+   "x": "Metric definitions are versioned with change control; the dispute ledger records every challenge and its resolution, the institutional memory that stops the same argument restarting each quarter."
   },
   {
    "t": "bullets",
@@ -1381,7 +1381,7 @@
   },
   {
    "t": "note",
-   "x": "Executive-layer p95 is an SLA, not an aspiration: when the suite slows past budget, the incident is real and the shadow spreads — so latency regressions are treated as trust regressions."
+   "x": "Executive-layer p95 is an SLA, not an aspiration: when the suite slows past budget, the incident is real and the shadow spreads, so latency regressions are treated as trust regressions."
   },
   {
    "t": "h2",
@@ -1391,12 +1391,12 @@
   },
   {
    "t": "p",
-   "x": "The spreadsheet shadow grows because truth is slow: when the certified number takes two weeks and a meeting, every analyst ships their own. The countermeasure is a semantic layer with metric contracts — one definition, one join, one owner per metric — and a certification board with quorum that blesses metrics into the certified set. The dispute tracker converts number wars into tickets: a disputed metric has a defined adjudication path, and the resolution updates the contract, so every dispute makes the layer stronger instead of more contested.",
+   "x": "The spreadsheet shadow grows because truth is slow: when the certified number takes two weeks and a meeting, every analyst ships their own. The countermeasure is a semantic layer with metric contracts, one definition, one join, one owner per metric, and a certification board with quorum that blesses metrics into the certified set. The dispute tracker converts number wars into tickets: a disputed metric has a defined adjudication path, and the resolution updates the contract, so every dispute makes the layer stronger instead of more contested.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Executive trust follows the mechanics: the board pack is built from certified gold marts only (a written policy, not a preference), freshness is published per metric, and the shadow-spreadsheet census is repeated quarterly as the adoption metric — when the shadow shrinks, the layer is winning. The console reads trust as numbers: certified coverage, dispute rate, freshness adherence, because 'trust me' is not a metric.",
+   "x": "Executive trust follows the mechanics: the board pack is built from certified gold marts only (a written policy, not a preference), freshness is published per metric, and the shadow-spreadsheet census is repeated quarterly as the adoption metric, when the shadow shrinks, the layer is winning. The console reads trust as numbers: certified coverage, dispute rate, freshness adherence, because 'trust me' is not a metric.",
    "phase3_deep": true
   },
   {
@@ -1404,7 +1404,7 @@
    "items": [
     [
      "Metric contracts enforced",
-     "One definition, one join, one owner — disputes resolve by lookup."
+     "One definition, one join, one owner, disputes resolve by lookup."
     ],
     [
      "Certification with quorum",
@@ -1430,7 +1430,7 @@
     ],
     [
      "What is a metric contract?",
-     "A definition with an owner: the metric’s logic, grain, filters and refresh are versioned in the semantic layer, certified through gates — lineage, tests, steward sign-off — and every dashboard consumes the contract, not a copy of it."
+     "A definition with an owner: the metric’s logic, grain, filters and refresh are versioned in the semantic layer, certified through gates, lineage, tests, steward sign-off, and every dashboard consumes the contract, not a copy of it."
     ],
     [
      "How are metric disputes handled?",
@@ -1438,17 +1438,17 @@
     ],
     [
      "Can executives still get one-off analyses?",
-     "Yes — one-offs run against the same semantic layer, so even exploratory work inherits certified definitions. Where a metric does not exist yet, the request becomes a contract backlog item rather than a private formula."
+     "Yes, one-offs run against the same semantic layer, so even exploratory work inherits certified definitions. Where a metric does not exist yet, the request becomes a contract backlog item rather than a private formula."
     ],
     [
      "What does the analytics office inherit?",
-     "The semantic layer, the certification gates, the dispute ledger and the console — the office runs trust as a measured program, not as an etiquette plea."
+     "The semantic layer, the certification gates, the dispute ledger and the console, the office runs trust as a measured program, not as an etiquette plea."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Count the spreadsheets that rebuild the same metric. The diagnostic will score your estate's certified coverage — and price what one trusted number, served fast, would cost."
+   "x": "Count the spreadsheets that rebuild the same metric. The diagnostic will score your estate's certified coverage, and price what one trusted number, served fast, would cost."
   }
  ],
  "words": 1000,
@@ -1533,19 +1533,19 @@
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Same domain",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Same domain",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Same domain",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "Multimodal AI & Vision-Language Systems",
@@ -1557,19 +1557,19 @@
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Pairs with",
-   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline — conformance-checked, variant-ranked and ROI-priced before anything is built."
+   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline, conformance-checked, variant-ranked and ROI-priced before anything is built."
   },
   {
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Pairs with",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "A multi-campus university group",
    "url": "/case-studies/edu-03/",
    "tag": "Evidence",
-   "desc": "Research throughput up 2.8x — governed HPC/cloud platform."
+   "desc": "Research throughput up 2.8x, governed HPC/cloud platform."
   }
  ],
  "evidence": [

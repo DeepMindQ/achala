@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A workflow that spans days — onboarding, claims, order-to-cash exceptions — is not a function call; it is a state machine that must survive restarts, token expiries, downstream outages and people going on holiday. The engineering is durable execution: every step idempotent, every state persisted, every failure path drawn before the happy path is celebrated."
+   "x": "A workflow that spans days, onboarding, claims, order-to-cash exceptions, is not a function call; it is a state machine that must survive restarts, token expiries, downstream outages and people going on holiday. The engineering is durable execution: every step idempotent, every state persisted, every failure path drawn before the happy path is celebrated."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these leaves work stranded rather than failed — which is why they hide until SLA breaches surface them, and why each countermeasure is a structural property of the runtime."
+   "x": "Every one of these leaves work stranded rather than failed, which is why they hide until SLA breaches surface them, and why each countermeasure is a structural property of the runtime."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The design centers on three guarantees: state survives process restarts, side effects are idempotent under duplicate triggers, and escalation follows a choreography with timers — so nothing waits forever and nothing fires twice."
+   "x": "The design centers on three guarantees: state survives process restarts, side effects are idempotent under duplicate triggers, and escalation follows a choreography with timers, so nothing waits forever and nothing fires twice."
   },
   {
    "t": "arch",
@@ -300,7 +300,7 @@
   },
   {
    "t": "p",
-   "x": "Follow one long-running case through a partial failure: timeout, replay from durable state, idempotent re-execution, escalation timers — and where the audit record is written."
+   "x": "Follow one long-running case through a partial failure: timeout, replay from durable state, idempotent re-execution, escalation timers, and where the audit record is written."
   },
   {
    "t": "diagram",
@@ -324,7 +324,7 @@
   },
   {
    "t": "p",
-   "x": "On-time completion, zombie count, duplicate side effects and escalation success — the four numbers that tell you whether the runtime is managing work or generating case debt."
+   "x": "On-time completion, zombie count, duplicate side effects and escalation success, the four numbers that tell you whether the runtime is managing work or generating case debt."
   },
   {
    "t": "idash",
@@ -628,7 +628,7 @@
   },
   {
    "t": "p",
-   "x": "Design targets for completion rates and recovery time as failure load increases — the curve that proves the runtime degrades gracefully instead of silently stranding cases."
+   "x": "Design targets for completion rates and recovery time as failure load increases, the curve that proves the runtime degrades gracefully instead of silently stranding cases."
   },
   {
    "t": "chart",
@@ -1185,22 +1185,22 @@
     [
      "State",
      "Versioned state store with age alarms",
-     "Case state in memory — it dies with the pod and takes the audit with it"
+     "Case state in memory, it dies with the pod and takes the audit with it"
     ],
     [
      "Idempotency",
      "Keys + exactly-once ledger for money paths",
-     "At-least-once without keys — duplicates are inevitable"
+     "At-least-once without keys, duplicates are inevitable"
     ],
     [
      "Escalation",
      "SLA-clock driven paging with measured success",
-     "Email-only escalations — they rot silently"
+     "Email-only escalations, they rot silently"
     ],
     [
      "Definitions",
      "Declarative workflows in git with drift CI",
-     "Builder-UI-only definitions — they drift the moment someone edits live"
+     "Builder-UI-only definitions, they drift the moment someone edits live"
     ]
    ]
   },
@@ -1316,7 +1316,7 @@
   {
    "t": "h2",
    "x": "Queues, systems, escalation desk — where workflows touch the estate",
-   "sub": "Where workflows touch systems — and where they must not"
+   "sub": "Where workflows touch systems, and where they must not"
   },
   {
    "t": "p",
@@ -1384,17 +1384,17 @@
   {
    "t": "h2",
    "x": "Partial failure is a normal operating event",
-   "sub": "Durable execution semantics — and the compensation design that makes recovery boring",
+   "sub": "Durable execution semantics, and the compensation design that makes recovery boring",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "A workflow that spans an ERP, a document service and three human tasks will experience partial failure every week, and the design question is not whether to fail but what state means when it does. Durable execution is the answer: the orchestrator persists a versioned state record at every step boundary, and a crashed executor resumes from the last boundary with its inputs intact. Timers are first-class — an SLA clock that fires at 14:00 re-drives the case whether or not anyone remembered it — and duplicate triggers collapse through the same idempotency discipline the agent runtime uses.",
+   "x": "A workflow that spans an ERP, a document service and three human tasks will experience partial failure every week, and the design question is not whether to fail but what state means when it does. Durable execution is the answer: the orchestrator persists a versioned state record at every step boundary, and a crashed executor resumes from the last boundary with its inputs intact. Timers are first-class, an SLA clock that fires at 14:00 re-drives the case whether or not anyone remembered it, and duplicate triggers collapse through the same idempotency discipline the agent runtime uses.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Compensation is where amateur orchestrations die. Every non-idempotent step carries a defined undo: the reversal is coded, tested in chaos drills and rehearsed against production-shaped data before go-live. Zombie detection closes the loop — a case with no state transition for N hours is surfaced to the escalation desk with its trail attached, so nothing strands silently. The chaos drill is the release gate that matters: injected failures at every step boundary, and the recovery path must complete before the cohort advances.",
+   "x": "Compensation is where amateur orchestrations die. Every non-idempotent step carries a defined undo: the reversal is coded, tested in chaos drills and rehearsed against production-shaped data before go-live. Zombie detection closes the loop, a case with no state transition for N hours is surfaced to the escalation desk with its trail attached, so nothing strands silently. The chaos drill is the release gate that matters: injected failures at every step boundary, and the recovery path must complete before the cohort advances.",
    "phase3_deep": true
   },
   {
@@ -1410,7 +1410,7 @@
     ],
     [
      "Coded compensation",
-     "Every non-idempotent step has a tested undo — rehearsed, not improvised."
+     "Every non-idempotent step has a tested undo, rehearsed, not improvised."
     ],
     [
      "Zombie detection",
@@ -1424,7 +1424,7 @@
    "items": [
     [
      "What happens when a downstream system is down for hours mid-workflow?",
-     "The workflow parks at a step boundary with its state persisted; first-class timers retry with backoff, and the escalation desk sees the parked case before SLA breach. Resume is from the boundary — never a blind rerun."
+     "The workflow parks at a step boundary with its state persisted; first-class timers retry with backoff, and the escalation desk sees the parked case before SLA breach. Resume is from the boundary, never a blind rerun."
     ],
     [
      "How do you guarantee an action fires exactly once?",
@@ -1432,11 +1432,11 @@
     ],
     [
      "Can we keep our existing BPM engine or scheduler?",
-     "Yes, where it earns its place. The defaults table names the conditions under which we deviate, and every deviation is signed with its rollback plan — the engine is a decision, not a habit."
+     "Yes, where it earns its place. The defaults table names the conditions under which we deviate, and every deviation is signed with its rollback plan, the engine is a decision, not a habit."
     ],
     [
      "How do we prove recovery actually works before go-live?",
-     "Fault injection is a release gate, not a demo: tool outage, token expiry, queue flood and half-deploy are replayed, and the cohort carries the drill results — 93% on-time, zero zombies — as evidence."
+     "Fault injection is a release gate, not a demo: tool outage, token expiry, queue flood and half-deploy are replayed, and the cohort carries the drill results, 93% on-time, zero zombies, as evidence."
     ],
     [
      "What does the audit trail look like for a running case?",
@@ -1446,7 +1446,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the workflow that currently fails quietly at month-end. The diagnostic will map its zombie cases and escalation holes — then price what recovery-by-design would cost."
+   "x": "Bring the workflow that currently fails quietly at month-end. The diagnostic will map its zombie cases and escalation holes, then price what recovery-by-design would cost."
   }
  ],
  "words": 1118,
@@ -1531,19 +1531,19 @@
    "title": "Digital Workforce & Multi-Agent Orchestration",
    "url": "/services/agentic-ai-hyperautomation/digital-workforce-orchestration/",
    "tag": "Same domain",
-   "desc": "agent-fleet management as workforce management — capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
+   "desc": "agent-fleet management as workforce management, capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
   },
   {
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Same domain",
-   "desc": "the contracted seams — ERP, CRM, ITSM, comms and queues — with typed contracts, replayable failures and monitors that catch drift before business users do."
+   "desc": "the contracted seams, ERP, CRM, ITSM, comms and queues, with typed contracts, replayable failures and monitors that catch drift before business users do."
   },
   {
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Same domain",
-   "desc": "extraction and adjudication inside the process — documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
+   "desc": "extraction and adjudication inside the process, documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
   },
   {
    "title": "Enterprise AI Strategy & Roadmapping",
@@ -1555,19 +1555,19 @@
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Pairs with",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Pairs with",
-   "desc": "one operating model across clouds and on-prem — workload placement by policy, portable patterns, and drift that is measured in one place."
+   "desc": "one operating model across clouds and on-prem, workload placement by policy, portable patterns, and drift that is measured in one place."
   },
   {
    "title": "A public research university (38,000 students)",
    "url": "/case-studies/edu-01/",
    "tag": "Evidence",
-   "desc": "Retention +4.1 points in target cohorts — early-warning to advising loop."
+   "desc": "Retention +4.1 points in target cohorts, early-warning to advising loop."
   }
  ],
  "evidence": [

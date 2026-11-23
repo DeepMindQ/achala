@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Integration is where hyperautomation programs actually die: not in the models, but in the seam where an agent writes to an ERP that changed its API on Thursday. We treat every seam as a contract with direction, schema, identity, rate limits, failure behavior and a drift monitor — and the contract is versioned like code."
+   "x": "Integration is where hyperautomation programs actually die: not in the models, but in the seam where an agent writes to an ERP that changed its API on Thursday. We treat every seam as a contract with direction, schema, identity, rate limits, failure behavior and a drift monitor, and the contract is versioned like code."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these fires during peak load, which is exactly when nobody can afford it — the countermeasures are contractual and structural, not heroic."
+   "x": "Every one of these fires during peak load, which is exactly when nobody can afford it, the countermeasures are contractual and structural, not heroic."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Seams are contracts, not credentials: typed request/response schemas, idempotency keys, replay queues and drift monitors that diff live API behavior against the contract — so a vendor's silent change is caught by a monitor, not by a failed close."
+   "x": "Seams are contracts, not credentials: typed request/response schemas, idempotency keys, replay queues and drift monitors that diff live API behavior against the contract, so a vendor's silent change is caught by a monitor, not by a failed close."
   },
   {
    "t": "arch",
@@ -295,7 +295,7 @@
   },
   {
    "t": "p",
-   "x": "From the automation's action through contract validation, rate shaping and the idempotent write to the replay path when a system rejects mid-flight — including where duplicates would otherwise be born."
+   "x": "From the automation's action through contract validation, rate shaping and the idempotent write to the replay path when a system rejects mid-flight, including where duplicates would otherwise be born."
   },
   {
    "t": "diagram",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Seam success rate, replay queue depth, duplicate writes and drift detections — the four numbers that predict whether month-end will be boring, which is the highest compliment an integration can earn."
+   "x": "Seam success rate, replay queue depth, duplicate writes and drift detections, the four numbers that predict whether month-end will be boring, which is the highest compliment an integration can earn."
   },
   {
    "t": "idash",
@@ -652,7 +652,7 @@
   },
   {
    "t": "p",
-   "x": "Success rate and replay depth across the load curve — the signature that shows where rate limits bite and where the traffic shaping holds."
+   "x": "Success rate and replay depth across the load curve, the signature that shows where rate limits bite and where the traffic shaping holds."
   },
   {
    "t": "chart",
@@ -1217,27 +1217,27 @@
     [
      "Contracts",
      "Schema registry + CI contract tests against sandbox",
-     "Integration by happy-path example — drift finds it in production"
+     "Integration by happy-path example, drift finds it in production"
     ],
     [
      "Gateway",
      "Central integration gateway with typed endpoints",
-     "Point-to-point calls from agents — unversioned and unmonitored"
+     "Point-to-point calls from agents, unversioned and unmonitored"
     ],
     [
      "Idempotency",
      "Ledger-backed keys on every write",
-     "Best-effort dedup — month-end proves it wrong"
+     "Best-effort dedup, month-end proves it wrong"
     ],
     [
      "Replay",
      "Supervised replay queues with full context",
-     "Auto-retry forever — it amplifies vendor incidents"
+     "Auto-retry forever, it amplifies vendor incidents"
     ],
     [
      "Monitors",
      "Response-shape drift + latency/error SLOs",
-     "Uptime-only monitoring — shape drift sails through"
+     "Uptime-only monitoring, shape drift sails through"
     ]
    ]
   },
@@ -1353,11 +1353,11 @@
   {
    "t": "h2",
    "x": "The systems list, honestly named — ERP to queues",
-   "sub": "ERP, CRM, ITSM, comms and queues — named, typed, owned"
+   "sub": "ERP, CRM, ITSM, comms and queues, named, typed, owned"
   },
   {
    "t": "p",
-   "x": "The scope is the estate itself: ERP, CRM, ITSM, communications and the queues between them — each with the contract fields that make automation survive contact with reality."
+   "x": "The scope is the estate itself: ERP, CRM, ITSM, communications and the queues between them, each with the contract fields that make automation survive contact with reality."
   },
   {
    "t": "bullets",
@@ -1416,22 +1416,22 @@
   },
   {
    "t": "note",
-   "x": "Sandbox parity is verified before every release: if the vendor's sandbox drifts from production behavior, the seam gate stays closed — sandbox fiction is treated as a failed gate."
+   "x": "Sandbox parity is verified before every release: if the vendor's sandbox drifts from production behavior, the seam gate stays closed, sandbox fiction is treated as a failed gate."
   },
   {
    "t": "h2",
    "x": "Typed seams, or the month-end will find you",
-   "sub": "Contract-first integration — the discipline that makes cross-system writes survivable",
+   "sub": "Contract-first integration, the discipline that makes cross-system writes survivable",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Integration failures are calendar-driven: the seam that held all quarter breaks on the last business day of the month, when volumes triple and upstream schemas drift. The countermeasure is contract-first seams — every integration is a typed contract in the registry, versioned like code, with contract tests that break the build when a provider drifts. The drift monitors then watch the two failure classes tests cannot catch: semantic drift (a field that keeps its name and loses its meaning) and volume drift (a source that changes its shape under load). Both page the integration desk before the close, not after.",
+   "x": "Integration failures are calendar-driven: the seam that held all quarter breaks on the last business day of the month, when volumes triple and upstream schemas drift. The countermeasure is contract-first seams, every integration is a typed contract in the registry, versioned like code, with contract tests that break the build when a provider drifts. The drift monitors then watch the two failure classes tests cannot catch: semantic drift (a field that keeps its name and loses its meaning) and volume drift (a source that changes its shape under load). Both page the integration desk before the close, not after.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The write path is engineered for exactly-once semantics under provable conditions: idempotency keys per business object, the idempotency ledger as the receipt of record, and replay queues that re-drive any write that landed nowhere. The seam console reads month-end as a load profile, not an incident — capacity shapes, back-pressure rules and rate limits are rehearsed against a replayed close before the live one. When a seam does break, the repair is a contract version bump with a migration note, not a hotfix that quietly widens a type.",
+   "x": "The write path is engineered for exactly-once semantics under provable conditions: idempotency keys per business object, the idempotency ledger as the receipt of record, and replay queues that re-drive any write that landed nowhere. The seam console reads month-end as a load profile, not an incident, capacity shapes, back-pressure rules and rate limits are rehearsed against a replayed close before the live one. When a seam does break, the repair is a contract version bump with a migration note, not a hotfix that quietly widens a type.",
    "phase3_deep": true
   },
   {
@@ -1465,11 +1465,11 @@
     ],
     [
      "Can you guarantee exactly-once writes across three systems?",
-     "Yes — typed contracts with idempotency keys and a hash-linked ledger give every write a receipt. Replay returns the receipt, never a duplicate, and the ledger reconstructs the write path for audit."
+     "Yes, typed contracts with idempotency keys and a hash-linked ledger give every write a receipt. Replay returns the receipt, never a duplicate, and the ledger reconstructs the write path for audit."
     ],
     [
      "What happens when month-end volume spikes?",
-     "The close is replayed as a rehearsal before it is trusted. Back-pressure and replay queues are sized from that rehearsal, so D-day runs on evidence — the chart shows the target shape under load."
+     "The close is replayed as a rehearsal before it is trusted. Back-pressure and replay queues are sized from that rehearsal, so D-day runs on evidence, the chart shows the target shape under load."
     ],
     [
      "Do we need to replace our existing middleware?",
@@ -1477,13 +1477,13 @@
     ],
     [
      "How is integration debt made visible to management?",
-     "Every seam carries a fragility index in the console — drift count, key coverage, replay depth — so debt is priced and scheduled rather than discovered at close."
+     "Every seam carries a fragility index in the console, drift count, key coverage, replay depth, so debt is priced and scheduled rather than discovered at close."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Map the seams your last close depended on, then count how many have owners and contracts. The diagnostic will score every one — and price what boring month-ends cost."
+   "x": "Map the seams your last close depended on, then count how many have owners and contracts. The diagnostic will score every one, and price what boring month-ends cost."
   }
  ],
  "words": 1077,
@@ -1574,13 +1574,13 @@
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Same domain",
-   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit — orchestration that survives partial failure as a normal event."
+   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit, orchestration that survives partial failure as a normal event."
   },
   {
    "title": "Decision Intelligence Systems",
    "url": "/services/agentic-ai-hyperautomation/decision-intelligence-systems/",
    "tag": "Same domain",
-   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs — decisions you can defend to a regulator, not just scores in a dashboard."
+   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs, decisions you can defend to a regulator, not just scores in a dashboard."
   },
   {
    "title": "RAG & Enterprise Knowledge Systems",
@@ -1592,19 +1592,19 @@
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Pairs with",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Pairs with",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "A European biopharma group",
    "url": "/case-studies/hc-03/",
    "tag": "Evidence",
-   "desc": "Trial eligibility matching at 10x — enrollment windows met."
+   "desc": "Trial eligibility matching at 10x, enrollment windows met."
   }
  ],
  "evidence": [

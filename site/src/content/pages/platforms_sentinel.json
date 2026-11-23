@@ -1,0 +1,230 @@
+{
+ "id": "PLT-sentinel-ov",
+ "title": "Achala Sentinel — Zero-Trust & AI Security Platform",
+ "url": "/platforms/sentinel/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Sentinel > Overview",
+ "seo_title": "Achala Sentinel — Zero-Trust & AI Security Platform | Achala IT Solutions",
+ "meta_description": "Achala Sentinel, our Zero-Trust & AI Security Platform, protects people, machines and models with controls you can evidence.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Security architecture you can prove, not just promise. Achala Sentinel applies zero-trust controls to people, machines and AI models, and generates the evidence your auditors and regulators ask for."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Sentinel is our Zero-Trust & AI Security Platform. It covers identity, device posture, network segmentation and, the part most vendors skip, the AI models themselves: prompt-injection defense, model access control and output monitoring."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Identity and posture",
+     "Every request authenticated, every device checked"
+    ],
+    [
+     "Segmentation",
+     "Workloads talk only along declared paths"
+    ],
+    [
+     "AI model protection",
+     "Prompt-injection defense, output filtering, model access logs"
+    ],
+    [
+     "Evidence engine",
+     "Control tests run continuously and file their own reports"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Sentinel — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "SIEM/XDR",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Zero-trust enforcement",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Detection-as-code",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Posture guardrails",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "AI defense layer",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "Purple-team validated",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "The platform is itself the evidence source:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Continuous control tests",
+     "Findings filed automatically, with timestamps"
+    ],
+    [
+     "Framework mapping",
+     "Controls mapped to ISO 27001, SOC 2, TISAX and NIS2"
+    ],
+    [
+     "Incident drills",
+     "Containment exercises rehearsed and recorded"
+    ],
+    [
+     "Access reviews",
+     "Recertification cycles with named owners"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Sentinel runs in banking, insurance, healthcare, automotive and public sector estates, including TISAX-audited automotive supply chains and HIPAA-regulated healthcare data flows."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Integrates with your identity provider, SIEM and cloud estates. Model protection attaches to your AI serving layer without changing application code."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one threat model to a briefing. We will show the controls, the tests and the evidence pack it maps to."
+  }
+ ],
+ "words": 549,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Sentinel",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Sentinel",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/sentinel/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Sentinel — Zero-Trust & AI Security Platform",
+   "url": "/platforms/sentinel/",
+   "desc": "Zero-Trust & AI Security Platform"
+  },
+  {
+   "title": "Achala Sentinel — Architecture & Trust",
+   "url": "/platforms/sentinel/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Sentinel — Industry Use Cases",
+   "url": "/platforms/sentinel/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

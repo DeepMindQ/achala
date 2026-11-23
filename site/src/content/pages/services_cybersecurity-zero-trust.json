@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cybersecurity & Zero-Trust runs as one control surface, not seven disconnected services: identity, detection, posture, resilience, compliance and AI security share one evidence model — so a control proven once is trusted everywhere, and audit becomes a reading exercise instead of a fire drill."
+   "x": "Cybersecurity & Zero-Trust runs as one control surface, not seven disconnected services: identity, detection, posture, resilience, compliance and AI security share one evidence model, so a control proven once is trusted everywhere, and audit becomes a reading exercise instead of a fire drill."
   },
   {
    "t": "p",
-   "x": "Security work here is evidence-first engineering: every control has a testable assertion, every detection is validated against a rehearsed attack path, and every exception expires. The domain spans identity, posture, threat intelligence, resilience and AI-specific protection — with the SOC workflow and the audit pack sharing one spine."
+   "x": "Security work here is evidence-first engineering: every control has a testable assertion, every detection is validated against a rehearsed attack path, and every exception expires. The domain spans identity, posture, threat intelligence, resilience and AI-specific protection, with the SOC workflow and the audit pack sharing one spine."
   },
   {
    "t": "p",
-   "x": "Seven practices, one spine: the control register. It tells you what is promised, how it is tested, and what evidence exists today — which is exactly what a regulator, an insurer or a customer's due-diligence team will ask for, in that order."
+   "x": "Seven practices, one spine: the control register. It tells you what is promised, how it is tested, and what evidence exists today, which is exactly what a regulator, an insurer or a customer's due-diligence team will ask for, in that order."
   },
   {
    "t": "h2",
@@ -77,11 +77,11 @@
   },
   {
    "t": "p",
-   "x": "The modern security program is measured in two currencies: time and evidence. Time — how fast identity is revoked, how fast a threat is contained, how fast a misconfiguration is closed. Evidence — what proves each control worked, generated continuously rather than assembled annually. The seven practices here are cut along exactly those two axes."
+   "x": "The modern security program is measured in two currencies: time and evidence. Time, how fast identity is revoked, how fast a threat is contained, how fast a misconfiguration is closed. Evidence, what proves each control worked, generated continuously rather than assembled annually. The seven practices here are cut along exactly those two axes."
   },
   {
    "t": "p",
-   "x": "What makes the program different is the AI layer: prompt-injection defense, corpus integrity, model theft resistance and agent abuse containment are first-class controls in the same gates as firewalls and identity. The estate that runs AI has attack surfaces the classic frameworks never named — and this domain treats them as named, gated, first-class citizens."
+   "x": "What makes the program different is the AI layer: prompt-injection defense, corpus integrity, model theft resistance and agent abuse containment are first-class controls in the same gates as firewalls and identity. The estate that runs AI has attack surfaces the classic frameworks never named, and this domain treats them as named, gated, first-class citizens."
   },
   {
    "t": "h2",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Detect-to-contain time, control evidence pass rate, revocation SLA and coverage — the four numbers in the CISO's weekly pack. The console below is the reference shape; the handover console reads the same against your control register."
+   "x": "Detect-to-contain time, control evidence pass rate, revocation SLA and coverage, the four numbers in the CISO's weekly pack. The console below is the reference shape; the handover console reads the same against your control register."
   },
   {
    "t": "idash",
@@ -606,11 +606,11 @@
   {
    "t": "h2",
    "x": "Where the control playbooks are sector-calibrated today",
-   "sub": "Supervisory review, patient safety, critical infrastructure — twelve industries, live briefs"
+   "sub": "Supervisory review, patient safety, critical infrastructure, twelve industries, live briefs"
   },
   {
    "t": "p",
-   "x": "Regulated sectors buy controls differently: supervisory review in finance, patient safety in health, critical-infrastructure rules in energy. The bars count published sub-industry briefs — a taller bar means the sector's control register, regulator workflows and rehearsal cadence are already drawn."
+   "x": "Regulated sectors buy controls differently: supervisory review in finance, patient safety in health, critical-infrastructure rules in energy. The bars count published sub-industry briefs, a taller bar means the sector's control register, regulator workflows and rehearsal cadence are already drawn."
   },
   {
    "t": "chart",
@@ -1092,7 +1092,7 @@
    "items": [
     [
      "Diagnostic — two weeks",
-     "Estate and control surface mapped, gate model scored, detect-to-contain baseline measured on your real telemetry — you keep the scored gate map."
+     "Estate and control surface mapped, gate model scored, detect-to-contain baseline measured on your real telemetry, you keep the scored gate map."
     ],
     [
      "Provability sprint — four weeks",
@@ -1104,14 +1104,14 @@
     ],
     [
      "Industrialize — ongoing",
-     "Purple-team cadence, quarterly re-baselines, evidence reviews that keep first-time audit pass rates above target — and the AI surface included, not bolted on."
+     "Purple-team cadence, quarterly re-baselines, evidence reviews that keep first-time audit pass rates above target, and the AI surface included, not bolted on."
     ]
    ]
   },
   {
    "t": "h2",
    "x": "Six gates from control assertion to audit pass",
-   "sub": "Assertion, attack-path, identity, recovery, evidence, exception — each with its evidence"
+   "sub": "Assertion, attack-path, identity, recovery, evidence, exception, each with its evidence"
   },
   {
    "t": "table",
@@ -1157,17 +1157,17 @@
   {
    "t": "h2",
    "x": "Time and evidence are the two currencies",
-   "sub": "Containment speed and examinable proof — the two numbers every security decision serves",
+   "sub": "Containment speed and examinable proof, the two numbers every security decision serves",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Programs fail in the space between the two currencies: containment that depends on a hero's timing, and evidence assembled by an annual archaeology project. The architecture closes both gaps — one control surface where identity, device, network and AI-model policies are decided and logged, detection tuned per attack path rather than per product, and the control register as the spine: every control carries an owner, an evidence source and a review date, so compliance is generated continuously rather than reconstructed annually.",
+   "x": "Programs fail in the space between the two currencies: containment that depends on a hero's timing, and evidence assembled by an annual archaeology project. The architecture closes both gaps, one control surface where identity, device, network and AI-model policies are decided and logged, detection tuned per attack path rather than per product, and the control register as the spine: every control carries an owner, an evidence source and a review date, so compliance is generated continuously rather than reconstructed annually.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The seven practices divide the surface deliberately: identity lifecycle, zero-trust enforcement, posture, threat intelligence, resilience, AI-model protection and compliance engineering. Each can be engaged alone; the evidence model binds them — one register, one evidence collector, one console — because fragmented programs produce the two failure modes that boards actually experience: slow containment (the breach that grew) and audit theater (the report that proved nothing).",
+   "x": "The seven practices divide the surface deliberately: identity lifecycle, zero-trust enforcement, posture, threat intelligence, resilience, AI-model protection and compliance engineering. Each can be engaged alone; the evidence model binds them, one register, one evidence collector, one console, because fragmented programs produce the two failure modes that boards actually experience: slow containment (the breach that grew) and audit theater (the report that proved nothing).",
    "phase3_deep": true
   },
   {
@@ -1201,25 +1201,25 @@
     ],
     [
      "Is zero trust a product we can buy?",
-     "No — it is an access architecture. Policies are decided on identity, device and context per request; the work is mapping critical paths, placing policy decision points and proving coverage. Products help enforce; they cannot decide for you."
+     "No, it is an access architecture. Policies are decided on identity, device and context per request; the work is mapping critical paths, placing policy decision points and proving coverage. Products help enforce; they cannot decide for you."
     ],
     [
      "How is AI security different from application security?",
-     "The attack surface: prompt injection, corpus poisoning, model theft and agent abuse have no classic CVE taxonomy. The practice treats them as gated controls in the same register — red-team suites, containment drills and evidence, like any other control."
+     "The attack surface: prompt injection, corpus poisoning, model theft and agent abuse have no classic CVE taxonomy. The practice treats them as gated controls in the same register, red-team suites, containment drills and evidence, like any other control."
     ],
     [
      "What does evidence-first mean for an audit?",
-     "The register generates proof while controls run — configurations, test results, exception expiries. An auditor samples controls and reads artifacts instead of interviewing teams; the first-time pass rate is the metric we sign."
+     "The register generates proof while controls run, configurations, test results, exception expiries. An auditor samples controls and reads artifacts instead of interviewing teams; the first-time pass rate is the metric we sign."
     ],
     [
      "Can we start from incident response?",
-     "Yes — resilience is a common entry practice. The first four weeks rehearse recovery against signed RTOs on one business service; the register and detection work then extend from what the rehearsal exposes."
+     "Yes, resilience is a common entry practice. The first four weeks rehearse recovery against signed RTOs on one business service; the register and detection work then extend from what the rehearsal exposes."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the control your auditor doubts most. The two-week diagnostic will measure its real coverage and evidence trail — and tell you what passing would take, in named owners and hours."
+   "x": "Bring the control your auditor doubts most. The two-week diagnostic will measure its real coverage and evidence trail, and tell you what passing would take, in named owners and hours."
   }
  ],
  "words": 871,
@@ -1265,43 +1265,43 @@
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Service",
-   "desc": "Never trust, always verify — zero-trust as an executable architecture, not a slide."
+   "desc": "Never trust, always verify, zero-trust as an executable architecture, not a slide."
   },
   {
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Service",
-   "desc": "Detection that keeps pace — intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
+   "desc": "Detection that keeps pace, intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
   },
   {
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Service",
-   "desc": "Identity as the perimeter — workforce, customer and machine identities on one governed plane."
+   "desc": "Identity as the perimeter, workforce, customer and machine identities on one governed plane."
   },
   {
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Service",
-   "desc": "Secure at the control plane — posture, workload and data security engineered into the platform."
+   "desc": "Secure at the control plane, posture, workload and data security engineered into the platform."
   },
   {
    "title": "AI security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Service",
-   "desc": "Secure the models themselves — prompt-injection defense, agent containment and AI red-teaming."
+   "desc": "Secure the models themselves, prompt-injection defense, agent containment and AI red-teaming."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Service",
-   "desc": "Assume breach, plan recovery — resilience engineered, rehearsed and measured."
+   "desc": "Assume breach, plan recovery, resilience engineered, rehearsed and measured."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Service",
-   "desc": "Evidence once, audit anywhere — compliance automation across SOC 2, ISO 27001, PCI DSS, DORA and privacy."
+   "desc": "Evidence once, audit anywhere, compliance automation across SOC 2, ISO 27001, PCI DSS, DORA and privacy."
   }
  ],
  "evidence": [

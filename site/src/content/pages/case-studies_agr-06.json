@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Farm-to-shelf traceability on a permissioned chain — recall scope down 85% and the retailer audit passed in one walkthrough"
+   "x": "Farm-to-shelf traceability on a permissioned chain, recall scope down 85% and the retailer audit passed in one walkthrough"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a food processing group whose recall drill assumed the worst and whose traceability couldn't say how bad the worst was. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a food processing group whose recall drill assumed the worst and whose traceability couldn't say how bad the worst was. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Traceability data existed at each step — farm lots, processing batches, shipments — but in systems that didn't link. The chain was a filing exercise, not a query."
+   "x": "Traceability data existed at each step, farm lots, processing batches, shipments, but in systems that didn't link. The chain was a filing exercise, not a query."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The anchor-at-source pattern transfers wherever recall scope is contractual; the supplier network was this group's procurement reality and the actual schedule. Replication starts from its last recall file — the diagnostic reads what took 61 hours."
+   "x": "The anchor-at-source pattern transfers wherever recall scope is contractual; the supplier network was this group's procurement reality and the actual schedule. Replication starts from its last recall file, the diagnostic reads what took 61 hours."
   },
   {
    "t": "table",

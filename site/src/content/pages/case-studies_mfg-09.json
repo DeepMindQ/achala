@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Digital thread for machining traceability on a permissioned ledger — audit preparation down 80% and full part provenance in one query"
+   "x": "Digital thread for machining traceability on a permissioned ledger, audit preparation down 80% and full part provenance in one query"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — an aerospace supplier whose traceability lived in filing cabinets and whose customer audits started with a letter and ended three weeks later. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, an aerospace supplier whose traceability lived in filing cabinets and whose customer audits started with a letter and ended three weeks later. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Traceability data existed — machine logs, CMM results, material certs — but in systems that didn't know each other. Assembling the thread was archaeology, and archaeology doesn't scale to every part."
+   "x": "Traceability data existed, machine logs, CMM results, material certs, but in systems that didn't know each other. Assembling the thread was archaeology, and archaeology doesn't scale to every part."
   },
   {
    "t": "h2",

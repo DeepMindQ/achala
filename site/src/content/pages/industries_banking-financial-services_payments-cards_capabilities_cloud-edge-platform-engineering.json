@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Payments & Cards meets two truths at once — volume keeps growing, and the old way stopped scaling. The structured response: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. For Payments & Cards, this is the standard the build is held to."
+   "x": "Cloud, Edge & Platform in Payments & Cards meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. For Payments & Cards, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for peak-load economics unmanaged — a script here, a spreadsheet there — have usually been tried in Payments & Cards. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for peak-load economics unmanaged, a script here, a spreadsheet there, have usually been tried in Payments & Cards. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Payments & Cards, the pattern is peak-readiness engineering — load modeling and chaos drills for seasonal peaks. Spikes absorbed at controlled cost sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. For Payments & Cards, this is the standard the build is held to."
+   "x": "In Payments & Cards, the pattern is peak-readiness engineering, load modeling and chaos drills for seasonal peaks. Spikes absorbed at controlled cost sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. For Payments & Cards, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. peak-load economics unmanaged is measured with your finance and risk leads in the room, then one working path — Peak-readiness engineering — goes live inside the quarter. In Payments & Cards programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. peak-load economics unmanaged is measured with your finance and risk leads in the room, then one working path, Peak-readiness engineering, goes live inside the quarter. In Payments & Cards programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Payments & Cards: PCI DSS 4.0 — cardholder-data estate compliance with continuous expectations; PSD2/instant payments — real-time rails with fraud duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Payments & Cards: PCI DSS 4.0, cardholder-data estate compliance with continuous expectations; PSD2/instant payments, real-time rails with fraud duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cloud, Edge & Platform for Payments & Cards, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cloud, Edge & Platform for Payments & Cards, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 530,

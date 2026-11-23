@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Operational status for the managed Achala platforms — what we publish here, how incidents are communicated, and where tenant-specific telemetry lives."
+   "x": "Operational status for the managed Achala platforms, what we publish here, how incidents are communicated, and where tenant-specific telemetry lives."
   },
   {
    "t": "h2",
@@ -66,7 +66,7 @@
   },
   {
    "t": "note",
-   "x": "Tenant-specific metrics, SLO burn-down and incident history for your deployments are available in your platform console and through your named reliability contact — this page is the public view, not a substitute for them."
+   "x": "Tenant-specific metrics, SLO burn-down and incident history for your deployments are available in your platform console and through your named reliability contact, this page is the public view, not a substitute for them."
   }
  ],
  "words": 261,

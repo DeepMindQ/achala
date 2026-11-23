@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points — Retail & Consumer Goods edition:"
+   "x": "The recurring pressure points, Retail & Consumer Goods edition:"
   },
   {
    "t": "bullets",
@@ -38,11 +38,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Retail & Consumer Goods, the working pattern is shelf-truth vision: OOS, planogram and shrink detection on existing cameras with edge inference. Oos discovered in minutes is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Retail & Consumer Goods, the working pattern is shelf-truth vision: OOS, planogram and shrink detection on existing cameras with edge inference. Oos discovered in minutes is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. shelf truth unknown is measured with your finance and risk leads in the room, then one working path — shelf-truth vision — goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. shelf truth unknown is measured with your finance and risk leads in the room, then one working path, shelf-truth vision, goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -79,26 +79,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for IoT, Twin & Robotics for Retail & Consumer Goods — each page documents the build as delivered:"
+   "x": "Named services for IoT, Twin & Robotics for Retail & Consumer Goods, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "Sense everything that matters — retrofit-friendly sensor fabric with governed telemetry."
+     "Sense everything that matters, retrofit-friendly sensor fabric with governed telemetry."
     ],
     [
      "Digital Twin Platform Engineering",
-     "Simulate before you cut steel — plant, fleet and product twins with governed physics and data."
+     "Simulate before you cut steel, plant, fleet and product twins with governed physics and data."
     ],
     [
      "Computer Vision & Edge AI",
-     "Cameras into instruments — inspection, safety and counting at the edge, inside policy."
+     "Cameras into instruments, inspection, safety and counting at the edge, inside policy."
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "Fix it before it fails — RUL models wired into planning, spare parts and work orders."
+     "Fix it before it fails, RUL models wired into planning, spare parts and work orders."
     ]
    ]
   },
@@ -186,13 +186,13 @@
    "title": "IoT, Twin & Robotics for Omnichannel Retail",
    "url": "/industries/retail-consumer-goods/omnichannel-retail/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   },
   {
    "title": "IoT, Twin & Robotics for Grocery & Convenience",
    "url": "/industries/retail-consumer-goods/grocery-convenience/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

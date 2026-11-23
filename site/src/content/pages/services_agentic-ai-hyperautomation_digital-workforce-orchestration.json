@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agent-fleet management run like workforce management: capacity plans against demand curves, shift and version discipline, credential rotation, utilization that is measured honestly — and SLAs that hold while the fleet upgrades underneath the business."
+   "x": "Agent-fleet management run like workforce management: capacity plans against demand curves, shift and version discipline, credential rotation, utilization that is measured honestly, and SLAs that hold while the fleet upgrades underneath the business."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Once you have a dozen agents, you have a workforce — and workforces need management. Capacity planning against demand curves, version upgrades without breaking in-flight work, retirement of agents whose roles have changed, utilization measurement that is honest about idle time."
+   "x": "Once you have a dozen agents, you have a workforce, and workforces need management. Capacity planning against demand curves, version upgrades without breaking in-flight work, retirement of agents whose roles have changed, utilization measurement that is honest about idle time."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each failure mode is an HR problem wearing a DevOps costume — the countermeasures borrow deliberately from workforce management practice."
+   "x": "Each failure mode is an HR problem wearing a DevOps costume, the countermeasures borrow deliberately from workforce management practice."
   },
   {
    "t": "table",
@@ -298,7 +298,7 @@
   },
   {
    "t": "p",
-   "x": "From demand forecasting through shift assignment, version rollout across cohorts and the retirement queue — including how SLAs hold during the upgrade window."
+   "x": "From demand forecasting through shift assignment, version rollout across cohorts and the retirement queue, including how SLAs hold during the upgrade window."
   },
   {
    "t": "diagram",
@@ -322,7 +322,7 @@
   },
   {
    "t": "p",
-   "x": "Utilization, blocked time, queue SLA breaches and upgrade success — measured honestly, because inflated utilization is how fleets hide their real capacity."
+   "x": "Utilization, blocked time, queue SLA breaches and upgrade success, measured honestly, because inflated utilization is how fleets hide their real capacity."
   },
   {
    "t": "idash",
@@ -628,7 +628,7 @@
   },
   {
    "t": "p",
-   "x": "Busy, idle, blocked and upgrading shares across the demand curve — the shape that decides fleet size, shift policy and where blocked time is a design problem rather than a staffing one."
+   "x": "Busy, idle, blocked and upgrading shares across the demand curve, the shape that decides fleet size, shift policy and where blocked time is a design problem rather than a staffing one."
   },
   {
    "t": "chart",
@@ -1198,27 +1198,27 @@
     [
      "Registry",
      "Agent registry with role, owner, version, grants",
-     "Spreadsheet rosters — they rot within one upgrade cycle"
+     "Spreadsheet rosters, they rot within one upgrade cycle"
     ],
     [
      "Scheduling",
      "Demand-forecast-driven capacity scheduler",
-     "Static provisioning — it bleeds cost or SLAs at every peak"
+     "Static provisioning, it bleeds cost or SLAs at every peak"
     ],
     [
      "Upgrades",
      "Blue-green pools with drain-and-upgrade SOP",
-     "In-place upgrades — in-flight work breaks every time"
+     "In-place upgrades, in-flight work breaks every time"
     ],
     [
      "Secrets",
      "Fleet-wide rotation with expiry calendars",
-     "Per-agent manual rotation — Sunday-night expiries guaranteed"
+     "Per-agent manual rotation, Sunday-night expiries guaranteed"
     ],
     [
      "Measurement",
      "Utilization decomposed by state with cost per unit",
-     "One blended utilization number — it hides queue rot"
+     "One blended utilization number, it hides queue rot"
     ]
    ]
   },
@@ -1372,7 +1372,7 @@
   },
   {
    "t": "p",
-   "x": "Credential rotation, least-privilege scopes and retirement discipline run on schedules — because a fleet's security posture is exactly as current as its oldest credential."
+   "x": "Credential rotation, least-privilege scopes and retirement discipline run on schedules, because a fleet's security posture is exactly as current as its oldest credential."
   },
   {
    "t": "bullets",
@@ -1402,17 +1402,17 @@
   {
    "t": "h2",
    "x": "Utilization you can trust is a measurement problem",
-   "sub": "Busy/blocked/idle as measured states — and why calendar-based utilization lies",
+   "sub": "Busy/blocked/idle as measured states, and why calendar-based utilization lies",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Fleet programs misreport utilization because they measure occupancy on a calendar rather than state on the run ledger. An agent waiting on a human checkpoint is blocked, not idle; an agent rate-limited by a partner API is blocked, not idle; an agent holding a work item it cannot legally route further is blocked — and each blocked class has a different owner and a different fix. We instrument the three states from the run ledger, so the capacity plan is built on blockage causes: checkpoint latency, tool availability, routing rules. The number a COO reads is therefore actionable by construction.",
+   "x": "Fleet programs misreport utilization because they measure occupancy on a calendar rather than state on the run ledger. An agent waiting on a human checkpoint is blocked, not idle; an agent rate-limited by a partner API is blocked, not idle; an agent holding a work item it cannot legally route further is blocked, and each blocked class has a different owner and a different fix. We instrument the three states from the run ledger, so the capacity plan is built on blockage causes: checkpoint latency, tool availability, routing rules. The number a COO reads is therefore actionable by construction.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The second discipline is version currency. An agent is software with a lease: model versions deprecate, tool schemas move, policies tighten. The registry tracks every agent's model pin, grant expiry and last evidence packet, and the upgrade train moves cohorts through a canary ring before estate-wide promotion. Retirement is a gate, not a shutdown script: a decommissioning agent hands its queue to named successors, its credentials are revoked in the same change window, and its evidence is archived under the retention policy — because auditors ask about the agents you turned off as often as the ones you run.",
+   "x": "The second discipline is version currency. An agent is software with a lease: model versions deprecate, tool schemas move, policies tighten. The registry tracks every agent's model pin, grant expiry and last evidence packet, and the upgrade train moves cohorts through a canary ring before estate-wide promotion. Retirement is a gate, not a shutdown script: a decommissioning agent hands its queue to named successors, its credentials are revoked in the same change window, and its evidence is archived under the retention policy, because auditors ask about the agents you turned off as often as the ones you run.",
    "phase3_deep": true
   },
   {
@@ -1442,15 +1442,15 @@
    "items": [
     [
      "How do you measure utilization honestly?",
-     "Busy, blocked and idle are measured states with causes attached to blocked. Calendar-based utilization that counts scheduled time as work is the first metric we retire — the console shows state-honest figures with blockage causes."
+     "Busy, blocked and idle are measured states with causes attached to blocked. Calendar-based utilization that counts scheduled time as work is the first metric we retire, the console shows state-honest figures with blockage causes."
     ],
     [
      "What happens when an agent’s credentials expire mid-run?",
-     "Rotation runs on SLA ahead of expiry, and break-glass paths are logged, bounded and reviewed. A mid-run expiry parks the work item at a step boundary with the cause attached — never a blind retry loop."
+     "Rotation runs on SLA ahead of expiry, and break-glass paths are logged, bounded and reviewed. A mid-run expiry parks the work item at a step boundary with the cause attached, never a blind retry loop."
     ],
     [
      "Can we run mixed vendors in one fleet?",
-     "Yes — the registry is vendor-neutral. Version trains and capacity plans span vendors, so a license change or product decision on one vendor does not strand the estate."
+     "Yes, the registry is vendor-neutral. Version trains and capacity plans span vendors, so a license change or product decision on one vendor does not strand the estate."
     ],
     [
      "How do you retire an agent safely?",
@@ -1549,13 +1549,13 @@
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Same domain",
-   "desc": "extraction and adjudication inside the process — documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
+   "desc": "extraction and adjudication inside the process, documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
   },
   {
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Same domain",
-   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline — conformance-checked, variant-ranked and ROI-priced before anything is built."
+   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline, conformance-checked, variant-ranked and ROI-priced before anything is built."
   },
   {
    "title": "Agentic Process Automation",
@@ -1573,19 +1573,19 @@
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Pairs with",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Pairs with",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "A global integrated energy major",
    "url": "/case-studies/en-02/",
    "tag": "Evidence",
-   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale."
+   "desc": "Turnaround duration down 14%, scheduling optimization at refinery scale."
   }
  ],
  "evidence": [

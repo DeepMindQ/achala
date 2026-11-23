@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation as we run it in Banking & Financial Services inverts the predictable failures — the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "Agentic AI & Hyperautomation as we run it in Banking & Financial Services inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "p",
@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "Programs in Banking & Financial Services converge on the same first move: kyc refresh agent — assembles registry extracts, screening results and account history per file; analysts judge instead of gathering. Refresh cycle time down 60-80% is the measured outcome the gate checks."
+   "x": "Programs in Banking & Financial Services converge on the same first move: kyc refresh agent, assembles registry extracts, screening results and account history per file; analysts judge instead of gathering. Refresh cycle time down 60-80% is the measured outcome the gate checks."
   },
   {
    "t": "bullets",
@@ -67,7 +67,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. KYC and periodic-review backlog is measured with your finance and risk leads in the room, then one working path — kyc refresh agent — goes live inside the quarter. In Banking & Financial Services programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. KYC and periodic-review backlog is measured with your finance and risk leads in the room, then one working path, kyc refresh agent, goes live inside the quarter. In Banking & Financial Services programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -90,19 +90,19 @@
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -116,7 +116,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Agentic AI & Hyperautomation in Banking & Financial Services in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Agentic AI & Hyperautomation in Banking & Financial Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 646,
@@ -190,25 +190,25 @@
    "title": "Agentic AI & Hyperautomation for Retail & Consumer Banking",
    "url": "/industries/banking-financial-services/retail-banking/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Corporate & Investment Banking",
    "url": "/industries/banking-financial-services/corporate-investment-banking/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Payments & Cards",
    "url": "/industries/banking-financial-services/payments-cards/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

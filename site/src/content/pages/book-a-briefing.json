@@ -5,15 +5,15 @@
  "template": "contact_page",
  "breadcrumb": "Contact > Book an Executive Briefing",
  "seo_title": "Book an Executive Briefing | Achala IT Solutions",
- "meta_description": "Engage Achala IT Solutions: executive briefings, value assessments and practice-lead responses within one business day.",
+ "meta_description": "Book a 45-minute briefing with an Achala practice lead: your metric, our reference architectures and an honest feasibility read.",
  "blocks": [
   {
    "t": "hero",
-   "x": "A 45-minute working session with a practice lead: your metric, our pattern library, three reference engagements and an honest verdict on feasibility."
+   "x": "A 45-minute working session with a practice lead: your metric, our reference architectures, three comparable engagements and an honest feasibility read you can circulate."
   },
   {
    "t": "p",
-   "x": "A 45-minute working session with a practice lead: your metric, our pattern library, three reference engagements and an honest verdict on feasibility. No decks assembled for the occasion — the evidence already exists."
+   "x": "A 45-minute working session with a practice lead: your metric, our pattern library, three reference engagements and an honest verdict on feasibility. No decks assembled for the occasion, the evidence already exists."
   },
   {
    "t": "h2",
@@ -32,7 +32,7 @@
     ],
     [
      "The follow-up",
-     "A two-page readout within 48 hours — pattern, evidence and the decision we recommend; no proposal deck unless you ask for one."
+     "A two-page readout within 48 hours, pattern, evidence and the decision we recommend; no proposal deck unless you ask for one."
     ]
    ]
   },
@@ -45,7 +45,7 @@
    "items": [
     [
      "Who attends?",
-     "A practice lead for your domain plus the delivery lead who would run the program — the people answering your questions own the answers."
+     "A practice lead for your domain plus the delivery lead who would run the program, the people answering your questions own the answers."
     ],
     [
      "What should we bring?",

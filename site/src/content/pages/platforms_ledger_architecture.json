@@ -1,0 +1,143 @@
+{
+ "id": "PLT-ledger-ar",
+ "title": "Achala Ledger — Architecture & Trust",
+ "url": "/platforms/ledger/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Achala Ledger > Architecture & Trust",
+ "seo_title": "Achala Ledger — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Achala Ledger — Distributed Trust & Tokenization Platform.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "How Achala Ledger is put together: the network fabric, the consensus gates and the inspection exports regulators ask for."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Structurally Achala Ledger is planes, not layers, workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
+  },
+  {
+   "t": "p",
+   "x": "What ships, in the order it ships, Achala Ledger architecture edition:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Network engineering",
+     "permissioned DLT with bank-grade operations"
+    ],
+    [
+     "Governance charter",
+     "membership, visibility zones, legal wrapper"
+    ],
+    [
+     "Tokenization stack",
+     "compliance-aware issuance and transfer controls"
+    ],
+    [
+     "Contract factory",
+     "specification-first, verified, audited contracts"
+    ],
+    [
+     "Provenance service",
+     "custody anchoring with role-based verification"
+    ],
+    [
+     "Credential ecosystem",
+     "W3C VC/DID with trust frameworks"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "The security posture"
+  },
+  {
+   "t": "p",
+   "x": "instrumented from week one, on your channels, Achala Ledger edition:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "HSM custody",
+     "keys never in software alone"
+    ],
+    [
+     "Formal verification",
+     "core invariants specified and checked"
+    ],
+    [
+     "Regulator pack",
+     "privacy model, audit exports, jurisdiction analysis"
+    ],
+    [
+     "eIDAS 2.0 alignment",
+     "EUDI-wallet-compatible credentials"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Under the hood"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: Hyperledger Fabric/Besu, HSM fleets, W3C VC/DID, static/formal verification tools. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Achala Ledger follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one shared-record problem to a briefing. We will show the network, the consensus rules and the inspection views it would run with."
+  }
+ ],
+ "words": 362,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Ledger",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Ledger",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/ledger/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Ledger — Distributed Trust & Tokenization Platform",
+   "url": "/platforms/ledger/",
+   "desc": "Distributed Trust & Tokenization Platform"
+  },
+  {
+   "title": "Achala Ledger — Architecture & Trust",
+   "url": "/platforms/ledger/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Ledger — Industry Use Cases",
+   "url": "/platforms/ledger/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

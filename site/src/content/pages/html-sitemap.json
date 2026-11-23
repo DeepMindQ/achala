@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Every public page on this site, generated from the same inventory that drives navigation and the XML sitemap — if it is missing here, it is missing everywhere."
+   "x": "Every public page on this site, generated from the same inventory that drives navigation and the XML sitemap, if it is missing here, it is missing everywhere."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Search engines should rely on the XML sitemap referenced in robots.txt; this page exists for people — procurement teams mapping our coverage, practitioners looking for a capability lane, and anyone who finds menus faster than search. Each entry links to the canonical URL of the page."
+   "x": "Search engines should rely on the XML sitemap referenced in robots.txt; this page exists for people, procurement teams mapping our coverage, practitioners looking for a capability lane, and anyone who finds menus faster than search. Each entry links to the canonical URL of the page."
   },
   {
    "t": "h2",

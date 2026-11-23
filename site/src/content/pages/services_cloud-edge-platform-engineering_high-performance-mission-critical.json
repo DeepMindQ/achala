@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Low-latency, high-availability tiers with proofs: latency budgets engineered down the stack, failover rehearsed with clocks running, capacity planned from load models — availability measured on rolling windows that include the bad days."
+   "x": "Low-latency, high-availability tiers with proofs: latency budgets engineered down the stack, failover rehearsed with clocks running, capacity planned from load models, availability measured on rolling windows that include the bad days."
   },
   {
    "t": "h2",
@@ -18,11 +18,11 @@
   },
   {
    "t": "p",
-   "x": "Mission-critical is a contract: payments clear, trading windows hold, clinical systems respond — with availability and latency targets that carry regulatory or revenue consequences. The engineering is unromantic: latency budgets allocated per hop and measured in production, redundancy that fails over in drills, and capacity modeled against the worst credible day."
+   "x": "Mission-critical is a contract: payments clear, trading windows hold, clinical systems respond, with availability and latency targets that carry regulatory or revenue consequences. The engineering is unromantic: latency budgets allocated per hop and measured in production, redundancy that fails over in drills, and capacity modeled against the worst credible day."
   },
   {
    "t": "p",
-   "x": "High-performance work — inference at scale, event processing at peaks, low-latency paths — rides the same discipline: profile first, budget every layer, and prove the tail with load that exceeds anything the business calendar will throw at it."
+   "x": "High-performance work, inference at scale, event processing at peaks, low-latency paths, rides the same discipline: profile first, budget every layer, and prove the tail with load that exceeds anything the business calendar will throw at it."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these survives a whiteboard and dies in a drill — the countermeasures put clocks on failover, budgets on latency and models on capacity."
+   "x": "Every one of these survives a whiteboard and dies in a drill, the countermeasures put clocks on failover, budgets on latency and models on capacity."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Latency budgets are allocated down the stack — network, runtime, data, serializations — and failover is rehearsed with the clock running: the 41-second drill time is a gate result, not a hope, and capacity comes from load models signed per quarter."
+   "x": "Latency budgets are allocated down the stack, network, runtime, data, serializations, and failover is rehearsed with the clock running: the 41-second drill time is a gate result, not a hope, and capacity comes from load models signed per quarter."
   },
   {
    "t": "arch",
@@ -305,7 +305,7 @@
   },
   {
    "t": "p",
-   "x": "From failure detection through leader election, state reconciliation, traffic shift and the client recovery — including the p99 tail behavior that decides whether users felt anything."
+   "x": "From failure detection through leader election, state reconciliation, traffic shift and the client recovery, including the p99 tail behavior that decides whether users felt anything."
   },
   {
    "t": "diagram",
@@ -329,7 +329,7 @@
   },
   {
    "t": "p",
-   "x": "Rolling availability, p99 end-to-end and failover drill time — the three numbers that decide whether the tier is engineered or merely labeled."
+   "x": "Rolling availability, p99 end-to-end and failover drill time, the three numbers that decide whether the tier is engineered or merely labeled."
   },
   {
    "t": "idash",
@@ -624,7 +624,7 @@
   },
   {
    "t": "p",
-   "x": "Budget per layer at design load — network, runtime, data, serialization — with the measured p99 beside each allocation, so the optimization order is an engineering fact instead of a hunch."
+   "x": "Budget per layer at design load, network, runtime, data, serialization, with the measured p99 beside each allocation, so the optimization order is an engineering fact instead of a hunch."
   },
   {
    "t": "chart",
@@ -1124,12 +1124,12 @@
     [
      "Budgets",
      "Signed per-hop tables with monitors",
-     "End-to-end latency only — no one owns the tail"
+     "End-to-end latency only, no one owns the tail"
     ],
     [
      "Redundancy",
      "Drilled regional failover",
-     "Multi-AZ only — region loss is the real test"
+     "Multi-AZ only, region loss is the real test"
     ],
     [
      "Capacity",
@@ -1139,12 +1139,12 @@
     [
      "Load",
      "Tail-focused tests beyond peak",
-     "Average-load tests — tails hide"
+     "Average-load tests, tails hide"
     ],
     [
      "Proofs",
      "Quarterly re-certification",
-     "One-time certification — drift erases it"
+     "One-time certification, drift erases it"
     ]
    ]
   },
@@ -1298,7 +1298,7 @@
   },
   {
    "t": "p",
-   "x": "The tail is governed as strictly as the average: p99 regressions gate releases, load models are re-signed quarterly, and capacity headroom is a reviewed number — because the users who leave live in the tail."
+   "x": "The tail is governed as strictly as the average: p99 regressions gate releases, load models are re-signed quarterly, and capacity headroom is a reviewed number, because the users who leave live in the tail."
   },
   {
    "t": "bullets",
@@ -1329,17 +1329,17 @@
   {
    "t": "h2",
    "x": "Latency budgets are contracts, not aspirations",
-   "sub": "Hop tables, tail discipline and timed failovers — the engineering of mission-critical tiers",
+   "sub": "Hop tables, tail discipline and timed failovers, the engineering of mission-critical tiers",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Mission-critical tiers earn the name through arithmetic: the latency budget is allocated down the stack as a hop table — every network hop, service call and queue wait gets milliseconds, and the sum must meet the signed SLA with headroom. Tail discipline is the craft: p99.9 is designed for explicitly (hedged requests, admission control, sharded hot paths), because averages lie about the requests that actually page someone. Redundancy is tested, not assumed — failure domains are drilled with timed failovers, and the drill evidence is the release gate that carries traffic onto the tier.",
+   "x": "Mission-critical tiers earn the name through arithmetic: the latency budget is allocated down the stack as a hop table, every network hop, service call and queue wait gets milliseconds, and the sum must meet the signed SLA with headroom. Tail discipline is the craft: p99.9 is designed for explicitly (hedged requests, admission control, sharded hot paths), because averages lie about the requests that actually page someone. Redundancy is tested, not assumed, failure domains are drilled with timed failovers, and the drill evidence is the release gate that carries traffic onto the tier.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Capacity is a model, not a feeling: the load program rehearses peak shapes quarterly against production-shaped data, with headroom targets signed per tier. The console reads availability with its tail — the p99.9 line lives next to the uptime number — and the budget review asks the only question that matters: which hop is eating the tail this month, and what is the fix with an owner and a date.",
+   "x": "Capacity is a model, not a feeling: the load program rehearses peak shapes quarterly against production-shaped data, with headroom targets signed per tier. The console reads availability with its tail, the p99.9 line lives next to the uptime number, and the budget review asks the only question that matters: which hop is eating the tail this month, and what is the fix with an owner and a date.",
    "phase3_deep": true
   },
   {
@@ -1373,25 +1373,25 @@
     ],
     [
      "How do you set latency budgets across teams?",
-     "Budgets are contracts: 200ms allocates down the stack — 25ms edge, 15 auth, 60 core logic, 40 read, 40 write, 20 response — each hop owning its number, and a breach consumes budget the way an SLO consumes error budget."
+     "Budgets are contracts: 200ms allocates down the stack, 25ms edge, 15 auth, 60 core logic, 40 read, 40 write, 20 response, each hop owning its number, and a breach consumes budget the way an SLO consumes error budget."
     ],
     [
      "What does a failover drill actually prove?",
-     "Timing and evidence: the drill measures time-to-standby, data-loss window and client behavior under failover, producing the artifact the release gate reads — \"we have redundancy\" becomes a number."
+     "Timing and evidence: the drill measures time-to-standby, data-loss window and client behavior under failover, producing the artifact the release gate reads, \"we have redundancy\" becomes a number."
     ],
     [
      "Can you work with our existing infrastructure?",
-     "Yes — the integration surface names the network, data and client estates; budgets overlay the existing topology, and the defaults table names where a component earns a deviation from the tier standard."
+     "Yes, the integration surface names the network, data and client estates; budgets overlay the existing topology, and the defaults table names where a component earns a deviation from the tier standard."
     ],
     [
      "Who owns the tier after handover?",
-     "The mission-critical platform team inherits the budgets, the drill calendar, the console and the gate evidence — the operating rhythm continues without us, on the same numbers."
+     "The mission-critical platform team inherits the budgets, the drill calendar, the console and the gate evidence, the operating rhythm continues without us, on the same numbers."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask when your failover was last rehearsed with production-like volume. If the answer is 'never', bring the tier to a briefing — the first drill is complimentary, the outage is not."
+   "x": "Ask when your failover was last rehearsed with production-like volume. If the answer is 'never', bring the tier to a briefing, the first drill is complimentary, the outage is not."
   }
  ],
  "words": 965,
@@ -1476,43 +1476,43 @@
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Same domain",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Same domain",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Same domain",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Pairs with",
-   "desc": "per-request policy decisions on identity, device and context — network location stops being a privilege, and coverage is measured on the paths that matter."
+   "desc": "per-request policy decisions on identity, device and context, network location stops being a privilege, and coverage is measured on the paths that matter."
   },
   {
    "title": "Computer Vision & Edge AI",
    "url": "/services/iot-digital-twin-robotics/computer-vision-edge-ai/",
    "tag": "Pairs with",
-   "desc": "inference at the edge with model ops — constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
+   "desc": "inference at the edge with model ops, constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Pairs with",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "A multi-campus university group",
    "url": "/case-studies/edu-03/",
    "tag": "Evidence",
-   "desc": "Research throughput up 2.8x — governed HPC/cloud platform."
+   "desc": "Research throughput up 2.8x, governed HPC/cloud platform."
   }
  ],
  "evidence": [

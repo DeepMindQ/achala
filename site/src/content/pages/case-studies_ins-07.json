@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Underwriting copilot with cited evidence — medical-evidence reading time down 65% and risk density up 23% at flat mortality assumptions"
+   "x": "Underwriting copilot with cited evidence, medical-evidence reading time down 65% and risk density up 23% at flat mortality assumptions"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a life insurer whose underwriters spent most of a case's life reading — attending-physician statements, lab reports, MIB hits — and the remainder deciding. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a life insurer whose underwriters spent most of a case's life reading, attending-physician statements, lab reports, MIB hits, and the remainder deciding. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the copilot on the retrieval layer with evaluation gates: every document parsed into structured evidence with each finding cited to its page, debits proposed against the codified manual, and an evaluation harness scoring extraction quality against senior-underwriter reads before the copilot saw live cases. The underwriter decides with the citations attached; the file carries both."
+   "x": "We built the copilot on retrieval with evaluation gates: every document parsed into structured evidence with each finding cited to its page, debits proposed against the codified manual, and an evaluation harness scoring extraction quality against senior-underwriter reads before the copilot saw live cases. The underwriter decides with the citations attached; the file carries both."
   },
   {
    "t": "arch",

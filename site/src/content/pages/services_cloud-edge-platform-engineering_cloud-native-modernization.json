@@ -9,16 +9,16 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Workloads rebuilt for cloud-native operations — containerized, observable, resilient by default — moved on a strangler plan that escapes the lift-and-shift trap, retires the VM estate in waves, and shows the cost per workload falling with each one."
+   "x": "Workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, moved on a strangler plan that escapes the lift-and-shift trap, retires the VM estate in waves, and shows the cost per workload falling with each one."
   },
   {
    "t": "h2",
    "x": "Modernization is a behavior change — the container is the costume",
-   "sub": "Waves, strangler steps and retirement gates — measured by what turns off"
+   "sub": "Waves, strangler steps and retirement gates, measured by what turns off"
   },
   {
    "t": "p",
-   "x": "Modernization is not 'lift and shift' (which moves your problems and adds a bill) or 'rewrite everything' (which never ships). It is wave-based refactoring: containerize, externalize state, adopt managed services where they remove undifferentiated work, and retire VMs on evidence — one workload class at a time."
+   "x": "Modernization is not 'lift and shift' (which moves your problems and adds a bill) or 'rewrite everything' (which never ships). It is wave-based refactoring: containerize, externalize state, adopt managed services where they remove undifferentiated work, and retire VMs on evidence, one workload class at a time."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these produces 'we are containerized' estates that still behave like VMs — the countermeasures make resilience and observability gates, not aspirations."
+   "x": "Each of these produces 'we are containerized' estates that still behave like VMs, the countermeasures make resilience and observability gates, not aspirations."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Workloads move in waves with explicit exit criteria: containerized, observable, resilient under chaos drills, costed per workload — and the VM estate shrinks on a published schedule instead of never."
+   "x": "Workloads move in waves with explicit exit criteria: containerized, observable, resilient under chaos drills, costed per workload, and the VM estate shrinks on a published schedule instead of never."
   },
   {
    "t": "arch",
@@ -302,7 +302,7 @@
   },
   {
    "t": "p",
-   "x": "From assessment through containerization, observability wiring, chaos validation and the cutover — including the rollback path and the state migration that monoliths always hide."
+   "x": "From assessment through containerization, observability wiring, chaos validation and the cutover, including the rollback path and the state migration that monoliths always hide."
   },
   {
    "t": "diagram",
@@ -326,7 +326,7 @@
   },
   {
    "t": "p",
-   "x": "Workloads modernized, VM estate remaining and cost per workload — the three numbers that show whether the program is changing behavior or just renaming servers."
+   "x": "Workloads modernized, VM estate remaining and cost per workload, the three numbers that show whether the program is changing behavior or just renaming servers."
   },
   {
    "t": "idash",
@@ -654,7 +654,7 @@
   },
   {
    "t": "p",
-   "x": "Unit cost trend per wave — the honest curve that shows where managed-service choices paid off and where the lift-and-shift trap quietly priced itself in."
+   "x": "Unit cost trend per wave, the honest curve that shows where managed-service choices paid off and where the lift-and-shift trap quietly priced itself in."
   },
   {
    "t": "chart",
@@ -1165,22 +1165,22 @@
     [
      "Runtime",
      "Containers on the platform's golden path",
-     "Custom runtimes per team — the platform cannot help them"
+     "Custom runtimes per team, the platform cannot help them"
     ],
     [
      "State",
      "Managed stores with portability scoring",
-     "Stateful containers without externalization — restarts lose data"
+     "Stateful containers without externalization, restarts lose data"
     ],
     [
      "Managed services",
      "Portability-matrix-scored adoption",
-     "Managed-for-everything — exit costs compound"
+     "Managed-for-everything, exit costs compound"
     ],
     [
      "Cutover",
      "Dual-run with diff evidence",
-     "Flag-day cutovers — one bad weekend defines the program"
+     "Flag-day cutovers, one bad weekend defines the program"
     ],
     [
      "Retirement",
@@ -1364,22 +1364,22 @@
   },
   {
    "t": "note",
-   "x": "Managed-service overreach is reviewed per wave: every managed dependency carries an exit plan and its price — the lock-in ledger ships with the wave's evidence pack."
+   "x": "Managed-service overreach is reviewed per wave: every managed dependency carries an exit plan and its price, the lock-in ledger ships with the wave's evidence pack."
   },
   {
    "t": "h2",
    "x": "Retirement is the deliverable",
-   "sub": "Strangler waves with exit gates — why modernization is measured by what it turns off",
+   "sub": "Strangler waves with exit gates, why modernization is measured by what it turns off",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Modernization programs stall halfway because they measure migration counts instead of retirements: a thousand workloads 'moved' and a legacy estate that never shrinks is a cost increase wearing a progress bar. The discipline runs strangler waves — each wave takes a bounded slice, externalizes its state first (sessions, data, queues), routes traffic through the strangler façade with dual-run parity checks, and ends at a retirement gate: the legacy component is switched off when its consumer count reaches zero and the parity evidence holds for the agreed window. The retirement ledger is the headline metric, reviewed monthly, with the legacy estate's shrinkage in workloads and run-rate cost.",
+   "x": "Modernization programs stall halfway because they measure migration counts instead of retirements: a thousand workloads 'moved' and a legacy estate that never shrinks is a cost increase wearing a progress bar. The discipline runs strangler waves, each wave takes a bounded slice, externalizes its state first (sessions, data, queues), routes traffic through the strangler façade with dual-run parity checks, and ends at a retirement gate: the legacy component is switched off when its consumer count reaches zero and the parity evidence holds for the agreed window. The retirement ledger is the headline metric, reviewed monthly, with the legacy estate's shrinkage in workloads and run-rate cost.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Behavior change is the hard wave. Teams must adopt the container platform's golden path, and the path has to be genuinely faster than the old way — one command to scaffold, compliance built in, deployment to production on the path in under a day. Posture proof closes the loop: drift from the golden path reverts automatically with a log entry, so the estate converges instead of diverging.",
+   "x": "Behavior change is the hard wave. Teams must adopt the container platform's golden path, and the path has to be genuinely faster than the old way, one command to scaffold, compliance built in, deployment to production on the path in under a day. Posture proof closes the loop: drift from the golden path reverts automatically with a log entry, so the estate converges instead of diverging.",
    "phase3_deep": true
   },
   {
@@ -1387,7 +1387,7 @@
    "items": [
     [
      "State externalization first",
-     "Sessions, data and queues move before compute — the cutover risk lives in state."
+     "Sessions, data and queues move before compute, the cutover risk lives in state."
     ],
     [
      "Dual-run parity gates",
@@ -1395,7 +1395,7 @@
     ],
     [
      "Retirement gate per wave",
-     "Consumer count zero plus parity window — then the legacy component dies."
+     "Consumer count zero plus parity window, then the legacy component dies."
     ],
     [
      "Golden path by proof",
@@ -1409,7 +1409,7 @@
    "items": [
     [
      "Why do most modernization programs stall halfway?",
-     "They measure migration counts instead of retirements. The ratchet model tracks VM estate remaining, cost per workload and parity gates per wave — a wave exits only when the legacy slice it replaces is actually retired, not merely wrapped."
+     "They measure migration counts instead of retirements. The ratchet model tracks VM estate remaining, cost per workload and parity gates per wave, a wave exits only when the legacy slice it replaces is actually retired, not merely wrapped."
     ],
     [
      "Can we modernize without a big-bang cutover?",
@@ -1421,7 +1421,7 @@
     ],
     [
      "What about stateful workloads that resist containers?",
-     "They move on a different rung: state gets a parity gate — backup/restore drills, consistency checks — before the compute above it modernizes. The defaults table names the conditions per state class."
+     "They move on a different rung: state gets a parity gate, backup/restore drills, consistency checks, before the compute above it modernizes. The defaults table names the conditions per state class."
     ],
     [
      "What does the team actually get at the end of a wave?",
@@ -1431,7 +1431,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the monolith everyone protects and nobody loves. The diagnostic will price its wave with chaos gates included — and tell you what its retirement date actually requires."
+   "x": "Bring the monolith everyone protects and nobody loves. The diagnostic will price its wave with chaos gates included, and tell you what its retirement date actually requires."
   }
  ],
  "words": 956,
@@ -1516,43 +1516,43 @@
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Same domain",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Same domain",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Same domain",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Pairs with",
-   "desc": "detection engineering with measured coverage — threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
+   "desc": "detection engineering with measured coverage, threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
   },
   {
    "title": "Smart Infrastructure, Buildings & Cities",
    "url": "/services/iot-digital-twin-robotics/smart-infrastructure/",
    "tag": "Pairs with",
-   "desc": "city and utility scale on the same disciplines — segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
+   "desc": "city and utility scale on the same disciplines, segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Pairs with",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Quantum & Advanced Compute reality in Banking & Financial Services: Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move — loss rate, straight-through rate, cycle time."
+   "x": "One more Quantum & Advanced Compute reality in Banking & Financial Services: Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move, loss rate, straight-through rate, cycle time."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Banking & Financial Services: portfolio optimization tournament — classical MIP vs. quantum-inspired solvers on identical rebalancing benchmarks. Solve time down and quality up where hybrid wins is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Banking & Financial Services: portfolio optimization tournament, classical MIP vs. quantum-inspired solvers on identical rebalancing benchmarks. Solve time down and quality up where hybrid wins is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for harvest-now-decrypt-later exposure is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — portfolio optimization tournament, bounded to one path, running on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Delivery opens with measurement: the baseline for harvest-now-decrypt-later exposure is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, portfolio optimization tournament, bounded to one path, running on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -217,26 +217,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Quantum & Advanced Compute for Banking & Financial Services — each page documents the build as delivered:"
+   "x": "Named services for Quantum & Advanced Compute for Banking & Financial Services, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -324,13 +324,13 @@
    "title": "Quantum & Advanced Compute for Corporate & Investment Banking",
    "url": "/industries/banking-financial-services/corporate-investment-banking/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Quantum & Advanced Compute for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

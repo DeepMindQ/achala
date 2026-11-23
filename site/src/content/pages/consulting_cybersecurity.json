@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cybersecurity Consulting & Zero-Trust: Security architecture that survives audit and attack — in that order, on the same day. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Cybersecurity Consulting & Zero-Trust: Security architecture that survives audit and attack, in that order, on the same day. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Security consulting that ends in a binder is a liability with better fonts. We deliver controls in production: identity-first architecture with phishing-resistant MFA and workload identity, network segmentation priced against blast radius, and detection tuned to the attacks your sector actually faces. Every control ships with its evidence path — who tested it, when, against what scenario — so the audit reads the system, not the paperwork."
+   "x": "Security consulting that ends in a binder is a liability with better fonts. We deliver controls in production: identity-first architecture with phishing-resistant MFA and workload identity, network segmentation priced against blast radius, and detection tuned to the attacks your sector actually faces. Every control ships with its evidence path, who tested it, when, against what scenario, so the audit reads the system, not the paperwork."
   },
   {
    "t": "p",
@@ -181,11 +181,11 @@
   },
   {
    "t": "p",
-   "x": "Cybersecurity Consulting & Zero-Trust — the concrete version, minus the adjectives:"
+   "x": "Cybersecurity Consulting & Zero-Trust, the concrete version, minus the adjectives:"
   },
   {
    "t": "cta",
-   "x": "Book a Cybersecurity Consulting & Zero-Trust briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Cybersecurity Consulting & Zero-Trust briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 315,

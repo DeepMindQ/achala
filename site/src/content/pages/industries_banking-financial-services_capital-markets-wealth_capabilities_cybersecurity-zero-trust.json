@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for client performance data stitched is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for client performance data stitched is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Capital Markets & Wealth Management edition:"
+   "x": "Where the friction concentrates, Capital Markets & Wealth Management edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Capital Markets & Wealth Management, the pattern is client-tier security — risk-tiered controls for HNW data with monitoring. Exfiltration paths closed sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Capital Markets & Wealth Management, the pattern is client-tier security, risk-tiered controls for HNW data with monitoring. Exfiltration paths closed sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The client performance data stitched cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Client-tier security), and the gate review decides what scales — all inside one quarter in Capital Markets & Wealth Management. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Capital Markets & Wealth Management, that discipline is not optional — it is the engagement model."
+   "x": "The client performance data stitched cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Client-tier security), and the gate review decides what scales, all inside one quarter in Capital Markets & Wealth Management. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Capital Markets & Wealth Management, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Capital Markets & Wealth Management: MiFID II / fiduciary regimes — suitability and best-execution evidence; Client-asset protection rules — custody reconciliation duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Capital Markets & Wealth Management: MiFID II / fiduciary regimes, suitability and best-execution evidence; Client-asset protection rules, custody reconciliation duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust for Capital Markets & Wealth Management in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust for Capital Markets & Wealth Management in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 530,

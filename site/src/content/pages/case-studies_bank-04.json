@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Sanctions screening rebuilt on a decision hub — screening latency down 84% and false positives down 47% without widening risk appetite"
+   "x": "Sanctions screening rebuilt on a decision hub, screening latency down 84% and false positives down 47% without widening risk appetite"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a cross-border payments group clearing correspondent traffic for mid-sized banks across Europe, outcome-linked engagement, blended delivery team. Screening ran as a nightly batch bolted onto a ledger that had long since moved to real time. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a cross-border payments group clearing correspondent traffic for mid-sized banks across Europe, outcome-linked engagement, blended delivery team. Screening ran as a nightly batch bolted onto a ledger that had long since moved to real time. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Every alert was treated as equal — a salary payment and a shell-company pattern hit the same queue. Screeners worked oldest-first, so the riskiest items waited behind the easiest ones, and the audit trail could not say why an item had been released."
+   "x": "Every alert was treated as equal, a salary payment and a shell-company pattern hit the same queue. Screeners worked oldest-first, so the riskiest items waited behind the easiest ones, and the audit trail could not say why an item had been released."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt screening as an event-driven decision hub: messages scored at ingest, a policy layer separating risk appetite from detection logic, and a workbench where alert dossiers assemble themselves — names, network links, prior dispositions — before a human opens them. Agents prepare; people decide; every release is replayable line by line."
+   "x": "We rebuilt screening as an event-driven decision hub: messages scored at ingest, a policy layer separating risk appetite from detection logic, and a workbench where alert dossiers assemble themselves, names, network links, prior dispositions, before a human opens them. Agents prepare; people decide; every release is replayable line by line."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The generalizable pieces here are the queue-ranking policy and the dossier assembly pattern — both moved to two other corridors with estate-specific rework. What did not transfer was the scorer; it had been trained on this group's own disposition history, and pretending otherwise would have been the expensive mistake."
+   "x": "The generalizable pieces here are the queue-ranking policy and the dossier assembly pattern, both moved to two other corridors with estate-specific rework. What did not transfer was the scorer; it had been trained on this group's own disposition history, and pretending otherwise would have been the expensive mistake."
   },
   {
    "t": "table",

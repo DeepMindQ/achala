@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Grocery runs on the thinnest margins and the shortest freshness clocks: ordering precision, waste reduction and store labor efficiency decide survival. Fresh-chain intelligence — demand by day-part, markdown automation, cold-chain truth — is the difference. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Grocery runs on the thinnest margins and the shortest freshness clocks: ordering precision, waste reduction and store labor efficiency decide survival. Fresh-chain intelligence, demand by day-part, markdown automation, cold-chain truth, is the difference. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Grocery & Convenience edition:"
+   "x": "The places value leaks, Grocery & Convenience edition:"
   },
   {
    "t": "bullets",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Grocery & Convenience, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Grocery & Convenience, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 366,
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Grocery & Convenience",
    "url": "/industries/retail-consumer-goods/grocery-convenience/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Grocery & Convenience",
    "url": "/industries/retail-consumer-goods/grocery-convenience/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Grocery & Convenience",
    "url": "/industries/retail-consumer-goods/grocery-convenience/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Grocery & Convenience",
@@ -351,7 +351,7 @@
    "title": "IoT, Twin & Robotics for Grocery & Convenience",
    "url": "/industries/retail-consumer-goods/grocery-convenience/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

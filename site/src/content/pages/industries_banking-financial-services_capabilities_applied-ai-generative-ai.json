@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Banking & Financial Services; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. That is the engineering behind Banking & Financial Services."
+   "x": "Regulation sets the floor in Banking & Financial Services; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. That is the engineering behind Banking & Financial Services."
   },
   {
    "t": "p",
@@ -67,7 +67,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for service deflection without resolution is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — credit memo drafting copilot, bounded to one path, running on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Delivery opens with measurement: the baseline for service deflection without resolution is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, credit memo drafting copilot, bounded to one path, running on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -101,30 +101,30 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Named services for Applied AI & GenAI for Banking & Financial Services — each page documents the build as delivered:"
+   "x": "Named services for Applied AI & GenAI for Banking & Financial Services, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -138,7 +138,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Applied AI & GenAI in Banking & Financial Services in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Applied AI & GenAI in Banking & Financial Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 623,
@@ -212,25 +212,25 @@
    "title": "Applied AI & GenAI for Retail & Consumer Banking",
    "url": "/industries/banking-financial-services/retail-banking/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Corporate & Investment Banking",
    "url": "/industries/banking-financial-services/corporate-investment-banking/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Payments & Cards",
    "url": "/industries/banking-financial-services/payments-cards/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

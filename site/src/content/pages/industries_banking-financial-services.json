@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Banking runs on decisions made under regulatory scrutiny at transaction speed. Credit limits, fraud interdiction, liquidity buffers, KYC refreshes — each is a decision that must be explainable months later, yet taken in milliseconds. The institutions pulling ahead have rebuilt the machinery beneath those decisions: governed data estates, decision hubs with replay, and AI programs whose controls were designed for the audit, not bolted on after it."
+   "x": "Banking runs on decisions made under regulatory scrutiny at transaction speed. Credit limits, fraud interdiction, liquidity buffers, KYC refreshes, each is a decision that must be explainable months later, yet taken in milliseconds. The institutions pulling ahead have rebuilt the machinery beneath those decisions: governed data estates, decision hubs with replay, and AI programs whose controls were designed for the audit, not bolted on after it."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The pressure is structural, not cyclical. Operational resilience regimes such as DORA make third-party ICT risk and incident reporting board-level obligations. Basel-style capital discipline prices risk model quality directly. Real-time payment rails compress the fraud window from hours to seconds. And digital challengers reset customer expectations every quarter — your app is compared against the best experience your customer has seen anywhere, not against your peer banks."
+   "x": "The pressure is structural, not cyclical. Operational resilience regimes such as DORA make third-party ICT risk and incident reporting board-level obligations. Basel-style capital discipline prices risk model quality directly. Real-time payment rails compress the fraud window from hours to seconds. And digital challengers reset customer expectations every quarter, your app is compared against the best experience your customer has seen anywhere, not against your peer banks."
   },
   {
    "t": "h2",
@@ -52,7 +52,7 @@
     ],
     [
      "Core estate inertia",
-     "Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics — nobody can state cost per payment processed or per account opened."
+     "Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics, nobody can state cost per payment processed or per account opened."
     ]
    ]
   },
@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move — loss rate, straight-through rate, cycle time."
+   "x": "Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move, loss rate, straight-through rate, cycle time."
   },
   {
    "t": "h2",
@@ -70,14 +70,14 @@
   },
   {
    "t": "p",
-   "x": "Banking & Financial Services programs pay first in this order — and here is why:"
+   "x": "Banking & Financial Services programs pay first in this order, and here is why:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Decision infrastructure before more models",
-     "one governed decision hub with replay serving fraud, credit and service routing — models become swappable challengers"
+     "one governed decision hub with replay serving fraud, credit and service routing, models become swappable challengers"
     ],
     [
      "Evidence-first resilience posture",
@@ -129,7 +129,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs programs in Banking & Financial Services in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs programs in Banking & Financial Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 658,

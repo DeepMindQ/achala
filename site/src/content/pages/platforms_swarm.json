@@ -1,0 +1,230 @@
+{
+ "id": "PLT-swarm-ov",
+ "title": "Achala Swarm — Agentic AI Orchestration Platform",
+ "url": "/platforms/swarm/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Swarm > Overview",
+ "seo_title": "Achala Swarm — Agentic AI Orchestration Platform | Achala IT Solutions",
+ "meta_description": "Achala Swarm, our Agentic AI Orchestration Platform, coordinates large agent fleets with queues, budgets, human checkpoints and full audit.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Hundreds of AI agents, working as one measurable team. Achala Swarm orchestrates agent fleets with work queues, spend budgets and human checkpoints, so automation scales without losing control."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Swarm is our Agentic AI Orchestration Platform. It takes the agents you have validated and runs them as a coordinated workforce: tasks are queued, prioritized, budgeted and monitored. Where a decision matters too much to automate, the platform routes it to a person instead of guessing."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Agent registry",
+     "Every agent versioned, with its permissions and test record"
+    ],
+    [
+     "Work queues",
+     "Task assignment with priorities, retries and deadlines"
+    ],
+    [
+     "Spend budgets",
+     "Per-team and per-workflow model spend, with alerts"
+    ],
+    [
+     "Human checkpoints",
+     "Escalation paths for the decisions that keep a person in the loop"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Swarm — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "Temporal",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Fleet control tower",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Role & queue engine",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Policy engine",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "Durable execution",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "Scoped tool access",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "Agents act on your systems, so their actions need the same governance as people's:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Least-privilege access",
+     "Agents get scoped credentials, rotated and logged"
+    ],
+    [
+     "Action audit",
+     "Every agent action recorded with its inputs and authorizations"
+    ],
+    [
+     "Spend and rate limits",
+     "Hard ceilings per workflow, enforced at runtime"
+    ],
+    [
+     "Kill switches",
+     "Any agent or fleet can be stopped in one action"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Swarm runs document-heavy operations in banking, insurance, healthcare and shared-service centers, anywhere a validated task repeats often enough to automate and matters enough to govern."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Works with your existing agent frameworks and model providers through adapters. Orchestrated work lands back in your systems of record via versioned, contract-tested connectors."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one process to a briefing. We will show the agent fleet, the queues and the human checkpoints it would run with."
+  }
+ ],
+ "words": 593,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Swarm",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Swarm",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/swarm/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Swarm — Agentic AI Orchestration Platform",
+   "url": "/platforms/swarm/",
+   "desc": "Agentic AI Orchestration Platform"
+  },
+  {
+   "title": "Achala Swarm — Architecture & Trust",
+   "url": "/platforms/swarm/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Swarm — Industry Use Cases",
+   "url": "/platforms/swarm/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

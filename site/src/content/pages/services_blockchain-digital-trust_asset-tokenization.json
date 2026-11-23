@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulated token designs: legal-wrapper-first architecture, transfer controls that enforce restrictions in code, ledger and cap-table reconciliation at zero delta — and every lifecycle event from issuance to redemption designed before the token exists."
+   "x": "Regulated token designs: legal-wrapper-first architecture, transfer controls that enforce restrictions in code, ledger and cap-table reconciliation at zero delta, and every lifecycle event from issuance to redemption designed before the token exists."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Tokenization succeeds or fails on the legal design: what is the token legally, who may hold it, how do transfers respect securities law, and what happens in a default? The engineering implements the lawyers' decisions as transfer controls — allow-lists, lockups, jurisdiction checks — enforced in code, not in prospectus fine print."
+   "x": "Tokenization succeeds or fails on the legal design: what is the token legally, who may hold it, how do transfers respect securities law, and what happens in a default? The engineering implements the lawyers' decisions as transfer controls, allow-lists, lockups, jurisdiction checks, enforced in code, not in prospectus fine print."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these turns a token launch into a legal incident — the countermeasures design the wrapper, the restrictions and the lifecycle before the first mint."
+   "x": "Each of these turns a token launch into a legal incident, the countermeasures design the wrapper, the restrictions and the lifecycle before the first mint."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The legal wrapper defines what the token is; transfer controls enforce eligibility, lockups and jurisdiction rules in code; the off-chain registry reconciles to the ledger at zero delta; and every lifecycle event — corporate actions, redemptions, wind-downs — has a designed path."
+   "x": "The legal wrapper defines what the token is; transfer controls enforce eligibility, lockups and jurisdiction rules in code; the off-chain registry reconciles to the ledger at zero delta; and every lifecycle event, corporate actions, redemptions, wind-downs, has a designed path."
   },
   {
    "t": "arch",
@@ -305,7 +305,7 @@
   },
   {
    "t": "p",
-   "x": "From the transfer request through eligibility verification, restriction checks, settlement and the cap-table reconciliation — including the block events that prove the controls work by refusing."
+   "x": "From the transfer request through eligibility verification, restriction checks, settlement and the cap-table reconciliation, including the block events that prove the controls work by refusing."
   },
   {
    "t": "diagram",
@@ -329,7 +329,7 @@
   },
   {
    "t": "p",
-   "x": "Settlement cycle, restricted-transfer blocks and the ledger-to-cap-table delta — the three numbers that decide whether the token is a security operation or a liability."
+   "x": "Settlement cycle, restricted-transfer blocks and the ledger-to-cap-table delta, the three numbers that decide whether the token is a security operation or a liability."
   },
   {
    "t": "idash",
@@ -618,7 +618,7 @@
   },
   {
    "t": "p",
-   "x": "Transfer attempts, eligibility blocks and settled transfers across quarters — the shape that shows the controls refusing what the prospectus promises they would."
+   "x": "Transfer attempts, eligibility blocks and settled transfers across quarters, the shape that shows the controls refusing what the prospectus promises they would."
   },
   {
    "t": "chart",
@@ -1094,27 +1094,27 @@
     [
      "Wrapper",
      "Legal-design-first with jurisdiction matrix",
-     "Standard-first design — counsel becomes a rubber stamp"
+     "Standard-first design, counsel becomes a rubber stamp"
     ],
     [
      "Controls",
      "Transfer hooks with adversarial tests",
-     "Front-end-only restrictions — they get bypassed"
+     "Front-end-only restrictions, they get bypassed"
     ],
     [
      "Participants",
      "Transfer agent + qualified custody in-loop",
-     "DIY issuer operations — regulated duties drift"
+     "DIY issuer operations, regulated duties drift"
     ],
     [
      "Settlement",
      "Paired legs with reconciliation gate",
-     "Atomic-swap enthusiasm — cash leg rarely cooperates"
+     "Atomic-swap enthusiasm, cash leg rarely cooperates"
     ],
     [
      "Lifecycle",
      "Drilled default/redemption playbooks",
-     "Happy-path-only planning — defaults surprise everyone"
+     "Happy-path-only planning, defaults surprise everyone"
     ]
    ]
   },
@@ -1268,7 +1268,7 @@
   },
   {
    "t": "p",
-   "x": "Corporate actions, redemptions and wind-down paths are designed and rehearsed before issuance — the lifecycle blanks that strand tokenized assets are filled in the design, not discovered in the incident."
+   "x": "Corporate actions, redemptions and wind-down paths are designed and rehearsed before issuance, the lifecycle blanks that strand tokenized assets are filled in the design, not discovered in the incident."
   },
   {
    "t": "bullets",
@@ -1293,22 +1293,22 @@
   },
   {
    "t": "note",
-   "x": "Off-chain reality is tracked as a first-class risk: court orders, probate events and registry corrections are modeled as ledger operations with legal sign-off — the reconciliation stays zero because reality has a designated path back into the ledger."
+   "x": "Off-chain reality is tracked as a first-class risk: court orders, probate events and registry corrections are modeled as ledger operations with legal sign-off, the reconciliation stays zero because reality has a designated path back into the ledger."
   },
   {
    "t": "h2",
    "x": "Delivery-versus-payment is a legal statement",
-   "sub": "Timed legs, reconciliation gates and the register of record — the mechanics that make tokenized assets real",
+   "sub": "Timed legs, reconciliation gates and the register of record, the mechanics that make tokenized assets real",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Tokenization becomes real when the off-chain register, the on-ledger token and the custody arrangement agree — every day, provably. The settlement workflow therefore runs as delivery-versus-payment with timed legs: the cash leg and the asset leg are enforced by the contract, the reconciliation gate compares ledger holdings against the transfer agent's register daily, and any break is a stop-the-world event, not a ticket. Transfer controls enforce eligibility before every movement — whitelists, duty checks and jurisdiction matrices evaluated at the contract boundary — so a restricted transfer fails by construction rather than by after-the-fact clawback.",
+   "x": "Tokenization becomes real when the off-chain register, the on-ledger token and the custody arrangement agree, every day, provably. The settlement workflow therefore runs as delivery-versus-payment with timed legs: the cash leg and the asset leg are enforced by the contract, the reconciliation gate compares ledger holdings against the transfer agent's register daily, and any break is a stop-the-world event, not a ticket. Transfer controls enforce eligibility before every movement, whitelists, duty checks and jurisdiction matrices evaluated at the contract boundary, so a restricted transfer fails by construction rather than by after-the-fact clawback.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The lifecycle is rehearsed before issuance: corporate actions, splits, redemptions and holder-noticing run as drills against a staging network with the real wrapper documents, because the failure modes that strand tokenized assets are always lifecycle events nobody scheduled. The console's headline is reconciliation, not volume — a tokenization program with daily zero-break reconciliation is sellable to auditors; one with impressive TPS is not.",
+   "x": "The lifecycle is rehearsed before issuance: corporate actions, splits, redemptions and holder-noticing run as drills against a staging network with the real wrapper documents, because the failure modes that strand tokenized assets are always lifecycle events nobody scheduled. The console's headline is reconciliation, not volume, a tokenization program with daily zero-break reconciliation is sellable to auditors; one with impressive TPS is not.",
    "phase3_deep": true
   },
   {
@@ -1346,11 +1346,11 @@
     ],
     [
      "Can this integrate with our existing transfer agent and registries?",
-     "Yes — the integration surface names registries, transfer agents and settlement rails explicitly. The token layer reconciles against the registers rather than replacing them wherever the wrapper requires a register of record."
+     "Yes, the integration surface names registries, transfer agents and settlement rails explicitly. The token layer reconciles against the registers rather than replacing them wherever the wrapper requires a register of record."
     ],
     [
      "What happens at corporate actions — dividends, redemptions, splits?",
-     "Lifecycle events are governed by the same wrapper: the overlay schedules them, executes against the cap-table state and produces the evidence pack the asset-ops team reconciles — no manual spreadsheet pass at each event."
+     "Lifecycle events are governed by the same wrapper: the overlay schedules them, executes against the cap-table state and produces the evidence pack the asset-ops team reconciles, no manual spreadsheet pass at each event."
     ],
     [
      "How quickly can we see settlement improve?",
@@ -1360,7 +1360,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the asset your firm wants to tokenize. The design sprint will architect the legal wrapper, the transfer controls and the lifecycle — before anyone mentions a token standard."
+   "x": "Bring the asset your firm wants to tokenize. The design sprint will architect the legal wrapper, the transfer controls and the lifecycle, before anyone mentions a token standard."
   }
  ],
  "words": 969,
@@ -1445,43 +1445,43 @@
    "title": "Blockchain Analytics & Regulatory Compliance",
    "url": "/services/blockchain-digital-trust/blockchain-analytics-compliance/",
    "tag": "Same domain",
-   "desc": "ledger intelligence mapped to regulatory duties — transaction risk scoring, travel-rule workflows, and audit-ready case files built automatically."
+   "desc": "ledger intelligence mapped to regulatory duties, transaction risk scoring, travel-rule workflows, and audit-ready case files built automatically."
   },
   {
    "title": "Decentralized Identity & Verifiable Credentials",
    "url": "/services/blockchain-digital-trust/decentralized-identity/",
    "tag": "Same domain",
-   "desc": "DIDs and verifiable credentials that work offline — issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
+   "desc": "DIDs and verifiable credentials that work offline, issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
   },
   {
    "title": "Enterprise DLT Network Engineering",
    "url": "/services/blockchain-digital-trust/enterprise-dlt-networks/",
    "tag": "Same domain",
-   "desc": "permissioned networks with real governance — membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
+   "desc": "permissioned networks with real governance, membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
   },
   {
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Pairs with",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "Smart Infrastructure, Buildings & Cities",
    "url": "/services/iot-digital-twin-robotics/smart-infrastructure/",
    "tag": "Pairs with",
-   "desc": "city and utility scale on the same disciplines — segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
+   "desc": "city and utility scale on the same disciplines, segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
   },
   {
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Pairs with",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "A European specialty reinsurer",
    "url": "/case-studies/ins-03/",
    "tag": "Evidence",
-   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%."
+   "desc": "Bordereaux automation and settlement evidence, reconciliation effort down 74%."
   }
  ],
  "evidence": [

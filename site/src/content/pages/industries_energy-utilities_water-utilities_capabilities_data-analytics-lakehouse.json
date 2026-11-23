@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse for Water, Waste & City Utilities starts at the non-revenue water invisible queue — pricing it honestly, then the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "Data & Lakehouse for Water, Waste & City Utilities starts at the non-revenue water invisible queue, pricing it honestly, then the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first — Water, Waste & City Utilities edition:"
+   "x": "The queues and waits that come up first, Water, Waste & City Utilities edition:"
   },
   {
    "t": "bullets",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Water, Waste & City Utilities, the pattern is network analytics — telemetry into leak/break prediction. Breaks down sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "In Water, Waste & City Utilities, the pattern is network analytics, telemetry into leak/break prediction. Breaks down sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "The non-revenue water invisible cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Network analytics), and the gate review decides what scales — all inside one quarter in Water, Waste & City Utilities. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Water, Waste & City Utilities, that discipline is not optional — it is the engagement model."
+   "x": "The non-revenue water invisible cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Network analytics), and the gate review decides what scales, all inside one quarter in Water, Waste & City Utilities. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Water, Waste & City Utilities, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Water, Waste & City Utilities: Drinking-water directives — quality duties; NIS2 — essential-entity duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Water, Waste & City Utilities: Drinking-water directives, quality duties; NIS2, essential-entity duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

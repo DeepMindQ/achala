@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "The data domain is the substrate every other domain stands on. Its discipline is contract-first engineering: schemas are versioned agreements with owners, SLAs are typed and monitored, and the layers — bronze, silver, gold — are promotion paths with quality gates rather than folders on a disk."
+   "x": "The data domain is the substrate every other domain stands on. Its discipline is contract-first engineering: schemas are versioned agreements with owners, SLAs are typed and monitored, and the layers, bronze, silver, gold, are promotion paths with quality gates rather than folders on a disk."
   },
   {
    "t": "p",
-   "x": "Seven practices cover the ground: modernization of legacy estates, the lakehouse core itself, streaming for decisions that cannot wait, governance that makes data findable and trustworthy, risk analytics, BI that executives actually use, and monetization for data that leaves the building — where the controls have to be stronger, not looser."
+   "x": "Seven practices cover the ground: modernization of legacy estates, the lakehouse core itself, streaming for decisions that cannot wait, governance that makes data findable and trustworthy, risk analytics, BI that executives actually use, and monetization for data that leaves the building, where the controls have to be stronger, not looser."
   },
   {
    "t": "h2",
@@ -72,7 +72,7 @@
   },
   {
    "t": "p",
-   "x": "The discipline that separates a data platform from a data swamp is contracts: every pipeline consumes and produces typed agreements with named owners, freshness SLAs and quarantine behavior. When something breaks, the contract tells you who is paged and what downstream is safe — before anyone opens a dashboard to guess."
+   "x": "The discipline that separates a data platform from a data swamp is contracts: every pipeline consumes and produces typed agreements with named owners, freshness SLAs and quarantine behavior. When something breaks, the contract tells you who is paged and what downstream is safe, before anyone opens a dashboard to guess."
   },
   {
    "t": "p",
@@ -313,7 +313,7 @@
   },
   {
    "t": "p",
-   "x": "Freshness SLA adherence, quarantine dwell, compaction lag and storage growth — the four tiles the platform steering reads weekly. The console below is the reference shape; your steering pack inherits it with the estate's own numbers and the storage economics attached."
+   "x": "Freshness SLA adherence, quarantine dwell, compaction lag and storage growth, the four tiles the platform steering reads weekly. The console below is the reference shape; your steering pack inherits it with the estate's own numbers and the storage economics attached."
   },
   {
    "t": "idash",
@@ -543,7 +543,7 @@
   },
   {
    "t": "p",
-   "x": "The area bands read freshness SLA adherence by tier across four quarters — the trajectory a platform follows under contract discipline, with the target band the steering team signs against. Tiers improve in order of business criticality, and the gap to band is the funded work program."
+   "x": "The area bands read freshness SLA adherence by tier across four quarters, the trajectory a platform follows under contract discipline, with the target band the steering team signs against. Tiers improve in order of business criticality, and the gap to band is the funded work program."
   },
   {
    "t": "chart",
@@ -604,7 +604,7 @@
   },
   {
    "t": "p",
-   "x": "Every sector thinks its data is uniquely messy; the contracts that fix it are sector-specific anyway. The bars count published sub-industry briefs on this site — a taller bar is a sector where the schema conflicts, regulator formats and metric conventions are already resolved in published playbooks."
+   "x": "Every sector thinks its data is uniquely messy; the contracts that fix it are sector-specific anyway. The bars count published sub-industry briefs on this site, a taller bar is a sector where the schema conflicts, regulator formats and metric conventions are already resolved in published playbooks."
   },
   {
    "t": "chart",
@@ -1158,7 +1158,7 @@
    "items": [
     [
      "Diagnostic — two weeks",
-     "Estate mapped, SLAs scored, the gate model filled in against your estate — with the dual-run cost of any migration priced before you commit."
+     "Estate mapped, SLAs scored, the gate model filled in against your estate, with the dual-run cost of any migration priced before you commit."
     ],
     [
      "Provability sprint — four weeks",
@@ -1177,7 +1177,7 @@
   {
    "t": "h2",
    "x": "Six gates from raw ingest to certified metric",
-   "sub": "Contract, quality, lineage, cost, access, recovery — the evidence each demands"
+   "sub": "Contract, quality, lineage, cost, access, recovery, the evidence each demands"
   },
   {
    "t": "table",
@@ -1228,12 +1228,12 @@
   },
   {
    "t": "p",
-   "x": "Data platforms fail culturally when governance means committees and succeed mechanically when it means contracts: every producer signs a schema contract (typed, versioned, owned), every pipeline enforces it at the boundary, and every business metric carries a contract — definition, owner, freshness SLA. The bronze-silver-gold progression is the enforcement spine: bronze is immutable, silver is conformed under quarantine gates, gold is business marts where metric contracts make disputes resolvable by lookup rather than by meeting. Freshness by tier is the console headline, because a platform that cannot say how stale each tier is cannot be trusted by anyone downstream.",
+   "x": "Data platforms fail culturally when governance means committees and succeed mechanically when it means contracts: every producer signs a schema contract (typed, versioned, owned), every pipeline enforces it at the boundary, and every business metric carries a contract, definition, owner, freshness SLA. The bronze-silver-gold progression is the enforcement spine: bronze is immutable, silver is conformed under quarantine gates, gold is business marts where metric contracts make disputes resolvable by lookup rather than by meeting. Freshness by tier is the console headline, because a platform that cannot say how stale each tier is cannot be trusted by anyone downstream.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The engagement sequence follows the contracts: baseline the estate (sources, consumers, the shadow-spreadsheet census), sign the first producer contracts, deploy the quarantine-and-promotion path, and let the glossary accumulate definitions only as metrics become certified. Release gates demand evidence — a tier without quality SLAs does not carry downstream consumers, a metric without an owner does not reach the board pack.",
+   "x": "The engagement sequence follows the contracts: baseline the estate (sources, consumers, the shadow-spreadsheet census), sign the first producer contracts, deploy the quarantine-and-promotion path, and let the glossary accumulate definitions only as metrics become certified. Release gates demand evidence, a tier without quality SLAs does not carry downstream consumers, a metric without an owner does not reach the board pack.",
    "phase3_deep": true
   },
   {
@@ -1245,7 +1245,7 @@
     ],
     [
      "Quarantine as a feature",
-     "Failed records are quarantined with reasons — never silently dropped."
+     "Failed records are quarantined with reasons, never silently dropped."
     ],
     [
      "Metric contracts on gold",
@@ -1263,7 +1263,7 @@
    "items": [
     [
      "We have a warehouse — why a lakehouse?",
-     "The warehouse stays useful; the lakehouse adds the governed raw layer and open formats under it. The migration practice prices the dual-run honestly — most estates keep the warehouse serving BI while the lakehouse takes ingest, science and new products."
+     "The warehouse stays useful; the lakehouse adds the governed raw layer and open formats under it. The migration practice prices the dual-run honestly, most estates keep the warehouse serving BI while the lakehouse takes ingest, science and new products."
     ],
     [
      "How do you stop the multiple-versions-of-truth problem?",
@@ -1271,7 +1271,7 @@
     ],
     [
      "What breaks first in a streaming program?",
-     "Usually nothing visible — the decisions are simply slower than the events. The streaming practice engineers decision latency as a typed SLA with replay semantics, so late or duplicate events cannot corrupt a decision silently."
+     "Usually nothing visible, the decisions are simply slower than the events. The streaming practice engineers decision latency as a typed SLA with replay semantics, so late or duplicate events cannot corrupt a decision silently."
     ],
     [
      "Is governance a tool we can install?",
@@ -1285,7 +1285,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the metric nobody trusts and the pipeline nobody owns. The two-week diagnostic will score your estate's contracts — and show which gates you would fail today, in front of your own auditors."
+   "x": "Bring the metric nobody trusts and the pipeline nobody owns. The two-week diagnostic will score your estate's contracts, and show which gates you would fail today, in front of your own auditors."
   }
  ],
  "words": 896,
@@ -1331,43 +1331,43 @@
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Service",
-   "desc": "Resilient, observable pipelines — trusted data from source to decision at SLA."
+   "desc": "Resilient, observable pipelines, trusted data from source to decision at SLA."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Service",
-   "desc": "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+   "desc": "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Service",
-   "desc": "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+   "desc": "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Service",
-   "desc": "Metrics into management — one governed semantic layer, decision cadence built in."
+   "desc": "Metrics into management, one governed semantic layer, decision cadence built in."
   },
   {
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Service",
-   "desc": "One customer, one product, one truth — MDM and catalog discipline that regulators can read."
+   "desc": "One customer, one product, one truth, MDM and catalog discipline that regulators can read."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Service",
-   "desc": "Forward-looking risk on governed data — credit, insurance, operational and market models that explain themselves."
+   "desc": "Forward-looking risk on governed data, credit, insurance, operational and market models that explain themselves."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Service",
-   "desc": "Turn the data estate into revenue — embedded analytics, data sharing and insight products with real P&L."
+   "desc": "Turn the data estate into revenue, embedded analytics, data sharing and insight products with real P&L."
   }
  ],
  "evidence": [

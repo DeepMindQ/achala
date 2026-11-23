@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Insights: Applied AI & GenAI: what this page covers, written the way we deliver it — plainly, with the trade-offs named."
+   "x": "Insights: Applied AI & GenAI: what this page covers, written the way we deliver it, plainly, with the trade-offs named."
   },
   {
    "t": "h2",
@@ -28,7 +28,7 @@
     ],
     [
      "GenAI unit economics: the metric nobody tracks",
-     "Cost per resolved task: not per token — is the real unit of GenAI economics."
+     "Cost per resolved task: not per token, is the real unit of GenAI economics."
     ],
     [
      "Fine-tuning is a governance decision, not a modeling one",
@@ -49,11 +49,11 @@
    "items": [
     [
      "Is this real in production?",
-     "The references here run in production today — the pages name the shape of the deployment and what it took."
+     "The references here run in production today, the pages name the shape of the deployment and what it took."
     ],
     [
      "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time — the honest answer includes that line item."
+     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
     ]
    ]
   },
@@ -63,7 +63,7 @@
   },
   {
    "t": "cta",
-   "x": "Read the viewpoints, then argue with them — the briefing exists for the arguments that survive."
+   "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
   }
  ],
  "words": 172,
@@ -100,7 +100,7 @@
    "title": "GenAI unit economics: the metric nobody tracks",
    "url": "/insights/insight-02/",
    "tag": "Applied AI & GenAI",
-   "desc": "Cost per resolved task — not per token — is the real unit of GenAI economics."
+   "desc": "Cost per resolved task, not per token, is the real unit of GenAI economics."
   },
   {
    "title": "Fine-tuning is a governance decision, not a modeling one",

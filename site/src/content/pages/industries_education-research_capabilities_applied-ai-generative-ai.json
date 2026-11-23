@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Education & Research; competition sets the pace. Applied AI & GenAI is how we hold both: the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Regulation sets the floor in Education & Research; competition sets the pace. Applied AI & GenAI is how we hold both: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
@@ -42,11 +42,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Education & Research: learning assistants with integrity rails — course-grounded tutoring within instructor-set boundaries and logging. Support access up; integrity disputes down is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Education & Research: learning assistants with integrity rails, course-grounded tutoring within instructor-set boundaries and logging. Support access up; integrity disputes down is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -193,7 +193,7 @@
   },
   {
    "t": "p",
-   "x": "The integrity vs. AI confusion cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (learning assistants with integrity rails), and the gate review decides what scales — all inside one quarter in Education & Research. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Education & Research, that discipline is not optional — it is the engagement model."
+   "x": "The integrity vs. AI confusion cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (learning assistants with integrity rails), and the gate review decides what scales, all inside one quarter in Education & Research. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Education & Research, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Education & Research: FERPA / student-privacy regimes (educational-record duties incl. vendor contracts); GDPR-K / minors' data rules ( heightened consent and profiling limits for K-12); Accessibility mandates (ADA/EN 301 549) (digital learning materials must comply). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Education & Research: FERPA / student-privacy regimes (educational-record duties incl. vendor contracts); GDPR-K / minors' data rules ( heightened consent and profiling limits for K-12); Accessibility mandates (ADA/EN 301 549) (digital learning materials must comply). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -209,26 +209,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Applied AI & GenAI for Education & Research — each page documents the build as delivered:"
+   "x": "Named services for Applied AI & GenAI for Education & Research, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -242,7 +242,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Applied AI & GenAI in Education & Research in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Applied AI & GenAI in Education & Research in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 541,
@@ -316,25 +316,25 @@
    "title": "Applied AI & GenAI for Higher Education & Universities",
    "url": "/industries/education-research/higher-education/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for K-12 & School Systems",
    "url": "/industries/education-research/k12-schools/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Workforce & Vocational Training",
    "url": "/industries/education-research/workforce-training/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

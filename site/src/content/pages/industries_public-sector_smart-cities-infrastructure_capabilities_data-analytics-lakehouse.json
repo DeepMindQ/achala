@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse ground truth in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
+   "x": "The Data & Lakehouse ground truth in Smart Cities & Infrastructure: Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
   },
   {
    "t": "p",
-   "x": "Procurement fragmentation is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Procurement fragmentation is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Smart Cities & Infrastructure, the pattern is city data platform — governed sharing with privacy tags. Trust preserved sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Smart Cities & Infrastructure, the pattern is city data platform, governed sharing with privacy tags. Trust preserved sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. procurement fragmentation gets a number, an owner and a signature; the quarter belongs to a bounded slice — City data platform — live on your estate. In Smart Cities & Infrastructure programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. procurement fragmentation gets a number, an owner and a signature; the quarter belongs to a bounded slice, City data platform, live on your estate. In Smart Cities & Infrastructure programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",

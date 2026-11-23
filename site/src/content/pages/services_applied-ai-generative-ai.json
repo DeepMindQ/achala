@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Language is now an engineering surface. Applied AI & Generative AI runs seven practices that turn models into governed production systems — retrieval that cites its sources, tuning that never regresses silently, vision that feeds systems of record, and one platform that keeps every model call observable, bounded and affordable."
+   "x": "Language is now an engineering surface. Applied AI & Generative AI runs seven practices that turn models into governed production systems, retrieval that cites its sources, tuning that never regresses silently, vision that feeds systems of record, and one platform that keeps every model call observable, bounded and affordable."
   },
   {
    "t": "p",
@@ -17,12 +17,12 @@
   },
   {
    "t": "p",
-   "x": "Seven practices run under one evaluation discipline. A model change, a corpus change or a prompt change is the same event class — versioned, graded, and gated — because in production they are all just changes to the answer."
+   "x": "Seven practices run under one evaluation discipline. A model change, a corpus change or a prompt change is the same event class, versioned, graded, and gated, because in production they are all just changes to the answer."
   },
   {
    "t": "h2",
    "x": "Seven practices, one evaluation discipline",
-   "sub": "Corpus to cited answer, PoC to platform, tuning to vision — every practice ships behind eval gates"
+   "sub": "Corpus to cited answer, PoC to platform, tuning to vision, every practice ships behind eval gates"
   },
   {
    "t": "table",
@@ -77,7 +77,7 @@
   },
   {
    "t": "p",
-   "x": "Language models are commodity infrastructure now; what separates a working program from a stalled one is everything around the model — the corpus, the permissions, the evaluation, the cost line and the surface where staff actually meet the answer."
+   "x": "Language models are commodity infrastructure now; what separates a working program from a stalled one is everything around the model, the corpus, the permissions, the evaluation, the cost line and the surface where staff actually meet the answer."
   },
   {
    "t": "p",
@@ -90,7 +90,7 @@
   {
    "t": "h2",
    "x": "Corpus to cited answer — the governed generation path",
-   "sub": "Ingest, index, permission, generate, evaluate — one path, auditable at every hop"
+   "sub": "Ingest, index, permission, generate, evaluate, one path, auditable at every hop"
   },
   {
    "t": "p",
@@ -650,7 +650,7 @@
   },
   {
    "t": "p",
-   "x": "Applied AI is bought differently in different sectors: banks buy grounded answers under supervisory review, hospitals buy documentation time back, software companies buy the platform. The bars below are live counts of sub-industry capability briefs published on this site — where the sector-calibrated depth already exists, and where a program starts with a discovery sprint instead."
+   "x": "Applied AI is bought differently in different sectors: banks buy grounded answers under supervisory review, hospitals buy documentation time back, software companies buy the platform. The bars below are live counts of sub-industry capability briefs published on this site, where the sector-calibrated depth already exists, and where a program starts with a discovery sprint instead."
   },
   {
    "t": "chart",
@@ -1213,7 +1213,7 @@
   {
    "t": "h2",
    "x": "Six gates between prompt and production",
-   "sub": "Baseline, corpus, eval, guardrail, cost, audit — each demanding its own evidence"
+   "sub": "Baseline, corpus, eval, guardrail, cost, audit, each demanding its own evidence"
   },
   {
    "t": "table",
@@ -1259,17 +1259,17 @@
   {
    "t": "h2",
    "x": "The evaluation discipline is the product",
-   "sub": "Golden sets, calibrated LLM juries and CI gates — why this domain ships reliability instead of demos",
+   "sub": "Golden sets, calibrated LLM juries and CI gates, why this domain ships reliability instead of demos",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Generative programs fail at evaluation, not at generation: models answer everything, so teams stop asking whether the answer is right. The domain standard is an eval harness treated like a test suite — a versioned golden set per use case, LLM-jury scoring calibrated against human-labeled samples, and hard CI gates that block any prompt, model or index change that moves the wrong metric. Jury calibration is the craft: the judge model is scored against human labels every quarter, and its agreement is reported alongside the metric it certifies, because an uncalibrated judge certifies nothing.",
+   "x": "Generative programs fail at evaluation, not at generation: models answer everything, so teams stop asking whether the answer is right. The domain standard is an eval harness treated like a test suite, a versioned golden set per use case, LLM-jury scoring calibrated against human-labeled samples, and hard CI gates that block any prompt, model or index change that moves the wrong metric. Jury calibration is the craft: the judge model is scored against human labels every quarter, and its agreement is reported alongside the metric it certifies, because an uncalibrated judge certifies nothing.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The second discipline is permission fidelity. Enterprise retrieval fails quietly when the index leaks a document the asker cannot legally read — so the permission map is folded into retrieval at query time, not filtered after generation, and every answer carries citations to the passages it used. The trace store keeps prompt, context and output for every answer, which turns 'the model said so' into an examinable artifact. That combination — evaluated, permissioned, cited — is what separates a production program from a stalled pilot.",
+   "x": "The second discipline is permission fidelity. Enterprise retrieval fails quietly when the index leaks a document the asker cannot legally read, so the permission map is folded into retrieval at query time, not filtered after generation, and every answer carries citations to the passages it used. The trace store keeps prompt, context and output for every answer, which turns 'the model said so' into an examinable artifact. That combination, evaluated, permissioned, cited, is what separates a production program from a stalled pilot.",
    "phase3_deep": true
   },
   {
@@ -1281,7 +1281,7 @@
     ],
     [
      "Calibrated LLM juries",
-     "Judge agreement against human labels reported quarterly — uncalibrated judges certify nothing."
+     "Judge agreement against human labels reported quarterly, uncalibrated judges certify nothing."
     ],
     [
      "CI gates on every change",
@@ -1303,11 +1303,11 @@
     ],
     [
      "How do you keep answers from hallucinating?",
-     "Grounded generation with citations at query time, permission-folded retrieval so the answer only sees what the asker may read, and an eval suite that scores groundedness per release — regressions block the merge before anything ships."
+     "Grounded generation with citations at query time, permission-folded retrieval so the answer only sees what the asker may read, and an eval suite that scores groundedness per release, regressions block the merge before anything ships."
     ],
     [
      "What does a PoC cost us if it fails?",
-     "Four weeks and one practice's slice on your real data path. The exit is a validated metric delta or a written kill memo with reasons — both are deliverables, and neither commits you to a build."
+     "Four weeks and one practice's slice on your real data path. The exit is a validated metric delta or a written kill memo with reasons, both are deliverables, and neither commits you to a build."
     ],
     [
      "Can fine-tuning be avoided?",
@@ -1315,13 +1315,13 @@
     ],
     [
      "Who owns the eval suite after handover?",
-     "Your team, with the golden sets, jury calibration schedule and CI gates the build phase installs — the same harness that gated every release during delivery."
+     "Your team, with the golden sets, jury calibration schedule and CI gates the build phase installs, the same harness that gated every release during delivery."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring one metric you own to a briefing — we will show you which practice carries it, which gates you would fail today, and what the first funded slice would look like."
+   "x": "Bring one metric you own to a briefing, we will show you which practice carries it, which gates you would fail today, and what the first funded slice would look like."
   }
  ],
  "words": 1048,
@@ -1367,43 +1367,43 @@
    "title": "Enterprise AI Strategy & Roadmapping",
    "url": "/services/applied-ai-generative-ai/enterprise-ai-strategy/",
    "tag": "Service",
-   "desc": "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+   "desc": "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
   },
   {
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Service",
-   "desc": "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+   "desc": "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
   },
   {
    "title": "LLM Fine-Tuning & Model Operations",
    "url": "/services/applied-ai-generative-ai/llm-fine-tuning-ops/",
    "tag": "Service",
-   "desc": "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+   "desc": "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
   },
   {
    "title": "RAG & Enterprise Knowledge Systems",
    "url": "/services/applied-ai-generative-ai/rag-knowledge-systems/",
    "tag": "Service",
-   "desc": "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+   "desc": "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
   },
   {
    "title": "Multimodal AI & Vision-Language Systems",
    "url": "/services/applied-ai-generative-ai/multimodal-vision-systems/",
    "tag": "Service",
-   "desc": "Models that read scans, scenes and schematics — multimodal intelligence wired into operations."
+   "desc": "Models that read scans, scenes and schematics, multimodal intelligence wired into operations."
   },
   {
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Service",
-   "desc": "Voice and avatar interfaces that resolve, not deflect — with emotion-aware escalation and full auditability."
+   "desc": "Voice and avatar interfaces that resolve, not deflect, with emotion-aware escalation and full auditability."
   },
   {
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Service",
-   "desc": "Replace hype with evidence — feasibility, value and adoption risk proven on your data in 6-10 weeks."
+   "desc": "Replace hype with evidence, feasibility, value and adoption risk proven on your data in 6-10 weeks."
   }
  ],
  "evidence": [

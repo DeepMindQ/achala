@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Energy & Utilities has one job: move a named number — trading and scheduling decisions at market speed included — and prove it moved. The engineering that does it: orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. For Energy & Utilities, this is the standard the build is held to."
+   "x": "Agentic AI & Hyperautomation in Energy & Utilities has one job: move a named number, trading and scheduling decisions at market speed included, and prove it moved. The engineering that does it: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. For Energy & Utilities, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -175,7 +175,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. trading and scheduling decisions at market speed is measured with your finance and risk leads in the room, then one working path — dispatch/scheduling decision hub — goes live inside the quarter. In Energy & Utilities programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. trading and scheduling decisions at market speed is measured with your finance and risk leads in the room, then one working path, dispatch/scheduling decision hub, goes live inside the quarter. In Energy & Utilities programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -213,26 +213,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Agentic AI & Hyperautomation for Energy & Utilities — each page documents the build as delivered:"
+   "x": "Named services for Agentic AI & Hyperautomation for Energy & Utilities, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -246,7 +246,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Agentic AI & Hyperautomation in Energy & Utilities to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Agentic AI & Hyperautomation in Energy & Utilities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 514,
@@ -320,19 +320,19 @@
    "title": "Agentic AI & Hyperautomation for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Water, Waste & City Utilities",
    "url": "/industries/energy-utilities/water-utilities/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

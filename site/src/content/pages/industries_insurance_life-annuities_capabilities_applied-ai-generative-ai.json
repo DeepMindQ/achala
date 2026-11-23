@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI ground truth in Life & Annuities: Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy — ideal ground for governed automation."
+   "x": "The Applied AI & GenAI ground truth in Life & Annuities: Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy, ideal ground for governed automation."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Life & Annuities, the pattern is lapse-signal models — payment and engagement signals predicting lapse with action policy. Retention actions timely sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "In Life & Annuities, the pattern is lapse-signal models, payment and engagement signals predicting lapse with action policy. Retention actions timely sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The underwriting evidence assembly cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Lapse-signal models), and the gate review decides what scales — all inside one quarter in Life & Annuities. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Life & Annuities, that discipline is not optional — it is the engagement model."
+   "x": "The underwriting evidence assembly cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Lapse-signal models), and the gate review decides what scales, all inside one quarter in Life & Annuities. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Life & Annuities, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Life & Annuities: IFRS 17 / LDTI — actuarial data and reporting discipline; GLBA/privacy regimes — health and financial data duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Life & Annuities: IFRS 17 / LDTI, actuarial data and reporting discipline; GLBA/privacy regimes, health and financial data duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Applied AI & GenAI for Life & Annuities to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Applied AI & GenAI for Life & Annuities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 530,

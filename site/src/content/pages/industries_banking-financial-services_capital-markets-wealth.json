@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Capital Markets & Wealth Management, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Capital Markets & Wealth Management, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 424,
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Capital Markets & Wealth Management",
@@ -351,7 +351,7 @@
    "title": "Quantum & Advanced Compute for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Announcements, platform releases and recognitions — maintained by the communications team."
+   "x": "Announcements, platform releases and recognitions, maintained by the communications team."
   },
   {
    "t": "p",
@@ -140,7 +140,7 @@
    "title": "Responsible AI Framework version 2.0 published",
    "url": "/newsroom/responsible-ai-framework-v2/",
    "tag": "2026-09-16",
-   "desc": "The framework now covers agentic systems end-to-end: policy envelopes, authority gates, evaluation evidence and drift response."
+   "desc": "The framework now covers agentic systems end-to-end: defined policy limits, authority gates, evaluation evidence and drift response."
   },
   {
    "title": "Quanta practice opens quantum-readiness lab for PQC migration",

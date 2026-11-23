@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for OT estates exposed — a script here, a spreadsheet there — have usually been tried in Water, Waste & City Utilities. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for OT estates exposed, a script here, a spreadsheet there, have usually been tried in Water, Waste & City Utilities. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework — Water, Waste & City Utilities edition:"
+   "x": "Named from the floor, not from a framework, Water, Waste & City Utilities edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Water, Waste & City Utilities, the pattern is OT security — 62443-aligned zones and monitoring. Nis2 evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Water, Waste & City Utilities, the pattern is OT security, 62443-aligned zones and monitoring. Nis2 evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The OT estates exposed cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (OT security), and the gate review decides what scales — all inside one quarter in Water, Waste & City Utilities. In Water, Waste & City Utilities programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The OT estates exposed cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (OT security), and the gate review decides what scales, all inside one quarter in Water, Waste & City Utilities. In Water, Waste & City Utilities programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cyber & Zero-Trust for Water, Waste & City Utilities to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cyber & Zero-Trust for Water, Waste & City Utilities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 449,

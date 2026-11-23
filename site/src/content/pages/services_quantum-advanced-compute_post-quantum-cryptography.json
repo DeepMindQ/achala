@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "PQC migration as engineering: crypto inventory with endpoint-level truth instead of questionnaire guesses, hybrid deployments where standards allow, migration waves sequenced by harvest-risk — and embedded orphans hunted until the inventory is honest."
+   "x": "PQC migration as engineering: crypto inventory with endpoint-level truth instead of questionnaire guesses, hybrid deployments where standards allow, migration waves sequenced by harvest-risk, and embedded orphans hunted until the inventory is honest."
   },
   {
    "t": "p",
-   "x": "The one quantum deadline that is real is cryptographic: adversaries harvest encrypted traffic today to decrypt when quantum computers mature. PQC migration is not a research topic — it is an estate-wide engineering program: find every use of cryptography, classify it, and migrate the long-lived secrets first."
+   "x": "The one quantum deadline that is real is cryptographic: adversaries harvest encrypted traffic today to decrypt when quantum computers mature. PQC migration is not a research topic, it is an estate-wide engineering program: find every use of cryptography, classify it, and migrate the long-lived secrets first."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these leaves the estate quietly exposed while the program looks active — the countermeasures make inventory truthful and migration continuous."
+   "x": "Each of these leaves the estate quietly exposed while the program looks active, the countermeasures make inventory truthful and migration continuous."
   },
   {
    "t": "table",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "The pipeline starts with cryptographic discovery at endpoint level — code scanning, protocol inspection, certificate analysis — then sequences migration waves by harvest risk, with hybrid deployments where standards allow and vendor dependencies tracked as first-class risks."
+   "x": "The pipeline starts with cryptographic discovery at endpoint level, code scanning, protocol inspection, certificate analysis, then sequences migration waves by harvest risk, with hybrid deployments where standards allow and vendor dependencies tracked as first-class risks."
   },
   {
    "t": "arch",
@@ -295,7 +295,7 @@
   },
   {
    "t": "p",
-   "x": "From cryptographic discovery through inventory classification, wave assignment, hybrid deployment and verification — including the orphan path for embedded crypto nobody remembered."
+   "x": "From cryptographic discovery through inventory classification, wave assignment, hybrid deployment and verification, including the orphan path for embedded crypto nobody remembered."
   },
   {
    "t": "diagram",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Inventory coverage, PQC-ready endpoints and harvest-risk exposure — the three numbers that tell the board where the estate actually stands."
+   "x": "Inventory coverage, PQC-ready endpoints and harvest-risk exposure, the three numbers that tell the board where the estate actually stands."
   },
   {
    "t": "idash",
@@ -637,7 +637,7 @@
   },
   {
    "t": "p",
-   "x": "Coverage across estate segments and migration waves — the shape that shows where the long tail lives and which waves are honestly done versus claimed."
+   "x": "Coverage across estate segments and migration waves, the shape that shows where the long tail lives and which waves are honestly done versus claimed."
   },
   {
    "t": "chart",
@@ -1122,27 +1122,27 @@
     [
      "Discovery",
      "Network scan + build-time detection + SBOM",
-     "Vendor attestations only — embedded crypto hides"
+     "Vendor attestations only, embedded crypto hides"
     ],
     [
      "Hybrid modes",
      "X25519+ML-KEM class hybrids where supported",
-     "Waiting for pure-PQC everywhere — interoperability stalls"
+     "Waiting for pure-PQC everywhere, interoperability stalls"
     ],
     [
      "Performance",
      "Per-protocol handshake budgets",
-     "Global perf veto — migration freezes for a decade"
+     "Global perf veto, migration freezes for a decade"
     ],
     [
      "Registry",
      "Central algorithm registry with pinning",
-     "Algorithm sprawl per repo — agility never arrives"
+     "Algorithm sprawl per repo, agility never arrives"
     ],
     [
      "Sequencing",
      "Harvest-risk-ranked waves",
-     "First-found-first-migrated — riskiest stay longest"
+     "First-found-first-migrated, riskiest stay longest"
     ]
    ]
   },
@@ -1296,7 +1296,7 @@
   },
   {
    "t": "p",
-   "x": "Vendor crypto is tracked with attestation deadlines — a supplier shipping RSA-only firmware is a named risk with an owner and a date, not a footnote in the inventory."
+   "x": "Vendor crypto is tracked with attestation deadlines, a supplier shipping RSA-only firmware is a named risk with an owner and a date, not a footnote in the inventory."
   },
   {
    "t": "bullets",
@@ -1331,7 +1331,7 @@
   },
   {
    "t": "p",
-   "x": "PQC programs fail at the inventory, not the algorithms: nobody can migrate what nobody can find, and the code estates, vendor products and PKI dependencies hide crypto the way technical debt hides — behind every interface. The program therefore starts with discovery as an engineering exercise: automated scanning of code estates, dependency graphs and vendor attestations, reconciled into a crypto inventory with named owners and dates. The harvest-risk model then dates the exposure per asset — how long the secret must stay confidential, and therefore when it must be migrated — because a signing key that expires next year and an archive that must stay secret for twenty years have different clocks.",
+   "x": "PQC programs fail at the inventory, not the algorithms: nobody can migrate what nobody can find, and the code estates, vendor products and PKI dependencies hide crypto the way technical debt hides, behind every interface. The program therefore starts with discovery as an engineering exercise: automated scanning of code estates, dependency graphs and vendor attestations, reconciled into a crypto inventory with named owners and dates. The harvest-risk model then dates the exposure per asset, how long the secret must stay confidential, and therefore when it must be migrated, because a signing key that expires next year and an archive that must stay secret for twenty years have different clocks.",
    "phase3_deep": true
   },
   {
@@ -1352,7 +1352,7 @@
     ],
     [
      "Hybrid, standards-first",
-     "Classical plus PQC from the approved registry — no crypto inventing."
+     "Classical plus PQC from the approved registry, no crypto inventing."
     ],
     [
      "Interoperability gates",
@@ -1366,7 +1366,7 @@
    "items": [
     [
      "What is \"harvest now, decrypt later\" exposure?",
-     "Traffic captured today can be decrypted when quantum machines mature — so long-lived secrets (92 harvest-risk) rank above internal TLS (41). The console scores exposure per segment and sequences waves against it."
+     "Traffic captured today can be decrypted when quantum machines mature, so long-lived secrets (92 harvest-risk) rank above internal TLS (41). The console scores exposure per segment and sequences waves against it."
     ],
     [
      "How do you build a real crypto inventory?",
@@ -1374,21 +1374,21 @@
     ],
     [
      "Which algorithms do you migrate to?",
-     "The standardized PQC set — ML-KEM, ML-DSA and signatures per current guidance — with hybrid modes where harvest risk demands it. The defaults table names the algorithm per segment and the deviation path for legacy constraints."
+     "The standardized PQC set, ML-KEM, ML-DSA and signatures per current guidance, with hybrid modes where harvest risk demands it. The defaults table names the algorithm per segment and the deviation path for legacy constraints."
     ],
     [
      "What about vendor products we cannot patch?",
-     "Vendor dependency is governed: the overlay tracks each product’s PQC roadmap against your waves, escalates where roadmaps slip, and prices workarounds — a vendor that cannot commit becomes a named risk, not a surprise."
+     "Vendor dependency is governed: the overlay tracks each product’s PQC roadmap against your waves, escalates where roadmaps slip, and prices workarounds, a vendor that cannot commit becomes a named risk, not a surprise."
     ],
     [
      "What does the migration team inherit?",
-     "The inventory, the wave calendar, the gates, the vendor ledger and the console with exposure as the headline — a program that survives its deadline because the inventory was real."
+     "The inventory, the wave calendar, the gates, the vendor ledger and the console with exposure as the headline, a program that survives its deadline because the inventory was real."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask what percentage of your estate's crypto you can actually name today. The discovery sprint will produce the honest inventory — and sequence the waves that close your harvest risk first."
+   "x": "Ask what percentage of your estate's crypto you can actually name today. The discovery sprint will produce the honest inventory, and sequence the waves that close your harvest risk first."
   }
  ],
  "words": 925,
@@ -1473,43 +1473,43 @@
    "title": "Quantum Readiness & Strategy",
    "url": "/services/quantum-advanced-compute/quantum-readiness-strategy/",
    "tag": "Same domain",
-   "desc": "honest quantum strategy — use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
+   "desc": "honest quantum strategy, use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
   },
   {
    "title": "Neuromorphic & Emerging Compute Advisory",
    "url": "/services/quantum-advanced-compute/emerging-compute-advisory/",
    "tag": "Same domain",
-   "desc": "neutral horizon scanning — photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
+   "desc": "neutral horizon scanning, photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
   },
   {
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Same domain",
-   "desc": "classical HPC that does the heavy lifting — benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
+   "desc": "classical HPC that does the heavy lifting, benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
   },
   {
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Pairs with",
-   "desc": "workforce and machine identity lifecycle done properly — joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
+   "desc": "workforce and machine identity lifecycle done properly, joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Pairs with",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Pairs with",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "A global integrated energy major",
    "url": "/case-studies/en-02/",
    "tag": "Evidence",
-   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale."
+   "desc": "Turnaround duration down 14%, scheduling optimization at refinery scale."
   }
  ],
  "evidence": [

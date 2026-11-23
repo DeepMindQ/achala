@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Role-scoped agents that execute process steps under explicit policy bounds: permissions derived from the role, checkpoints placed by risk, replay for every action, and an exception queue designed for humans — not a chat window bolted to an RPA bot."
+   "x": "Role-scoped agents that execute process steps under explicit policy bounds: permissions derived from the role, checkpoints placed by risk, replay for every action, and an exception queue designed for humans, not a chat window bolted to an RPA bot."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "An agent in a business process is a junior employee with perfect memory and no judgment — until you give it judgment-shaped tools, at which point it also needs supervision. We design agents as roles: explicit responsibilities, explicit tool grants, explicit escalation paths, and a supervisor loop that inspects work before it commits."
+   "x": "An agent in a business process is a junior employee with perfect memory and no judgment, until you give it judgment-shaped tools, at which point it also needs supervision. We design agents as roles: explicit responsibilities, explicit tool grants, explicit escalation paths, and a supervisor loop that inspects work before it commits."
   },
   {
    "t": "p",
@@ -31,7 +31,7 @@
   {
    "t": "h2",
    "x": "Tool sprawl to checkpoint erosion — how agent programs quietly degrade",
-   "sub": "Tool sprawl, loop economics, silent wrongness, checkpoint erosion — with the countermeasure that ships against each"
+   "sub": "Tool sprawl, loop economics, silent wrongness, checkpoint erosion, with the countermeasure that ships against each"
   },
   {
    "t": "p",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Two design decisions carry the architecture: agent scopes are derived from role definitions rather than granted ad hoc, and checkpoint placement follows a risk matrix signed by the process owner — so autonomy is earned by evidence, step by step."
+   "x": "Two design decisions carry the architecture: agent scopes are derived from role definitions rather than granted ad hoc, and checkpoint placement follows a risk matrix signed by the process owner, so autonomy is earned by evidence, step by step."
   },
   {
    "t": "arch",
@@ -315,7 +315,7 @@
   },
   {
    "t": "p",
-   "x": "From queue assignment through execution under policy bounds to the checkpoint decision and the replay record — with the paths where the agent escalates instead of guessing."
+   "x": "From queue assignment through execution under policy bounds to the checkpoint decision and the replay record, with the paths where the agent escalates instead of guessing."
   },
   {
    "t": "diagram",
@@ -339,7 +339,7 @@
   },
   {
    "t": "p",
-   "x": "Straight-through rate beside policy breaches, cost per task beside checkpoint discrepancy — pairs that keep speed and control in the same conversation, exactly where they belong."
+   "x": "Straight-through rate beside policy breaches, cost per task beside checkpoint discrepancy, pairs that keep speed and control in the same conversation, exactly where they belong."
   },
   {
    "t": "idash",
@@ -680,11 +680,11 @@
   {
    "t": "h2",
    "x": "Task economics across process families",
-   "sub": "Straight-through targets and unit cost by family — where the next cohort gets staffed"
+   "sub": "Straight-through targets and unit cost by family, where the next cohort gets staffed"
   },
   {
    "t": "p",
-   "x": "Volume, straight-through share and unit cost per family — the chart that decides where the next agent cohort is staffed, and which families stay human-led by design."
+   "x": "Volume, straight-through share and unit cost per family, the chart that decides where the next agent cohort is staffed, and which families stay human-led by design."
   },
   {
    "t": "chart",
@@ -1232,27 +1232,27 @@
     [
      "Agent runtime",
      "Typed planning loop with bounded steps (LangGraph-class)",
-     "Simple rule-bots for tasks with no ambiguity — agents are not free"
+     "Simple rule-bots for tasks with no ambiguity, agents are not free"
     ],
     [
      "Tool access",
      "Scoped, expiring grants via gateway; deny by default",
-     "Shared service accounts — they destroy the audit trail"
+     "Shared service accounts, they destroy the audit trail"
     ],
     [
      "Verification",
      "In-flow reconciliation against source systems",
-     "Trusting the model's self-report — it is the failure mode"
+     "Trusting the model's self-report, it is the failure mode"
     ],
     [
      "Identity",
      "One principal per agent; short-lived credentials",
-     "Agent-as-user accounts — policy cannot bind what it cannot see"
+     "Agent-as-user accounts, policy cannot bind what it cannot see"
     ],
     [
      "Escalation",
      "Structured handoff with full trace to the human desk",
-     "Raw error dumps — supervisors need the reasoning trail"
+     "Raw error dumps, supervisors need the reasoning trail"
     ]
    ]
   },
@@ -1368,7 +1368,7 @@
   {
    "t": "h2",
    "x": "The tools agents may touch — and the grants that expire",
-   "sub": "ERP, CRM, ITSM and comms — named systems, typed calls, expiry on every grant"
+   "sub": "ERP, CRM, ITSM and comms, named systems, typed calls, expiry on every grant"
   },
   {
    "t": "p",
@@ -1406,7 +1406,7 @@
   },
   {
    "t": "p",
-   "x": "Every action replays: inputs, policy version, checkpoint outcome and side effects are recorded — the evidence pack internal audit asks for, assembled by default."
+   "x": "Every action replays: inputs, policy version, checkpoint outcome and side effects are recorded, the evidence pack internal audit asks for, assembled by default."
   },
   {
    "t": "bullets",
@@ -1436,17 +1436,17 @@
   {
    "t": "h2",
    "x": "Idempotency is the load-bearing wall",
-   "sub": "The engineering property every agent action inherits — and what we build when a system cannot offer it",
+   "sub": "The engineering property every agent action inherits, and what we build when a system cannot offer it",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Every write an agent makes carries an idempotency key, and the key is semantic, not syntactic: two calls that would move the same business object to the same state share a key, so a retry after timeout cannot double-book, double-pay or double-file. Systems that support idempotent writes natively get used directly; systems that do not get a reconciliation shim that proves the intended end-state before the run is allowed to close. This is why our failure rate claims survive audit — a run that could not prove its end-state is a failed run by definition, and the failure is visible in the run ledger, not in a spreadsheet.",
+   "x": "Every write an agent makes carries an idempotency key, and the key is semantic, not syntactic: two calls that would move the same business object to the same state share a key, so a retry after timeout cannot double-book, double-pay or double-file. Systems that support idempotent writes natively get used directly; systems that do not get a reconciliation shim that proves the intended end-state before the run is allowed to close. This is why our failure rate claims survive audit, a run that could not prove its end-state is a failed run by definition, and the failure is visible in the run ledger, not in a spreadsheet.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The second wall is the retry budget. Agents do not retry until success; they retry within a budget — bounded attempts, bounded cost, bounded wall-clock — and when the budget exhausts, the run escalates with its trace attached. The economics matter: an agent that retries expensive LLM calls until the bill spikes is the most common cost failure we inherit from prior programs. The circuit breaker on spend is set at design time from the risk matrix, reviewed at every release gate, and it trips loudly when it trips.",
+   "x": "The second wall is the retry budget. Agents do not retry until success; they retry within a budget, bounded attempts, bounded cost, bounded wall-clock, and when the budget exhausts, the run escalates with its trace attached. The economics matter: an agent that retries expensive LLM calls until the bill spikes is the most common cost failure we inherit from prior programs. The circuit breaker on spend is set at design time from the risk matrix, reviewed at every release gate, and it trips loudly when it trips.",
    "phase3_deep": true
   },
   {
@@ -1473,7 +1473,7 @@
   },
   {
    "t": "note",
-   "x": "Design targets from the reference program model — gate thresholds from delivery, not a client's live telemetry.",
+   "x": "Design targets from the reference program model, gate thresholds from delivery, not a client's live telemetry.",
    "phase3_deep": true
   },
   {
@@ -1485,11 +1485,11 @@
     ],
     [
      "What happens when an agent hits a case it cannot handle?",
-     "A confidence or policy failure routes the case to a human queue with the evidence packet attached — the agent never improvises an exception path. The escalation reason is logged and becomes calibration data for the next cohort."
+     "A confidence or policy failure routes the case to a human queue with the evidence packet attached, the agent never improvises an exception path. The escalation reason is logged and becomes calibration data for the next cohort."
     ],
     [
      "Can this run against our existing ERP and CRM, or do we need new infrastructure?",
-     "Agents integrate through typed contracts against your existing ERP, CRM and ITSM — no parallel estate. The integration surface is named system by system in the engagement, with rate limits and idempotency keys on every seam."
+     "Agents integrate through typed contracts against your existing ERP, CRM and ITSM, no parallel estate. The integration surface is named system by system in the engagement, with rate limits and idempotency keys on every seam."
     ],
     [
      "How is agent cost controlled as volume grows?",
@@ -1503,7 +1503,7 @@
   },
   {
    "t": "cta",
-   "x": "Pick the process where the exception queue eats your best people. The sprint will show the straight-through rate agents can honestly reach there — with checkpoints designed by risk, not by pressure."
+   "x": "Pick the process where the exception queue eats your best people. The sprint will show the straight-through rate agents can honestly reach there, with checkpoints designed by risk, not by pressure."
   }
  ],
  "words": 1164,
@@ -1588,43 +1588,43 @@
    "title": "Decision Intelligence Systems",
    "url": "/services/agentic-ai-hyperautomation/decision-intelligence-systems/",
    "tag": "Same domain",
-   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs — decisions you can defend to a regulator, not just scores in a dashboard."
+   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs, decisions you can defend to a regulator, not just scores in a dashboard."
   },
   {
    "title": "Digital Workforce & Multi-Agent Orchestration",
    "url": "/services/agentic-ai-hyperautomation/digital-workforce-orchestration/",
    "tag": "Same domain",
-   "desc": "agent-fleet management as workforce management — capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
+   "desc": "agent-fleet management as workforce management, capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
   },
   {
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Same domain",
-   "desc": "the contracted seams — ERP, CRM, ITSM, comms and queues — with typed contracts, replayable failures and monitors that catch drift before business users do."
+   "desc": "the contracted seams, ERP, CRM, ITSM, comms and queues, with typed contracts, replayable failures and monitors that catch drift before business users do."
   },
   {
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Pairs with",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Pairs with",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Pairs with",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "A multinational corporate bank",
    "url": "/case-studies/bank-02/",
    "tag": "Evidence",
-   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly."
+   "desc": "KYC refresh backlog cleared, 70% faster cycles with agentic file assembly."
   }
  ],
  "evidence": [

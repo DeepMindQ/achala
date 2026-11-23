@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these shows up as a review backlog rather than an error report — which is why the countermeasures target the review queue, not just the model."
+   "x": "Every one of these shows up as a review backlog rather than an error report, which is why the countermeasures target the review queue, not just the model."
   },
   {
    "t": "table",
@@ -301,7 +301,7 @@
   },
   {
    "t": "p",
-   "x": "From capture through layout parsing, field extraction and validation, to the posting decision and the review loop — including what happens when layout drift breaks an extractor mid-week."
+   "x": "From capture through layout parsing, field extraction and validation, to the posting decision and the review loop, including what happens when layout drift breaks an extractor mid-week."
   },
   {
    "t": "diagram",
@@ -326,7 +326,7 @@
   },
   {
    "t": "p",
-   "x": "Field accuracy, straight-through rate, review queue depth, drift alerts and page latency — the numbers that decide whether extraction is compounding or quietly generating re-work."
+   "x": "Field accuracy, straight-through rate, review queue depth, drift alerts and page latency, the numbers that decide whether extraction is compounding or quietly generating re-work."
   },
   {
    "t": "idash",
@@ -1182,22 +1182,22 @@
     [
      "Reasoning",
      "VLM for complex tables, stamps and cross-page logic",
-     "Deterministic extractors wherever a rule beats a model — cheaper and auditable"
+     "Deterministic extractors wherever a rule beats a model, cheaper and auditable"
     ],
     [
      "Reconciliation",
      "Typed matching against ledger with tolerance bands",
-     "Free-text matching — it hides errors the ledger will not"
+     "Free-text matching, it hides errors the ledger will not"
     ],
     [
      "Serving",
      "Batch for archive backlogs; streaming API for live capture",
-     "One path for both — the batch is 90% of volume and needs its own cost curve"
+     "One path for both, the batch is 90% of volume and needs its own cost curve"
     ],
     [
      "Evidence",
      "Crop + rationale + confidence per field, immutable store",
-     "End-result-only logging — fails the first serious audit"
+     "End-result-only logging, fails the first serious audit"
     ]
    ]
   },
@@ -1351,7 +1351,7 @@
   },
   {
    "t": "p",
-   "x": "Every posted field carries extraction evidence — source region, model version, confidence and reviewer identity — so an auditor can verify a posting without leaving the console."
+   "x": "Every posted field carries extraction evidence, source region, model version, confidence and reviewer identity, so an auditor can verify a posting without leaving the console."
   },
   {
    "t": "bullets",
@@ -1381,17 +1381,17 @@
   {
    "t": "h2",
    "x": "The posting is the deliverable, not the bounding box",
-   "sub": "From pixels to posted entries — why reconciliation and provenance gate the vision pipeline",
+   "sub": "From pixels to posted entries, why reconciliation and provenance gate the vision pipeline",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Enterprise vision programs succeed when they are measured as bookkeeping: a document class is done when its fields post to the system of record with provenance, not when the model's IoU looks good on a holdout. The pipeline therefore runs page grammar first — layout and object detection establish what the page is and where things are — before field extraction ensembles (model plus rules) read values, and confidence gates route on band: straight-through after reconciliation, human review with highlighted regions, or recapture. The reconciliation step is the money path: extracted totals match the ledger arithmetic before anything posts, so the queue measures exceptions rather than errors.",
+   "x": "Enterprise vision programs succeed when they are measured as bookkeeping: a document class is done when its fields post to the system of record with provenance, not when the model's IoU looks good on a holdout. The pipeline therefore runs page grammar first, layout and object detection establish what the page is and where things are, before field extraction ensembles (model plus rules) read values, and confidence gates route on band: straight-through after reconciliation, human review with highlighted regions, or recapture. The reconciliation step is the money path: extracted totals match the ledger arithmetic before anything posts, so the queue measures exceptions rather than errors.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Evidence is page-level by design: every posted field carries the crop, the confidence and the model version that produced it, which is what an auditor's sample request actually wants. Drift monitoring watches document scanners as much as models — a new copier preset silently shifts dewarp statistics — and release trains move document classes through canary volumes before estate-wide routing.",
+   "x": "Evidence is page-level by design: every posted field carries the crop, the confidence and the model version that produced it, which is what an auditor's sample request actually wants. Drift monitoring watches document scanners as much as models, a new copier preset silently shifts dewarp statistics, and release trains move document classes through canary volumes before estate-wide routing.",
    "phase3_deep": true
   },
   {
@@ -1425,15 +1425,15 @@
     ],
     [
      "Can you prove an extracted number matches the source document?",
-     "Yes — every posted field links back to its source region with pixel-level evidence, and the audit view reconstructs the extraction. Finance reconciles postings, not bounding boxes."
+     "Yes, every posted field links back to its source region with pixel-level evidence, and the audit view reconstructs the extraction. Finance reconciles postings, not bounding boxes."
     ],
     [
      "Does this handle handwritten or degraded documents?",
-     "Degradation is measured, not assumed: the eval set includes your worst scan quality, and per-class confidence bands are calibrated on it — documents that cannot clear a defensible band go to humans with the reason attached."
+     "Degradation is measured, not assumed: the eval set includes your worst scan quality, and per-class confidence bands are calibrated on it, documents that cannot clear a defensible band go to humans with the reason attached."
     ],
     [
      "How does this differ from off-the-shelf OCR?",
-     "OCR returns text; this returns gated fields wired to your systems of record, with reconciliation against the ledger, correction capture and posting evidence — the deliverable is what posts, not the bounding box."
+     "OCR returns text; this returns gated fields wired to your systems of record, with reconciliation against the ledger, correction capture and posting evidence, the deliverable is what posts, not the bounding box."
     ],
     [
      "Who runs the review bench after go-live?",
@@ -1528,7 +1528,7 @@
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Same domain",
-   "desc": "one governed door for every model call — authz, budgets, caching, guardrails and traces — so fifty use cases stay operable and affordable."
+   "desc": "one governed door for every model call, authz, budgets, caching, guardrails and traces, so fifty use cases stay operable and affordable."
   },
   {
    "title": "LLM Fine-Tuning & Model Operations",
@@ -1546,25 +1546,25 @@
    "title": "Digital Workforce & Multi-Agent Orchestration",
    "url": "/services/agentic-ai-hyperautomation/digital-workforce-orchestration/",
    "tag": "Pairs with",
-   "desc": "agent-fleet management as workforce management — capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
+   "desc": "agent-fleet management as workforce management, capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Pairs with",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Pairs with",
-   "desc": "detection engineering with measured coverage — threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
+   "desc": "detection engineering with measured coverage, threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
   },
   {
    "title": "A 12-hospital US health system",
    "url": "/case-studies/hc-01/",
    "tag": "Evidence",
-   "desc": "Clinicians get 90 minutes a day back — ambient documentation inside the EHR."
+   "desc": "Clinicians get 90 minutes a day back, ambient documentation inside the EHR."
   }
  ],
  "evidence": [

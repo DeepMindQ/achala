@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Education institutions run two businesses on one budget: teaching and knowledge production. Both are being reshaped by AI — adaptive learning and assessment automation on one side, research acceleration from literature synthesis to simulation on the other — while both face an integrity crisis that generic tooling makes worse. The institutions that thrive will industrialize the boring (operations, admissions, estate management) to fund the essential (teaching quality, research depth)."
+   "x": "Education institutions run two businesses on one budget: teaching and knowledge production. Both are being reshaped by AI, adaptive learning and assessment automation on one side, research acceleration from literature synthesis to simulation on the other, while both face an integrity crisis that generic tooling makes worse. The institutions that thrive will industrialize the boring (operations, admissions, estate management) to fund the essential (teaching quality, research depth)."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The constraints are real: student-privacy regimes (FERPA/GDPR-K class), accessibility mandates, academic-integrity governance, research-data ethics, and budget cycles that punish stranded investments. Technology must respect pedagogy and governance, not bulldoze them — which is why Achala IT Solutions co-designs every deployment with faculty governance and student bodies."
+   "x": "The constraints are real: student-privacy regimes (FERPA/GDPR-K class), accessibility mandates, academic-integrity governance, research-data ethics, and budget cycles that punish stranded investments. Technology must respect pedagogy and governance, not bulldoze them, which is why Achala IT Solutions co-designs every deployment with faculty governance and student bodies."
   },
   {
    "t": "h2",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Education & Research programs pay first in this order — and here is why:"
+   "x": "Education & Research programs pay first in this order, and here is why:"
   },
   {
    "t": "bullets",
@@ -129,7 +129,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring programs in Education & Research to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring programs in Education & Research to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 440,

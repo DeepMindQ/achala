@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics treats field sensing patchy in Precision Agriculture & Agronomy as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "IoT, Twin & Robotics treats field sensing patchy in Precision Agriculture & Agronomy as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "p",
-   "x": "Through the IoT, Twin & Robotics lens, the operating reality: Precision agriculture converts sensing into input savings and yield: soil/weather/crop telemetry, variable-rate practice, agronomy models and machine orchestration. The unit economics are per-hectare — and they clear investment hurdles when engineered honestly."
+   "x": "Through the IoT, Twin & Robotics lens, the operating reality: Precision agriculture converts sensing into input savings and yield: soil/weather/crop telemetry, variable-rate practice, agronomy models and machine orchestration. The unit economics are per-hectare, and they clear investment hurdles when engineered honestly."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Precision Agriculture & Agronomy, the pattern is field fabric — soil/weather/crop sensing with governance. Vra enabled sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "In Precision Agriculture & Agronomy, the pattern is field fabric, soil/weather/crop sensing with governance. Vra enabled sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The field sensing patchy cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Field fabric), and the gate review decides what scales — all inside one quarter in Precision Agriculture & Agronomy. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The field sensing patchy cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Field fabric), and the gate review decides what scales, all inside one quarter in Precision Agriculture & Agronomy. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the IoT, Twin & Robotics side of Precision Agriculture & Agronomy, the binding duties are concrete — Input/residue rules (application evidence); CAP/subsidy measurement (practice verification); EUDR (in-scope) (plot geolocation evidence). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the IoT, Twin & Robotics side of Precision Agriculture & Agronomy, the binding duties are concrete, Input/residue rules (application evidence); CAP/subsidy measurement (practice verification); EUDR (in-scope) (plot geolocation evidence). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs IoT, Twin & Robotics for Precision Agriculture & Agronomy in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs IoT, Twin & Robotics for Precision Agriculture & Agronomy in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 437,

@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI against AI accountability gap in National Government & Digital Services: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. National Government & Digital Services is where this discipline pays."
+   "x": "Applied AI & GenAI against AI accountability gap in National Government & Digital Services: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. National Government & Digital Services is where this discipline pays."
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI ground truth in National Government & Digital Services: National digital government builds shared rails — identity, data exchange, notification, payments — and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
+   "x": "The Applied AI & GenAI ground truth in National Government & Digital Services: National digital government builds shared rails, identity, data exchange, notification, payments, and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
   },
   {
    "t": "p",
-   "x": "AI accountability gap is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "AI accountability gap is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first — National Government & Digital Services edition:"
+   "x": "The queues and waits that come up first, National Government & Digital Services edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In National Government & Digital Services, the pattern is accountable AI framework — transparency notices + oversight gates per system. Conformity documented sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. National Government & Digital Services is where this discipline pays."
+   "x": "In National Government & Digital Services, the pattern is accountable AI framework, transparency notices + oversight gates per system. Conformity documented sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. National Government & Digital Services is where this discipline pays."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. AI accountability gap gets a number, an owner and a signature; the quarter belongs to a bounded slice — Accountable AI framework — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For National Government & Digital Services, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. AI accountability gap gets a number, an owner and a signature; the quarter belongs to a bounded slice, Accountable AI framework, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For National Government & Digital Services, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "For the Applied AI & GenAI side of National Government & Digital Services, the binding duties are concrete — GDPR/national privacy (citizen data duties); EU AI Act (public AI duties); Accessibility (EN 301 549) (service mandates). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Applied AI & GenAI side of National Government & Digital Services, the binding duties are concrete, GDPR/national privacy (citizen data duties); EU AI Act (public AI duties); Accessibility (EN 301 549) (service mandates). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

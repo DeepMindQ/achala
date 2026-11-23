@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Power Generation & Grid, the pattern is flexibility hub — DER activation within market/policy rules. Flex revenue up sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. Power Generation & Grid is where this discipline pays."
+   "x": "In Power Generation & Grid, the pattern is flexibility hub, DER activation within market/policy rules. Flex revenue up sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. Power Generation & Grid is where this discipline pays."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. CIP/62443 compliance load gets a number, an owner and a signature; the quarter belongs to a bounded slice — Flexibility hub — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Power Generation & Grid, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. CIP/62443 compliance load gets a number, an owner and a signature; the quarter belongs to a bounded slice, Flexibility hub, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Power Generation & Grid, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Agentic AI & Hyperautomation frame in Power Generation & Grid: NERC CIP — bulk-system cyber standards; Electricity market codes — balancing/settlement duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Agentic AI & Hyperautomation frame in Power Generation & Grid: NERC CIP, bulk-system cyber standards; Electricity market codes, balancing/settlement duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Agentic AI & Hyperautomation for Power Generation & Grid in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Agentic AI & Hyperautomation for Power Generation & Grid in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 552,

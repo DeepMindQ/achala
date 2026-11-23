@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with Databricks covers Lakehouse engineering, MLops and real-time analytics on Databricks — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with Databricks covers Lakehouse engineering, MLops and real-time analytics on Databricks, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "Unity Catalog governance spines for regulated estates",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Delta Live Tables pipelines under data contracts",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "MLflow model estates with evaluation and drift gates",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Streaming decision platforms for fraud, pricing and operations",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },
@@ -66,7 +66,7 @@
   },
   {
    "t": "p",
-   "x": "Joint delivery on Databricks Alliance is designed for handover from the first week — runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
+   "x": "Joint delivery on Databricks Alliance is designed for handover from the first week, runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
   }
  ],
  "crumbs": [

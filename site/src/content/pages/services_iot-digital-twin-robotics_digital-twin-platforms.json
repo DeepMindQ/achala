@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Twins that stay honest: state synchronization with fidelity scores verified against physical reality, simulation tiers for what-ifs, conflict rules that resolve ambiguity — and structure drift caught before the twin quietly stops describing the asset it was built for."
+   "x": "Twins that stay honest: state synchronization with fidelity scores verified against physical reality, simulation tiers for what-ifs, conflict rules that resolve ambiguity, and structure drift caught before the twin quietly stops describing the asset it was built for."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A digital twin is a promise: the model reflects reality close enough to act on. The engineering is synchronization — state deltas from the fabric, conflict resolution when the physical and modeled worlds disagree, and fidelity metrics that tell you when the twin is lying. The simulation tier runs what-ifs on the synced state, never on stale guesses."
+   "x": "A digital twin is a promise: the model reflects reality close enough to act on. The engineering is synchronization, state deltas from the fabric, conflict resolution when the physical and modeled worlds disagree, and fidelity metrics that tell you when the twin is lying. The simulation tier runs what-ifs on the synced state, never on stale guesses."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these produces confident dashboards over silent divergence — the countermeasures verify the twin against physical ground truth on a schedule and resolve conflicts by rule, not by whoever shouted last."
+   "x": "Every one of these produces confident dashboards over silent divergence, the countermeasures verify the twin against physical ground truth on a schedule and resolve conflicts by rule, not by whoever shouted last."
   },
   {
    "t": "table",
@@ -53,7 +53,7 @@
     ],
     [
      "Conflict ambiguity",
-     "Sensor says 40°C, model says 35°C — which wins?",
+     "Sensor says 40°C, model says 35°C, which wins?",
      "Conflict policy per attribute class with precedence rules"
     ],
     [
@@ -302,7 +302,7 @@
   },
   {
    "t": "p",
-   "x": "From the physical event through sync, conflict resolution and the twin's updated state to the simulation tier — including the fidelity probe that periodically asks reality whether the twin is still telling the truth."
+   "x": "From the physical event through sync, conflict resolution and the twin's updated state to the simulation tier, including the fidelity probe that periodically asks reality whether the twin is still telling the truth."
   },
   {
    "t": "diagram",
@@ -326,7 +326,7 @@
   },
   {
    "t": "p",
-   "x": "Sync lag, fidelity score and unresolved conflicts — the three numbers that decide whether the twin is a decision instrument or an expensive mirror maze."
+   "x": "Sync lag, fidelity score and unresolved conflicts, the three numbers that decide whether the twin is a decision instrument or an expensive mirror maze."
   },
   {
    "t": "idash",
@@ -644,7 +644,7 @@
   },
   {
    "t": "p",
-   "x": "Fidelity scores per asset class across sync-engine versions — the shape that shows where the twin is honest, where it is degrading and which upgrade fixed what."
+   "x": "Fidelity scores per asset class across sync-engine versions, the shape that shows where the twin is honest, where it is degrading and which upgrade fixed what."
   },
   {
    "t": "chart",
@@ -1159,27 +1159,27 @@
     [
      "Sync",
      "Delta processing with SLOs",
-     "Nightly batch sync — the twin is a snapshot, not a twin"
+     "Nightly batch sync, the twin is a snapshot, not a twin"
     ],
     [
      "Conflicts",
      "Per-class precedence policies",
-     "Last-write-wins globally — physics loses to logs"
+     "Last-write-wins globally, physics loses to logs"
     ],
     [
      "Simulation",
      "Calibrated what-if tier",
-     "Untuned models — what-ifs mislead"
+     "Untuned models, what-ifs mislead"
     ],
     [
      "Registry",
      "Asset graph with change hooks",
-     "Static 3D model — structure drifts"
+     "Static 3D model, structure drifts"
     ],
     [
      "Governance",
      "Fidelity reports with owners",
-     "Twin-by-initiative — nobody owns the lie"
+     "Twin-by-initiative, nobody owns the lie"
     ]
    ]
   },
@@ -1358,7 +1358,7 @@
   },
   {
    "t": "note",
-   "x": "Fidelity probes are physical, not statistical: the twin's state is compared against sensor readings and periodic human-verified checks — a twin that only agrees with itself is the failure mode, not the proof."
+   "x": "Fidelity probes are physical, not statistical: the twin's state is compared against sensor readings and periodic human-verified checks, a twin that only agrees with itself is the failure mode, not the proof."
   },
   {
    "t": "h2",
@@ -1368,12 +1368,12 @@
   },
   {
    "t": "p",
-   "x": "Twins lie in two ways: silently (state drifts, nobody notices) and confidently (the simulation tier extrapolates from drifted state). The platform therefore treats synchronization as the core engineering: delta processors turn physical events into twin state, conflict resolvers rule the last-writer-wins cases explicitly, and fidelity metrics are trended per asset class against signed targets. Decision authority is earned, not granted — a twin may drive scheduling decisions only in classes where fidelity has held above target for the agreed window, and authority is withdrawn automatically when fidelity slips.",
+   "x": "Twins lie in two ways: silently (state drifts, nobody notices) and confidently (the simulation tier extrapolates from drifted state). The platform therefore treats synchronization as the core engineering: delta processors turn physical events into twin state, conflict resolvers rule the last-writer-wins cases explicitly, and fidelity metrics are trended per asset class against signed targets. Decision authority is earned, not granted, a twin may drive scheduling decisions only in classes where fidelity has held above target for the agreed window, and authority is withdrawn automatically when fidelity slips.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The simulation tier is governed like the state tier: scenario runs declare their assumptions, outputs carry provenance (which twin version, which assumptions), and the governance registry versions asset models like code — because a what-if run on an unowned model is fiction with a UI. The console reads fidelity, sync lag and authority state; the review asks which asset class is closest to earning (or losing) authority, and what would move it.",
+   "x": "The simulation tier is governed like the state tier: scenario runs declare their assumptions, outputs carry provenance (which twin version, which assumptions), and the governance registry versions asset models like code, because a what-if run on an unowned model is fiction with a UI. The console reads fidelity, sync lag and authority state; the review asks which asset class is closest to earning (or losing) authority, and what would move it.",
    "phase3_deep": true
   },
   {
@@ -1389,7 +1389,7 @@
     ],
     [
      "Authority earned and withdrawn",
-     "Twins drive decisions only where fidelity has held — automatically."
+     "Twins drive decisions only where fidelity has held, automatically."
     ],
     [
      "Governed simulation",
@@ -1407,25 +1407,25 @@
     ],
     [
      "How is fidelity actually measured?",
-     "Against the sensor fabric: sampled physical states compared to twin states over signed windows, scored per asset class — 0.95 on power distribution, 0.88 on the building shell — with the honest weak classes priced into the roadmap."
+     "Against the sensor fabric: sampled physical states compared to twin states over signed windows, scored per asset class, 0.95 on power distribution, 0.88 on the building shell, with the honest weak classes priced into the roadmap."
     ],
     [
      "Can the twin run what-if simulations?",
-     "Yes, with governance: simulation outputs carry their model version and fidelity context, and the overlay records what simulations influenced which decision — a what-if is evidence-grade only when its inputs are fidelity-gated."
+     "Yes, with governance: simulation outputs carry their model version and fidelity context, and the overlay records what simulations influenced which decision, a what-if is evidence-grade only when its inputs are fidelity-gated."
     ],
     [
      "How do you prevent the twin becoming shelf-ware?",
-     "Decision authority is the product: each asset class earns what its fidelity supports — alarms first, then optimization, then closed-loop control — so the twin is used for decisions, not dashboards."
+     "Decision authority is the product: each asset class earns what its fidelity supports, alarms first, then optimization, then closed-loop control, so the twin is used for decisions, not dashboards."
     ],
     [
      "What does operations engineering inherit?",
-     "The sync spine, the fidelity console, the gates and the simulation governance overlay — a twin program where drift is measured, authority is earned and honesty is the design."
+     "The sync spine, the fidelity console, the gates and the simulation governance overlay, a twin program where drift is measured, authority is earned and honesty is the design."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask when your twin last disagreed with the asset and who noticed. The diagnostic will wire fidelity probes and conflict rules — until the twin earns its decision authority."
+   "x": "Ask when your twin last disagreed with the asset and who noticed. The diagnostic will wire fidelity probes and conflict rules, until the twin earns its decision authority."
   }
  ],
  "words": 1003,
@@ -1510,43 +1510,43 @@
    "title": "Predictive Maintenance & Asset Intelligence",
    "url": "/services/iot-digital-twin-robotics/predictive-asset-intelligence/",
    "tag": "Same domain",
-   "desc": "maintenance scheduled by evidence — failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
+   "desc": "maintenance scheduled by evidence, failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
   },
   {
    "title": "Robotics & Autonomous Systems Integration",
    "url": "/services/iot-digital-twin-robotics/robotics-autonomous-systems/",
    "tag": "Same domain",
-   "desc": "robot fleets with safety cases — bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
+   "desc": "robot fleets with safety cases, bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
   },
   {
    "title": "Smart Infrastructure, Buildings & Cities",
    "url": "/services/iot-digital-twin-robotics/smart-infrastructure/",
    "tag": "Same domain",
-   "desc": "city and utility scale on the same disciplines — segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
+   "desc": "city and utility scale on the same disciplines, segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Pairs with",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Pairs with",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Pairs with",
-   "desc": "extraction and adjudication inside the process — documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
+   "desc": "extraction and adjudication inside the process, documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
   },
   {
    "title": "A container-terminal operator",
    "url": "/case-studies/log-02/",
    "tag": "Evidence",
-   "desc": "Berth productivity +16% — planning platform and crane health sensing."
+   "desc": "Berth productivity +16%, planning platform and crane health sensing."
   }
  ],
  "evidence": [

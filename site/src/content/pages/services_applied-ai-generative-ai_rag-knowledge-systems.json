@@ -9,12 +9,12 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Retrieval that cites or refuses: permission-aware RAG over your regulated document estate, where every answer carries its sources, its freshness and its permission lineage — and where the corpus contracts that make that possible are built first, not last."
+   "x": "Retrieval that cites or refuses: permission-aware RAG over your regulated document estate, where every answer carries its sources, its freshness and its permission lineage, and where the corpus contracts that make that possible are built first, not last."
   },
   {
    "t": "h2",
    "x": "Why corpus engineering decides the answer quality",
-   "sub": "Canonical registry, dedup and ownership — the unglamorous work behind every good answer"
+   "sub": "Canonical registry, dedup and ownership, the unglamorous work behind every good answer"
   },
   {
    "t": "p",
@@ -317,7 +317,7 @@
   },
   {
    "t": "p",
-   "x": "Follow one question through the pipeline: rewrite, permission-filtered retrieval, grounding assembly, guarded generation, citation check — and what happens when any stage fails."
+   "x": "Follow one question through the pipeline: rewrite, permission-filtered retrieval, grounding assembly, guarded generation, citation check, and what happens when any stage fails."
   },
   {
    "t": "diagram",
@@ -1231,7 +1231,7 @@
     [
      "Orchestration",
      "LangGraph-class stateful runtime with typed state",
-     "Plain service code when the flow is a straight line — no framework tax"
+     "Plain service code when the flow is a straight line, no framework tax"
     ],
     [
      "Citations",
@@ -1329,7 +1329,7 @@
     ],
     [
      "Weeks 3–4 — spine build",
-     "Connectors, canonical registry, hybrid index, permission map — all behind contracts"
+     "Connectors, canonical registry, hybrid index, permission map, all behind contracts"
     ],
     [
      "Weeks 5–6 — answer services",
@@ -1352,7 +1352,7 @@
   {
    "t": "h2",
    "x": "Where this service plugs into your estate",
-   "sub": "SharePoint to data lakes — the honest source list"
+   "sub": "SharePoint to data lakes, the honest source list"
   },
   {
    "t": "p",
@@ -1415,22 +1415,22 @@
   },
   {
    "t": "note",
-   "x": "Permission fidelity probes run continuously in staging and nightly in production shadows — any synthetic principal reading denied content pages security before a user could ever see it."
+   "x": "Permission fidelity probes run continuously in staging and nightly in production shadows, any synthetic principal reading denied content pages security before a user could ever see it."
   },
   {
    "t": "h2",
    "x": "Permission fidelity is the hard part",
-   "sub": "ACL folding, corpus hygiene and the freshness contract — the three disciplines that decide enterprise RAG",
+   "sub": "ACL folding, corpus hygiene and the freshness contract, the three disciplines that decide enterprise RAG",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Consumer RAG is a search problem; enterprise RAG is a permissions problem with search attached. The index must return only what the asker could have read — so ACLs fold into the retrieval layer at query time, denied documents never enter candidate sets, and permission fidelity is tested with adversarial probes (privileged questions from unprivileged accounts) on every release, not just at launch. The canonical registry is the corpus-hygiene discipline: one URI per fact, superseded versions marked, ownership named — because duplicate and stale content is what makes retrieval confidently wrong.",
+   "x": "Consumer RAG is a search problem; enterprise RAG is a permissions problem with search attached. The index must return only what the asker could have read, so ACLs fold into retrieval at query time, denied documents never enter candidate sets, and permission fidelity is tested with adversarial probes (privileged questions from unprivileged accounts) on every release, not just at launch. The canonical registry is the corpus-hygiene discipline: one URI per fact, superseded versions marked, ownership named, because duplicate and stale content is what makes retrieval confidently wrong.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The freshness contract closes the loop: every corpus carries a signed freshness SLA (how long a fact may serve before re-verification), the retrieval planner decomposes multi-hop questions rather than pretending one embedding finds them, and the eval suite is replayed on every index or prompt change. The operating console reads permission probes, freshness breaches and citation coverage as its headline numbers — those three decide whether the estate trusts the answers.",
+   "x": "The freshness contract closes the loop: every corpus carries a signed freshness SLA (how long a fact may serve before re-verification), the retrieval planner decomposes multi-hop questions rather than pretending one embedding finds them, and the eval suite is replayed on every index or prompt change. The operating console reads permission probes, freshness breaches and citation coverage as its headline numbers, those three decide whether the estate trusts the answers.",
    "phase3_deep": true
   },
   {
@@ -1464,7 +1464,7 @@
     ],
     [
      "What does the assistant do when the corpus does not contain the answer?",
-     "It refuses. Groundedness gates force a refusal when retrieval cannot support an answer with citations — a measured refusal is the correct output, and refusal rates are a console metric, not a failure to hide."
+     "It refuses. Groundedness gates force a refusal when retrieval cannot support an answer with citations, a measured refusal is the correct output, and refusal rates are a console metric, not a failure to hide."
     ],
     [
      "How do you keep answer quality from degrading as documents change?",
@@ -1472,17 +1472,17 @@
     ],
     [
      "Can this work with our existing document stores and ACLs?",
-     "Yes — the connector layer ingests from your stores with their ACLs intact; corpus engineering (dedup, staleness, canonical docs) is the first workstream because it decides answer quality before any model choice does."
+     "Yes, the connector layer ingests from your stores with their ACLs intact; corpus engineering (dedup, staleness, canonical docs) is the first workstream because it decides answer quality before any model choice does."
     ],
     [
      "What does our team own at handover?",
-     "The corpus pipeline, the eval suite, the console and the promotion gates. Your team can add a document family, re-run the suite and promote — we support the first two cycles, then step back."
+     "The corpus pipeline, the eval suite, the console and the promotion gates. Your team can add a document family, re-run the suite and promote, we support the first two cycles, then step back."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring your worst document estate — the duplicated portals, the stale wikis, the ACLs nobody trusts. The two-week diagnostic will tell you exactly what grounded answers would cost there, and which gates you would fail today."
+   "x": "Bring your worst document estate, the duplicated portals, the stale wikis, the ACLs nobody trusts. The two-week diagnostic will tell you exactly what grounded answers would cost there, and which gates you would fail today."
   }
  ],
  "words": 1325,
@@ -1567,13 +1567,13 @@
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Same domain",
-   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers — baseline first, real data path, no demo-ware."
+   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers, baseline first, real data path, no demo-ware."
   },
   {
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Same domain",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "Enterprise AI Strategy & Roadmapping",
@@ -1591,19 +1591,19 @@
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Pairs with",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Pairs with",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "A European agri-cooperative (4,200 farms)",
    "url": "/case-studies/agr-01/",
    "tag": "Evidence",
-   "desc": "Input cost per hectare down 14% — precision agronomy at cooperative scale."
+   "desc": "Input cost per hectare down 14%, precision agronomy at cooperative scale."
   }
  ],
  "evidence": [

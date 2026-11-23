@@ -1,112 +1,84 @@
 {
- "id": "PLT-swarm-ar",
- "title": "KYC Management System — Architecture & Trust",
+ "id": "PLT-kyc-ar",
+ "title": "KYC Management System — Architecture & Security",
  "url": "/platforms/kyc/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > KYC Management System > Architecture & Trust",
- "seo_title": "KYC Management System — Architecture & Trust | Achala IT Solutions",
- "meta_description": "Architecture, security posture and compliance evidence for KYC Management System — Agentic AI Orchestration Platform from Achala IT Solutions.",
+ "breadcrumb": "Platforms > KYC Management System > Architecture & Security",
+ "seo_title": "KYC Management System — Architecture & Security | Achala IT Solutions",
+ "meta_description": "Architecture and security posture of KYC Management System — document verification and face recognition with audit trails.",
  "blocks": [
   {
    "t": "hero",
-   "x": "KYC Management System's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+   "x": "How KYC Management System is built: controlled model serving, retention discipline and regulator-ready verification logs."
   },
   {
    "t": "h2",
-   "x": "How the capability takes shape"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Structurally KYC Management System is planes, not layers — workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
-  },
-  {
-   "t": "p",
-   "x": "In KYC Management System architecture, the working system, decomposed:"
+   "x": "The platform runs document and face models in a controlled serving environment; no applicant data trains shared models. Data retention follows your jurisdiction's rules, and reviewer actions are logged end to end."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Fleet control tower",
-     "health, throughput, cost and policy telemetry"
+     "Controlled model serving",
+     "Verification models run inside your perimeter"
     ],
     [
-     "Role & queue engine",
-     "roles, bidding, priority lanes, SLA routing"
+     "No shared-data training",
+     "Applicant data is never used to train external models"
     ],
     [
-     "Policy engine",
-     "autonomy tiers routed to approvals"
+     "Retention rules",
+     "Documents and biometric data kept per policy, then purged"
     ],
     [
-     "Durable execution",
-     "saga patterns, compensation, idempotency"
-    ],
-    [
-     "Budget metering",
-     "per-team/role token and action chargeback"
-    ],
-    [
-     "Release machinery",
-     "shadow/canary cohorts with auto-rollback"
+     "Regulator-ready logs",
+     "Complete verification trails, exportable on demand"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Trust and controls"
+   "x": "Security and compliance"
   },
   {
    "t": "p",
-   "x": "Instrumented from week one, on your channels — KYC Management System edition:"
+   "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Scoped tool access",
-     "short-lived credentials per role"
+     "Controlled model serving",
+     "Verification models run inside your perimeter"
     ],
     [
-     "Immutable audit",
-     "every action replayable"
+     "No shared-data training",
+     "Applicant data is never used to train external models"
     ],
     [
-     "Kill switches",
-     "per-agent and per-fleet"
+     "Retention rules",
+     "Documents and biometric data kept per policy, then purged"
     ],
     [
-     "EU AI Act evidence",
-     "agentic-system documentation generated"
+     "Regulator-ready logs",
+     "Complete verification trails, exportable on demand"
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Standards and components"
-  },
-  {
-   "t": "p",
-   "x": "Runtime dependencies: Temporal, LangGraph, Kafka, OPA, Kubernetes, core/SaaS connectors. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
-  },
-  {
-   "t": "h2",
-   "x": "The cadence you would see"
-  },
-  {
-   "t": "p",
-   "x": "Deployment models for KYC Management System follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
   },
   {
    "t": "cta",
-   "x": "Bring KYC Management System architecture to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Book a briefing with the KYC team. We will map your onboarding flow and show where the 60% time saving comes from."
   }
  ],
- "words": 255,
+ "words": 247,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "KYC Management System",
- "l3": "Architecture & Trust",
+ "l3": "Architecture & Security",
  "l4": "",
  "crumbs": [
   {
@@ -118,45 +90,25 @@
    "url": null
   },
   {
-   "name": "Architecture & Trust",
+   "name": "Architecture & Security",
    "url": "/platforms/kyc/architecture/"
   }
  ],
  "related": [
   {
-   "title": "KYC Management System — Overview",
+   "title": "KYC Management System",
    "url": "/platforms/kyc/",
-   "desc": "Agentic AI Orchestration Platform"
+   "desc": "Document verification and face recognition that onboard customers in 5 minutes —"
   },
   {
-   "title": "KYC Management System — Architecture & Trust",
+   "title": "KYC Management System — Architecture & Security",
    "url": "/platforms/kyc/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "KYC Management System — Industry Use Cases",
    "url": "/platforms/kyc/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A multinational corporate bank",
-   "url": "/case-studies/bank-02/",
-   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A leading life insurer (North America)",
-   "url": "/case-studies/ins-02/",
-   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
-  },
-  {
-   "title": "A national health insurer",
-   "url": "/case-studies/hc-02/",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cold-chain assurance on IoT evidence — spoilage claims down 57% and pharma contracts won on data the customer can audit"
+   "x": "Cold-chain assurance on IoT evidence, spoilage claims down 57% and pharma contracts won on data the customer can audit"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a cold-chain provider whose temperature excursions were discovered at delivery and argued about for weeks after. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a cold-chain provider whose temperature excursions were discovered at delivery and argued about for weeks after. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We made the chain observable: real-time temperature and door telemetry per shipment with lane-level alerting, excursion predictions surfacing before thresholds breach, intervention playbooks dispatched to drivers with the evidence in hand, and the customer portal exposing the full chain — every reading, every action — under the pharma customers' own audit. Compliance became a feature we sell."
+   "x": "We made the chain observable: real-time temperature and door telemetry per shipment with lane-level alerting, excursion predictions surfacing before thresholds breach, intervention playbooks dispatched to drivers with the evidence in hand, and the customer portal exposing the full chain, every reading, every action, under the pharma customers' own audit. Compliance became a feature we sell."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The observable-chain pattern transfers to any cold or high-value logistics; the play design was this provider's quality system. Replication starts from its claims files — the diagnostic reads them because they say where the chain breaks."
+   "x": "The observable-chain pattern transfers to any cold or high-value logistics; the play design was this provider's quality system. Replication starts from its claims files, the diagnostic reads them because they say where the chain breaks."
   },
   {
    "t": "table",

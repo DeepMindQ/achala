@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Health Insurance & Benefits is how Prior authorization and Claims coding integrity stop leaning on manual work — both decide the margin. The build: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "Data & Lakehouse in Health Insurance & Benefits is how Prior authorization and Claims coding integrity stop leaning on manual work, both decide the margin. The build: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "p",
-   "x": "First, the ground Data & Lakehouse work stands on in Health Insurance & Benefits: Health payers sit between clinical reality and administrative machinery: prior authorization, coding integrity, quality programs and member experience all hinge on reading clinical evidence quickly and acting on it consistently — at HIPAA-grade privacy."
+   "x": "First, the ground Data & Lakehouse work stands on in Health Insurance & Benefits: Health payers sit between clinical reality and administrative machinery: prior authorization, coding integrity, quality programs and member experience all hinge on reading clinical evidence quickly and acting on it consistently, at HIPAA-grade privacy."
   },
   {
    "t": "p",
-   "x": "PHI estate target value is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "PHI estate target value is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Health Insurance & Benefits, the pattern is claims-clinical reconciliation — codes + narratives unified for coding integrity and quality reporting. Audit evidence complete sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "In Health Insurance & Benefits, the pattern is claims-clinical reconciliation, codes + narratives unified for coding integrity and quality reporting. Audit evidence complete sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for PHI estate target value is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Claims-clinical reconciliation, bounded to one path, running on your estate. In Health Insurance & Benefits programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Delivery opens with measurement: the baseline for PHI estate target value is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Claims-clinical reconciliation, bounded to one path, running on your estate. In Health Insurance & Benefits programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",

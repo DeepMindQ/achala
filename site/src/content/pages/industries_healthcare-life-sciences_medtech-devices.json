@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product — and EU MDR/CRA raise its bar. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product, and EU MDR/CRA raise its bar. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -327,13 +327,13 @@
    "title": "Applied AI & GenAI for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Medical Devices & MedTech",
@@ -345,13 +345,13 @@
    "title": "Cloud, Edge & Platform for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "IoT, Twin & Robotics for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Pharmaceuticals & Biotech, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Pharmaceuticals & Biotech, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 386,
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Pharmaceuticals & Biotech",
    "url": "/industries/healthcare-life-sciences/pharma-biotech/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Pharmaceuticals & Biotech",
    "url": "/industries/healthcare-life-sciences/pharma-biotech/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Pharmaceuticals & Biotech",
    "url": "/industries/healthcare-life-sciences/pharma-biotech/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Pharmaceuticals & Biotech",
@@ -351,7 +351,7 @@
    "title": "Quantum & Advanced Compute for Pharmaceuticals & Biotech",
    "url": "/industries/healthcare-life-sciences/pharma-biotech/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

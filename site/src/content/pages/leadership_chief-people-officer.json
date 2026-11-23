@@ -41,7 +41,7 @@
   },
   {
    "t": "p",
-   "x": "This office works with clients the way every Achala delivery works: named teams, signed baselines, gates with evidence — with regional time zones covered by the pod, not by heroics."
+   "x": "This office works with clients the way every Achala delivery works: named teams, signed baselines, gates with evidence, with regional time zones covered by the pod, not by heroics."
   },
   {
    "t": "h2",
@@ -60,21 +60,21 @@
    "items": [
     [
      "Talent system",
-     "Progress on Talent system is measured in your environment, on your data — the method note ships with the number so your analysts can reproduce it."
+     "Progress on Talent system is measured in your environment, on your data, the method note ships with the number so your analysts can reproduce it."
     ],
     [
      "Guilds",
-     "The commitment on Guilds is written into the engagement charter — scope, owner and the measurement method agreed before delivery begins."
+     "The commitment on Guilds is written into the engagement charter, scope, owner and the measurement method agreed before delivery begins."
     ],
     [
      "Skills ladder",
-     "Progress on Skills ladder is measured in your environment, on your data — the method note ships with the number so your analysts can reproduce it."
+     "Progress on Skills ladder is measured in your environment, on your data, the method note ships with the number so your analysts can reproduce it."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Reach out directly — the profile lists the practice areas and the briefing calendar; responses come from the person, not a pipeline."
+   "x": "Reach out directly, the profile lists the practice areas and the briefing calendar; responses come from the person, not a pipeline."
   }
  ],
  "crumbs": [

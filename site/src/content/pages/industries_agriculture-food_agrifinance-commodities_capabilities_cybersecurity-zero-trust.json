@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust responds where AgriFinance & Commodity Markets hurts most: yield risk models crude lands near the top of every operator list. The structured response: security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Cyber & Zero-Trust responds where AgriFinance & Commodity Markets hurts most: yield risk models crude lands near the top of every operator list. The structured response: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In AgriFinance & Commodity Markets, the pattern is fraud analytics — subsidy/claim verification scoring. Capture up sits on top as the measured result, tracked from the signed baseline onward. Around it, security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "In AgriFinance & Commodity Markets, the pattern is fraud analytics, subsidy/claim verification scoring. Capture up sits on top as the measured result, tracked from the signed baseline onward. Around it, security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. yield risk models crude gets a number, an owner and a signature; the quarter belongs to a bounded slice — Fraud analytics — live on your estate. In AgriFinance & Commodity Markets programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The first two weeks belong to the baseline. yield risk models crude gets a number, an owner and a signature; the quarter belongs to a bounded slice, Fraud analytics, live on your estate. In AgriFinance & Commodity Markets programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cyber & Zero-Trust side of AgriFinance & Commodity Markets, the binding duties are concrete — Financial regulation (lending) (scoring governance); Insurance regulation (parametric duties); EUDR (trading) (commodity evidence). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cyber & Zero-Trust side of AgriFinance & Commodity Markets, the binding duties are concrete, Financial regulation (lending) (scoring governance); Insurance regulation (parametric duties); EUDR (trading) (commodity evidence). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cyber & Zero-Trust for AgriFinance & Commodity Markets, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cyber & Zero-Trust for AgriFinance & Commodity Markets, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 419,

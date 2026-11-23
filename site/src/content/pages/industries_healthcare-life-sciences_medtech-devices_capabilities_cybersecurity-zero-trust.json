@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "The Cyber & Zero-Trust ground truth in Medical Devices & MedTech: MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product — and EU MDR/CRA raise its bar."
+   "x": "The Cyber & Zero-Trust ground truth in Medical Devices & MedTech: MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product, and EU MDR/CRA raise its bar."
   },
   {
    "t": "p",
-   "x": "Point fixes for device fleets unconnected — a script here, a spreadsheet there — have usually been tried in Medical Devices & MedTech. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for device fleets unconnected, a script here, a spreadsheet there, have usually been tried in Medical Devices & MedTech. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Medical Devices & MedTech, the pattern is device security program — SBOMs, signed firmware and vulnerability SLAs. Cra/mdr duties evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Medical Devices & MedTech, the pattern is device security program, SBOMs, signed firmware and vulnerability SLAs. Cra/mdr duties evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for device fleets unconnected is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Device security program, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Medical Devices & MedTech, that discipline is not optional — it is the engagement model."
+   "x": "Delivery opens with measurement: the baseline for device fleets unconnected is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Device security program, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Medical Devices & MedTech, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Medical Devices & MedTech: EU MDR — vigilance, post-market surveillance duties; EU Cyber Resilience Act — product security duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Medical Devices & MedTech: EU MDR, vigilance, post-market surveillance duties; EU Cyber Resilience Act, product security duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring operations in Power Generation & Grid to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring operations in Power Generation & Grid to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 351,
@@ -327,13 +327,13 @@
    "title": "Agentic AI & Hyperautomation for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Power Generation & Grid",
@@ -345,13 +345,13 @@
    "title": "Quantum & Advanced Compute for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "IoT, Twin & Robotics for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

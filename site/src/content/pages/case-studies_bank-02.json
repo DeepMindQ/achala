@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
+   "x": "KYC refresh backlog cleared, 70% faster cycles with agentic file assembly"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A multinational corporate bank — a Banking & Financial Services engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A multinational corporate bank, a Banking & Financial Services engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "KYC Management System agents now assemble each review file — registries, screening, financials, relationship notes — under a policy envelope that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is written as the work happens, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
+   "x": "KYC Management System agents now assemble each review file, registries, screening, financials, relationship notes, under a defined policy limit that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is written as the work happens, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
   },
   {
    "t": "arch",
@@ -213,7 +213,7 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",
@@ -254,7 +254,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the same diagnostic in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the same diagnostic in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 342,

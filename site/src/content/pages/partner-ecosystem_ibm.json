@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "IBM in one line: Hybrid infrastructure, watsonx AI and mainframe-era modernization. The alliance is delivery-grade, not logo-grade — joint reference architectures, certified engineers on both sides, and escalation paths that reach the vendor's own platform team when it matters."
+   "x": "IBM in one line: Hybrid infrastructure, watsonx AI and mainframe-era modernization. The alliance is delivery-grade, not logo-grade, joint reference architectures, certified engineers on both sides, and escalation paths that reach the vendor's own platform team when it matters."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "watsonx AI platforms under evaluation governance",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Mainframe transaction modernization via governed API layers",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Hybrid infrastructure programs across z/OS, Power and Linux",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Quantum-readiness programs paired with the Quanta practice",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },
@@ -66,7 +66,7 @@
   },
   {
    "t": "p",
-   "x": "Joint delivery on IBM Alliance is designed for handover from the first week — runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
+   "x": "Joint delivery on IBM Alliance is designed for handover from the first week, runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
   }
  ],
  "crumbs": [

@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Higher Education & Universities lives inside Student success/advising, Research computing and Accreditation evidence — paths that all carry decisions now. The work: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Higher Education & Universities."
+   "x": "Data & Lakehouse in Higher Education & Universities lives inside Student success/advising, Research computing and Accreditation evidence, paths that all carry decisions now. The work: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Higher Education & Universities."
   },
   {
    "t": "p",
-   "x": "Setting the Data & Lakehouse scene in Higher Education & Universities: Universities balance teaching quality, research output and financial sustainability: student-success analytics, research computing, administrative automation and campus economics. The constraint is governance — faculty senate, ethics boards and student privacy all bind."
+   "x": "Setting the Data & Lakehouse scene in Higher Education & Universities: Universities balance teaching quality, research output and financial sustainability: student-success analytics, research computing, administrative automation and campus economics. The constraint is governance, faculty senate, ethics boards and student privacy all bind."
   },
   {
    "t": "p",
-   "x": "Research IP targeted is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Research IP targeted is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Higher Education & Universities, the pattern is student success platform — SIS/LMS/support unified with outcome lineage. Interventions earlier sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Higher Education & Universities."
+   "x": "In Higher Education & Universities, the pattern is student success platform, SIS/LMS/support unified with outcome lineage. Interventions earlier sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Higher Education & Universities."
   },
   {
    "t": "arch",
@@ -197,11 +197,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. research IP targeted gets a number, an owner and a signature; the quarter belongs to a bounded slice — Student success platform — live on your estate. In Higher Education & Universities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The first two weeks belong to the baseline. research IP targeted gets a number, an owner and a signature; the quarter belongs to a bounded slice, Student success platform, live on your estate. In Higher Education & Universities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Higher Education & Universities: FERPA/GDPR-class — student records duties; Research ethics (IRB) — data governance. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Higher Education & Universities: FERPA/GDPR-class, student records duties; Research ethics (IRB), data governance. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -247,7 +247,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Data & Lakehouse for Higher Education & Universities in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Data & Lakehouse for Higher Education & Universities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 481,

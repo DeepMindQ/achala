@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Decision models wrapped in policy bounds, challenger benchmarks and explainable outputs: decisions a regulator can read, a panel can challenge, and a board can defend — with defer-to-human paths that are designed, not improvised."
+   "x": "Decision models wrapped in policy bounds, challenger benchmarks and explainable outputs: decisions a regulator can read, a panel can challenge, and a board can defend, with defer-to-human paths that are designed, not improvised."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Decision intelligence is where analytics stops advising and starts acting: credit lines, fraud holds, service credits, triage priorities. That step from report to action is governed differently — the decision needs a policy envelope, a challenger, an explanation shape and an appeal path before it earns the right to act."
+   "x": "Decision intelligence is where analytics stops advising and starts acting: credit lines, fraud holds, service credits, triage priorities. That step from report to action is governed differently, the decision needs a defined policy limit, a challenger, an explanation shape and an appeal path before it earns the right to act."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these survives a demo and dies in a supervisory review — the countermeasures are the difference between a score and a decision."
+   "x": "Each of these survives a demo and dies in a supervisory review, the countermeasures are the difference between a score and a decision."
   },
   {
    "t": "table",
@@ -71,7 +71,7 @@
   {
    "t": "h2",
    "x": "Challenger panels around every decision — one governed service",
-   "sub": "Champion, challenger, policy envelope and explanation layer as one governed service"
+   "sub": "Champion, challenger, defined policy limit and explanation layer as one governed service"
   },
   {
    "t": "p",
@@ -308,7 +308,7 @@
   },
   {
    "t": "p",
-   "x": "From feature assembly through primary and challenger scoring, agreement gating, reason-code generation and the defer-to-human path — including what happens when the panel disagrees."
+   "x": "From feature assembly through primary and challenger scoring, agreement gating, reason-code generation and the defer-to-human path, including what happens when the panel disagrees."
   },
   {
    "t": "diagram",
@@ -332,7 +332,7 @@
   },
   {
    "t": "p",
-   "x": "Panel agreement, disparate impact, reason-code coverage and deferral quality — four numbers that decide whether the model earns more autonomy or a mandatory human review."
+   "x": "Panel agreement, disparate impact, reason-code coverage and deferral quality, four numbers that decide whether the model earns more autonomy or a mandatory human review."
   },
   {
    "t": "idash",
@@ -672,7 +672,7 @@
   },
   {
    "t": "p",
-   "x": "Benchmarks across quarterly suites: model agreement with the expert panel, and the disagreement cases where the model was later shown right — the evidence that earns autonomy step by step."
+   "x": "Benchmarks across quarterly suites: model agreement with the expert panel, and the disagreement cases where the model was later shown right, the evidence that earns autonomy step by step."
   },
   {
    "t": "chart",
@@ -1235,22 +1235,22 @@
     [
      "Challengers",
      "Two permanent challengers scored silently on live traffic",
-     "Offline-only benchmarking — it misses population drift"
+     "Offline-only benchmarking, it misses population drift"
     ],
     [
      "Explanations",
      "Reason-code taxonomy bound to policy language",
-     "Raw SHAP dumps as customer-facing explanations — unusable"
+     "Raw SHAP dumps as customer-facing explanations, unusable"
     ],
     [
      "Fairness",
      "Disparate-impact and equal-opportunity tests per release",
-     "One-time fairness audit — drift makes it stale in months"
+     "One-time fairness audit, drift makes it stale in months"
     ],
     [
      "Ledger",
      "Immutable decision rows with envelope version",
-     "Logging only outcomes — inputs are what audits need"
+     "Logging only outcomes, inputs are what audits need"
     ]
    ]
   },
@@ -1332,7 +1332,7 @@
   {
    "t": "h2",
    "x": "Envelope first, autonomy last — the wrap sequence",
-   "sub": "The build sequence around the model — envelope first, autonomy last"
+   "sub": "The build sequence around the model, envelope first, autonomy last"
   },
   {
    "t": "bullets",
@@ -1404,7 +1404,7 @@
   },
   {
    "t": "p",
-   "x": "Disparate-impact monitors, reason-code audits and deferral-quality reviews run on schedules — the model's social license is maintained as operational discipline, not annual paperwork."
+   "x": "Disparate-impact monitors, reason-code audits and deferral-quality reviews run on schedules, the model's social license is maintained as operational discipline, not annual paperwork."
   },
   {
    "t": "bullets",
@@ -1439,12 +1439,12 @@
   },
   {
    "t": "p",
-   "x": "Every production decision is scored twice: the champion decides, the challenger disagrees silently. The disagreement rate is the most honest model-health metric available — it detects population drift months before accuracy metrics move, because challengers built on different features or different vintages fail in different places. Disagreement above threshold forces a review of the affected stratum before the next release, and the review is quantitative: which strata, which feature regime, which direction. This is the discipline that turns model risk management from an annual document into a weekly measurement.",
+   "x": "Every production decision is scored twice: the champion decides, the challenger disagrees silently. The disagreement rate is the most honest model-health metric available, it detects population drift months before accuracy metrics move, because challengers built on different features or different vintages fail in different places. Disagreement above threshold forces a review of the affected stratum before the next release, and the review is quantitative: which strata, which feature regime, which direction. This is the discipline that turns model risk management from an annual document into a weekly measurement.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The policy envelope is the second half of the defense. The champion only acts inside bounds signed by the risk owner — exposure ceilings, eligibility overlays, mandatory referral classes — and the explanation layer emits reason codes on every output, not on the samples an auditor requests. Reason-code coverage is therefore 100% by construction, and the appeal path routes to a named reviewer with the decision's full context, which is what a supervisory examination actually asks to see.",
+   "x": "The defined policy limit is the second half of the defense. The champion only acts inside bounds signed by the risk owner, exposure ceilings, eligibility overlays, mandatory referral classes, and the explanation layer emits reason codes on every output, not on the samples an auditor requests. Reason-code coverage is therefore 100% by construction, and the appeal path routes to a named reviewer with the decision's full context, which is what a supervisory examination actually asks to see.",
    "phase3_deep": true
   },
   {
@@ -1460,7 +1460,7 @@
     ],
     [
      "Reason codes by construction",
-     "Coverage is structural, not sampled — examinable line by line."
+     "Coverage is structural, not sampled, examinable line by line."
     ],
     [
      "Named-reviewer appeals",
@@ -1478,25 +1478,25 @@
     ],
     [
      "What happens when the challenger and champion disagree?",
-     "Disagreement beyond signed tolerance routes the case to human review and triggers a calibration review. The disagreement ledger is itself a monitored asset — chronic dissent names the weaker model."
+     "Disagreement beyond signed tolerance routes the case to human review and triggers a calibration review. The disagreement ledger is itself a monitored asset, chronic dissent names the weaker model."
     ],
     [
      "Can you work within our existing model-risk framework?",
-     "Yes. The gates map to model-risk examination expectations — inventory, validation, monitoring, controls — and the evidence pack is produced in your framework’s vocabulary, ready for the examination file."
+     "Yes. The gates map to model-risk examination expectations, inventory, validation, monitoring, controls, and the evidence pack is produced in your framework’s vocabulary, ready for the examination file."
     ],
     [
      "How is fairness actually monitored, not just claimed?",
-     "Disparate-impact metrics run per protected class against signed tolerances. Drift beyond tolerance is a gate breach that blocks autonomy expansion — not a dashboard color."
+     "Disparate-impact metrics run per protected class against signed tolerances. Drift beyond tolerance is a gate breach that blocks autonomy expansion, not a dashboard color."
     ],
     [
      "Do you replace our models or wrap them?",
-     "We wrap first: policy envelope, challenger panel and explanation layer around your current model. Replacement happens only where the benchmark ledger shows a challenger earning it, quarter by quarter."
+     "We wrap first: defined policy limit, challenger panel and explanation layer around your current model. Replacement happens only where the benchmark ledger shows a challenger earning it, quarter by quarter."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the decision your regulator keeps asking about. The diagnostic will show where the challenger panel, reason codes and deferral design would sit — and what evidence you could produce tomorrow."
+   "x": "Bring the decision your regulator keeps asking about. The diagnostic will show where the challenger panel, reason codes and deferral design would sit, and what evidence you could produce tomorrow."
   }
  ],
  "words": 1081,
@@ -1581,43 +1581,43 @@
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Same domain",
-   "desc": "the contracted seams — ERP, CRM, ITSM, comms and queues — with typed contracts, replayable failures and monitors that catch drift before business users do."
+   "desc": "the contracted seams, ERP, CRM, ITSM, comms and queues, with typed contracts, replayable failures and monitors that catch drift before business users do."
   },
   {
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Same domain",
-   "desc": "extraction and adjudication inside the process — documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
+   "desc": "extraction and adjudication inside the process, documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
   },
   {
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Same domain",
-   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline — conformance-checked, variant-ranked and ROI-priced before anything is built."
+   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline, conformance-checked, variant-ranked and ROI-priced before anything is built."
   },
   {
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Pairs with",
-   "desc": "one governed door for every model call — authz, budgets, caching, guardrails and traces — so fifty use cases stay operable and affordable."
+   "desc": "one governed door for every model call, authz, budgets, caching, guardrails and traces, so fifty use cases stay operable and affordable."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Pairs with",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Pairs with",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "A European TSO-DSO group",
    "url": "/case-studies/en-01/",
    "tag": "Evidence",
-   "desc": "Forecast error down 31% — imbalance cost recovered across three control zones."
+   "desc": "Forecast error down 31%, imbalance cost recovered across three control zones."
   }
  ],
  "evidence": [

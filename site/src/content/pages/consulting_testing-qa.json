@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Testing & Quality Engineering: Quality engineered in — measurable coverage, honest gate criteria, fewer escapes. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Testing & Quality Engineering: Quality engineered in, measurable coverage, honest gate criteria, fewer escapes. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "For AI systems, testing extends beyond deterministic checks: evaluation sets with human-labeled ground truth, adversarial suites, drift monitors and bias probes become part of the same gate machinery. The output is a quality signal leadership can read — escape rate, coverage of risk, time-to-feedback — rather than a pass percentage nobody trusts."
+   "x": "For AI systems, testing extends beyond deterministic checks: evaluation sets with human-labeled ground truth, adversarial suites, drift monitors and bias probes become part of the same gate machinery. The output is a quality signal leadership can read, escape rate, coverage of risk, time-to-feedback, rather than a pass percentage nobody trusts."
   },
   {
    "t": "h2",
@@ -195,7 +195,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a Testing & Quality Engineering briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Testing & Quality Engineering briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 357,

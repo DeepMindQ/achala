@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "City and utility scale, same disciplines: segmented SCADA-safe architectures where IT/OT blur is designed out, service-continuity SLOs for water and energy, public data exposure governed, and vendor islands integrated into one operating picture — continuity measured, not claimed."
+   "x": "City and utility scale, same disciplines: segmented SCADA-safe architectures where IT/OT blur is designed out, service-continuity SLOs for water and energy, public data exposure governed, and vendor islands integrated into one operating picture, continuity measured, not claimed."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Smart infrastructure is IoT at civic scale: water networks, district energy, traffic, public buildings. The stakes shift — service continuity is a public duty, SCADA safety is non-negotiable, and public data carries privacy expectations that private fleets never meet. The engineering keeps the domain's disciplines and adds segmentation: IT/OT boundaries that are real, monitored and drill-tested."
+   "x": "Smart infrastructure is IoT at civic scale: water networks, district energy, traffic, public buildings. The stakes shift, service continuity is a public duty, SCADA safety is non-negotiable, and public data carries privacy expectations that private fleets never meet. The engineering keeps the domain's disciplines and adds segmentation: IT/OT boundaries that are real, monitored and drill-tested."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these turns a modernization into a headline — the countermeasures segment the estate, sign continuity SLOs and govern what the public can see."
+   "x": "Each of these turns a modernization into a headline, the countermeasures segment the estate, sign continuity SLOs and govern what the public can see."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "IT and OT are segmented by design with controlled crossings, service continuity carries signed SLOs per utility, public-facing data passes through a governed exposure layer, and vendor islands integrate through normalization contracts — so the operating picture is one, and the failures stay small."
+   "x": "IT and OT are segmented by design with controlled crossings, service continuity carries signed SLOs per utility, public-facing data passes through a governed exposure layer, and vendor islands integrate through normalization contracts, so the operating picture is one, and the failures stay small."
   },
   {
    "t": "arch",
@@ -300,7 +300,7 @@
   },
   {
    "t": "p",
-   "x": "From an IT-side request through the segmented crossing, OT-side enforcement and the response — including the unidirectional paths and the anomaly monitoring that watches the boundary."
+   "x": "From an IT-side request through the segmented crossing, OT-side enforcement and the response, including the unidirectional paths and the anomaly monitoring that watches the boundary."
   },
   {
    "t": "diagram",
@@ -324,7 +324,7 @@
   },
   {
    "t": "p",
-   "x": "Water and energy continuity SLOs and boundary anomalies — the three numbers the utility board reads, because continuity is the product the public buys."
+   "x": "Water and energy continuity SLOs and boundary anomalies, the three numbers the utility board reads, because continuity is the product the public buys."
   },
   {
    "t": "idash",
@@ -648,7 +648,7 @@
   },
   {
    "t": "p",
-   "x": "Continuity per service and quarter — the shape that shows where modernization helped, where vendor islands still limit visibility and which continuity SLOs are honestly held."
+   "x": "Continuity per service and quarter, the shape that shows where modernization helped, where vendor islands still limit visibility and which continuity SLOs are honestly held."
   },
   {
    "t": "chart",
@@ -1163,27 +1163,27 @@
     [
      "Segmentation",
      "Zones with monitored crossings",
-     "Flat networks with a firewall — the audit fails there"
+     "Flat networks with a firewall, the audit fails there"
     ],
     [
      "Continuity",
      "Safe-mode designs with drills",
-     "Optimization-dependency — analytics outages become civic outages"
+     "Optimization-dependency, analytics outages become civic outages"
     ],
     [
      "Privacy",
      "Aggregation-first public data",
-     "Raw feeds to portals — identification risks"
+     "Raw feeds to portals, identification risks"
     ],
     [
      "Federation",
      "Open schemas across utility silos",
-     "Vendor-island stacks — integration is forever"
+     "Vendor-island stacks, integration is forever"
     ],
     [
      "Analytics",
      "Proposal-only toward OT",
-     "Direct control writes — the boundary is a lie"
+     "Direct control writes, the boundary is a lie"
     ]
    ]
   },
@@ -1337,7 +1337,7 @@
   },
   {
    "t": "p",
-   "x": "Public-facing data is governed by an exposure review: every dataset is classified for sensitivity, aggregated where needed and rate-limited — openness by design, not by accident."
+   "x": "Public-facing data is governed by an exposure review: every dataset is classified for sensitivity, aggregated where needed and rate-limited, openness by design, not by accident."
   },
   {
    "t": "bullets",
@@ -1367,17 +1367,17 @@
   {
    "t": "h2",
    "x": "Public infrastructure fails publicly",
-   "sub": "Segmented OT, brokered crossings and fail-safe defaults — the architecture for infrastructure that cannot hide its outages",
+   "sub": "Segmented OT, brokered crossings and fail-safe defaults, the architecture for infrastructure that cannot hide its outages",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Infrastructure programs fail differently from factories: the failure is public, the stakeholders are citizens, and the outage makes the news before it makes the incident review. The architecture assumes it — OT segmentation with SCADA on segregated, OT-grade infrastructure, SIL-rated safety systems that stay separate from everything digital, and controlled IT-OT crossings brokered through a monitored boundary rather than firewalled folklore. Fail-safe defaults are designed per service: when the analytics layer is unreachable, the crossing gates, signals and public interfaces degrade to their safe state by construction, not by runbook heroics.",
+   "x": "Infrastructure programs fail differently from factories: the failure is public, the stakeholders are citizens, and the outage makes the news before it makes the incident review. The architecture assumes it, OT segmentation with SCADA on segregated, OT-grade infrastructure, SIL-rated safety systems that stay separate from everything digital, and controlled IT-OT crossings brokered through a monitored boundary rather than firewalled folklore. Fail-safe defaults are designed per service: when the analytics layer is unreachable, the crossing gates, signals and public interfaces degrade to their safe state by construction, not by runbook heroics.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Continuity is measured as service SLOs per public service (crossings, pumps, signage, ticketing), the privacy engine anonymizes citizen sensing at the edge before data leaves the asset, and the console reads continuity and crossing posture. The release gate before cutover is a rehearsed degraded-mode drill — because the architecture is proven by what it does when the cloud layer is down, not by what it does when everything works.",
+   "x": "Continuity is measured as service SLOs per public service (crossings, pumps, signage, ticketing), the privacy engine anonymizes citizen sensing at the edge before data leaves the asset, and the console reads continuity and crossing posture. The release gate before cutover is a rehearsed degraded-mode drill, because the architecture is proven by what it does when the cloud layer is down, not by what it does when everything works.",
    "phase3_deep": true
   },
   {
@@ -1411,7 +1411,7 @@
     ],
     [
      "How is the IT/OT boundary protected?",
-     "The boundary is engineered and evidenced: one controlled crossing with protocol brokering and monitoring. The drill — one crossing, IT to OT and back, controlled — is the release evidence before any cutover."
+     "The boundary is engineered and evidenced: one controlled crossing with protocol brokering and monitoring. The drill, one crossing, IT to OT and back, controlled, is the release evidence before any cutover."
     ],
     [
      "How do you handle vendor islands and legacy SCADA?",
@@ -1419,11 +1419,11 @@
     ],
     [
      "What does a continuity SLO actually commit to?",
-     "A signed target per utility — water at 99.95%, traffic at 99.5% — measured, reported on the console, and backed by safe-mode behavior that keeps citizens safe when the SLO breaches."
+     "A signed target per utility, water at 99.95%, traffic at 99.5%, measured, reported on the console, and backed by safe-mode behavior that keeps citizens safe when the SLO breaches."
     ],
     [
      "What does utility operations inherit?",
-     "The stack, the console with continuity as the headline, the gates and the public-exposure overlay — operations runs infrastructure with the honesty of measured SLOs and drilled safe modes."
+     "The stack, the console with continuity as the headline, the gates and the public-exposure overlay, operations runs infrastructure with the honesty of measured SLOs and drilled safe modes."
     ]
    ]
   },
@@ -1514,43 +1514,43 @@
    "title": "Computer Vision & Edge AI",
    "url": "/services/iot-digital-twin-robotics/computer-vision-edge-ai/",
    "tag": "Same domain",
-   "desc": "inference at the edge with model ops — constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
+   "desc": "inference at the edge with model ops, constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
   },
   {
    "title": "Connected Products & Smart Devices",
    "url": "/services/iot-digital-twin-robotics/connected-products-devices/",
    "tag": "Same domain",
-   "desc": "product fleets in the field — OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
+   "desc": "product fleets in the field, OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
   },
   {
    "title": "Digital Twin Platform Engineering",
    "url": "/services/iot-digital-twin-robotics/digital-twin-platforms/",
    "tag": "Same domain",
-   "desc": "twins that stay honest — state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
+   "desc": "twins that stay honest, state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Pairs with",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Pairs with",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Pairs with",
-   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit — orchestration that survives partial failure as a normal event."
+   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit, orchestration that survives partial failure as a normal event."
   },
   {
    "title": "A construction-equipment manufacturer",
    "url": "/case-studies/mfg-03/",
    "tag": "Evidence",
-   "desc": "Connected machines to connected margin — service revenue attach up 3x."
+   "desc": "Connected machines to connected margin, service revenue attach up 3x."
   }
  ],
  "evidence": [

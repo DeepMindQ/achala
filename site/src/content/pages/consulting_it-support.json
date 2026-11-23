@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IT Support & End-User Services: Support that measures resolution, not tickets closed. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "IT Support & End-User Services: Support that measures resolution, not tickets closed. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Support metrics that count tickets hide the truth. We run end-user services against outcomes: time-to-resolution by business impact, first-contact quality, and the avoidance curve — how many tickets never happen because the underlying cause was engineered out. Knowledge is managed as a product, with articles tested against real incidents and retired when they stop earning their place."
+   "x": "Support metrics that count tickets hide the truth. We run end-user services against outcomes: time-to-resolution by business impact, first-contact quality, and the avoidance curve, how many tickets never happen because the underlying cause was engineered out. Knowledge is managed as a product, with articles tested against real incidents and retired when they stop earning their place."
   },
   {
    "t": "p",
@@ -195,11 +195,11 @@
   },
   {
    "t": "p",
-   "x": "IT Support & End-User Services — the concrete version, minus the adjectives:"
+   "x": "IT Support & End-User Services, the concrete version, minus the adjectives:"
   },
   {
    "t": "cta",
-   "x": "Book a IT Support & End-User Services briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a IT Support & End-User Services briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 332,

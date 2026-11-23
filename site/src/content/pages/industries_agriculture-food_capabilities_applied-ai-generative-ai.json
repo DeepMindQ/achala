@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Agriculture & Food Systems; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Regulation sets the floor in Agriculture & Food Systems; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Agriculture & Food Systems: yield and quality prediction — satellite+sensor+agronomy models per field with uncertainty bands. Harvest and trading decisions informed early is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Agriculture & Food Systems: yield and quality prediction, satellite+sensor+agronomy models per field with uncertainty bands. Harvest and trading decisions informed early is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "bullets",
@@ -59,11 +59,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. yield and quality surprises is measured with your finance and risk leads in the room, then one working path — yield and quality prediction — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. yield and quality surprises is measured with your finance and risk leads in the room, then one working path, yield and quality prediction, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -108,19 +108,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -208,25 +208,25 @@
    "title": "Applied AI & GenAI for Precision Agriculture & Agronomy",
    "url": "/industries/agriculture-food/precision-agriculture/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Agri-Food Processing",
    "url": "/industries/agriculture-food/agrifood-processing/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Technology & SaaS: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Two clocks run in Technology & SaaS: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "Programs in Technology & SaaS converge on the same first move: ai feature factory — eval suite, guardrails and cost telemetry wired into the product release train. Ai features ship weekly with protected margin is the measured outcome the gate checks."
+   "x": "Programs in Technology & SaaS converge on the same first move: ai feature factory, eval suite, guardrails and cost telemetry wired into the product release train. Ai features ship weekly with protected margin is the measured outcome the gate checks."
   },
   {
    "t": "arch",
@@ -175,11 +175,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. AI features ship without economics gets a number, an owner and a signature; the quarter belongs to a bounded slice — ai feature factory — live on your estate. In Technology & SaaS programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The first two weeks belong to the baseline. AI features ship without economics gets a number, an owner and a signature; the quarter belongs to a bounded slice, ai feature factory, live on your estate. In Technology & SaaS programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -224,19 +224,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -324,19 +324,19 @@
    "title": "Applied AI & GenAI for SaaS & Platform Companies",
    "url": "/industries/technology-saas/saas-platforms/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for FinTech & Digital Natives",
    "url": "/industries/technology-saas/fintech-digital-natives/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Gaming & Interactive Media",
    "url": "/industries/technology-saas/gaming-interactive/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

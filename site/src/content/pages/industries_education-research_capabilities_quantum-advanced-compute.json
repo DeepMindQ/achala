@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what research frontier advantage costs Education & Research firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay — routing, scheduling, allocation — we deploy them; where they do not, we say so in writing."
+   "x": "Ask what research frontier advantage costs Education & Research firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing."
   },
   {
    "t": "p",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. research frontier advantage is measured with your finance and risk leads in the room, then one working path — quantum curriculum on-ramp — goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Nothing scales before the baseline is signed. research frontier advantage is measured with your finance and risk leads in the room, then one working path, quantum curriculum on-ramp, goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The Quantum & Advanced Compute control frame for Education & Research: FERPA / student-privacy regimes (educational-record duties incl. vendor contracts); GDPR-K / minors' data rules ( heightened consent and profiling limits for K-12); Accessibility mandates (ADA/EN 301 549) (digital learning materials must comply). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Quantum & Advanced Compute control frame for Education & Research: FERPA / student-privacy regimes (educational-record duties incl. vendor contracts); GDPR-K / minors' data rules ( heightened consent and profiling limits for K-12); Accessibility mandates (ADA/EN 301 549) (digital learning materials must comply). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },

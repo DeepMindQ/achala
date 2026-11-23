@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack — now with agentic planning on top. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack, now with agentic planning on top. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -234,7 +234,7 @@
   },
   {
    "t": "p",
-   "x": "Iec 62443 / isa s84 — OT security and SIS integrity. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
+   "x": "Iec 62443 / isa s84, OT security and SIS integrity. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
   },
   {
    "t": "table",
@@ -337,13 +337,13 @@
    "title": "Applied AI & GenAI for Process Industries & Chemicals",
    "url": "/industries/manufacturing/process-chemicals/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for Process Industries & Chemicals",
    "url": "/industries/manufacturing/process-chemicals/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Process Industries & Chemicals",
@@ -355,13 +355,13 @@
    "title": "Quantum & Advanced Compute for Process Industries & Chemicals",
    "url": "/industries/manufacturing/process-chemicals/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "IoT, Twin & Robotics for Process Industries & Chemicals",
    "url": "/industries/manufacturing/process-chemicals/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

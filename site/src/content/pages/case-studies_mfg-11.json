@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Post-quantum readiness for connected machines — 100% crypto inventory across the connected fleet and a signed migration sequence for firmware and cloud"
+   "x": "Post-quantum readiness for connected machines, 100% crypto inventory across the connected fleet and a signed migration sequence for firmware and cloud"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a heavy-equipment manufacturer whose machines phone home for diagnostics and whose connected fleet would outlive every cryptographic assumption shipped with it. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a heavy-equipment manufacturer whose machines phone home for diagnostics and whose connected fleet would outlive every cryptographic assumption shipped with it. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "The inventory-as-code method and generation-ordered sequencing travel across connected-product businesses; the bridge-certificate design was this fleet's hardware reality. Machines already sold set the clock — the diagnostic measures it before promising dates."
+   "x": "The inventory-as-code method and generation-ordered sequencing travel across connected-product businesses; the bridge-certificate design was this fleet's hardware reality. Machines already sold set the clock, the diagnostic measures it before promising dates."
   },
   {
    "t": "table",

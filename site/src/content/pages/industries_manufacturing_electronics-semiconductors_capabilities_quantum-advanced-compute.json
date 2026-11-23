@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Electronics & Semiconductors gets concrete fast: Tool health reactive names a real queue, a real wait, a real cost. What we build to end it: we treat advanced compute as a tool with a contract — bounded problem classes, measured speedups, and a classical baseline the CFO can read. For Electronics & Semiconductors, this is the standard the build is held to."
+   "x": "Quantum & Advanced Compute in Electronics & Semiconductors gets concrete fast: Tool health reactive names a real queue, a real wait, a real cost. What we build to end it: we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read. For Electronics & Semiconductors, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Electronics & Semiconductors, the pattern is dispatch tournaments — fab dispatch formulations across solvers. Throughput gains evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we treat advanced compute as a tool with a contract — bounded problem classes, measured speedups, and a classical baseline the CFO can read. For Electronics & Semiconductors, this is the standard the build is held to."
+   "x": "In Electronics & Semiconductors, the pattern is dispatch tournaments, fab dispatch formulations across solvers. Throughput gains evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read. For Electronics & Semiconductors, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The tool health reactive cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Dispatch tournaments), and the gate review decides what scales — all inside one quarter in Electronics & Semiconductors. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Electronics & Semiconductors, that discipline is not optional — it is the engagement model."
+   "x": "The tool health reactive cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Dispatch tournaments), and the gate review decides what scales, all inside one quarter in Electronics & Semiconductors. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Electronics & Semiconductors, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Quantum & Advanced Compute control frame for Electronics & Semiconductors: Export controls (technology transfer duties); IEC 62443 / TSMC-style fab security (OT protection); Conflict minerals reporting (chain evidence). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Quantum & Advanced Compute control frame for Electronics & Semiconductors: Export controls (technology transfer duties); IEC 62443 / TSMC-style fab security (OT protection); Conflict minerals reporting (chain evidence). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

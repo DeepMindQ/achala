@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "First, the ground Data & Lakehouse work stands on in Maritime, Ports & Shipping: Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure — pure intelligence arbitrage."
+   "x": "First, the ground Data & Lakehouse work stands on in Maritime, Ports & Shipping: Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure, pure intelligence arbitrage."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Maritime, Ports & Shipping, the pattern is berth planning platform — vessel/yard/tide data unified for planning. Waits down sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Maritime, Ports & Shipping, the pattern is berth planning platform, vessel/yard/tide data unified for planning. Waits down sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "table",
@@ -84,11 +84,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. berth planning static is measured with your finance and risk leads in the room, then one working path — Berth planning platform — goes live inside the quarter. In Maritime, Ports & Shipping programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. berth planning static is measured with your finance and risk leads in the room, then one working path, Berth planning platform, goes live inside the quarter. In Maritime, Ports & Shipping programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Maritime, Ports & Shipping: SOLAS/ISPS — port security duties; Customs regimes — cargo documentation. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Maritime, Ports & Shipping: SOLAS/ISPS, port security duties; Customs regimes, cargo documentation. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Data & Lakehouse for Maritime, Ports & Shipping to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Data & Lakehouse for Maritime, Ports & Shipping to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 497,

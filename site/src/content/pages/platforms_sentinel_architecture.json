@@ -1,0 +1,143 @@
+{
+ "id": "PLT-sentinel-ar",
+ "title": "Achala Sentinel — Architecture & Trust",
+ "url": "/platforms/sentinel/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Achala Sentinel > Architecture & Trust",
+ "seo_title": "Achala Sentinel — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Achala Sentinel — Zero-Trust & AI Security Platform.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "How Achala Sentinel is put together: the control planes, the enforcement points and the evidence export your CISO signs off."
+  },
+  {
+   "t": "h2",
+   "x": "What gets built first"
+  },
+  {
+   "t": "p",
+   "x": "The Achala Sentinel architecture is three planes and an evidence spine. Modules compose behind one governed API; every decision crossing a plane boundary is logged with the inputs, the policy version and the accountable owner."
+  },
+  {
+   "t": "p",
+   "x": "the working system, decomposed, Achala Sentinel architecture edition:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Zero-trust enforcement",
+     "identity, posture, segmentation, workload identity"
+    ],
+    [
+     "Detection-as-code",
+     "versioned rules with CI testing"
+    ],
+    [
+     "Posture guardrails",
+     "policy-as-code with fix-the-pipeline flows"
+    ],
+    [
+     "AI defense layer",
+     "injection filtering, containment, red-teaming"
+    ],
+    [
+     "Identity plane",
+     "workforce/CIAM/machine lifecycle"
+    ],
+    [
+     "Evidence exports",
+     "multi-framework control mapping"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "The security posture"
+  },
+  {
+   "t": "p",
+   "x": "In Achala Sentinel, the program tracks these without being asked:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Purple-team validated",
+     "segmentation proven in exercises"
+    ],
+    [
+     "AI red-teaming",
+     "OWASP LLM Top 10 mapped suites"
+    ],
+    [
+     "Continuous evidence",
+     "auditor-ready on demand"
+    ],
+    [
+     "AI asset registry",
+     "shadow-AI discovery included"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: SIEM/XDR, SPIFFE/SPIRE, OPA, IdPs/IGA, CNAPP tooling. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "Sequencing, honestly"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Achala Sentinel follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one threat model to a briefing. We will show the controls, the tests and the evidence pack it maps to."
+  }
+ ],
+ "words": 353,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Sentinel",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Sentinel",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/sentinel/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Sentinel — Zero-Trust & AI Security Platform",
+   "url": "/platforms/sentinel/",
+   "desc": "Zero-Trust & AI Security Platform"
+  },
+  {
+   "title": "Achala Sentinel — Architecture & Trust",
+   "url": "/platforms/sentinel/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Sentinel — Industry Use Cases",
+   "url": "/platforms/sentinel/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

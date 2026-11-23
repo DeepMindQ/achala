@@ -49,11 +49,11 @@
    "items": [
     [
      "Is this real in production?",
-     "The references here run in production today — the pages name the shape of the deployment and what it took."
+     "The references here run in production today, the pages name the shape of the deployment and what it took."
     ],
     [
      "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time — the honest answer includes that line item."
+     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
     ]
    ]
   },
@@ -63,7 +63,7 @@
   },
   {
    "t": "cta",
-   "x": "Read the viewpoints, then argue with them — the briefing exists for the arguments that survive."
+   "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
   }
  ],
  "words": 178,
@@ -94,13 +94,13 @@
    "title": "Platform engineering is the highest-apply hire you will make",
    "url": "/insights/insight-13/",
    "tag": "Cloud, Edge & Platform",
-   "desc": "Golden paths turn engineering months into days — and make the secure path the easy path."
+   "desc": "Golden paths turn engineering months into days, and make the secure path the easy path."
   },
   {
    "title": "FinOps is unit economics, not cost cutting",
    "url": "/insights/insight-14/",
    "tag": "Cloud, Edge & Platform",
-   "desc": "Cost per transaction, per customer, per inference — engineering metrics with P&L consequences."
+   "desc": "Cost per transaction, per customer, per inference, engineering metrics with P&L consequences."
   },
   {
    "title": "Edge is where latency becomes revenue",

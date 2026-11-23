@@ -162,11 +162,11 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Autonomous Supply Chain Control Tower composes KYC Management System, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Logistics & Supply Chain, Manufacturing & Industrial, Retail & Consumer Goods, Energy & Utilities."
+   "x": "Autonomous Supply Chain Control Tower composes KYC Management System, EEMS Platform, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Logistics & Supply Chain, Manufacturing & Industrial, Retail & Consumer Goods, Energy & Utilities."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "Autonomous Supply Chain Control Tower runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Autonomous Supply Chain Control Tower, that discipline is not optional — it is the engagement model."
+   "x": "Autonomous Supply Chain Control Tower runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Autonomous Supply Chain Control Tower, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "Every Autonomous Supply Chain Control Tower value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic — never a promise from a brochure."
+   "x": "Every Autonomous Supply Chain Control Tower value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic, never a promise from a brochure."
   },
   {
    "t": "bullets",
@@ -203,7 +203,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Autonomous Supply Chain Control Tower, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Autonomous Supply Chain Control Tower, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 386,
@@ -278,7 +278,7 @@
    "title": "Intelligent Process Automation at Scale",
    "url": "/solutions/process-automation-scale/",
    "tag": "Ops",
-   "desc": "From pilot purgatory to a governed fleet — automation with conformance."
+   "desc": "From pilot purgatory to a governed fleet, automation with conformance."
   },
   {
    "title": "Predictive Maintenance & Asset Performance",

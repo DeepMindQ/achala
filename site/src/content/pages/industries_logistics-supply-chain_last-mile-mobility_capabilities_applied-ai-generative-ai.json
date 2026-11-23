@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI treats routing at density in Last-Mile & Urban Logistics as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "Applied AI & GenAI treats routing at density in Last-Mile & Urban Logistics as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for routing at density is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for routing at density is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points — Last-Mile & Urban Logistics edition:"
+   "x": "The recurring pressure points, Last-Mile & Urban Logistics edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Last-Mile & Urban Logistics, the pattern is surge forecasting — demand prediction by area/hour. Capacity matched sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "In Last-Mile & Urban Logistics, the pattern is surge forecasting, demand prediction by area/hour. Capacity matched sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The routing at density cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Surge forecasting), and the gate review decides what scales — all inside one quarter in Last-Mile & Urban Logistics. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For Last-Mile & Urban Logistics, that discipline is not optional — it is the engagement model."
+   "x": "The routing at density cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Surge forecasting), and the gate review decides what scales, all inside one quarter in Last-Mile & Urban Logistics. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For Last-Mile & Urban Logistics, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Last-Mile & Urban Logistics: Urban access/LEZ rules — zone compliance duties; Driver-hours law — scheduling compliance. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Last-Mile & Urban Logistics: Urban access/LEZ rules, zone compliance duties; Driver-hours law, scheduling compliance. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Applied AI & GenAI for Last-Mile & Urban Logistics to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Applied AI & GenAI for Last-Mile & Urban Logistics to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 480,

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving quality outcomes. It is a data-discipline business — and the data discipline is usually the missing part. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving quality outcomes. It is a data-discipline business, and the data discipline is usually the missing part. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -272,7 +272,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs operations in Care Management & Population Health in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs operations in Care Management & Population Health in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 397,
@@ -337,19 +337,19 @@
    "title": "Applied AI & GenAI for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Care Management & Population Health",
@@ -361,7 +361,7 @@
    "title": "Cloud, Edge & Platform for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

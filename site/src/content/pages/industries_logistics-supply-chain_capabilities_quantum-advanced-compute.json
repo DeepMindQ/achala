@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it — Logistics & Supply Chain edition:"
+   "x": "As operators describe it, Logistics & Supply Chain edition:"
   },
   {
    "t": "bullets",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Logistics & Supply Chain: dynamic routing tournaments — quantum-inspired vs. classical on daily dispatch formulations. Route cost down where solvers win is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Logistics & Supply Chain: dynamic routing tournaments, quantum-inspired vs. classical on daily dispatch formulations. Route cost down where solvers win is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "The routing at combinatorial scale cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (dynamic routing tournaments), and the gate review decides what scales — all inside one quarter in Logistics & Supply Chain. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Logistics & Supply Chain, that discipline is not optional — it is the engagement model."
+   "x": "The routing at combinatorial scale cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (dynamic routing tournaments), and the gate review decides what scales, all inside one quarter in Logistics & Supply Chain. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Logistics & Supply Chain, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -79,26 +79,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Quantum & Advanced Compute for Logistics & Supply Chain — each page documents the build as delivered:"
+   "x": "Named services for Quantum & Advanced Compute for Logistics & Supply Chain, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -112,7 +112,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Quantum & Advanced Compute in Logistics & Supply Chain, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Quantum & Advanced Compute in Logistics & Supply Chain, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 530,
@@ -186,19 +186,19 @@
    "title": "Quantum & Advanced Compute for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Quantum & Advanced Compute for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Quantum & Advanced Compute for Last-Mile & Urban Logistics",
    "url": "/industries/logistics-supply-chain/last-mile-mobility/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

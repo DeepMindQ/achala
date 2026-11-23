@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Content generic is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Content generic is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Workforce & Vocational Training, the pattern is skills intelligence — HRIS/LMS/performance unified to skills graph. Gaps visible sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. That is the engineering behind Workforce & Vocational Training."
+   "x": "In Workforce & Vocational Training, the pattern is skills intelligence, HRIS/LMS/performance unified to skills graph. Gaps visible sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. That is the engineering behind Workforce & Vocational Training."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. content generic is measured with your finance and risk leads in the room, then one working path — Skills intelligence — goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. content generic is measured with your finance and risk leads in the room, then one working path, Skills intelligence, goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Workforce & Vocational Training: Privacy — learner data duties; Accessibility — delivery duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Workforce & Vocational Training: Privacy, learner data duties; Accessibility, delivery duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Data & Lakehouse for Workforce & Vocational Training, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Data & Lakehouse for Workforce & Vocational Training, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 456,

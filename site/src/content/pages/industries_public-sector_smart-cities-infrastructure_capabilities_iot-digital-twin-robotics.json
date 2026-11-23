@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Through the IoT, Twin & Robotics lens, the operating reality: Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
+   "x": "Through the IoT, Twin & Robotics lens, the operating reality: Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Smart Cities & Infrastructure, the pattern is urban telemetry fabric — multi-vendor assets into open streams. Assets visible sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "In Smart Cities & Infrastructure, the pattern is urban telemetry fabric, multi-vendor assets into open streams. Assets visible sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The urban assets siloed cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Urban telemetry fabric), and the gate review decides what scales — all inside one quarter in Smart Cities & Infrastructure. In Smart Cities & Infrastructure programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The urban assets siloed cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Urban telemetry fabric), and the gate review decides what scales, all inside one quarter in Smart Cities & Infrastructure. In Smart Cities & Infrastructure programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Smart Cities & Infrastructure: GDPR — public-space data duties; NIS2 — essential services. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Smart Cities & Infrastructure: GDPR, public-space data duties; NIS2, essential services. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

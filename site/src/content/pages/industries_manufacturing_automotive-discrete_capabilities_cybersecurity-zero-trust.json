@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Setting the Cyber & Zero-Trust scene in Automotive & Discrete Manufacturing: Automotive and discrete plants chase three numbers — OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
+   "x": "Setting the Cyber & Zero-Trust scene in Automotive & Discrete Manufacturing: Automotive and discrete plants chase three numbers, OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Automotive & Discrete Manufacturing, the pattern is OT segmentation — IEC 62443 zones with monitoring. Line-stopping risk contained sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Automotive & Discrete Manufacturing."
+   "x": "In Automotive & Discrete Manufacturing, the pattern is OT segmentation, IEC 62443 zones with monitoring. Line-stopping risk contained sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Automotive & Discrete Manufacturing."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. flat plant networks gets a number, an owner and a signature; the quarter belongs to a bounded slice — OT segmentation — live on your estate. In Automotive & Discrete Manufacturing programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. flat plant networks gets a number, an owner and a signature; the quarter belongs to a bounded slice, OT segmentation, live on your estate. In Automotive & Discrete Manufacturing programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Automotive & Discrete Manufacturing: IATF 16949 — quality traceability evidence; IEC 62443 — OT security zoning. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Automotive & Discrete Manufacturing: IATF 16949, quality traceability evidence; IEC 62443, OT security zoning. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust for Automotive & Discrete Manufacturing in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust for Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 506,

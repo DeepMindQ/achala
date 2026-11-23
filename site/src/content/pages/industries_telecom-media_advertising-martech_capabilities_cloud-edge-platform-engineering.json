@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Advertising & MarTech meets two truths at once — volume keeps growing, and the old way stopped scaling. The structured response: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind Advertising & MarTech."
+   "x": "Cloud, Edge & Platform in Advertising & MarTech meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind Advertising & MarTech."
   },
   {
    "t": "p",
-   "x": "Setting the Cloud, Edge & Platform scene in Advertising & MarTech: Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era — and whether spend proves incrementality."
+   "x": "Setting the Cloud, Edge & Platform scene in Advertising & MarTech: Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era, and whether spend proves incrementality."
   },
   {
    "t": "p",
-   "x": "Point fixes for identity resolution decaying — a script here, a spreadsheet there — have usually been tried in Advertising & MarTech. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for identity resolution decaying, a script here, a spreadsheet there, have usually been tried in Advertising & MarTech. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Advertising & MarTech, the pattern is activation architecture — deduplicated data plane with cost telemetry. Stack spend rationalized sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind Advertising & MarTech."
+   "x": "In Advertising & MarTech, the pattern is activation architecture, deduplicated data plane with cost telemetry. Stack spend rationalized sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind Advertising & MarTech."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. identity resolution decaying is measured with your finance and risk leads in the room, then one working path — Activation architecture — goes live inside the quarter. In Advertising & MarTech programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. identity resolution decaying is measured with your finance and risk leads in the room, then one working path, Activation architecture, goes live inside the quarter. In Advertising & MarTech programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cloud, Edge & Platform for Advertising & MarTech, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cloud, Edge & Platform for Advertising & MarTech, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 458,

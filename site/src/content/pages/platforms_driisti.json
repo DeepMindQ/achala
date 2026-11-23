@@ -1,15 +1,15 @@
 {
- "id": "PLT-compass-ov",
- "title": "Driisti — Smart Vision Glasses",
+ "id": "PLT-driisti-ov",
+ "title": "Driisti Smart Vision Glasses",
  "url": "/platforms/driisti/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Driisti Smart Vision Glasses > Overview",
- "seo_title": "Driisti — Smart Vision Glasses | Achala IT Solutions",
- "meta_description": "AI your model-risk committee approves and your regulator can inspect.",
+ "seo_title": "Driisti Smart Vision Glasses | Achala IT Solutions",
+ "meta_description": "Driisti Smart Vision Glasses give visually challenged users AI-assisted scene awareness; assistive devices extend the platform to elderly care.",
  "blocks": [
   {
    "t": "hero",
-   "x": "AI-enabled smart vision glasses for the visually challenged, and assistive devices for elderly care."
+   "x": "Independence technology for the visually challenged. Driisti Smart Vision Glasses read the user's surroundings aloud, obstacles, text, people and currency, so daily movement needs less help from others."
   },
   {
    "t": "h2",
@@ -17,187 +17,80 @@
   },
   {
    "t": "p",
-   "x": "Driisti Smart Vision Glasses operationalizes AI governance: the policy layer (NIST AI RMF, ISO 42001, EU AI Act mapping), model registry with technical documentation, evaluation suites with red-team suites, guardrail configuration, incident response for AI events, and the evidence pack that turns conformity assessment into a formality. Compass is where AI programs stop being risky: every model carries its model card, its evaluation results, its guardrail configuration and its control owner. High-risk use cases (credit scoring, employment, medical) get the documentation, human-oversight and post-market monitoring the EU AI Act actually requires — built in, not bolted on."
+   "x": "Driisti is a wearable assistive platform: glasses with cameras and onboard AI that describe the scene to the user through voice. It recognizes obstacles in the walking path, reads printed and digital text, and identifies familiar objects. The platform extends to assistive devices for elderly care."
   },
   {
    "t": "h2",
-   "x": "What goes live, and in what order"
+   "x": "What it does"
   },
   {
    "t": "p",
-   "x": "What ships, in the order it ships — Driisti Smart Vision Glasses edition:"
+   "x": "The platform's working capabilities:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Policy layer",
-     "regime mapping to controls and owners"
+     "Obstacle awareness",
+     "The walking path described before the cane reaches it"
     ],
     [
-     "Model registry",
-     "cards, lineage, versions, documentation"
+     "Text reading",
+     "Signage, documents and screens read aloud"
     ],
     [
-     "Evaluation suite",
-     "golden datasets, judge panels, red teams"
+     "Object and currency identification",
+     "Everyday items recognized by voice"
     ],
     [
-     "Guardrail configuration",
-     "PII, injection, topic fences as code"
-    ],
-    [
-     "Incident response",
-     "AI-specific playbooks and disclosure flows"
-    ],
-    [
-     "Evidence pack",
-     "conformity-grade documentation generated"
+     "Elderly-care devices",
+     "Assistive hardware for fall-prone users, connected to family"
     ]
    ]
   },
   {
-   "t": "arch",
-   "title": "Driisti Smart Vision Glasses — module topology",
-   "lanes": [
-    "Ingest",
-    "Core",
-    "Delivery",
-    "Trust"
-   ],
-   "nodes": [
-    {
-     "id": "in1",
-     "lane": 0,
-     "label": "Adapters & contracts",
-     "hot": false
-    },
-    {
-     "id": "in2",
-     "lane": 0,
-     "label": "MLflow",
-     "hot": false
-    },
-    {
-     "id": "c1",
-     "lane": 1,
-     "label": "Policy layer",
-     "hot": true
-    },
-    {
-     "id": "c2",
-     "lane": 1,
-     "label": "Model registry",
-     "hot": false
-    },
-    {
-     "id": "d1",
-     "lane": 2,
-     "label": "Evaluation harness",
-     "hot": false
-    },
-    {
-     "id": "d2",
-     "lane": 2,
-     "label": "Guardrail configuration",
-     "hot": false
-    },
-    {
-     "id": "t1",
-     "lane": 3,
-     "label": "Evidence packs",
-     "hot": false
-    },
-    {
-     "id": "t2",
-     "lane": 3,
-     "label": "EU AI Act evidence",
-     "hot": false
-    }
-   ],
-   "edges": [
-    {
-     "a": "in1",
-     "b": "c1"
-    },
-    {
-     "a": "in2",
-     "b": "c1"
-    },
-    {
-     "a": "c1",
-     "b": "c2"
-    },
-    {
-     "a": "c1",
-     "b": "d1"
-    },
-    {
-     "a": "c2",
-     "b": "d2"
-    },
-    {
-     "a": "d1",
-     "b": "t1"
-    },
-    {
-     "a": "d2",
-     "b": "t2"
-    }
-   ],
-   "note": "Modules are the platform's named components; trust lane is what the audit reads."
-  },
-  {
    "t": "h2",
-   "x": "Built for the auditors too"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Compass treats governance as system behavior: policies versioned, evaluations gated in CI, incidents tracked to closure with owners. The output is an AI estate your CISO defends to the board and your regulator inspects without expeditions."
+   "x": "Lightweight glasses carry the camera and processing unit; recognition runs on device where possible, with cloud assistance for heavier tasks. Audio output is immediate and localized to the user. Care-circle features let family members stay connected where the user opts in."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "EU AI Act evidence",
-     "high-risk documentation generated"
+     "On-device recognition",
+     "Scene descriptions without network dependence for core tasks"
     ],
     [
-     "Continuous evaluation",
-     "regression gates in CI/CD"
+     "Low-latency audio",
+     "Guidance delivered while it is still useful"
     ],
     [
-     "Control ownership",
-     "named owner per model"
+     "Opt-in care circle",
+     "Family connection only with the user's consent"
     ],
     [
-     "Shadow-AI discovery",
-     "unsanctioned use surfaced and routed"
+     "Privacy by design",
+     "Camera data processed for the user, not stored for others"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where it runs today"
+   "x": "Who runs it"
   },
   {
    "t": "p",
-   "x": "Driisti Smart Vision Glasses runs under NDA in Banking & Financial Services, Healthcare & Life Sciences, Insurance & Risk, Public Sector & Government, Technology & SaaS. Deployments stay private; the architecture and control packs are the part we can show."
-  },
-  {
-   "t": "h2",
-   "x": "Standards and components"
-  },
-  {
-   "t": "p",
-   "x": "Connects to: MLflow, evaluation frameworks, guardrail libraries, GRC integration. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+   "x": "Accessibility programs, hospitals and rehabilitation centers, elder-care providers and individual users. Driisti is a deployable product, not a concept, it ships to users today."
   },
   {
    "t": "cta",
-   "x": "Start with the diagnostic, not the contract: Driisti Smart Vision Glasses baselined in two weeks, and a scoped proposal only if the delta justifies it."
+   "x": "Book a briefing with the Driisti team, or arrange a live demonstration for your accessibility program."
   }
  ],
- "words": 338,
+ "words": 353,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Driisti Smart Vision Glasses",
@@ -219,39 +112,19 @@
  ],
  "related": [
   {
-   "title": "Driisti Smart Vision Glasses — Overview",
+   "title": "Driisti Smart Vision Glasses",
    "url": "/platforms/driisti/",
-   "desc": "Responsible AI & Governance Platform"
+   "desc": "AI-enabled smart vision glasses for the visually challenged, plus assistive devi"
   },
   {
-   "title": "Driisti Smart Vision Glasses — Architecture & Trust",
+   "title": "Driisti Smart Vision Glasses — Architecture & Security",
    "url": "/platforms/driisti/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Driisti Smart Vision Glasses — Industry Use Cases",
    "url": "/platforms/driisti/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A tier-1 US bank",
-   "url": "/case-studies/bank-03/",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
-  },
-  {
-   "title": "A 12-hospital US health system",
-   "url": "/case-studies/hc-01/",
-   "desc": "Clinicians get 90 minutes a day back — ambient documentation inside the EHR"
-  },
-  {
-   "title": "A national digital-government agency",
-   "url": "/case-studies/pub-01/",
-   "desc": "Case processing down 52% — document intelligence under accountable-AI gates"
-  },
-  {
-   "title": "A national EdTech platform (2M learners)",
-   "url": "/case-studies/edu-02/",
-   "desc": "Outcome evidence published — renewals secured with learning-gain pipelines"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

@@ -5,11 +5,11 @@
  "template": "insights_hub",
  "breadcrumb": "Insights",
  "seo_title": "Insights Library | Achala IT Solutions",
- "meta_description": "Perspectives across eight deep-tech domains — retrieval economics, agentic policy, PQC clocks, provenance compliance and more.",
+ "meta_description": "Perspectives from the delivery floor on production AI, data platforms, security and emerging compute — with the vendor questions to ask.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Practitioner theses from the delivery floor. Each insight takes a position, shows where it breaks in practice, and names the discipline that keeps it honest — no vendor theater, no borrowed hype."
+   "x": "Practical writing from the delivery floor: what ships, what scales and what stalls in production AI, data and security programs. Each piece takes a position and includes the questions you should ask any vendor, including us."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "These viewpoints come from the delivery floor: what shipped, what scaled, what stalled, and what we would do differently. Where a claim depends on a client number, the case page it comes from is linked — the reasoning chain is always walkable."
+   "x": "These viewpoints come from the delivery floor: what shipped, what scaled, what stalled, and what we would do differently. Where a claim depends on a client number, the case page it comes from is linked, the reasoning chain is always walkable."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Start with the viewpoint closest to your current decision — retrieval economics, decision hubs versus model sprawl, process mining, or where quantum math pays back — then bring your own metric to a briefing."
+   "x": "Start with the viewpoint closest to your current decision, retrieval economics, decision hubs versus model sprawl, process mining, or where quantum math pays back, then bring your own metric to a briefing."
   },
   {
    "t": "cta",

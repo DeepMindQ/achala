@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with ServiceNow covers Workflow digitization and agentic operations on ServiceNow — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with ServiceNow covers Workflow digitization and agentic operations on ServiceNow, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "ITOM and ITSM modernization with measured SLAs",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Workflow digitization under zero-trust architecture",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Swarm agentic fleets acting through governed ServiceNow",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Decision-record and replay architectures for operations",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },
@@ -66,7 +66,7 @@
   },
   {
    "t": "p",
-   "x": "Joint delivery on ServiceNow Alliance is designed for handover from the first week — runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
+   "x": "Joint delivery on ServiceNow Alliance is designed for handover from the first week, runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
   }
  ],
  "crumbs": [

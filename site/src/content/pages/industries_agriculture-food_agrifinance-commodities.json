@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Each build below owns a workflow and a gate — the AgriFinance & Commodity Markets version of capability:"
+   "x": "Each build below owns a workflow and a gate, the AgriFinance & Commodity Markets version of capability:"
   },
   {
    "t": "bullets",
@@ -234,7 +234,7 @@
   },
   {
    "t": "p",
-   "x": "Financial regulation (lending) — scoring governance. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
+   "x": "Financial regulation (lending), scoring governance. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
   },
   {
    "t": "table",
@@ -272,7 +272,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring operations in AgriFinance & Commodity Markets to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring operations in AgriFinance & Commodity Markets to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 321,
@@ -337,13 +337,13 @@
    "title": "Applied AI & GenAI for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for AgriFinance & Commodity Markets",
@@ -355,13 +355,13 @@
    "title": "Quantum & Advanced Compute for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Blockchain & Digital Trust for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

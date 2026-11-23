@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "DORA-grade resilience posture — third-party and incident evidence automated"
+   "x": "DORA-grade resilience posture, third-party and incident evidence automated"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — A tier-1 US bank, Banking & Financial Services sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, A tier-1 US bank, Banking & Financial Services sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
    "items": [
     [
      "Cyber & Zero-Trust",
-     "the controls were architectural — identity-first, segmented, instrumented — not bolted on after the fact."
+     "the controls were architectural, identity-first, segmented, instrumented, not bolted on after the fact."
     ],
     [
      "Cloud, Edge & Platform",

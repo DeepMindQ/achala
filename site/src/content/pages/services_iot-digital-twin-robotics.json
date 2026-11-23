@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Digital Twin & Robotics turns physical operations into self-monitoring systems: sensor fabrics that survive partitions, edge AI that meets its deadlines, twins that stay honest against reality, and robot fleets with safety cases — the operations stack where fidelity to the physical world is the metric that gates everything else."
+   "x": "IoT, Digital Twin & Robotics turns physical operations into self-monitoring systems: sensor fabrics that survive partitions, edge AI that meets its deadlines, twins that stay honest against reality, and robot fleets with safety cases, the operations stack where fidelity to the physical world is the metric that gates everything else."
   },
   {
    "t": "p",
-   "x": "The physical domain connects the world that breaks: machines, vehicles, buildings, robots. Its discipline is constrained-device engineering — schemas at the edge, store-and-forward everywhere, safety interlocks that fail to safe — with the digital twin as the honest mirror and the simulation tier rehearsing every change before hardware moves."
+   "x": "The physical domain connects the world that breaks: machines, vehicles, buildings, robots. Its discipline is constrained-device engineering, schemas at the edge, store-and-forward everywhere, safety interlocks that fail to safe, with the digital twin as the honest mirror and the simulation tier rehearsing every change before hardware moves."
   },
   {
    "t": "p",
@@ -72,11 +72,11 @@
   },
   {
    "t": "p",
-   "x": "The domain's hardest problem is honesty: a twin that drifts from reality is worse than no twin, a model that missed its deadline is worse than no model, and a utilization number that flatters the fleet is worse than none. Every practice here carries a fidelity or truth metric — twin-to-physical delta, deadline miss rate, verified prediction outcomes — because physical operations punish flattery."
+   "x": "The domain's hardest problem is honesty: a twin that drifts from reality is worse than no twin, a model that missed its deadline is worse than no model, and a utilization number that flatters the fleet is worse than none. Every practice here carries a fidelity or truth metric, twin-to-physical delta, deadline miss rate, verified prediction outcomes, because physical operations punish flattery."
   },
   {
    "t": "p",
-   "x": "The engineering is brownfield by definition: existing PLCs, legacy protocols, twenty-year-old assets and vendors who never intended to interoperate. The practices are built for that reality — schema versioning per device class, store-and-forward capture, IT/OT segmentation done properly — so the modernization happens without stopping the plant, the grid or the warehouse."
+   "x": "The engineering is brownfield by definition: existing PLCs, legacy protocols, twenty-year-old assets and vendors who never intended to interoperate. The practices are built for that reality, schema versioning per device class, store-and-forward capture, IT/OT segmentation done properly, so the modernization happens without stopping the plant, the grid or the warehouse."
   },
   {
    "t": "h2",
@@ -85,7 +85,7 @@
   },
   {
    "t": "p",
-   "x": "The loop runs sense, simulate, decide, act: versioned sensor schemas feed partition-tolerant capture, twins synchronize with fidelity scores, predictive models integrate with work orders, and robots act inside envelopes with incident-ready telemetry — one stack, physical truth end-to-end."
+   "x": "The loop runs sense, simulate, decide, act: versioned sensor schemas feed partition-tolerant capture, twins synchronize with fidelity scores, predictive models integrate with work orders, and robots act inside envelopes with incident-ready telemetry, one stack, physical truth end-to-end."
   },
   {
    "t": "arch",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Capture fidelity, twin sync lag, unplanned downtime and utilization — tiles that read like an operations review because that is exactly who reads them."
+   "x": "Capture fidelity, twin sync lag, unplanned downtime and utilization, tiles that read like an operations review because that is exactly who reads them."
   },
   {
    "t": "idash",
@@ -549,7 +549,7 @@
   },
   {
    "t": "p",
-   "x": "Fleet continuity as a single honest indicator: the composite uptime across sensed, twinned and automated assets, gated against the signed target — with the drill cadence that keeps it real."
+   "x": "Fleet continuity as a single honest indicator: the composite uptime across sensed, twinned and automated assets, gated against the signed target, with the drill cadence that keeps it real."
   },
   {
    "t": "chart",
@@ -574,11 +574,11 @@
   {
    "t": "h2",
    "x": "Where the operations stack has sector playbooks today",
-   "sub": "Lines, grids, fleets and cold chains — twelve industries with live briefs"
+   "sub": "Lines, grids, fleets and cold chains, twelve industries with live briefs"
   },
   {
    "t": "p",
-   "x": "Manufacturing buys sensor fabrics and robots, utilities buy grid twins and smart infrastructure, agriculture buys field telemetry. The bars count published sub-industry briefs — a taller bar means the sector's brownfield realities, safety norms and telemetry conventions are already drawn into the playbooks."
+   "x": "Manufacturing buys sensor fabrics and robots, utilities buy grid twins and smart infrastructure, agriculture buys field telemetry. The bars count published sub-industry briefs, a taller bar means the sector's brownfield realities, safety norms and telemetry conventions are already drawn into the playbooks."
   },
   {
    "t": "chart",
@@ -1087,7 +1087,7 @@
    "items": [
     [
      "Diagnostic — two weeks",
-     "Assets inventoried by class, capture fidelity baselined, the gate model scored for your brownfield reality — you keep the build order with named owners."
+     "Assets inventoried by class, capture fidelity baselined, the gate model scored for your brownfield reality, you keep the build order with named owners."
     ],
     [
      "Provability sprint — four weeks",
@@ -1106,7 +1106,7 @@
   {
    "t": "h2",
    "x": "Five gates between the twin and the physical world",
-   "sub": "Schema, partition, safety, sync, OTA — the evidence each demands"
+   "sub": "Schema, partition, safety, sync, OTA, the evidence each demands"
   },
   {
    "t": "table",
@@ -1152,12 +1152,12 @@
   },
   {
    "t": "p",
-   "x": "Operations-stack programs fail when the twin drifts from reality: a twin showing yesterday's line state is worse than no twin, because decisions get made against it. The domain design starts at capture — sensor fabric with protocol translation and schema normalization at the edge — and treats state synchronization as the core engineering problem: delta-sync with conflict rules, fidelity metrics trended per asset class, and a registry that versions asset models like code. The command path is separated deliberately from telemetry: signed, rate-limited, and passing through safety interlocks that are hardware, not suggestions.",
+   "x": "Operations-stack programs fail when the twin drifts from reality: a twin showing yesterday's line state is worse than no twin, because decisions get made against it. The domain design starts at capture, sensor fabric with protocol translation and schema normalization at the edge, and treats state synchronization as the core engineering problem: delta-sync with conflict rules, fidelity metrics trended per asset class, and a registry that versions asset models like code. The command path is separated deliberately from telemetry: signed, rate-limited, and passing through safety interlocks that are hardware, not suggestions.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The seven practices divide the stack — sensor fabric, edge AI, connected products, twins, predictive intelligence, robotics and smart infrastructure — and the release gates bind them: a twin without signed fidelity targets does not earn decision authority, a robot without a rehearsed safety case does not enter the floor, and a sensor class without heartbeat SLOs does not feed downstream promises. Fidelity is the currency everything else spends.",
+   "x": "The seven practices divide the stack, sensor fabric, edge AI, connected products, twins, predictive intelligence, robotics and smart infrastructure, and the release gates bind them: a twin without signed fidelity targets does not earn decision authority, a robot without a rehearsed safety case does not enter the floor, and a sensor class without heartbeat SLOs does not feed downstream promises. Fidelity is the currency everything else spends.",
    "phase3_deep": true
   },
   {
@@ -1191,7 +1191,7 @@
     ],
     [
      "What makes a twin honest?",
-     "A signed fidelity target per asset class, sync-lag metrics trended in the console, and conflict rules that resolve state mismatches by rule rather than by hope. Drift past target earns a work order — the twin cannot fail silently."
+     "A signed fidelity target per asset class, sync-lag metrics trended in the console, and conflict rules that resolve state mismatches by rule rather than by hope. Drift past target earns a work order, the twin cannot fail silently."
     ],
     [
      "How do you keep robots safe around people?",
@@ -1203,13 +1203,13 @@
     ],
     [
      "Can this start with one production line?",
-     "Yes — one line is the standard provability sprint: capture fidelity, twin sync and prediction precision on real equipment, with a fund-or-kill verdict at four weeks."
+     "Yes, one line is the standard provability sprint: capture fidelity, twin sync and prediction precision on real equipment, with a fund-or-kill verdict at four weeks."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the asset class whose failures cost the most and whose data nobody trusts. The two-week diagnostic will baseline capture fidelity — and price what honest sensing, twinning and prediction would cost on it."
+   "x": "Bring the asset class whose failures cost the most and whose data nobody trusts. The two-week diagnostic will baseline capture fidelity, and price what honest sensing, twinning and prediction would cost on it."
   }
  ],
  "words": 854,
@@ -1255,43 +1255,43 @@
    "title": "Industrial IoT & sensor network",
    "url": "/services/iot-digital-twin-robotics/industrial-iot-sensor-fabric/",
    "tag": "Service",
-   "desc": "Sense everything that matters — retrofit-friendly sensor network with governed telemetry."
+   "desc": "Sense everything that matters, retrofit-friendly sensor network with governed telemetry."
   },
   {
    "title": "Digital Twin Platform Engineering",
    "url": "/services/iot-digital-twin-robotics/digital-twin-platforms/",
    "tag": "Service",
-   "desc": "Simulate before you cut steel — plant, fleet and product twins with governed physics and data."
+   "desc": "Simulate before you cut steel, plant, fleet and product twins with governed physics and data."
   },
   {
    "title": "Computer Vision & Edge AI",
    "url": "/services/iot-digital-twin-robotics/computer-vision-edge-ai/",
    "tag": "Service",
-   "desc": "Cameras into instruments — inspection, safety and counting at the edge, inside policy."
+   "desc": "Cameras into instruments, inspection, safety and counting at the edge, inside policy."
   },
   {
    "title": "Predictive Maintenance & Asset Intelligence",
    "url": "/services/iot-digital-twin-robotics/predictive-asset-intelligence/",
    "tag": "Service",
-   "desc": "Fix it before it fails — RUL models wired into planning, spare parts and work orders."
+   "desc": "Fix it before it fails, RUL models wired into planning, spare parts and work orders."
   },
   {
    "title": "Robotics & Autonomous Systems Integration",
    "url": "/services/iot-digital-twin-robotics/robotics-autonomous-systems/",
    "tag": "Service",
-   "desc": "Robots into workflows — AMRs, cobots and autonomous vehicles integrated with safety and orchestration."
+   "desc": "Robots into workflows, AMRs, cobots and autonomous vehicles integrated with safety and orchestration."
   },
   {
    "title": "Connected Products & Smart Devices",
    "url": "/services/iot-digital-twin-robotics/connected-products-devices/",
    "tag": "Service",
-   "desc": "Your product becomes a service — device fleets, OTA and telemetry products with revenue attached."
+   "desc": "Your product becomes a service, device fleets, OTA and telemetry products with revenue attached."
   },
   {
    "title": "Smart Infrastructure, Buildings & Cities",
    "url": "/services/iot-digital-twin-robotics/smart-infrastructure/",
    "tag": "Service",
-   "desc": "Facilities that run themselves — BMS/IoT fusion, energy optimization and city-scale platforms."
+   "desc": "Facilities that run themselves, BMS/IoT fusion, energy optimization and city-scale platforms."
   }
  ],
  "evidence": [

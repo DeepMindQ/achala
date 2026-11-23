@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Network Operators (CSPs), the pattern is energy intelligence — site-level telemetry and optimization. Energy down 10-20% sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "In Network Operators (CSPs), the pattern is energy intelligence, site-level telemetry and optimization. Energy down 10-20% sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. energy second cost line is measured with your finance and risk leads in the room, then one working path — Energy intelligence — goes live inside the quarter. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Network Operators (CSPs), that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. energy second cost line is measured with your finance and risk leads in the room, then one working path, Energy intelligence, goes live inside the quarter. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Network Operators (CSPs), that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Network Operators (CSPs): NIS2 — essential-entity cyber duties; GDPR — subscriber profiling duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Network Operators (CSPs): NIS2, essential-entity cyber duties; GDPR, subscriber profiling duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cloud, Edge & Platform for Network Operators (CSPs) in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cloud, Edge & Platform for Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 506,

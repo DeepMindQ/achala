@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Non-revenue water down 21% — district metering to decision loop"
+   "x": "Non-revenue water down 21%, district metering to decision loop"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — A national water utility, Energy & Utilities sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, A national water utility, Energy & Utilities sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
    "items": [
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
     ],
     [
      "Data & Lakehouse",
@@ -215,7 +215,7 @@
     ],
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ]
    ]
   },
@@ -225,7 +225,7 @@
   },
   {
    "t": "p",
-   "x": "Two things from the national water utility program generalize — the governance shape and the gate design. Everything else was estate-specific, and pretending otherwise is how programs waste their first quarter The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
+   "x": "Two things from the national water utility program generalize, the governance shape and the gate design. Everything else was estate-specific, and pretending otherwise is how programs waste their first quarter The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",

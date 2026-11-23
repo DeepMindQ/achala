@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "ERP Services & Enterprise Core: ERP programs that land process, data and controls — not just software. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "ERP Services & Enterprise Core: ERP programs that land process, data and controls, not just software. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "ERP programs fail at the seams: the customizations nobody documented, the master data nobody owns, and the controls the auditors test that the implementers never saw. We run ERP programs as enterprise engineering — S/4HANA and Dynamics 365 implementations, finance and supply-chain transformations, and the integration fabric that keeps the core synchronized with everything around it."
+   "x": "ERP programs fail at the seams: the customizations nobody documented, the master data nobody owns, and the controls the auditors test that the implementers never saw. We run ERP programs as enterprise engineering, S/4HANA and Dynamics 365 implementations, finance and supply-chain transformations, and the integration fabric that keeps the core synchronized with everything around it."
   },
   {
    "t": "p",
-   "x": "The method is process-first and data-governed: to-be processes designed against measurable cycle times, master data governed with owners and quality gates before the first load, controls mapped into the configuration, and cutover rehearsals that time everything — including the reconciliation your finance team will demand."
+   "x": "The method is process-first and data-governed: to-be processes designed against measurable cycle times, master data governed with owners and quality gates before the first load, controls mapped into the configuration, and cutover rehearsals that time everything, including the reconciliation your finance team will demand."
   },
   {
    "t": "h2",
@@ -156,7 +156,7 @@
    "rows": [
     [
      "Platforms",
-     "SAP S/4HANA, Microsoft Dynamics 365,  Fiori / Power Platform extensions, Event-driven integrations"
+     "SAP S/4HANA, Microsoft Dynamics 365, Fiori / Power Platform extensions, Event-driven integrations"
     ],
     [
      "Delivery",
@@ -199,7 +199,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a ERP Services & Enterprise Core briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a ERP Services & Enterprise Core briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 323,

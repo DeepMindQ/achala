@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring operations in Media & Entertainment to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring operations in Media & Entertainment to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 353,
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Media & Entertainment",
@@ -351,7 +351,7 @@
    "title": "Blockchain & Digital Trust for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

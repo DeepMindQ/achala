@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust treats HNDL at state scale in Defense & National Security as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. Defense & National Security is where this discipline pays."
+   "x": "Cyber & Zero-Trust treats HNDL at state scale in Defense & National Security as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. Defense & National Security is where this discipline pays."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Defense & National Security edition:"
+   "x": "Where the friction concentrates, Defense & National Security edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Defense & National Security, the pattern is assurance automation — continuous evidence mapped to accreditation schemes. Cycles compressed sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. Defense & National Security is where this discipline pays."
+   "x": "In Defense & National Security, the pattern is assurance automation, continuous evidence mapped to accreditation schemes. Cycles compressed sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. Defense & National Security is where this discipline pays."
   },
   {
    "t": "arch",
@@ -181,7 +181,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. HNDL at state scale is measured with your finance and risk leads in the room, then one working path — Assurance automation — goes live inside the quarter. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. HNDL at state scale is measured with your finance and risk leads in the room, then one working path, Assurance automation, goes live inside the quarter. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -201,7 +201,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust for Defense & National Security in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust for Defense & National Security in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 447,

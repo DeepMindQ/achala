@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform treats care-platform integration drag in Care Management & Population Health as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "Cloud, Edge & Platform treats care-platform integration drag in Care Management & Population Health as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "p",
-   "x": "Setting the Cloud, Edge & Platform scene in Care Management & Population Health: Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving quality outcomes. It is a data-discipline business — and the data discipline is usually the missing part."
+   "x": "Setting the Cloud, Edge & Platform scene in Care Management & Population Health: Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving quality outcomes. It is a data-discipline business, and the data discipline is usually the missing part."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Care Management & Population Health, the pattern is integration spine — event-driven care workflows replacing file exports. Handoffs reliable sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "In Care Management & Population Health, the pattern is integration spine, event-driven care workflows replacing file exports. Handoffs reliable sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. care-platform integration drag is measured with your finance and risk leads in the room, then one working path — Integration spine — goes live inside the quarter. In Care Management & Population Health programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. care-platform integration drag is measured with your finance and risk leads in the room, then one working path, Integration spine, goes live inside the quarter. In Care Management & Population Health programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Care Management & Population Health: HIPAA — care data safeguards; Quality program rules — measure reporting duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Care Management & Population Health: HIPAA, care data safeguards; Quality program rules, measure reporting duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cloud, Edge & Platform for Care Management & Population Health, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cloud, Edge & Platform for Care Management & Population Health, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 494,

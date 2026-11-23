@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Contracts that pass independent audits at zero highs: formal-verified cores with invariant coverage measured, fuzzing that runs around the clock, upgrade discipline that removes ambush risk — and a spec written before the first line of Solidity."
+   "x": "Contracts that pass independent audits at zero highs: formal-verified cores with invariant coverage measured, fuzzing that runs around the clock, upgrade discipline that removes ambush risk, and a spec written before the first line of Solidity."
   },
   {
    "t": "h2",
@@ -18,11 +18,11 @@
   },
   {
    "t": "p",
-   "x": "Smart contracts are business law in executable form — and like law, the writing matters more than the cleverness. The practice is boring on purpose: minimal contract surfaces, formal verification of the core, independent audits with zero high-severity findings, and upgrade mechanisms (proxies, governance) that are themselves audited."
+   "x": "Smart contracts are business law in executable form, and like law, the writing matters more than the cleverness. The practice is boring on purpose: minimal contract surfaces, formal verification of the core, independent audits with zero high-severity findings, and upgrade mechanisms (proxies, governance) that are themselves audited."
   },
   {
    "t": "p",
-   "x": "The lifecycle is the discipline: spec first, audit before deploy, staged rollout with monitoring, and an incident path rehearsed like any production system — because a contract bug is a business-logic bug with finality."
+   "x": "The lifecycle is the discipline: spec first, audit before deploy, staged rollout with monitoring, and an incident path rehearsed like any production system, because a contract bug is a business-logic bug with finality."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these has shipped eight-figure incidents — the countermeasures front-load specification, verification and upgrade discipline so the bugs never deploy."
+   "x": "Each of these has shipped eight-figure incidents, the countermeasures front-load specification, verification and upgrade discipline so the bugs never deploy."
   },
   {
    "t": "table",
@@ -300,7 +300,7 @@
   },
   {
    "t": "p",
-   "x": "From the spec change through invariant updates, fuzzing, formal verification, independent audit and the staged deployment — including the rollback path if any gate fails."
+   "x": "From the spec change through invariant updates, fuzzing, formal verification, independent audit and the staged deployment, including the rollback path if any gate fails."
   },
   {
    "t": "diagram",
@@ -324,7 +324,7 @@
   },
   {
    "t": "p",
-   "x": "Audit highs at zero, invariant coverage and fuzz uptime — the three numbers that decide whether the next audit is a formality or an event."
+   "x": "Audit highs at zero, invariant coverage and fuzz uptime, the three numbers that decide whether the next audit is a formality or an event."
   },
   {
    "t": "idash",
@@ -635,7 +635,7 @@
   },
   {
    "t": "p",
-   "x": "Coverage per contract version and per audit round — the shape that shows the verification investment compounding instead of resetting at every release."
+   "x": "Coverage per contract version and per audit round, the shape that shows the verification investment compounding instead of resetting at every release."
   },
   {
    "t": "chart",
@@ -1111,27 +1111,27 @@
     [
      "Specification",
      "Executable specs bound to business rules",
-     "Comments-as-spec — behavior and intent drift apart"
+     "Comments-as-spec, behavior and intent drift apart"
     ],
     [
      "Verification",
      "Formal proofs on core + invariant fuzzing",
-     "Unit tests only — they miss the compositional bugs"
+     "Unit tests only, they miss the compositional bugs"
     ],
     [
      "Audits",
      "Independent, zero-high gate, re-audit on fixes",
-     "Fixes-closed-by-email — nobody verifies the fix"
+     "Fixes-closed-by-email, nobody verifies the fix"
     ],
     [
      "Upgrades",
      "Timelocked, diff-published governance",
-     "Admin-key upgrades — trust assumption nobody reads"
+     "Admin-key upgrades, trust assumption nobody reads"
     ],
     [
      "Monitoring",
      "Runtime anomaly detection wired to SOC",
-     "Deploy-and-forget — finality means no patch after"
+     "Deploy-and-forget, finality means no patch after"
     ]
    ]
   },
@@ -1281,11 +1281,11 @@
   {
    "t": "h2",
    "x": "Upgrade-governance overlay",
-   "sub": "Multi-sig, timelock, notice — the governed change window"
+   "sub": "Multi-sig, timelock, notice, the governed change window"
   },
   {
    "t": "p",
-   "x": "Upgrades are governed releases: multi-party approval, timed locks, spec-diff evidence and a rehearsed emergency pause — the discipline that removes ambush risk from live contracts."
+   "x": "Upgrades are governed releases: multi-party approval, timed locks, spec-diff evidence and a rehearsed emergency pause, the discipline that removes ambush risk from live contracts."
   },
   {
    "t": "bullets",
@@ -1315,17 +1315,17 @@
   {
    "t": "h2",
    "x": "Invariants are written before code exists",
-   "sub": "Spec-first engineering — formal verification, fuzzing, audits and the upgrade discipline",
+   "sub": "Spec-first engineering, formal verification, fuzzing, audits and the upgrade discipline",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Contract failures are specification failures that shipped: the code does faithfully what nobody wrote down. The discipline inverts the order — the executable specification states the invariants (what must always be true), the business rules and the failure paths, and stakeholders sign it before implementation begins. Formal verification then proves the invariants hold on the contract, property-based fuzzing attacks the boundaries the proofs assume, and the independent audit is scoped against the spec so findings map to named invariants rather than generic concern lists.",
+   "x": "Contract failures are specification failures that shipped: the code does faithfully what nobody wrote down. The discipline inverts the order, the executable specification states the invariants (what must always be true), the business rules and the failure paths, and stakeholders sign it before implementation begins. Formal verification then proves the invariants hold on the contract, property-based fuzzing attacks the boundaries the proofs assume, and the independent audit is scoped against the spec so findings map to named invariants rather than generic concern lists.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Deployment is not the end of the engineering: runtime monitors check the invariants live (a violated invariant pages before funds move), and upgrade governance is multi-sig with timelock and notice — the change window is a governed event with a rollback plan, not a deploy button. The console reads invariant coverage, monitor violations and audit remediation state, because a contract estate whose safety posture is a PDF is a liability wearing a badge.",
+   "x": "Deployment is not the end of the engineering: runtime monitors check the invariants live (a violated invariant pages before funds move), and upgrade governance is multi-sig with timelock and notice, the change window is a governed event with a rollback plan, not a deploy button. The console reads invariant coverage, monitor violations and audit remediation state, because a contract estate whose safety posture is a PDF is a liability wearing a badge.",
    "phase3_deep": true
   },
   {
@@ -1355,7 +1355,7 @@
    "items": [
     [
      "What does \"zero highs\" actually mean for an audit?",
-     "Independent audits return zero high-severity findings because the invariants were specified and formally checked before code existed — the audit verifies the spec rather than discovering it. The console tracks invariant coverage per contract layer."
+     "Independent audits return zero high-severity findings because the invariants were specified and formally checked before code existed, the audit verifies the spec rather than discovering it. The console tracks invariant coverage per contract layer."
     ],
     [
      "How do you handle upgrades to deployed contracts?",
@@ -1363,21 +1363,21 @@
     ],
     [
      "Which parts get formal verification, and which do not?",
-     "Coverage follows money and trust: core ledger at 95%, token logic at 90%, access control at 92% — while view helpers at 30% are covered by tests. The defaults table names where proof stops and the deviation it would need."
+     "Coverage follows money and trust: core ledger at 95%, token logic at 90%, access control at 92%, while view helpers at 30% are covered by tests. The defaults table names where proof stops and the deviation it would need."
     ],
     [
      "Can you work with our existing contracts and oracles?",
-     "Yes — the integration surface names ledgers, oracles and business systems. Existing contracts enter through the same gates: spec recovery, invariant capture and an audit-readiness read before any change ships."
+     "Yes, the integration surface names ledgers, oracles and business systems. Existing contracts enter through the same gates: spec recovery, invariant capture and an audit-readiness read before any change ships."
     ],
     [
      "What does the engineering team inherit?",
-     "The spec corpus, invariant suite, test harness, audit reports and the console — plus the change discipline: spec diff to audited release is a repeatable path, not a heroic one."
+     "The spec corpus, invariant suite, test harness, audit reports and the console, plus the change discipline: spec diff to audited release is a repeatable path, not a heroic one."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the contract your auditors keep reopening. The verification sprint will write the spec, pin the invariants and run the fuzzer — until the audit is a formality."
+   "x": "Bring the contract your auditors keep reopening. The verification sprint will write the spec, pin the invariants and run the fuzzer, until the audit is a formality."
   }
  ],
  "words": 969,
@@ -1462,43 +1462,43 @@
    "title": "Blockchain Analytics & Regulatory Compliance",
    "url": "/services/blockchain-digital-trust/blockchain-analytics-compliance/",
    "tag": "Same domain",
-   "desc": "ledger intelligence mapped to regulatory duties — transaction risk scoring, travel-rule workflows, and audit-ready case files built automatically."
+   "desc": "ledger intelligence mapped to regulatory duties, transaction risk scoring, travel-rule workflows, and audit-ready case files built automatically."
   },
   {
    "title": "Decentralized Identity & Verifiable Credentials",
    "url": "/services/blockchain-digital-trust/decentralized-identity/",
    "tag": "Same domain",
-   "desc": "DIDs and verifiable credentials that work offline — issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
+   "desc": "DIDs and verifiable credentials that work offline, issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
   },
   {
    "title": "Enterprise DLT Network Engineering",
    "url": "/services/blockchain-digital-trust/enterprise-dlt-networks/",
    "tag": "Same domain",
-   "desc": "permissioned networks with real governance — membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
+   "desc": "permissioned networks with real governance, membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Pairs with",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "Digital Twin Platform Engineering",
    "url": "/services/iot-digital-twin-robotics/digital-twin-platforms/",
    "tag": "Pairs with",
-   "desc": "twins that stay honest — state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
+   "desc": "twins that stay honest, state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Pairs with",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "A European specialty reinsurer",
    "url": "/case-studies/ins-03/",
    "tag": "Evidence",
-   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%."
+   "desc": "Bordereaux automation and settlement evidence, reconciliation effort down 74%."
   }
  ],
  "evidence": [

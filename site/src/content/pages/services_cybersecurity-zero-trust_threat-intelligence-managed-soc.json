@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Detection engineering with measured coverage: threat-informed detection mapped to the techniques that actually target your sector, purple-teamed quarterly, and run by a SOC whose speed is measured from first signal to containment — not from alert to acknowledgement."
+   "x": "Detection engineering with measured coverage: threat-informed detection mapped to the techniques that actually target your sector, purple-teamed quarterly, and run by a SOC whose speed is measured from first signal to containment, not from alert to acknowledgement."
   },
   {
    "t": "h2",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each failure mode exhausts the analysts while the real attack walks past — the countermeasures buy back precision and make coverage falsifiable."
+   "x": "Each failure mode exhausts the analysts while the real attack walks past, the countermeasures buy back precision and make coverage falsifiable."
   },
   {
    "t": "table",
@@ -295,7 +295,7 @@
   },
   {
    "t": "p",
-   "x": "From first signal through enrichment, triage, containment play and the post-incident detection improvement — including where precision is measured and where the analyst's minute is spent."
+   "x": "From first signal through enrichment, triage, containment play and the post-incident detection improvement, including where precision is measured and where the analyst's minute is spent."
   },
   {
    "t": "diagram",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Detect-to-contain, triage SLA adherence and detection precision — the three numbers that decide whether the SOC is a control or a cost center with a dashboard."
+   "x": "Detect-to-contain, triage SLA adherence and detection precision, the three numbers that decide whether the SOC is a control or a cost center with a dashboard."
   },
   {
    "t": "idash",
@@ -637,7 +637,7 @@
   },
   {
    "t": "p",
-   "x": "Detection coverage across the technique matrix before and after each purple-team exercise — the honest delta that shows which coverage was real and which was slide-ware."
+   "x": "Detection coverage across the technique matrix before and after each purple-team exercise, the honest delta that shows which coverage was real and which was slide-ware."
   },
   {
    "t": "chart",
@@ -1128,17 +1128,17 @@
     [
      "Detection",
      "Sigma-class rules with lab testing",
-     "Vendor-default rule packs — noise with unmeasured coverage"
+     "Vendor-default rule packs, noise with unmeasured coverage"
     ],
     [
      "Intel",
      "Mapped-to-attack-path feeds with conversion SLA",
-     "Report subscription — nothing converts"
+     "Report subscription, nothing converts"
     ],
     [
      "Triage",
      "SLA-driven queue with severity rubric",
-     "First-in-first-out — criticals wait behind noise"
+     "First-in-first-out, criticals wait behind noise"
     ],
     [
      "Response",
@@ -1148,7 +1148,7 @@
     [
      "Validation",
      "Purple-team cadence against the ledger",
-     "Annual pen test report — it expires in a month"
+     "Annual pen test report, it expires in a month"
     ]
    ]
   },
@@ -1302,7 +1302,7 @@
   },
   {
    "t": "p",
-   "x": "Every reported metric carries its computation: precision from closed-case truth, containment from first signal, coverage from executed tests — metrics theater is designed out, not discouraged."
+   "x": "Every reported metric carries its computation: precision from closed-case truth, containment from first signal, coverage from executed tests, metrics theater is designed out, not discouraged."
   },
   {
    "t": "bullets",
@@ -1327,7 +1327,7 @@
   },
   {
    "t": "note",
-   "x": "Quarterly purple-team results are signed by both sides — red for what got through, blue for what caught it — and the delta against claimed coverage ships in the board pack, unedited."
+   "x": "Quarterly purple-team results are signed by both sides, red for what got through, blue for what caught it, and the delta against claimed coverage ships in the board pack, unedited."
   },
   {
    "t": "h2",
@@ -1337,12 +1337,12 @@
   },
   {
    "t": "p",
-   "x": "SOC programs drown when alerts are counts and maturity is a slide: the honest program measures coverage per attack technique — which MITRE-mapped detections fire, which were tested this month, which exist only in vendor documentation. Purple-team drills provide the truth: emulated techniques run against production telemetry, MTTD is measured on the emulation, and the miss list becomes the detection backlog with owners and dates. The SOC console reads speed and precision — MTTD, false-positive rate and coverage per technique — because those three numbers predict the incident the program will actually handle.",
+   "x": "SOC programs drown when alerts are counts and maturity is a slide: the honest program measures coverage per attack technique, which MITRE-mapped detections fire, which were tested this month, which exist only in vendor documentation. Purple-team drills provide the truth: emulated techniques run against production telemetry, MTTD is measured on the emulation, and the miss list becomes the detection backlog with owners and dates. The SOC console reads speed and precision, MTTD, false-positive rate and coverage per technique, because those three numbers predict the incident the program will actually handle.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Response playbooks are rehearsed, versioned artifacts, not wiki pages: containment steps carry pre-approvals for the actions that need them (isolating a segment, revoking tokens at scale), and the metrics layer is deliberately anti-theater — it reports what the program cannot do as loudly as what it can, because a SOC that cannot say where it is blind is a SOC that will find out during an incident.",
+   "x": "Response playbooks are rehearsed, versioned artifacts, not wiki pages: containment steps carry pre-approvals for the actions that need them (isolating a segment, revoking tokens at scale), and the metrics layer is deliberately anti-theater, it reports what the program cannot do as loudly as what it can, because a SOC that cannot say where it is blind is a SOC that will find out during an incident.",
    "phase3_deep": true
   },
   {
@@ -1372,7 +1372,7 @@
    "items": [
     [
      "What does \"detection coverage is a measurement\" mean?",
-     "A maturity score is an opinion; coverage is validated per attack technique by purple-team exercises — phishing, credential theft, cloud misconfig, insider paths — with the gaps named and priced on the console, not averaged away."
+     "A maturity score is an opinion; coverage is validated per attack technique by purple-team exercises, phishing, credential theft, cloud misconfig, insider paths, with the gaps named and priced on the console, not averaged away."
     ],
     [
      "How do you stop alert fatigue?",
@@ -1388,13 +1388,13 @@
     ],
     [
      "What does SOC leadership inherit?",
-     "The coverage ledger per technique, the console with speed and precision as headlines, the detection gates and the anti-theater metrics governance — leadership argues with measurements, not vendor decks."
+     "The coverage ledger per technique, the console with speed and precision as headlines, the detection gates and the anti-theater metrics governance, leadership argues with measurements, not vendor decks."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask your SOC to state its detect-to-contain from first signal, by threat class. If the answer is a maturity score, bring the telemetry to a briefing — we will measure it for real."
+   "x": "Ask your SOC to state its detect-to-contain from first signal, by threat class. If the answer is a maturity score, bring the telemetry to a briefing, we will measure it for real."
   }
  ],
  "words": 1000,
@@ -1479,31 +1479,31 @@
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Same domain",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Same domain",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Same domain",
-   "desc": "workforce and machine identity lifecycle done properly — joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
+   "desc": "workforce and machine identity lifecycle done properly, joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Pairs with",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "Quantum Machine Learning & Simulation",
    "url": "/services/quantum-advanced-compute/quantum-ml-simulation/",
    "tag": "Pairs with",
-   "desc": "circuit-based ML and chemistry simulation with verification-first rigor — benchmarks that survive noise, and classical surrogates that carry the workload meanwhile."
+   "desc": "circuit-based ML and chemistry simulation with verification-first rigor, benchmarks that survive noise, and classical surrogates that carry the workload meanwhile."
   },
   {
    "title": "LLM Fine-Tuning & Model Operations",
@@ -1515,7 +1515,7 @@
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for content generic is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for content generic is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Workforce & Vocational Training, the pattern is client economics — cost per client/cohort with showback. Pricing evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. That is the engineering behind Workforce & Vocational Training."
+   "x": "In Workforce & Vocational Training, the pattern is client economics, cost per client/cohort with showback. Pricing evidenced sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. That is the engineering behind Workforce & Vocational Training."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The content generic cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Client economics), and the gate review decides what scales — all inside one quarter in Workforce & Vocational Training. In Workforce & Vocational Training programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "The content generic cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Client economics), and the gate review decides what scales, all inside one quarter in Workforce & Vocational Training. In Workforce & Vocational Training programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Workforce & Vocational Training: Privacy — learner data duties; Accessibility — delivery duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Workforce & Vocational Training: Privacy, learner data duties; Accessibility, delivery duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cloud, Edge & Platform for Workforce & Vocational Training in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cloud, Edge & Platform for Workforce & Vocational Training in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 522,

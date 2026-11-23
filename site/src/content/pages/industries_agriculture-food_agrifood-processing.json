@@ -272,7 +272,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Agri-Food Processing, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Agri-Food Processing, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 317,
@@ -337,13 +337,13 @@
    "title": "Applied AI & GenAI for Agri-Food Processing",
    "url": "/industries/agriculture-food/agrifood-processing/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for Agri-Food Processing",
    "url": "/industries/agriculture-food/agrifood-processing/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Agri-Food Processing",
@@ -355,13 +355,13 @@
    "title": "Blockchain & Digital Trust for Agri-Food Processing",
    "url": "/industries/agriculture-food/agrifood-processing/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "IoT, Twin & Robotics for Agri-Food Processing",
    "url": "/industries/agriculture-food/agrifood-processing/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

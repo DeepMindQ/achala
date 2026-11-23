@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in CPG & Brands answers a daily gap: Trade promotion management and Demand planning produce data faster than decisions. The structured answer: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. For CPG & Brands, this is the standard the build is held to."
+   "x": "Applied AI & GenAI in CPG & Brands answers a daily gap: Trade promotion management and Demand planning produce data faster than decisions. The structured answer: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. For CPG & Brands, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for retailer data fragmented — a script here, a spreadsheet there — have usually been tried in CPG & Brands. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for retailer data fragmented, a script here, a spreadsheet there, have usually been tried in CPG & Brands. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In CPG & Brands, the pattern is promotion intelligence — promo uplift modeling with causal design. Spend redirected sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. For CPG & Brands, this is the standard the build is held to."
+   "x": "In CPG & Brands, the pattern is promotion intelligence, promo uplift modeling with causal design. Spend redirected sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. For CPG & Brands, this is the standard the build is held to."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The retailer data fragmented cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Promotion intelligence), and the gate review decides what scales — all inside one quarter in CPG & Brands. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For CPG & Brands, that discipline is not optional — it is the engagement model."
+   "x": "The retailer data fragmented cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Promotion intelligence), and the gate review decides what scales, all inside one quarter in CPG & Brands. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For CPG & Brands, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for CPG & Brands: EUDR (commodity due diligence); DPP (product data duties approaching); Advertising standards (claims substantiation). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for CPG & Brands: EUDR (commodity due diligence); DPP (product data duties approaching); Advertising standards (claims substantiation). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Retail & Consumer Goods: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Two clocks run in Retail & Consumer Goods: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Retail & Consumer Goods: demand sensing — streaming signals (sales, weather, local events, search) into daily SKU-location forecasts. Forecast error down 20-35% is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Retail & Consumer Goods: demand sensing, streaming signals (sales, weather, local events, search) into daily SKU-location forecasts. Forecast error down 20-35% is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. personalization without privacy architecture is measured with your finance and risk leads in the room, then one working path — demand sensing — goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. personalization without privacy architecture is measured with your finance and risk leads in the room, then one working path, demand sensing, goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Retail & Consumer Goods: GDPR/CCPA and consent regimes (profiling, consent and preference management duties); EU AI Act transparency (personalization and pricing automation disclosure expectations); CSRD/ISSB-adjacent reporting (scope 3 and packaging data with auditability). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Retail & Consumer Goods: GDPR/CCPA and consent regimes (profiling, consent and preference management duties); EU AI Act transparency (personalization and pricing automation disclosure expectations); CSRD/ISSB-adjacent reporting (scope 3 and packaging data with auditability). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -86,19 +86,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -186,25 +186,25 @@
    "title": "Applied AI & GenAI for Omnichannel Retail",
    "url": "/industries/retail-consumer-goods/omnichannel-retail/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for CPG & Brands",
    "url": "/industries/retail-consumer-goods/cpg-brands/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Grocery & Convenience",
    "url": "/industries/retail-consumer-goods/grocery-convenience/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Fashion & Luxury",
    "url": "/industries/retail-consumer-goods/fashion-luxury/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

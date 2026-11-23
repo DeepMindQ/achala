@@ -1,83 +1,56 @@
 {
- "id": "PLT-nexus-uc",
+ "id": "PLT-eems-uc",
  "title": "EEMS Platform — Industry Use Cases",
  "url": "/platforms/eems/use-cases/",
  "template": "platform_usecases",
  "breadcrumb": "Platforms > EEMS Platform > Industry Use Cases",
  "seo_title": "EEMS Platform — Industry Use Cases | Achala IT Solutions",
- "meta_description": "How EEMS Platform is deployed across industries: banking, insurance, healthcare, retail and more.",
+ "meta_description": "Use cases for EEMS Platform: state emergency services, hospital networks and private ambulance operators.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Where EEMS Platform earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+   "x": "Where EEMS Platform runs: the emergency workflows each type of operator puts through it and what the deployment delivers."
   },
   {
    "t": "h2",
-   "x": "Where the cost hides"
+   "x": "Who runs it and what it delivers"
+  },
+  {
+   "t": "p",
+   "x": "State emergency services, hospital networks and private ambulance operators. The largest deployment handles 50,000+ cases a day across 9 states."
   },
   {
    "t": "table",
    "caption": "EEMS Platform — where it runs and what it does there",
    "headers": [
-    "Industry",
-    "The decision routed through the platform",
-    "What the deployment adds"
+    "Operator",
+    "The workflow on the platform",
+    "What the deployment delivers"
    ],
    "rows": [
     [
-     "Banking",
-     "Real-time fraud and credit decisions on instant rails",
-     "Decision replay that satisfies the regulator in minutes"
+     "State emergency services",
+     "Call intake, triage and vehicle dispatch",
+     "Faster response times; one operational picture across districts"
     ],
     [
-     "Insurance",
-     "Claim triage and pricing decisions at document volume",
-     "Policy-versioned decisions auditors can walk alone"
+     "Hospital networks",
+     "Case handover and bed availability coordination",
+     "Shorter handover delays; emergency arrivals matched to capacity"
     ],
     [
-     "Healthcare",
-     "Prior-authorization and care-routing choices",
-     "Evidence trails that survive HIPAA scrutiny"
-    ],
-    [
-     "Retail",
-     "Pricing, markdown and inventory decisions per store",
-     "Challenger testing that proves the policy improved"
-    ],
-    [
-     "Telecom",
-     "Network capacity and credit-control decisions",
-     "Latency bounds with SLA guarantees"
-    ],
-    [
-     "Energy",
-     "Grid balancing and load decisions under volatility",
-     "Full decision lineage for the regulator"
+     "Private ambulance operators",
+     "Fleet tracking, crew scheduling and compliance",
+     "Higher fleet utilization; maintenance caught before failures"
     ]
    ]
   },
   {
-   "t": "h2",
-   "x": "The cadence you would see"
-  },
-  {
-   "t": "p",
-   "x": "EEMS Platform deployments begin narrow: one decision class, one owner, one evidence pack. The second use case inherits the controls; the third inherits the audit story."
-  },
-  {
-   "t": "h2",
-   "x": "The setting, described honestly"
-  },
-  {
-   "t": "p",
-   "x": "Operators see EEMS Platform as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
-  },
-  {
    "t": "cta",
-   "x": "Talk to the team that runs a working session on EEMS Platform in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Book a briefing with the EEMS team. We will walk through your dispatch workflow and show what the platform would change."
   }
  ],
- "words": 235,
+ "words": 184,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "EEMS Platform",
@@ -99,39 +72,19 @@
  ],
  "related": [
   {
-   "title": "EEMS Platform — Overview",
+   "title": "EEMS Platform",
    "url": "/platforms/eems/",
-   "desc": "Decision Intelligence Hub"
+   "desc": "AI-powered emergency response — dispatch, fleet readiness and field coordination"
   },
   {
-   "title": "EEMS Platform — Architecture & Trust",
+   "title": "EEMS Platform — Architecture & Security",
    "url": "/platforms/eems/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "EEMS Platform — Industry Use Cases",
    "url": "/platforms/eems/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A top-10 European retail bank",
-   "url": "/case-studies/bank-01/",
-   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A national health insurer",
-   "url": "/case-studies/hc-02/",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
-  },
-  {
-   "title": "A global fashion group",
-   "url": "/case-studies/ret-02/",
-   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

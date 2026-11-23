@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "These are the governance and incentive failures, not the modeling ones — each countermeasure is a structural change to how the portfolio is funded and judged."
+   "x": "These are the governance and incentive failures, not the modeling ones, each countermeasure is a structural change to how the portfolio is funded and judged."
   },
   {
    "t": "table",
@@ -296,7 +296,7 @@
   },
   {
    "t": "p",
-   "x": "How an idea moves through screening, baseline definition, gate scoring and the fund-or-kill verdict — with the exit paths where most ideas correctly die."
+   "x": "How an idea moves through screening, baseline definition, gate scoring and the fund-or-kill verdict, with the exit paths where most ideas correctly die."
   },
   {
    "t": "diagram",
@@ -320,7 +320,7 @@
   },
   {
    "t": "p",
-   "x": "Funded slices, baselines signed, median time to first gate, ideas stopped on evidence and platform reuse — the five numbers that show whether strategy is compounding or performing."
+   "x": "Funded slices, baselines signed, median time to first gate, ideas stopped on evidence and platform reuse, the five numbers that show whether strategy is compounding or performing."
   },
   {
    "t": "idash",
@@ -616,7 +616,7 @@
   },
   {
    "t": "p",
-   "x": "Allocation bands across four quarters: discovery, provability, build and industrialize. The healthy signature is a portfolio that shifts weight right as evidence accumulates — not one that stays in discovery forever."
+   "x": "Allocation bands across four quarters: discovery, provability, build and industrialize. The healthy signature is a portfolio that shifts weight right as evidence accumulates, not one that stays in discovery forever."
   },
   {
    "t": "chart",
@@ -1172,34 +1172,34 @@
     [
      "Intake instrument",
      "One-page provability canvas: metric, owner, data path, kill criterion",
-     "Two-hundred-line business cases — nobody reads them and they hide weak math"
+     "Two-hundred-line business cases, nobody reads them and they hide weak math"
     ],
     [
      "Risk tiering",
      "Three tiers mapped to gates and evidence depth",
-     "Single committee for everything — the queue is the program's coffin"
+     "Single committee for everything, the queue is the program's coffin"
     ],
     [
      "Platform call",
      "Gateway-first with registry and eval spine before the third build",
-     "Waiting for 'the vendor landscape to settle' — it does not"
+     "Waiting for 'the vendor landscape to settle', it does not"
     ],
     [
      "Team topology",
      "Platform team + 2–4 product-aligned slices",
-     "One central 'AI team' doing everything — it becomes the bottleneck"
+     "One central 'AI team' doing everything, it becomes the bottleneck"
     ],
     [
      "Board reporting",
      "KPI ledger with spend, deltas and stop-loss record",
-     "Activity updates — they reward motion instead of value"
+     "Activity updates, they reward motion instead of value"
     ]
    ]
   },
   {
    "t": "h2",
    "x": "Screen, tier, slice, scale — the evidence each rung demands",
-   "sub": "Screen, tier, slice, scale — what each rung requires"
+   "sub": "Screen, tier, slice, scale, what each rung requires"
   },
   {
    "t": "table",
@@ -1213,7 +1213,7 @@
     [
      "Screen gate",
      "Is the use case provable and owned?",
-     "Metric, owner, data path, kill criterion — all named"
+     "Metric, owner, data path, kill criterion, all named"
     ],
     [
      "Platform gate",
@@ -1251,7 +1251,7 @@
     ],
     [
      "Platform decision memo",
-     "Direction, constraints, migration path — signed by engineering leadership"
+     "Direction, constraints, migration path, signed by engineering leadership"
     ],
     [
      "Gate model",
@@ -1267,14 +1267,14 @@
     ],
     [
      "Board pack template",
-     "KPI ledger, spend-vs-value, stop-loss record — quarterly cadence"
+     "KPI ledger, spend-vs-value, stop-loss record, quarterly cadence"
     ]
    ]
   },
   {
    "t": "h2",
    "x": "How the strategy engagement runs",
-   "sub": "Interviews, intake design, first board cycle — the shape of the work"
+   "sub": "Interviews, intake design, first board cycle, the shape of the work"
   },
   {
    "t": "bullets",
@@ -1293,7 +1293,7 @@
     ],
     [
      "Weeks 7–8 — first funded slice",
-     "Baseline signed, team staffed, gate dates set — delivery starts, not planning"
+     "Baseline signed, team staffed, gate dates set, delivery starts, not planning"
     ],
     [
      "Weeks 9–10 — operating model live",
@@ -1346,7 +1346,7 @@
   },
   {
    "t": "p",
-   "x": "Decision lineage is the deliverable: every funded and killed idea carries its screen, baseline and verdict — the record that makes the next audit a reading exercise instead of an archaeology project."
+   "x": "Decision lineage is the deliverable: every funded and killed idea carries its screen, baseline and verdict, the record that makes the next audit a reading exercise instead of an archaeology project."
   },
   {
    "t": "bullets",
@@ -1376,17 +1376,17 @@
   {
    "t": "h2",
    "x": "The portfolio is priced at intake",
-   "sub": "Expected-value discipline — why funded slices carry kill criteria and the ledger never closes",
+   "sub": "Expected-value discipline, why funded slices carry kill criteria and the ledger never closes",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "AI strategy fails as a roadmap because roadmaps promise; portfolios price. Every idea enters the intake with a value hypothesis and a cost class, gets a provability screen (what metric would move, measured how), and lands in a risk tier that dictates its evidence bar. Funded delivery slices are quarterly and metric-bound: each carries explicit kill criteria — the numbers that, unmet, stop the spend — and the KPI ledger tracks every funded idea from funding to retirement, so the steering committee argues from a ledger instead of from enthusiasm.",
+   "x": "AI strategy fails as a roadmap because roadmaps promise; portfolios price. Every idea enters the intake with a value hypothesis and a cost class, gets a provability screen (what metric would move, measured how), and lands in a risk tier that dictates its evidence bar. Funded delivery slices are quarterly and metric-bound: each carries explicit kill criteria, the numbers that, unmet, stop the spend, and the KPI ledger tracks every funded idea from funding to retirement, so the steering committee argues from a ledger instead of from enthusiasm.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The platform direction memo is the quiet core of the engagement: buy, build or partner per capability, with the reasoning written down and revisited on dates, not vibes. The audit trail matters more than the memo — the record of what was funded, killed and why is the artifact boards, auditors and (eventually) regulators read, and it is generated continuously by the governance surface rather than reconstructed after the fact.",
+   "x": "The platform direction memo is the quiet core of the engagement: buy, build or partner per capability, with the reasoning written down and revisited on dates, not vibes. The audit trail matters more than the memo, the record of what was funded, killed and why is the artifact boards, auditors and (eventually) regulators read, and it is generated continuously by the governance surface rather than reconstructed after the fact.",
    "phase3_deep": true
   },
   {
@@ -1402,7 +1402,7 @@
     ],
     [
      "Kill criteria at funding",
-     "Every slice ships with the numbers that stop it — decided while calm."
+     "Every slice ships with the numbers that stop it, decided while calm."
     ],
     [
      "A living KPI ledger",
@@ -1416,11 +1416,11 @@
    "items": [
     [
      "How do you price an AI idea at intake?",
-     "Every idea enters with an expected-value line: the value hypothesis, the data it depends on, the integration surface and the cost to prove it. Unpriced enthusiasm goes back to the sender — the screen is cheap, the provable slice is not."
+     "Every idea enters with an expected-value line: the value hypothesis, the data it depends on, the integration surface and the cost to prove it. Unpriced enthusiasm goes back to the sender, the screen is cheap, the provable slice is not."
     ],
     [
      "What stops the portfolio funding only safe ideas?",
-     "Risk tiers set the evidence bar, not the ambition: a regulated-customer-facing idea needs stronger gates than an internal draft assistant, but both are fundable — the tier is matched to the risk, not used to avoid it."
+     "Risk tiers set the evidence bar, not the ambition: a regulated-customer-facing idea needs stronger gates than an internal draft assistant, but both are fundable, the tier is matched to the risk, not used to avoid it."
     ],
     [
      "How do kill criteria actually get enforced?",
@@ -1428,17 +1428,17 @@
     ],
     [
      "Will this work with our existing PMO and stage-gate process?",
-     "Yes — the rungs map onto stage gates: screen, tier, slice and scale each produce the artifact your PMO already expects, in your template, so AI investments stop living outside the corporate machinery."
+     "Yes, the rungs map onto stage gates: screen, tier, slice and scale each produce the artifact your PMO already expects, in your template, so AI investments stop living outside the corporate machinery."
     ],
     [
      "What does the board actually see each quarter?",
-     "The portfolio console: funded, killed and verdicts on one surface, with the ledger behind it. The record shows what was decided, on what evidence and by whom — readable, not slideware."
+     "The portfolio console: funded, killed and verdicts on one surface, with the ledger behind it. The record shows what was decided, on what evidence and by whom, readable, not slideware."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the pilot inventory — including the dead ones. The two-week diagnostic will tell you which of them were killable on evidence, and what the funded portfolio should have looked like instead."
+   "x": "Bring the pilot inventory, including the dead ones. The two-week diagnostic will tell you which of them were killable on evidence, and what the funded portfolio should have looked like instead."
   }
  ],
  "words": 1176,
@@ -1529,37 +1529,37 @@
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Same domain",
-   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers — baseline first, real data path, no demo-ware."
+   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers, baseline first, real data path, no demo-ware."
   },
   {
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Same domain",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Pairs with",
-   "desc": "extraction and adjudication inside the process — documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
+   "desc": "extraction and adjudication inside the process, documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Pairs with",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Pairs with",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "A specialty chemicals producer",
    "url": "/case-studies/mfg-02/",
    "tag": "Evidence",
-   "desc": "Yield +3.4 points and energy per tonne down 17% — APC augmentation program."
+   "desc": "Yield +3.4 points and energy per tonne down 17%, APC augmentation program."
   }
  ],
  "evidence": [

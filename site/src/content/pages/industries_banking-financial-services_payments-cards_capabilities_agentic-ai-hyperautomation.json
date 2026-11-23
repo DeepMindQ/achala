@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation earns its place in Payments & Cards only when it changes what Authorization decisioning costs or what Chargeback/dispute handling returns. The engagement is built around one measurable path: orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "Agentic AI & Hyperautomation earns its place in Payments & Cards only when it changes what Authorization decisioning costs or what Chargeback/dispute handling returns. The engagement is built around one measurable path: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Payments & Cards, the pattern is real-time decision hub — streaming features + policy + models on the authorization path with replay. Approval up at equal fraud sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "In Payments & Cards, the pattern is real-time decision hub, streaming features + policy + models on the authorization path with replay. Approval up at equal fraud sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The PCI DSS 4.0 evidence load cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Real-time decision hub), and the gate review decides what scales — all inside one quarter in Payments & Cards. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Payments & Cards, that discipline is not optional — it is the engagement model."
+   "x": "The PCI DSS 4.0 evidence load cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Real-time decision hub), and the gate review decides what scales, all inside one quarter in Payments & Cards. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Payments & Cards, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -195,7 +195,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Agentic AI & Hyperautomation frame in Payments & Cards: PCI DSS 4.0 — cardholder-data estate compliance with continuous expectations; PSD2/instant payments — real-time rails with fraud duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Agentic AI & Hyperautomation frame in Payments & Cards: PCI DSS 4.0, cardholder-data estate compliance with continuous expectations; PSD2/instant payments, real-time rails with fraud duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

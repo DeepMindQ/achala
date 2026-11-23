@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it — Food Safety & Food Retail edition:"
+   "x": "As operators describe it, Food Safety & Food Retail edition:"
   },
   {
    "t": "bullets",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Food Safety & Food Retail, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Food Safety & Food Retail, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 327,
@@ -327,31 +327,31 @@
    "title": "Applied AI & GenAI for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Blockchain & Digital Trust for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "IoT, Twin & Robotics for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI answers Retail & Consumer Goods pressure where it lands in Fashion & Luxury: size-curve risk unmanaged, week after week. The architectural answer: the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Applied AI & GenAI answers Retail & Consumer Goods pressure where it lands in Fashion & Luxury: size-curve risk unmanaged, week after week. The architectural answer: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI ground truth in Fashion & Luxury: Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible — but the intelligence beneath it decides which drops pay."
+   "x": "The Applied AI & GenAI ground truth in Fashion & Luxury: Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible, but the intelligence beneath it decides which drops pay."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Fashion & Luxury, the pattern is clienteling copilot — client history/preferences surfaced to associates. Repeat spend up sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "In Fashion & Luxury, the pattern is clienteling copilot, client history/preferences surfaced to associates. Repeat spend up sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The size-curve risk unmanaged cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Clienteling copilot), and the gate review decides what scales — all inside one quarter in Fashion & Luxury. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "The size-curve risk unmanaged cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Clienteling copilot), and the gate review decides what scales, all inside one quarter in Fashion & Luxury. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Fashion & Luxury: GDPR — client profiling duties; Product-regulation (materials) — claims duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Fashion & Luxury: GDPR, client profiling duties; Product-regulation (materials), claims duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Applied AI & GenAI for Fashion & Luxury in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Applied AI & GenAI for Fashion & Luxury in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 474,

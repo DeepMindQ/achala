@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Retention +4.1 points in target cohorts — early-warning to advising loop"
+   "x": "Retention +4.1 points in target cohorts, early-warning to advising loop"
   },
   {
    "t": "h2",
@@ -211,11 +211,11 @@
     ],
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
     ]
    ]
   },

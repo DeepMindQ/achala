@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics as we run it in Banking & Financial Services inverts the predictable failures — the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "IoT, Twin & Robotics as we run it in Banking & Financial Services inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more IoT, Twin & Robotics pressure from Banking & Financial Services: Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics — nobody can state cost per payment processed or per account opened."
+   "x": "One more IoT, Twin & Robotics pressure from Banking & Financial Services: Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics, nobody can state cost per payment processed or per account opened."
   },
   {
    "t": "h2",
@@ -36,7 +36,7 @@
     ],
     [
      "Core estate inertia",
-     "Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics — nobody can state cost per payment processed or per account opened."
+     "Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics, nobody can state cost per payment processed or per account opened."
     ],
     [
      "Harvest-now-decrypt-later exposure",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Banking & Financial Services: branch and office estate telemetry — environment, occupancy and ATM telemetry into facilities and service analytics. Facilities energy cost down 10-15% is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Banking & Financial Services: branch and office estate telemetry, environment, occupancy and ATM telemetry into facilities and service analytics. Facilities energy cost down 10-15% is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. fraud and AML decisions too slow is measured with your finance and risk leads in the room, then one working path — branch and office estate telemetry — goes live inside the quarter. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Banking & Financial Services, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. fraud and AML decisions too slow is measured with your finance and risk leads in the room, then one working path, branch and office estate telemetry, goes live inside the quarter. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Banking & Financial Services, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -236,19 +236,19 @@
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "Sense everything that matters — retrofit-friendly sensor fabric with governed telemetry."
+     "Sense everything that matters, retrofit-friendly sensor fabric with governed telemetry."
     ],
     [
      "Digital Twin Platform Engineering",
-     "Simulate before you cut steel — plant, fleet and product twins with governed physics and data."
+     "Simulate before you cut steel, plant, fleet and product twins with governed physics and data."
     ],
     [
      "Computer Vision & Edge AI",
-     "Cameras into instruments — inspection, safety and counting at the edge, inside policy."
+     "Cameras into instruments, inspection, safety and counting at the edge, inside policy."
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "Fix it before it fails — RUL models wired into planning, spare parts and work orders."
+     "Fix it before it fails, RUL models wired into planning, spare parts and work orders."
     ]
    ]
   },

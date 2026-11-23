@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "HPC is where this domain pays the bills today: risk Monte Carlo, CFD/FEA, molecular dynamics, large-scale optimization. The engineering is workload-shaped — solvers tuned to the math, clusters benchmarked like engines (HPL and application-level), data pipelines that feed simulations with provenance, and a cost-per-solve metric that keeps the queue honest."
+   "x": "HPC is where this domain pays the bills today: risk Monte Carlo, CFD/FEA, molecular dynamics, large-scale optimization. The engineering is workload-shaped, solvers tuned to the math, clusters benchmarked like engines (HPL and application-level), data pipelines that feed simulations with provenance, and a cost-per-solve metric that keeps the queue honest."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these wastes queue hours and compute budget invisibly — the countermeasures measure the folklore, break the I/O walls and bring order to ensemble chaos."
+   "x": "Each of these wastes queue hours and compute budget invisibly, the countermeasures measure the folklore, break the I/O walls and bring order to ensemble chaos."
   },
   {
    "t": "table",
@@ -300,7 +300,7 @@
   },
   {
    "t": "p",
-   "x": "From job submission through scheduling, solver execution, I/O staging and the ensemble aggregation — including where queue-wait SLOs are enforced and what happens when a class-A job waits too long."
+   "x": "From job submission through scheduling, solver execution, I/O staging and the ensemble aggregation, including where queue-wait SLOs are enforced and what happens when a class-A job waits too long."
   },
   {
    "t": "diagram",
@@ -324,7 +324,7 @@
   },
   {
    "t": "p",
-   "x": "Application benchmark score, cost per solve and class-A queue wait — the three numbers that run the estate and justify every capacity request."
+   "x": "Application benchmark score, cost per solve and class-A queue wait, the three numbers that run the estate and justify every capacity request."
   },
   {
    "t": "idash",
@@ -632,7 +632,7 @@
   },
   {
    "t": "p",
-   "x": "Application benchmark score and cost per solve across cluster generations — the curve that decides refresh timing and shows where tuning paid for itself."
+   "x": "Application benchmark score and cost per solve across cluster generations, the curve that decides refresh timing and shows where tuning paid for itself."
   },
   {
    "t": "chart",
@@ -1127,27 +1127,27 @@
     [
      "Scheduler",
      "Queue classes with SLOs per workload type",
-     "One FIFO queue — research starves production"
+     "One FIFO queue, research starves production"
     ],
     [
      "Solvers",
      "Versioned library with regression tests",
-     "Hand-tuned scripts — performance folklore"
+     "Hand-tuned scripts, performance folklore"
     ],
     [
      "I/O",
      "Parallel filesystem + lifecycle policies",
-     "Default POSIX patterns — checkpoint walls"
+     "Default POSIX patterns, checkpoint walls"
     ],
     [
      "Workflows",
      "Ensemble orchestration with provenance",
-     "Shell scripts and spreadsheets — resumability dies"
+     "Shell scripts and spreadsheets, resumability dies"
     ],
     [
      "Benchmarks",
      "Application-level, workload-shaped",
-     "HPL-only planning — it flatters the wrong things"
+     "HPL-only planning, it flatters the wrong things"
     ]
    ]
   },
@@ -1301,7 +1301,7 @@
   },
   {
    "t": "p",
-   "x": "Solver versions, library stacks and run configurations are pinned per published result — the reproducibility ledger that makes every simulation citable inside the enterprise."
+   "x": "Solver versions, library stacks and run configurations are pinned per published result, the reproducibility ledger that makes every simulation citable inside the enterprise."
   },
   {
    "t": "bullets",
@@ -1326,7 +1326,7 @@
   },
   {
    "t": "note",
-   "x": "Solver folklore is retired by measurement: any tuning claim must carry its benchmark delta or it does not reach the cluster — the benchmark score is the estate's only oracle."
+   "x": "Solver folklore is retired by measurement: any tuning claim must carry its benchmark delta or it does not reach the cluster, the benchmark score is the estate's only oracle."
   },
   {
    "t": "h2",
@@ -1336,12 +1336,12 @@
   },
   {
    "t": "p",
-   "x": "HPC estates rot through folklore: partitions tuned by habit, solvers upgraded on vendor calendars, ensembles nobody can reproduce. The engineering disciplines them — partitions benchmarked per workload class with application benchmarks (not linpack alone), a solver library that is versioned and pinned with upgrade evidence, and ensemble orchestration that is seeded and reproducible: the same inputs produce the same ensemble, on demand, which is what makes simulation results citable.",
+   "x": "HPC estates rot through folklore: partitions tuned by habit, solvers upgraded on vendor calendars, ensembles nobody can reproduce. The engineering disciplines them, partitions benchmarked per workload class with application benchmarks (not linpack alone), a solver library that is versioned and pinned with upgrade evidence, and ensemble orchestration that is seeded and reproducible: the same inputs produce the same ensemble, on demand, which is what makes simulation results citable.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Cost per solve is the headline metric because it is the number that funds the estate: per-solve cost trended by class, allocation decisions argued from it, and queue policies designed against it (a job that starves the partition for a weekend is a scheduling decision, not a right). The reproducibility overlay keeps the science honest — seeds archived, environments versioned, and the benchmark suite pinned so results compare across years rather than across press releases.",
+   "x": "Cost per solve is the headline metric because it is the number that funds the estate: per-solve cost trended by class, allocation decisions argued from it, and queue policies designed against it (a job that starves the partition for a weekend is a scheduling decision, not a right). The reproducibility overlay keeps the science honest, seeds archived, environments versioned, and the benchmark suite pinned so results compare across years rather than across press releases.",
    "phase3_deep": true
   },
   {
@@ -1357,7 +1357,7 @@
     ],
     [
      "Reproducible ensembles",
-     "Seeded, archived, re-runnable — results stay citable."
+     "Seeded, archived, re-runnable, results stay citable."
     ],
     [
      "Cost per solve, trended",
@@ -1371,15 +1371,15 @@
    "items": [
     [
      "Why does HPC rot?",
-     "Folklore tuning, unbenchmarked upgrades and scheduler drift: each change feels justified, none is measured. The estate is benchmarked per workload class, so a build earns its numbers — 80→94 on risk workloads — before users inherit it."
+     "Folklore tuning, unbenchmarked upgrades and scheduler drift: each change feels justified, none is measured. The estate is benchmarked per workload class, so a build earns its numbers, 80→94 on risk workloads, before users inherit it."
     ],
     [
      "How do you benchmark honestly?",
-     "Fixed benchmark suites per workload class — risk, CFD, ensembles — run on every candidate configuration, with variance reported. A score without variance is a rumor; the gates read the distribution."
+     "Fixed benchmark suites per workload class, risk, CFD, ensembles, run on every candidate configuration, with variance reported. A score without variance is a rumor; the gates read the distribution."
     ],
     [
      "Can you work with our existing cluster?",
-     "Yes — the benchmarked estate overlays what exists: schedulers and storage enter through the integration surface, and the first build is a measurement pass that prices what tuning would buy."
+     "Yes, the benchmarked estate overlays what exists: schedulers and storage enter through the integration surface, and the first build is a measurement pass that prices what tuning would buy."
     ],
     [
      "How is reproducibility governed?",
@@ -1387,13 +1387,13 @@
     ],
     [
      "What does computational engineering inherit?",
-     "The benchmarked platform, the console with cost per solve as the headline, the gates and the reproducibility overlay — the team runs compute as an engineering asset, not a utility bill."
+     "The benchmarked platform, the console with cost per solve as the headline, the gates and the reproducibility overlay, the team runs compute as an engineering asset, not a utility bill."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the simulation that queues for days and costs a fortune per run. The benchmark sprint will tune the solver, break the I/O wall — and price every future solve honestly."
+   "x": "Bring the simulation that queues for days and costs a fortune per run. The benchmark sprint will tune the solver, break the I/O wall, and price every future solve honestly."
   }
  ],
  "words": 958,
@@ -1478,43 +1478,43 @@
    "title": "Quantum Optimization for Enterprise Problems",
    "url": "/services/quantum-advanced-compute/quantum-optimization/",
    "tag": "Same domain",
-   "desc": "hybrid optimization on real problems — QUBO formulation, annealer and gate-model access, and classical polish that beats the baseline or says so."
+   "desc": "hybrid optimization on real problems, QUBO formulation, annealer and gate-model access, and classical polish that beats the baseline or says so."
   },
   {
    "title": "Quantum Readiness & Strategy",
    "url": "/services/quantum-advanced-compute/quantum-readiness-strategy/",
    "tag": "Same domain",
-   "desc": "honest quantum strategy — use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
+   "desc": "honest quantum strategy, use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
   },
   {
    "title": "Neuromorphic & Emerging Compute Advisory",
    "url": "/services/quantum-advanced-compute/emerging-compute-advisory/",
    "tag": "Same domain",
-   "desc": "neutral horizon scanning — photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
+   "desc": "neutral horizon scanning, photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Pairs with",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Pairs with",
-   "desc": "one operating model across clouds and on-prem — workload placement by policy, portable patterns, and drift that is measured in one place."
+   "desc": "one operating model across clouds and on-prem, workload placement by policy, portable patterns, and drift that is measured in one place."
   },
   {
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Pairs with",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "A parcel network (12M parcels/week)",
    "url": "/case-studies/log-03/",
    "tag": "Evidence",
-   "desc": "Failed deliveries down 34% — promise engine and exception agents."
+   "desc": "Failed deliveries down 34%, promise engine and exception agents."
   }
  ],
  "evidence": [

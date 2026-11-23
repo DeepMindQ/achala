@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Recovery that is rehearsed, not documented: immutable backups with integrity checks, clean-room restores that prove the RTO, and a command structure that has already survived its worst day — on a schedule, with evidence."
+   "x": "Recovery that is rehearsed, not documented: immutable backups with integrity checks, clean-room restores that prove the RTO, and a command structure that has already survived its worst day, on a schedule, with evidence."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Resilience is measured in one moment: the day ransomware lands, can you restore the business service faster than the signed RTO? Everything else — the runbooks, the immutability, the clean rooms — exists to make that answer yes without improvisation."
+   "x": "Resilience is measured in one moment: the day ransomware lands, can you restore the business service faster than the signed RTO? Everything else, the runbooks, the immutability, the clean rooms, exists to make that answer yes without improvisation."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these is discovered during the real incident, which is the worst possible discovery context — the countermeasures surface them in rehearsals instead."
+   "x": "Each of these is discovered during the real incident, which is the worst possible discovery context, the countermeasures surface them in rehearsals instead."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Three properties carry the architecture: backups immutable and isolated from the compromised estate, restores executed in clean rooms with integrity verification, and business-service RTOs rehearsed with the command structure — so the first real run is never the first run."
+   "x": "Three properties carry the architecture: backups immutable and isolated from the compromised estate, restores executed in clean rooms with integrity verification, and business-service RTOs rehearsed with the command structure, so the first real run is never the first run."
   },
   {
    "t": "arch",
@@ -302,7 +302,7 @@
   },
   {
    "t": "p",
-   "x": "From drill declaration through clean-room build, restore, integrity verification, service validation and the timed handback — including where the drill clock stops and what evidence each stage produces."
+   "x": "From drill declaration through clean-room build, restore, integrity verification, service validation and the timed handback, including where the drill clock stops and what evidence each stage produces."
   },
   {
    "t": "diagram",
@@ -326,7 +326,7 @@
   },
   {
    "t": "p",
-   "x": "Restore drill RTO adherence, immutability coverage and integrity pass rates — the three numbers that separate rehearsed resilience from recovery fiction."
+   "x": "Restore drill RTO adherence, immutability coverage and integrity pass rates, the three numbers that separate rehearsed resilience from recovery fiction."
   },
   {
    "t": "idash",
@@ -614,7 +614,7 @@
   },
   {
    "t": "p",
-   "x": "RTO adherence and restore integrity per business service across drill rounds — the shape that shows which services are honestly recoverable and which are carrying paper promises."
+   "x": "RTO adherence and restore integrity per business service across drill rounds, the shape that shows which services are honestly recoverable and which are carrying paper promises."
   },
   {
    "t": "chart",
@@ -1102,27 +1102,27 @@
     [
      "Immutability",
      "Object-lock / WORM vault copies",
-     "Snapshot-only protection — ransomware deletes those first"
+     "Snapshot-only protection, ransomware deletes those first"
     ],
     [
      "Dependency mapping",
      "Business-service maps with restore order",
-     "Server inventory recovery — nobody restores a business that way"
+     "Server inventory recovery, nobody restores a business that way"
     ],
     [
      "Restore orchestration",
      "Clean-room rebuild with staged resume",
-     "In-place restore — it brings the compromise back"
+     "In-place restore, it brings the compromise back"
     ],
     [
      "Command",
      "Rehearsed incident command with decision log",
-     "Improvised response — the log is written by lawyers later"
+     "Improvised response, the log is written by lawyers later"
     ],
     [
      "Evidence",
      "Drill evidence packs + regulatory format",
-     "Narrative reports — insurers want timestamps"
+     "Narrative reports, insurers want timestamps"
     ]
    ]
   },
@@ -1276,7 +1276,7 @@
   },
   {
    "t": "p",
-   "x": "Command roles, decision thresholds and communications templates are rehearsed with the drills — because the command structure that only exists in a PDF fails exactly when it is needed."
+   "x": "Command roles, decision thresholds and communications templates are rehearsed with the drills, because the command structure that only exists in a PDF fails exactly when it is needed."
   },
   {
    "t": "bullets",
@@ -1301,23 +1301,23 @@
   },
   {
    "t": "note",
-   "x": "Every drill produces findings with owners and dates, and the next drill re-tests them first — resilience programs compound by closing findings, not by running more drills.",
+   "x": "Every drill produces findings with owners and dates, and the next drill re-tests them first, resilience programs compound by closing findings, not by running more drills.",
    "variant": "success"
   },
   {
    "t": "h2",
    "x": "The RTO is whatever the last drill proved",
-   "sub": "Immutable vaults, clean-room restores and timed rehearsals — recovery as measured fact",
+   "sub": "Immutable vaults, clean-room restores and timed rehearsals, recovery as measured fact",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Recovery plans are fictional until rehearsed: the runbook references a backup nobody tested, the vault shares identity with the domain the ransomware owns, and the RTO on the slide has never been measured. The discipline makes recovery a systems property — business services carry named RTO/RPO targets, snapshots are immutable and air-gapped, the vault sits on a separate identity plane (compromised domain credentials cannot reach it), and the clean-room restore rebuilds into a segregated network before anything touches production. Rehearsals are timed, per service tier, and the drill evidence — actual restore duration — is the only RTO anyone is allowed to state.",
+   "x": "Recovery plans are fictional until rehearsed: the runbook references a backup nobody tested, the vault shares identity with the domain the ransomware owns, and the RTO on the slide has never been measured. The discipline makes recovery a systems property, business services carry named RTO/RPO targets, snapshots are immutable and air-gapped, the vault sits on a separate identity plane (compromised domain credentials cannot reach it), and the clean-room restore rebuilds into a segregated network before anything touches production. Rehearsals are timed, per service tier, and the drill evidence, actual restore duration, is the only RTO anyone is allowed to state.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Incident command is trained like a fire drill: named roles, a communication plan with pre-drafted holding statements, and decision thresholds written while calm. The console reads drill results per business service; the review asks the hard question — which service's RTO slipped, and what changes before the next drill.",
+   "x": "Incident command is trained like a fire drill: named roles, a communication plan with pre-drafted holding statements, and decision thresholds written while calm. The console reads drill results per business service; the review asks the hard question, which service's RTO slipped, and what changes before the next drill.",
    "phase3_deep": true
   },
   {
@@ -1347,29 +1347,29 @@
    "items": [
     [
      "What does \"your RTO is whatever your last rehearsal proved\" mean?",
-     "Exactly that: an RTO written in a document is an aspiration. The signed RTO stands only while the last drill achieved it with headroom — the console shows signed versus drill-achieved per service, and a missed drill invalidates the claim."
+     "Exactly that: an RTO written in a document is an aspiration. The signed RTO stands only while the last drill achieved it with headroom, the console shows signed versus drill-achieved per service, and a missed drill invalidates the claim."
     ],
     [
      "How do backups survive a ransomware attack with domain admin?",
-     "Immutable, isolated: backup copies are immutable within a window and isolated from the production identity plane. The restore path assumes the attacker holds domain admin — which is the drill that matters."
+     "Immutable, isolated: backup copies are immutable within a window and isolated from the production identity plane. The restore path assumes the attacker holds domain admin, which is the drill that matters."
     ],
     [
      "How often do you rehearse?",
-     "Per the drill calendar: every business service drills against its signed RTO on a cadence, with scenarios rotated — partial corruption, region loss, identity-plane compromise — and results posted to the console."
+     "Per the drill calendar: every business service drills against its signed RTO on a cadence, with scenarios rotated, partial corruption, region loss, identity-plane compromise, and results posted to the console."
     ],
     [
      "What does incident command get at handover?",
-     "The drill calendar, the runbooks from real drills, the console and the gates — command shifts from improvising a recovery to executing the rehearsed one, with evidence the drill already produced."
+     "The drill calendar, the runbooks from real drills, the console and the gates, command shifts from improvising a recovery to executing the rehearsed one, with evidence the drill already produced."
     ],
     [
      "Can you work with our existing backup estate?",
-     "Yes — the integration surface names the backup estates and business services. Where immutability or isolation is missing, the defaults table names the deviation and the price of signing it."
+     "Yes, the integration surface names the backup estates and business services. Where immutability or isolation is missing, the defaults table names the deviation and the price of signing it."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Set a date: the next restore drill on your crown-jewel service, in a clean room, with the clock running. We will bring the harness — and publish the findings with owners."
+   "x": "Set a date: the next restore drill on your crown-jewel service, in a clean room, with the clock running. We will bring the harness, and publish the findings with owners."
   }
  ],
  "words": 977,
@@ -1454,31 +1454,31 @@
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Same domain",
-   "desc": "detection engineering with measured coverage — threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
+   "desc": "detection engineering with measured coverage, threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
   },
   {
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Same domain",
-   "desc": "per-request policy decisions on identity, device and context — network location stops being a privilege, and coverage is measured on the paths that matter."
+   "desc": "per-request policy decisions on identity, device and context, network location stops being a privilege, and coverage is measured on the paths that matter."
   },
   {
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Same domain",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Pairs with",
-   "desc": "one operating model across clouds and on-prem — workload placement by policy, portable patterns, and drift that is measured in one place."
+   "desc": "one operating model across clouds and on-prem, workload placement by policy, portable patterns, and drift that is measured in one place."
   },
   {
    "title": "Quantum Readiness & Strategy",
    "url": "/services/quantum-advanced-compute/quantum-readiness-strategy/",
    "tag": "Pairs with",
-   "desc": "honest quantum strategy — use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
+   "desc": "honest quantum strategy, use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
   },
   {
    "title": "RAG & Enterprise Knowledge Systems",
@@ -1490,7 +1490,7 @@
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

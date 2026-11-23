@@ -5,11 +5,11 @@
  "template": "consulting_hub",
  "breadcrumb": "Consulting",
  "seo_title": "Consulting Services — 13 Practices | Achala IT Solutions",
- "meta_description": "Thirteen IT consulting & engineering practices — data migration, software development, testing, analytics, cybersecurity, Azure, ERP and more — under one outcome-gated delivery system.",
+ "meta_description": "Thirteen IT consulting and engineering practices: data migration, software development, testing, modernization, IT services, cloud, ERP and cybersecurity.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Thirteen consulting and engineering practices, one governed delivery system. Data migration, software development, testing, application modernization, experience design, IT services, analytics, transformation programs, managed capacity, end-user support, cybersecurity, Azure cloud and ERP — each with a named method, a real toolchain and artifacts that change hands."
+   "x": "Thirteen consulting and engineering practices covering data migration, software development, testing, application modernization, experience design, IT services, cloud, ERP and cybersecurity. The team that advises you is the team that builds, one diagnostic, one signed baseline, one accountable delivery."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The section is organized the way engagements are actually staffed: data and analytics practices build the decision substrate; engineering and quality practices ship the systems; cloud and operations practices run the estate; advisory practices frame the programs that hold it all together. Practices compose — a transformation program draws on all four groups without changing the delivery mechanics."
+   "x": "The section is organized the way engagements are actually staffed: data and analytics practices build the decision substrate; engineering and quality practices ship the systems; cloud and operations practices run the estate; advisory practices frame the programs that hold it all together. Practices compose, a transformation program draws on all four groups without changing the delivery mechanics."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a consulting briefing — describe the problem, and we will map it to the practice, the method and the team shape in 45 minutes."
+   "x": "Book a consulting briefing, describe the problem, and we will map it to the practice, the method and the team shape in 45 minutes."
   }
  ],
  "words": 189,

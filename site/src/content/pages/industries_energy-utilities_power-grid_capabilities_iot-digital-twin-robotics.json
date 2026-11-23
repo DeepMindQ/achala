@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "CIP/62443 compliance load is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "CIP/62443 compliance load is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Power Generation & Grid, the pattern is substation telemetry — condition monitoring on critical assets. Outages down sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "In Power Generation & Grid, the pattern is substation telemetry, condition monitoring on critical assets. Outages down sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The CIP/62443 compliance load cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Substation telemetry), and the gate review decides what scales — all inside one quarter in Power Generation & Grid. In Power Generation & Grid programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The CIP/62443 compliance load cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Substation telemetry), and the gate review decides what scales, all inside one quarter in Power Generation & Grid. In Power Generation & Grid programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the IoT, Twin & Robotics side of Power Generation & Grid, the binding duties are concrete — NERC CIP (bulk-system cyber standards); Electricity market codes (balancing/settlement duties); EU network codes (operational duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the IoT, Twin & Robotics side of Power Generation & Grid, the binding duties are concrete, NERC CIP (bulk-system cyber standards); Electricity market codes (balancing/settlement duties); EU network codes (operational duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring IoT, Twin & Robotics for Power Generation & Grid to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring IoT, Twin & Robotics for Power Generation & Grid to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 460,

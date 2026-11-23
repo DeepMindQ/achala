@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Retention on a governed propensity stack — involuntary churn down 40% and save-offer efficiency up 34%"
+   "x": "Retention on a governed propensity stack, involuntary churn down 40% and save-offer efficiency up 34%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a mobile operator whose retention budget went to customers who asked loudest rather than those who mattered most. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a mobile operator whose retention budget went to customers who asked loudest rather than those who mattered most. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter priced the shouting: save offers triggered by cancellation calls, 61% of offers landing on customers who would have stayed anyway, and involuntary churn — billing failures, SIM swaps — unmanaged entirely."
+   "x": "The baseline quarter priced the shouting: save offers triggered by cancellation calls, 61% of offers landing on customers who would have stayed anyway, and involuntary churn, billing failures, SIM swaps, unmanaged entirely."
   },
   {
    "t": "p",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt retention as a governed stack: churn signals from network, billing and care resolved into one propensity model retrained monthly with evaluation gates, involuntary-churn causes fixed at source (payment retries, eSIM flows), and save offers sequenced by customer lifetime with the contact policy enforced by the platform. The loudest customer stopped being the strategy."
+   "x": "We rebuilt retention as a platform suite: churn signals from network, billing and care resolved into one propensity model retrained monthly with evaluation gates, involuntary-churn causes fixed at source (payment retries, eSIM flows), and save offers sequenced by customer lifetime with the contact policy enforced by the platform. The loudest customer stopped being the strategy."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The retrain-with-gates pattern and involuntary-churn source fixes both travel; the offer economics were this operator's ARPU reality. Another operator starts from its own save-desk list — the diagnostic scores how stale it is."
+   "x": "The retrain-with-gates pattern and involuntary-churn source fixes both travel; the offer economics were this operator's ARPU reality. Another operator starts from its own save-desk list, the diagnostic scores how stale it is."
   },
   {
    "t": "table",

@@ -514,146 +514,184 @@
     "url": "/platforms/",
     "mega": [
      {
-      "label": "EEMS Platform — Decision Intelligence",
-      "url": "/platforms/eems/",
+      "label": "Achala Nexus — Decision Intelligence Hub",
+      "url": "/platforms/nexus/",
       "children": [
        {
         "label": "Overview",
+        "url": "/platforms/nexus/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/nexus/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/nexus/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Forge — Data & Lakehouse Engineering Platform",
+      "url": "/platforms/forge/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/forge/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/forge/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/forge/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Swarm — Agentic AI Orchestration Platform",
+      "url": "/platforms/swarm/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/swarm/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/swarm/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/swarm/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Sentinel — Zero-Trust & AI Security Platform",
+      "url": "/platforms/sentinel/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/sentinel/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/sentinel/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/sentinel/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+      "url": "/platforms/twinverse/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/twinverse/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/twinverse/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/twinverse/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Quanta — Quantum & Advanced Compute Suite",
+      "url": "/platforms/quanta/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/quanta/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/quanta/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/quanta/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Ledger — Distributed Trust & Tokenization Platform",
+      "url": "/platforms/ledger/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/ledger/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/ledger/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/ledger/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Achala Compass — Responsible AI & Governance Suite",
+      "url": "/platforms/compass/",
+      "children": [
+       {
+        "label": "Overview",
+        "url": "/platforms/compass/"
+       },
+       {
+        "label": "Architecture & Trust",
+        "url": "/platforms/compass/architecture/"
+       },
+       {
+        "label": "Use cases",
+        "url": "/platforms/compass/use-cases/"
+       }
+      ]
+     },
+     {
+      "label": "Platforms in production",
+      "url": "/platforms/",
+      "children": [
+       {
+        "label": "EEMS Platform",
         "url": "/platforms/eems/"
        },
        {
-        "label": "Architecture & Trust",
-        "url": "/platforms/eems/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/eems/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "Fleet Management System — Data & Lakehouse",
-      "url": "/platforms/fms/",
-      "children": [
-       {
-        "label": "Overview",
+        "label": "Fleet Management System",
         "url": "/platforms/fms/"
        },
        {
-        "label": "Architecture & Trust",
-        "url": "/platforms/fms/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/fms/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "KYC Management System — Agent Orchestration",
-      "url": "/platforms/kyc/",
-      "children": [
-       {
-        "label": "Overview",
+        "label": "KYC Management System",
         "url": "/platforms/kyc/"
        },
        {
-        "label": "Architecture & Trust",
-        "url": "/platforms/kyc/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/kyc/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "Tele Medicine Platform — Security Fabric",
-      "url": "/platforms/telemedicine/",
-      "children": [
-       {
-        "label": "Overview",
-        "url": "/platforms/telemedicine/"
-       },
-       {
-        "label": "Architecture & Trust",
-        "url": "/platforms/telemedicine/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/telemedicine/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "BI & Analytics Platform — Digital Twin Ops",
-      "url": "/platforms/bi-analytics/",
-      "children": [
-       {
-        "label": "Overview",
-        "url": "/platforms/bi-analytics/"
-       },
-       {
-        "label": "Architecture & Trust",
-        "url": "/platforms/bi-analytics/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/bi-analytics/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "Token Management System — Advanced Compute",
-      "url": "/platforms/token-management/",
-      "children": [
-       {
-        "label": "Overview",
-        "url": "/platforms/token-management/"
-       },
-       {
-        "label": "Architecture & Trust",
-        "url": "/platforms/token-management/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/token-management/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "Patient Priority Portal — Digital Trust",
-      "url": "/platforms/patient-portal/",
-      "children": [
-       {
-        "label": "Overview",
-        "url": "/platforms/patient-portal/"
-       },
-       {
-        "label": "Architecture & Trust",
-        "url": "/platforms/patient-portal/architecture/"
-       },
-       {
-        "label": "Use cases",
-        "url": "/platforms/patient-portal/use-cases/"
-       }
-      ]
-     },
-     {
-      "label": "Driisti Smart Vision Glasses — AI Governance",
-      "url": "/platforms/driisti/",
-      "children": [
-       {
-        "label": "Overview",
+        "label": "Driisti Smart Vision Glasses",
         "url": "/platforms/driisti/"
        },
        {
-        "label": "Architecture & Trust",
-        "url": "/platforms/driisti/architecture/"
+        "label": "Patient Priority Portal",
+        "url": "/platforms/patient-portal/"
        },
        {
-        "label": "Use cases",
-        "url": "/platforms/driisti/use-cases/"
+        "label": "Token Management System",
+        "url": "/platforms/token-management/"
+       },
+       {
+        "label": "Tele Medicine Platform",
+        "url": "/platforms/telemedicine/"
+       },
+       {
+        "label": "BI & Analytics Platform",
+        "url": "/platforms/bi-analytics/"
        }
       ]
      }

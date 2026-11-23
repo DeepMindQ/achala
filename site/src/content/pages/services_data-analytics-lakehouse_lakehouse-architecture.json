@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Bronze to silver to gold on open table formats: a promotion path with quality gates between layers, time travel for every audit question, and storage economics signed with finance — instead of a swamp with dashboards on top."
+   "x": "Bronze to silver to gold on open table formats: a promotion path with quality gates between layers, time travel for every audit question, and storage economics signed with finance, instead of a swamp with dashboards on top."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "The lakehouse is not a product; it is a discipline of layers. Bronze keeps the truth as it arrived, silver makes it conform and trustworthy, gold models it for the business — and each promotion is a gated, testable transformation. When the layers blur, you get a swamp; when they hold, you get a platform where a bad feed is quarantined in minutes instead of corrupting a warehouse silently."
+   "x": "The lakehouse is not a product; it is a discipline of layers. Bronze keeps the truth as it arrived, silver makes it conform and trustworthy, gold models it for the business, and each promotion is a gated, testable transformation. When the layers blur, you get a swamp; when they hold, you get a platform where a bad feed is quarantined in minutes instead of corrupting a warehouse silently."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each failure mode starts as a convenience and compounds into an audit finding — the countermeasures are promotion gates, not policies nobody enforces."
+   "x": "Each failure mode starts as a convenience and compounds into an audit finding, the countermeasures are promotion gates, not policies nobody enforces."
   },
   {
    "t": "table",
@@ -302,7 +302,7 @@
   },
   {
    "t": "p",
-   "x": "From raw landing through dedup, quality gates, schema evolution and compaction to gold serving — including where a record is quarantined and who is paged."
+   "x": "From raw landing through dedup, quality gates, schema evolution and compaction to gold serving, including where a record is quarantined and who is paged."
   },
   {
    "t": "diagram",
@@ -326,7 +326,7 @@
   },
   {
    "t": "p",
-   "x": "Freshness SLA adherence, quarantine dwell, compaction lag and deduped storage growth — the pairing that keeps performance and economics in the same conversation."
+   "x": "Freshness SLA adherence, quarantine dwell, compaction lag and deduped storage growth, the pairing that keeps performance and economics in the same conversation."
   },
   {
    "t": "idash",
@@ -643,7 +643,7 @@
   },
   {
    "t": "p",
-   "x": "Query latency and storage cost per table class — the shape that decides compaction policy, tiering and which tables earn gold-level SLAs."
+   "x": "Query latency and storage cost per table class, the shape that decides compaction policy, tiering and which tables earn gold-level SLAs."
   },
   {
    "t": "chart",
@@ -1200,27 +1200,27 @@
     [
      "Table format",
      "Delta Lake or Iceberg with schema enforcement",
-     "Hive tables only for throwaway zones — no ACID, no time travel"
+     "Hive tables only for throwaway zones, no ACID, no time travel"
     ],
     [
      "Processing",
      "Spark for heavy transforms; dbt-style SQL for modeled layers",
-     "One engine dogma — pick per workload and be honest about why"
+     "One engine dogma, pick per workload and be honest about why"
     ],
     [
      "Streaming ingest",
      "Kafka-class bus into bronze with contract validation",
-     "Direct micro-batch without validation — bad rows land silently"
+     "Direct micro-batch without validation, bad rows land silently"
     ],
     [
      "Catalog",
      "Unity-class catalog with lineage and ownership",
-     "Folder-listing as a catalog — nobody can find or trust anything"
+     "Folder-listing as a catalog, nobody can find or trust anything"
     ],
     [
      "Storage layout",
      "Partition/ZOrder tuned by measured query patterns",
-     "Partition by date everywhere — it hurts most access patterns"
+     "Partition by date everywhere, it hurts most access patterns"
     ]
    ]
   },
@@ -1374,7 +1374,7 @@
   },
   {
    "t": "p",
-   "x": "Lineage from landing to serving is captured as data, not documentation — the audit question 'where did this number come from' resolves to a query, not a meeting."
+   "x": "Lineage from landing to serving is captured as data, not documentation, the audit question 'where did this number come from' resolves to a query, not a meeting."
   },
   {
    "t": "bullets",
@@ -1405,17 +1405,17 @@
   {
    "t": "h2",
    "x": "Bronze is immutable; gold is accountable",
-   "sub": "The promotion path — quarantine, conformance and gates that make tiers meaningful",
+   "sub": "The promotion path, quarantine, conformance and gates that make tiers meaningful",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Lakehouses become swamps when the tiers are folders rather than contracts: bronze rewritten, silver mutable, gold a dumping ground. The architecture makes the tiers behavioral — bronze is append-only and immutable (reprocess, never rewrite), silver is conformed under quarantine gates that hold failed records with reasons, gold is business marts where every table carries its metric contracts and its owner. The promotion path is gated: a record moves bronze to silver only through conformance, silver to gold only through quality gates, and every promotion is logged — the gate log is what an auditor reads.",
+   "x": "Lakehouses become swamps when the tiers are folders rather than contracts: bronze rewritten, silver mutable, gold a dumping ground. The architecture makes the tiers behavioral, bronze is append-only and immutable (reprocess, never rewrite), silver is conformed under quarantine gates that hold failed records with reasons, gold is business marts where every table carries its metric contracts and its owner. The promotion path is gated: a record moves bronze to silver only through conformance, silver to gold only through quality gates, and every promotion is logged, the gate log is what an auditor reads.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Table-format choices are engineering decisions, not defaults: time-travel semantics for replay, compaction policies for cost, schema-evolution rules tied to the registry's migration notes. Freshness and cost per table class are the console headline — because a platform that cannot say what each tier costs and how stale it is will be re-argued quarterly by everyone downstream.",
+   "x": "Table-format choices are engineering decisions, not defaults: time-travel semantics for replay, compaction policies for cost, schema-evolution rules tied to the registry's migration notes. Freshness and cost per table class are the console headline, because a platform that cannot say what each tier costs and how stale it is will be re-argued quarterly by everyone downstream.",
    "phase3_deep": true
   },
   {
@@ -1427,7 +1427,7 @@
     ],
     [
      "Quarantine with reasons",
-     "Failed records held and explained — never silently dropped."
+     "Failed records held and explained, never silently dropped."
     ],
     [
      "Gated promotion",
@@ -1445,7 +1445,7 @@
    "items": [
     [
      "Why do lakehouses become swamps?",
-     "Because everything landed and nothing was promoted: no gates between bronze and gold, no contracts to consumers, no freshness honesty. The swamp is a governance failure before it is a technology one — the promotion path is the fix."
+     "Because everything landed and nothing was promoted: no gates between bronze and gold, no contracts to consumers, no freshness honesty. The swamp is a governance failure before it is a technology one, the promotion path is the fix."
     ],
     [
      "What does \"bronze is immutable, gold is accountable\" mean?",
@@ -1453,7 +1453,7 @@
     ],
     [
      "How do you choose the table format?",
-     "The defaults table names the format per tier with the conditions under which we deviate — the decision is about concurrency, time travel and ecosystem fit, signed per estate rather than a fashion choice."
+     "The defaults table names the format per tier with the conditions under which we deviate, the decision is about concurrency, time travel and ecosystem fit, signed per estate rather than a fashion choice."
     ],
     [
      "What happens to existing warehouses during migration?",
@@ -1461,13 +1461,13 @@
     ],
     [
      "What does the platform team inherit?",
-     "The gated promotion path, the format decisions with their signatures, the console and the lineage overlay — a lakehouse where every gold table can explain why it deserves trust."
+     "The gated promotion path, the format decisions with their signatures, the console and the lineage overlay, a lakehouse where every gold table can explain why it deserves trust."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the table everyone quotes and nobody trusts. The diagnostic will score your promotion path — and show what a gold-tier SLA would cost on your real estate."
+   "x": "Bring the table everyone quotes and nobody trusts. The diagnostic will score your promotion path, and show what a gold-tier SLA would cost on your real estate."
   }
  ],
  "words": 1087,
@@ -1552,43 +1552,43 @@
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Same domain",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Same domain",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Same domain",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Pairs with",
-   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers — baseline first, real data path, no demo-ware."
+   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers, baseline first, real data path, no demo-ware."
   },
   {
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Pairs with",
-   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit — orchestration that survives partial failure as a normal event."
+   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit, orchestration that survives partial failure as a normal event."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Pairs with",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "A food processor (dairy)",
    "url": "/case-studies/agr-03/",
    "tag": "Evidence",
-   "desc": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program."
+   "desc": "Yield +2.8 points, recalls scoped in minutes, quality and traceability program."
   }
  ],
  "evidence": [

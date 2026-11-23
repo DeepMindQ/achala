@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Fraud and error capture up 26% — cross-source analytics with investigator case packs"
+   "x": "Fraud and error capture up 26%, cross-source analytics with investigator case packs"
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
     ],
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Cyber & Zero-Trust",
@@ -246,7 +246,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on the same diagnostic, your data, and a written feasibility read you can circulate."
+   "x": "one working session on the same diagnostic, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 308,

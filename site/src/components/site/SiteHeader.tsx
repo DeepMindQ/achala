@@ -55,15 +55,17 @@ const COL_META: Record<string, { icon: React.ComponentType<{ className?: string 
   "Risk & Resilience": { icon: ShieldAlert, blurb: "Fraud, cyber and scenario risk — decisions explained well enough to defend in audit." },
   "Operational Excellence": { icon: Gauge, blurb: "Automation, assets and IT ops — throughput economics with autonomous runbooks." },
   "Workforce & Experience": { icon: Users, blurb: "Copilots and service orchestration — the frontline gets leverage, not another dashboard." },
-  // platforms
-  "EEMS Platform — Decision Intelligence": { icon: CircleDot, blurb: "Millisecond decisions with full replay — the decision hub for streaming estates." },
-  "Fleet Management System — Data & Lakehouse": { icon: Database, blurb: "The estate every program builds on — contracts, pipelines and cost control." },
-  "KYC Management System — Agent Orchestration": { icon: Bot, blurb: "Agent fleets with queues and budgets — validated decentralized execution." },
-  "Tele Medicine Platform — Security Fabric": { icon: ShieldCheck, blurb: "Controls for people, machines and models — encrypted collaborative intelligence." },
-  "BI & Analytics Platform — Digital Twin Ops": { icon: Boxes, blurb: "Simulate, then act on physical assets — multimodal perception to actuation." },
-  "Token Management System — Advanced Compute": { icon: Atom, blurb: "Quantum-inspired optimization, benchmarked — schedule, route and allocate better." },
-  "Patient Priority Portal — Digital Trust": { icon: Link2, blurb: "Shared records regulators can inspect — consensus-gated releases." },
-  "Driisti Smart Vision Glasses — AI Governance": { icon: CompassIcon, blurb: "Model risk, validation and monitoring — self-evolving decision loops with evidence." },
+  // platform suite (from our R&D programme)
+  "Achala Nexus — Decision Intelligence Hub": { icon: CircleDot, blurb: "One decision API for credit, claims, triage and fraud, with versioned policies and full replay." },
+  "Achala Forge — Data & Lakehouse Engineering Platform": { icon: Database, blurb: "A lakehouse built with data contracts, tested pipelines and a run cost you can steer." },
+  "Achala Swarm — Agentic AI Orchestration Platform": { icon: Bot, blurb: "Large agent fleets run as one workforce — queues, budgets and human checkpoints included." },
+  "Achala Sentinel — Zero-Trust & AI Security Platform": { icon: ShieldCheck, blurb: "Zero-trust controls for people, machines and models, with evidence your auditors accept." },
+  "Achala Twinverse — Digital Twin & IoT Intelligence Platform": { icon: Boxes, blurb: "Sensor data to simulation to actuation — a twin you can trust for physical operations." },
+  "Achala Quanta — Quantum & Advanced Compute Suite": { icon: Atom, blurb: "Emerging compute benchmarked against the best classical baseline before you invest." },
+  "Achala Ledger — Distributed Trust & Tokenization Platform": { icon: Link2, blurb: "Permissioned networks for shared records and tokenized assets regulators can inspect." },
+  "Achala Compass — Responsible AI & Governance Suite": { icon: CompassIcon, blurb: "Model risk, validation and monitoring with evidence your model-risk committee approves." },
+  // production platforms
+  "Platforms in production": { icon: Wrench, blurb: "Eight platforms running client operations today — emergency response, fleets, KYC, telemedicine and more." },
   // insights / about
   "AI & Data viewpoints": { icon: BrainCircuit, blurb: "Field notes on production AI — what ships, what scales, what stalls." },
   "Automation & operations viewpoints": { icon: Bot, blurb: "What actually scales — automation economics from the delivery floor." },
@@ -358,7 +360,7 @@ export default function SiteHeader({ nav, brand }: { nav: Nav; brand: Brand }) {
     <header className="sticky top-0 z-50">
       <SkipLink />
       {/* announcement bar (CHG-381) */}
-      <AnnouncementBar message="EEMS, FMS, KYC — Achala platforms run in production every day — see how" href="/platforms/" />
+      <AnnouncementBar message="EEMS, FMS and KYC platforms run in production every day. See how" href="/platforms/" />
       {/* utility bar — brand navy (CHG-010) */}
       <div className="bg-navy-900 text-white/70 text-[11.5px]">
         <div className="container-dq flex h-8 items-center justify-between">

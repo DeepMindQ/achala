@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Circuit-based ML and chemistry simulation with verification-first rigor: trainability screens before training runs, noise-aware benchmarks that survive real hardware, classical surrogates as the honest control — and sim-to-real validation before any claim ships."
+   "x": "Circuit-based ML and chemistry simulation with verification-first rigor: trainability screens before training runs, noise-aware benchmarks that survive real hardware, classical surrogates as the honest control, and sim-to-real validation before any claim ships."
   },
   {
    "t": "p",
-   "x": "Quantum ML and simulation are research lanes with real engineering discipline: variational circuits for kernels and generative tasks, Hamiltonian simulation for chemistry and materials. The honest posture is dual-track — the quantum track builds benchmarked capability, and the classical track builds the surrogates that do today's work while hardware matures."
+   "x": "Quantum ML and simulation are research lanes with real engineering discipline: variational circuits for kernels and generative tasks, Hamiltonian simulation for chemistry and materials. The honest posture is dual-track, the quantum track builds benchmarked capability, and the classical track builds the surrogates that do today's work while hardware matures."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these produces a notebook result that evaporates on real hardware — the countermeasures screen trainability, respect noise and keep the classical surrogate honest."
+   "x": "Each of these produces a notebook result that evaporates on real hardware, the countermeasures screen trainability, respect noise and keep the classical surrogate honest."
   },
   {
    "t": "table",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Candidates pass trainability screens before training, benchmarks run noise-aware against simulator and hardware, and every quantum result is compared beside its classical surrogate — the surrogate is the control that keeps the field honest."
+   "x": "Candidates pass trainability screens before training, benchmarks run noise-aware against simulator and hardware, and every quantum result is compared beside its classical surrogate, the surrogate is the control that keeps the field honest."
   },
   {
    "t": "arch",
@@ -294,7 +294,7 @@
   },
   {
    "t": "p",
-   "x": "From problem encoding through trainability screening, circuit training, hardware verification and sim-to-real comparison — including the drift check that gates any claim leaving the lab."
+   "x": "From problem encoding through trainability screening, circuit training, hardware verification and sim-to-real comparison, including the drift check that gates any claim leaving the lab."
   },
   {
    "t": "diagram",
@@ -318,7 +318,7 @@
   },
   {
    "t": "p",
-   "x": "Hardware agreement, surrogate wins and trainability pass rates — the three numbers that show whether the pipeline is converging or cosplaying."
+   "x": "Hardware agreement, surrogate wins and trainability pass rates, the three numbers that show whether the pipeline is converging or cosplaying."
   },
   {
    "t": "idash",
@@ -652,7 +652,7 @@
   },
   {
    "t": "p",
-   "x": "Simulator-to-hardware agreement across rounds and hardware generations — the curve that shows when claims are safe to make and when the hardware still lies to the simulator."
+   "x": "Simulator-to-hardware agreement across rounds and hardware generations, the curve that shows when claims are safe to make and when the hardware still lies to the simulator."
   },
   {
    "t": "chart",
@@ -1151,27 +1151,27 @@
     [
      "Circuit design",
      "Problem-informed ansätze",
-     "Hardware-efficient-only — plateaus await"
+     "Hardware-efficient-only, plateaus await"
     ],
     [
      "Training",
      "Trainability probes before long runs",
-     "Blind sweeps — GPU-months vanish"
+     "Blind sweeps, GPU-months vanish"
     ],
     [
      "Simulation",
      "Statevector + tensor-network hybrid",
-     "Statevector for everything — memory dies first"
+     "Statevector for everything, memory dies first"
     ],
     [
      "Comparison",
      "Best-known classical mandatory",
-     "Toy classical baselines — dishonest by omission"
+     "Toy classical baselines, dishonest by omission"
     ],
     [
      "Anchoring",
      "Experimental data where it exists",
-     "Pure simulation claims — unanchored"
+     "Pure simulation claims, unanchored"
     ]
    ]
   },
@@ -1325,7 +1325,7 @@
   },
   {
    "t": "p",
-   "x": "No result leaves the program without its verification chain: ansatz, shots, calibration, surrogate comparison and sim-to-real delta — the claim gate that protects your credibility in a hype-heavy field."
+   "x": "No result leaves the program without its verification chain: ansatz, shots, calibration, surrogate comparison and sim-to-real delta, the claim gate that protects your credibility in a hype-heavy field."
   },
   {
    "t": "bullets",
@@ -1360,12 +1360,12 @@
   },
   {
    "t": "p",
-   "x": "Quantum-ML programs get seduced when enthusiasm meets hardware access: circuits run before trainability is assessed, barren plateaus eat the budget, and the program has a notebook full of losses and no claim. The discipline screens on paper first — ansatz expressibility and trainability assessed analytically (scaling of gradients, parameter counts, noise sensitivity) before any hardware reservation. Classical surrogates are trained per problem as both baseline and triage: if the surrogate answers the question, the quantum run is unnecessary; if it cannot, the screen says why the quantum attempt might.",
+   "x": "Quantum-ML programs get seduced when enthusiasm meets hardware access: circuits run before trainability is assessed, barren plateaus eat the budget, and the program has a notebook full of losses and no claim. The discipline screens on paper first, ansatz expressibility and trainability assessed analytically (scaling of gradients, parameter counts, noise sensitivity) before any hardware reservation. Classical surrogates are trained per problem as both baseline and triage: if the surrogate answers the question, the quantum run is unnecessary; if it cannot, the screen says why the quantum attempt might.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The agreement gate keeps claims honest: simulator and hardware results must agree within stated tolerances before any comparison to classical baselines counts, and the versus-classical compare runs on pinned instances with the honest benchmark discipline. The capability ledger records what demonstrably works — which problem classes, what tolerance, what date — and the claim gate means nothing leaves the lab as a claim without a ledger entry.",
+   "x": "The agreement gate keeps claims honest: simulator and hardware results must agree within stated tolerances before any comparison to classical baselines counts, and the versus-classical compare runs on pinned instances with the honest benchmark discipline. The capability ledger records what demonstrably works, which problem classes, what tolerance, what date, and the claim gate means nothing leaves the lab as a claim without a ledger entry.",
    "phase3_deep": true
   },
   {
@@ -1395,7 +1395,7 @@
    "items": [
     [
      "How do you stop quantum-ML programs from getting seduced?",
-     "Trainability screens before training: the expressibility and trainability of the ansatz are established on paper and small simulators first, so the GPU bill follows a screen that says the approach can learn — not hope."
+     "Trainability screens before training: the expressibility and trainability of the ansatz are established on paper and small simulators first, so the GPU bill follows a screen that says the approach can learn, not hope."
     ],
     [
      "What is \"hardware agreement\" and why does it matter?",
@@ -1403,21 +1403,21 @@
     ],
     [
      "Is the classical baseline always in the comparison?",
-     "Always: the classical surrogate is the honest opponent — in the chart it wins tasks 1 and 4 outright. The claim gate requires beating the classical baseline on the problem that matters, not on a toy."
+     "Always: the classical surrogate is the honest opponent, in the chart it wins tasks 1 and 4 outright. The claim gate requires beating the classical baseline on the problem that matters, not on a toy."
     ],
     [
      "Can you work with our chemistry lab systems?",
-     "Yes — the integration surface names simulators, hardware access and lab systems. Candidate molecules and validation data enter through typed seams, and results return in the formats the lab already trusts."
+     "Yes, the integration surface names simulators, hardware access and lab systems. Candidate molecules and validation data enter through typed seams, and results return in the formats the lab already trusts."
     ],
     [
      "What does research engineering inherit?",
-     "The dual-track pipeline, the console with agreement as the headline, the claim gate and the research governance overlay — claims that survive are reproducible, and the ones that do not were killed cheaply."
+     "The dual-track pipeline, the console with agreement as the headline, the claim gate and the research governance overlay, claims that survive are reproducible, and the ones that do not were killed cheaply."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the chemistry or materials problem your R&D lab keeps circling. The verification pipeline will tell you — on evidence — whether quantum earns a place in its workflow this year."
+   "x": "Bring the chemistry or materials problem your R&D lab keeps circling. The verification pipeline will tell you, on evidence, whether quantum earns a place in its workflow this year."
   }
  ],
  "words": 960,
@@ -1502,43 +1502,43 @@
    "title": "Post-Quantum Cryptography Migration",
    "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
    "tag": "Same domain",
-   "desc": "PQC migration as engineering — crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
+   "desc": "PQC migration as engineering, crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
   },
   {
    "title": "Quantum Optimization for Enterprise Problems",
    "url": "/services/quantum-advanced-compute/quantum-optimization/",
    "tag": "Same domain",
-   "desc": "hybrid optimization on real problems — QUBO formulation, annealer and gate-model access, and classical polish that beats the baseline or says so."
+   "desc": "hybrid optimization on real problems, QUBO formulation, annealer and gate-model access, and classical polish that beats the baseline or says so."
   },
   {
    "title": "Quantum Readiness & Strategy",
    "url": "/services/quantum-advanced-compute/quantum-readiness-strategy/",
    "tag": "Same domain",
-   "desc": "honest quantum strategy — use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
+   "desc": "honest quantum strategy, use-case triage on verifiable criteria, vendor-neutral posture, and a roadmap that survives contact with real hardware limits."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Pairs with",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Pairs with",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Pairs with",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "A global integrated energy major",
    "url": "/case-studies/en-02/",
    "tag": "Evidence",
-   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale."
+   "desc": "Turnaround duration down 14%, scheduling optimization at refinery scale."
   }
  ],
  "evidence": [

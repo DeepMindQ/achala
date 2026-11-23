@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Forecast error down 31% — imbalance cost recovered across three control zones"
+   "x": "Forecast error down 31%, imbalance cost recovered across three control zones"
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "The forecasting platform couples weather to asset-level generation and demand with uncertainty bands feeding the scheduling hub; substation telemetry (transformer/breaker condition) now predicts failures; and the OT security program delivered 62443 zoning with continuous evidence — security preceded every instrumentation wave."
+   "x": "The forecasting platform couples weather to asset-level generation and demand with uncertainty bands feeding the scheduling hub; substation telemetry (transformer/breaker condition) now predicts failures; and the OT security program delivered 62443 zoning with continuous evidence, security preceded every instrumentation wave."
   },
   {
    "t": "arch",
@@ -211,11 +211,11 @@
     ],
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Cyber & Zero-Trust",
-     "the controls were architectural — identity-first, segmented, instrumented — not bolted on after the fact."
+     "the controls were architectural, identity-first, segmented, instrumented, not bolted on after the fact."
     ]
    ]
   },
@@ -225,7 +225,7 @@
   },
   {
    "t": "p",
-   "x": "What transferred directly from the European TSO-DSO group program: the decision pattern and the evidence design. What never transfers: the estate's quirks — which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was outcome-linked; the same pattern runs fixed-scope where the estate allows it."
+   "x": "What transferred directly from the European TSO-DSO group program: the decision pattern and the evidence design. What never transfers: the estate's quirks, which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was outcome-linked; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Fraud bps down 31% at +1.5pt approval — real-time decision hub"
+   "x": "Fraud bps down 31% at +1.5pt approval, real-time decision hub"
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "The streaming decision hub scores onboarding and transactions with network analytics and policy layers under replay; alternative-data features (consented) improved underwriting quality; and compliance-as-code mapped controls to licensing conditions — the audit became evidence sampling."
+   "x": "The streaming decision hub scores onboarding and transactions with network analytics and policy layers under replay; alternative-data features (consented) improved underwriting quality; and compliance-as-code mapped controls to licensing conditions, the audit became evidence sampling."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",

@@ -23,7 +23,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery pods of four to seven engineers own a client capability end to end — architecture, code, runbook, and the weekly evidence review. There is no handoff theater: the person who designs the pipeline also gets paged for it, which concentrates the mind wonderfully."
+   "x": "Delivery pods of four to seven engineers own a client capability end to end, architecture, code, runbook, and the weekly evidence review. There is no handoff theater: the person who designs the pipeline also gets paged for it, which concentrates the mind wonderfully."
   },
   {
    "t": "h2",
@@ -31,7 +31,7 @@
   },
   {
    "t": "p",
-   "x": "We keep ceremony low and standards high: design docs beat status meetings, eval gates beat vibes, and every release carries its evidence pack. Engineers spend the majority of the week in flow work rather than coordination work — and we measure that ratio, because we would be hypocrites otherwise."
+   "x": "We keep ceremony low and standards high: design docs beat status meetings, eval gates beat vibes, and every release carries its evidence pack. Engineers spend the majority of the week in flow work rather than coordination work, and we measure that ratio, because we would be hypocrites otherwise."
   },
   {
    "t": "h2",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "Every engineer has a named technical mentor, a skills budget, and a quarterly craft review that examines artifacts — pull requests, runbooks, incident write-ups — rather than personality. Promotion cases are written from evidence, and the bar is published, not whispered."
+   "x": "Every engineer has a named technical mentor, a skills budget, and a quarterly craft review that examines artifacts, pull requests, runbooks, incident write-ups, rather than personality. Promotion cases are written from evidence, and the bar is published, not whispered."
   },
   {
    "t": "h2",
@@ -47,11 +47,11 @@
   },
   {
    "t": "p",
-   "x": "Delivery hubs in Hyderabad, Munich, Sofia and our India execution core, working as one pod across time zones with a written-first culture — decisions live in documents, not in meetings you had to attend."
+   "x": "Delivery hubs in Hyderabad, Munich, Sofia and our India execution core, working as one pod across time zones with a written-first culture, decisions live in documents, not in meetings you had to attend."
   },
   {
    "t": "cta",
-   "x": "Send your CV and one artifact you are proud of to careers@achalasolutions.com — a human reads it, and you will hear back inside a week."
+   "x": "Send your CV and one artifact you are proud of to careers@achalasolutions.com, a human reads it, and you will hear back inside a week."
   }
  ],
  "crumbs": [

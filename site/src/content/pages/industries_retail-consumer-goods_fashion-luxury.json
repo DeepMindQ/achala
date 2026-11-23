@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible — but the intelligence beneath it decides which drops pay. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible, but the intelligence beneath it decides which drops pay. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Fashion & Luxury",
    "url": "/industries/retail-consumer-goods/fashion-luxury/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Fashion & Luxury",
    "url": "/industries/retail-consumer-goods/fashion-luxury/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Fashion & Luxury",
    "url": "/industries/retail-consumer-goods/fashion-luxury/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Fashion & Luxury",
@@ -351,7 +351,7 @@
    "title": "Blockchain & Digital Trust for Fashion & Luxury",
    "url": "/industries/retail-consumer-goods/fashion-luxury/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

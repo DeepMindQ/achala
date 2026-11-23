@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Site twin with IoT energy orchestration — diesel runtime down 34% and site-visit costs down 28% across 6,800 domains"
+   "x": "Site twin with IoT energy orchestration, diesel runtime down 34% and site-visit costs down 28% across 6,800 domains"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a domain company whose margin lived or died with diesel and whose site visits were the second bill. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a domain company whose margin lived or died with diesel and whose site visits were the second bill. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Site hardware was heterogeneous — three generator generations, four battery chemistries — and no twin existed that could decide anything. Energy data arrived monthly, reconciled by spreadsheet."
+   "x": "Site hardware was heterogeneous, three generator generations, four battery chemistries, and no twin existed that could decide anything. Energy data arrived monthly, reconciled by spreadsheet."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The generation-aware orchestration pattern transfers across domain fleets; the hardware heterogeneity was this portfolio's procurement history. Another operator starts from its fuel ledgers — the diagnostic reconciles before promising."
+   "x": "The generation-aware orchestration pattern transfers across domain fleets; the hardware heterogeneity was this portfolio's procurement history. Another operator starts from its fuel ledgers, the diagnostic reconciles before promising."
   },
   {
    "t": "table",

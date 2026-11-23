@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Defense & National Security meets two truths at once — volume keeps growing, and the old way stopped scaling. The structured response: the physical layer gets wired to the decision loop — sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "IoT, Twin & Robotics in Defense & National Security meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Defense & National Security, the pattern is sensor integration fabric — platform telemetry normalized for fusion. Edge decisions faster sits on top as the measured result, tracked from the signed baseline onward. Around it, the physical layer gets wired to the decision loop — sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "In Defense & National Security, the pattern is sensor integration fabric, platform telemetry normalized for fusion. Edge decisions faster sits on top as the measured result, tracked from the signed baseline onward. Around it, the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. sensor integration fragmented is measured with your finance and risk leads in the room, then one working path — Sensor integration fabric — goes live inside the quarter. In Defense & National Security programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. sensor integration fragmented is measured with your finance and risk leads in the room, then one working path, Sensor integration fabric, goes live inside the quarter. In Defense & National Security programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -108,7 +108,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring IoT, Twin & Robotics for Defense & National Security to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring IoT, Twin & Robotics for Defense & National Security to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 486,

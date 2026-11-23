@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Event-log forensics that turn system footprints into a defensible automation pipeline: conformance-checked, variant-ranked, ROI-screened — with kill reasons logged so the backlog your board funds is the backlog reality earned."
+   "x": "Event-log forensics that turn system footprints into a defensible automation pipeline: conformance-checked, variant-ranked, ROI-screened, with kill reasons logged so the backlog your board funds is the backlog reality earned."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   },
   {
    "t": "p",
-   "x": "The deliverable that matters is a ranked pipeline with kill reasons. Most mined candidates die on data quality, permission reality or volume math — recording why is as valuable as the shortlist, because it stops the same idea being re-proposed every year."
+   "x": "The deliverable that matters is a ranked pipeline with kill reasons. Most mined candidates die on data quality, permission reality or volume math, recording why is as valuable as the shortlist, because it stops the same idea being re-proposed every year."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Mining fails as politics before it fails as statistics — each countermeasure below makes the output arguable in a steering meeting, which is where it has to survive."
+   "x": "Mining fails as politics before it fails as statistics, each countermeasure below makes the output arguable in a steering meeting, which is where it has to survive."
   },
   {
    "t": "table",
@@ -54,7 +54,7 @@
     [
      "Variant explosion",
      "Two hundred process variants; nobody can reason about the tail",
-     "Variant clustering by outcome cost, not frequency — the expensive tail matters most"
+     "Variant clustering by outcome cost, not frequency, the expensive tail matters most"
     ],
     [
      "Baseline disputes",
@@ -290,7 +290,7 @@
   },
   {
    "t": "p",
-   "x": "From log extraction through case building, variant analysis, conformance scoring and ROI screening to the ranked candidate list — including where the kill reasons get written."
+   "x": "From log extraction through case building, variant analysis, conformance scoring and ROI screening to the ranked candidate list, including where the kill reasons get written."
   },
   {
    "t": "diagram",
@@ -310,11 +310,11 @@
   {
    "t": "h2",
    "x": "The mining console process owners argue with",
-   "sub": "Variants, deltas and economics — designed for disagreement"
+   "sub": "Variants, deltas and economics, designed for disagreement"
   },
   {
    "t": "p",
-   "x": "Correlation quality, conformance score, funded candidates and logged kill reasons — the four numbers that make a backlog defensible or expose it as theater."
+   "x": "Correlation quality, conformance score, funded candidates and logged kill reasons, the four numbers that make a backlog defensible or expose it as theater."
   },
   {
    "t": "idash",
@@ -651,7 +651,7 @@
   },
   {
    "t": "p",
-   "x": "Where mined ideas die, by stage and count. A healthy cycle kills most candidates at conformance and ROI screens — the kill reasons are the audit trail that keeps the next cycle honest."
+   "x": "Where mined ideas die, by stage and count. A healthy cycle kills most candidates at conformance and ROI screens, the kill reasons are the audit trail that keeps the next cycle honest."
   },
   {
    "t": "chart",
@@ -1215,12 +1215,12 @@
     [
      "Discovery",
      "Inductive Miner variants + PM4Py for custom analyses",
-     "Hand-drawn BPMN as the source of truth — the log overrules it every time"
+     "Hand-drawn BPMN as the source of truth, the log overrules it every time"
     ],
     [
      "Conformance",
      "Token-replay + alignment-based conformance on the happy-path model",
-     "Frequency-only analysis — it hides the expensive rework loops"
+     "Frequency-only analysis, it hides the expensive rework loops"
     ],
     [
      "Monitoring",
@@ -1341,7 +1341,7 @@
   {
    "t": "h2",
    "x": "The log estate, honestly named — ERP to comms",
-   "sub": "ERP, CRM, ITSM, comms — the log estate, honestly named"
+   "sub": "ERP, CRM, ITSM, comms, the log estate, honestly named"
   },
   {
    "t": "p",
@@ -1409,17 +1409,17 @@
   {
    "t": "h2",
    "x": "Case keys before candidate lists",
-   "sub": "Join-quality discipline — the reason our mining output survives procurement and audit",
+   "sub": "Join-quality discipline, the reason our mining output survives procurement and audit",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Mining programs produce fiction when the event log joins badly: two systems that number the same case differently produce phantom rework, invented loops and variants that exist only in the join error. We therefore prove join quality before any mining runs — key overlap ratios, case-fragmentation rates and a reconciliation sample against source records, reported in the baseline audit. Only then do discovery models run, and they run as variant discovery, not averages: the queue of candidates is priced per variant, with kill reasons logged for every candidate that dies, so the pipeline is an auditable artifact rather than a workshop poster.",
+   "x": "Mining programs produce fiction when the event log joins badly: two systems that number the same case differently produce phantom rework, invented loops and variants that exist only in the join error. We therefore prove join quality before any mining runs, key overlap ratios, case-fragmentation rates and a reconciliation sample against source records, reported in the baseline audit. Only then do discovery models run, and they run as variant discovery, not averages: the queue of candidates is priced per variant, with kill reasons logged for every candidate that dies, so the pipeline is an auditable artifact rather than a workshop poster.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Conformance is the bridge from mining to delivery: the discovered flow is compared to the designed flow, and the delta — workarounds, shadow approvals, rework loops — is the actual automation backlog, ranked by priced economics. The continuous miner keeps the artifact alive: a monthly refresh with versioned models, so post-delivery conformance shows whether the automation moved the metric or merely moved the work. The mining console is built for that argument; process owners argue with it, which is exactly the point.",
+   "x": "Conformance is the bridge from mining to delivery: the discovered flow is compared to the designed flow, and the delta, workarounds, shadow approvals, rework loops, is the actual automation backlog, ranked by priced economics. The continuous miner keeps the artifact alive: a monthly refresh with versioned models, so post-delivery conformance shows whether the automation moved the metric or merely moved the work. The mining console is built for that argument; process owners argue with it, which is exactly the point.",
    "phase3_deep": true
   },
   {
@@ -1449,15 +1449,15 @@
    "items": [
     [
      "What if our event logs have inconsistent case IDs?",
-     "Join quality is proven before discovery. The join-proof gate reconciles a sampled set against system records, and if the keys cannot be defended, mining says so — instead of producing fiction downstream."
+     "Join quality is proven before discovery. The join-proof gate reconciles a sampled set against system records, and if the keys cannot be defended, mining says so, instead of producing fiction downstream."
     ],
     [
      "Does mining replace talking to the people who do the work?",
-     "No. Mined variants frame the interviews; the priced pipeline merges what the logs show with what operators know. Permission fails — 9 per cycle — are resolved with process owners, not around them."
+     "No. Mined variants frame the interviews; the priced pipeline merges what the logs show with what operators know. Permission fails, 9 per cycle, are resolved with process owners, not around them."
     ],
     [
      "How do candidates carry ROI numbers we can trust?",
-     "Each candidate is priced on reconciled frequency and effort deltas, and the pricing basis is part of the evidence pack — finance can audit the arithmetic before funding."
+     "Each candidate is priced on reconciled frequency and effort deltas, and the pricing basis is part of the evidence pack, finance can audit the arithmetic before funding."
     ],
     [
      "Is this a one-off workshop or an ongoing capability?",
@@ -1471,7 +1471,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring two quarters of event logs and one contested backlog. The mining cycle will tell you which candidates survive conformance — and which pet automation ideas the evidence kills."
+   "x": "Bring two quarters of event logs and one contested backlog. The mining cycle will tell you which candidates survive conformance, and which pet automation ideas the evidence kills."
   }
  ],
  "words": 1152,
@@ -1562,37 +1562,37 @@
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Same domain",
-   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit — orchestration that survives partial failure as a normal event."
+   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit, orchestration that survives partial failure as a normal event."
   },
   {
    "title": "Decision Intelligence Systems",
    "url": "/services/agentic-ai-hyperautomation/decision-intelligence-systems/",
    "tag": "Same domain",
-   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs — decisions you can defend to a regulator, not just scores in a dashboard."
+   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs, decisions you can defend to a regulator, not just scores in a dashboard."
   },
   {
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Pairs with",
-   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers — baseline first, real data path, no demo-ware."
+   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers, baseline first, real data path, no demo-ware."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Pairs with",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Pairs with",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "A top-10 European retail bank",
    "url": "/case-studies/bank-01/",
    "tag": "Evidence",
-   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate."
+   "desc": "Real-time fraud decisioning on instant rails, 38% lower fraud losses at a higher approval rate."
   }
  ],
  "evidence": [

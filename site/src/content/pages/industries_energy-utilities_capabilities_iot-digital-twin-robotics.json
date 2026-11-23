@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "IoT, Twin & Robotics in Energy & Utilities: Turbines, transformers and pipelines hold decades of life left — and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
+   "x": "IoT, Twin & Robotics in Energy & Utilities: Turbines, transformers and pipelines hold decades of life left, and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
   },
   {
    "t": "p",
@@ -32,17 +32,17 @@
    "items": [
     [
      "Asset fleets uninstrumented",
-     "Turbines, transformers and pipelines hold decades of life left — and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
+     "Turbines, transformers and pipelines hold decades of life left, and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Energy & Utilities: asset condition sensing — turbine/transformer/pipeline telemetry with retrofit engineering. Condition-based maintenance enabled is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Energy & Utilities: asset condition sensing, turbine/transformer/pipeline telemetry with retrofit engineering. Condition-based maintenance enabled is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. asset fleets uninstrumented gets a number, an owner and a signature; the quarter belongs to a bounded slice — asset condition sensing — live on your estate. In Energy & Utilities programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. asset fleets uninstrumented gets a number, an owner and a signature; the quarter belongs to a bounded slice, asset condition sensing, live on your estate. In Energy & Utilities programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -187,11 +187,11 @@
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics control frame for Energy & Utilities: NERC CIP (North America) (critical-infrastructure protection standards for bulk power systems); IEC 62443 / 61850 (industrial cybersecurity and substation automation standards); REMIT / MiFID II (energy market conduct and reporting obligations). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The IoT, Twin & Robotics control frame for Energy & Utilities: NERC CIP (North America) (critical-infrastructure protection standards for bulk power systems); IEC 62443 / 61850 (industrial cybersecurity and substation automation standards); REMIT / MiFID II (energy market conduct and reporting obligations). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "Sense everything that matters — retrofit-friendly sensor fabric with governed telemetry."
+     "Sense everything that matters, retrofit-friendly sensor fabric with governed telemetry."
     ],
     [
      "Digital Twin Platform Engineering",
-     "Simulate before you cut steel — plant, fleet and product twins with governed physics and data."
+     "Simulate before you cut steel, plant, fleet and product twins with governed physics and data."
     ],
     [
      "Computer Vision & Edge AI",
-     "Cameras into instruments — inspection, safety and counting at the edge, inside policy."
+     "Cameras into instruments, inspection, safety and counting at the edge, inside policy."
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "Fix it before it fails — RUL models wired into planning, spare parts and work orders."
+     "Fix it before it fails, RUL models wired into planning, spare parts and work orders."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring IoT, Twin & Robotics in Energy & Utilities to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring IoT, Twin & Robotics in Energy & Utilities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 523,
@@ -302,25 +302,25 @@
    "title": "IoT, Twin & Robotics for Oil & Gas",
    "url": "/industries/energy-utilities/oil-gas/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   },
   {
    "title": "IoT, Twin & Robotics for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   },
   {
    "title": "IoT, Twin & Robotics for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   },
   {
    "title": "IoT, Twin & Robotics for Water, Waste & City Utilities",
    "url": "/industries/energy-utilities/water-utilities/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

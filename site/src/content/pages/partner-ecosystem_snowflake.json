@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with Snowflake covers Governed data sharing and Snowflake-native applications — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with Snowflake covers Governed data sharing and Snowflake-native applications, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "Governed data-sharing networks across business units and partners",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Snowpark pipelines under data-contract quality gates",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Snowflake-native decision applications",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Cost guardrails and warehouse governance programs",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },

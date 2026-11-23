@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "One operating model across clouds and on-premises: workload placement by signed policy, portable patterns instead of dialects, egress budgets that hold, and identity seams that work — so the estate behaves like one system, not three vendors' territories."
+   "x": "One operating model across clouds and on-premises: workload placement by signed policy, portable patterns instead of dialects, egress budgets that hold, and identity seams that work, so the estate behaves like one system, not three vendors' territories."
   },
   {
    "t": "h2",
@@ -18,11 +18,11 @@
   },
   {
    "t": "p",
-   "x": "Multicloud done badly is three estates, three security models and three bills. Done well, it is a placement policy — workloads run where latency, data gravity and cost say they should — on top of portable patterns: containers, IaC, and a control plane that treats the clouds as fleets, not countries."
+   "x": "Multicloud done badly is three estates, three security models and three bills. Done well, it is a placement policy, workloads run where latency, data gravity and cost say they should, on top of portable patterns: containers, IaC, and a control plane that treats the clouds as fleets, not countries."
   },
   {
    "t": "p",
-   "x": "The practice covers the architecture (placement, connectivity, identity spanning), the operating model (one policy language, one observability fabric), and the honest tradeoffs — because some workloads should never leave a specific cloud, and pretending otherwise costs more later."
+   "x": "The practice covers the architecture (placement, connectivity, identity spanning), the operating model (one policy language, one observability fabric), and the honest tradeoffs, because some workloads should never leave a specific cloud, and pretending otherwise costs more later."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these costs money or uptime in ways nobody attributes — the countermeasures make placement, parity and egress contractual rather than folklore."
+   "x": "Each of these costs money or uptime in ways nobody attributes, the countermeasures make placement, parity and egress contractual rather than folklore."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Placement is decided by signed policy — data gravity, latency, cost and regulation — and enforced at deploy time; the pattern library stays portable so a workload's second cloud is a configuration, not a rewrite."
+   "x": "Placement is decided by signed policy, data gravity, latency, cost and regulation, and enforced at deploy time; the pattern library stays portable so a workload's second cloud is a configuration, not a rewrite."
   },
   {
    "t": "arch",
@@ -292,7 +292,7 @@
   },
   {
    "t": "p",
-   "x": "From placement evaluation through policy enforcement, portable-pattern deployment and the egress accounting — including the drift monitor that catches manual divergence between clouds."
+   "x": "From placement evaluation through policy enforcement, portable-pattern deployment and the egress accounting, including the drift monitor that catches manual divergence between clouds."
   },
   {
    "t": "diagram",
@@ -316,7 +316,7 @@
   },
   {
    "t": "p",
-   "x": "Placement policy coverage, policy parity and egress budget adherence — the three numbers that decide whether the estate is one system or three vendors' territories with a shared invoice."
+   "x": "Placement policy coverage, policy parity and egress budget adherence, the three numbers that decide whether the estate is one system or three vendors' territories with a shared invoice."
   },
   {
    "t": "idash",
@@ -649,7 +649,7 @@
   },
   {
    "t": "p",
-   "x": "Workload distribution and egress spend by placement policy — the shape that shows where data gravity is quietly taxing the business and which policies are paying off."
+   "x": "Workload distribution and egress spend by placement policy, the shape that shows where data gravity is quietly taxing the business and which policies are paying off."
   },
   {
    "t": "chart",
@@ -1143,27 +1143,27 @@
     [
      "Placement",
      "Policy engine with measured inputs",
-     "Team habit placement — it follows org charts, not physics"
+     "Team habit placement, it follows org charts, not physics"
     ],
     [
      "Connectivity",
      "Interconnect fabric with egress metering",
-     "VPN-only linking — it hides the cost curve"
+     "VPN-only linking, it hides the cost curve"
     ],
     [
      "Identity",
      "Workload federation with short-lived creds",
-     "Static cross-cloud keys — the standing risk"
+     "Static cross-cloud keys, the standing risk"
     ],
     [
      "Policy",
      "One model compiled per cloud",
-     "Per-cloud hand translation — gaps are structural"
+     "Per-cloud hand translation, gaps are structural"
     ],
     [
      "Observability",
      "One fabric across estates",
-     "Cloud-native consoles per estate — three blind spots"
+     "Cloud-native consoles per estate, three blind spots"
     ]
    ]
   },
@@ -1317,7 +1317,7 @@
   },
   {
    "t": "p",
-   "x": "Federated identity across clouds is the seam where estates fail; the overlay treats it as a product — tested failover, signed trust policies and a break-glass path per cloud that is rehearsed, not assumed."
+   "x": "Federated identity across clouds is the seam where estates fail; the overlay treats it as a product, tested failover, signed trust policies and a break-glass path per cloud that is rehearsed, not assumed."
   },
   {
    "t": "bullets",
@@ -1342,23 +1342,23 @@
   },
   {
    "t": "note",
-   "x": "Egress surprises are attributed publicly: when a workload breaches its egress budget, the architecture decision that caused it is named in the review — tribalism dies by attribution.",
+   "x": "Egress surprises are attributed publicly: when a workload breaches its egress budget, the architecture decision that caused it is named in the review, tribalism dies by attribution.",
    "variant": "warning"
   },
   {
    "t": "h2",
    "x": "Placement is a policy decision, not a meeting",
-   "sub": "The unified policy model — one source of truth compiled to each cloud's controls",
+   "sub": "The unified policy model, one source of truth compiled to each cloud's controls",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Hybrid estates go tribal when each cloud has its own policies, identity quirks and placement folklore — and the vendors are structurally uninterested in fixing it. The countermeasure is a unified policy model: placement rules, security controls and residency constraints written once, compiled to each cloud's native enforcement (IAM, guardrails, network policy), and diffed continuously so parity is measured, not claimed. The placement engine scores workloads against the policy — data gravity, residency, latency, unit cost, exit cost — and records the decision with its reasons, because a placement made in a meeting is unappealable.",
+   "x": "Hybrid estates go tribal when each cloud has its own policies, identity quirks and placement folklore, and the vendors are structurally uninterested in fixing it. The countermeasure is a unified policy model: placement rules, security controls and residency constraints written once, compiled to each cloud's native enforcement (IAM, guardrails, network policy), and diffed continuously so parity is measured, not claimed. The placement engine scores workloads against the policy, data gravity, residency, latency, unit cost, exit cost, and records the decision with its reasons, because a placement made in a meeting is unappealable.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The interconnect fabric is the second discipline: egress-aware topology designed before the first cross-cloud call, because egress economics punish retrofit. Federated identity keeps one IdP with per-cloud service providers, and the identity-seam overlay audits token lifetime and trust drift monthly — the seam between clouds is where hybrid estates actually fail.",
+   "x": "The interconnect fabric is the second discipline: egress-aware topology designed before the first cross-cloud call, because egress economics punish retrofit. Federated identity keeps one IdP with per-cloud service providers, and the identity-seam overlay audits token lifetime and trust drift monthly, the seam between clouds is where hybrid estates actually fail.",
    "phase3_deep": true
   },
   {
@@ -1388,7 +1388,7 @@
    "items": [
     [
      "How do we avoid cloud lock-in without a costly abstraction layer?",
-     "Patterns, not abstractions: golden deployment patterns with parity gates make a workload movable without a rewrite, and placement is a policy decision with an economics trail — no universal abstraction tax on teams that never move."
+     "Patterns, not abstractions: golden deployment patterns with parity gates make a workload movable without a rewrite, and placement is a policy decision with an economics trail, no universal abstraction tax on teams that never move."
     ],
     [
      "What keeps the clouds from drifting into separate tribes?",
@@ -1396,21 +1396,21 @@
     ],
     [
      "How are sovereign workloads handled?",
-     "Sovereignty is a placement policy: the on-prem share carries its data-residency rules as placement constraints the policy engine enforces — compliance is computed at placement time, not audited afterwards."
+     "Sovereignty is a placement policy: the on-prem share carries its data-residency rules as placement constraints the policy engine enforces, compliance is computed at placement time, not audited afterwards."
     ],
     [
      "What does moving a workload actually cost?",
-     "The egress economics are on the console: unit-cost indices per cloud, egress priced per pattern, and the gates require the economics before a placement change — the move is priced before it is approved."
+     "The egress economics are on the console: unit-cost indices per cloud, egress priced per pattern, and the gates require the economics before a placement change, the move is priced before it is approved."
     ],
     [
      "Who decides placement — architects or teams?",
-     "Teams propose, policy decides: placement runs through the policy engine against signed constraints — latency, residency, cost class — and deviations are documented per workload class with a named signer."
+     "Teams propose, policy decides: placement runs through the policy engine against signed constraints, latency, residency, cost class, and deviations are documented per workload class with a named signer."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the workload everyone is afraid to move. The diagnostic will price its placement by policy — and show what portability would cost versus what the current dialect costs every month."
+   "x": "Bring the workload everyone is afraid to move. The diagnostic will price its placement by policy, and show what portability would cost versus what the current dialect costs every month."
   }
  ],
  "words": 1000,
@@ -1490,43 +1490,43 @@
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Same domain",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Same domain",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Same domain",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Pairs with",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "Industrial IoT & Sensor Fabric",
    "url": "/services/iot-digital-twin-robotics/industrial-iot-sensor-fabric/",
    "tag": "Pairs with",
-   "desc": "instrumentation as infrastructure — versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
+   "desc": "instrumentation as infrastructure, versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Pairs with",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "A national consumer-electronics chain",
    "url": "/case-studies/ret-03/",
    "tag": "Evidence",
-   "desc": "Retail media incrementality proven — clean-room measurement adopted by every major brand."
+   "desc": "Retail media incrementality proven, clean-room measurement adopted by every major brand."
   }
  ],
  "evidence": [

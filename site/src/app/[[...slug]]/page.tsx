@@ -12,9 +12,9 @@ export function generateStaticParams(): { slug: string[] }[] {
 }
 
 const HOME_META: Metadata = {
-  title: "Achala IT Solutions — AI-driven IT solutions & digital engineering | AI, ML, IoT, cloud, data",
+  title: "Achala IT Solutions | Enterprise AI solutions, platforms & engineering services",
   description:
-    "Achala IT Solutions is an AI-first, platform-driven engineering company — taking solutions from POC to industrialization for mobility, healthcare, manufacturing and financial services. ISO/IEC 27001 · TISAX · GDPR-aligned.",
+    "Achala IT Solutions builds AI-first platforms and engineering services that take enterprise programs from proof of concept to production. ISO/IEC 27001 certified, TISAX-audited, GDPR-aligned — with delivery teams in India, Germany and Bulgaria.",
   alternates: { canonical: "/" },
 };
 

@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Hybrid optimization on real problems: QUBO formulations that respect encoding limits, annealer and gate-model access behind one benchmarking harness, classical polish on every quantum candidate — and advantage claimed only where the signed baseline says so."
+   "x": "Hybrid optimization on real problems: QUBO formulations that respect encoding limits, annealer and gate-model access behind one benchmarking harness, classical polish on every quantum candidate, and advantage claimed only where the signed baseline says so."
   },
   {
    "t": "p",
-   "x": "Optimization is quantum's most credible near-term lane: routing, scheduling, portfolio construction, bin packing — problems that formalize as QUBO or Ising and where good-enough-fast beats perfect-slow. The work is formulation discipline: encoding your problem without blowing up variable count, choosing annealer vs gate model honestly, and always finishing with classical polish."
+   "x": "Optimization is quantum's most credible near-term lane: routing, scheduling, portfolio construction, bin packing, problems that formalize as QUBO or Ising and where good-enough-fast beats perfect-slow. The work is formulation discipline: encoding your problem without blowing up variable count, choosing annealer vs gate model honestly, and always finishing with classical polish."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these turns a benchmark into a press release — the countermeasures pin the instance sets, respect the noise and finish the classical polish that makes results real."
+   "x": "Every one of these turns a benchmark into a press release, the countermeasures pin the instance sets, respect the noise and finish the classical polish that makes results real."
   },
   {
    "t": "table",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Problem ingestion through QUBO and circuit formulations, encoding-efficiency checks, annealer and gate-model execution, and the classical polish stage where quantum candidates are refined until they beat — or honestly lose to — the signed baseline."
+   "x": "Problem ingestion through QUBO and circuit formulations, encoding-efficiency checks, annealer and gate-model execution, and the classical polish stage where quantum candidates are refined until they beat, or honestly lose to, the signed baseline."
   },
   {
    "t": "arch",
@@ -308,7 +308,7 @@
   },
   {
    "t": "p",
-   "x": "From the real problem instance through encoding, quantum execution, classical polish and the baseline comparison — including the instance ledger that makes every result reproducible."
+   "x": "From the real problem instance through encoding, quantum execution, classical polish and the baseline comparison, including the instance ledger that makes every result reproducible."
   },
   {
    "t": "diagram",
@@ -332,7 +332,7 @@
   },
   {
    "t": "p",
-   "x": "Baselines beaten with verification, mean improvement and encoding efficiency — the three numbers that decide whether the portfolio funds the next bake-off."
+   "x": "Baselines beaten with verification, mean improvement and encoding efficiency, the three numbers that decide whether the portfolio funds the next bake-off."
   },
   {
    "t": "idash",
@@ -627,7 +627,7 @@
   },
   {
    "t": "p",
-   "x": "Wins and losses across problem classes and quarters — the shape that shows where quantum earns its keep today and where the classical solver remains the honest answer."
+   "x": "Wins and losses across problem classes and quarters, the shape that shows where quantum delivers results today and where the classical solver remains the honest answer."
   },
   {
    "t": "chart",
@@ -1112,27 +1112,27 @@
     [
      "Formulation",
      "QUBO builders with penalty engineering",
-     "Direct encodings — variable counts explode"
+     "Direct encodings, variable counts explode"
     ],
     [
      "Solve access",
      "Annealer + gate-model via stable APIs",
-     "One-hardware bets — the landscape shifts quarterly"
+     "One-hardware bets, the landscape shifts quarterly"
     ],
     [
      "Warm starts",
      "Classical solutions as initial states",
-     "Cold starts only — you waste samples"
+     "Cold starts only, you waste samples"
     ],
     [
      "Polish",
      "Local-search refinement as a stage",
-     "Shipping raw samples — feasibility suffers"
+     "Shipping raw samples, feasibility suffers"
     ],
     [
      "Benchmarking",
      "Pinned instances + noise calibration",
-     "Ad-hoc comparisons — results are folklore"
+     "Ad-hoc comparisons, results are folklore"
     ]
    ]
   },
@@ -1321,12 +1321,12 @@
   },
   {
    "t": "p",
-   "x": "Optimization programs manufacture fake advantage through encoding: the QUBO is built so the quantum-friendly form loses information the classical solver keeps, and the comparison is theater. The discipline decides the encoding first — the formulation is validated against the business problem with constraint fidelity tested (does the encoded solution violate the real constraints?) — before any hardware runs. The classical baseline is a formal challenger: the best known solver on the pinned benchmark instances, tuned, not a strawman.",
+   "x": "Optimization programs manufacture fake advantage through encoding: the QUBO is built so the quantum-friendly form loses information the classical solver keeps, and the comparison is theater. The discipline decides the encoding first, the formulation is validated against the business problem with constraint fidelity tested (does the encoded solution violate the real constraints?), before any hardware runs. The classical baseline is a formal challenger: the best known solver on the pinned benchmark instances, tuned, not a strawman.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The hybrid loop is where realistic wins live: quantum iterates, classical solvers polish, and the result is compared on the pinned benchmark with the advantage ledger recording verified wins per instance class — and nothing else. The console reads advantage per class and benchmark reproducibility; the bake-off discipline (instances pinned, seeds recorded, runs replayable) is what makes a verified win worth signing a delivery against.",
+   "x": "The hybrid loop is where realistic wins live: quantum iterates, classical solvers polish, and the result is compared on the pinned benchmark with the advantage ledger recording verified wins per instance class, and nothing else. The console reads advantage per class and benchmark reproducibility; the bake-off discipline (instances pinned, seeds recorded, runs replayable) is what makes a verified win worth signing a delivery against.",
    "phase3_deep": true
   },
   {
@@ -1338,7 +1338,7 @@
     ],
     [
      "Classical as formal challenger",
-     "The best tuned solver on pinned instances — never a strawman."
+     "The best tuned solver on pinned instances, never a strawman."
     ],
     [
      "Hybrid loop, classical polish",
@@ -1356,7 +1356,7 @@
    "items": [
     [
      "What is \"fake advantage\" in quantum optimization?",
-     "Wins attributed to the QPU that actually came from the encoding, warm starts or the classical polish step. The harness measures each component’s contribution — QPU samples at 3.1% — and the instance ledger keeps the bake-offs honest."
+     "Wins attributed to the QPU that actually came from the encoding, warm starts or the classical polish step. The harness measures each component’s contribution, QPU samples at 3.1%, and the instance ledger keeps the bake-offs honest."
     ],
     [
      "Why does encoding matter so much?",
@@ -1364,21 +1364,21 @@
     ],
     [
      "How do you prove an optimization win?",
-     "Verified against the production solver on the same instances: the bake-off ledger records instance families, seeds and reproducibility, and the claim gate requires the delta to survive re-runs — 1–3% verified beats 30% claimed."
+     "Verified against the production solver on the same instances: the bake-off ledger records instance families, seeds and reproducibility, and the claim gate requires the delta to survive re-runs, 1–3% verified beats 30% claimed."
     ],
     [
      "When is quantum worth piloting?",
-     "When the classical baseline is strong and stuck: the triage screens for combinatorial structure where even verified small gains compound — scheduling and portfolio classes pilot first; everything else stays on the watch list."
+     "When the classical baseline is strong and stuck: the triage screens for combinatorial structure where even verified small gains compound, scheduling and portfolio classes pilot first; everything else stays on the watch list."
     ],
     [
      "What does the optimization team inherit?",
-     "The harness, the instance ledger, the console and the benchmark governance overlay — the team runs bake-offs that finance can audit, with every claimed gain carrying its evidence."
+     "The harness, the instance ledger, the console and the benchmark governance overlay, the team runs bake-offs that finance can audit, with every claimed gain carrying its evidence."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring your hardest scheduling or routing instance. The bake-off will score quantum and classical on the same signed baseline — and either way you keep the reproducible result."
+   "x": "Bring your hardest scheduling or routing instance. The bake-off will score quantum and classical on the same signed baseline, and either way you keep the reproducible result."
   }
  ],
  "words": 967,
@@ -1463,43 +1463,43 @@
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Same domain",
-   "desc": "classical HPC that does the heavy lifting — benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
+   "desc": "classical HPC that does the heavy lifting, benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
   },
   {
    "title": "Post-Quantum Cryptography Migration",
    "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
    "tag": "Same domain",
-   "desc": "PQC migration as engineering — crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
+   "desc": "PQC migration as engineering, crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
   },
   {
    "title": "Quantum Machine Learning & Simulation",
    "url": "/services/quantum-advanced-compute/quantum-ml-simulation/",
    "tag": "Same domain",
-   "desc": "circuit-based ML and chemistry simulation with verification-first rigor — benchmarks that survive noise, and classical surrogates that carry the workload meanwhile."
+   "desc": "circuit-based ML and chemistry simulation with verification-first rigor, benchmarks that survive noise, and classical surrogates that carry the workload meanwhile."
   },
   {
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Pairs with",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Pairs with",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Pairs with",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "A parcel network (12M parcels/week)",
    "url": "/case-studies/log-03/",
    "tag": "Evidence",
-   "desc": "Failed deliveries down 34% — promise engine and exception agents."
+   "desc": "Failed deliveries down 34%, promise engine and exception agents."
   }
  ],
  "evidence": [

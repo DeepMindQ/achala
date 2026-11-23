@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform Engineering runs the estate as an economic and reliability system: hybrid placement by policy, golden paths that carry SLOs and budgets by default, edge fleets that survive partitions, and unit costs that fall on a signed trend line — across clouds, without tribal dialects."
+   "x": "Cloud, Edge & Platform Engineering runs the estate as an economic and reliability system: hybrid placement by policy, golden paths that carry SLOs and budgets by default, edge fleets that survive partitions, and unit costs that fall on a signed trend line, across clouds, without tribal dialects."
   },
   {
    "t": "p",
@@ -77,7 +77,7 @@
   },
   {
    "t": "p",
-   "x": "The platform conversation changed: engineering leaders no longer buy infrastructure, they buy change failure rates and unit costs. The seven practices here are managed on exactly those numbers — SLO adherence, path adoption, placement policy coverage, cost per workload — because those are the numbers the business actually experiences."
+   "x": "The platform conversation changed: engineering leaders no longer buy infrastructure, they buy change failure rates and unit costs. The seven practices here are managed on exactly those numbers, SLO adherence, path adoption, placement policy coverage, cost per workload, because those are the numbers the business actually experiences."
   },
   {
    "t": "p",
@@ -90,7 +90,7 @@
   },
   {
    "t": "p",
-   "x": "Placement policy decides where workloads run, golden paths carry how they deploy, SRE discipline decides when they change, and FinOps prices what it all costs — one operating model across clouds, on-prem and the edge, with drift caught by monitors instead of by incidents."
+   "x": "Placement policy decides where workloads run, golden paths carry how they deploy, SRE discipline decides when they change, and FinOps prices what it all costs, one operating model across clouds, on-prem and the edge, with drift caught by monitors instead of by incidents."
   },
   {
    "t": "arch",
@@ -315,7 +315,7 @@
   },
   {
    "t": "p",
-   "x": "SLO adherence, change failure rate, path adoption and unit cost trend — the four tiles the engineering leadership review reads weekly. The console below is the reference shape; your handover console differs only in the estate's own numbers."
+   "x": "SLO adherence, change failure rate, path adoption and unit cost trend, the four tiles the engineering leadership review reads weekly. The console below is the reference shape; your handover console differs only in the estate's own numbers."
   },
   {
    "t": "idash",
@@ -578,11 +578,11 @@
   {
    "t": "h2",
    "x": "Where the estate work is sector-calibrated today",
-   "sub": "Edge fleets, mission-critical tiers, developer velocity — twelve industries, live briefs"
+   "sub": "Edge fleets, mission-critical tiers, developer velocity, twelve industries, live briefs"
   },
   {
    "t": "p",
-   "x": "Retail chains buy edge resilience, banks buy mission-critical tiers, SaaS companies buy developer velocity. The bars count published sub-industry briefs on this site — a taller bar means the sector's edge, tier and platform plays are already written and can start on day one."
+   "x": "Retail chains buy edge resilience, banks buy mission-critical tiers, SaaS companies buy developer velocity. The bars count published sub-industry briefs on this site, a taller bar means the sector's edge, tier and platform plays are already written and can start on day one."
   },
   {
    "t": "chart",
@@ -1073,7 +1073,7 @@
    "items": [
     [
      "Diagnostic — two weeks",
-     "Estate mapped by tier, SLOs and unit costs baselined, the gate model scored — with the platform-reuse opportunity priced before anything is built."
+     "Estate mapped by tier, SLOs and unit costs baselined, the gate model scored, with the platform-reuse opportunity priced before anything is built."
     ],
     [
      "Provability sprint — four weeks",
@@ -1085,14 +1085,14 @@
     ],
     [
      "Industrialize — ongoing",
-     "Quarterly re-baselines, path version reviews, FinOps trends with finance — and the drift monitors that keep the operating model honest."
+     "Quarterly re-baselines, path version reviews, FinOps trends with finance, and the drift monitors that keep the operating model honest."
     ]
    ]
   },
   {
    "t": "h2",
    "x": "Five gates every workload rides — or files an exception",
-   "sub": "Path, SLO, recovery, cost, security defaults — the evidence each demands"
+   "sub": "Path, SLO, recovery, cost, security defaults, the evidence each demands"
   },
   {
    "t": "table",
@@ -1138,12 +1138,12 @@
   },
   {
    "t": "p",
-   "x": "Estates drift because the three disciplines report to different rooms: platform teams ship golden paths nobody adopts, SRE teams publish SLOs that gate nothing, FinOps teams produce dashboards that change no decision. The domain design joins them — golden paths carry the SLO template and the tag schema by default, error budgets gate releases in CI rather than in meetings, and every workload's unit cost lands in a registry with a named owner. The console reads reliability and economics side by side, because the trade-off between them is the actual daily decision of estate management.",
+   "x": "Estates drift because the three disciplines report to different rooms: platform teams ship golden paths nobody adopts, SRE teams publish SLOs that gate nothing, FinOps teams produce dashboards that change no decision. The domain design joins them, golden paths carry the SLO template and the tag schema by default, error budgets gate releases in CI rather than in meetings, and every workload's unit cost lands in a registry with a named owner. The console reads reliability and economics side by side, because the trade-off between them is the actual daily decision of estate management.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The engagement sequence follows the same logic: baseline the estate (tiers, unit costs, failure history), sign the SLO framework with business owners, deploy the golden paths with compliance built in, and let the FinOps engine allocate from day one — allocation creates accountability, and accountability is what makes every other practice stick. Gates at each step demand evidence: a tier without signed SLOs does not carry production traffic, a wave without retirement criteria does not start.",
+   "x": "The engagement sequence follows the same logic: baseline the estate (tiers, unit costs, failure history), sign the SLO framework with business owners, deploy the golden paths with compliance built in, and let the FinOps engine allocate from day one, allocation creates accountability, and accountability is what makes every other practice stick. Gates at each step demand evidence: a tier without signed SLOs does not carry production traffic, a wave without retirement criteria does not start.",
    "phase3_deep": true
   },
   {
@@ -1151,7 +1151,7 @@
    "items": [
     [
      "One operating surface",
-     "Paths, SLOs and allocation join at the scaffold — not in three dashboards."
+     "Paths, SLOs and allocation join at the scaffold, not in three dashboards."
     ],
     [
      "Budgets that gate",
@@ -1173,7 +1173,7 @@
    "items": [
     [
      "We just signed a cloud contract — is this still relevant?",
-     "Yes — the practices start with placement policy and unit economics on the estate you already run. Most programs find a meaningful share of spend on workloads whose tier, SLO and owner are unnamed; that finding alone usually funds the platform work."
+     "Yes, the practices start with placement policy and unit economics on the estate you already run. Most programs find a meaningful share of spend on workloads whose tier, SLO and owner are unnamed; that finding alone usually funds the platform work."
     ],
     [
      "One cloud or many?",
@@ -1181,11 +1181,11 @@
     ],
     [
      "What exactly is a golden path?",
-     "A versioned, supported route from repository to production that carries SLO templates, security defaults and the tag schema by default. Teams can leave the path with a written exception — adoption is measured, and the platform team answers for the path's own p95."
+     "A versioned, supported route from repository to production that carries SLO templates, security defaults and the tag schema by default. Teams can leave the path with a written exception, adoption is measured, and the platform team answers for the path's own p95."
     ],
     [
      "How is edge different from another cloud region?",
-     "Sites fail silently, links partition, and fleets are heterogeneous — so the edge tier carries store-and-forward semantics, partition drills and site-class schemas the data center never needed. It is gated as its own estate, not as a cheap region."
+     "Sites fail silently, links partition, and fleets are heterogeneous, so the edge tier carries store-and-forward semantics, partition drills and site-class schemas the data center never needed. It is gated as its own estate, not as a cheap region."
     ],
     [
      "Who owns unit cost after handover?",
@@ -1195,7 +1195,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the workload whose unit cost nobody can state and whose SLO nobody signed. The two-week diagnostic will baseline both — and price what golden paths would change on your estate."
+   "x": "Bring the workload whose unit cost nobody can state and whose SLO nobody signed. The two-week diagnostic will baseline both, and price what golden paths would change on your estate."
   }
  ],
  "words": 838,
@@ -1241,43 +1241,43 @@
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Service",
-   "desc": "The estate as designed system — landing zones, network fabric and workload placement by economics."
+   "desc": "The estate as designed system, landing zones, network fabric and workload placement by economics."
   },
   {
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Service",
-   "desc": "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+   "desc": "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Service",
-   "desc": "Compute where the physics is — edge estate for plants, stores, vehicles and grids."
+   "desc": "Compute where the physics is, edge estate for plants, stores, vehicles and grids."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Service",
-   "desc": "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+   "desc": "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Service",
-   "desc": "Golden paths, paved roads — an internal platform that turns months into days."
+   "desc": "Golden paths, paved roads, an internal platform that turns months into days."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Service",
-   "desc": "Cost and carbon as engineering metrics — unit economics, showback and green compute by design."
+   "desc": "Cost and carbon as engineering metrics, unit economics, showback and green compute by design."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Service",
-   "desc": "When microseconds and uptime are the product — HPC, low-latency and always-on engineering."
+   "desc": "When microseconds and uptime are the product, HPC, low-latency and always-on engineering."
   }
  ],
  "evidence": [

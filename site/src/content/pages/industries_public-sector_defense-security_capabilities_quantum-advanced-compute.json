@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute against AI trust barrier in Defense & National Security: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: we treat advanced compute as a tool with a contract — bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Quantum & Advanced Compute against AI trust barrier in Defense & National Security: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
   },
   {
    "t": "p",
@@ -21,7 +21,7 @@
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Defense & National Security, the pattern is PQC program — CBOM + hybrid transition for classified flows. Harvest risk closed sits on top as the measured result, tracked from the signed baseline onward. Around it, we treat advanced compute as a tool with a contract — bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "In Defense & National Security, the pattern is PQC program, CBOM + hybrid transition for classified flows. Harvest risk closed sits on top as the measured result, tracked from the signed baseline onward. Around it, we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The AI trust barrier cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (PQC program), and the gate review decides what scales — all inside one quarter in Defense & National Security. In Defense & National Security programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The AI trust barrier cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (PQC program), and the gate review decides what scales, all inside one quarter in Defense & National Security. In Defense & National Security programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "For the Quantum & Advanced Compute side of Defense & National Security, the binding duties are concrete — National security accreditation schemes (system authorization); Export controls (ITAR-class) (transfer duties); Sovereignty rules (data localization). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Quantum & Advanced Compute side of Defense & National Security, the binding duties are concrete, National security accreditation schemes (system authorization); Export controls (ITAR-class) (transfer duties); Sovereignty rules (data localization). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

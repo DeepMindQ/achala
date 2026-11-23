@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "One more Data & Lakehouse reality in Insurance & Risk: Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect — documentation as you build, not reconstruction under exam."
+   "x": "One more Data & Lakehouse reality in Insurance & Risk: Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect, documentation as you build, not reconstruction under exam."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Insurance & Risk: portfolio pricing lakehouse — exposure, claims and external data unified with lineage for actuarial and filing use. Loss triangle assembly from months to days is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Insurance & Risk: portfolio pricing lakehouse, exposure, claims and external data unified with lineage for actuarial and filing use. Loss triangle assembly from months to days is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "bullets",
@@ -59,11 +59,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The claims, policy and exposure data fragmented cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (portfolio pricing lakehouse), and the gate review decides what scales — all inside one quarter in Insurance & Risk. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The claims, policy and exposure data fragmented cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (portfolio pricing lakehouse), and the gate review decides what scales, all inside one quarter in Insurance & Risk. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -108,19 +108,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Data & Lakehouse in Insurance & Risk to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Data & Lakehouse in Insurance & Risk to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 560,
@@ -208,25 +208,25 @@
    "title": "Data & Lakehouse for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Property & Casualty",
    "url": "/industries/insurance/property-casualty/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

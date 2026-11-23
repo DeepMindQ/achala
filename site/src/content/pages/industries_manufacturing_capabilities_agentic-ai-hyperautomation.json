@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Manufacturing & Industrial has one job: move a named number — maintenance planning reactive included — and prove it moved. The engineering that does it: orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. For Manufacturing & Industrial, this is the standard the build is held to."
+   "x": "Agentic AI & Hyperautomation in Manufacturing & Industrial has one job: move a named number, maintenance planning reactive included, and prove it moved. The engineering that does it: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. For Manufacturing & Industrial, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "Programs in Manufacturing & Industrial converge on the same first move: planning assistant agents — demand/supply scenarios and changeover-aware sequences proposed to planners. Planner throughput up; oee waiting losses down is the measured outcome the gate checks."
+   "x": "Programs in Manufacturing & Industrial converge on the same first move: planning assistant agents, demand/supply scenarios and changeover-aware sequences proposed to planners. Planner throughput up; oee waiting losses down is the measured outcome the gate checks."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. maintenance planning reactive is measured with your finance and risk leads in the room, then one working path — planning assistant agents — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. maintenance planning reactive is measured with your finance and risk leads in the room, then one working path, planning assistant agents, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -213,7 +213,7 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -224,19 +224,19 @@
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -250,7 +250,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Agentic AI & Hyperautomation in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Agentic AI & Hyperautomation in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 518,
@@ -324,13 +324,13 @@
    "title": "Agentic AI & Hyperautomation for Automotive & Discrete Manufacturing",
    "url": "/industries/manufacturing/automotive-discrete/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Industrial Equipment & Machinery",
    "url": "/industries/manufacturing/industrial-equipment/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

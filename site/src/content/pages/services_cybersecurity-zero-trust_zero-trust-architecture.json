@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Zero trust is an architecture of decisions, not a product purchase. Every request is evaluated against identity, device posture and context — and the engineering work is making that evaluation fast, consistent and universal on the paths that matter. Perimeter firewalls remain; they just stop being the security model."
+   "x": "Zero trust is an architecture of decisions, not a product purchase. Every request is evaluated against identity, device posture and context, and the engineering work is making that evaluation fast, consistent and universal on the paths that matter. Perimeter firewalls remain; they just stop being the security model."
   },
   {
    "t": "p",
@@ -26,7 +26,7 @@
   },
   {
    "t": "p",
-   "x": "Below: the failure modes that turn zero-trust programs into coverage theater, the reference architecture of per-request decisions, and the console that shows real coverage — including what still bypasses."
+   "x": "Below: the failure modes that turn zero-trust programs into coverage theater, the reference architecture of per-request decisions, and the console that shows real coverage, including what still bypasses."
   },
   {
    "t": "h2",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each failure mode produces a diagram that looks complete and an estate that isn't — the countermeasures measure real coverage and force the bypasses into the open."
+   "x": "Each failure mode produces a diagram that looks complete and an estate that isn't, the countermeasures measure real coverage and force the bypasses into the open."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Every request meets the same decision point: identity, device posture and context evaluated per call, decisions served inside a latency budget, and legacy orphans carried by explicit exceptions with expiry dates — nothing grants itself access by being old."
+   "x": "Every request meets the same decision point: identity, device posture and context evaluated per call, decisions served inside a latency budget, and legacy orphans carried by explicit exceptions with expiry dates, nothing grants itself access by being old."
   },
   {
    "t": "arch",
@@ -293,7 +293,7 @@
   },
   {
    "t": "p",
-   "x": "From request through device posture check, identity evaluation, policy decision and enforcement — including the break-glass path and the bypass detection that catches quiet exemptions."
+   "x": "From request through device posture check, identity evaluation, policy decision and enforcement, including the break-glass path and the bypass detection that catches quiet exemptions."
   },
   {
    "t": "diagram",
@@ -317,7 +317,7 @@
   },
   {
    "t": "p",
-   "x": "Critical-path coverage, bypass detections and decision p95 — three numbers that decide whether the program is architecture or wallpaper in front of the auditor."
+   "x": "Critical-path coverage, bypass detections and decision p95, three numbers that decide whether the program is architecture or wallpaper in front of the auditor."
   },
   {
    "t": "idash",
@@ -633,7 +633,7 @@
   },
   {
    "t": "p",
-   "x": "Critical-path coverage and decision p95 across rollout waves — the paired curve that shows coverage rising while latency stays inside the budget the business actually experiences."
+   "x": "Critical-path coverage and decision p95 across rollout waves, the paired curve that shows coverage rising while latency stays inside the budget the business actually experiences."
   },
   {
    "t": "chart",
@@ -1135,27 +1135,27 @@
     [
      "Decision point",
      "Policy-as-code PDP with regional caches",
-     "Vendor console click-ops — policy needs CI like code"
+     "Vendor console click-ops, policy needs CI like code"
     ],
     [
      "Enforcement",
      "Identity-aware proxies + segmentation fabric",
-     "ACL-only enforcement — it cannot carry context"
+     "ACL-only enforcement, it cannot carry context"
     ],
     [
      "Signals",
      "IdP + MDM + risk context in every decision",
-     "Identity-only decisions — device compromise walks in"
+     "Identity-only decisions, device compromise walks in"
     ],
     [
      "Legacy handling",
      "Shim proxies with compensating controls",
-     "Perpetual exceptions — every one needs an expiry"
+     "Perpetual exceptions, every one needs an expiry"
     ],
     [
      "Assurance",
      "Continuous bypass detection on flows",
-     "Annual audit-only coverage checks — drift wins"
+     "Annual audit-only coverage checks, drift wins"
     ]
    ]
   },
@@ -1309,7 +1309,7 @@
   },
   {
    "t": "p",
-   "x": "Break-glass accounts, legacy protocols and vendor exemptions exist — the control is that each carries an owner, an expiry and a bypass alarm, so the exception list is an attack-surface inventory rather than a secret."
+   "x": "Break-glass accounts, legacy protocols and vendor exemptions exist, the control is that each carries an owner, an expiry and a bypass alarm, so the exception list is an attack-surface inventory rather than a secret."
   },
   {
    "t": "bullets",
@@ -1339,17 +1339,17 @@
   {
    "t": "h2",
    "x": "Enforcement points, not product purchases",
-   "sub": "The decision architecture — waves over critical paths, logged decisions and expiring exceptions",
+   "sub": "The decision architecture, waves over critical paths, logged decisions and expiring exceptions",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Zero trust becomes coverage theater when it is purchased rather than architected: identity, device and network products stack up while the enforcement decision — who may call what, decided where — remains informal. The architecture starts from the decision surface: a policy decision point with deny-by-default semantics, enforcement points placed on critical paths first (crown-jewel services, partner APIs, admin planes), and every decision logged with its inputs. Rollout proceeds in waves ordered by attack-path analysis, not by org chart, and each wave carries drill evidence — attack-path drills scoped to the paths it protects.",
+   "x": "Zero trust becomes coverage theater when it is purchased rather than architected: identity, device and network products stack up while the enforcement decision, who may call what, decided where, remains informal. The architecture starts from the decision surface: a policy decision point with deny-by-default semantics, enforcement points placed on critical paths first (crown-jewel services, partner APIs, admin planes), and every decision logged with its inputs. Rollout proceeds in waves ordered by attack-path analysis, not by org chart, and each wave carries drill evidence, attack-path drills scoped to the paths it protects.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Exceptions are the governance frontier: every exception carries an expiry and an owner, the exception register is reviewed on a cadence, and the console reads coverage (paths under enforcement) and decision latency (the budget the PDP must meet). The overlay that keeps programs honest is the expiring exception — because permanent exceptions are how zero-trust estates quietly become flat networks with marketing.",
+   "x": "Exceptions are the governance frontier: every exception carries an expiry and an owner, the exception register is reviewed on a cadence, and the console reads coverage (paths under enforcement) and decision latency (the budget the PDP must meet). The overlay that keeps programs honest is the expiring exception, because permanent exceptions are how zero-trust estates quietly become flat networks with marketing.",
    "phase3_deep": true
   },
   {
@@ -1379,11 +1379,11 @@
    "items": [
     [
      "Is zero trust a product we can buy?",
-     "No — it is a decision architecture: every request evaluated at a policy decision point with identity, device and context signals. Products implement pieces; the program is the decision surface, its coverage and its exceptions."
+     "No, it is a decision architecture: every request evaluated at a policy decision point with identity, device and context signals. Products implement pieces; the program is the decision surface, its coverage and its exceptions."
     ],
     [
      "How do you avoid breaking the business during rollout?",
-     "Critical paths first, in waves with gates: each wave proves coverage and bypass-detection deltas before the next enforces, and exceptions are expiry-dated — enforcement tightens on evidence, not on a vendor’s deployment plan."
+     "Critical paths first, in waves with gates: each wave proves coverage and bypass-detection deltas before the next enforces, and exceptions are expiry-dated, enforcement tightens on evidence, not on a vendor’s deployment plan."
     ],
     [
      "What happens to legacy applications that cannot enforce policy?",
@@ -1391,17 +1391,17 @@
     ],
     [
      "How do you measure zero-trust success?",
-     "Coverage you can defend: policy-evaluated request share, bypass detections, exception count with expiries — the chart shows all three moving together across rollout waves."
+     "Coverage you can defend: policy-evaluated request share, bypass detections, exception count with expiries, the chart shows all three moving together across rollout waves."
     ],
     [
      "What does the security architecture team inherit?",
-     "The decision surface as policy-as-code, the console, the gates and the exception register with its expiry discipline — the team runs coverage as an engineering metric, not a slide."
+     "The decision surface as policy-as-code, the console, the gates and the exception register with its expiry discipline, the team runs coverage as an engineering metric, not a slide."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask for the coverage number your current diagram can't prove. The diagnostic will measure critical-path coverage on real requests — bypasses, exceptions and latency included."
+   "x": "Ask for the coverage number your current diagram can't prove. The diagnostic will measure critical-path coverage on real requests, bypasses, exceptions and latency included."
   }
  ],
  "words": 1028,
@@ -1486,31 +1486,31 @@
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Same domain",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Same domain",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Same domain",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Pairs with",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Pairs with",
-   "desc": "classical HPC that does the heavy lifting — benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
+   "desc": "classical HPC that does the heavy lifting, benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
   },
   {
    "title": "Enterprise AI Strategy & Roadmapping",
@@ -1522,7 +1522,7 @@
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

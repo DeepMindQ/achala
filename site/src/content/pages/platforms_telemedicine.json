@@ -1,15 +1,15 @@
 {
- "id": "PLT-sentinel-ov",
+ "id": "PLT-telemedicine-ov",
  "title": "Tele Medicine Platform",
  "url": "/platforms/telemedicine/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Tele Medicine Platform > Overview",
  "seo_title": "Tele Medicine Platform | Achala IT Solutions",
- "meta_description": "Security architecture you can evidence — for humans, machines and models.",
+ "meta_description": "Tele Medicine Platform runs secure video consultations, e-prescriptions and follow-up care for hospitals and clinics.",
  "blocks": [
   {
    "t": "hero",
-   "x": "AI-driven remote evaluation, diagnosis and treatment — one platform for virtual care at scale."
+   "x": "Care that reaches past the OPD. Tele Medicine Platform runs secure video consultations, e-prescriptions and structured follow-ups for hospitals and clinics."
   },
   {
    "t": "h2",
@@ -17,187 +17,80 @@
   },
   {
    "t": "p",
-   "x": "Tele Medicine Platform unifies our security delivery: zero-trust enforcement points (identity, posture, segmentation, workload identity), detection-as-code with ATT&CK coverage, cloud posture guardrails, and the AI-specific layer — prompt-injection defense, agent containment, shadow-AI discovery and model security cards. Sentinel is engineered for the evidence economy: controls mapped across SOC 2, ISO 27001, NIST 800-207, DORA and AI regimes, tested continuously, exported to auditors. Boards get measured trust reduction, not adjectives."
+   "x": "Tele Medicine Platform gives clinicians a complete remote-care workflow: scheduled and on-demand video consultations, e-prescriptions, patient records at hand, and follow-up scheduling. Patients join from a browser or phone, no special equipment."
   },
   {
    "t": "h2",
-   "x": "What goes live, and in what order"
+   "x": "What it does"
   },
   {
    "t": "p",
-   "x": "Tele Medicine Platform: the build decomposes into named pieces, each with an owner and a gate,"
+   "x": "The platform's working capabilities:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Zero-trust enforcement",
-     "identity, posture, segmentation, workload identity"
+     "Video consultations",
+     "Scheduled and walk-in sessions over encrypted video"
     ],
     [
-     "Detection-as-code",
-     "versioned rules with CI testing"
+     "e-Prescriptions",
+     "Prescriptions issued digitally and delivered to the patient"
     ],
     [
-     "Posture guardrails",
-     "policy-as-code with fix-the-pipeline flows"
+     "Records at hand",
+     "Relevant history visible to the clinician during the call"
     ],
     [
-     "AI defense layer",
-     "injection filtering, containment, red-teaming"
-    ],
-    [
-     "Identity plane",
-     "workforce/CIAM/machine lifecycle"
-    ],
-    [
-     "Evidence exports",
-     "multi-framework control mapping"
+     "Follow-up management",
+     "Recovery checks scheduled and tracked to completion"
     ]
    ]
   },
   {
-   "t": "arch",
-   "title": "Tele Medicine Platform — module topology",
-   "lanes": [
-    "Ingest",
-    "Core",
-    "Delivery",
-    "Trust"
-   ],
-   "nodes": [
-    {
-     "id": "in1",
-     "lane": 0,
-     "label": "Adapters & contracts",
-     "hot": false
-    },
-    {
-     "id": "in2",
-     "lane": 0,
-     "label": "SIEM/XDR",
-     "hot": false
-    },
-    {
-     "id": "c1",
-     "lane": 1,
-     "label": "Zero-trust enforcement",
-     "hot": true
-    },
-    {
-     "id": "c2",
-     "lane": 1,
-     "label": "Detection-as-code",
-     "hot": false
-    },
-    {
-     "id": "d1",
-     "lane": 2,
-     "label": "Posture guardrails",
-     "hot": false
-    },
-    {
-     "id": "d2",
-     "lane": 2,
-     "label": "AI defense layer",
-     "hot": false
-    },
-    {
-     "id": "t1",
-     "lane": 3,
-     "label": "Evidence packs",
-     "hot": false
-    },
-    {
-     "id": "t2",
-     "lane": 3,
-     "label": "Purple-team validated",
-     "hot": false
-    }
-   ],
-   "edges": [
-    {
-     "a": "in1",
-     "b": "c1"
-    },
-    {
-     "a": "in2",
-     "b": "c1"
-    },
-    {
-     "a": "c1",
-     "b": "c2"
-    },
-    {
-     "a": "c1",
-     "b": "d1"
-    },
-    {
-     "a": "c2",
-     "b": "d2"
-    },
-    {
-     "a": "d1",
-     "b": "t1"
-    },
-    {
-     "a": "d2",
-     "b": "t2"
-    }
-   ],
-   "note": "Modules are the platform's named components; trust lane is what the audit reads."
-  },
-  {
    "t": "h2",
-   "x": "The security posture"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Sentinel assumes breach and designs for audit: purple-team validation of segmentation, restore-tested backups, AI red-team suites with findings-to-fix tracking. The platform's own controls are ISO/IEC 27001 audited and ISO 27001 certified."
+   "x": "Consultations run over encrypted video infrastructure; clinical data integrates with the hospital's systems through standard interfaces. Access follows the same discipline as in-person care: the care team and the patient, nothing wider."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Purple-team validated",
-     "segmentation proven in exercises"
+     "Encrypted sessions",
+     "Video and clinical data protected end to end"
     ],
     [
-     "AI red-teaming",
-     "OWASP LLM Top 10 mapped suites"
+     "HIS integration",
+     "Consultations recorded into the hospital record"
     ],
     [
-     "Continuous evidence",
-     "auditor-ready on demand"
+     "Consent discipline",
+     "Patient consent captured before each session"
     ],
     [
-     "AI asset registry",
-     "shadow-AI discovery included"
+     "Access control",
+     "Records visible to the care team only"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "In delivery, sector by sector"
+   "x": "Who runs it"
   },
   {
    "t": "p",
-   "x": "Tele Medicine Platform runs under NDA in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government, Technology & SaaS. Deployments stay private; the architecture and control packs are the part we can show."
-  },
-  {
-   "t": "h2",
-   "x": "The technology choices, justified"
-  },
-  {
-   "t": "p",
-   "x": "Connects to: SIEM/XDR, SPIFFE/SPIRE, OPA, IdPs/IGA, CNAPP tooling. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+   "x": "Multi-speciality hospitals, specialty clinics, corporate health programs and rural-care initiatives that need specialist reach without travel."
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Tele Medicine Platform, your data, and a written feasibility read you can circulate."
+   "x": "Book a briefing with the telemedicine team. We will show the consultation workflow and the integration path for your hospital."
   }
  ],
- "words": 304,
+ "words": 311,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Tele Medicine Platform",
@@ -219,39 +112,19 @@
  ],
  "related": [
   {
-   "title": "Tele Medicine Platform — Overview",
+   "title": "Tele Medicine Platform",
    "url": "/platforms/telemedicine/",
-   "desc": "Zero-Trust & AI Security Platform"
+   "desc": "Consultations, e-prescriptions and follow-ups over secure video — care that reac"
   },
   {
-   "title": "Tele Medicine Platform — Architecture & Trust",
+   "title": "Tele Medicine Platform — Architecture & Security",
    "url": "/platforms/telemedicine/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Tele Medicine Platform — Industry Use Cases",
    "url": "/platforms/telemedicine/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A tier-1 US bank",
-   "url": "/case-studies/bank-03/",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
-  },
-  {
-   "title": "A European TSO-DSO group",
-   "url": "/case-studies/en-01/",
-   "desc": "Forecast error down 31% — imbalance cost recovered across three control zones"
-  },
-  {
-   "title": "A national tax administration",
-   "url": "/case-studies/pub-02/",
-   "desc": "Fraud and error capture up 26% — cross-source analytics with investigator case packs"
-  },
-  {
-   "title": "A metropolitan city government",
-   "url": "/case-studies/pub-03/",
-   "desc": "Fault-to-fix down 63% and street-light energy down 22% — urban asset platform"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

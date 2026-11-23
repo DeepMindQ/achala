@@ -272,7 +272,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs operations in Network Operators (CSPs) in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs operations in Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 354,
@@ -337,19 +337,19 @@
    "title": "Applied AI & GenAI for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Network Operators (CSPs)",
@@ -361,7 +361,7 @@
    "title": "Cloud, Edge & Platform for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

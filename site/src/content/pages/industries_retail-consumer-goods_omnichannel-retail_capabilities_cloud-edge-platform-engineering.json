@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Through the Cloud, Edge & Platform lens, the operating reality: Omnichannel retail wins on promise-keeping: availability, delivery promise, price consistency and service resolution across channels. The decision infrastructure behind those promises — demand sensing, allocation, pricing — decides margin before marketing spends a cent."
+   "x": "Through the Cloud, Edge & Platform lens, the operating reality: Omnichannel retail wins on promise-keeping: availability, delivery promise, price consistency and service resolution across channels. The decision infrastructure behind those promises, demand sensing, allocation, pricing, decides margin before marketing spends a cent."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Omnichannel Retail, the pattern is peak engineering — load/chaos readiness for trading peaks. Peaks absorbed sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "In Omnichannel Retail, the pattern is peak engineering, load/chaos readiness for trading peaks. Peaks absorbed sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The peak economics unmanaged cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Peak engineering), and the gate review decides what scales — all inside one quarter in Omnichannel Retail. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Omnichannel Retail, that discipline is not optional — it is the engagement model."
+   "x": "The peak economics unmanaged cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Peak engineering), and the gate review decides what scales, all inside one quarter in Omnichannel Retail. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Omnichannel Retail, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Omnichannel Retail: GDPR/CCPA — profiling and consent duties; EU AI Act transparency — personalization disclosure. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Omnichannel Retail: GDPR/CCPA, profiling and consent duties; EU AI Act transparency, personalization disclosure. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cloud, Edge & Platform for Omnichannel Retail to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cloud, Edge & Platform for Omnichannel Retail to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 470,

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Logistics & Supply Chain operators recognize the pattern: demand and capacity planning stale, quarter after quarter. Applied AI & GenAI reaches the root: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Logistics & Supply Chain operators recognize the pattern: demand and capacity planning stale, quarter after quarter. Applied AI & GenAI reaches the root: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. demand and capacity planning stale is measured with your finance and risk leads in the room, then one working path — eta prediction — goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. demand and capacity planning stale is measured with your finance and risk leads in the room, then one working path, eta prediction, goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -97,7 +97,7 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -108,19 +108,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -203,7 +203,7 @@
    "title": "Applied AI & GenAI for Last-Mile & Urban Logistics",
    "url": "/industries/logistics-supply-chain/last-mile-mobility/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

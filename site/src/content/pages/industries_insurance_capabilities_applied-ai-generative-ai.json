@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what pricing sophistication outrunning governance costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use. Insurance & Risk is where this discipline pays."
+   "x": "Ask what pricing sophistication outrunning governance costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. Insurance & Risk is where this discipline pays."
   },
   {
    "t": "p",
@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Insurance & Risk: underwriting workbench assistant — submissions summarized with citations to loss runs, exposure data and appetite rules. Quote turnaround down 50% for sme lines is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Insurance & Risk: underwriting workbench assistant, submissions summarized with citations to loss runs, exposure data and appetite rules. Quote turnaround down 50% for sme lines is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The pricing sophistication outrunning governance cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (underwriting workbench assistant), and the gate review decides what scales — all inside one quarter in Insurance & Risk. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The pricing sophistication outrunning governance cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (underwriting workbench assistant), and the gate review decides what scales, all inside one quarter in Insurance & Risk. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Insurance & Risk: Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Insurance & Risk: Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -206,19 +206,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -232,7 +232,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Applied AI & GenAI in Insurance & Risk to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Applied AI & GenAI in Insurance & Risk to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 571,
@@ -306,25 +306,25 @@
    "title": "Applied AI & GenAI for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Property & Casualty",
    "url": "/industries/insurance/property-casualty/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

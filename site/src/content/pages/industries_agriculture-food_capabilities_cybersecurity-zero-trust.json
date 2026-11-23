@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Agriculture & Food Systems does not chase announcements; it delivers audited change — which means security here is architecture, not product sprawl — identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. That is the engineering behind Agriculture & Food Systems."
+   "x": "Cyber & Zero-Trust in Agriculture & Food Systems does not chase announcements; it delivers audited change, which means security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. That is the engineering behind Agriculture & Food Systems."
   },
   {
    "t": "p",
@@ -21,7 +21,7 @@
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Agriculture & Food Systems, the working pattern is agri-finance fraud controls: subsidy/loan application verification with cross-source analytics. Fraud and error capture up is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Agriculture & Food Systems, the working pattern is agri-finance fraud controls: subsidy/loan application verification with cross-source analytics. Fraud and error capture up is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The yield and quality surprises cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (agri-finance fraud controls), and the gate review decides what scales — all inside one quarter in Agriculture & Food Systems. In Agriculture & Food Systems programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The yield and quality surprises cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (agri-finance fraud controls), and the gate review decides what scales, all inside one quarter in Agriculture & Food Systems. In Agriculture & Food Systems programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -214,19 +214,19 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "Never trust, always verify — zero-trust as an executable architecture, not a slide."
+     "Never trust, always verify, zero-trust as an executable architecture, not a slide."
     ],
     [
      "Threat Intelligence & Managed SOC",
-     "Detection that keeps pace — intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
+     "Detection that keeps pace, intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
     ],
     [
      "Identity & Access Modernization",
-     "Identity as the perimeter — workforce, customer and machine identities on one governed plane."
+     "Identity as the perimeter, workforce, customer and machine identities on one governed plane."
     ],
     [
      "Cloud Security & Posture Management",
-     "Secure at the control plane — posture, workload and data security engineered into the platform."
+     "Secure at the control plane, posture, workload and data security engineered into the platform."
     ]
    ]
   },

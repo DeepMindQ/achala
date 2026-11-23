@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Food Safety & Food Retail, the pattern is cold-chain fabric — store/warehouse/transport telemetry. Evidence continuous sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "In Food Safety & Food Retail, the pattern is cold-chain fabric, store/warehouse/transport telemetry. Evidence continuous sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The fresh demand guessing cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Cold-chain fabric), and the gate review decides what scales — all inside one quarter in Food Safety & Food Retail. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The fresh demand guessing cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Cold-chain fabric), and the gate review decides what scales, all inside one quarter in Food Safety & Food Retail. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the IoT, Twin & Robotics side of Food Safety & Food Retail, the binding duties are concrete — Food-safety regimes (temperature/traceability duties); EUDR/DPP (sourcing evidence); Consumer law (product claims). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the IoT, Twin & Robotics side of Food Safety & Food Retail, the binding duties are concrete, Food-safety regimes (temperature/traceability duties); EUDR/DPP (sourcing evidence); Consumer law (product claims). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

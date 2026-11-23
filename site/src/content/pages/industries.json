@@ -5,11 +5,11 @@
  "template": "industries_hub",
  "breadcrumb": "Industries",
  "seo_title": "Industries Overview | Achala IT Solutions",
- "meta_description": "Twelve industries with sub-industry depth — each page maps the sector's programs, regulatory posture and the capability domains aligned to it.",
+ "meta_description": "Twelve industries with sub-industry depth. Each page maps the sector's regulations, systems and workflows to the Achala services that serve them.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Twelve industries, each with sub-industry depth and capability pages that align the domains to the sector's operating physics. Industry pages here are not brochures: they carry the pressures, the regulatory regimes and the programs that actually move numbers."
+   "x": "Achala works in twelve industries, each with sub-industry pages that map our services to the sector's regulations, systems of record and daily workflows. Start with your industry and see the programs we have run there."
   },
   {
    "t": "h2",
@@ -25,11 +25,11 @@
   },
   {
    "t": "p",
-   "x": "Open your industry, find the program closest to your problem, and bring the metric to a briefing — the two-week measurement pass behind every baseline below is the same one we would run for you."
+   "x": "Open your industry, find the program closest to your problem, and bring the metric to a briefing, the two-week measurement pass behind every baseline below is the same one we would run for you."
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs the section map above in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs the section map above in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 139,
@@ -56,31 +56,31 @@
    "title": "Insurance & Risk",
    "url": "/industries/insurance/",
    "tag": "Industry",
-   "desc": "Underwriting precision, claims velocity and reserving discipline — engineered on governed data."
+   "desc": "Underwriting precision, claims velocity and reserving discipline, engineered on governed data."
   },
   {
    "title": "Healthcare & Life Sciences",
    "url": "/industries/healthcare-life-sciences/",
    "tag": "Industry",
-   "desc": "Clinical-grade AI, interoperable data and secure estates — outcomes with governance attached."
+   "desc": "Clinical-grade AI, interoperable data and secure estates, outcomes with governance attached."
   },
   {
    "title": "Manufacturing & Industrial",
    "url": "/industries/manufacturing/",
    "tag": "Industry",
-   "desc": "Self-correcting plants — sensor network, twins and agentic operations on the shop floor."
+   "desc": "Self-correcting plants, sensor network, twins and agentic operations on the shop floor."
   },
   {
    "title": "Retail & Consumer Goods",
    "url": "/industries/retail-consumer-goods/",
    "tag": "Industry",
-   "desc": "Pricing and availability decisions made in milliseconds — pricing, availability, personalization and accurate shelf data."
+   "desc": "Pricing and availability decisions made in milliseconds, pricing, availability, personalization and accurate shelf data."
   },
   {
    "title": "Telecom, Media & Entertainment",
    "url": "/industries/telecom-media/",
    "tag": "Industry",
-   "desc": "Network intelligence, churn precision and platform economics — engineered at carrier scale."
+   "desc": "Network intelligence, churn precision and platform economics, engineered at carrier scale."
   },
   {
    "title": "Energy & Utilities",
@@ -92,31 +92,31 @@
    "title": "Logistics & Supply Chain",
    "url": "/industries/logistics-supply-chain/",
    "tag": "Industry",
-   "desc": "The self-correcting supply chain — visibility, orchestration and autonomous flows."
+   "desc": "The self-correcting supply chain, visibility, orchestration and autonomous flows."
   },
   {
    "title": "Public Sector & Government",
    "url": "/industries/public-sector/",
    "tag": "Industry",
-   "desc": "Citizen services that work — digital government, secure estates and accountable AI."
+   "desc": "Citizen services that work, digital government, secure estates and accountable AI."
   },
   {
    "title": "Education & Research",
    "url": "/industries/education-research/",
    "tag": "Industry",
-   "desc": "Learning that adapts, research that accelerates — with academic integrity intact."
+   "desc": "Learning that adapts, research that accelerates, with academic integrity intact."
   },
   {
    "title": "Technology & SaaS",
    "url": "/industries/technology-saas/",
    "tag": "Industry",
-   "desc": "Ship faster, scale smarter, monetize data — engineering draw on for software companies."
+   "desc": "Ship faster, scale smarter, monetize data, engineering draw on for software companies."
   },
   {
    "title": "Agriculture & Food Systems",
    "url": "/industries/agriculture-food/",
    "tag": "Industry",
-   "desc": "From precision agronomy to verified provenance — technology across the food chain."
+   "desc": "From precision agronomy to verified provenance, technology across the food chain."
   }
  ]
 }

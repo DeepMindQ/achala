@@ -166,15 +166,15 @@
   },
   {
    "t": "p",
-   "x": "Cyber Resilience & Threat Command composes Tele Medicine Platform, Driisti Smart Vision Glasses — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government."
+   "x": "Cyber Resilience & Threat Command composes Tele Medicine Platform, Driisti Smart Vision Glasses, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government."
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The Cyber Resilience & Threat Command engagement opens with the problem stated in the CFO's units and a baseline signed by whoever owns the number. Design follows with the risk envelope explicit; the proof phase runs a bounded slice on your data with falsifiable gate criteria; industrialization scales only what the evidence supports. In Cyber Resilience & Threat Command programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The Cyber Resilience & Threat Command engagement opens with the problem stated in the CFO's units and a baseline signed by whoever owns the number. Design follows with the risk envelope explicit; the proof phase runs a bounded slice on your data with falsifiable gate criteria; industrialization scales only what the evidence supports. In Cyber Resilience & Threat Command programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -203,7 +203,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber Resilience & Threat Command in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber Resilience & Threat Command in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 379,
@@ -284,13 +284,13 @@
    "title": "Regulatory Compliance Automation",
    "url": "/solutions/regulatory-compliance-automation/",
    "tag": "Risk",
-   "desc": "Evidence once, audit anywhere — compliance as a living system."
+   "desc": "Evidence once, audit anywhere, compliance as a living system."
   },
   {
    "title": "Enterprise Risk & Scenario Intelligence",
    "url": "/solutions/enterprise-risk-analytics/",
    "tag": "Risk",
-   "desc": "Risk that changes decisions — limits, reserves and stress on one governed spine."
+   "desc": "Risk that changes decisions, limits, reserves and stress on one delivery standard."
   },
   {
    "title": "Supply Chain Risk & Continuity",

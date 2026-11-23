@@ -1,0 +1,118 @@
+{
+ "id": "PLT-swarm-uc",
+ "title": "Achala Swarm — Industry Use Cases",
+ "url": "/platforms/swarm/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Achala Swarm > Industry Use Cases",
+ "seo_title": "Achala Swarm — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "Industry use cases for Achala Swarm — Agentic AI Orchestration Platform: document operations, service desks and back-office automation at scale.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Achala Swarm runs, sector by sector: the agent workloads each industry automates and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "What actually breaks today"
+  },
+  {
+   "t": "table",
+   "caption": "Achala Swarm — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Banking",
+     "KYC refresh and exception clearing at file volume",
+     "Human checkpoints exactly where policy requires"
+    ],
+    [
+     "Insurance",
+     "Claims assembly and FNOL processing",
+     "Every action replayable for the claim file"
+    ],
+    [
+     "Telecom",
+     "Order orchestration across legacy stacks",
+     "Rollback that works when an agent misfires"
+    ],
+    [
+     "Logistics",
+     "Document-driven customs and freight workflows",
+     "Escalations designed, not improvised"
+    ],
+    [
+     "Public sector",
+     "Case assembly across registries and forms",
+     "Evidence written as the work happens, ready for the review board"
+    ],
+    [
+     "Healthcare",
+     "Prior-auth package assembly",
+     "Audit trail from document to determination"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Delivery, without the theater"
+  },
+  {
+   "t": "p",
+   "x": "Each Achala Swarm deployment starts with one decision class in production, not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "What this environment runs on"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Achala Swarm as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not, fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one process to a briefing. We will show the agent fleet, the queues and the human checkpoints it would run with."
+  }
+ ],
+ "words": 316,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Swarm",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Swarm",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/swarm/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Swarm — Agentic AI Orchestration Platform",
+   "url": "/platforms/swarm/",
+   "desc": "Agentic AI Orchestration Platform"
+  },
+  {
+   "title": "Achala Swarm — Architecture & Trust",
+   "url": "/platforms/swarm/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Swarm — Industry Use Cases",
+   "url": "/platforms/swarm/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Insurance & Risk has one job: move a named number — claims, policy and exposure data fragmented included — and prove it moved. The engineering that does it: we put the record on rails — immutable event history, selective disclosure, and integrations your counterparties' auditors accept. That is the engineering behind Insurance & Risk."
+   "x": "Blockchain & Digital Trust in Insurance & Risk has one job: move a named number, claims, policy and exposure data fragmented included, and prove it moved. The engineering that does it: we put the record on rails, immutable event history, selective disclosure, and integrations your counterparties' auditors accept. That is the engineering behind Insurance & Risk."
   },
   {
    "t": "p",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for claims, policy and exposure data fragmented is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — reinsurance settlement network, bounded to one path, running on your estate. In Insurance & Risk programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Delivery opens with measurement: the baseline for claims, policy and exposure data fragmented is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, reinsurance settlement network, bounded to one path, running on your estate. In Insurance & Risk programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -83,7 +83,7 @@
   },
   {
    "t": "p",
-   "x": "The Blockchain & Digital Trust control frame for Insurance & Risk: Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Blockchain & Digital Trust control frame for Insurance & Risk: Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -98,19 +98,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -124,7 +124,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Blockchain & Digital Trust in Insurance & Risk in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Blockchain & Digital Trust in Insurance & Risk in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 662,
@@ -198,7 +198,7 @@
    "title": "Blockchain & Digital Trust for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

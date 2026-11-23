@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Setting the Data & Lakehouse scene in National Government & Digital Services: National digital government builds shared rails — identity, data exchange, notification, payments — and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
+   "x": "Setting the Data & Lakehouse scene in National Government & Digital Services: National digital government builds shared rails, identity, data exchange, notification, payments, and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
   },
   {
    "t": "p",
-   "x": "The fix for casework backlogs is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for casework backlogs is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — National Government & Digital Services edition:"
+   "x": "The places value leaks, National Government & Digital Services edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In National Government & Digital Services, the pattern is interagency exchange — consent-aware, event-driven sharing with lineage. Tell-us-once real sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. For National Government & Digital Services, this is the standard the build is held to."
+   "x": "In National Government & Digital Services, the pattern is interagency exchange, consent-aware, event-driven sharing with lineage. Tell-us-once real sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. For National Government & Digital Services, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. casework backlogs gets a number, an owner and a signature; the quarter belongs to a bounded slice — Interagency exchange — live on your estate. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. casework backlogs gets a number, an owner and a signature; the quarter belongs to a bounded slice, Interagency exchange, live on your estate. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in National Government & Digital Services: GDPR/national privacy — citizen data duties; EU AI Act — public AI duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Data & Lakehouse frame in National Government & Digital Services: GDPR/national privacy, citizen data duties; EU AI Act, public AI duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Data & Lakehouse for National Government & Digital Services in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Data & Lakehouse for National Government & Digital Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 475,

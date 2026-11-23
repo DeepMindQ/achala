@@ -39,9 +39,12 @@ rm -rf .gh-deploy
 git worktree add --force .gh-deploy gh-pages
 git -C .gh-deploy reset --hard origin/gh-pages 2>/dev/null || true
 
-# 4. replace content, keep .git; CRITICAL: no CNAME (custom domain belongs to the DataQ repo)
+# 4. ADDITIVE overlay — keep .git AND every previously deployed hashed asset
+#    (2026-11-23: full-wipe deploys deleted _next chunks still referenced by
+#    cached HTML, so pages rendered blank until a hard refresh. GitHub Pages
+#    serves HTML with max-age=600, so old chunk files MUST stay reachable.)
+#    CRITICAL: no CNAME (custom domain belongs to the DataQ repo)
 cd .gh-deploy
-find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
 cp -r ../site/out-gh/. .
 rm -f CNAME
 touch .nojekyll

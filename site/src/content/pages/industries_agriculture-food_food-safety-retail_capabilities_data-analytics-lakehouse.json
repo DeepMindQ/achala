@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse against fresh demand guessing in Food Safety & Food Retail: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Data & Lakehouse against fresh demand guessing in Food Safety & Food Retail: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Fresh demand guessing is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Fresh demand guessing is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Food Safety & Food Retail, the pattern is supplier risk platform — certifications/audits/recalls scored. Risk proactive sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Food Safety & Food Retail, the pattern is supplier risk platform, certifications/audits/recalls scored. Risk proactive sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. fresh demand guessing gets a number, an owner and a signature; the quarter belongs to a bounded slice — Supplier risk platform — live on your estate. In Food Safety & Food Retail programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. fresh demand guessing gets a number, an owner and a signature; the quarter belongs to a bounded slice, Supplier risk platform, live on your estate. In Food Safety & Food Retail programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Data & Lakehouse for Food Safety & Food Retail, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Data & Lakehouse for Food Safety & Food Retail, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 427,

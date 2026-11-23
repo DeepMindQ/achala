@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IT Services & Managed Operations: Operations with named owners, measured SLAs and a cost line you can read. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "IT Services & Managed Operations: Operations with named owners, measured SLAs and a cost line you can read. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "Managed operations fail when nobody owns the outcome. Our IT services model assigns a named service owner per domain of your estate, publishes the SLA and the evidence behind it monthly, and instruments the cost per service so budget conversations happen with numbers instead of anecdotes. Runbooks are engineered artifacts — versioned, tested and rehearsed — not wiki pages."
+   "x": "Managed operations fail when nobody owns the outcome. Our IT services model assigns a named service owner per domain of your estate, publishes the SLA and the evidence behind it monthly, and instruments the cost per service so budget conversations happen with numbers instead of anecdotes. Runbooks are engineered artifacts, versioned, tested and rehearsed, not wiki pages."
   },
   {
    "t": "p",
-   "x": "The operating rhythm is deliberately boring: change flows through managed windows with evidence, incidents carry blameless reviews that change the runbook, and capacity is planned against measured demand. The result is an estate that behaves the same on day 700 as it did on day one — at a unit cost that trends down, not up."
+   "x": "The operating rhythm is deliberately boring: change flows through managed windows with evidence, incidents carry blameless reviews that change the runbook, and capacity is planned against measured demand. The result is an estate that behaves the same on day 700 as it did on day one, at a unit cost that trends down, not up."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a IT Services & Managed Operations briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a IT Services & Managed Operations briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 343,

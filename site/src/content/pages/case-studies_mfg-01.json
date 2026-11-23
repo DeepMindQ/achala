@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "OEE +7.2 points across 14 plants — sensor fabric to scheduling decisions"
+   "x": "OEE +7.2 points across 14 plants, sensor fabric to scheduling decisions"
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We retrofitted sensor fabric on live lines (OPC UA/Sparkplug with data contracts), deployed vision inspection closing loops into andon/MES, and gave planners a Swarm scheduling assistant proposing changeover-aware sequences. IEC 62443 zoning preceded instrumentation — security first, then telemetry, then decisions on Forge."
+   "x": "We retrofitted sensor fabric on live lines (OPC UA/Sparkplug with data contracts), deployed vision inspection closing loops into andon/MES, and gave planners a Swarm scheduling assistant proposing changeover-aware sequences. IEC 62443 zoning preceded instrumentation, security first, then telemetry, then decisions on Forge."
   },
   {
    "t": "arch",
@@ -258,7 +258,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the same diagnostic to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring the same diagnostic to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 330,

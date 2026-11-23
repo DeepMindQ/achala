@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Healthcare & Life Sciences: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Two clocks run in Healthcare & Life Sciences: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Healthcare & Life Sciences edition:"
+   "x": "The places value leaks, Healthcare & Life Sciences edition:"
   },
   {
    "t": "bullets",
@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "In Healthcare & Life Sciences, the working pattern is ambient clinical documentation: visit audio to structured draft notes in EHR templates with clinician sign-off. Documentation time down 25%+ is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Healthcare & Life Sciences, the working pattern is ambient clinical documentation: visit audio to structured draft notes in EHR templates with clinician sign-off. Documentation time down 25%+ is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -193,7 +193,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. imaging and diagnostic backlogs is measured with your finance and risk leads in the room, then one working path — ambient clinical documentation — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For Healthcare & Life Sciences, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. imaging and diagnostic backlogs is measured with your finance and risk leads in the room, then one working path, ambient clinical documentation, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For Healthcare & Life Sciences, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "For the Applied AI & GenAI side of Healthcare & Life Sciences, the binding duties are concrete — HIPAA / HITECH (PHI safeguards, BAAs, breach notification and audit trails); GDPR / EU health-data regimes (special-category data, DPIAs and cross-border transfer controls); FDA SaMD / CDS guidance (clinical decision support under enforcement discretion boundaries and validation duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Applied AI & GenAI side of Healthcare & Life Sciences, the binding duties are concrete, HIPAA / HITECH (PHI safeguards, BAAs, breach notification and audit trails); GDPR / EU health-data regimes (special-category data, DPIAs and cross-border transfer controls); FDA SaMD / CDS guidance (clinical decision support under enforcement discretion boundaries and validation duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -216,19 +216,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -242,7 +242,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Applied AI & GenAI in Healthcare & Life Sciences in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Applied AI & GenAI in Healthcare & Life Sciences in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 589,
@@ -316,25 +316,25 @@
    "title": "Applied AI & GenAI for Hospitals & Provider Networks",
    "url": "/industries/healthcare-life-sciences/hospitals-providers/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Pharmaceuticals & Biotech",
    "url": "/industries/healthcare-life-sciences/pharma-biotech/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

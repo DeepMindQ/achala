@@ -1,0 +1,118 @@
+{
+ "id": "PLT-compass-uc",
+ "title": "Achala Compass — Industry Use Cases",
+ "url": "/platforms/compass/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Achala Compass > Industry Use Cases",
+ "seo_title": "Achala Compass — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "Industry use cases for Achala Compass — Responsible AI & Governance Suite: model risk, validation, monitoring and regulatory evidence.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Achala Compass runs, sector by sector: the model portfolios each industry governs and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "Where the cost hides"
+  },
+  {
+   "t": "table",
+   "caption": "Achala Compass — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Banking",
+     "Model risk governance for GenAI programs",
+     "EU AI Act documentation written as the work happens"
+    ],
+    [
+     "Insurance",
+     "Underwriting and pricing model oversight",
+     "Fairness checks wired into the loop"
+    ],
+    [
+     "Healthcare",
+     "Clinical AI governance",
+     "Explainability at the clinician's level"
+    ],
+    [
+     "Public sector",
+     "Algorithmic decision transparency",
+     "Board-grade reporting by default"
+    ],
+    [
+     "Telecom",
+     "Decision intelligence over network ops",
+     "Knowledge-graph DSS with audit trails"
+    ],
+    [
+     "Retail",
+     "Personalization governance",
+     "Consent-scoped decision policies"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Each Achala Compass deployment starts with one decision class in production, not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "How the operation actually works"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Achala Compass as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not, fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one model portfolio to a briefing. We will show the register, the validation workflow and the evidence pack it produces."
+  }
+ ],
+ "words": 299,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Compass",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Compass",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/compass/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Compass — Responsible AI & Governance Suite",
+   "url": "/platforms/compass/",
+   "desc": "Responsible AI & Governance Suite"
+  },
+  {
+   "title": "Achala Compass — Architecture & Trust",
+   "url": "/platforms/compass/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Compass — Industry Use Cases",
+   "url": "/platforms/compass/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

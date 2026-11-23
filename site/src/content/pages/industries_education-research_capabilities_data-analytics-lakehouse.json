@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Education & Research does not chase announcements; it delivers audited change — which means we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. For Education & Research, this is the standard the build is held to."
+   "x": "Data & Lakehouse in Education & Research does not chase announcements; it delivers audited change, which means we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. For Education & Research, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Education & Research, the working pattern is student success platform: SIS/LMS/support data unified with outcome lineage. Intervention targeting measurable is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Education & Research, the working pattern is student success platform: SIS/LMS/support data unified with outcome lineage. Intervention targeting measurable is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for student signals scattered is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — student success platform, bounded to one path, running on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Education & Research, that discipline is not optional — it is the engagement model."
+   "x": "Delivery opens with measurement: the baseline for student signals scattered is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, student success platform, bounded to one path, running on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Education & Research, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "For the Data & Lakehouse side of Education & Research, the binding duties are concrete — FERPA / student-privacy regimes (educational-record duties incl. vendor contracts); GDPR-K / minors' data rules ( heightened consent and profiling limits for K-12); Accessibility mandates (ADA/EN 301 549) (digital learning materials must comply). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Data & Lakehouse side of Education & Research, the binding duties are concrete, FERPA / student-privacy regimes (educational-record duties incl. vendor contracts); GDPR-K / minors' data rules ( heightened consent and profiling limits for K-12); Accessibility mandates (ADA/EN 301 549) (digital learning materials must comply). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Data & Lakehouse in Education & Research, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Data & Lakehouse in Education & Research, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 514,
@@ -302,25 +302,25 @@
    "title": "Data & Lakehouse for Higher Education & Universities",
    "url": "/industries/education-research/higher-education/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for K-12 & School Systems",
    "url": "/industries/education-research/k12-schools/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for EdTech & Learning Platforms",
    "url": "/industries/education-research/edtech-platforms/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Workforce & Vocational Training",
    "url": "/industries/education-research/workforce-training/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

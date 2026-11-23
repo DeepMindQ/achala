@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what GO/REC certificate integrity costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we put the record on rails — immutable event history, selective disclosure, and integrations your counterparties' auditors accept."
+   "x": "Ask what GO/REC certificate integrity costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we put the record on rails, immutable event history, selective disclosure, and integrations your counterparties' auditors accept."
   },
   {
    "t": "p",
@@ -38,7 +38,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. GO/REC certificate integrity is measured with your finance and risk leads in the room, then one working path — go/rec provenance network — goes live inside the quarter. In Energy & Utilities programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. GO/REC certificate integrity is measured with your finance and risk leads in the room, then one working path, go/rec provenance network, goes live inside the quarter. In Energy & Utilities programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -302,7 +302,7 @@
    "title": "Blockchain & Digital Trust for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

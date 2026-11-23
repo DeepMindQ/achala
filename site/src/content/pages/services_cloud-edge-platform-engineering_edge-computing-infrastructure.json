@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Compute and delivery close to users and devices: regional clusters with store-and-forward resilience, fleet operations across heterogeneous hardware, rollout waves that respect site windows — and monitors that notice when a site goes silent instead of assuming it is fine."
+   "x": "Compute and delivery close to users and devices: regional clusters with store-and-forward resilience, fleet operations across heterogeneous hardware, rollout waves that respect site windows, and monitors that notice when a site goes silent instead of assuming it is fine."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Edge is where the cloud's assumptions break: networks partition, power flickers, hardware is diverse, and nobody is there to reboot the box. Edge infrastructure is fleet engineering — regional clusters with autonomous degradation, store-and-forward data paths, and deployment tooling that treats a hundred sites like one release train."
+   "x": "Edge is where the cloud's assumptions break: networks partition, power flickers, hardware is diverse, and nobody is there to reboot the box. Edge infrastructure is fleet engineering, regional clusters with autonomous degradation, store-and-forward data paths, and deployment tooling that treats a hundred sites like one release train."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these hides behind scale — a thousand sites make wonderful averages and terrible individual failures — the countermeasures measure sites as individuals."
+   "x": "Each of these hides behind scale, a thousand sites make wonderful averages and terrible individual failures, the countermeasures measure sites as individuals."
   },
   {
    "t": "table",
@@ -300,7 +300,7 @@
   },
   {
    "t": "p",
-   "x": "From link loss through local operation, bounded queues, reconnect and reconciliation — including the conflict rules that decide what wins when both sides moved."
+   "x": "From link loss through local operation, bounded queues, reconnect and reconciliation, including the conflict rules that decide what wins when both sides moved."
   },
   {
    "t": "diagram",
@@ -324,7 +324,7 @@
   },
   {
    "t": "p",
-   "x": "Site heartbeat SLO, worst-site queue depth and rollout wave success — the three numbers that run a fleet, because averages across a thousand sites hide exactly the failure you care about."
+   "x": "Site heartbeat SLO, worst-site queue depth and rollout wave success, the three numbers that run a fleet, because averages across a thousand sites hide exactly the failure you care about."
   },
   {
    "t": "idash",
@@ -665,7 +665,7 @@
   },
   {
    "t": "p",
-   "x": "Wave success and rollback rates across site cohorts — the shape that shows which hardware generations tolerate change and which need their own windows."
+   "x": "Wave success and rollback rates across site cohorts, the shape that shows which hardware generations tolerate change and which need their own windows."
   },
   {
    "t": "chart",
@@ -1159,27 +1159,27 @@
     [
      "Site runtime",
      "Lightweight k8s/containers with hardware abstraction",
-     "Per-site bespoke installs — the fleet dies of variety"
+     "Per-site bespoke installs, the fleet dies of variety"
     ],
     [
      "Data path",
      "Store-and-forward with dedup and conflict rules",
-     "Direct-to-cloud writes — partitions lose data"
+     "Direct-to-cloud writes, partitions lose data"
     ],
     [
      "Releases",
      "Staged trains with health gates",
-     "SSH-to-sites updates — it does not scale past ten"
+     "SSH-to-sites updates, it does not scale past ten"
     ],
     [
      "Observability",
      "Site heartbeat SLOs with site-scoped alerts",
-     "Cloud-only monitoring — silent sites are invisible"
+     "Cloud-only monitoring, silent sites are invisible"
     ],
     [
      "Hardware",
      "Certified SKU list per train",
-     "Any-box-will-do — drivers become the incident"
+     "Any-box-will-do, drivers become the incident"
     ]
    ]
   },
@@ -1333,7 +1333,7 @@
   },
   {
    "t": "p",
-   "x": "Physical access, device identity and signed updates are the controls that make a distributed fleet survivable — each site's trust is provisioned, rotated and revoked like any other principal."
+   "x": "Physical access, device identity and signed updates are the controls that make a distributed fleet survivable, each site's trust is provisioned, rotated and revoked like any other principal."
   },
   {
    "t": "bullets",
@@ -1358,22 +1358,22 @@
   },
   {
    "t": "note",
-   "x": "Silence is an alarm: a site that stops heartbeating pages within minutes, because the difference between 'offline' and 'compromised' is discovered by going to look — the monitor's job is to make someone look."
+   "x": "Silence is an alarm: a site that stops heartbeating pages within minutes, because the difference between 'offline' and 'compromised' is discovered by going to look, the monitor's job is to make someone look."
   },
   {
    "t": "h2",
    "x": "Design for the partition, not the datacenter",
-   "sub": "Store-and-forward, autonomy budgets and heartbeat SLOs — the failure model that makes edge real",
+   "sub": "Store-and-forward, autonomy budgets and heartbeat SLOs, the failure model that makes edge real",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Edge estates fail differently from clouds: sites partition, devices go silent, and the fleet is heterogeneous by construction — three generations of gateways running three firmware lines. The design that survives assumes the partition as the normal case: store-and-forward queues at every site with bounded local autonomy (hours to days, priced per site), idempotent replay on reconnect, and a hardware-abstraction layer so the same release train rolls across the heterogeneous fleet. Atomic OS updates with automatic revert mean a bad rollout self-heals instead of bricking a region.",
+   "x": "Edge estates fail differently from clouds: sites partition, devices go silent, and the fleet is heterogeneous by construction, three generations of gateways running three firmware lines. The design that survives assumes the partition as the normal case: store-and-forward queues at every site with bounded local autonomy (hours to days, priced per site), idempotent replay on reconnect, and a hardware-abstraction layer so the same release train rolls across the heterogeneous fleet. Atomic OS updates with automatic revert mean a bad rollout self-heals instead of bricking a region.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Observability inverts at the edge: you cannot watch a thousand sites, so sites report heartbeats and the SLO is on silence — a site that stops reporting pages within its heartbeat budget rather than when a customer notices. Release trains stage waves with canary sites first, and the console treats sites as individuals (fleet averages hide the one dairy depot that matters). The fleet-security overlay keeps identity per site, signed artifacts end to end, and a kill path that revokes a site without touching the fleet.",
+   "x": "Observability inverts at the edge: you cannot watch a thousand sites, so sites report heartbeats and the SLO is on silence, a site that stops reporting pages within its heartbeat budget rather than when a customer notices. Release trains stage waves with canary sites first, and the console treats sites as individuals (fleet averages hide the one dairy depot that matters). The fleet-security overlay keeps identity per site, signed artifacts end to end, and a kill path that revokes a site without touching the fleet.",
    "phase3_deep": true
   },
   {
@@ -1385,7 +1385,7 @@
     ],
     [
      "Heartbeat SLOs on silence",
-     "A silent site pages inside its budget — before a customer notices."
+     "A silent site pages inside its budget, before a customer notices."
     ],
     [
      "One release train, heterogeneous fleet",
@@ -1403,7 +1403,7 @@
    "items": [
     [
      "How do sites keep operating when the network drops?",
-     "Store-and-forward is the default: each site class carries an autonomy budget — 4 hours at metro edge, a week at remote gateways — and reconciliation is rehearsed, so a partition is an operating event, not an outage."
+     "Store-and-forward is the default: each site class carries an autonomy budget, 4 hours at metro edge, a week at remote gateways, and reconciliation is rehearsed, so a partition is an operating event, not an outage."
     ],
     [
      "How do you update software on thousands of scattered sites?",
@@ -1411,7 +1411,7 @@
     ],
     [
      "What happens to data written during a partition?",
-     "It queues locally with ordering and idempotency guarantees, then reconciles at reconnect — duplicate writes are absorbed by keys, and the console shows reconciliation depth per site as it drains."
+     "It queues locally with ordering and idempotency guarantees, then reconciles at reconnect, duplicate writes are absorbed by keys, and the console shows reconciliation depth per site as it drains."
     ],
     [
      "Can you handle heterogeneous hardware at the edge?",
@@ -1419,13 +1419,13 @@
     ],
     [
      "Who operates the fleet day to day?",
-     "Fleet operations runs the console — sites as individuals with their own state, versions and autonomy posture — plus the drill calendar. We operate alongside through the first waves, then hand over."
+     "Fleet operations runs the console, sites as individuals with their own state, versions and autonomy posture, plus the drill calendar. We operate alongside through the first waves, then hand over."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask how long your quietest site ran without anyone noticing. The diagnostic will wire heartbeats, worst-site metrics and partition drills — and price what fleet-honest operations costs."
+   "x": "Ask how long your quietest site ran without anyone noticing. The diagnostic will wire heartbeats, worst-site metrics and partition drills, and price what fleet-honest operations costs."
   }
  ],
  "words": 1006,
@@ -1510,43 +1510,43 @@
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Same domain",
-   "desc": "one operating model across clouds and on-prem — workload placement by policy, portable patterns, and drift that is measured in one place."
+   "desc": "one operating model across clouds and on-prem, workload placement by policy, portable patterns, and drift that is measured in one place."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Same domain",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Same domain",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Pairs with",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "Predictive Maintenance & Asset Intelligence",
    "url": "/services/iot-digital-twin-robotics/predictive-asset-intelligence/",
    "tag": "Pairs with",
-   "desc": "maintenance scheduled by evidence — failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
+   "desc": "maintenance scheduled by evidence, failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
   },
   {
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Pairs with",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "A B2B SaaS platform (Series D)",
    "url": "/case-studies/tech-01/",
    "tag": "Evidence",
-   "desc": "Lead time down 58%, AI margin protected — platform engineering plus AI factory."
+   "desc": "Lead time down 58%, AI margin protected, platform engineering plus AI factory."
   }
  ],
  "evidence": [

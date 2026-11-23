@@ -9,19 +9,19 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Retail & Consumer Banking targets a specific gap: systems exist, but no governed path connects them — which is why onboarding abandonment still costs what it costs. The build closes it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Cyber & Zero-Trust in Retail & Consumer Banking targets a specific gap: systems exist, but no governed path connects them, which is why onboarding abandonment still costs what it costs. The build closes it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "p",
-   "x": "Through the Cyber & Zero-Trust lens, the operating reality: Retail banks fight on experience and cost per account: onboarding friction, service resolution and cross-sell precision decide share of wallet. The machinery underneath — decisioning, document intelligence, contact platforms — is where Achala IT Solutions engineers advantage."
+   "x": "Through the Cyber & Zero-Trust lens, the operating reality: Retail banks fight on experience and cost per account: onboarding friction, service resolution and cross-sell precision decide share of wallet. The machinery underneath, decisioning, document intelligence, contact platforms, is where Achala IT Solutions engineers advantage."
   },
   {
    "t": "p",
-   "x": "Onboarding abandonment is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Onboarding abandonment is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Retail & Consumer Banking, the pattern is ATO defense — behavioral biometrics, step-up auth and device intelligence. Account-takeover losses down 30-45% sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Retail & Consumer Banking, the pattern is ATO defense, behavioral biometrics, step-up auth and device intelligence. Account-takeover losses down 30-45% sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -181,7 +181,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. onboarding abandonment is measured with your finance and risk leads in the room, then one working path — ATO defense — goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Nothing scales before the baseline is signed. onboarding abandonment is measured with your finance and risk leads in the room, then one working path, ATO defense, goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -189,7 +189,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Retail & Consumer Banking: KYC/AML directives — customer due diligence with periodic refresh duties; PSD2/PSD3 SCA — strong customer authentication with friction trade-offs. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Retail & Consumer Banking: KYC/AML directives, customer due diligence with periodic refresh duties; PSD2/PSD3 SCA, strong customer authentication with friction trade-offs. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

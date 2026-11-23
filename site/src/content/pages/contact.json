@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Tell us what you are building. A practice lead — not a call-center — replies with the fastest path from POC to production."
+   "x": "Tell us what you are building. A practice lead, not a call center, replies within one business day with the fastest path from proof of concept to production."
   },
   {
    "t": "h2",
@@ -24,11 +24,11 @@
    ],
    "rows": [
     [
-     "India — Headquarters",
+     "India, Headquarters",
      "Achala IT Solutions Private Limited, Floor 10, 285 FD by Phoenix, Financial District, Nanakramguda, Hyderabad, Telangana 500089"
     ],
     [
-     "India — Registered office",
+     "India, Registered office",
      "Achala IT Solutions Private Limited, 3rd Floor, Plot No 342 & 343, Road Number 7, Kakateeya Hills, Hyderabad, Telangana 500081"
     ],
     [
@@ -93,7 +93,7 @@
   },
   {
    "t": "p",
-   "x": "Prefer email? Write to info@achalasolutions.com and a practice lead will respond within one business day. For partnership and press queries, use the same address with the subject line you prefer — we route it internally."
+   "x": "Prefer email? Write to info@achalasolutions.com and a practice lead will respond within one business day. For partnership and press queries, use the same address with the subject line you prefer, we route it internally."
   }
  ],
  "words": 220,

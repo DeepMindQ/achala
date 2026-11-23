@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Logistics & Supply Chain has one job: move a named number — compliance-grade provenance missing included — and prove it moved. The engineering that does it: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "Blockchain & Digital Trust in Logistics & Supply Chain has one job: move a named number, compliance-grade provenance missing included, and prove it moved. The engineering that does it: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
   },
   {
    "t": "p",
@@ -38,11 +38,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Logistics & Supply Chain, the working pattern is eudr chain-of-custody: anchored custody events for in-scope commodities with regulator interfaces. Due-diligence evidence in hours is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Logistics & Supply Chain, the working pattern is eudr chain-of-custody: anchored custody events for in-scope commodities with regulator interfaces. Due-diligence evidence in hours is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. compliance-grade provenance missing gets a number, an owner and a signature; the quarter belongs to a bounded slice — eudr chain-of-custody — live on your estate. In Logistics & Supply Chain programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The first two weeks belong to the baseline. compliance-grade provenance missing gets a number, an owner and a signature; the quarter belongs to a bounded slice, eudr chain-of-custody, live on your estate. In Logistics & Supply Chain programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The Blockchain & Digital Trust control frame for Logistics & Supply Chain: EUDR (deforestation due diligence for in-scope commodities with evidence duties); CSRD/ISSB logistics emissions (scope 3 transport emissions with auditability); CMR/ADR/IMDG transport rules (dangerous-goods and carriage documentation duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Blockchain & Digital Trust control frame for Logistics & Supply Chain: EUDR (deforestation due diligence for in-scope commodities with evidence duties); CSRD/ISSB logistics emissions (scope 3 transport emissions with auditability); CMR/ADR/IMDG transport rules (dangerous-goods and carriage documentation duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Blockchain & Digital Trust in Logistics & Supply Chain, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Blockchain & Digital Trust in Logistics & Supply Chain, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 514,
@@ -302,13 +302,13 @@
    "title": "Blockchain & Digital Trust for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "Blockchain & Digital Trust for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

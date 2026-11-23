@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Telecom, Media & Entertainment; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Regulation sets the floor in Telecom, Media & Entertainment; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Applied AI & GenAI reality in Telecom, Media & Entertainment: Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups — streaming personalization, ad targeting under consent, and content-performance analytics."
+   "x": "One more Applied AI & GenAI reality in Telecom, Media & Entertainment: Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups, streaming personalization, ad targeting under consent, and content-performance analytics."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Telecom, Media & Entertainment: resolution-first voice care — grounded voice agents resolving top intents with telephony integration and escalation context. Care cost per contact down 30% is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Telecom, Media & Entertainment: resolution-first voice care, grounded voice agents resolving top intents with telephony integration and escalation context. Care cost per contact down 30% is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. care experiences fail at IVR gets a number, an owner and a signature; the quarter belongs to a bounded slice — resolution-first voice care — live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Telecom, Media & Entertainment, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. care experiences fail at IVR gets a number, an owner and a signature; the quarter belongs to a bounded slice, resolution-first voice care, live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Telecom, Media & Entertainment, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Telecom, Media & Entertainment: GDPR and privacy regimes (subscriber profiling and data-sharing consent duties); NIS2 / sector cyber regulation (essential-entity obligations across network estates); EU AI Act (biometric and profiling constraints shaping AI deployment). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Telecom, Media & Entertainment: GDPR and privacy regimes (subscriber profiling and data-sharing consent duties); NIS2 / sector cyber regulation (essential-entity obligations across network estates); EU AI Act (biometric and profiling constraints shaping AI deployment). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -195,26 +195,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Applied AI & GenAI for Telecom, Media & Entertainment — each page documents the build as delivered:"
+   "x": "Named services for Applied AI & GenAI for Telecom, Media & Entertainment, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -302,25 +302,25 @@
    "title": "Applied AI & GenAI for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

@@ -1,112 +1,84 @@
 {
- "id": "PLT-ledger-ar",
- "title": "Patient Priority Portal — Architecture & Trust",
+ "id": "PLT-patient-portal-ar",
+ "title": "Patient Priority Portal — Architecture & Security",
  "url": "/platforms/patient-portal/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Patient Priority Portal > Architecture & Trust",
- "seo_title": "Patient Priority Portal — Architecture & Trust | Achala IT Solutions",
- "meta_description": "Architecture, security posture and compliance evidence for Patient Priority Portal — Distributed Trust & Tokenization Platform from Achala IT Solutions.",
+ "breadcrumb": "Platforms > Patient Priority Portal > Architecture & Security",
+ "seo_title": "Patient Priority Portal — Architecture & Security | Achala IT Solutions",
+ "meta_description": "Architecture and security posture of Patient Priority Portal — appointments, reports and priority routing for hospitals.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Patient Priority Portal's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+   "x": "How Patient Priority Portal is built: HIS integration, laboratory connectivity and HIPAA-grade access discipline."
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Structurally Patient Priority Portal is planes, not layers — workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
-  },
-  {
-   "t": "p",
-   "x": "What ships, in the order it ships — Patient Priority Portal architecture edition:"
+   "x": "The portal integrates with hospital information systems and laboratory equipment through standards-based interfaces. Patient data follows HIPAA-grade access discipline; every view and edit is logged."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Network engineering",
-     "permissioned DLT with bank-grade operations"
+     "HIS integration",
+     "Standard interfaces to hospital information systems"
     ],
     [
-     "Governance charter",
-     "membership, visibility zones, legal wrapper"
+     "Laboratory connectivity",
+     "Results flow from analyzers to patients without re-keying"
     ],
     [
-     "Tokenization stack",
-     "compliance-aware issuance and transfer controls"
+     "Access discipline",
+     "Patient data visible only to the care team and the patient"
     ],
     [
-     "Contract factory",
-     "specification-first, verified, audited contracts"
-    ],
-    [
-     "Provenance service",
-     "custody anchoring with role-based verification"
-    ],
-    [
-     "Credential ecosystem",
-     "W3C VC/DID with trust frameworks"
+     "Full activity logs",
+     "Every access and change recorded for audit"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "The security posture"
+   "x": "Security and compliance"
   },
   {
    "t": "p",
-   "x": "instrumented from week one, on your channels, Patient Priority Portal edition:"
+   "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "HSM custody",
-     "keys never in software alone"
+     "HIS integration",
+     "Standard interfaces to hospital information systems"
     ],
     [
-     "Formal verification",
-     "core invariants specified and checked"
+     "Laboratory connectivity",
+     "Results flow from analyzers to patients without re-keying"
     ],
     [
-     "Regulator pack",
-     "privacy model, audit exports, jurisdiction analysis"
+     "Access discipline",
+     "Patient data visible only to the care team and the patient"
     ],
     [
-     "eIDAS 2.0 alignment",
-     "EUDI-wallet-compatible credentials"
+     "Full activity logs",
+     "Every access and change recorded for audit"
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Under the hood"
-  },
-  {
-   "t": "p",
-   "x": "Runtime dependencies: Hyperledger Fabric/Besu, HSM fleets, W3C VC/DID, static/formal verification tools. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
-  },
-  {
-   "t": "h2",
-   "x": "What the weeks look like"
-  },
-  {
-   "t": "p",
-   "x": "Deployment models for Patient Priority Portal follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
   },
   {
    "t": "cta",
-   "x": "A value assessment prices the delta in your estate before anything is signed: Patient Priority Portal architecture, measured against your baseline, in two weeks."
+   "x": "Book a briefing with the portal team. We will map your patient journey and show where the queue time comes out."
   }
  ],
- "words": 259,
+ "words": 240,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Patient Priority Portal",
- "l3": "Architecture & Trust",
+ "l3": "Architecture & Security",
  "l4": "",
  "crumbs": [
   {
@@ -118,45 +90,25 @@
    "url": null
   },
   {
-   "name": "Architecture & Trust",
+   "name": "Architecture & Security",
    "url": "/platforms/patient-portal/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Patient Priority Portal — Overview",
+   "title": "Patient Priority Portal",
    "url": "/platforms/patient-portal/",
-   "desc": "Distributed Trust & Tokenization Platform"
+   "desc": "One portal for appointments, results and priority care — laboratory queues down "
   },
   {
-   "title": "Patient Priority Portal — Architecture & Trust",
+   "title": "Patient Priority Portal — Architecture & Security",
    "url": "/platforms/patient-portal/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Patient Priority Portal — Industry Use Cases",
    "url": "/platforms/patient-portal/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A European specialty reinsurer",
-   "url": "/case-studies/ins-03/",
-   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
-  },
-  {
-   "title": "A global fashion group",
-   "url": "/case-studies/ret-02/",
-   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
-  },
-  {
-   "title": "A global coffee trader",
-   "url": "/case-studies/agr-02/",
-   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened"
-  },
-  {
-   "title": "A food processor (dairy)",
-   "url": "/case-studies/agr-03/",
-   "desc": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

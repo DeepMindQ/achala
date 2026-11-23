@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Turbine fleet predictive maintenance — forced-outage rate down 29% and availability up 2.1 points across the thermal fleet"
+   "x": "Turbine fleet predictive maintenance, forced-outage rate down 29% and availability up 2.1 points across the thermal fleet"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a generation company whose outages arrived uninvited and whose maintenance calendar didn't believe in sensors. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a generation company whose outages arrived uninvited and whose maintenance calendar didn't believe in sensors. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The owned-signature pattern transfers across thermal fleets; the failure families were this fleet's history. Another operator starts from its outage reports — the diagnostic cross-reads them before promising availability."
+   "x": "The owned-signature pattern transfers across thermal fleets; the failure families were this fleet's history. Another operator starts from its outage reports, the diagnostic cross-reads them before promising availability."
   },
   {
    "t": "table",

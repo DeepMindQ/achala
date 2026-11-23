@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud Development & Azure Services: Azure estates engineered end to end — landing zones to AI workloads. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Cloud Development & Azure Services: Azure estates engineered end to end, landing zones to AI workloads. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "Cloud programs stall between the landing zone and the workload that proves the model. As a Microsoft-aligned partner we deliver both ends: enterprise landing zones with policy-as-code and cost guardrails, and the workloads that earn the cloud its keep — data platforms on Fabric and Databricks, GenAI systems on Azure OpenAI with private networking, and modernized applications on AKS with progressive delivery."
+   "x": "Cloud programs stall between the landing zone and the workload that proves the model. As a Microsoft-aligned partner we deliver both ends: enterprise landing zones with policy-as-code and cost guardrails, and the workloads that earn the cloud its keep, data platforms on Fabric and Databricks, GenAI systems on Azure OpenAI with private networking, and modernized applications on AKS with progressive delivery."
   },
   {
    "t": "p",
-   "x": "The engineering discipline stays constant across workloads: environments as code, contract-tested integrations, observability and FinOps telemetry from the first resource, and identity boundaries that follow your zero-trust standard. Azure OpenAI deployments ship with the guardrails model risk teams expect — private endpoints, content safety configured to policy, and evaluation harnesses before exposure."
+   "x": "The engineering discipline stays constant across workloads: environments as code, contract-tested integrations, observability and FinOps telemetry from the first resource, and identity boundaries that follow your zero-trust standard. Azure OpenAI deployments ship with the guardrails model risk teams expect, private endpoints, content safety configured to policy, and evaluation harnesses before exposure."
   },
   {
    "t": "h2",
@@ -201,11 +201,11 @@
   },
   {
    "t": "p",
-   "x": "Cloud Development & Azure Services — the concrete version, minus the adjectives:"
+   "x": "Cloud Development & Azure Services, the concrete version, minus the adjectives:"
   },
   {
    "t": "cta",
-   "x": "Book a Cloud Development & Azure Services briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Cloud Development & Azure Services briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 351,

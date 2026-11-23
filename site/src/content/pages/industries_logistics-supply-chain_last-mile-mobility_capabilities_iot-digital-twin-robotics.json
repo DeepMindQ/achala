@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Fleet and parcel blind is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Fleet and parcel blind is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Last-Mile & Urban Logistics, the pattern is parcel telemetry —  POD and condition sensing. Failures explained sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control. That is the engineering behind Last-Mile & Urban Logistics."
+   "x": "In Last-Mile & Urban Logistics, the pattern is parcel telemetry, POD and condition sensing. Failures explained sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control. That is the engineering behind Last-Mile & Urban Logistics."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. fleet and parcel blind is measured with your finance and risk leads in the room, then one working path — Parcel telemetry — goes live inside the quarter. In Last-Mile & Urban Logistics programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. fleet and parcel blind is measured with your finance and risk leads in the room, then one working path, Parcel telemetry, goes live inside the quarter. In Last-Mile & Urban Logistics programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Last-Mile & Urban Logistics: Urban access/LEZ rules — zone compliance duties; Driver-hours law — scheduling compliance. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the IoT, Twin & Robotics frame in Last-Mile & Urban Logistics: Urban access/LEZ rules, zone compliance duties; Driver-hours law, scheduling compliance. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

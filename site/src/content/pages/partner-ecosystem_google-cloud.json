@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with Google Cloud covers Analytics, AI and multi-cloud data platforms on Google Cloud — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with Google Cloud covers Analytics, AI and multi-cloud data platforms on Google Cloud, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "BigQuery lakehouse estates with contract-governed pipelines",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Vertex AI model estates with evaluation and drift gates",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Looker semantic layers as governed decision surfaces",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Multi-cloud data portability and cost-governance patterns",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },

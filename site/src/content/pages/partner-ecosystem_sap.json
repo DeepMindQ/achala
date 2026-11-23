@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with SAP covers Enterprise-core modernization and RISE-era data programs — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with SAP covers Enterprise-core modernization and RISE-era data programs, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "S/4HANA migration decisioning and readiness programs",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "BTP extensions under clean-core discipline",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "SAP-to-lakehouse pipelines with finance-grade lineage",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Master-data governance for enterprise-core modernization",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },
@@ -66,7 +66,7 @@
   },
   {
    "t": "p",
-   "x": "Joint delivery on SAP Alliance is designed for handover from the first week — runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
+   "x": "Joint delivery on SAP Alliance is designed for handover from the first week, runbooks written as we go, decisions mapped to your owners, nothing that only we can operate."
   }
  ],
  "crumbs": [

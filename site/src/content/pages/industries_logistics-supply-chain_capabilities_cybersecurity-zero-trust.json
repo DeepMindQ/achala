@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "Programs in Logistics & Supply Chain converge on the same first move: freight-fraud defense — carrier identity verification and double-brokering detection analytics. Fraud losses down measurably is the measured outcome the gate checks."
+   "x": "Programs in Logistics & Supply Chain converge on the same first move: freight-fraud defense, carrier identity verification and double-brokering detection analytics. Fraud losses down measurably is the measured outcome the gate checks."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for freight fraud and cyber exposure is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — freight-fraud defense, bounded to one path, running on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For Logistics & Supply Chain, that discipline is not optional — it is the engagement model."
+   "x": "Delivery opens with measurement: the baseline for freight fraud and cyber exposure is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, freight-fraud defense, bounded to one path, running on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For Logistics & Supply Chain, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -101,26 +101,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Cyber & Zero-Trust for Logistics & Supply Chain — each page documents the build as delivered:"
+   "x": "Named services for Cyber & Zero-Trust for Logistics & Supply Chain, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "Never trust, always verify — zero-trust as an executable architecture, not a slide."
+     "Never trust, always verify, zero-trust as an executable architecture, not a slide."
     ],
     [
      "Threat Intelligence & Managed SOC",
-     "Detection that keeps pace — intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
+     "Detection that keeps pace, intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
     ],
     [
      "Identity & Access Modernization",
-     "Identity as the perimeter — workforce, customer and machine identities on one governed plane."
+     "Identity as the perimeter, workforce, customer and machine identities on one governed plane."
     ],
     [
      "Cloud Security & Posture Management",
-     "Secure at the control plane — posture, workload and data security engineered into the platform."
+     "Secure at the control plane, posture, workload and data security engineered into the platform."
     ]
    ]
   },

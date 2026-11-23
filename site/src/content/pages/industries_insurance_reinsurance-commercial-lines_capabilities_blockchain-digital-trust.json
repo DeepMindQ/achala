@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Setting the Blockchain & Digital Trust scene in Reinsurance & Commercial Lines: Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets — which is why settlement cycles and model confidence suffer."
+   "x": "Setting the Blockchain & Digital Trust scene in Reinsurance & Commercial Lines: Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets, which is why settlement cycles and model confidence suffer."
   },
   {
    "t": "p",
-   "x": "Point fixes for settlement evidence bilateral — a script here, a spreadsheet there — have usually been tried in Reinsurance & Commercial Lines. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for settlement evidence bilateral, a script here, a spreadsheet there, have usually been tried in Reinsurance & Commercial Lines. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Reinsurance & Commercial Lines, the pattern is settlement evidence network — shared settlement records between cedant/reinsurer/broker. Disputes collapse sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. Reinsurance & Commercial Lines is where this discipline pays."
+   "x": "In Reinsurance & Commercial Lines, the pattern is settlement evidence network, shared settlement records between cedant/reinsurer/broker. Disputes collapse sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. Reinsurance & Commercial Lines is where this discipline pays."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for settlement evidence bilateral is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Settlement evidence network, bounded to one path, running on your estate. In Reinsurance & Commercial Lines programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "Delivery opens with measurement: the baseline for settlement evidence bilateral is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Settlement evidence network, bounded to one path, running on your estate. In Reinsurance & Commercial Lines programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Reinsurance & Commercial Lines: Solvency II / RBC — capital and reserving discipline; Contract certainty rules — documentation timeliness. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Reinsurance & Commercial Lines: Solvency II / RBC, capital and reserving discipline; Contract certainty rules, documentation timeliness. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Blockchain & Digital Trust for Reinsurance & Commercial Lines in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Blockchain & Digital Trust for Reinsurance & Commercial Lines in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 525,

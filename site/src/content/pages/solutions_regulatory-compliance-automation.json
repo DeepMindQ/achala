@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "We implement the unified control register with continuous testing and automated evidence collection, mapped across SOC 2, ISO 27001, PCI DSS 4.0, DORA and privacy regimes — audits become sampling against a live control plane."
+   "x": "We implement the unified control register with continuous testing and automated evidence collection, mapped across SOC 2, ISO 27001, PCI DSS 4.0, DORA and privacy regimes, audits become sampling against a live control plane."
   },
   {
    "t": "p",
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Regulatory Compliance Automation composes Driisti Smart Vision Glasses, Tele Medicine Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Healthcare & Life Sciences, Technology & SaaS."
+   "x": "Regulatory Compliance Automation composes Driisti Smart Vision Glasses, Tele Medicine Platform, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Healthcare & Life Sciences, Technology & SaaS."
   },
   {
    "t": "h2",
@@ -284,13 +284,13 @@
    "title": "Cyber Resilience & Threat Command",
    "url": "/solutions/cyber-resilience-program/",
    "tag": "Risk",
-   "desc": "Assume breach, prove recovery — a resilience program measured in drills."
+   "desc": "Assume breach, prove recovery, a resilience program measured in drills."
   },
   {
    "title": "Enterprise Risk & Scenario Intelligence",
    "url": "/solutions/enterprise-risk-analytics/",
    "tag": "Risk",
-   "desc": "Risk that changes decisions — limits, reserves and stress on one governed spine."
+   "desc": "Risk that changes decisions, limits, reserves and stress on one delivery standard."
   },
   {
    "title": "Supply Chain Risk & Continuity",

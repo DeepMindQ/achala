@@ -1,0 +1,118 @@
+{
+ "id": "PLT-twinverse-uc",
+ "title": "Achala Twinverse — Industry Use Cases",
+ "url": "/platforms/twinverse/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Achala Twinverse > Industry Use Cases",
+ "seo_title": "Achala Twinverse — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "Industry use cases for Achala Twinverse — Digital Twin & IoT Intelligence Platform: industrial IoT, connected devices and twin-based operations.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Achala Twinverse runs, sector by sector: the physical operations each industry twins and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "The workflows that feel it"
+  },
+  {
+   "t": "table",
+   "caption": "Achala Twinverse — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Manufacturing",
+     "Line-status awareness and predictive maintenance",
+     "Twins synchronized to the asset, not to the demo"
+    ],
+    [
+     "Energy",
+     "Grid and plant simulation for what-if planning",
+     "Operator-facing actuation with governance"
+    ],
+    [
+     "Logistics",
+     "Fleet and warehouse flow twins",
+     "What-if before the physical move"
+    ],
+    [
+     "Healthcare",
+     "Facility flow and capacity twins",
+     "Privacy-safe sensing architecture"
+    ],
+    [
+     "Retail",
+     "Store operations and freshness twins",
+     "Perception models tuned for messy reality"
+    ],
+    [
+     "Cities & infrastructure",
+     "Asset lifecycle twins",
+     "Accuracy that survives noise suppression"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Deployment options"
+  },
+  {
+   "t": "p",
+   "x": "Each Achala Twinverse deployment starts with one decision class in production, not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "The ground truth of this sector"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Achala Twinverse as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not, fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one production line or asset class to a briefing. We will show the twin, the simulation loop and the actuation path it would run with."
+  }
+ ],
+ "words": 310,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Twinverse",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Twinverse",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/twinverse/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+   "url": "/platforms/twinverse/",
+   "desc": "Digital Twin & IoT Intelligence Platform"
+  },
+  {
+   "title": "Achala Twinverse — Architecture & Trust",
+   "url": "/platforms/twinverse/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Twinverse — Industry Use Cases",
+   "url": "/platforms/twinverse/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

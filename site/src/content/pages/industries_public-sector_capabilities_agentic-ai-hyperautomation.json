@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Public Sector & Government: the operating one and the regulatory one. Agentic AI & Hyperautomation is built to survive both: we automate the path end to end — mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them."
+   "x": "Two clocks run in Public Sector & Government: the operating one and the regulatory one. Agentic AI & Hyperautomation is built to survive both: we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Public Sector & Government: eligibility assembly agent — evidence gathered across registries for benefit/licensing decisions with officer approval. Backlog reduction at stable staff is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Public Sector & Government: eligibility assembly agent, evidence gathered across registries for benefit/licensing decisions with officer approval. Backlog reduction at stable staff is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The service delivery inconsistent across channels cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (eligibility assembly agent), and the gate review decides what scales — all inside one quarter in Public Sector & Government. In Public Sector & Government programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The service delivery inconsistent across channels cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (eligibility assembly agent), and the gate review decides what scales, all inside one quarter in Public Sector & Government. In Public Sector & Government programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -213,30 +213,30 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Named services for Agentic AI & Hyperautomation for Public Sector & Government — each page documents the build as delivered:"
+   "x": "Named services for Agentic AI & Hyperautomation for Public Sector & Government, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -324,19 +324,19 @@
    "title": "Agentic AI & Hyperautomation for National Government & Digital Services",
    "url": "/industries/public-sector/national-government/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Smart Cities & Infrastructure",
    "url": "/industries/public-sector/smart-cities-infrastructure/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Public Safety & Justice",
    "url": "/industries/public-sector/public-safety-justice/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

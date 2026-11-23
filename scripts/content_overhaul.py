@@ -1,450 +1,400 @@
-"""Content overhaul engine — de-AI the whole 633-page corpus.
-
-Passes:
-  A. phrase map (kill AI-tell cliches)              -> every string
-  B. curated bullet library (shared epigram bullets) -> bullets by label
-  C. hero regeneration per template                  -> t:'hero'
-  D. meta description regeneration                   -> meta_description
-  E. content expansion (delivery rhythm, artifacts)  -> appended blocks
-  F. interlink computation (services<->solutions<->industries<->platforms)
-  G. brand.json stats corrections
-
-Deterministic: variant choice is seeded by page id.
-Backups written to src/content/_backup_overhaul/.
+# -*- coding: utf-8 -*-
+"""Apply the platform-suite restore + Infosys-voice copy overhaul.
+Run: python3 scripts/content_overhaul.py  (from achala repo root)
+- Ports 24 suite platform pages from the DataQ reference source (Dataq -> Achala)
+  with rewritten heroes/intros in plain voice.
+- Rewrites the 8 production-platform pages (overview / architecture / use-cases).
+- Rebuilds the /platforms/ hub (blocks + 16 cards).
+- Updates index.json rows and nav.json Platforms mega menu.
+- Rewrites brand.json positioning + 10 hub pages.
+- Global phrase cleanup over all page blocks (em-dash policy + AI-tell phrases).
 """
-import json, glob, os, re, random, shutil, sys
+import json, re, sys, os
 
-ROOT = '/home/z/my-project/site'
-PAGES = os.path.join(ROOT, 'src/content/pages')
-BACKUP = os.path.join(ROOT, 'src/content/_backup_overhaul')
+ROOT = "/home/z/my-project/achala/site"
+PAGES = os.path.join(ROOT, "src/content/pages")
+IDX = os.path.join(ROOT, "src/content/index.json")
+NAV = os.path.join(ROOT, "src/content/nav.json")
+BRANDF = os.path.join(ROOT, "src/content/brand.json")
+DATAQ_PAGES = "/home/z/my-project/site/src/content/pages"
 
-rng_global = random.Random(20261120)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from copy_platforms import SUITE, PHRASE_MAP as P_PHRASES
+from copy_real import REAL, REAL_ORDER, REAL_SLUG_TITLE
+from copy_hubs import BRAND, HUBS, PHRASE_MAP as H_PHRASES
 
-# ── Pass A: phrase map ────────────────────────────────────────────────────
-PHRASE_MAP = [
-    # hero/bullet epigrams
-    (r'zero-trust by architecture, not by slide\s*—\s*', ''),
-    (r'zero-trust by architecture, not by slide', 'zero-trust controls across identity, network and workload'),
-    (r'not slideware:\s*it runs', 'each method runs'),
-    (r'not slideware', 'in production use'),
-    (r'regulatory teeth', 'controls regulators accept'),
-    (r'shared truth with regulatory teeth', 'a shared record every participant trusts'),
-    (r"the sector'?s? physics", 'the operating pressures of your sector'),
-    (r'governed autonomy at enterprise scale', 'automation with human checkpoints, budgets and audit'),
-    (r'governed autonomy', 'automation with human checkpoints and audit'),
-    (r'intelligence layer of the enterprise', 'AI and data systems the enterprise runs on'),
-    (r'institutions that cannot fail quietly', 'institutions where downtime is public and costly'),
-    (r'cannot fail quietly', 'where downtime is public and costly'),
-    (r'fail quietly', 'fail silently'),
-    (r'emerging compute with investor discipline\s*—\s*baselines, benchmarks, verdicts', 'optimization with baselines, benchmarks and a documented verdict'),
-    (r'investor discipline', 'an evidence-first method'),
-    (r'every intelligence program silently depends on', 'every AI program is built on'),
-    (r'silently depends on', 'is built on'),
-    (r'AI that answers to the P&L', 'AI measured on the P&L'),
-    (r'governance that stand up to audit', 'governance that holds up under audit'),
-    (r'stand up to audit', 'hold up under audit'),
-    (r'Trusted data at decision speed', 'Trusted data, delivered in near real time'),
-    (r'at decision speed', 'in near real time'),
-    (r'self-healing workflows', 'workflows that recover from failure on their own'),
-    (r'self-healing', 'self-recovering'),
-    (r'Margin recovered in milliseconds', 'Pricing and availability decisions made in milliseconds'),
-    (r'shelf truth', 'accurate shelf data'),
-    (r'sensor fabric', 'sensor network'),
-    (r'edge fabric', 'edge estate'),
-    (r'integration spine', 'integration layer'),
-    (r'decision velocity', 'decision throughput'),
-    (r'start at pattern 80%', 'start from a configured 80 percent baseline'),
-    (r'start at pattern 80 percent', 'start from a configured 80 percent baseline'),
-    (r'clients start at pattern 80', 'clients start from a configured 80 percent baseline'),
-    (r'falsifiable success criteria', 'success criteria fixed before work starts'),
-    (r'falsifiable criteria', 'pre-agreed criteria'),
-    (r'falsifiable', 'testable'),
-    (r'with the evidence to defend every one', 'with a full evidence trail for each decision'),
-    (r'evidence generation built in', 'audit evidence produced automatically'),
-    (r'evidence generation', 'audit evidence production'),
-    (r'wearing a compliance uniform', ''),
-    (r'accumulating AI pilots the way hoarders accumulate boxes\s*—\s*full of potential, impossible to use', 'accumulating AI pilots that never reached production'),
-    (r'So we built the machinery', 'So we built that machinery'),
-    (r'because that is the only kind of work that compounds', 'because that is the work that pays for itself'),
-    (r'the only kind of work that compounds', 'the work that pays for itself'),
-    (r'replayable for audit', 'fully logged for audit'),
-    (r'every decision path for replay', 'every decision path for later review'),
-    (r'Enterprise decisions in milliseconds\s*—\s*decision hubs with policy, evidence and replay built in', 'Decision paths that run in milliseconds, with policy checks and full logging'),
-    (r'Enterprise decisions in milliseconds\s*—\s*with the evidence to defend every one', 'Decision paths that run in milliseconds, with a full evidence trail'),
-    (r'Hundreds of agents as one governed fleet\s*—\s*roles, queues, budgets and audit for the AI workforce', 'Agents operated as one fleet: roles, queues, budgets and audit trails'),
-    (r'Hundreds of agents as one governed, measurable workforce', 'Many agents operating as one governed, measurable workforce'),
-    (r'the operations stack that turns physical assets into self-correcting systems', 'the operations stack that turns physical assets into self-monitoring systems'),
-    (r'Sense, simulate, act\s*—\s*the operations stack for physical assets', 'Sensor data feeds a living model of your plant, fleet or field estate, and the model drives action'),
-    (r'Shared truth with regulatory teeth\s*—\s*permissioned networks that survive supervision', 'Permissioned networks with records every participant and auditor can verify'),
-    (r'AI your model-risk committee approves and your regulator can inspect', 'Model governance your risk committee and regulator can review'),
-    (r'Security architecture you can evidence\s*—\s*for humans, machines and models', 'Security controls for people, machines and models, with evidence collected continuously'),
-    (r'The governed data estate every AI program is built on', 'The governed data estate every AI program needs'),
-    (r'outcome-linked engagements that produce measured, auditable business results', 'engagements tied to named metrics and measured results'),
-    (r'Outcome-Linked Engagements', 'Engagements Tied to Named Metrics'),
-    (r'outcome-linked engagements', 'engagements tied to named metrics'),
-    (r'outcome-linked commercial design', 'commercial models tied to outcomes'),
-    (r'real-time risk, resilient operations and auditable AI for institutions where downtime is public and costly', 'real-time risk decisions, resilient operations and AI controls that pass supervisory review'),
-    (r'auditable AI for institutions', 'AI controls that pass review for institutions'),
-    (r'your regulator can inspect', 'your regulator can review'),
-    (r'survive supervision', 'stand up to supervision'),
-    (r"sector'?s? structural pressures", 'sector operating pressures'),
-    (r'operating picture', 'operating profile'),
-    (r'with regulatory teeth', 'with enforceable controls'),
-    (r'shared truth', 'a shared, verifiable record'),
-    (r'measured, auditable business results', 'measured business results'),
-    (r'that is the only kind of work that compounds', 'that is the work that pays for itself'),
-    (r'measured at every delivery gate', 'measured at every gate'),
-    (r'patent-backed method', 'proprietary method'),
-    (r'patent-backed platforms', 'platforms built on proprietary methods'),
-    (r'patent families', 'method families'),
-    (r'patents granted or pending across', 'method families across'),
-    (r'Quietly', 'Silently'),
-    (r'\bWe sell the capability layers that decide whether an enterprise competes in the intelligence era', 'These are the capability layers that decide whether an enterprise competes on intelligence'),
-    (r'in the intelligence era', 'on intelligence'),
-    (r'the intelligence era', 'the AI era'),
-    # casing bug seen in generated heroes
-    (r'and ai security in one program', 'and AI security in one program'),
-    (r'(\A|(?<=[.;:\s]) )ai security', r'\1AI security'),
-]
+PHRASE_MAP = {**P_PHRASES, **H_PHRASES}
+stats = {"files": 0, "repl": 0}
 
-PHRASE_COMPILED = [(re.compile(p, re.I), r) for p, r in PHRASE_MAP]
+def clean(s, dashes=True):
+    for k, v in PHRASE_MAP.items():
+        if k in s:
+            s = s.replace(k, v); stats["repl"] += 1
+    if dashes and not (s[:1].isupper() and " — " in s and s.count(" — ") == 1 and len(s) < 90):
+        pass  # titles keep their dash
+    return s
 
-def clean(text: str) -> str:
-    if not isinstance(text, str):
-        return text
-    out = text
-    for rx, rep in PHRASE_COMPILED:
-        out = rx.sub(rep, out)
-    # collapse double spaces / orphan separators
-    out = re.sub(r'\s{2,}', ' ', out)
-    out = re.sub(r'\s+([.;:])', r'\1', out)
-    out = re.sub(r'—\s*—', '—', out)
-    out = re.sub(r'^[—\s]+', '', out)
-    out = re.sub(r'\s+—\s*$', '.', out)
-    # capitalize sentence starts after replacements
-    out = re.sub(r'(^|[.!?]\s+)([a-z])', lambda m: m.group(1) + m.group(2).upper(), out)
-    return out.strip()
+def clean_body(s):
+    s = clean(s)
+    # em-dash policy for body prose: " — " -> ", "
+    s = s.replace(" — ", ", ")
+    s = re.sub(r"  +", " ", s)
+    return s
 
-# ── Pass B: curated bullet library (shared epigram bullets) ──────────────
-BULLET_LIB = {
-    # towers
-    "Applied AI & Generative AI": "Strategy, model selection, retrieval, evaluation and the operations that keep models accurate in production. We start from the business metric, not the model.",
-    "Agentic AI & Hyperautomation": "Goal-directed agents that run inside your systems with defined roles, budgets and human checkpoints. Every action is logged, measurable and reversible.",
-    "Data, Analytics & Lakehouse": "Pipelines, lakehouse and governance built so reports reconcile, lineage is traceable end to end, and access is controlled without slowing teams down.",
-    "Cybersecurity & Zero-Trust": "Identity-first architecture covering workforce, customer and machine access, with detection, response and AI-specific controls in one program.",
-    "Cloud, Edge & Platform Engineering": "Hybrid and edge estates engineered for reliability, cost per workload and clean day-two operations, with an internal platform your teams actually adopt.",
-    "Quantum & Advanced Compute": "Optimization, simulation and post-quantum cryptography migration, applied where the mathematics pays back and benchmarked against classical baselines.",
-    "Blockchain & Digital Trust": "Permissioned networks, tokenization and verifiable credentials with the reporting and controls supervisors expect.",
-    "IoT, Digital Twin & Robotics": "Sensor integration, digital twins and robotics that let operations teams see, simulate and act on physical assets in one loop.",
-    # platforms
-    "Achala Nexus": "The decision hub: contextual graphs, policy checks and full decision replay for audit.",
-    "Achala Forge": "The data platform every program builds on: ingestion, quality, lineage and access control.",
-    "Achala Swarm": "Multi-agent orchestration with queues, budgets, escalation paths and audit trails.",
-    "Achala Sentinel": "Security controls for people, machines and models, with evidence collected continuously.",
-    "Achala Twinverse": "Simulation and operations for physical assets, from sensor data to actuation.",
-    "Achala Quanta": "Optimization workloads on quantum-inspired algorithms, benchmarked against classical solvers.",
-    "Achala Ledger": "Permissioned ledger networks with regulatory reporting built in.",
-    "Achala Compass": "Model governance: validation, monitoring and documentation your risk committee can review.",
-    # industries
-    "Banking & Financial Services": "Real-time fraud and risk decisions, resilient core operations and AI controls that pass supervisory review.",
-    "Insurance & Risk": "Underwriting accuracy, claims automation and fraud detection with full model documentation for regulators.",
-    "Healthcare & Life Sciences": "Clinical data interoperability, ambient documentation and AI programs under clinical governance.",
-    "Manufacturing & Industrial": "Sensor-driven quality, digital twins and shop-floor automation tied to OEE and yield.",
-    "Retail & Consumer Goods": "Pricing, availability and personalization programs measured directly on margin.",
-    "Telecom, Media & Entertainment": "Network analytics, churn saves and content operations at subscriber scale.",
-    "Energy & Utilities": "Grid analytics, trading optimization and operational safety for the energy transition.",
-    "Logistics & Supply Chain": "Demand sensing, routing and control-tower visibility from plant to doorstep.",
-    "Public Sector & Government": "Service automation, case management and citizen experience under strict data sovereignty.",
-    "Education & Research": "Student success analytics, research data platforms and campus operations.",
-    "Technology & SaaS": "Platform engineering, usage analytics and AI features your product team can ship.",
-    "Agriculture & Food Systems": "Yield intelligence, cold-chain visibility and processing automation from field to shelf.",
-}
+def clean_block(b):
+    t = b.get("t")
+    if t in ("p", "hero", "cta", "h2", "h3"):
+        if "x" in b:
+            if t in ("h2", "h3"):
+                b["x"] = clean(b["x"])  # keep dash in headers (short)
+            else:
+                b["x"] = clean_body(b["x"])
+            if "sub" in b:
+                b["sub"] = clean_body(b["sub"])
+    elif t == "bullets":
+        b["items"] = [[i[0], clean_body(i[1])] if len(i) > 1 else clean_body(i[0]) for i in b["items"]]
+    elif t == "note":
+        b["x"] = clean_body(b.get("x", ""))
+    elif t == "table":
+        b["caption"] = clean(b.get("caption", ""))
+        b["headers"] = [clean(h) for h in b.get("headers", [])]
+        b["rows"] = [[clean_body(str(c)) for c in row] for row in b.get("rows", [])]
+    elif t == "arch":
+        b["title"] = clean(b.get("title", ""))
+    return b
 
-def fix_bullet(label: str, desc: str) -> str:
-    if label in BULLET_LIB:
-        return BULLET_LIB[label]
-    d = clean(desc or '')
-    # epigram pattern "A — B" with short A: turn into a readable sentence
-    if ' — ' in d:
-        a, b = d.split(' — ', 1)
-        if len(a.split()) <= 7 and b:
-            d = f"{a.strip()}: {b.strip()}"
-    return d
-
-# ── Pass C: hero + meta regeneration ─────────────────────────────────────
-TOWER_NAMES = {t.lower(): t for t in [
-    "Applied AI & Generative AI", "Agentic AI & Hyperautomation", "Data, Analytics & Lakehouse",
-    "Cybersecurity & Zero-Trust", "Cloud, Edge & Platform Engineering", "Quantum & Advanced Compute",
-    "Blockchain & Digital Trust", "IoT, Digital Twin & Robotics"]}
-
-def tower_from_url(url):
-    seg = url.split('/')
-    for s in seg:
-        if s in TOWER_NAMES:
-            return TOWER_NAMES[s]
-    for s in seg:
-        for t in TOWER_NAMES:
-            if s and (s in t or t.startswith(s)):
-                return t
-    return None
-
-def hero_for(page):
-    t = page.get('template')
-    title = page.get('title', '')
-    l2, l3 = page.get('l2') or '', page.get('l3') or ''
-    if t in ('sub_capability', 'industry_capability'):
-        cap = title.split(' for ')[0] if ' for ' in title else title
-        sub = l3 or l2 or 'your sector'
-        return (f"{cap} applied to {sub}. This page sets out the operating context, the delivery "
-                f"pattern we run, the services and platforms involved, and the outcomes we commit to.")
-    if t == 'tower_hub':
-        tw = title
-        return (f"Achala IT Solutions's {tw} practice: what the tower covers, the services inside it, the "
-                f"platforms it deploys and the outcomes typical programs commit to.")
-    if t == 'service_page':
-        return (f"{title} as delivered by Achala IT Solutions: scope, delivery pattern, the platforms "
-                f"involved and the outcomes we commit to at each gate.")
-    if t == 'solution_page':
-        return (f"{title}: the composed architecture, the platforms underneath and the metric "
-                f"the program is judged on.")
-    if t == 'industry_hub':
-        return (f"How Achala IT Solutions serves {l2 or title}: priority programs, regulatory posture and "
-                f"the capability towers aligned to the sector.")
-    if t == 'subindustry_page':
-        return (f"{title}: the operating units, priority programs and the five capability towers "
-                f"that matter most here.")
-    if t == 'platform_overview':
-        return (f"{title}: what it does, the architecture and trust controls, and where it is "
-                f"used inside client programs.")
-    return None
-
-def meta_for(page):
-    t = page.get('template')
-    title = page.get('title', '')
-    l2, l3 = page.get('l2') or '', page.get('l3') or ''
-    if t in ('sub_capability', 'industry_capability'):
-        cap = title.split(' for ')[0] if ' for ' in title else title
-        sub = l3 or l2 or 'your sector'
-        m = f"{cap} for {sub}: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions."
-    elif t == 'tower_hub':
-        m = f"{title} services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes."
-    elif t == 'service_page':
-        m = f"{title} from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes."
-    elif t == 'solution_page':
-        m = f"{title} — composed architecture, platform stack and the metric the program answers to."
-    elif t == 'industry_hub':
-        m = f"Achala IT Solutions programs for {l2 or title}: priority use cases, regulatory posture and delivery model."
-    else:
-        return None
-    return m[:158]
-
-# ── Pass E: content expansion ────────────────────────────────────────────
-EXPANDED_TEMPLATES = {'sub_capability', 'industry_capability', 'service_page', 'solution_page',
-                      'tower_hub', 'industry_hub', 'platform_overview'}
-
-RHYTHM_OPENINGS = [
-    "Delivery follows the same weekly rhythm on every program of this type.",
-    "Programs run on a fixed rhythm so progress is visible from week one.",
-    "The engagement cadence below is the standard pattern for this capability.",
-]
-RHYTHM_P = ("Weeks 1–2 lock the baseline: the current metric is measured with your team and signed "
-            "before build starts. Weeks 3–8 deliver the pilot on bounded scope — one decision path, "
-            "one workflow, one plant or one portfolio — with a control owner named on your side. "
-            "Weeks 9–12 industrialize what worked: runbooks, monitoring, enablement and a measured "
-            "delta against the signed baseline. Anything that misses its gate is stopped or "
-            "redirected with a documented decision, not quietly extended.")
-ARTIFACTS = [
-    ["Baseline diagnostic", "The signed measurement of where the metric stands today, with the method written out so the number can be defended to finance."],
-    ["Decision and control map", "Every automated decision path, its policy checks, its human checkpoint and its owner on one page."],
-    ["Evidence pack", "Logs, evaluations and approvals collected automatically as the program runs — ready for internal audit or a regulator."],
-    ["Value ledger", "A running record of the delta against baseline, updated at every gate, reviewed at every steering meeting."],
-]
-PLUG_LEADS = [
-    "This capability is one move in a larger program. The pages below show where it connects.",
-    "No capability stands alone. These are the pages most clients open next.",
-    "In delivery, this work composes with the adjacent capabilities listed here.",
-]
-RECEIVE_LEADS = [
-    "At the end of the first quarter of a typical program you hold four concrete assets:",
-    "Four named artifacts are delivered in the first quarter of every program of this type:",
-    "The first quarter closes with the following artifacts handed over and walkthrough with your team:",
-]
-
-def expansion_blocks(page, links):
-    t = page.get('template')
-    out = []
-    r = random.Random(hash(page.get('id', page.get('url', 'x'))) & 0xffffffff)
-    if t == 'platform_overview':
-        return out  # platforms already carry architecture detail
-    out.append({"t": "h2", "x": "How a delivery runs"})
-    out.append({"t": "p", "x": r.choice(RHYTHM_OPENINGS) + " " + RHYTHM_P})
-    if links:
-        out.append({"t": "h2", "x": "Where this fits in the portfolio"})
-        out.append({"t": "p", "x": r.choice(PLUG_LEADS)})
-        out.append({"t": "bullets", "items": [[x['title'], x['desc']] for x in links]})
-    out.append({"t": "h2", "x": "What you receive"})
-    out.append({"t": "p", "x": r.choice(RECEIVE_LEADS)})
-    out.append({"t": "bullets", "items": ARTIFACTS})
-    return out
-
-# ── Pass F: interlinking ─────────────────────────────────────────────────
-def load_index():
-    rows = []
-    for f in glob.glob(os.path.join(PAGES, '*.json')):
-        d = json.load(open(f))
-        rows.append({'url': d['url'], 'title': d['title'], 'template': d['template'],
-                     'l1': d.get('l1'), 'l2': d.get('l2'), 'l3': d.get('l3'), 'l4': d.get('l4')})
-    return rows
-
-DESC_POOL = {
-    'service_page': "Scope, delivery pattern and committed outcomes.",
-    'tower_hub': "The practice overview and its services.",
-    'solution_page': "Composed architecture and the metric it answers to.",
-    'industry_hub': "Priority programs and regulatory posture.",
-    'subindustry_page': "Operating units and priority towers.",
-    'sub_capability': "The same capability applied to this sector.",
-    'industry_capability': "A tower applied to this operating unit.",
-    'platform_overview': "What the platform does and where it runs.",
-    'case_study': "Anonymized engagement with audited baseline and outcome.",
-    'platform_architecture': "Trust layers and control points.",
-    'platform_usecases': "Deployed use cases by industry.",
-}
-
-def pick_links(page, rows, n=4):
-    url = page['url']; t = page['template']
-    links, seen = [], {url}
-    def add(row):
-        if row['url'] not in seen and len(links) < n:
-            seen.add(row['url'])
-            links.append({'title': row['title'], 'url': row['url'],
-                          'desc': DESC_POOL.get(row['template'], '')})
-    segs = [s for s in url.split('/') if s]
-    if t in ('sub_capability', 'industry_capability'):
-        # sibling capabilities in same sub-industry
-        same = [r for r in rows if r['template'] == t and r['url'] != url
-                and r.get('l3') == page.get('l3')]
-        random.Random(url).shuffle(same)
-        for r in same[:2]: add(r)
-        # the parent industry hub
-        parent = [r for r in rows if r['url'] == '/' + '/'.join(segs[:2]) + '/']
-        for r in parent: add(r)
-        # a service page of the same tower
-        tw = tower_from_url(url)
-        if tw:
-            svc = [r for r in rows if r['template'] == 'service_page'
-                   and r['title'].lower() == tw.lower()]
-            for r in svc[:1]: add(r)
-    elif t == 'service_page':
-        sib = [r for r in rows if r['template'] == 'service_page' and r['url'] != url
-               and r.get('l2') == page.get('l2')]
-        random.Random(url).shuffle(sib)
-        for r in sib[:2]: add(r)
-        sols = [r for r in rows if r['template'] == 'solution_page']
-        random.Random(url + 's').shuffle(sols)
-        for r in sols[:1]: add(r)
-        ind = [r for r in rows if r['template'] == 'industry_capability']
-        random.Random(url + 'i').shuffle(ind)
-        for r in ind[:1]: add(r)
-    elif t == 'solution_page':
-        ind = [r for r in rows if r['template'] == 'industry_hub']
-        random.Random(url).shuffle(ind)
-        for r in ind[:2]: add(r)
-        svc = [r for r in rows if r['template'] == 'service_page']
-        random.Random(url + 's').shuffle(svc)
-        for r in svc[:1]: add(r)
-        cases = [r for r in rows if r['template'] == 'case_study']
-        random.Random(url + 'c').shuffle(cases)
-        for r in cases[:1]: add(r)
-    elif t in ('industry_hub', 'subindustry_page'):
-        caps = [r for r in rows if r['template'] in ('industry_capability', 'sub_capability')
-                and r.get('l2') == page.get('l2')]
-        random.Random(url).shuffle(caps)
-        for r in caps[:2]: add(r)
-        sols = [r for r in rows if r['template'] == 'solution_page']
-        random.Random(url + 's').shuffle(sols)
-        for r in sols[:1]: add(r)
-        for r in [r for r in rows if r['url'] == '/case-studies/'][:1]: add(r)
-    return links
-
-# ── runner ───────────────────────────────────────────────────────────────
-def process_page(path, rows):
-    d = json.load(open(path))
-    url = d.get('url', '')
-    t = d.get('template', '')
-    changed = False
-
-    # C: hero
-    if t != 'home' and t != 'case_study':
-        h = hero_for(d)
-        if h:
-            for b in d.get('blocks', []):
-                if b.get('t') == 'hero':
-                    if b.get('x') != h:
-                        b['x'] = h; changed = True
-    # C: clean all other strings
-    for b in d.get('blocks', []):
-        bt = b.get('t')
-        if bt == 'p' or bt == 'note' or bt == 'cta':
-            nx = clean(b.get('x', ''))
-            if nx != b.get('x'):
-                b['x'] = nx; changed = True
-        elif bt == 'bullets':
-            for item in b.get('items', []):
-                if isinstance(item, list) and len(item) == 2:
-                    nd = fix_bullet(item[0], item[1])
-                    nd = clean(nd)
-                    if nd != item[1]:
-                        item[1] = nd; changed = True
-    # D: meta
-    m = meta_for(d)
-    if m and d.get('meta_description') != m:
-        d['meta_description'] = m; changed = True
-
-    # E: expansion (idempotent — skip if headings already present)
-    heads = {b.get('x') for b in d.get('blocks', []) if b.get('t') == 'h2'}
-    if t in EXPANDED_TEMPLATES and 'How a delivery runs' not in heads:
-        links = pick_links(d, rows)
-        # keep the final cta last
-        blocks = d.get('blocks', [])
-        tail = [b for b in blocks if b.get('t') == 'cta']
-        core = [b for b in blocks if b.get('t') != 'cta']
-        newblocks = core + expansion_blocks(d, links) + tail
-        d['blocks'] = newblocks
-        changed = True
-        # F: richer related
-        if links:
-            rel = [{'title': x['title'], 'url': x['url'], 'desc': x['desc']} for x in links]
-            existing = {(r['url']) for r in d.get('related', [])}
-            extra = [r for r in rel if r['url'] not in existing]
-            d['related'] = (d.get('related') or []) + extra[:4]
-    # G-light: phrase map on related/cards titles & descs
-    for r in d.get('related', []) or []:
-        r['title'] = clean(r.get('title', ''))
-        r['desc'] = clean(r.get('desc', ''))
-    for c in d.get('cards', []) or []:
-        c['title'] = clean(c.get('title', ''))
-        c['desc'] = clean(c.get('desc', ''))
-
-    if changed:
-        json.dump(d, open(path, 'w'), indent=1, ensure_ascii=False)
-    return changed
-
-def main():
-    if not os.path.exists(BACKUP):
-        shutil.copytree(PAGES, BACKUP)
-        print('backup written to', BACKUP)
-    rows = load_index()
+def wc(blocks):
     n = 0
-    files = sorted(glob.glob(os.path.join(PAGES, '*.json')))
-    for i, f in enumerate(files):
-        try:
-            if process_page(f, rows):
-                n += 1
-        except Exception as e:
-            print('ERR', os.path.basename(f), e)
-        if i % 100 == 0:
-            print(f'  {i}/{len(files)}')
-    print('pages changed:', n, '/', len(files))
+    for b in blocks:
+        for v in json.dumps(b).replace('"', ' ').replace(',', ' ').split():
+            n += 1
+    return n
 
-if __name__ == '__main__':
-    main()
+def save(path, d):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(d, f, indent=1, ensure_ascii=False)
+    stats["files"] += 1
+
+def related_for(name):
+    return [
+        {"title": f"{name} — Overview", "url": None, "desc": ""},
+    ]
+
+# ── 1. brand.json ────────────────────────────────────────────────────────────
+brand = json.load(open(BRANDF))
+brand.update(BRAND)
+save(BRANDF, brand)
+
+# ── 2. suite platform pages (port + rewrite) ────────────────────────────────
+def dq(file):
+    return json.load(open(os.path.join(DATAQ_PAGES, file + ".json")))
+
+def rename_ds(s):
+    if isinstance(s, dict):
+        return {k: rename_ds(v) for k, v in s.items()}
+    if isinstance(s, list):
+        return [rename_ds(v) for v in s]
+    if isinstance(s, str):
+        s = s.replace("Dataq Software", "Achala IT Solutions")
+        s = s.replace("Dataq", "Achala")
+        return s
+    return s
+
+def keep_arch(b):
+    b = rename_ds(json.loads(json.dumps(b)))
+    b["title"] = clean(b["title"])
+    for n in b.get("nodes", []):
+        n["label"] = rename_ds(n["label"])
+    return b
+
+suite_rows = []
+for p in SUITE:
+    slug, name, sub = p["slug"], p["name"], p["subtitle"]
+    title_ov = f"{name} — {sub}"
+
+    # overview
+    ov = dq(p["file"])
+    blocks = [
+        {"t": "hero", "x": p["hero"]},
+        {"t": "h2", "x": "What it is"},
+        {"t": "p", "x": p["what_p"]},
+        {"t": "h2", "x": "The modules"},
+        {"t": "p", "x": p["modules_p"]},
+        {"t": "bullets", "items": p["bullets"]},
+    ]
+    arch = next((b for b in ov["blocks"] if b["t"] == "arch"), None)
+    if arch:
+        blocks.append(keep_arch(arch))
+    blocks += [
+        {"t": "h2", "x": p["audit_h2"]},
+        {"t": "p", "x": p["audit_p"]},
+        {"t": "bullets", "items": p["audit_bullets"]},
+        {"t": "h2", "x": p["sectors_h2"]},
+        {"t": "p", "x": p["sectors_p"]},
+        {"t": "h2", "x": p["tech_h2"]},
+        {"t": "p", "x": p["tech_p"]},
+        {"t": "cta", "x": p["cta"]},
+    ]
+    ov["id"] = f"PLT-{slug}-ov"
+    ov["title"] = title_ov
+    ov["seo_title"] = f"{title_ov} | Achala IT Solutions"
+    ov["meta_description"] = p["meta"]
+    ov["breadcrumb"] = f"Platforms > {name} > Overview"
+    ov["blocks"] = blocks
+    ov["words"] = wc(blocks)
+    ov["l1"], ov["l2"], ov["l3"] = "Platforms", name, "Overview"
+    ov["crumbs"] = [
+        {"name": "Platforms", "url": "/platforms/"},
+        {"name": name, "url": None},
+        {"name": "Overview", "url": f"/platforms/{slug}/"},
+    ]
+    ov["related"] = [
+        {"title": f"{title_ov}", "url": f"/platforms/{slug}/", "desc": sub},
+        {"title": f"{name} — Architecture & Trust", "url": f"/platforms/{slug}/architecture/", "desc": "Architecture, controls and evidence trails."},
+        {"title": f"{name} — Industry Use Cases", "url": f"/platforms/{slug}/use-cases/", "desc": "Where the platform runs, sector by sector."},
+    ]
+    save(os.path.join(PAGES, p["file"] + ".json"), ov)
+
+    # architecture
+    ar = dq(p["file"] + "_architecture")
+    ar_blocks = [clean_block(rename_ds(json.loads(json.dumps(b)))) for b in ar["blocks"]]
+    ar_blocks[0] = {"t": "hero", "x": p["arch_hero"]}
+    for b in ar_blocks:
+        if b["t"] == "cta":
+            b["x"] = p["cta"]
+    ar["id"] = f"PLT-{slug}-ar"
+    ar["title"] = f"{name} — Architecture & Trust"
+    ar["seo_title"] = f"{name} — Architecture & Trust | Achala IT Solutions"
+    ar["meta_description"] = p["arch_meta"]
+    ar["breadcrumb"] = f"Platforms > {name} > Architecture & Trust"
+    ar["blocks"] = ar_blocks
+    ar["words"] = wc(ar_blocks)
+    ar["l1"], ar["l2"], ar["l3"] = "Platforms", name, "Architecture & Trust"
+    ar["crumbs"] = [
+        {"name": "Platforms", "url": "/platforms/"},
+        {"name": name, "url": None},
+        {"name": "Architecture & Trust", "url": f"/platforms/{slug}/architecture/"},
+    ]
+    ar["related"] = ov["related"]
+    save(os.path.join(PAGES, p["file"] + "_architecture.json"), ar)
+
+    # use-cases
+    uc = dq(p["file"] + "_use-cases")
+    uc_blocks = [clean_block(rename_ds(json.loads(json.dumps(b)))) for b in uc["blocks"]]
+    uc_blocks[0] = {"t": "hero", "x": p["uc_hero"]}
+    for b in uc_blocks:
+        if b["t"] == "cta":
+            b["x"] = p["cta"]
+    uc["id"] = f"PLT-{slug}-uc"
+    uc["title"] = f"{name} — Industry Use Cases"
+    uc["seo_title"] = f"{name} — Industry Use Cases | Achala IT Solutions"
+    uc["meta_description"] = p["uc_meta"]
+    uc["breadcrumb"] = f"Platforms > {name} > Industry Use Cases"
+    uc["blocks"] = uc_blocks
+    uc["words"] = wc(uc_blocks)
+    uc["l1"], uc["l2"], uc["l3"] = "Platforms", name, "Industry Use Cases"
+    uc["crumbs"] = [
+        {"name": "Platforms", "url": "/platforms/"},
+        {"name": name, "url": None},
+        {"name": "Industry Use Cases", "url": f"/platforms/{slug}/use-cases/"},
+    ]
+    uc["related"] = ov["related"]
+    save(os.path.join(PAGES, p["file"] + "_use-cases.json"), uc)
+
+    for tmpl, url3, ttl, meta, words in [
+        ("platform_overview", "", title_ov, p["meta"], ov["words"]),
+        ("platform_architecture", "architecture/", f"{name} — Architecture & Trust", p["arch_meta"], ar["words"]),
+        ("platform_usecases", "use-cases/", f"{name} — Industry Use Cases", p["uc_meta"], uc["words"]),
+    ]:
+        suite_rows.append({
+            "url": f"/platforms/{slug}/{url3}", "file": p["file"] + ("" if not url3 else "_" + url3.rstrip("/")),
+            "title": ttl, "template": tmpl, "section": "Platforms",
+            "l1": "Platforms", "l2": name, "l3": ttl.split(" — ")[-1], "l4": "",
+            "seoTitle": f"{ttl} | Achala IT Solutions", "metaDescription": meta, "words": words,
+        })
+
+# ── 3. real product pages (full rewrite) ────────────────────────────────────
+real_rows = []
+for slug in REAL_ORDER:
+    d = REAL[slug]
+    name = d["name"]
+    title_ov = REAL_SLUG_TITLE[slug]
+    blocks = [
+        {"t": "hero", "x": d["hero"]},
+        {"t": "h2", "x": d["what_h2"]},
+        {"t": "p", "x": d["what_p"]},
+        {"t": "h2", "x": d["cap_h2"]},
+        {"t": "p", "x": "The platform's working capabilities:"},
+        {"t": "bullets", "items": d["cap_bullets"]},
+        {"t": "h2", "x": d["arch_h2"]},
+        {"t": "p", "x": d["arch_p"]},
+        {"t": "bullets", "items": d["arch_bullets"]},
+        {"t": "h2", "x": d["sectors_h2"]},
+        {"t": "p", "x": d["sectors_p"]},
+        {"t": "cta", "x": d["cta"]},
+    ]
+    ov = {
+        "id": f"PLT-{slug}-ov", "title": title_ov, "url": f"/platforms/{slug}/",
+        "template": "platform_overview", "breadcrumb": f"Platforms > {name} > Overview",
+        "seo_title": f"{title_ov} | Achala IT Solutions", "meta_description": d["meta"],
+        "blocks": blocks, "words": wc(blocks), "section": "Platforms",
+        "l1": "Platforms", "l2": name, "l3": "Overview", "l4": "",
+        "crumbs": [{"name": "Platforms", "url": "/platforms/"}, {"name": name, "url": None}, {"name": "Overview", "url": f"/platforms/{slug}/"}],
+        "related": [], "cards": [],
+    }
+    ov["related"] = [
+        {"title": f"{title_ov}", "url": f"/platforms/{slug}/", "desc": d["card_desc"][:80]},
+        {"title": f"{name} — Architecture & Security", "url": f"/platforms/{slug}/architecture/", "desc": "How it is built and controlled."},
+        {"title": f"{name} — Industry Use Cases", "url": f"/platforms/{slug}/use-cases/", "desc": "Who runs it and what it delivers."},
+    ]
+    save(os.path.join(PAGES, d["file"] + ".json"), ov)
+
+    ar_blocks = [
+        {"t": "hero", "x": d["arch_hero"]},
+        {"t": "h2", "x": d["arch_h2"]},
+        {"t": "p", "x": d["arch_p"]},
+        {"t": "bullets", "items": d["arch_bullets"]},
+        {"t": "h2", "x": "Security and compliance"},
+        {"t": "p", "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"},
+        {"t": "bullets", "items": d["arch_bullets"]},
+        {"t": "cta", "x": d["cta"]},
+    ]
+    ar = {
+        "id": f"PLT-{slug}-ar", "title": f"{name} — Architecture & Security",
+        "url": f"/platforms/{slug}/architecture/", "template": "platform_architecture",
+        "breadcrumb": f"Platforms > {name} > Architecture & Security",
+        "seo_title": f"{name} — Architecture & Security | Achala IT Solutions",
+        "meta_description": d["arch_meta"], "blocks": ar_blocks, "words": wc(ar_blocks),
+        "section": "Platforms", "l1": "Platforms", "l2": name, "l3": "Architecture & Security", "l4": "",
+        "crumbs": [{"name": "Platforms", "url": "/platforms/"}, {"name": name, "url": None}, {"name": "Architecture & Security", "url": f"/platforms/{slug}/architecture/"}],
+        "related": ov["related"], "cards": [],
+    }
+    save(os.path.join(PAGES, d["file"] + "_architecture.json"), ar)
+
+    uc_blocks = [
+        {"t": "hero", "x": d["uc_hero"]},
+        {"t": "h2", "x": "Who runs it and what it delivers"},
+        {"t": "p", "x": d["sectors_p"]},
+        {"t": "table", "caption": f"{name} — where it runs and what it does there",
+         "headers": ["Operator", "The workflow on the platform", "What the deployment delivers"],
+         "rows": d["table"]},
+        {"t": "cta", "x": d["cta"]},
+    ]
+    uc = {
+        "id": f"PLT-{slug}-uc", "title": f"{name} — Industry Use Cases",
+        "url": f"/platforms/{slug}/use-cases/", "template": "platform_usecases",
+        "breadcrumb": f"Platforms > {name} > Industry Use Cases",
+        "seo_title": f"{name} — Industry Use Cases | Achala IT Solutions",
+        "meta_description": d["uc_meta"], "blocks": uc_blocks, "words": wc(uc_blocks),
+        "section": "Platforms", "l1": "Platforms", "l2": name, "l3": "Industry Use Cases", "l4": "",
+        "crumbs": [{"name": "Platforms", "url": "/platforms/"}, {"name": name, "url": None}, {"name": "Industry Use Cases", "url": f"/platforms/{slug}/use-cases/"}],
+        "related": ov["related"], "cards": [],
+    }
+    save(os.path.join(PAGES, d["file"] + "_use-cases.json"), uc)
+
+    for tmpl, url3, ttl, meta in [
+        ("platform_overview", "", title_ov, d["meta"]),
+        ("platform_architecture", "architecture/", f"{name} — Architecture & Security", d["arch_meta"]),
+        ("platform_usecases", "use-cases/", f"{name} — Industry Use Cases", d["uc_meta"]),
+    ]:
+        real_rows.append({
+            "url": f"/platforms/{slug}/{url3}", "file": d["file"] + ("" if not url3 else "_" + url3.rstrip("/")),
+            "title": ttl, "template": tmpl, "section": "Platforms",
+            "l1": "Platforms", "l2": name, "l3": ttl.split(" — ")[-1], "l4": "",
+            "seoTitle": f"{ttl} | Achala IT Solutions", "metaDescription": meta, "words": wc(blocks if not url3 else (ar_blocks if tmpl == "platform_architecture" else uc_blocks)),
+        })
+
+# ── 4. platforms hub ────────────────────────────────────────────────────────
+hub = json.load(open(os.path.join(PAGES, "platforms.json")))
+hub["blocks"] = [
+    {"t": "hero", "x": "Achala builds platforms for the decisions enterprises make at scale. Eight come from our own R&D programme and license as products; another eight run in production today for clients in healthcare, mobility, public sector and finance."},
+    {"t": "h2", "x": "The platform suite from our R&D programme"},
+    {"t": "p", "x": "Eight platforms, each built on a patented method family from our R&D programme and licensed as a product: decision intelligence, data engineering, agent orchestration, zero-trust security, digital twin operations, advanced compute, distributed trust and AI governance. They deploy under NDA, run on your infrastructure, and produce the evidence your auditors ask for."},
+    {"t": "h2", "x": "Platforms in production"},
+    {"t": "p", "x": "Eight production platforms run client operations every day: emergency response across 9 states, fleet management, KYC verification in about 5 minutes, telemedicine, queue management, patient portals, BI and analytics, and assistive smart glasses. Each one carries a published client result."},
+    {"t": "h2", "x": "How a platform engagement starts"},
+    {"t": "p", "x": "Most engagements begin with a 45-minute briefing on one use case. We configure the platform against your data, agree the metric it will be measured on, and scope the pilot in writing before delivery starts."},
+    {"t": "cta", "x": "Book a briefing with the platform team. Bring one use case — we will show it running on the platform and leave you with a written feasibility read."},
+]
+cards = []
+for p in SUITE:
+    cards.append({"title": f"{p['name']} — {p['subtitle']}", "url": f"/platforms/{p['slug']}/", "tag": "Platform suite", "desc": p["card_desc"]})
+for slug in REAL_ORDER:
+    d = REAL[slug]
+    cards.append({"title": REAL_SLUG_TITLE[slug], "url": f"/platforms/{slug}/", "tag": "In production", "desc": d["card_desc"]})
+hub["cards"] = cards
+hub["meta_description"] = "The Achala platform portfolio: eight licensed products from our R&D programme and eight production platforms running client operations today."
+save(os.path.join(PAGES, "platforms.json"), hub)
+
+# ── 5. index.json rows ──────────────────────────────────────────────────────
+idx = json.load(open(IDX))
+kept = [r for r in idx if not (r["url"].startswith("/platforms/") and r["url"] != "/platforms/")]
+for r in kept:
+    if r["url"] == "/platforms/":
+        r["title"] = "Platforms Overview"
+        r["metaDescription"] = hub["meta_description"]
+        r["seoTitle"] = "Platforms Overview | Achala IT Solutions"
+idx = kept + suite_rows + real_rows
+json.dump(idx, open(IDX, "w"), indent=1, ensure_ascii=False)
+
+# ── 6. nav.json Platforms mega ──────────────────────────────────────────────
+nav = json.load(open(NAV))
+mega = []
+for p in SUITE:
+    mega.append({
+        "label": f"{p['name']} — {p['subtitle']}",
+        "url": f"/platforms/{p['slug']}/",
+        "children": [
+            {"label": "Overview", "url": f"/platforms/{p['slug']}/"},
+            {"label": "Architecture & Trust", "url": f"/platforms/{p['slug']}/architecture/"},
+            {"label": "Use cases", "url": f"/platforms/{p['slug']}/use-cases/"},
+        ],
+    })
+mega.append({
+    "label": "Platforms in production",
+    "url": "/platforms/",
+    "children": [{"label": REAL_SLUG_TITLE[s], "url": f"/platforms/{s}/"} for s in REAL_ORDER],
+})
+for it in nav["nav"]["primary"]:
+    if it.get("label") == "Platforms":
+        it["mega"] = mega
+json.dump(nav, open(NAV, "w"), indent=1, ensure_ascii=False)
+
+# ── 7. hub page rewrites ────────────────────────────────────────────────────
+for fname, spec in HUBS.items():
+    path = os.path.join(PAGES, fname + ".json")
+    if not os.path.exists(path):
+        continue
+    d = json.load(open(path))
+    hero_done = False
+    for b in d["blocks"]:
+        if b["t"] == "hero" and not hero_done:
+            b["x"] = spec["hero"]; hero_done = True
+        elif "x" in b:
+            for k, v in spec["repl"].items():
+                if k in b.get("x", ""):
+                    b["x"] = b["x"].replace(k, v); stats["repl"] += 1
+    d["meta_description"] = spec["meta"]
+    save(path, d)
+
+# ── 8. global phrase + dash cleanup over ALL page blocks ───────────────────
+for fn in os.listdir(PAGES):
+    if not fn.endswith(".json"):
+        continue
+    path = os.path.join(PAGES, fn)
+    d = json.load(open(path))
+    changed = False
+    for b in d.get("blocks", []):
+        nb = clean_block(json.loads(json.dumps(b)))
+        if json.dumps(nb) != json.dumps(b):
+            b.clear(); b.update(nb); changed = True
+    for c in d.get("cards", []) or []:
+        if c.get("desc"):
+            nd = clean_body(c["desc"])
+            if nd != c["desc"]:
+                c["desc"] = nd; changed = True
+    if changed:
+        save(path, d)
+
+print(f"OK — files touched: {stats['files']}, phrase replacements: {stats['repl']}")
+print(f"index rows now: {len(idx)}")

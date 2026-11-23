@@ -327,7 +327,7 @@
    "title": "Data & Lakehouse for Defense & National Security",
    "url": "/industries/public-sector/defense-security/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Defense & National Security",
@@ -339,19 +339,19 @@
    "title": "Cloud, Edge & Platform for Defense & National Security",
    "url": "/industries/public-sector/defense-security/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Quantum & Advanced Compute for Defense & National Security",
    "url": "/industries/public-sector/defense-security/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "IoT, Twin & Robotics for Defense & National Security",
    "url": "/industries/public-sector/defense-security/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Energy & Utilities has one job: move a named number — OT estate exposed by convergence included — and prove it moved. The engineering that does it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Cyber & Zero-Trust in Energy & Utilities has one job: move a named number, OT estate exposed by convergence included, and prove it moved. The engineering that does it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "p",
@@ -21,11 +21,11 @@
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
-   "x": "The places value leaks — Energy & Utilities edition:"
+   "x": "The places value leaks, Energy & Utilities edition:"
   },
   {
    "t": "bullets",
@@ -38,11 +38,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "Programs in Energy & Utilities converge on the same first move: ot segmentation program — IEC 62443 zones-and-conduits with monitoring and access control. Flat ot networks eliminated with evidence is the measured outcome the gate checks."
+   "x": "Programs in Energy & Utilities converge on the same first move: ot segmentation program, IEC 62443 zones-and-conduits with monitoring and access control. Flat ot networks eliminated with evidence is the measured outcome the gate checks."
   },
   {
    "t": "arch",
@@ -169,7 +169,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. OT estate exposed by convergence gets a number, an owner and a signature; the quarter belongs to a bounded slice — ot segmentation program — live on your estate. In Energy & Utilities programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "The first two weeks belong to the baseline. OT estate exposed by convergence gets a number, an owner and a signature; the quarter belongs to a bounded slice, ot segmentation program, live on your estate. In Energy & Utilities programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -203,30 +203,30 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Named services for Cyber & Zero-Trust for Energy & Utilities — each page documents the build as delivered:"
+   "x": "Named services for Cyber & Zero-Trust for Energy & Utilities, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "Never trust, always verify — zero-trust as an executable architecture, not a slide."
+     "Never trust, always verify, zero-trust as an executable architecture, not a slide."
     ],
     [
      "Threat Intelligence & Managed SOC",
-     "Detection that keeps pace — intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
+     "Detection that keeps pace, intelligence-driven SOC with the boring parts (tuning, coverage) done properly."
     ],
     [
      "Identity & Access Modernization",
-     "Identity as the perimeter — workforce, customer and machine identities on one governed plane."
+     "Identity as the perimeter, workforce, customer and machine identities on one governed plane."
     ],
     [
      "Cloud Security & Posture Management",
-     "Secure at the control plane — posture, workload and data security engineered into the platform."
+     "Secure at the control plane, posture, workload and data security engineered into the platform."
     ]
    ]
   },
@@ -240,7 +240,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust in Energy & Utilities in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust in Energy & Utilities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 523,

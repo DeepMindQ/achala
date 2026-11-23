@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Process Industries & Chemicals meets two truths at once — volume keeps growing, and the old way stopped scaling. The structured response: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Cyber & Zero-Trust in Process Industries & Chemicals meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "p",
-   "x": "Through the Cyber & Zero-Trust lens, the operating reality: Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack — now with agentic planning on top."
+   "x": "Through the Cyber & Zero-Trust lens, the operating reality: Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack, now with agentic planning on top."
   },
   {
    "t": "p",
-   "x": "The fix for batch genealogy broken is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for batch genealogy broken is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Process Industries & Chemicals, the pattern is sIS-zone security — 62443 zones around safety systems with monitoring. Safety integrity protected sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Process Industries & Chemicals, the pattern is sIS-zone security, 62443 zones around safety systems with monitoring. Safety integrity protected sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. batch genealogy broken is measured with your finance and risk leads in the room, then one working path — SIS-zone security — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. batch genealogy broken is measured with your finance and risk leads in the room, then one working path, SIS-zone security, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cyber & Zero-Trust for Process Industries & Chemicals to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cyber & Zero-Trust for Process Industries & Chemicals to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 457,

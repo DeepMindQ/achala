@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute is run as evidence, not evangelism: honest readiness triage, hybrid optimization with verified baselines, HPC that does the heavy lifting today, PQC migration as engineering — and an advisory practice whose favorite recommendation is still 'not yet, and here is the memo that proves it'."
+   "x": "Quantum & Advanced Compute is run as evidence, not evangelism: honest readiness triage, hybrid optimization with verified baselines, HPC that does the heavy lifting today, PQC migration as engineering, and an advisory practice whose favorite recommendation is still 'not yet, and here is the memo that proves it'."
   },
   {
    "t": "p",
-   "x": "This domain is honest about quantum: today's value comes from the discipline it forces — rigorous problem formulation, classical baselines that are actually strong, and verification that keeps claims honest. Where quantum passes a verified benchmark, the advantage ledger records it; where it does not, the ledger says that too, and the work still improved the classical stack."
+   "x": "This domain is honest about quantum: today's value comes from the discipline it forces, rigorous problem formulation, classical baselines that are actually strong, and verification that keeps claims honest. Where quantum passes a verified benchmark, the advantage ledger records it; where it does not, the ledger says that too, and the work still improved the classical stack."
   },
   {
    "t": "p",
@@ -67,11 +67,11 @@
   },
   {
    "t": "p",
-   "x": "The domain's discipline is verifiability: every quantum claim is scored against a classical baseline you can audit, every advantage number carries its instance set, and every roadmap is vendor-neutral so the recommendation survives the next hardware generation. Hype is priced into the methodology — the practices are built to be boring precisely because the field is not."
+   "x": "The domain's discipline is verifiability: every quantum claim is scored against a classical baseline you can audit, every advantage number carries its instance set, and every roadmap is vendor-neutral so the recommendation survives the next hardware generation. Hype is priced into the methodology, the practices are built to be boring precisely because the field is not."
   },
   {
    "t": "p",
-   "x": "The security half is not speculative: post-quantum migration is an inventory and engineering problem with real deadlines, and the harvest-now-decrypt-later exposure is measurable today. That is where most enterprises should spend their quantum budget this year — and the triage practice exists to tell you so, with numbers."
+   "x": "The security half is not speculative: post-quantum migration is an inventory and engineering problem with real deadlines, and the harvest-now-decrypt-later exposure is measurable today. That is where most enterprises should spend their quantum budget this year, and the triage practice exists to tell you so, with numbers."
   },
   {
    "t": "h2",
@@ -80,7 +80,7 @@
   },
   {
    "t": "p",
-   "x": "The architecture is deliberately hybrid: classical HPC and solvers carry the production load, quantum access sits behind a benchmarking harness that scores every candidate against the classical baseline, and the crypto inventory runs its own migration pipeline — because the near-term value lives in the discipline, not the hardware."
+   "x": "The architecture is deliberately hybrid: classical HPC and solvers carry the production load, quantum access sits behind a benchmarking harness that scores every candidate against the classical baseline, and the crypto inventory runs its own migration pipeline, because the near-term value lives in the discipline, not the hardware."
   },
   {
    "t": "arch",
@@ -314,7 +314,7 @@
   },
   {
    "t": "p",
-   "x": "Baselines beaten, mean improvement, encoding efficiency and the kill ledger — tiles that read like engineering because the program is one."
+   "x": "Baselines beaten, mean improvement, encoding efficiency and the kill ledger, tiles that read like engineering because the program is one."
   },
   {
    "t": "idash",
@@ -594,11 +594,11 @@
   {
    "t": "h2",
    "x": "Where the compute frontier is on the sector clock",
-   "sub": "PQC deadlines, scheduling margin and simulation throughput — twelve industries, live briefs"
+   "sub": "PQC deadlines, scheduling margin and simulation throughput, twelve industries, live briefs"
   },
   {
    "t": "p",
-   "x": "Quantum readiness concentrates in regulated finance and defense-adjacent public sectors; optimization and HPC concentrate where scheduling and simulation carry margin. The bars count published sub-industry briefs — a taller bar means the sector's exposure clocks, optimization surfaces and benchmark baselines are already drawn."
+   "x": "Quantum readiness concentrates in regulated finance and defense-adjacent public sectors; optimization and HPC concentrate where scheduling and simulation carry margin. The bars count published sub-industry briefs, a taller bar means the sector's exposure clocks, optimization surfaces and benchmark baselines are already drawn."
   },
   {
    "t": "chart",
@@ -1077,7 +1077,7 @@
    "items": [
     [
      "Diagnostic — two weeks",
-     "Use cases triaged on verifiable criteria, crypto inventory scoped, classical baselines identified — the roadmap ships with kill criteria attached."
+     "Use cases triaged on verifiable criteria, crypto inventory scoped, classical baselines identified, the roadmap ships with kill criteria attached."
     ],
     [
      "Provability sprint — four weeks",
@@ -1096,7 +1096,7 @@
   {
    "t": "h2",
    "x": "Five gates between claim and roadmap",
-   "sub": "Formulation, baseline, benchmark, verification, inventory — the evidence each demands"
+   "sub": "Formulation, baseline, benchmark, verification, inventory, the evidence each demands"
   },
   {
    "t": "table",
@@ -1142,12 +1142,12 @@
   },
   {
    "t": "p",
-   "x": "Quantum programs earn credibility through falsifiability: a pinned benchmark suite (instances that never change), a classical baseline treated as the formal challenger, and an advantage ledger that records verified wins and nothing else. The domain's working stance is classical-first — HPC and solver estates carry today's workload, hybrid harnesses test where quantum hardware helps, and the capability ledger says plainly what works, on what instance classes, as of what date. Vendor claims are validated by reproduction before they enter any roadmap; the ones that reproduce become benchmarks, the ones that do not become memos with revisit dates.",
+   "x": "Quantum programs earn credibility through falsifiability: a pinned benchmark suite (instances that never change), a classical baseline treated as the formal challenger, and an advantage ledger that records verified wins and nothing else. The domain's working stance is classical-first, HPC and solver estates carry today's workload, hybrid harnesses test where quantum hardware helps, and the capability ledger says plainly what works, on what instance classes, as of what date. Vendor claims are validated by reproduction before they enter any roadmap; the ones that reproduce become benchmarks, the ones that do not become memos with revisit dates.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Post-quantum cryptography is the practice with a real clock: harvest-now-decrypt-later makes today's archives tomorrow's breach, so the crypto inventory starts now, migration waves are sequenced by exposure, and the deadline is regulatory and vendor-driven, not speculative. The six practices divide the work — readiness, optimization, simulation, HPC, PQC and horizon scanning — and the release gates bind them: no roadmap without verifiable criteria, no claim without a reproducible benchmark, no migration without inventory evidence.",
+   "x": "Post-quantum cryptography is the practice with a real clock: harvest-now-decrypt-later makes today's archives tomorrow's breach, so the crypto inventory starts now, migration waves are sequenced by exposure, and the deadline is regulatory and vendor-driven, not speculative. The six practices divide the work, readiness, optimization, simulation, HPC, PQC and horizon scanning, and the release gates bind them: no roadmap without verifiable criteria, no claim without a reproducible benchmark, no migration without inventory evidence.",
    "phase3_deep": true
   },
   {
@@ -1167,7 +1167,7 @@
     ],
     [
      "PQC clock respected",
-     "Inventory now, waves by exposure — the deadline is real."
+     "Inventory now, waves by exposure, the deadline is real."
     ]
    ],
    "phase3_deep": true
@@ -1177,11 +1177,11 @@
    "items": [
     [
      "Is quantum relevant to us this year?",
-     "Two answers, both evidence-based: post-quantum cryptography is relevant now if you hold long-lived secrets — the inventory and migration waves are engineering work with real deadlines. Quantum advantage is relevant when a problem class beats your classical baseline on auditable instances; the triage tells you which, with numbers."
+     "Two answers, both evidence-based: post-quantum cryptography is relevant now if you hold long-lived secrets, the inventory and migration waves are engineering work with real deadlines. Quantum advantage is relevant when a problem class beats your classical baseline on auditable instances; the triage tells you which, with numbers."
     ],
     [
      "What is harvest-now-decrypt-later, practically?",
-     "Adversaries recording your encrypted traffic today to decrypt when quantum hardware matures. Anything whose confidentiality must outlive the migration window is exposed — the crypto inventory scores that exposure endpoint by endpoint."
+     "Adversaries recording your encrypted traffic today to decrypt when quantum hardware matures. Anything whose confidentiality must outlive the migration window is exposed, the crypto inventory scores that exposure endpoint by endpoint."
     ],
     [
      "Can you prove an advantage claim before we fund it?",
@@ -1189,7 +1189,7 @@
     ],
     [
      "Which vendors do you represent?",
-     "None. Roadmaps are vendor-neutral so the recommendation survives the next hardware generation — hardware access is brokered through cloud QPU programs, and the benchmark suite never changes to flatter a vendor."
+     "None. Roadmaps are vendor-neutral so the recommendation survives the next hardware generation, hardware access is brokered through cloud QPU programs, and the benchmark suite never changes to flatter a vendor."
     ],
     [
      "What if the verdict is not yet?",
@@ -1199,7 +1199,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the vendor deck that promised 1000x. The triage sprint will score the claim against your classical baseline — and either find your first real advantage or save you the program's budget."
+   "x": "Bring the vendor deck that promised 1000x. The triage sprint will score the claim against your classical baseline, and either find your first real advantage or save you the program's budget."
   }
  ],
  "words": 858,
@@ -1245,37 +1245,37 @@
    "title": "Quantum Readiness & Strategy",
    "url": "/services/quantum-advanced-compute/quantum-readiness-strategy/",
    "tag": "Service",
-   "desc": "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+   "desc": "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
   },
   {
    "title": "Quantum Optimization for Enterprise Problems",
    "url": "/services/quantum-advanced-compute/quantum-optimization/",
    "tag": "Service",
-   "desc": "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+   "desc": "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
   },
   {
    "title": "Post-Quantum Cryptography Migration",
    "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
    "tag": "Service",
-   "desc": "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+   "desc": "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
   },
   {
    "title": "Quantum Machine Learning & Simulation",
    "url": "/services/quantum-advanced-compute/quantum-ml-simulation/",
    "tag": "Service",
-   "desc": "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+   "desc": "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
   },
   {
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Service",
-   "desc": "Simulation as a competitive instrument — clusters, solvers and pipelines engineered for throughput."
+   "desc": "Simulation as a competitive instrument, clusters, solvers and pipelines engineered for throughput."
   },
   {
    "title": "Neuromorphic & Emerging Compute Advisory",
    "url": "/services/quantum-advanced-compute/emerging-compute-advisory/",
    "tag": "Service",
-   "desc": "Beyond quantum — neuromorphic, photonic and edge-AI silicon, tracked with investor-grade discipline."
+   "desc": "Beyond quantum, neuromorphic, photonic and edge-AI silicon, tracked with investor-grade discipline."
   }
  ],
  "evidence": [

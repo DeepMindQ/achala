@@ -1,0 +1,230 @@
+{
+ "id": "PLT-quanta-ov",
+ "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+ "url": "/platforms/quanta/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Quanta > Overview",
+ "seo_title": "Achala Quanta — Quantum & Advanced Compute Suite | Achala IT Solutions",
+ "meta_description": "Achala Quanta, our Quantum & Advanced Compute Suite, benchmarks emerging compute against classical baselines before you commit budget.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Emerging compute, evaluated honestly. Achala Quanta benchmarks quantum and advanced-compute approaches against the best classical baseline, so you invest where the math actually pays back."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Quanta is our Quantum & Advanced Compute Suite. For optimization and simulation problems that outgrow classical tools, it runs candidate quantum and quantum-inspired methods side by side with tuned classical solvers, and reports which one wins on your data."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Problem bench",
+     "Formulate the problem once, run it on every candidate method"
+    ],
+    [
+     "Baseline parity",
+     "The classical baseline is tuned first, no straw-man comparisons"
+    ],
+    [
+     "Benchmark ledger",
+     "Every run's result, hardware and cost recorded"
+    ],
+    [
+     "Advisory reports",
+     "A plain-language read: invest, wait, or drop"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Quanta — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "Qiskit",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Readiness engine",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Solver tournament",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Solver-as-a-service",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "PQC program",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "NIST PQC alignment",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Method and governance"
+  },
+  {
+   "t": "p",
+   "x": "Emerging-tech programs fail through hype. The suite is built to prevent that:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Honest baselines",
+     "Results are only published against a tuned classical run"
+    ],
+    [
+     "Reproducibility",
+     "Every benchmark re-runnable from its ledger entry"
+    ],
+    [
+     "Cost transparency",
+     "Compute spend per run, per method"
+    ],
+    [
+     "Decision gates",
+     "Go/no-go criteria agreed before the first run"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Quanta serves logistics (routing and scheduling), finance (portfolio and risk), manufacturing (production optimization) and energy (grid balancing), wherever the optimization problem is the business."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Works against major quantum hardware and simulator backends, plus quantum-inspired solvers that run on classical infrastructure. Data flows in from your existing estate through the same contract discipline as the rest of the platform suite."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one optimization problem to a briefing. We will show the bench, the baseline and the benchmark plan it would run under."
+  }
+ ],
+ "words": 579,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Quanta",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Quanta",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/quanta/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+   "url": "/platforms/quanta/",
+   "desc": "Quantum & Advanced Compute Suite"
+  },
+  {
+   "title": "Achala Quanta — Architecture & Trust",
+   "url": "/platforms/quanta/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Quanta — Industry Use Cases",
+   "url": "/platforms/quanta/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Food Safety & Food Retail edition:"
+   "x": "The places value leaks, Food Safety & Food Retail edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Food Safety & Food Retail, the pattern is recall orchestration — lot-level scoping and notification workflows. Response minutes sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "In Food Safety & Food Retail, the pattern is recall orchestration, lot-level scoping and notification workflows. Response minutes sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. recall readiness low is measured with your finance and risk leads in the room, then one working path — Recall orchestration — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. recall readiness low is measured with your finance and risk leads in the room, then one working path, Recall orchestration, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Agentic AI & Hyperautomation for Food Safety & Food Retail in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Agentic AI & Hyperautomation for Food Safety & Food Retail in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 440,

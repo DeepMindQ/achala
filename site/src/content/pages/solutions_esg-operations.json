@@ -25,11 +25,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "We build the ESG data spine — metered energy/emissions with lineage to disclosures — plus the operational layer (energy optimization, carbon-aware scheduling, scope-3 transport analytics) that moves the numbers, not just reports them."
+   "x": "We build the ESG data spine, metered energy/emissions with lineage to disclosures, plus the operational layer (energy optimization, carbon-aware scheduling, scope-3 transport analytics) that moves the numbers, not just reports them."
   },
   {
    "t": "p",
@@ -162,11 +162,11 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "ESG Reporting & Sustainable Operations composes Fleet Management System, BI & Analytics Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Energy & Utilities, Manufacturing & Industrial, Retail & Consumer Goods, Public Sector & Government."
+   "x": "ESG Reporting & Sustainable Operations composes Fleet Management System, BI & Analytics Platform, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Energy & Utilities, Manufacturing & Industrial, Retail & Consumer Goods, Public Sector & Government."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "Method over magic in ESG Reporting & Sustainable Operations: the problem gets a CFO-unit statement and a signed baseline; the design gets a written risk envelope; the pilot gets falsifiable criteria; the rollout gets whatever the evidence supports. In ESG Reporting & Sustainable Operations programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Method over magic in ESG Reporting & Sustainable Operations: the problem gets a CFO-unit statement and a signed baseline; the design gets a written risk envelope; the pilot gets falsifiable criteria; the rollout gets whatever the evidence supports. In ESG Reporting & Sustainable Operations programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -284,19 +284,19 @@
    "title": "Cyber Resilience & Threat Command",
    "url": "/solutions/cyber-resilience-program/",
    "tag": "Risk",
-   "desc": "Assume breach, prove recovery — a resilience program measured in drills."
+   "desc": "Assume breach, prove recovery, a resilience program measured in drills."
   },
   {
    "title": "Regulatory Compliance Automation",
    "url": "/solutions/regulatory-compliance-automation/",
    "tag": "Risk",
-   "desc": "Evidence once, audit anywhere — compliance as a living system."
+   "desc": "Evidence once, audit anywhere, compliance as a living system."
   },
   {
    "title": "Enterprise Risk & Scenario Intelligence",
    "url": "/solutions/enterprise-risk-analytics/",
    "tag": "Risk",
-   "desc": "Risk that changes decisions — limits, reserves and stress on one governed spine."
+   "desc": "Risk that changes decisions, limits, reserves and stress on one delivery standard."
   }
  ]
 }

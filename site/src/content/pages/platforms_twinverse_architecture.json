@@ -1,0 +1,143 @@
+{
+ "id": "PLT-twinverse-ar",
+ "title": "Achala Twinverse — Architecture & Trust",
+ "url": "/platforms/twinverse/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Achala Twinverse > Architecture & Trust",
+ "seo_title": "Achala Twinverse — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Achala Twinverse — Digital Twin & IoT Intelligence Platform.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "How Achala Twinverse is put together: the ingestion fabric, the twin core and the actuation controls that keep physical systems safe."
+  },
+  {
+   "t": "h2",
+   "x": "The build, in plain terms"
+  },
+  {
+   "t": "p",
+   "x": "Structurally Achala Twinverse is planes, not layers, workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
+  },
+  {
+   "t": "p",
+   "x": "For Achala Twinverse architecture, the build decomposes into named pieces, each with an owner and a gate:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Sensor fabric",
+     "retrofit telemetry with data contracts"
+    ],
+    [
+     "Twin core",
+     "physics+data models with validation regime"
+    ],
+    [
+     "Edge fleet",
+     "KubeEdge-class orchestration with OTA"
+    ],
+    [
+     "Maintenance loop",
+     "RUL models into CMMS scheduling"
+    ],
+    [
+     "Scenario engine",
+     "what-if and capacity simulation"
+    ],
+    [
+     "Vision integration",
+     "inspection and safety analytics"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "In Achala Twinverse, the program tracks these without being asked:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "IEC 62443 alignment",
+     "zones-and-conduits for OT estates"
+    ],
+    [
+     "Signed edge fleet",
+     "measured boot, OTA rollback"
+    ],
+    [
+     "Telemetry contracts",
+     "units, timestamps, lineage enforced"
+    ],
+    [
+     "Privacy pack",
+     "camera governance with works-council alignment"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: OPC UA, MQTT Sparkplug B, LoRaWAN/NB-IoT, KubeEdge/K3s, CMMS/MES adapters. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "How we run the build"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Achala Twinverse follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one production line or asset class to a briefing. We will show the twin, the simulation loop and the actuation path it would run with."
+  }
+ ],
+ "words": 374,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Twinverse",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Twinverse",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/twinverse/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+   "url": "/platforms/twinverse/",
+   "desc": "Digital Twin & IoT Intelligence Platform"
+  },
+  {
+   "title": "Achala Twinverse — Architecture & Trust",
+   "url": "/platforms/twinverse/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Twinverse — Industry Use Cases",
+   "url": "/platforms/twinverse/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

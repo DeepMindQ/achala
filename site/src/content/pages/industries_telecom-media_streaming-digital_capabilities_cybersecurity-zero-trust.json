@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Through the Cyber & Zero-Trust lens, the operating reality: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines — and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
+   "x": "Through the Cyber & Zero-Trust lens, the operating reality: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines, and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
   },
   {
    "t": "p",
-   "x": "Point fixes for delivery unit economics opaque — a script here, a spreadsheet there — have usually been tried in Streaming & Digital Platforms. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for delivery unit economics opaque, a script here, a spreadsheet there, have usually been tried in Streaming & Digital Platforms. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Streaming & Digital Platforms edition:"
+   "x": "Where the friction concentrates, Streaming & Digital Platforms edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Streaming & Digital Platforms, the pattern is credential integrity — sharing analytics with tiered enforcement. Arpu protected sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Streaming & Digital Platforms, the pattern is credential integrity, sharing analytics with tiered enforcement. Arpu protected sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. delivery unit economics opaque is measured with your finance and risk leads in the room, then one working path — Credential integrity — goes live inside the quarter. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Streaming & Digital Platforms, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. delivery unit economics opaque is measured with your finance and risk leads in the room, then one working path, Credential integrity, goes live inside the quarter. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Streaming & Digital Platforms, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Streaming & Digital Platforms: Privacy/consent — profiling and cross-border duties; Accessibility — UI and captions duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Streaming & Digital Platforms: Privacy/consent, profiling and cross-border duties; Accessibility, UI and captions duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

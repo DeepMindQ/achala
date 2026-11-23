@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind Fraud & Financial Crime Decisioning: decisions that should be systematized are still assembled by hand — one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
+   "x": "The pattern behind Fraud & Financial Crime Decisioning: decisions that should be systematized are still assembled by hand, one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
   },
   {
    "t": "h2",
@@ -166,15 +166,15 @@
   },
   {
    "t": "p",
-   "x": "Fraud & Financial Crime Decisioning composes EEMS Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Logistics & Supply Chain, Technology & SaaS."
+   "x": "Fraud & Financial Crime Decisioning composes EEMS Platform, Fleet Management System, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Logistics & Supply Chain, Technology & SaaS."
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The Fraud & Financial Crime Decisioning engagement opens with the problem stated in the CFO's units and a baseline signed by whoever owns the number. Design follows with the risk envelope explicit; the proof phase runs a bounded slice on your data with falsifiable gate criteria; industrialization scales only what the evidence supports. In Fraud & Financial Crime Decisioning programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The Fraud & Financial Crime Decisioning engagement opens with the problem stated in the CFO's units and a baseline signed by whoever owns the number. Design follows with the risk envelope explicit; the proof phase runs a bounded slice on your data with falsifiable gate criteria; industrialization scales only what the evidence supports. In Fraud & Financial Crime Decisioning programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "What the Fraud & Financial Crime Decisioning case is written against — priced against your own baseline in the diagnostic, not quoted from marketing:"
+   "x": "What the Fraud & Financial Crime Decisioning case is written against, priced against your own baseline in the diagnostic, not quoted from marketing:"
   },
   {
    "t": "bullets",
@@ -203,7 +203,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Fraud & Financial Crime Decisioning, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Fraud & Financial Crime Decisioning, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 385,
@@ -278,19 +278,19 @@
    "title": "Cyber Resilience & Threat Command",
    "url": "/solutions/cyber-resilience-program/",
    "tag": "Risk",
-   "desc": "Assume breach, prove recovery — a resilience program measured in drills."
+   "desc": "Assume breach, prove recovery, a resilience program measured in drills."
   },
   {
    "title": "Regulatory Compliance Automation",
    "url": "/solutions/regulatory-compliance-automation/",
    "tag": "Risk",
-   "desc": "Evidence once, audit anywhere — compliance as a living system."
+   "desc": "Evidence once, audit anywhere, compliance as a living system."
   },
   {
    "title": "Enterprise Risk & Scenario Intelligence",
    "url": "/solutions/enterprise-risk-analytics/",
    "tag": "Risk",
-   "desc": "Risk that changes decisions — limits, reserves and stress on one governed spine."
+   "desc": "Risk that changes decisions, limits, reserves and stress on one delivery standard."
   },
   {
    "title": "Supply Chain Risk & Continuity",

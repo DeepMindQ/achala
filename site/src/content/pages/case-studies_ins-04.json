@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "FNOL-to-settlement on governed agents — cycle time down 58% and claims leakage down 12% at unchanged adjuster headcount"
+   "x": "FNOL-to-settlement on governed agents, cycle time down 58% and claims leakage down 12% at unchanged adjuster headcount"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a motor insurer whose claims promise was measured in weeks while its competitors' was measured in hours. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a motor insurer whose claims promise was measured in weeks while its competitors' was measured in hours. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Triage ran on claim amount alone, so the expensive small claims — injury, liability dispute, fraud indicators — waited behind straightforward glass damage that had been auto-priority by amount."
+   "x": "Triage ran on claim amount alone, so the expensive small claims, injury, liability dispute, fraud indicators, waited behind straightforward glass damage that had been auto-priority by amount."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt the claim journey on governed agents: intake completes itself against connected sources where consent allows, severity triage reads injury-liability-fraud signals instead of amounts, and every settlement recommendation carries its evidence file — photos, estimates, policy terms — with the adjuster's decision recorded. Leakage analytics ran continuously against closed files, not annually."
+   "x": "We rebuilt the claim journey on governed agents: intake completes itself against connected sources where consent allows, severity triage reads injury-liability-fraud signals instead of amounts, and every settlement recommendation carries its evidence file, photos, estimates, policy terms, with the adjuster's decision recorded. Leakage analytics ran continuously against closed files, not annually."
   },
   {
    "t": "arch",

@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform earns its place in Higher Education & Universities only when it changes what Student success/advising costs or what Research computing returns. The engagement is built around one measurable path: we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident. That is the engineering behind Higher Education & Universities."
+   "x": "Cloud, Edge & Platform earns its place in Higher Education & Universities only when it changes what Student success/advising costs or what Research computing returns. The engagement is built around one measurable path: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident. That is the engineering behind Higher Education & Universities."
   },
   {
    "t": "p",
-   "x": "Through the Cloud, Edge & Platform lens, the operating reality: Universities balance teaching quality, research output and financial sustainability: student-success analytics, research computing, administrative automation and campus economics. The constraint is governance — faculty senate, ethics boards and student privacy all bind."
+   "x": "Through the Cloud, Edge & Platform lens, the operating reality: Universities balance teaching quality, research output and financial sustainability: student-success analytics, research computing, administrative automation and campus economics. The constraint is governance, faculty senate, ethics boards and student privacy all bind."
   },
   {
    "t": "p",
-   "x": "Faculty admin burden is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Faculty admin burden is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Higher Education & Universities, the pattern is research platform — governed HPC/cloud burst with queues. Throughput up sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident. That is the engineering behind Higher Education & Universities."
+   "x": "In Higher Education & Universities, the pattern is research platform, governed HPC/cloud burst with queues. Throughput up sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident. That is the engineering behind Higher Education & Universities."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. faculty admin burden is measured with your finance and risk leads in the room, then one working path — Research platform — goes live inside the quarter. In Higher Education & Universities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. faculty admin burden is measured with your finance and risk leads in the room, then one working path, Research platform, goes live inside the quarter. In Higher Education & Universities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Higher Education & Universities: FERPA/GDPR-class — student records duties; Research ethics (IRB) — data governance. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Higher Education & Universities: FERPA/GDPR-class, student records duties; Research ethics (IRB), data governance. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

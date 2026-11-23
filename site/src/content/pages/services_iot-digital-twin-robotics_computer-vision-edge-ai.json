@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Inference at the edge with model ops: quantized models deployed on constrained hardware, drift monitors on live feeds, thermal budgets respected — and decision p99 measured at the line, because a quality gate that misses its deadline is a scrap event."
+   "x": "Inference at the edge with model ops: quantized models deployed on constrained hardware, drift monitors on live feeds, thermal budgets respected, and decision p99 measured at the line, because a quality gate that misses its deadline is a scrap event."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Edge AI is model engineering under hardware tyranny: 15 watts, no cloud, and a decision deadline. The practice covers model selection and optimization for the target silicon, the deployment pipeline (canary, rollback, fleet), and the operational loop — drift monitors on live feeds, hard-case capture for retraining, and the interlock rule that keeps model outputs advisory to safety systems."
+   "x": "Edge AI is model engineering under hardware tyranny: 15 watts, no cloud, and a decision deadline. The practice covers model selection and optimization for the target silicon, the deployment pipeline (canary, rollback, fleet), and the operational loop, drift monitors on live feeds, hard-case capture for retraining, and the interlock rule that keeps model outputs advisory to safety systems."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these appears only on real hardware under real thermal load — the countermeasures test quantization on-device and monitor drift on the live feed, not in the notebook."
+   "x": "Every one of these appears only on real hardware under real thermal load, the countermeasures test quantization on-device and monitor drift on the live feed, not in the notebook."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Models ship through quantization with on-device validation, deploy across the hardware fleet in waves, run inside thermal and latency budgets, and drift monitors watch the live feed — with the retraining loop fed by the edge's own discordant frames."
+   "x": "Models ship through quantization with on-device validation, deploy across the hardware fleet in waves, run inside thermal and latency budgets, and drift monitors watch the live feed, with the retraining loop fed by the edge's own discordant frames."
   },
   {
    "t": "arch",
@@ -310,7 +310,7 @@
   },
   {
    "t": "p",
-   "x": "From sensor capture through preprocessing, quantized inference, decision gating and the actuation call — including the deadline-miss path and what the line does when inference is late."
+   "x": "From sensor capture through preprocessing, quantized inference, decision gating and the actuation call, including the deadline-miss path and what the line does when inference is late."
   },
   {
    "t": "diagram",
@@ -334,7 +334,7 @@
   },
   {
    "t": "p",
-   "x": "Decision p99 at the line, deadline miss rate and thermal throttling events — the three numbers that decide whether the quality gate is engineering or demonstration."
+   "x": "Decision p99 at the line, deadline miss rate and thermal throttling events, the three numbers that decide whether the quality gate is engineering or demonstration."
   },
   {
    "t": "idash",
@@ -641,7 +641,7 @@
   },
   {
    "t": "p",
-   "x": "Decision p99 and miss rate per hardware generation and model version — the shape that shows which fleet segments can carry the next model and which need their own windows."
+   "x": "Decision p99 and miss rate per hardware generation and model version, the shape that shows which fleet segments can carry the next model and which need their own windows."
   },
   {
    "t": "chart",
@@ -1162,27 +1162,27 @@
     [
      "Optimization",
      "Quantization-aware training and eval",
-     "Post-training quantize-and-pray — accuracy surprises"
+     "Post-training quantize-and-pray, accuracy surprises"
     ],
     [
      "Hardware",
      "Certified SKU list per release train",
-     "Any-accelerator-will-do — drivers become incidents"
+     "Any-accelerator-will-do, drivers become incidents"
     ],
     [
      "Deployment",
      "Canary per fleet with health gates",
-     "Fleet-wide push — one bad model everywhere"
+     "Fleet-wide push, one bad model everywhere"
     ],
     [
      "Drift",
      "Live-feed monitors with capture",
-     "Quarterly spot checks — drift wins"
+     "Quarterly spot checks, drift wins"
     ],
     [
      "Safety",
      "Interlock-first architecture",
-     "Model-as-safety — it fails differently than rated systems"
+     "Model-as-safety, it fails differently than rated systems"
     ]
    ]
   },
@@ -1361,22 +1361,22 @@
   },
   {
    "t": "note",
-   "x": "Thermal budgets are enforced by the scheduler, not hoped for: sustained load beyond the signed envelope triggers model down-shift with an incident record — silent throttling is treated as a quality escape."
+   "x": "Thermal budgets are enforced by the scheduler, not hoped for: sustained load beyond the signed envelope triggers model down-shift with an incident record, silent throttling is treated as a quality escape."
   },
   {
    "t": "h2",
    "x": "The deadline is the contract",
-   "sub": "Hardware-fit models, deadline checks and scene-aware drift — edge AI as an engineering discipline",
+   "sub": "Hardware-fit models, deadline checks and scene-aware drift, edge AI as an engineering discipline",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Edge vision fails when models are trained in the lab and deployed to hardware they do not fit: the quantized model misses its frame budget, the accelerator thermal-throttles at noon, and the line keeps moving while the QA gate goes blind. The discipline starts from the hardware contract — models quantized and shaped to the accelerator's budget, deadline checks enforced per frame (a late inference is a dropped inference, logged), and thermal/power envelopes tested under production conditions. The safety interlock path stays hardware-wired: vision may advise; it may never be the last line between a person and a hazard.",
+   "x": "Edge vision fails when models are trained in the lab and deployed to hardware they do not fit: the quantized model misses its frame budget, the accelerator thermal-throttles at noon, and the line keeps moving while the QA gate goes blind. The discipline starts from the hardware contract, models quantized and shaped to the accelerator's budget, deadline checks enforced per frame (a late inference is a dropped inference, logged), and thermal/power envelopes tested under production conditions. The safety interlock path stays hardware-wired: vision may advise; it may never be the last line between a person and a hazard.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Drift at the edge is scene drift — lighting changes with seasons, product SKUs change with campaigns, camera lenses get dirty — so monitors watch scene statistics alongside model scores, and release trains stage canary devices before line-wide rollout. The console reads deadline adherence, drift alarms and per-device model currency; the retraining loop is fed from the hard negatives the deadline check and drift monitors surface.",
+   "x": "Drift at the edge is scene drift, lighting changes with seasons, product SKUs change with campaigns, camera lenses get dirty, so monitors watch scene statistics alongside model scores, and release trains stage canary devices before line-wide rollout. The console reads deadline adherence, drift alarms and per-device model currency; the retraining loop is fed from the hard negatives the deadline check and drift monitors surface.",
    "phase3_deep": true
   },
   {
@@ -1388,7 +1388,7 @@
     ],
     [
      "Deadline checks per frame",
-     "Late inferences are dropped and logged — the blind gate is visible."
+     "Late inferences are dropped and logged, the blind gate is visible."
     ],
     [
      "Scene-aware drift watch",
@@ -1406,7 +1406,7 @@
    "items": [
     [
      "Why is edge AI a \"hardware contract\"?",
-     "Because the deadline is physical: a model that misses 84ms on the line SKU is worthless regardless of accuracy. Each SKU class signs accuracy, p99 latency and power together — the triple is the contract, and the gates enforce all three."
+     "Because the deadline is physical: a model that misses 84ms on the line SKU is worthless regardless of accuracy. Each SKU class signs accuracy, p99 latency and power together, the triple is the contract, and the gates enforce all three."
     ],
     [
      "How do you handle model drift on the line?",
@@ -1414,21 +1414,21 @@
     ],
     [
      "Can you work with our existing cameras and PLCs?",
-     "Yes — the integration surface names cameras, PLCs and quality systems. Capture contracts pin resolution, timing and lighting conditions, because the frame the model sees must be the frame the contract tested."
+     "Yes, the integration surface names cameras, PLCs and quality systems. Capture contracts pin resolution, timing and lighting conditions, because the frame the model sees must be the frame the contract tested."
     ],
     [
      "What happens when lighting or conditions change on the floor?",
-     "Condition changes are part of the eval set: the golden set includes your worst shifts, and the gates require deadline-holding accuracy across them — a model that only works in lab lighting never reaches the line."
+     "Condition changes are part of the eval set: the golden set includes your worst shifts, and the gates require deadline-holding accuracy across them, a model that only works in lab lighting never reaches the line."
     ],
     [
      "What do operations and quality inherit?",
-     "The console with deadline adherence as the headline, the drift drills, the eval sets and the retrain calendar — quality sees accuracy evidence per shift, operations sees the hardware contract holding."
+     "The console with deadline adherence as the headline, the drift drills, the eval sets and the retrain calendar, quality sees accuracy evidence per shift, operations sees the hardware contract holding."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the inspection your line does by eye because the model kept missing deadlines. The lab-to-line sprint will quantize, validate on-device and prove the p99 — before the first scrap event."
+   "x": "Bring the inspection your line does by eye because the model kept missing deadlines. The lab-to-line sprint will quantize, validate on-device and prove the p99, before the first scrap event."
   }
  ],
  "words": 1017,
@@ -1513,43 +1513,43 @@
    "title": "Digital Twin Platform Engineering",
    "url": "/services/iot-digital-twin-robotics/digital-twin-platforms/",
    "tag": "Same domain",
-   "desc": "twins that stay honest — state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
+   "desc": "twins that stay honest, state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
   },
   {
    "title": "Industrial IoT & Sensor Fabric",
    "url": "/services/iot-digital-twin-robotics/industrial-iot-sensor-fabric/",
    "tag": "Same domain",
-   "desc": "instrumentation as infrastructure — versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
+   "desc": "instrumentation as infrastructure, versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
   },
   {
    "title": "Predictive Maintenance & Asset Intelligence",
    "url": "/services/iot-digital-twin-robotics/predictive-asset-intelligence/",
    "tag": "Same domain",
-   "desc": "maintenance scheduled by evidence — failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
+   "desc": "maintenance scheduled by evidence, failure-mode-driven models, work-order integration, and the honesty to retire predictions that never came true."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Pairs with",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Pairs with",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "Digital Workforce & Multi-Agent Orchestration",
    "url": "/services/agentic-ai-hyperautomation/digital-workforce-orchestration/",
    "tag": "Pairs with",
-   "desc": "agent-fleet management as workforce management — capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
+   "desc": "agent-fleet management as workforce management, capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
   },
   {
    "title": "A global coffee trader",
    "url": "/case-studies/agr-02/",
    "tag": "Evidence",
-   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened."
+   "desc": "EUDR due-diligence automated, compliance evidence in hours, premium channels opened."
   }
  ],
  "evidence": [

@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Warehousing & Fulfillment, the pattern is inventory telemetry — RFID/vision-assisted counting with governance. Accuracy real-time sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "In Warehousing & Fulfillment, the pattern is inventory telemetry, RFID/vision-assisted counting with governance. Accuracy real-time sits on top as the measured result, tracked from the signed baseline onward. Around it, we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for pick-path and slotting stale is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Inventory telemetry, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Warehousing & Fulfillment, that discipline is not optional — it is the engagement model."
+   "x": "Delivery opens with measurement: the baseline for pick-path and slotting stale is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Inventory telemetry, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Warehousing & Fulfillment, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics control frame for Warehousing & Fulfillment: Worker-safety rules (robot/zone safety duties); Labor law (scheduling compliance); Customs (bonded warehouses) (inventory evidence). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The IoT, Twin & Robotics control frame for Warehousing & Fulfillment: Worker-safety rules (robot/zone safety duties); Labor law (scheduling compliance); Customs (bonded warehouses) (inventory evidence). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

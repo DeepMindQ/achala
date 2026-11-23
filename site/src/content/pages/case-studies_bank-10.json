@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Documentary-trade digitization on a permissioned ledger — document check time down 55% and duplicate-financing attempts surfaced before funding"
+   "x": "Documentary-trade digitization on a permissioned ledger, document check time down 55% and duplicate-financing attempts surfaced before funding"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — the trade-finance unit of a pan-Asian bank, still checking letters of credit against paper and PDF while its corporate clients ran digital supply chains. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, the trade-finance unit of a pan-Asian bank, still checking letters of credit against paper and PDF while its corporate clients ran digital supply chains. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We digitized the documentary chain on a permissioned ledger shared with the client's logistics partners: transport and inspection documents anchored at source, presentation and amendment history immutable per instrument, and discrepancy checking assisted against the codified UCP rules with the checker's reasoning recorded on the ledger. Duplicate-financing detection reads the same chain — instruments linked to shipments before money moves."
+   "x": "We digitized the documentary chain on a permissioned ledger shared with the client's logistics partners: transport and inspection documents anchored at source, presentation and amendment history immutable per instrument, and discrepancy checking assisted against the codified UCP rules with the checker's reasoning recorded on the ledger. Duplicate-financing detection reads the same chain, instruments linked to shipments before money moves."
   },
   {
    "t": "arch",

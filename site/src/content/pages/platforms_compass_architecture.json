@@ -1,0 +1,143 @@
+{
+ "id": "PLT-compass-ar",
+ "title": "Achala Compass — Architecture & Trust",
+ "url": "/platforms/compass/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Achala Compass > Architecture & Trust",
+ "seo_title": "Achala Compass — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Achala Compass — Responsible AI & Governance Suite.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "How Achala Compass is put together: the register, the validation engine and the monitoring loop that keeps governance current."
+  },
+  {
+   "t": "h2",
+   "x": "How the platform works"
+  },
+  {
+   "t": "p",
+   "x": "Structurally Achala Compass is planes, not layers, workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
+  },
+  {
+   "t": "p",
+   "x": "For Achala Compass architecture, the build decomposes into named pieces, each with an owner and a gate:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Policy layer",
+     "regime mapping to controls and owners"
+    ],
+    [
+     "Model registry",
+     "cards, lineage, versions, documentation"
+    ],
+    [
+     "Evaluation suite",
+     "golden datasets, judge panels, red teams"
+    ],
+    [
+     "Guardrail configuration",
+     "PII, injection, topic fences as code"
+    ],
+    [
+     "Incident response",
+     "AI-specific playbooks and disclosure flows"
+    ],
+    [
+     "Evidence pack",
+     "conformity-grade documentation generated"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "For Achala Compass, instrumented from week one, on your channels:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "EU AI Act evidence",
+     "high-risk documentation generated"
+    ],
+    [
+     "Continuous evaluation",
+     "regression gates in CI/CD"
+    ],
+    [
+     "Control ownership",
+     "named owner per model"
+    ],
+    [
+     "Shadow-AI discovery",
+     "unsanctioned use surfaced and routed"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Under the hood"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: MLflow, evaluation frameworks, guardrail libraries, GRC integration. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Achala Compass follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one model portfolio to a briefing. We will show the register, the validation workflow and the evidence pack it produces."
+  }
+ ],
+ "words": 366,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Compass",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Compass",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/compass/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Compass — Responsible AI & Governance Suite",
+   "url": "/platforms/compass/",
+   "desc": "Responsible AI & Governance Suite"
+  },
+  {
+   "title": "Achala Compass — Architecture & Trust",
+   "url": "/platforms/compass/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Compass — Industry Use Cases",
+   "url": "/platforms/compass/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

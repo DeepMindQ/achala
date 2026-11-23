@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Healthcare generates the most consequential data in the economy and spends most of it unread. Radiology backlogs, prior-authorization ping-pong, coding leakage, clinical trial recruitment shortfalls — each is an information problem wearing an operational costume. The organizations improving outcomes are the ones treating data interoperability (FHIR, TEFCA-style exchange) and clinical-grade AI governance as infrastructure, not innovation theater."
+   "x": "Healthcare generates the most consequential data in the economy and spends most of it unread. Radiology backlogs, prior-authorization ping-pong, coding leakage, clinical trial recruitment shortfalls, each is an information problem wearing an operational costume. The organizations improving outcomes are the ones treating data interoperability (FHIR, TEFCA-style exchange) and clinical-grade AI governance as infrastructure, not innovation theater."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The regulatory bar is the highest in any industry: HIPAA and GDPR privacy regimes, FDA oversight where software informs clinical decisions, EU AI Act classification for medical AI, and GxP validation for pharma-adjacent systems. That bar is passable — but only when controls, documentation and validation are designed into delivery from the first sprint, which is precisely how Achala IT Solutions builds."
+   "x": "The regulatory bar is the highest in any industry: HIPAA and GDPR privacy regimes, FDA oversight where software informs clinical decisions, EU AI Act classification for medical AI, and GxP validation for pharma-adjacent systems. That bar is passable, but only when controls, documentation and validation are designed into delivery from the first sprint, which is precisely how Achala IT Solutions builds."
   },
   {
    "t": "h2",

@@ -9,16 +9,16 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Security for the models themselves: prompt-injection defense with measured block rates, jailbreak suites running in CI so regressions cannot merge, corpus integrity monitoring against poisoning, and containment for agents with real tool access — the attack surfaces the classic frameworks never named."
+   "x": "Security for the models themselves: prompt-injection defense with measured block rates, jailbreak suites running in CI so regressions cannot merge, corpus integrity monitoring against poisoning, and containment for agents with real tool access, the attack surfaces the classic frameworks never named."
   },
   {
    "t": "h2",
    "x": "AI security is a new surface on the same old adversary",
-   "sub": "Injection, poisoning, exfiltration and abuse — engineered as production surfaces"
+   "sub": "Injection, poisoning, exfiltration and abuse, engineered as production surfaces"
   },
   {
    "t": "p",
-   "x": "AI systems add attack surfaces conventional security never met: the model can be talked into things, trained on things it should not know, and probed for what it remembers. AI security is the practice of bounding that — injection-resistant retrieval, output guards, abuse detection, and red-team evals that run in CI like any other test."
+   "x": "AI systems add attack surfaces conventional security never met: the model can be talked into things, trained on things it should not know, and probed for what it remembers. AI security is the practice of bounding that, injection-resistant retrieval, output guards, abuse detection, and red-team evals that run in CI like any other test."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these exploits the layer between the model and the estate — the countermeasures treat prompts, corpora and agent tools as attack surface with owners, tests and gates."
+   "x": "Each of these exploits the layer between the model and the estate, the countermeasures treat prompts, corpora and agent tools as attack surface with owners, tests and gates."
   },
   {
    "t": "table",
@@ -299,7 +299,7 @@
   },
   {
    "t": "p",
-   "x": "From the crafted input through injection classification, grounding validation, output filtering and the abuse watch — including the jailbreak regression suite that blocks any defense change that opens a gap."
+   "x": "From the crafted input through injection classification, grounding validation, output filtering and the abuse watch, including the jailbreak regression suite that blocks any defense change that opens a gap."
   },
   {
    "t": "diagram",
@@ -323,7 +323,7 @@
   },
   {
    "t": "p",
-   "x": "Injection block rate, jailbreak CI regressions, corpus integrity alerts and agent-abuse containment — the four numbers that decide whether the AI estate is defended or merely prompt-policed."
+   "x": "Injection block rate, jailbreak CI regressions, corpus integrity alerts and agent-abuse containment, the four numbers that decide whether the AI estate is defended or merely prompt-policed."
   },
   {
    "t": "idash",
@@ -640,7 +640,7 @@
   },
   {
    "t": "p",
-   "x": "Block rates across attack classes and quarterly simulation rounds — the honest curve that shows which defenses hold under novel techniques and which are decomposing quietly."
+   "x": "Block rates across attack classes and quarterly simulation rounds, the honest curve that shows which defenses hold under novel techniques and which are decomposing quietly."
   },
   {
    "t": "chart",
@@ -1131,27 +1131,27 @@
     [
      "Injection defense",
      "Origin-tagged retrieval + instruction firewall",
-     "Prompt-only defenses — indirect injection walks around them"
+     "Prompt-only defenses, indirect injection walks around them"
     ],
     [
      "Corpus integrity",
      "Provenance checks with quarantine",
-     "Trusting all internal sources — insider edits become attacks"
+     "Trusting all internal sources, insider edits become attacks"
     ],
     [
      "Output defense",
      "DLP + schema-constrained outputs",
-     "Free-form outputs on regulated data — leakage by design"
+     "Free-form outputs on regulated data, leakage by design"
     ],
     [
      "Red teaming",
      "Eval suite in CI with regression gates",
-     "One-time pen-test of the assistant — the model changes weekly"
+     "One-time pen-test of the assistant, the model changes weekly"
     ],
     [
      "Abuse ops",
      "Quotas, scoring and SOC handoff",
-     "Trust-and-pray rate limits — abuse scales with popularity"
+     "Trust-and-pray rate limits, abuse scales with popularity"
     ]
    ]
   },
@@ -1305,7 +1305,7 @@
   },
   {
    "t": "p",
-   "x": "Agents with tool access are treated as privileged principals: scoped credentials, rate limits, egress policy and session replay — the abuse containment that keeps an agentic platform from becoming an open-and-shut incident."
+   "x": "Agents with tool access are treated as privileged principals: scoped credentials, rate limits, egress policy and session replay, the abuse containment that keeps an agentic platform from becoming an open-and-shut incident."
   },
   {
    "t": "bullets",
@@ -1335,17 +1335,17 @@
   {
    "t": "h2",
    "x": "Defend the model layer like a production service",
-   "sub": "Injection firewalls, corpus integrity and abuse detection — the new surface, engineered",
+   "sub": "Injection firewalls, corpus integrity and abuse detection, the new surface, engineered",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "AI security fails when the model is treated as a feature and defended as an afterthought: prompt injection walks through the retrieval layer, corpus poisoning waits weeks to be noticed, and exfiltration rides the tool calls nobody scoped. The defense is layered at the surfaces — an injection firewall before the model (filter chain, not a hopeful system prompt), corpus integrity with signed and versioned documents, a model-data policy that keeps classified data out of prompts by construction, and output guards that redact before tokens reach the user. Abuse detection treats the model endpoint like any other production service: rate signals, intent signals and anomaly detection on the traffic.",
+   "x": "AI security fails when the model is treated as a feature and defended as an afterthought: prompt injection walks through retrieval, corpus poisoning waits weeks to be noticed, and exfiltration rides the tool calls nobody scoped. The defense is layered at the surfaces, an injection firewall before the model (filter chain, not a hopeful system prompt), corpus integrity with signed and versioned documents, a model-data policy that keeps classified data out of prompts by construction, and output guards that redact before tokens reach the user. Abuse detection treats the model endpoint like any other production service: rate signals, intent signals and anomaly detection on the traffic.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Measurement makes it credible: an adversarial red-team eval suite runs in CI (every prompt, guard or model change attacks the defenses), and attack simulations are scored and trended per defense layer. The agent-abuse containment overlay closes the loop for agentic surfaces — tool scoping, spend ceilings and blast-radius limits — because the newest attack surface is the one your own automation provides.",
+   "x": "Measurement makes it credible: an adversarial red-team eval suite runs in CI (every prompt, guard or model change attacks the defenses), and attack simulations are scored and trended per defense layer. The agent-abuse containment overlay closes the loop for agentic surfaces, tool scoping, spend ceilings and blast-radius limits, because the newest attack surface is the one your own automation provides.",
    "phase3_deep": true
   },
   {
@@ -1375,15 +1375,15 @@
    "items": [
     [
      "How is AI security different from application security?",
-     "The model layer is a new attack surface: prompts are untrusted input, corpora are poisoning targets, agent tools are abuse paths. Classic frameworks never named these — we defend the model layer like a production service, with the same budget discipline."
+     "The model layer is a new attack surface: prompts are untrusted input, corpora are poisoning targets, agent tools are abuse paths. Classic frameworks never named these, we defend the model layer like a production service, with the same budget discipline."
     ],
     [
      "Can you red-team our models safely?",
-     "Yes — red-team drills run against staging twins with rate-limited, logged attacks. Containment and drift-escape rates per technique — injection, jailbreak, poisoning, extraction — become the gate evidence before exposure."
+     "Yes, red-team drills run against staging twins with rate-limited, logged attacks. Containment and drift-escape rates per technique, injection, jailbreak, poisoning, extraction, become the gate evidence before exposure."
     ],
     [
      "What happens when an adversarial prompt gets through?",
-     "Layered defense: the prompt guard classifies, the retrieval layer refuses unverifiable context, and agent tool calls are scoped per session. A technique that escapes one layer hits the next — drift escapes above budget trip the exposure gate."
+     "Layered defense: the prompt guard classifies, retrieval refuses unverifiable context, and agent tool calls are scoped per session. A technique that escapes one layer hits the next, drift escapes above budget trip the exposure gate."
     ],
     [
      "How do you protect training corpora and RAG indexes?",
@@ -1391,13 +1391,13 @@
     ],
     [
      "Who owns model security after handover?",
-     "The security engineering team inherits the control plane, the drill calendar, the console with measured rates and the gates — AI security becomes part of the release rhythm, not an annual review."
+     "The security engineering team inherits the control plane, the drill calendar, the console with measured rates and the gates, AI security becomes part of the release rhythm, not an annual review."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the AI use case your CISO keeps postponing. The diagnostic will run the attack suite against it — injection, jailbreak, corpus and agent abuse — and price what measured defense costs."
+   "x": "Bring the AI use case your CISO keeps postponing. The diagnostic will run the attack suite against it, injection, jailbreak, corpus and agent abuse, and price what measured defense costs."
   }
  ],
  "words": 1040,
@@ -1482,43 +1482,43 @@
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Same domain",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Same domain",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Same domain",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Pairs with",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Pairs with",
-   "desc": "classical HPC that does the heavy lifting — benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
+   "desc": "classical HPC that does the heavy lifting, benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
   },
   {
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Pairs with",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

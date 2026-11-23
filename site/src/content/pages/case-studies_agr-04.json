@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Harvest logistics on a field-to-silo twin — logistics cost down 14% and moisture-driven quality losses down 29%"
+   "x": "Harvest logistics on a field-to-silo twin, logistics cost down 14% and moisture-driven quality losses down 29%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a grain cooperative whose harvest moved on habit and whose silos received whatever the roads delivered. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a grain cooperative whose harvest moved on habit and whose silos received whatever the roads delivered. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The chain-scheduling pattern transfers to any harvest logistics; the field-signal economics were this cooperative's geography. Another cooperative starts from its queue log — the diagnostic times the negotiation before replacing it."
+   "x": "The chain-scheduling pattern transfers to any harvest logistics; the field-signal economics were this cooperative's geography. Another cooperative starts from its queue log, the diagnostic times the negotiation before replacing it."
   },
   {
    "t": "table",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Power Generation & Grid lives inside Forecasting and dispatch, Asset condition management and DER/flexibility orchestration — paths that all carry decisions now. The work: where quantum-inspired methods genuinely pay — routing, scheduling, allocation — we deploy them; where they do not, we say so in writing. For Power Generation & Grid, this is the standard the build is held to."
+   "x": "Quantum & Advanced Compute in Power Generation & Grid lives inside Forecasting and dispatch, Asset condition management and DER/flexibility orchestration, paths that all carry decisions now. The work: where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing. For Power Generation & Grid, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for unit-commitment ceilings — a script here, a spreadsheet there — have usually been tried in Power Generation & Grid. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for unit-commitment ceilings, a script here, a spreadsheet there, have usually been tried in Power Generation & Grid. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Power Generation & Grid, the pattern is commitment tournaments — scheduling across solvers. Quality/time gains sits on top as the measured result, tracked from the signed baseline onward. Around it, where quantum-inspired methods genuinely pay — routing, scheduling, allocation — we deploy them; where they do not, we say so in writing. For Power Generation & Grid, this is the standard the build is held to."
+   "x": "In Power Generation & Grid, the pattern is commitment tournaments, scheduling across solvers. Quality/time gains sits on top as the measured result, tracked from the signed baseline onward. Around it, where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing. For Power Generation & Grid, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The unit-commitment ceilings cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Commitment tournaments), and the gate review decides what scales — all inside one quarter in Power Generation & Grid. In Power Generation & Grid programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The unit-commitment ceilings cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Commitment tournaments), and the gate review decides what scales, all inside one quarter in Power Generation & Grid. In Power Generation & Grid programs the same rule applies: the engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Quantum & Advanced Compute frame in Power Generation & Grid: NERC CIP — bulk-system cyber standards; Electricity market codes — balancing/settlement duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Quantum & Advanced Compute frame in Power Generation & Grid: NERC CIP, bulk-system cyber standards; Electricity market codes, balancing/settlement duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

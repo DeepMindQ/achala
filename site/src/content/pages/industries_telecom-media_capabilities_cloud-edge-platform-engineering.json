@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Cloud, Edge & Platform reality in Telecom, Media & Entertainment: Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups — streaming personalization, ad targeting under consent, and content-performance analytics."
+   "x": "One more Cloud, Edge & Platform reality in Telecom, Media & Entertainment: Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups, streaming personalization, ad targeting under consent, and content-performance analytics."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Telecom, Media & Entertainment edition:"
+   "x": "The places value leaks, Telecom, Media & Entertainment edition:"
   },
   {
    "t": "bullets",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Telecom, Media & Entertainment, the working pattern is edge compute fabric: KubeEdge-class fleets at POPs with developer platform. Edge workloads live with slas is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Telecom, Media & Entertainment, the working pattern is edge compute fabric: KubeEdge-class fleets at POPs with developer platform. Edge workloads live with slas is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for energy cost compounds is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — edge compute fabric, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Delivery opens with measurement: the baseline for energy cost compounds is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, edge compute fabric, bounded to one path, running on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cloud, Edge & Platform side of Telecom, Media & Entertainment, the binding duties are concrete — GDPR and privacy regimes (subscriber profiling and data-sharing consent duties); NIS2 / sector cyber regulation (essential-entity obligations across network estates); EU AI Act (biometric and profiling constraints shaping AI deployment). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cloud, Edge & Platform side of Telecom, Media & Entertainment, the binding duties are concrete, GDPR and privacy regimes (subscriber profiling and data-sharing consent duties); NIS2 / sector cyber regulation (essential-entity obligations across network estates); EU AI Act (biometric and profiling constraints shaping AI deployment). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -86,19 +86,19 @@
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },
@@ -186,19 +186,19 @@
    "title": "Cloud, Edge & Platform for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

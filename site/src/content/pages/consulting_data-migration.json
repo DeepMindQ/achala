@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data Migration & Platform Moves: Move estates without losing a row, an audit trail or a night's sleep. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Data Migration & Platform Moves: Move estates without losing a row, an audit trail or a night's sleep. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "Data migration fails in the planning, not the pipeline. Estates that look simple on a slide hold decades of undocumented logic: spreadsheets that became systems, triggers nobody owns, and reference data that three applications interpret three different ways. We start every migration with discovery that reads the estate the way the estate actually behaves — dependency mapping at column level, profile-driven data quality baselines, and a reconciliation contract agreed before anything moves."
+   "x": "Data migration fails in the planning, not the pipeline. Estates that look simple on a slide hold decades of undocumented logic: spreadsheets that became systems, triggers nobody owns, and reference data that three applications interpret three different ways. We start every migration with discovery that reads the estate the way the estate actually behaves, dependency mapping at column level, profile-driven data quality baselines, and a reconciliation contract agreed before anything moves."
   },
   {
    "t": "p",
-   "x": "Execution runs in waves with reversible cutovers: each wave carries its own rehearsal, row-level reconciliation (counts, sums, spot business keys, hashed payloads), and a rollback plan your operations team has already rehearsed. Cutover decisions are made against pre-agreed evidence — reconciliation deltas, latency budgets, dual-run comparisons — never against a date on a program charter."
+   "x": "Execution runs in waves with reversible cutovers: each wave carries its own rehearsal, row-level reconciliation (counts, sums, spot business keys, hashed payloads), and a rollback plan your operations team has already rehearsed. Cutover decisions are made against pre-agreed evidence, reconciliation deltas, latency budgets, dual-run comparisons, never against a date on a program charter."
   },
   {
    "t": "h2",
@@ -217,7 +217,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a Data Migration & Platform Moves briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Data Migration & Platform Moves briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 376,

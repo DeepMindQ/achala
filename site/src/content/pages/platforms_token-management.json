@@ -1,203 +1,96 @@
 {
- "id": "PLT-quanta-ov",
+ "id": "PLT-token-management-ov",
  "title": "Token Management System",
  "url": "/platforms/token-management/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > Token Management System > Overview",
  "seo_title": "Token Management System | Achala IT Solutions",
- "meta_description": "Emerging compute with investor discipline — baselines, benchmarks, verdicts.",
+ "meta_description": "Token Management System predicts and manages queues for hospital OPDs, banks and service centers — published client results report shorter, predictable waits.",
  "blocks": [
   {
    "t": "hero",
-   "x": "AI-led queue and token management that cut laboratory queues by 20-30% at AIG Hospitals."
+   "x": "Queues that behave. Token Management System issues tokens, predicts wait times and keeps service halls moving, in hospitals, banks and public service centers."
   },
   {
    "t": "h2",
-   "x": "What runs on it"
+   "x": "What it is"
   },
   {
    "t": "p",
-   "x": "Token Management System runs our quantum and advanced-compute programs: readiness assessments with HNDL risk clocks, solver tournaments (classical vs. quantum-inspired vs. hybrid) on your actual formulations, PQC migration with CBOM-grade discovery, HPC engineering, and the emerging-silicon watchlist. Quanta's discipline is economic: every initiative carries a classical baseline it must beat on identical benchmarks; negative results are documented deliverables. Where solvers win, we industrialize them as services with re-solve SLAs; where they don't, you keep an improved baseline and a revisit trigger."
+   "x": "Token Management System is queue infrastructure for high-traffic service halls. It issues tokens across counters, predicts the wait for each queue, and balances load by steering arrivals and openings. A published hospital client described the result plainly: queues became visible, predictable and shorter."
   },
   {
    "t": "h2",
-   "x": "What gets built first"
+   "x": "What it does"
   },
   {
    "t": "p",
-   "x": "Named modules with a gate at each boundary — Token Management System edition:"
+   "x": "The platform's working capabilities:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Readiness engine",
-     "workload inventory + HNDL exposure ranking"
+     "Token issuance",
+     "Multi-counter tokens from kiosk, app or reception"
     ],
     [
-     "Solver tournament",
-     "benchmarking suite across solver families"
+     "Wait prediction",
+     "Estimated waits shown to staff and visitors"
     ],
     [
-     "Solver-as-a-service",
-     "industrialized winners with warm starts and SLAs"
+     "Load balancing",
+     "Counters opened and arrivals steered before queues form"
     ],
     [
-     "PQC program",
-     "CBOM discovery through hybrid transition"
-    ],
-    [
-     "HPC engineering",
-     "scheduler/GPU/storage tuning and cloud burst"
-    ],
-    [
-     "Watchlist",
-     "emerging silicon scored against your workloads"
+     "Service analytics",
+     "Wait and service times measured per counter, per hour"
     ]
    ]
   },
   {
-   "t": "arch",
-   "title": "Token Management System — module topology",
-   "lanes": [
-    "Ingest",
-    "Core",
-    "Delivery",
-    "Trust"
-   ],
-   "nodes": [
-    {
-     "id": "in1",
-     "lane": 0,
-     "label": "Adapters & contracts",
-     "hot": false
-    },
-    {
-     "id": "in2",
-     "lane": 0,
-     "label": "Qiskit",
-     "hot": false
-    },
-    {
-     "id": "c1",
-     "lane": 1,
-     "label": "Readiness engine",
-     "hot": true
-    },
-    {
-     "id": "c2",
-     "lane": 1,
-     "label": "Solver tournament",
-     "hot": false
-    },
-    {
-     "id": "d1",
-     "lane": 2,
-     "label": "Solver-as-a-service",
-     "hot": false
-    },
-    {
-     "id": "d2",
-     "lane": 2,
-     "label": "PQC program",
-     "hot": false
-    },
-    {
-     "id": "t1",
-     "lane": 3,
-     "label": "Evidence packs",
-     "hot": false
-    },
-    {
-     "id": "t2",
-     "lane": 3,
-     "label": "NIST PQC alignment",
-     "hot": false
-    }
-   ],
-   "edges": [
-    {
-     "a": "in1",
-     "b": "c1"
-    },
-    {
-     "a": "in2",
-     "b": "c1"
-    },
-    {
-     "a": "c1",
-     "b": "c2"
-    },
-    {
-     "a": "c1",
-     "b": "d1"
-    },
-    {
-     "a": "c2",
-     "b": "d2"
-    },
-    {
-     "a": "d1",
-     "b": "t1"
-    },
-    {
-     "a": "d2",
-     "b": "t2"
-    }
-   ],
-   "note": "Modules are the platform's named components; trust lane is what the audit reads."
-  },
-  {
    "t": "h2",
-   "x": "Built for the auditors too"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Quanta's PQC work aligns to NIST FIPS 203/204/205 with crypto-agility architectures that make future transitions configuration events. All benchmarks publish methodology and baselines — your quantum narrative survives diligence because it is true."
+   "x": "The platform runs on cloud or on-premise infrastructure and integrates with displays, kiosks and announcement systems. Queue data stays within the deployment; analytics dashboards serve operations managers with role-based access."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "NIST PQC alignment",
-     "ML-KEM/ML-DSA/SLH-DSA programs"
+     "Hardware integrations",
+     "Displays, kiosks and audio announcements supported"
     ],
     [
-     "Published benchmarks",
-     "methodology and baselines disclosed"
+     "On-premise option",
+     "Data stays on site where policy requires it"
     ],
     [
-     "Crypto-agility",
-     "algorithm swaps as configuration"
+     "Role-based dashboards",
+     "Managers see operations, staff see their counters"
     ],
     [
-     "Verdict discipline",
-     "advantage/parity/no-advantage documented"
+     "Ops analytics",
+     "Queue patterns reported and exportable"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "The deployment footprint"
+   "x": "Who runs it"
   },
   {
    "t": "p",
-   "x": "Token Management System runs under NDA in Banking & Financial Services, Energy & Utilities, Logistics & Supply Chain, Manufacturing & Industrial, Healthcare & Life Sciences. Deployments stay private; the architecture and control packs are the part we can show."
-  },
-  {
-   "t": "h2",
-   "x": "The technology choices, justified"
-  },
-  {
-   "t": "p",
-   "x": "Connects to: Qiskit, PennyLane, Gurobi/CP-SAT, Slurm, CUDA, CBOM tooling. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+   "x": "Hospital OPDs, bank branches, government service centers and telecom retail halls, anywhere footfall outruns counter capacity at predictable hours."
   },
   {
    "t": "cta",
-   "x": "If Token Management System is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
+   "x": "Book a briefing with the queue team. Bring your footfall pattern and we will show the wait-time curve it would produce."
   }
  ],
- "words": 314,
+ "words": 326,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Token Management System",
@@ -219,39 +112,19 @@
  ],
  "related": [
   {
-   "title": "Token Management System — Overview",
+   "title": "Token Management System",
    "url": "/platforms/token-management/",
-   "desc": "Quantum & Advanced Compute Suite"
+   "desc": "AI-led token and queue management for service halls — queues visible, predictabl"
   },
   {
-   "title": "Token Management System — Architecture & Trust",
+   "title": "Token Management System — Architecture & Security",
    "url": "/platforms/token-management/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Token Management System — Industry Use Cases",
    "url": "/platforms/token-management/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A European specialty reinsurer",
-   "url": "/case-studies/ins-03/",
-   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
-  },
-  {
-   "title": "A European biopharma group",
-   "url": "/case-studies/hc-03/",
-   "desc": "Trial eligibility matching at 10x — enrollment windows met"
-  },
-  {
-   "title": "A global integrated energy major",
-   "url": "/case-studies/en-02/",
-   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale"
-  },
-  {
-   "title": "A container-terminal operator",
-   "url": "/case-studies/log-02/",
-   "desc": "Berth productivity +16% — planning platform and crane health sensing"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

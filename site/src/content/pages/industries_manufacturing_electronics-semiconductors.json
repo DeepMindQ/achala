@@ -327,13 +327,13 @@
    "title": "Applied AI & GenAI for Electronics & Semiconductors",
    "url": "/industries/manufacturing/electronics-semiconductors/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for Electronics & Semiconductors",
    "url": "/industries/manufacturing/electronics-semiconductors/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Electronics & Semiconductors",
@@ -345,13 +345,13 @@
    "title": "Quantum & Advanced Compute for Electronics & Semiconductors",
    "url": "/industries/manufacturing/electronics-semiconductors/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "IoT, Twin & Robotics for Electronics & Semiconductors",
    "url": "/industries/manufacturing/electronics-semiconductors/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

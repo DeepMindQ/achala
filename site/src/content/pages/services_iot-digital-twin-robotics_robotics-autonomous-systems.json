@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Robot fleets with safety cases: autonomy bounded by signed envelopes, incident-ready telemetry on every platform, utilization measured honestly including blocked time — and dock congestion engineered away instead of normalized."
+   "x": "Robot fleets with safety cases: autonomy bounded by signed envelopes, incident-ready telemetry on every platform, utilization measured honestly including blocked time, and dock congestion engineered away instead of normalized."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   },
   {
    "t": "p",
-   "x": "The discipline borrows from aviation: pre-flight checks, briefed missions, reported deviations, and a no-blame debrief that updates the fleet's playbooks. Utilization is measured honestly — busy, blocked, charging, down — because a robot stuck at a dock is not utilization, it is an incident signal."
+   "x": "The discipline borrows from aviation: pre-flight checks, briefed missions, reported deviations, and a no-blame debrief that updates the fleet's playbooks. Utilization is measured honestly, busy, blocked, charging, down, because a robot stuck at a dock is not utilization, it is an incident signal."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these shows up as an incident, a utilization number nobody believes, or both — the countermeasures bound autonomy by evidence and measure the fleet as it actually runs."
+   "x": "Every one of these shows up as an incident, a utilization number nobody believes, or both, the countermeasures bound autonomy by evidence and measure the fleet as it actually runs."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Autonomy levels are signed per zone and task with envelope monitors enforcing them in real time, telemetry is incident-ready by design, fleet orchestration manages dock and corridor contention, and integration friction with WMS and PLCs is a scoped contract — not a surprise."
+   "x": "Autonomy levels are signed per zone and task with envelope monitors enforcing them in real time, telemetry is incident-ready by design, fleet orchestration manages dock and corridor contention, and integration friction with WMS and PLCs is a scoped contract, not a surprise."
   },
   {
    "t": "arch",
@@ -294,7 +294,7 @@
   },
   {
    "t": "p",
-   "x": "From mission assignment through path planning, envelope checks, the dock and corridor contention and completion — including the violation path and what the fleet does when a platform breaches its envelope."
+   "x": "From mission assignment through path planning, envelope checks, the dock and corridor contention and completion, including the violation path and what the fleet does when a platform breaches its envelope."
   },
   {
    "t": "diagram",
@@ -318,7 +318,7 @@
   },
   {
    "t": "p",
-   "x": "Busy utilization, blocked time and envelope violations — the three numbers that run the fleet, with blocked time reported beside busy time because flattery is how fleets hide their real capacity."
+   "x": "Busy utilization, blocked time and envelope violations, the three numbers that run the fleet, with blocked time reported beside busy time because flattery is how fleets hide their real capacity."
   },
   {
    "t": "idash",
@@ -644,7 +644,7 @@
   },
   {
    "t": "p",
-   "x": "Busy and blocked shares across shifts and zones — the shape that shows where congestion lives, which zones need re-layout and what the fleet's honest capacity actually is."
+   "x": "Busy and blocked shares across shifts and zones, the shape that shows where congestion lives, which zones need re-layout and what the fleet's honest capacity actually is."
   },
   {
    "t": "chart",
@@ -1166,27 +1166,27 @@
     [
      "Missions",
      "Bounded envelopes from the safety case",
-     "Free-autonomy demos — the safety case is fiction"
+     "Free-autonomy demos, the safety case is fiction"
     ],
     [
      "Telemetry",
      "Full mission replay with frames",
-     "Status pings only — incidents stay mysteries"
+     "Status pings only, incidents stay mysteries"
     ],
     [
      "Integration",
      "Mission-API contracts with plant systems",
-     "Screen-scraping MES — exceptions surprise everyone"
+     "Screen-scraping MES, exceptions surprise everyone"
     ],
     [
      "Scheduling",
      "Charge logistics as a resource",
-     "Ad-hoc charging — docks strangle shifts"
+     "Ad-hoc charging, docks strangle shifts"
     ],
     [
      "Ops loop",
      "Pre-flight + no-blame debrief",
-     "Hero operations — lessons live in one person"
+     "Hero operations, lessons live in one person"
     ]
    ]
   },
@@ -1340,7 +1340,7 @@
   },
   {
    "t": "p",
-   "x": "The safety case is a living document: envelope expansions require evidence from clean telemetry hours, incidents feed the case as findings, and the signed autonomy level per zone is visible on the floor — not buried in a vendor folder."
+   "x": "The safety case is a living document: envelope expansions require evidence from clean telemetry hours, incidents feed the case as findings, and the signed autonomy level per zone is visible on the floor, not buried in a vendor folder."
   },
   {
    "t": "bullets",
@@ -1365,22 +1365,22 @@
   },
   {
    "t": "note",
-   "x": "Incident telemetry is designed before the first deployment: every platform streams the signals an investigation will ask for — because incident blindness is discovered during the incident, which is the worst possible discovery context."
+   "x": "Incident telemetry is designed before the first deployment: every platform streams the signals an investigation will ask for, because incident blindness is discovered during the incident, which is the worst possible discovery context."
   },
   {
    "t": "h2",
    "x": "Autonomy is granted by the safety case",
-   "sub": "Bounded autonomy, physical interlocks and state-honest utilization — robotics as governed operations",
+   "sub": "Bounded autonomy, physical interlocks and state-honest utilization, robotics as governed operations",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Robot programs fail safety-first or theater-first: either autonomy outruns the safety case (the incident waiting for a shift change) or the robots are confined to choreography that proves nothing. The governed middle is bounded autonomy — geofenced zones, envelope-checked missions (every mission validated against speed, load and zone bounds before execution), physical interlocks that are hardware rather than software suggestions, and a documented safety case that is the actual authority: autonomy expands only when the case is rehearsed and signed for the new envelope.",
+   "x": "Robot programs fail safety-first or theater-first: either autonomy outruns the safety case (the incident waiting for a shift change) or the robots are confined to choreography that proves nothing. The governed middle is bounded autonomy, geofenced zones, envelope-checked missions (every mission validated against speed, load and zone bounds before execution), physical interlocks that are hardware rather than software suggestions, and a documented safety case that is the actual authority: autonomy expands only when the case is rehearsed and signed for the new envelope.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Operations run on honest telemetry: mission telemetry records every run, utilization is state-honest (busy, blocked, idle measured from missions, not calendars — a robot waiting on a human checkpoint is blocked, and the blockage cause drives the layout fix), and the console reads blocking causes per shift. The release gate before floor deployment is a rehearsed incident path — what happens when the fleet sees an unmapped obstacle, and who commands the stop — because autonomy without an incident path is liability with wheels.",
+   "x": "Operations run on honest telemetry: mission telemetry records every run, utilization is state-honest (busy, blocked, idle measured from missions, not calendars, a robot waiting on a human checkpoint is blocked, and the blockage cause drives the layout fix), and the console reads blocking causes per shift. The release gate before floor deployment is a rehearsed incident path, what happens when the fleet sees an unmapped obstacle, and who commands the stop, because autonomy without an incident path is liability with wheels.",
    "phase3_deep": true
   },
   {
@@ -1410,7 +1410,7 @@
    "items": [
     [
      "What does \"autonomy is granted by the safety case\" mean?",
-     "The robot does what the safety case proves it can do: envelope checks, zone limits and incident drills define the autonomy boundary per zone, and the gates grant deployment against that evidence — not the vendor’s brochure."
+     "The robot does what the safety case proves it can do: envelope checks, zone limits and incident drills define the autonomy boundary per zone, and the gates grant deployment against that evidence, not the vendor’s brochure."
     ],
     [
      "How do you integrate robots with existing WMS and PLCs?",
@@ -1422,17 +1422,17 @@
     ],
     [
      "How is fleet utilization measured honestly?",
-     "Busy, charging and blocked are measured states: blocked carries its cause, charging is scheduled per shift, and the console headlines the honest number — theater fleets count scheduled time as work."
+     "Busy, charging and blocked are measured states: blocked carries its cause, charging is scheduled per shift, and the console headlines the honest number, theater fleets count scheduled time as work."
     ],
     [
      "What do operations and safety inherit?",
-     "The orchestration plane, the console, the gates and the safety-case overlay — autonomy that stays bounded, with the drills and envelopes that keep it bounded as zones change."
+     "The orchestration plane, the console, the gates and the safety-case overlay, autonomy that stays bounded, with the drills and envelopes that keep it bounded as zones change."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask who signed the autonomy level for your busiest robot zone — and when it was last re-validated. The diagnostic will wire envelope monitors and honest utilization before the fleet grows."
+   "x": "Ask who signed the autonomy level for your busiest robot zone, and when it was last re-validated. The diagnostic will wire envelope monitors and honest utilization before the fleet grows."
   }
  ],
  "words": 1008,
@@ -1517,31 +1517,31 @@
    "title": "Smart Infrastructure, Buildings & Cities",
    "url": "/services/iot-digital-twin-robotics/smart-infrastructure/",
    "tag": "Same domain",
-   "desc": "city and utility scale on the same disciplines — segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
+   "desc": "city and utility scale on the same disciplines, segmented SCADA-safe architectures, service-continuity SLOs, and privacy-first public data."
   },
   {
    "title": "Computer Vision & Edge AI",
    "url": "/services/iot-digital-twin-robotics/computer-vision-edge-ai/",
    "tag": "Same domain",
-   "desc": "inference at the edge with model ops — constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
+   "desc": "inference at the edge with model ops, constrained-hardware deployment, drift monitors on live feeds, and a hard rule that models never bypass interlocks."
   },
   {
    "title": "Connected Products & Smart Devices",
    "url": "/services/iot-digital-twin-robotics/connected-products-devices/",
    "tag": "Same domain",
-   "desc": "product fleets in the field — OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
+   "desc": "product fleets in the field, OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Pairs with",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Pairs with",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "Agentic Process Automation",
@@ -1553,7 +1553,7 @@
    "title": "A specialty chemicals producer",
    "url": "/case-studies/mfg-02/",
    "tag": "Evidence",
-   "desc": "Yield +3.4 points and energy per tonne down 17% — APC augmentation program."
+   "desc": "Yield +3.4 points and energy per tonne down 17%, APC augmentation program."
   }
  ],
  "evidence": [

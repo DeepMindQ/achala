@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets — which is why settlement cycles and model confidence suffer. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets, which is why settlement cycles and model confidence suffer. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Reinsurance & Commercial Lines, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Reinsurance & Commercial Lines, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 405,
@@ -327,13 +327,13 @@
    "title": "Applied AI & GenAI for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Reinsurance & Commercial Lines",
@@ -345,13 +345,13 @@
    "title": "Quantum & Advanced Compute for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Blockchain & Digital Trust for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

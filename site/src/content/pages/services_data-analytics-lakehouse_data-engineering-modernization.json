@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Legacy pipelines rebuilt as typed, contract-gated, observable jobs — moved on a strangler pattern that retires the old estate in waves, with dual-run diffs proving parity before every retirement."
+   "x": "Legacy pipelines rebuilt as typed, contract-gated, observable jobs, moved on a strangler pattern that retires the old estate in waves, with dual-run diffs proving parity before every retirement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Legacy data estates fail the same way: undocumented transformations, silent schema drift, weekend crashes with tribal fixes. Modernization is not lifting jobs into the cloud; it is re-contracting them — typed inputs, tested transforms, observable runs, and an owner per pipeline — while the old estate keeps serving under a strangler plan."
+   "x": "Legacy data estates fail the same way: undocumented transformations, silent schema drift, weekend crashes with tribal fixes. Modernization is not lifting jobs into the cloud; it is re-contracting them, typed inputs, tested transforms, observable runs, and an owner per pipeline, while the old estate keeps serving under a strangler plan."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these is organizational gravity — the countermeasures make parity provable and retirement contractual, so the old estate cannot quietly survive."
+   "x": "Each of these is organizational gravity, the countermeasures make parity provable and retirement contractual, so the old estate cannot quietly survive."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Dual-run is the spine: new pipelines run beside old ones with automated diffs, consumers shift by contract, and retirement happens only when diffs are clean and consumers are moved — never on a calendar promise."
+   "x": "Dual-run is the spine: new pipelines run beside old ones with automated diffs, consumers shift by contract, and retirement happens only when diffs are clean and consumers are moved, never on a calendar promise."
   },
   {
    "t": "arch",
@@ -291,7 +291,7 @@
   },
   {
    "t": "p",
-   "x": "From logic archaeology through contract extraction, dual-run with diffs, consumer shift and the retirement checklist — including where hidden consumers are caught before they break."
+   "x": "From logic archaeology through contract extraction, dual-run with diffs, consumer shift and the retirement checklist, including where hidden consumers are caught before they break."
   },
   {
    "t": "diagram",
@@ -315,7 +315,7 @@
   },
   {
    "t": "p",
-   "x": "Pipelines migrated, diff mismatches, consumers shifted and legacy retirements — four numbers that show whether the program is moving work or moving PowerPoints."
+   "x": "Pipelines migrated, diff mismatches, consumers shifted and legacy retirements, four numbers that show whether the program is moving work or moving PowerPoints."
   },
   {
    "t": "idash",
@@ -653,7 +653,7 @@
   },
   {
    "t": "p",
-   "x": "Cost of running both estates across the migration — the honest curve that shows the temporary premium, where it peaks, and the retirement milestones that bring it down."
+   "x": "Cost of running both estates across the migration, the honest curve that shows the temporary premium, where it peaks, and the retirement milestones that bring it down."
   },
   {
    "t": "chart",
@@ -1236,27 +1236,27 @@
     [
      "Orchestration",
      "Typed DAG orchestrator with data-quality gates",
-     "Keeping the legacy scheduler — it is the failure surface being replaced"
+     "Keeping the legacy scheduler, it is the failure surface being replaced"
     ],
     [
      "Behavior capture",
      "Pair-tap with automated output diffing",
-     "Rewriting from memory — the silent features get lost"
+     "Rewriting from memory, the silent features get lost"
     ],
     [
      "Transforms",
      "Versioned SQL/Spark with unit tests",
-     "Copy-paste legacy logic — it carries the bugs forward"
+     "Copy-paste legacy logic, it carries the bugs forward"
     ],
     [
      "Consumer shift",
      "Traffic shifter per consumer with rollback",
-     "All-at-once cutover per domain — one bad weekend defines the program"
+     "All-at-once cutover per domain, one bad weekend defines the program"
     ],
     [
      "Retirement",
      "Evidence-gated decommission with cost ledger",
-     "Legacy-left-running 'temporarily' — it runs forever at full cost"
+     "Legacy-left-running 'temporarily', it runs forever at full cost"
     ]
    ]
   },
@@ -1410,7 +1410,7 @@
   },
   {
    "t": "p",
-   "x": "Every wave carries its diff evidence, consumer sign-offs and retirement records — the program's audit trail is built as it runs, not reconstructed at the end."
+   "x": "Every wave carries its diff evidence, consumer sign-offs and retirement records, the program's audit trail is built as it runs, not reconstructed at the end."
   },
   {
    "t": "bullets",
@@ -1429,7 +1429,7 @@
     ],
     [
      "Legacy lock",
-     "Legacy jobs freeze after retirement vote — no emergency edits"
+     "Legacy jobs freeze after retirement vote, no emergency edits"
     ]
    ]
   },
@@ -1440,17 +1440,17 @@
   {
    "t": "h2",
    "x": "Parity is the deliverable; retirement is the proof",
-   "sub": "Behavior capture, dual-run comparators and the retirement gate — modernization as evidence",
+   "sub": "Behavior capture, dual-run comparators and the retirement gate, modernization as evidence",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Pipeline migrations fail because behavior is undocumented: the legacy job encodes twenty years of quirks nobody wrote down, and the rewrite is 'correct' against a spec that never existed. The discipline captures behavior first — output taps on the legacy pipeline record real outputs across calendar edges (month-end, quarter-end, leap days), and the edge cases become the test corpus. The typed rewrite then runs dual against the legacy with comparators gating every promotion: parity diffs on rows, counts and distributions, with discrepancies adjudicated explicitly (bug fix or migration error — decided, logged and signed).",
+   "x": "Pipeline migrations fail because behavior is undocumented: the legacy job encodes twenty years of quirks nobody wrote down, and the rewrite is 'correct' against a spec that never existed. The discipline captures behavior first, output taps on the legacy pipeline record real outputs across calendar edges (month-end, quarter-end, leap days), and the edge cases become the test corpus. The typed rewrite then runs dual against the legacy with comparators gating every promotion: parity diffs on rows, counts and distributions, with discrepancies adjudicated explicitly (bug fix or migration error, decided, logged and signed).",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The traffic shifter moves consumers gradually and reversibly, and the retirement gate closes each wave: a legacy pipeline dies when its consumer count reaches zero and parity held for the agreed window. The console reads dual-run economics — what parity costs, what the new estate saves — because the program is an investment decision that happens to involve code.",
+   "x": "The traffic shifter moves consumers gradually and reversibly, and the retirement gate closes each wave: a legacy pipeline dies when its consumer count reaches zero and parity held for the agreed window. The console reads dual-run economics, what parity costs, what the new estate saves, because the program is an investment decision that happens to involve code.",
    "phase3_deep": true
   },
   {
@@ -1470,7 +1470,7 @@
     ],
     [
      "Retirement gate",
-     "Consumer count zero plus parity window — then the legacy dies."
+     "Consumer count zero plus parity window, then the legacy dies."
     ]
    ],
    "phase3_deep": true
@@ -1492,17 +1492,17 @@
     ],
     [
      "How do consumers stop rebuilding on the old estate?",
-     "Consumer management is the program: each retirement names its consumers, and the gate requires their sign-off — new work on the old estate is blocked by policy the moment a pipeline enters migration scope."
+     "Consumer management is the program: each retirement names its consumers, and the gate requires their sign-off, new work on the old estate is blocked by policy the moment a pipeline enters migration scope."
     ],
     [
      "What does the platform team inherit?",
-     "The modern estate, the audit trail across both estates, the console with parity history and the retirement ledger — plus the discipline: parity is the deliverable, retirement is the proof."
+     "The modern estate, the audit trail across both estates, the console with parity history and the retirement ledger, plus the discipline: parity is the deliverable, retirement is the proof."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the pipeline nobody dares touch. The diagnostic will price its move with dual-run diffs included — and tell you what retirement would actually require."
+   "x": "Bring the pipeline nobody dares touch. The diagnostic will price its move with dual-run diffs included, and tell you what retirement would actually require."
   }
  ],
  "words": 1036,
@@ -1587,43 +1587,43 @@
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Same domain",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Same domain",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Same domain",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Pairs with",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "Decision Intelligence Systems",
    "url": "/services/agentic-ai-hyperautomation/decision-intelligence-systems/",
    "tag": "Pairs with",
-   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs — decisions you can defend to a regulator, not just scores in a dashboard."
+   "desc": "decision models wrapped in policy bounds, challenger benchmarks and explainable outputs, decisions you can defend to a regulator, not just scores in a dashboard."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Pairs with",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "A top-10 European retail bank",
    "url": "/case-studies/bank-01/",
    "tag": "Evidence",
-   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate."
+   "desc": "Real-time fraud decisioning on instant rails, 38% lower fraud losses at a higher approval rate."
   }
  ],
  "evidence": [

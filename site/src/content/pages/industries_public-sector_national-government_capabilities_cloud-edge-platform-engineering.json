@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against agency silos persist in National Government & Digital Services: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Cloud, Edge & Platform against agency silos persist in National Government & Digital Services: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
   },
   {
    "t": "p",
-   "x": "Setting the Cloud, Edge & Platform scene in National Government & Digital Services: National digital government builds shared rails — identity, data exchange, notification, payments — and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
+   "x": "Setting the Cloud, Edge & Platform scene in National Government & Digital Services: National digital government builds shared rails, identity, data exchange, notification, payments, and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In National Government & Digital Services, the pattern is accredited platform — landing zones with continuous evidence. Onboarding weeks sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "In National Government & Digital Services, the pattern is accredited platform, landing zones with continuous evidence. Onboarding weeks sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. agency silos persist gets a number, an owner and a signature; the quarter belongs to a bounded slice — Accredited platform — live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The first two weeks belong to the baseline. agency silos persist gets a number, an owner and a signature; the quarter belongs to a bounded slice, Accredited platform, live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in National Government & Digital Services: GDPR/national privacy — citizen data duties; EU AI Act — public AI duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in National Government & Digital Services: GDPR/national privacy, citizen data duties; EU AI Act, public AI duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cloud, Edge & Platform for National Government & Digital Services to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cloud, Edge & Platform for National Government & Digital Services to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 461,

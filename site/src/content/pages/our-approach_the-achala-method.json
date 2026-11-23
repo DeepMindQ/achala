@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Five phases, each with named gates — engineered to convert strategy into audited production outcomes."
+   "x": "Five phases, each with named gates, engineered to convert strategy into audited production outcomes."
   },
   {
    "t": "p",
-   "x": "The Method exists to prevent the classic failure mode: strategy decks that never survive contact with production. Each phase ends at a named gate with named signatories — finance, risk, operations."
+   "x": "The Method exists to prevent the classic failure mode: strategy decks that never survive contact with production. Each phase ends at a named gate with named signatories, finance, risk, operations."
   },
   {
    "t": "h2",
@@ -41,7 +41,7 @@
     [
      "Prove",
      "PoC with falsifiable criteria on client data; adoption probe with the operating team; production-path sketch with run-cost model.",
-     "Gate: value memo — go, redirect or stop with documented evidence."
+     "Gate: value memo, go, redirect or stop with documented evidence."
     ],
     [
      "Industrialize",
@@ -61,7 +61,7 @@
   },
   {
    "t": "p",
-   "x": "Gates convert enthusiasm into evidence. A program cannot enter Industrialize without a value memo; cannot claim Compound without an annual audit against the original baseline. The gates are the reason roughly one in three PoCs ends with a documented stop — and why the rest scale with confidence."
+   "x": "Gates convert enthusiasm into evidence. A program cannot enter Industrialize without a value memo; cannot claim Compound without an annual audit against the original baseline. The gates are the reason roughly one in three PoCs ends with a documented stop, and why the rest scale with confidence."
   },
   {
    "t": "h2",
@@ -76,11 +76,11 @@
     ],
     [
      "A top-3 grocery retailer (800+ stores)",
-     "The measured delta and the method note are written up on the case page — anonymized by agreement, baseline audited."
+     "The measured delta and the method note are written up on the case page, anonymized by agreement, baseline audited."
     ],
     [
      "A global integrated energy major",
-     "The measured delta and the method note are written up on the case page — anonymized by agreement, baseline audited."
+     "The measured delta and the method note are written up on the case page, anonymized by agreement, baseline audited."
     ]
    ]
   },
@@ -90,7 +90,7 @@
   },
   {
    "t": "cta",
-   "x": "The briefing is a working review of your current program against this method — gates, evidence and where yours would stop."
+   "x": "The briefing is a working review of your current program against this method, gates, evidence and where yours would stop."
   }
  ],
  "words": 332,

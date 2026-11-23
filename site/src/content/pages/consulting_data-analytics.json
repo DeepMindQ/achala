@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data Analytics & Decision Products: From dashboards people tolerate to decisions people trust. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Data Analytics & Decision Products: From dashboards people tolerate to decisions people trust. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "Most analytics estates produce dashboards and call it insight. We build the layer beneath: certified metric definitions with owners, semantic models that answer questions the same way every time, and decision products that push the answer into the workflow where the decision happens. Analysis is engineered for reuse — one governed definition per metric, tested like code, served wherever it is needed."
+   "x": "Most analytics estates produce dashboards and call it insight. We build the layer beneath: certified metric definitions with owners, semantic models that answer questions the same way every time, and decision products that push the answer into the workflow where the decision happens. Analysis is engineered for reuse, one governed definition per metric, tested like code, served wherever it is needed."
   },
   {
    "t": "p",
-   "x": "The analytics stack we deliver spans executive reporting, embedded analytics in product surfaces, and the feature stores that feed real-time models — all on one governance fabric, so the number in the board deck, the number in the app, and the number in the model agree."
+   "x": "The analytics stack we deliver spans executive reporting, embedded analytics in product surfaces, and the feature stores that feed real-time models, all on one governance fabric, so the number in the board deck, the number in the app, and the number in the model agree."
   },
   {
    "t": "h2",
@@ -207,11 +207,11 @@
   },
   {
    "t": "p",
-   "x": "Data Analytics & Decision Products — the concrete version, minus the adjectives:"
+   "x": "Data Analytics & Decision Products, the concrete version, minus the adjectives:"
   },
   {
    "t": "cta",
-   "x": "Book a Data Analytics & Decision Products briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Data Analytics & Decision Products briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 335,

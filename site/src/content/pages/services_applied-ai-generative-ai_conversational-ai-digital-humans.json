@@ -14,11 +14,11 @@
   {
    "t": "h2",
    "x": "Containment and trust are one metric, not two",
-   "sub": "Measured as a pair per intent family — divergence triggers policy rework, not threshold moves"
+   "sub": "Measured as a pair per intent family, divergence triggers policy rework, not threshold moves"
   },
   {
    "t": "p",
-   "x": "Conversational systems are judged on containment and trust at the same time: resolve more without human help, and never strand a customer mid-issue. The build is dialogue design, retrieval grounding, handoff choreography and voice engineering — with the metrics wired before the first transcript."
+   "x": "Conversational systems are judged on containment and trust at the same time: resolve more without human help, and never strand a customer mid-issue. The build is dialogue design, retrieval grounding, handoff choreography and voice engineering, with the metrics wired before the first transcript."
   },
   {
    "t": "p",
@@ -31,11 +31,11 @@
   {
    "t": "h2",
    "x": "Stonewalling to unowned drift — how containment inflates as trust dies",
-   "sub": "Stonewalling, ghost transfers, guard theater and unowned drift — with shipped countermeasures"
+   "sub": "Stonewalling, ghost transfers, guard theater and unowned drift, with shipped countermeasures"
   },
   {
    "t": "p",
-   "x": "Each of these produces a dashboard that looks great in the monthly review and a customer base that quietly stops using the channel — the countermeasures target the trust side of the ledger."
+   "x": "Each of these produces a dashboard that looks great in the monthly review and a customer base that quietly stops using the channel, the countermeasures target the trust side of the ledger."
   },
   {
    "t": "table",
@@ -301,7 +301,7 @@
   },
   {
    "t": "p",
-   "x": "From greeting through intent and grounding to resolution or handoff — with the guard interventions, the emotion-aware escalation triggers and the timeout paths marked where they actually fire."
+   "x": "From greeting through intent and grounding to resolution or handoff, with the guard interventions, the emotion-aware escalation triggers and the timeout paths marked where they actually fire."
   },
   {
    "t": "diagram",
@@ -325,7 +325,7 @@
   },
   {
    "t": "p",
-   "x": "Containment next to CSAT, recontact within seven days next to voice latency, guard interventions next to volume — pairs, not solo metrics, because every one of them is a trade."
+   "x": "Containment next to CSAT, recontact within seven days next to voice latency, guard interventions next to volume, pairs, not solo metrics, because every one of them is a trade."
   },
   {
    "t": "idash",
@@ -1181,27 +1181,27 @@
     [
      "Grounding",
      "Same RAG spine as knowledge domain, scoped per channel",
-     "Un-grounded generation on policy topics — permanently barred"
+     "Un-grounded generation on policy topics, permanently barred"
     ],
     [
      "Voice",
      "Streaming ASR → LLM → neural TTS with barge-in",
-     "Cascaded non-streaming stack — it fails the latency budget on cellular"
+     "Cascaded non-streaming stack, it fails the latency budget on cellular"
     ],
     [
      "Guardrails",
      "Topic, PII and advisability guards per jurisdiction",
-     "Global one-size guard config — jurisdictions differ and audits notice"
+     "Global one-size guard config, jurisdictions differ and audits notice"
     ],
     [
      "Handoff",
      "Skill-based routing with context packs",
-     "Blind transfer to generic queues — it wastes the automation's work"
+     "Blind transfer to generic queues, it wastes the automation's work"
     ],
     [
      "Analytics",
      "Transcript-level eval with intent-family scorecards",
-     "Only aggregate CSAT — it hides exactly the intents that need work"
+     "Only aggregate CSAT, it hides exactly the intents that need work"
     ]
    ]
   },
@@ -1283,7 +1283,7 @@
   {
    "t": "h2",
    "x": "Voice first or chat first — the channel sequencing logic",
-   "sub": "Voice first or chat first — the sequencing logic"
+   "sub": "Voice first or chat first, the sequencing logic"
   },
   {
    "t": "bullets",
@@ -1355,7 +1355,7 @@
   },
   {
    "t": "p",
-   "x": "Dialog traces are retained with consent state, guard decisions and handoff context attached — the audit path a communications regulator would ask for, already assembled."
+   "x": "Dialog traces are retained with consent state, guard decisions and handoff context attached, the audit path a communications regulator would ask for, already assembled."
   },
   {
    "t": "bullets",
@@ -1380,22 +1380,22 @@
   },
   {
    "t": "note",
-   "x": "Every guard intervention is reviewable as a transcript pair — the turn attempted and the grounded alternative served — so policy tuning is evidence-led, not anecdote-led."
+   "x": "Every guard intervention is reviewable as a transcript pair, the turn attempted and the grounded alternative served, so policy tuning is evidence-led, not anecdote-led."
   },
   {
    "t": "h2",
    "x": "Escalation is the moment the product is judged",
-   "sub": "Dignified handoff design — what the human sees, and why containment without it is a churn machine",
+   "sub": "Dignified handoff design, what the human sees, and why containment without it is a churn machine",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Containment numbers collapse in board reviews because they hide the escalation: a session the bot 'contained' but the customer experienced as stonewalling shows up later as churn, complaint volume and agent handle-time inflation. We therefore design the handoff as a first-class surface — the agent desktop receives the transcript, the detected intent, the customer's history and the bot's confidence, and the dialog policy chooses the handoff wording, never dumping the customer into a queue with 'transfer' as the last message. Containment and CSAT are measured as a pair per intent family; a family that gains containment while losing CSAT gets its policy rewritten, not its threshold raised.",
+   "x": "Containment numbers collapse in board reviews because they hide the escalation: a session the bot 'contained' but the customer experienced as stonewalling shows up later as churn, complaint volume and agent handle-time inflation. We therefore design the handoff as a first-class surface, the agent desktop receives the transcript, the detected intent, the customer's history and the bot's confidence, and the dialog policy chooses the handoff wording, never dumping the customer into a queue with 'transfer' as the last message. Containment and CSAT are measured as a pair per intent family; a family that gains containment while losing CSAT gets its policy rewritten, not its threshold raised.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The guard chain runs before generation: topic bounds, PII filters and injection defenses are pre-generation filters, not post-hoc apologies. Barge-in and VAD tuning are treated as first-class engineering — voice containment dies at double-detection latency — and the dialog eval suite replays real transcript samples every release, because dialog quality drifts with every prompt edit.",
+   "x": "The guard chain runs before generation: topic bounds, PII filters and injection defenses are pre-generation filters, not post-hoc apologies. Barge-in and VAD tuning are treated as first-class engineering, voice containment dies at double-detection latency, and the dialog eval suite replays real transcript samples every release, because dialog quality drifts with every prompt edit.",
    "phase3_deep": true
   },
   {
@@ -1403,7 +1403,7 @@
    "items": [
     [
      "Dignified handoff by design",
-     "Transcript, intent, history and confidence reach the human — never a bare transfer."
+     "Transcript, intent, history and confidence reach the human, never a bare transfer."
     ],
     [
      "Containment × CSAT, paired",
@@ -1425,15 +1425,15 @@
    "items": [
     [
      "How do you stop the bot from stonewalling customers?",
-     "Every intent family carries a containment band signed with the contact-center owner; when containment pushes above band while CSAT drops, policy rework is triggered — divergence between the two numbers is the alarm, not a success."
+     "Every intent family carries a containment band signed with the contact-center owner; when containment pushes above band while CSAT drops, policy rework is triggered, divergence between the two numbers is the alarm, not a success."
     ],
     [
      "What does a dignified handoff actually look like?",
-     "The customer never repeats themselves: the handoff carries full context, the reason for escalation and the trace to the agent desktop. The human sees what was tried and why it failed — that is the product moment, engineered deliberately."
+     "The customer never repeats themselves: the handoff carries full context, the reason for escalation and the trace to the agent desktop. The human sees what was tried and why it failed, that is the product moment, engineered deliberately."
     ],
     [
      "Can the assistant answer from our regulated documents safely?",
-     "Yes — answers are grounded in retrieval with citations, and pre-generation guards refuse when retrieval cannot cite. The citation or the refusal is sealed in the trace for every answer."
+     "Yes, answers are grounded in retrieval with citations, and pre-generation guards refuse when retrieval cannot cite. The citation or the refusal is sealed in the trace for every answer."
     ],
     [
      "How is voice latency handled — customers hang up on robots?",
@@ -1447,7 +1447,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the intent family your contact center handles worst. The sprint will measure honest containment and the CSAT cost of chasing it — before you commit the channel."
+   "x": "Bring the intent family your contact center handles worst. The sprint will measure honest containment and the CSAT cost of chasing it, before you commit the channel."
   }
  ],
  "words": 1164,
@@ -1544,31 +1544,31 @@
    "title": "AI Proof-of-Concept & Value Validation",
    "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
    "tag": "Same domain",
-   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers — baseline first, real data path, no demo-ware."
+   "desc": "the four-week sprint that ends in a fund-or-kill verdict with auditable numbers, baseline first, real data path, no demo-ware."
   },
   {
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Pairs with",
-   "desc": "the contracted seams — ERP, CRM, ITSM, comms and queues — with typed contracts, replayable failures and monitors that catch drift before business users do."
+   "desc": "the contracted seams, ERP, CRM, ITSM, comms and queues, with typed contracts, replayable failures and monitors that catch drift before business users do."
   },
   {
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Pairs with",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Pairs with",
-   "desc": "per-request policy decisions on identity, device and context — network location stops being a privilege, and coverage is measured on the paths that matter."
+   "desc": "per-request policy decisions on identity, device and context, network location stops being a privilege, and coverage is measured on the paths that matter."
   },
   {
    "title": "A top-5 global P&C insurer",
    "url": "/case-studies/ins-01/",
    "tag": "Evidence",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence."
+   "desc": "Claims triage in minutes, 55% faster cycle times with document intelligence."
   }
  ],
  "evidence": [

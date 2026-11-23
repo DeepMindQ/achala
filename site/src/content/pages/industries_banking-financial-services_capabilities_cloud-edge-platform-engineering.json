@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform as we run it in Banking & Financial Services inverts the predictable failures — the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Cloud, Edge & Platform as we run it in Banking & Financial Services inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
   },
   {
    "t": "p",
-   "x": "Cloud, Edge & Platform in Banking & Financial Services: Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics — nobody can state cost per payment processed or per account opened."
+   "x": "Cloud, Edge & Platform in Banking & Financial Services: Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics, nobody can state cost per payment processed or per account opened."
   },
   {
    "t": "p",
-   "x": "One more Cloud, Edge & Platform reality in Banking & Financial Services: Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move — loss rate, straight-through rate, cycle time."
+   "x": "One more Cloud, Edge & Platform reality in Banking & Financial Services: Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Outcome-linked engagements put our fees next to the metric we move, loss rate, straight-through rate, cycle time."
   },
   {
    "t": "h2",
@@ -25,14 +25,14 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Banking & Financial Services edition:"
+   "x": "The places value leaks, Banking & Financial Services edition:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Core estate inertia",
-     "Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics — nobody can state cost per payment processed or per account opened."
+     "Mainframe-adjacent cores and change freezes make every product launch a negotiation. Meanwhile cloud spend grows without unit economics, nobody can state cost per payment processed or per account opened."
     ]
    ]
   },
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. core estate inertia is measured with your finance and risk leads in the room, then one working path — core-adjacent modernization — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. core estate inertia is measured with your finance and risk leads in the room, then one working path, core-adjacent modernization, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -217,26 +217,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Cloud, Edge & Platform for Banking & Financial Services — each page documents the build as delivered:"
+   "x": "Named services for Cloud, Edge & Platform for Banking & Financial Services, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },
@@ -324,19 +324,19 @@
    "title": "Cloud, Edge & Platform for Retail & Consumer Banking",
    "url": "/industries/banking-financial-services/retail-banking/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Corporate & Investment Banking",
    "url": "/industries/banking-financial-services/corporate-investment-banking/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Payments & Cards",
    "url": "/industries/banking-financial-services/payments-cards/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

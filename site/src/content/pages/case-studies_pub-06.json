@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Job matching rebuilt on a skills spine — placement rate up 18% and counselor caseload time redirected to the hard-to-place"
+   "x": "Job matching rebuilt on a skills spine, placement rate up 18% and counselor caseload time redirected to the hard-to-place"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — an employment agency matching people to vacancies by keyword while the labor market moved to skills. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, an employment agency matching people to vacancies by keyword while the labor market moved to skills. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline quarter measured the keyword gap: placement rate 22% below European peers, counselors spending 68% of caseload time on administratively easy matches, and the hard-to-place — career changers, gap resumes — effectively invisible to the keyword engine."
+   "x": "The baseline quarter measured the keyword gap: placement rate 22% below European peers, counselors spending 68% of caseload time on administratively easy matches, and the hard-to-place, career changers, gap resumes, effectively invisible to the keyword engine."
   },
   {
    "t": "p",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the skills spine: vacancy and candidate profiles normalized to one skills model with equivalences the agency's counselors curate, match rankings produced with the reasoning exposed — which skills, which gaps, which bridges — counselor queues ranked by need rather than ease, and outcome tracking scoring the matching continuously. The easy matches automated; the hard ones got the humans."
+   "x": "We built the skills spine: vacancy and candidate profiles normalized to one skills model with equivalences the agency's counselors curate, match rankings produced with the reasoning exposed, which skills, which gaps, which bridges, counselor queues ranked by need rather than ease, and outcome tracking scoring the matching continuously. The easy matches automated; the hard ones got the humans."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The exposed-reasoning pattern transfers to any matching workflow with fairness obligations; the skills equivalences were this agency's labor-market knowledge. Replication starts from its counselor council — the diagnostic writes the first equivalences with them."
+   "x": "The exposed-reasoning pattern transfers to any matching workflow with fairness obligations; the skills equivalences were this agency's labor-market knowledge. Replication starts from its counselor council, the diagnostic writes the first equivalences with them."
   },
   {
    "t": "table",

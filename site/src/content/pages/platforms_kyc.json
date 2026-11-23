@@ -1,15 +1,15 @@
 {
- "id": "PLT-swarm-ov",
+ "id": "PLT-kyc-ov",
  "title": "KYC Management System",
  "url": "/platforms/kyc/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > KYC Management System > Overview",
  "seo_title": "KYC Management System | Achala IT Solutions",
- "meta_description": "Hundreds of agents as one governed, measurable workforce.",
+ "meta_description": "KYC Management System verifies documents and identity in about 5 minutes — 60% faster than manual onboarding cycles.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Document verification and face recognition that onboard customers in 5 minutes — 60% faster than manual cycles."
+   "x": "Customer onboarding in about 5 minutes. KYC Management System combines document verification with face recognition to cut onboarding time by 60% against manual cycles."
   },
   {
    "t": "h2",
@@ -17,187 +17,80 @@
   },
   {
    "t": "p",
-   "x": "KYC Management System is the orchestration layer for agentic operations: role definitions, task queues and bidding, durable execution with saga compensation, policy envelopes (solo/approval/forbidden), per-team budgets, kill switches, and a control tower for fleet health, throughput and cost per completed task. Swarm treats agents as workforce, not scripts: onboarding with role specs, SLAs and budget; release management with shadow and canary cohorts; incident response with rollback. It runs our agentic process automation, digital workforce and workflow orchestration services under one accountable control plane."
+   "x": "KYC Management System takes an applicant from submission to verified customer: documents are read and checked automatically, identity is matched through face recognition, and questionable cases go to a review queue with everything the reviewer needs in one view."
   },
   {
    "t": "h2",
-   "x": "Inside the engagement"
+   "x": "What it does"
   },
   {
    "t": "p",
-   "x": "What ships, in the order it ships — KYC Management System edition:"
+   "x": "The platform's working capabilities:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Fleet control tower",
-     "health, throughput, cost and policy telemetry"
+     "Document verification",
+     "IDs and proofs read, validated and cross-checked automatically"
     ],
     [
-     "Role & queue engine",
-     "roles, bidding, priority lanes, SLA routing"
+     "Face recognition",
+     "Selfie-to-document identity match with liveness checks"
     ],
     [
-     "Policy engine",
-     "autonomy tiers routed to approvals"
+     "Review queue",
+     "Unclear cases routed to humans with full context attached"
     ],
     [
-     "Durable execution",
-     "saga patterns, compensation, idempotency"
-    ],
-    [
-     "Budget metering",
-     "per-team/role token and action chargeback"
-    ],
-    [
-     "Release machinery",
-     "shadow/canary cohorts with auto-rollback"
+     "Audit trail",
+     "Every verification step logged for regulators and audits"
     ]
    ]
   },
   {
-   "t": "arch",
-   "title": "KYC Management System — module topology",
-   "lanes": [
-    "Ingest",
-    "Core",
-    "Delivery",
-    "Trust"
-   ],
-   "nodes": [
-    {
-     "id": "in1",
-     "lane": 0,
-     "label": "Adapters & contracts",
-     "hot": false
-    },
-    {
-     "id": "in2",
-     "lane": 0,
-     "label": "Temporal",
-     "hot": false
-    },
-    {
-     "id": "c1",
-     "lane": 1,
-     "label": "Fleet control tower",
-     "hot": true
-    },
-    {
-     "id": "c2",
-     "lane": 1,
-     "label": "Role & queue engine",
-     "hot": false
-    },
-    {
-     "id": "d1",
-     "lane": 2,
-     "label": "Policy engine",
-     "hot": false
-    },
-    {
-     "id": "d2",
-     "lane": 2,
-     "label": "Durable execution",
-     "hot": false
-    },
-    {
-     "id": "t1",
-     "lane": 3,
-     "label": "Evidence packs",
-     "hot": false
-    },
-    {
-     "id": "t2",
-     "lane": 3,
-     "label": "Scoped tool access",
-     "hot": false
-    }
-   ],
-   "edges": [
-    {
-     "a": "in1",
-     "b": "c1"
-    },
-    {
-     "a": "in2",
-     "b": "c1"
-    },
-    {
-     "a": "c1",
-     "b": "c2"
-    },
-    {
-     "a": "c1",
-     "b": "d1"
-    },
-    {
-     "a": "c2",
-     "b": "d2"
-    },
-    {
-     "a": "d1",
-     "b": "t1"
-    },
-    {
-     "a": "d2",
-     "b": "t2"
-    }
-   ],
-   "note": "Modules are the platform's named components; trust lane is what the audit reads."
-  },
-  {
    "t": "h2",
-   "x": "Trust and controls"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Every agent action is policy-checked and logged under immutable audit trails. Tool access is scoped per role with short-lived credentials; high-risk actions require approval workflows. Swarm's evidence pack maps to ISO 42001 and NIST AI RMF expectations for agentic systems."
+   "x": "The platform runs document and face models in a controlled serving environment; no applicant data trains shared models. Data retention follows your jurisdiction's rules, and reviewer actions are logged end to end."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Scoped tool access",
-     "short-lived credentials per role"
+     "Controlled model serving",
+     "Verification models run inside your perimeter"
     ],
     [
-     "Immutable audit",
-     "every action replayable"
+     "No shared-data training",
+     "Applicant data is never used to train external models"
     ],
     [
-     "Kill switches",
-     "per-agent and per-fleet"
+     "Retention rules",
+     "Documents and biometric data kept per policy, then purged"
     ],
     [
-     "EU AI Act evidence",
-     "agentic-system documentation generated"
+     "Regulator-ready logs",
+     "Complete verification trails, exportable on demand"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Where you would find it working"
+   "x": "Who runs it"
   },
   {
    "t": "p",
-   "x": "KYC Management System runs under NDA in Banking & Financial Services, Insurance & Risk, Telecom, Media & Entertainment, Logistics & Supply Chain, Public Sector & Government. Deployments stay private; the architecture and control packs are the part we can show."
-  },
-  {
-   "t": "h2",
-   "x": "Under the hood"
-  },
-  {
-   "t": "p",
-   "x": "Connects to: Temporal, LangGraph, Kafka, OPA, Kubernetes, core/SaaS connectors. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+   "x": "Banks, insurance companies, telecom operators and any business with a regulated onboarding duty. Published deployments report verification in about 5 minutes, 60% faster than manual processing."
   },
   {
    "t": "cta",
-   "x": "Bring KYC Management System to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Book a briefing with the KYC team. We will map your onboarding flow and show where the 60% time saving comes from."
   }
  ],
- "words": 324,
+ "words": 337,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "KYC Management System",
@@ -219,39 +112,19 @@
  ],
  "related": [
   {
-   "title": "KYC Management System — Overview",
+   "title": "KYC Management System",
    "url": "/platforms/kyc/",
-   "desc": "Agentic AI Orchestration Platform"
+   "desc": "Document verification and face recognition that onboard customers in 5 minutes —"
   },
   {
-   "title": "KYC Management System — Architecture & Trust",
+   "title": "KYC Management System — Architecture & Security",
    "url": "/platforms/kyc/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "KYC Management System — Industry Use Cases",
    "url": "/platforms/kyc/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A multinational corporate bank",
-   "url": "/case-studies/bank-02/",
-   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A leading life insurer (North America)",
-   "url": "/case-studies/ins-02/",
-   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
-  },
-  {
-   "title": "A national health insurer",
-   "url": "/case-studies/hc-02/",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Manufacturing's competitive frontier has moved from automation of motion to automation of judgment: inspection decisions, scheduling trade-offs, maintenance windows, quality escapes. The plants compounding advantage run governed telemetry into physics-informed models into closed loops — and their workers trust the system because it predicts, explains and hands off cleanly when it is wrong."
+   "x": "Manufacturing's competitive frontier has moved from automation of motion to automation of judgment: inspection decisions, scheduling trade-offs, maintenance windows, quality escapes. The plants compounding advantage run governed telemetry into physics-informed models into closed loops, and their workers trust the system because it predicts, explains and hands off cleanly when it is wrong."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Structural pressure is permanent: skilled-labor scarcity deepens, energy costs reshape process economics, supply chains re-fragment geopolitically, and customers demand lot-level traceability. Meanwhile IT/OT convergence (IEC 62443) turns the plant network from an afterthought into a regulated, segmented, monitored estate — a program, not a project."
+   "x": "Structural pressure is permanent: skilled-labor scarcity deepens, energy costs reshape process economics, supply chains re-fragment geopolitically, and customers demand lot-level traceability. Meanwhile IT/OT convergence (IEC 62443) turns the plant network from an afterthought into a regulated, segmented, monitored estate, a program, not a project."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Manufacturing & Industrial edition:"
+   "x": "Where the friction concentrates, Manufacturing & Industrial edition:"
   },
   {
    "t": "bullets",
@@ -133,28 +133,28 @@
   },
   {
    "t": "p",
-   "x": "Reference deliveries in Manufacturing & Industrial — identity withheld as standard, method notes available under NDA:"
+   "x": "Reference deliveries in Manufacturing & Industrial, identity withheld as standard, method notes available under NDA:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "A global automotive OEM",
-     "OEE +7.2 points across 14 plants — sensor fabric to scheduling decisions"
+     "OEE +7.2 points across 14 plants, sensor fabric to scheduling decisions"
     ],
     [
      "A specialty chemicals producer",
-     "Yield +3.4 points and energy per tonne down 17% — APC augmentation program"
+     "Yield +3.4 points and energy per tonne down 17%, APC augmentation program"
     ],
     [
      "A construction-equipment manufacturer",
-     "Connected machines to connected margin — service revenue attach up 3x"
+     "Connected machines to connected margin, service revenue attach up 3x"
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on programs in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
+   "x": "one working session on programs in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 583,
@@ -255,7 +255,7 @@
    "title": "Automotive & Discrete Manufacturing",
    "url": "/industries/manufacturing/automotive-discrete/",
    "tag": "Sub-industry",
-   "desc": "Automotive and discrete plants chase three numbers — OEE, escapes and launch time. Sensor network, vision inspe…"
+   "desc": "Automotive and discrete plants chase three numbers, OEE, escapes and launch time. Sensor network, vision inspe…"
   },
   {
    "title": "Process Industries & Chemicals",

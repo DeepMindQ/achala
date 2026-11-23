@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Fraud-and-error analytics on a benefits spine — overpayment recovery up 22% and underpayment corrections finding the people the system owed"
+   "x": "Fraud-and-error analytics on a benefits spine, overpayment recovery up 22% and underpayment corrections finding the people the system owed"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a social-security agency whose integrity program chased overpayments while underpayments — money the state owed its citizens — were found only by complaint. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a social-security agency whose integrity program chased overpayments while underpayments, money the state owed its citizens, were found only by complaint. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the benefits spine in both directions: employment, income and benefit events resolved to one entitlement model, error analytics running for over- and underpayment with the same rigor, correction queues ranked — underpayments fast-tracked to proactive repayment, overpayments routed to caseworkers with evidence — and outcome reporting published for both directions. Integrity became symmetric."
+   "x": "We built the benefits spine in both directions: employment, income and benefit events resolved to one entitlement model, error analytics running for over- and underpayment with the same rigor, correction queues ranked, underpayments fast-tracked to proactive repayment, overpayments routed to caseworkers with evidence, and outcome reporting published for both directions. Integrity became symmetric."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The symmetric-integrity pattern transfers to any benefits system; the entitlement model was this agency's legislation. Replication starts from its complaint log — the diagnostic reads what reactive correction missed."
+   "x": "The symmetric-integrity pattern transfers to any benefits system; the entitlement model was this agency's legislation. Replication starts from its complaint log, the diagnostic reads what reactive correction missed."
   },
   {
    "t": "table",

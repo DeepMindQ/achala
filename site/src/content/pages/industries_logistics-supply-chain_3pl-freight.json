@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — 3PL & Freight Forwarding edition:"
+   "x": "The places value leaks, 3PL & Freight Forwarding edition:"
   },
   {
    "t": "bullets",
@@ -224,7 +224,7 @@
   },
   {
    "t": "p",
-   "x": "Customs/security (aeo/c-tpat) — chain-security evidence. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
+   "x": "Customs/security (aeo/c-tpat), chain-security evidence. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
   },
   {
    "t": "table",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in 3PL & Freight Forwarding, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in 3PL & Freight Forwarding, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 380,
@@ -327,13 +327,13 @@
    "title": "Agentic AI & Hyperautomation for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for 3PL & Freight Forwarding",
@@ -345,13 +345,13 @@
    "title": "Cloud, Edge & Platform for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Blockchain & Digital Trust for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

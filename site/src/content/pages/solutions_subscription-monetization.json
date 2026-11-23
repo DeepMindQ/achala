@@ -162,11 +162,11 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Subscription & Monetization Platforms composes EEMS Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Telecom, Media & Entertainment, Media, Education & Research."
+   "x": "Subscription & Monetization Platforms composes EEMS Platform, Fleet Management System, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Telecom, Media & Entertainment, Media, Education & Research."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "Every Subscription & Monetization Platforms value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic — never a promise from a brochure."
+   "x": "Every Subscription & Monetization Platforms value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic, never a promise from a brochure."
   },
   {
    "t": "bullets",

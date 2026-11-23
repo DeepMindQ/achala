@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for forecasting under intermittency is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — grid telemetry backbone, bounded to one path, running on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Energy & Utilities, that discipline is not optional — it is the engagement model."
+   "x": "Delivery opens with measurement: the baseline for forecasting under intermittency is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, grid telemetry backbone, bounded to one path, running on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Energy & Utilities, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -228,19 +228,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -254,7 +254,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Data & Lakehouse in Energy & Utilities in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Data & Lakehouse in Energy & Utilities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 502,
@@ -328,25 +328,25 @@
    "title": "Data & Lakehouse for Oil & Gas",
    "url": "/industries/energy-utilities/oil-gas/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Water, Waste & City Utilities",
    "url": "/industries/energy-utilities/water-utilities/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

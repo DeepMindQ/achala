@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for authorization latency ceiling — a script here, a spreadsheet there — have usually been tried in Payments & Cards. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for authorization latency ceiling, a script here, a spreadsheet there, have usually been tried in Payments & Cards. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Payments & Cards, the pattern is PCI 4.0 program — tokenization, segmentation and continuous evidence. Audit prep automated sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. Payments & Cards is where this discipline pays."
+   "x": "In Payments & Cards, the pattern is PCI 4.0 program, tokenization, segmentation and continuous evidence. Audit prep automated sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. Payments & Cards is where this discipline pays."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. authorization latency ceiling is measured with your finance and risk leads in the room, then one working path — PCI 4.0 program — goes live inside the quarter. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Payments & Cards, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. authorization latency ceiling is measured with your finance and risk leads in the room, then one working path, PCI 4.0 program, goes live inside the quarter. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Payments & Cards, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Payments & Cards: PCI DSS 4.0 — cardholder-data estate compliance with continuous expectations; PSD2/instant payments — real-time rails with fraud duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Payments & Cards: PCI DSS 4.0, cardholder-data estate compliance with continuous expectations; PSD2/instant payments, real-time rails with fraud duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

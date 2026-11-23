@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Corporate & Investment Banking targets a specific gap: systems exist, but no governed path connects them — which is why analyst hours on document assembly still costs what it costs. The build closes it: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. For Corporate & Investment Banking, this is the standard the build is held to."
+   "x": "Data & Lakehouse in Corporate & Investment Banking targets a specific gap: systems exist, but no governed path connects them, which is why analyst hours on document assembly still costs what it costs. The build closes it: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. For Corporate & Investment Banking, this is the standard the build is held to."
   },
   {
    "t": "p",
-   "x": "First, the ground Data & Lakehouse work stands on in Corporate & Investment Banking: CIB margins compress while deal complexity grows: origination research, credit memos, trade documentation and risk reporting all consume expensive analyst hours that agentic systems can compress — with the control discipline investment banks cannot compromise."
+   "x": "First, the ground Data & Lakehouse work stands on in Corporate & Investment Banking: CIB margins compress while deal complexity grows: origination research, credit memos, trade documentation and risk reporting all consume expensive analyst hours that agentic systems can compress, with the control discipline investment banks cannot compromise."
   },
   {
    "t": "p",
@@ -21,11 +21,11 @@
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework — Corporate & Investment Banking edition:"
+   "x": "Named from the floor, not from a framework, Corporate & Investment Banking edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Corporate & Investment Banking, the pattern is intraday risk spine — streaming positions and collateral into one governed exposure view. Risk latency to minutes sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. For Corporate & Investment Banking, this is the standard the build is held to."
+   "x": "In Corporate & Investment Banking, the pattern is intraday risk spine, streaming positions and collateral into one governed exposure view. Risk latency to minutes sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. For Corporate & Investment Banking, this is the standard the build is held to."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. analyst hours on document assembly is measured with your finance and risk leads in the room, then one working path — Intraday risk spine — goes live inside the quarter. In Corporate & Investment Banking programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. analyst hours on document assembly is measured with your finance and risk leads in the room, then one working path, Intraday risk spine, goes live inside the quarter. In Corporate & Investment Banking programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Corporate & Investment Banking: Basel capital regimes — counterparty credit and market risk model quality; Trade-finance AML (Wolfsberg-class) — trade document scrutiny duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Corporate & Investment Banking: Basel capital regimes, counterparty credit and market risk model quality; Trade-finance AML (Wolfsberg-class), trade document scrutiny duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

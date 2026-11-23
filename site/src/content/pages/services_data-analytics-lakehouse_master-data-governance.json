@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Golden records with owners, survivorship rules and a catalog people actually trust: master data as engineering — match logic that is measurable, stewardship with SLAs, and duplicate rates that fall on a schedule instead of in a slide deck."
+   "x": "Golden records with owners, survivorship rules and a catalog people actually trust: master data as engineering, match logic that is measurable, stewardship with SLAs, and duplicate rates that fall on a schedule instead of in a slide deck."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Master data is the part of the estate everyone depends on and nobody owns: the customer that exists seven times, the product with three SKUs, the supplier with two bank accounts. The fix is unglamorous — matching rules with survivorship, stewardship workflows with SLAs, and a catalog that records ownership and lineage so people trust what they find."
+   "x": "Master data is the part of the estate everyone depends on and nobody owns: the customer that exists seven times, the product with three SKUs, the supplier with two bank accounts. The fix is unglamorous, matching rules with survivorship, stewardship workflows with SLAs, and a catalog that records ownership and lineage so people trust what they find."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these survives a committee and dies in reconciliation — the countermeasures make matching measurable and stewardship contractual."
+   "x": "Each of these survives a committee and dies in reconciliation, the countermeasures make matching measurable and stewardship contractual."
   },
   {
    "t": "table",
@@ -303,7 +303,7 @@
   },
   {
    "t": "p",
-   "x": "From source contributions through match scoring, survivorship application and the steward queue — including the merge audit trail that answers 'who decided these were the same customer'."
+   "x": "From source contributions through match scoring, survivorship application and the steward queue, including the merge audit trail that answers 'who decided these were the same customer'."
   },
   {
    "t": "diagram",
@@ -327,7 +327,7 @@
   },
   {
    "t": "p",
-   "x": "Duplicate rate, match precision, steward SLA adherence and catalog coverage — the four numbers that decide whether the catalog is trusted or quietly bypassed by spreadsheet shadows."
+   "x": "Duplicate rate, match precision, steward SLA adherence and catalog coverage, the four numbers that decide whether the catalog is trusted or quietly bypassed by spreadsheet shadows."
   },
   {
    "t": "idash",
@@ -648,7 +648,7 @@
   },
   {
    "t": "p",
-   "x": "Duplicate rate and steward SLA adherence per master-data domain — the shape that decides where the next matching investment lands and which domains are trustworthy enough to serve executive metrics."
+   "x": "Duplicate rate and steward SLA adherence per master-data domain, the shape that decides where the next matching investment lands and which domains are trustworthy enough to serve executive metrics."
   },
   {
    "t": "chart",
@@ -1208,27 +1208,27 @@
     [
      "Matching",
      "Deterministic keys first; probabilistic with eval sets second",
-     "Fuzzy-everything — precision dies and stewards drown"
+     "Fuzzy-everything, precision dies and stewards drown"
     ],
     [
      "Survivorship",
      "Field-level rules with source precedence",
-     "Last-write-wins globally — it erases authoritative fields"
+     "Last-write-wins globally, it erases authoritative fields"
     ],
     [
      "Stewardship",
      "Domain-owned queues with SLAs",
-     "Central committee for all merges — it becomes the bottleneck"
+     "Central committee for all merges, it becomes the bottleneck"
     ],
     [
      "Catalog",
      "Live-crawled catalog with freshness badges",
-     "Manual spreadsheet catalogs — rot is guaranteed"
+     "Manual spreadsheet catalogs, rot is guaranteed"
     ],
     [
      "Enforcement",
      "Quality gates + purpose limits at runtime",
-     "PDF policies — nobody enforces a PDF"
+     "PDF policies, nobody enforces a PDF"
     ]
    ]
   },
@@ -1382,7 +1382,7 @@
   },
   {
    "t": "p",
-   "x": "Every merge, survivorship decision and steward override is recorded with its evidence — the reconciliation dispute that used to take a meeting now resolves to a record."
+   "x": "Every merge, survivorship decision and steward override is recorded with its evidence, the reconciliation dispute that used to take a meeting now resolves to a record."
   },
   {
    "t": "bullets",
@@ -1407,22 +1407,22 @@
   },
   {
    "t": "note",
-   "x": "Steward overload is monitored as a risk: when queue age or override rates exceed tolerance, the matching logic gets the investigation — not the steward's calendar."
+   "x": "Steward overload is monitored as a risk: when queue age or override rates exceed tolerance, the matching logic gets the investigation, not the steward's calendar."
   },
   {
    "t": "h2",
    "x": "Every metric argument is a master-data argument",
-   "sub": "Match discipline, survivorship and the merge audit trail — the foundations under the numbers",
+   "sub": "Match discipline, survivorship and the merge audit trail, the foundations under the numbers",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Metric arguments trace to master data more often than to math: two customer records, three product hierarchies, an org structure that changed mid-quarter. The governance mechanics make resolution systematic — the match engine runs probabilistic and rules-based matching with precision tuned per domain, survivorship rules are signed per attribute (which source wins when sources disagree, decided once, by the accountable owner), and golden records are one per real entity with the merge audit trail complete: every merge, survivor decision and steward override is reconstructable, which is what turns 'we combined them somehow' into evidence.",
+   "x": "Metric arguments trace to master data more often than to math: two customer records, three product hierarchies, an org structure that changed mid-quarter. The governance mechanics make resolution systematic, the match engine runs probabilistic and rules-based matching with precision tuned per domain, survivorship rules are signed per attribute (which source wins when sources disagree, decided once, by the accountable owner), and golden records are one per real entity with the merge audit trail complete: every merge, survivor decision and steward override is reconstructable, which is what turns 'we combined them somehow' into evidence.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Stewardship is a workflow, not a meeting: owned queues with SLAs, domain stewards with decision rights documented, and quality gates in the pipelines so unmastered records cannot promote. The console reads trust as numbers — duplicate rates per domain, survivorship disputes, resolution SLA adherence — because master-data programs earn their budget by making the metric arguments disappear.",
+   "x": "Stewardship is a workflow, not a meeting: owned queues with SLAs, domain stewards with decision rights documented, and quality gates in the pipelines so unmastered records cannot promote. The console reads trust as numbers, duplicate rates per domain, survivorship disputes, resolution SLA adherence, because master-data programs earn their budget by making the metric arguments disappear.",
    "phase3_deep": true
   },
   {
@@ -1438,7 +1438,7 @@
     ],
     [
      "Complete merge audit trail",
-     "Every merge and override reconstructable — evidence, not folklore."
+     "Every merge and override reconstructable, evidence, not folklore."
     ],
     [
      "Stewards with decision rights",
@@ -1452,15 +1452,15 @@
    "items": [
     [
      "Why do metric arguments trace back to master data?",
-     "Because two systems disagree about the customer, the product or the supplier behind the metric. Golden records with signed survivorship end the argument at the record level — the metric dispute becomes a data decision with an owner."
+     "Because two systems disagree about the customer, the product or the supplier behind the metric. Golden records with signed survivorship end the argument at the record level, the metric dispute becomes a data decision with an owner."
     ],
     [
      "How are merges decided and defended?",
-     "Every merge is proposed by the matching model, reviewed by the steward where confidence falls below the signed band, and recorded in the merge audit trail — a wrong merge is reversible, visible and attributable."
+     "Every merge is proposed by the matching model, reviewed by the steward where confidence falls below the signed band, and recorded in the merge audit trail, a wrong merge is reversible, visible and attributable."
     ],
     [
      "What is survivorship?",
-     "The rule set that decides which source wins each attribute on a golden record — signed per domain, versioned, and visible in the console, so a contested attribute has a documented answer, not an opinion."
+     "The rule set that decides which source wins each attribute on a golden record, signed per domain, versioned, and visible in the console, so a contested attribute has a documented answer, not an opinion."
     ],
     [
      "How do stewards actually work day to day?",
@@ -1468,13 +1468,13 @@
     ],
     [
      "What does the governance office inherit?",
-     "The matching stack, the golden-record plane, the steward workflow, the gates and the merge audit trail — governance operates on evidence per domain, not on policy documents."
+     "The matching stack, the golden-record plane, the steward workflow, the gates and the merge audit trail, governance operates on evidence per domain, not on policy documents."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the two systems that disagree about your customers. The diagnostic will measure match precision on your real records — and price what one trusted golden record would cost."
+   "x": "Bring the two systems that disagree about your customers. The diagnostic will measure match precision on your real records, and price what one trusted golden record would cost."
   }
  ],
  "words": 1047,
@@ -1559,43 +1559,43 @@
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Same domain",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Same domain",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Same domain",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Pairs with",
-   "desc": "one governed door for every model call — authz, budgets, caching, guardrails and traces — so fifty use cases stay operable and affordable."
+   "desc": "one governed door for every model call, authz, budgets, caching, guardrails and traces, so fifty use cases stay operable and affordable."
   },
   {
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Pairs with",
-   "desc": "the contracted seams — ERP, CRM, ITSM, comms and queues — with typed contracts, replayable failures and monitors that catch drift before business users do."
+   "desc": "the contracted seams, ERP, CRM, ITSM, comms and queues, with typed contracts, replayable failures and monitors that catch drift before business users do."
   },
   {
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Pairs with",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "A public research university (38,000 students)",
    "url": "/case-studies/edu-01/",
    "tag": "Evidence",
-   "desc": "Retention +4.1 points in target cohorts — early-warning to advising loop."
+   "desc": "Retention +4.1 points in target cohorts, early-warning to advising loop."
   }
  ],
  "evidence": [

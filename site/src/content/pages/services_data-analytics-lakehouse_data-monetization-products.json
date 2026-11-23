@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data as a product for external consumption: contracts and SLAs your customers can rely on, purpose limits that bind, billing that reconciles to the byte, and onboarding measured in days — with controls that get stricter the moment revenue appears."
+   "x": "Data as a product for external consumption: contracts and SLAs your customers can rely on, purpose limits that bind, billing that reconciles to the byte, and onboarding measured in days, with controls that get stricter the moment revenue appears."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Selling or sharing data products inverts the governance problem: external consumers, contractual SLAs, billing, and regulators who treat your product as their evidence. The engineering is productization — tiered APIs, quality SLAs with credits, entitlement enforcement, and audit packs your customers can hand to theirs."
+   "x": "Selling or sharing data products inverts the governance problem: external consumers, contractual SLAs, billing, and regulators who treat your product as their evidence. The engineering is productization, tiered APIs, quality SLAs with credits, entitlement enforcement, and audit packs your customers can hand to theirs."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these is survivable as an internal dashboard and fatal as a billed product — the countermeasures assume revenue, regulators and lawyers are watching."
+   "x": "Every one of these is survivable as an internal dashboard and fatal as a billed product, the countermeasures assume revenue, regulators and lawyers are watching."
   },
   {
    "t": "table",
@@ -302,7 +302,7 @@
   },
   {
    "t": "p",
-   "x": "From contract signing through entitlement provisioning, purpose-limited queries, metered usage and the billing reconciliation — including where a purpose-limit block is logged and reviewed."
+   "x": "From contract signing through entitlement provisioning, purpose-limited queries, metered usage and the billing reconciliation, including where a purpose-limit block is logged and reviewed."
   },
   {
    "t": "diagram",
@@ -326,7 +326,7 @@
   },
   {
    "t": "p",
-   "x": "SLO adherence, onboarding time, billing accuracy and purpose-limit blocks — the four numbers that decide whether the product is a business or a regulatory incident waiting for a date."
+   "x": "SLO adherence, onboarding time, billing accuracy and purpose-limit blocks, the four numbers that decide whether the product is a business or a regulatory incident waiting for a date."
   },
   {
    "t": "idash",
@@ -651,7 +651,7 @@
   },
   {
    "t": "p",
-   "x": "Revenue and serving cost per consumer tier — the shape that decides pricing reviews, tier design and where serving costs threaten margin before someone else finds out."
+   "x": "Revenue and serving cost per consumer tier, the shape that decides pricing reviews, tier design and where serving costs threaten margin before someone else finds out."
   },
   {
    "t": "chart",
@@ -1217,27 +1217,27 @@
     [
      "Productization",
      "Tiered product datasets with quality SLAs",
-     "Selling raw internal tables — controls and docs never fit"
+     "Selling raw internal tables, controls and docs never fit"
     ],
     [
      "Entitlement",
      "Purpose limits enforced at egress",
-     "Contract PDFs only — enforcement lives in the gate"
+     "Contract PDFs only, enforcement lives in the gate"
     ],
     [
      "Metering",
      "Event-level metering with invoice export",
-     "Estimates from logs — disputes are guaranteed"
+     "Estimates from logs, disputes are guaranteed"
     ],
     [
      "Delivery",
      "APIs + signed exports + streams per tier",
-     "One-size delivery — premium and trial have different economics"
+     "One-size delivery, premium and trial have different economics"
     ],
     [
      "Assurance",
      "Automated audit packs per consumer",
-     "Hand-built audit responses per request — it does not scale"
+     "Hand-built audit responses per request, it does not scale"
     ]
    ]
   },
@@ -1391,7 +1391,7 @@
   },
   {
    "t": "p",
-   "x": "Purpose limitations are enforced at query time with logged blocks, reviewed by the privacy office — the control a regulator tests first, built as a structural property rather than a contract clause."
+   "x": "Purpose limitations are enforced at query time with logged blocks, reviewed by the privacy office, the control a regulator tests first, built as a structural property rather than a contract clause."
   },
   {
    "t": "bullets",
@@ -1421,17 +1421,17 @@
   {
    "t": "h2",
    "x": "Data products are contracts with an SLA",
-   "sub": "Usage terms, purpose limits and metering that invoices — the controls behind data revenue",
+   "sub": "Usage terms, purpose limits and metering that invoices, the controls behind data revenue",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Selling data becomes a liability when the product is a feed and the controls are an email thread: usage terms vague, purpose limits unenforced, metering estimated. The product surface contracts everything — the dataset schema is versioned with deprecation notice, the usage terms are signed per consumer with legal purpose stated, and purpose limits are enforced at query time (the consumer's entitlement filter is part of the serving path, not a promise). Usage metering is invoice-grade: every consumption event counted, metered and reconciled, so the invoice and the logs agree by construction.",
+   "x": "Selling data becomes a liability when the product is a feed and the controls are an email thread: usage terms vague, purpose limits unenforced, metering estimated. The product surface contracts everything, the dataset schema is versioned with deprecation notice, the usage terms are signed per consumer with legal purpose stated, and purpose limits are enforced at query time (the consumer's entitlement filter is part of the serving path, not a promise). Usage metering is invoice-grade: every consumption event counted, metered and reconciled, so the invoice and the logs agree by construction.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The operations rhythm makes the revenue durable: consumer-facing SLAs on freshness and completeness, audit packs the consumer can inspect, and egress enforcement that policy-checks every export. The console reads product economics per consumer tier — usage, cost to serve, margin — because a data product that cannot state its margin is a hobby.",
+   "x": "The operations rhythm makes the revenue durable: consumer-facing SLAs on freshness and completeness, audit packs the consumer can inspect, and egress enforcement that policy-checks every export. The console reads product economics per consumer tier, usage, cost to serve, margin, because a data product that cannot state its margin is a hobby.",
    "phase3_deep": true
   },
   {
@@ -1443,7 +1443,7 @@
     ],
     [
      "Purpose limits enforced",
-     "Entitlement filtering in the serving path — limits bind, not promise."
+     "Entitlement filtering in the serving path, limits bind, not promise."
     ],
     [
      "Invoice-grade metering",
@@ -1469,21 +1469,21 @@
     ],
     [
      "How do you price data products?",
-     "On cost-to-serve and tier value: the console prices each tier’s SLO against its serving cost — embedded partners at 99.9% cost five times a trial — so list prices stand up to finance, not just to sales."
+     "On cost-to-serve and tier value: the console prices each tier’s SLO against its serving cost, embedded partners at 99.9% cost five times a trial, so list prices stand up to finance, not just to sales."
     ],
     [
      "Can external partners consume directly?",
-     "Yes — the embedded tier is designed for it: entitlements, metering and billing integrate with your customer estate, and the gates before revenue require the billing reconciliation to be proven, not assumed."
+     "Yes, the embedded tier is designed for it: entitlements, metering and billing integrate with your customer estate, and the gates before revenue require the billing reconciliation to be proven, not assumed."
     ],
     [
      "What does the product team inherit?",
-     "The delivery plane, the console, the gates and the purpose-limit overlay — a team that ships data products as contracts, with SLOs and invoices that agree."
+     "The delivery plane, the console, the gates and the purpose-limit overlay, a team that ships data products as contracts, with SLOs and invoices that agree."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "If your data is valuable enough to sell, it is regulated enough to control. Bring the use case to a briefing — we will price the governed product surface against the liability of shipping without it."
+   "x": "If your data is valuable enough to sell, it is regulated enough to control. Bring the use case to a briefing, we will price the governed product surface against the liability of shipping without it."
   }
  ],
  "words": 1034,
@@ -1568,19 +1568,19 @@
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Same domain",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Same domain",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Same domain",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "RAG & Enterprise Knowledge Systems",
@@ -1598,13 +1598,13 @@
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Pairs with",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "A European TSO-DSO group",
    "url": "/case-studies/en-01/",
    "tag": "Evidence",
-   "desc": "Forecast error down 31% — imbalance cost recovered across three control zones."
+   "desc": "Forecast error down 31%, imbalance cost recovered across three control zones."
   }
  ],
  "evidence": [

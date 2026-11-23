@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Equipment makers pivot to outcome businesses: connected machines, service contracts and uptime guarantees replace box sales. The pivot is an engineering program — fleet connectivity, service intelligence and outcome pricing — built once, monetized for decades. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Equipment makers pivot to outcome businesses: connected machines, service contracts and uptime guarantees replace box sales. The pivot is an engineering program, fleet connectivity, service intelligence and outcome pricing, built once, monetized for decades. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Industrial Equipment & Machinery",
    "url": "/industries/manufacturing/industrial-equipment/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Industrial Equipment & Machinery",
    "url": "/industries/manufacturing/industrial-equipment/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Industrial Equipment & Machinery",
    "url": "/industries/manufacturing/industrial-equipment/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Industrial Equipment & Machinery",
@@ -351,7 +351,7 @@
    "title": "IoT, Twin & Robotics for Industrial Equipment & Machinery",
    "url": "/industries/manufacturing/industrial-equipment/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

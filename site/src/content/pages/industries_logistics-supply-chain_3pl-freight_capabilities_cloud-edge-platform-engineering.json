@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform across Logistics & Supply Chain repeats one pattern in 3PL & Freight Forwarding: pressure on Quoting and booking, pressure on Shipment visibility, a fix improvised at the desk. This page is the engineered version: we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident. For 3PL & Freight Forwarding, this is the standard the build is held to."
+   "x": "Cloud, Edge & Platform across Logistics & Supply Chain repeats one pattern in 3PL & Freight Forwarding: pressure on Quoting and booking, pressure on Shipment visibility, a fix improvised at the desk. This page is the engineered version: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident. For 3PL & Freight Forwarding, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "The fix for visibility stitched manually is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for visibility stitched manually is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In 3PL & Freight Forwarding, the pattern is surge engineering — elastic ops capacity with load modeling. Peaks absorbed sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident. For 3PL & Freight Forwarding, this is the standard the build is held to."
+   "x": "In 3PL & Freight Forwarding, the pattern is surge engineering, elastic ops capacity with load modeling. Peaks absorbed sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident. For 3PL & Freight Forwarding, this is the standard the build is held to."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The visibility stitched manually cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Surge engineering), and the gate review decides what scales — all inside one quarter in 3PL & Freight Forwarding. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The visibility stitched manually cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Surge engineering), and the gate review decides what scales, all inside one quarter in 3PL & Freight Forwarding. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in 3PL & Freight Forwarding: Customs/security (AEO/C-TPAT) — chain-security evidence; Dangerous goods (ADR/IMDG/IATA) — DG documentation. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in 3PL & Freight Forwarding: Customs/security (AEO/C-TPAT), chain-security evidence; Dangerous goods (ADR/IMDG/IATA), DG documentation. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

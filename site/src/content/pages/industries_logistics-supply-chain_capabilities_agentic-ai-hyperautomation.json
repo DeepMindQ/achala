@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Logistics & Supply Chain, the working pattern is dispatch orchestration: dynamic route/load re-planning within policy when events hit. Re-plan in minutes at network scale is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Logistics & Supply Chain, the working pattern is dispatch orchestration: dynamic route/load re-planning within policy when events hit. Re-plan in minutes at network scale is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "The dispatch and exception work manual cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (dispatch orchestration), and the gate review decides what scales — all inside one quarter in Logistics & Supply Chain. In Logistics & Supply Chain programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The dispatch and exception work manual cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (dispatch orchestration), and the gate review decides what scales, all inside one quarter in Logistics & Supply Chain. In Logistics & Supply Chain programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -97,7 +97,7 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -108,19 +108,19 @@
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Agentic AI & Hyperautomation in Logistics & Supply Chain in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Agentic AI & Hyperautomation in Logistics & Supply Chain in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 541,
@@ -208,19 +208,19 @@
    "title": "Agentic AI & Hyperautomation for 3PL & Freight Forwarding",
    "url": "/industries/logistics-supply-chain/3pl-freight/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Last-Mile & Urban Logistics",
    "url": "/industries/logistics-supply-chain/last-mile-mobility/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

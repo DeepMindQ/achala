@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Gaming & Interactive Media targets a specific gap: systems exist, but no governed path connects them — which is why player analytics shallow still costs what it costs. The build closes it: we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "Cloud, Edge & Platform in Gaming & Interactive Media targets a specific gap: systems exist, but no governed path connects them, which is why player analytics shallow still costs what it costs. The build closes it: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Gaming & Interactive Media, the pattern is launch engineering — load/chaos readiness for peaks. Launches stable sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "In Gaming & Interactive Media, the pattern is launch engineering, load/chaos readiness for peaks. Launches stable sits on top as the measured result, tracked from the signed baseline onward. Around it, we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The player analytics shallow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Launch engineering), and the gate review decides what scales — all inside one quarter in Gaming & Interactive Media. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The player analytics shallow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Launch engineering), and the gate review decides what scales, all inside one quarter in Gaming & Interactive Media. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Gaming & Interactive Media: Privacy (minors) — player data duties; Consumer/loot-box rules — monetization duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Gaming & Interactive Media: Privacy (minors), player data duties; Consumer/loot-box rules, monetization duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cloud, Edge & Platform for Gaming & Interactive Media to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cloud, Edge & Platform for Gaming & Interactive Media to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 449,

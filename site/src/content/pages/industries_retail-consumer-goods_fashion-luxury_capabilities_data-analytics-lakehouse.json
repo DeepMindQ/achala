@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Through the Data & Lakehouse lens, the operating reality: Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible — but the intelligence beneath it decides which drops pay."
+   "x": "Through the Data & Lakehouse lens, the operating reality: Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible, but the intelligence beneath it decides which drops pay."
   },
   {
    "t": "p",
-   "x": "The fix for clienteling inconsistent is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for clienteling inconsistent is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Fashion & Luxury, the pattern is assortment intelligence — curve modeling by door with demand transfer logic. Sell-through up sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. That is the engineering behind Fashion & Luxury."
+   "x": "In Fashion & Luxury, the pattern is assortment intelligence, curve modeling by door with demand transfer logic. Sell-through up sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. That is the engineering behind Fashion & Luxury."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The clienteling inconsistent cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Assortment intelligence), and the gate review decides what scales — all inside one quarter in Fashion & Luxury. In Fashion & Luxury programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The clienteling inconsistent cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Assortment intelligence), and the gate review decides what scales, all inside one quarter in Fashion & Luxury. In Fashion & Luxury programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse control frame for Fashion & Luxury: GDPR (client profiling duties); Product-regulation (materials) (claims duties); Import/customs rules (authenticity documentation). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Data & Lakehouse control frame for Fashion & Luxury: GDPR (client profiling duties); Product-regulation (materials) (claims duties); Import/customs rules (authenticity documentation). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

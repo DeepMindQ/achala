@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI ground truth in Medical Devices & MedTech: MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product — and EU MDR/CRA raise its bar."
+   "x": "The Applied AI & GenAI ground truth in Medical Devices & MedTech: MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product, and EU MDR/CRA raise its bar."
   },
   {
    "t": "p",
-   "x": "Device security rising bar is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Device security rising bar is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Medical Devices & MedTech, the pattern is evidence generation — real-world performance data into evidence packs. Regulatory submissions stronger sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "In Medical Devices & MedTech, the pattern is evidence generation, real-world performance data into evidence packs. Regulatory submissions stronger sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. device security rising bar is measured with your finance and risk leads in the room, then one working path — Evidence generation — goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. device security rising bar is measured with your finance and risk leads in the room, then one working path, Evidence generation, goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Medical Devices & MedTech: EU MDR — vigilance, post-market surveillance duties; EU Cyber Resilience Act — product security duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Medical Devices & MedTech: EU MDR, vigilance, post-market surveillance duties; EU Cyber Resilience Act, product security duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

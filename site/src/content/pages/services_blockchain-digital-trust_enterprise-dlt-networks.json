@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Permissioned networks with real governance: membership charters with obligations on paper, privacy domains that end the data-sharing standoff, consensus chosen for dullness, and upgrades coordinated so every member runs the current version — at transaction costs your CFO will not notice."
+   "x": "Permissioned networks with real governance: membership charters with obligations on paper, privacy domains that end the data-sharing standoff, consensus chosen for dullness, and upgrades coordinated so every member runs the current version, at transaction costs your CFO will not notice."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Enterprise ledger networks fail socially before they fail technically: members who will not operate nodes, governance that exists as a PDF, and privacy scoping discovered to be wrong after the first dispute. The engineering starts with the network charter — who runs what, who sees what, what happens when a member leaves — and the technology follows it."
+   "x": "Enterprise ledger networks fail socially before they fail technically: members who will not operate nodes, governance that exists as a PDF, and privacy scoping discovered to be wrong after the first dispute. The engineering starts with the network charter, who runs what, who sees what, what happens when a member leaves, and the technology follows it."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these is a governance failure wearing a technical costume — the countermeasures put obligations, privacy rules and upgrade discipline in the charter where they belong."
+   "x": "Every one of these is a governance failure wearing a technical costume, the countermeasures put obligations, privacy rules and upgrade discipline in the charter where they belong."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Members join under a charter with obligations and exit clauses, privacy domains scope what each member sees, consensus is chosen for predictability over novelty, and the upgrade protocol runs with zero-downtime coordination — governance and engineering as one design."
+   "x": "Members join under a charter with obligations and exit clauses, privacy domains scope what each member sees, consensus is chosen for predictability over novelty, and the upgrade protocol runs with zero-downtime coordination, governance and engineering as one design."
   },
   {
    "t": "arch",
@@ -297,7 +297,7 @@
   },
   {
    "t": "p",
-   "x": "From proposal through endorsement within its privacy domain, ordering, commit and the audit record — including where a member's stale version is caught before it forks the ledger."
+   "x": "From proposal through endorsement within its privacy domain, ordering, commit and the audit record, including where a member's stale version is caught before it forks the ledger."
   },
   {
    "t": "diagram",
@@ -321,7 +321,7 @@
   },
   {
    "t": "p",
-   "x": "Transaction cost, network uptime and version currency across members — the three numbers that decide whether the consortium is compounding or fragmenting."
+   "x": "Transaction cost, network uptime and version currency across members, the three numbers that decide whether the consortium is compounding or fragmenting."
   },
   {
    "t": "idash",
@@ -628,7 +628,7 @@
   },
   {
    "t": "p",
-   "x": "Transaction cost and throughput as membership grows — the curve that shows whether the network's economics survive its own success."
+   "x": "Transaction cost and throughput as membership grows, the curve that shows whether the network's economics survive its own success."
   },
   {
    "t": "chart",
@@ -1101,27 +1101,27 @@
     [
      "Ledger",
      "Permissioned BFT-class runtime",
-     "Public chain for enterprise data — privacy never survives"
+     "Public chain for enterprise data, privacy never survives"
     ],
     [
      "Keys",
      "HSM-backed with ceremony packs",
-     "Software keys in cloud KMS only — quorum matters"
+     "Software keys in cloud KMS only, quorum matters"
     ],
     [
      "Privacy",
      "Private data collections / channels",
-     "Encrypt-everything-on-chain — metadata still leaks"
+     "Encrypt-everything-on-chain, metadata still leaks"
     ],
     [
      "State",
      "Off-chain stores with ledger anchoring",
-     "Documents on-chain — bloat and PII risk"
+     "Documents on-chain, bloat and PII risk"
     ],
     [
      "Governance",
      "Charter with on-chain procedures",
-     "Email-based governance — upgrades stall"
+     "Email-based governance, upgrades stall"
     ]
    ]
   },
@@ -1275,7 +1275,7 @@
   },
   {
    "t": "p",
-   "x": "Governance is executed, not laminated: votes, amendments and member obligations recorded on-ledger — the charter your regulator can read directly from the system itself."
+   "x": "Governance is executed, not laminated: votes, amendments and member obligations recorded on-ledger, the charter your regulator can read directly from the system itself."
   },
   {
    "t": "bullets",
@@ -1300,7 +1300,7 @@
   },
   {
    "t": "note",
-   "x": "Chain bloat is managed by design: archival policy, state pruning and evidence retention are charter clauses with technical enforcement — because a ledger that grows forever eventually stops serving anyone."
+   "x": "Chain bloat is managed by design: archival policy, state pruning and evidence retention are charter clauses with technical enforcement, because a ledger that grows forever eventually stops serving anyone."
   },
   {
    "t": "h2",
@@ -1310,12 +1310,12 @@
   },
   {
    "t": "p",
-   "x": "Consortium networks stall at the speed of their charter: membership fees, data rights, exit terms and dispute paths written after go-live produce veto games that freeze the roadmap. The discipline is charter-first — the rights and duties are drafted, negotiated and (where the platform allows) held on-ledger, so governance changes are transactions with notice periods rather than meetings with minutes. Consensus is deliberately boring: BFT-class, sized to the member set, with performance targets set by the slowest governed member rather than the fastest node — because a consortium runs at the pace of its least-invested participant.",
+   "x": "Consortium networks stall at the speed of their charter: membership fees, data rights, exit terms and dispute paths written after go-live produce veto games that freeze the roadmap. The discipline is charter-first, the rights and duties are drafted, negotiated and (where the platform allows) held on-ledger, so governance changes are transactions with notice periods rather than meetings with minutes. Consensus is deliberately boring: BFT-class, sized to the member set, with performance targets set by the slowest governed member rather than the fastest node, because a consortium runs at the pace of its least-invested participant.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Operations carry the trust: HSM-backed keys under dual control, witnessed key ceremonies for root material, member onboarding that is KYC-checked and charter-signed, and a daily reconciliation gate between the ledger and every member's system of record. The console reads member health — block production, endorsement participation, reconciliation breaks — because a member silently falling behind is the first symptom of the exit nobody scheduled.",
+   "x": "Operations carry the trust: HSM-backed keys under dual control, witnessed key ceremonies for root material, member onboarding that is KYC-checked and charter-signed, and a daily reconciliation gate between the ledger and every member's system of record. The console reads member health, block production, endorsement participation, reconciliation breaks, because a member silently falling behind is the first symptom of the exit nobody scheduled.",
    "phase3_deep": true
   },
   {
@@ -1345,7 +1345,7 @@
    "items": [
     [
      "Why do consortium networks usually fail, and how is this different?",
-     "Networks stall on governance, not consensus: membership obligations left informal, privacy expectations unset, cost models unfair. The charter is engineered first — obligations on paper, privacy domains in code, cost per tier published in the console."
+     "Networks stall on governance, not consensus: membership obligations left informal, privacy expectations unset, cost models unfair. The charter is engineered first, obligations on paper, privacy domains in code, cost per tier published in the console."
     ],
     [
      "How do you handle competitors sharing one ledger?",
@@ -1353,11 +1353,11 @@
     ],
     [
      "Can members join without running full nodes?",
-     "Yes — the tier model covers hosted nodes, read-only membership and external counterparties, each with its cost and onboarding target. A member’s tier is a charter decision, not a sales conversation."
+     "Yes, the tier model covers hosted nodes, read-only membership and external counterparties, each with its cost and onboarding target. A member’s tier is a charter decision, not a sales conversation."
     ],
     [
      "What does onboarding a new member actually involve?",
-     "The gates: endorsement-policy check, privacy-domain assignment, identity and key ceremony, integration rehearsal — 1–6 days by tier, with the evidence the charter requires, not a handshake."
+     "The gates: endorsement-policy check, privacy-domain assignment, identity and key ceremony, integration rehearsal, 1–6 days by tier, with the evidence the charter requires, not a handshake."
     ],
     [
      "How are upgrades governed across members?",
@@ -1367,7 +1367,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the consortium that has met twelve times without shipping. The diagnostic will draft the charter with privacy domains scoped — and put the network on a build schedule."
+   "x": "Bring the consortium that has met twelve times without shipping. The diagnostic will draft the charter with privacy domains scoped, and put the network on a build schedule."
   }
  ],
  "words": 981,
@@ -1452,43 +1452,43 @@
    "title": "Asset Tokenization & Digital Assets",
    "url": "/services/blockchain-digital-trust/asset-tokenization/",
    "tag": "Same domain",
-   "desc": "regulated token designs — legal-wrapper-first architecture, transfer controls that enforce restrictions in code, and settlement that shortens cycles honestly."
+   "desc": "regulated token designs, legal-wrapper-first architecture, transfer controls that enforce restrictions in code, and settlement that shortens cycles honestly."
   },
   {
    "title": "Blockchain Analytics & Regulatory Compliance",
    "url": "/services/blockchain-digital-trust/blockchain-analytics-compliance/",
    "tag": "Same domain",
-   "desc": "ledger intelligence mapped to regulatory duties — transaction risk scoring, travel-rule workflows, and audit-ready case files built automatically."
+   "desc": "ledger intelligence mapped to regulatory duties, transaction risk scoring, travel-rule workflows, and audit-ready case files built automatically."
   },
   {
    "title": "Decentralized Identity & Verifiable Credentials",
    "url": "/services/blockchain-digital-trust/decentralized-identity/",
    "tag": "Same domain",
-   "desc": "DIDs and verifiable credentials that work offline — issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
+   "desc": "DIDs and verifiable credentials that work offline, issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Pairs with",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Connected Products & Smart Devices",
    "url": "/services/iot-digital-twin-robotics/connected-products-devices/",
    "tag": "Pairs with",
-   "desc": "product fleets in the field — OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
+   "desc": "product fleets in the field, OTA that never bricks, telemetry that earns its bandwidth, and support APIs that let service diagnose before the customer calls."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Pairs with",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "A global coffee trader",
    "url": "/case-studies/agr-02/",
    "tag": "Evidence",
-   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened."
+   "desc": "EUDR due-diligence automated, compliance evidence in hours, premium channels opened."
   }
  ],
  "evidence": [

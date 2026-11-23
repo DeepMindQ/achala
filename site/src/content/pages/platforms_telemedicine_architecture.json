@@ -1,112 +1,84 @@
 {
- "id": "PLT-sentinel-ar",
- "title": "Tele Medicine Platform — Architecture & Trust",
+ "id": "PLT-telemedicine-ar",
+ "title": "Tele Medicine Platform — Architecture & Security",
  "url": "/platforms/telemedicine/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Tele Medicine Platform > Architecture & Trust",
- "seo_title": "Tele Medicine Platform — Architecture & Trust | Achala IT Solutions",
- "meta_description": "Architecture, security posture and compliance evidence for Tele Medicine Platform — Zero-Trust & AI Security Platform from Achala IT Solutions.",
+ "breadcrumb": "Platforms > Tele Medicine Platform > Architecture & Security",
+ "seo_title": "Tele Medicine Platform — Architecture & Security | Achala IT Solutions",
+ "meta_description": "Architecture and security posture of Tele Medicine Platform — secure consultations, e-prescriptions and follow-up care.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Tele Medicine Platform's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+   "x": "How Tele Medicine Platform is built: encrypted video, HIS integration and consent-first session handling."
   },
   {
    "t": "h2",
-   "x": "What gets built first"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "The Tele Medicine Platform architecture is three planes and an evidence spine. Modules compose behind one governed API; every decision crossing a plane boundary is logged with the inputs, the policy version and the accountable owner."
-  },
-  {
-   "t": "p",
-   "x": "the working system, decomposed, Tele Medicine Platform architecture edition:"
+   "x": "Consultations run over encrypted video infrastructure; clinical data integrates with the hospital's systems through standard interfaces. Access follows the same discipline as in-person care: the care team and the patient, nothing wider."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Zero-trust enforcement",
-     "identity, posture, segmentation, workload identity"
+     "Encrypted sessions",
+     "Video and clinical data protected end to end"
     ],
     [
-     "Detection-as-code",
-     "versioned rules with CI testing"
+     "HIS integration",
+     "Consultations recorded into the hospital record"
     ],
     [
-     "Posture guardrails",
-     "policy-as-code with fix-the-pipeline flows"
+     "Consent discipline",
+     "Patient consent captured before each session"
     ],
     [
-     "AI defense layer",
-     "injection filtering, containment, red-teaming"
-    ],
-    [
-     "Identity plane",
-     "workforce/CIAM/machine lifecycle"
-    ],
-    [
-     "Evidence exports",
-     "multi-framework control mapping"
+     "Access control",
+     "Records visible to the care team only"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "The security posture"
+   "x": "Security and compliance"
   },
   {
    "t": "p",
-   "x": "In Tele Medicine Platform, the program tracks these without being asked:"
+   "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Purple-team validated",
-     "segmentation proven in exercises"
+     "Encrypted sessions",
+     "Video and clinical data protected end to end"
     ],
     [
-     "AI red-teaming",
-     "OWASP LLM Top 10 mapped suites"
+     "HIS integration",
+     "Consultations recorded into the hospital record"
     ],
     [
-     "Continuous evidence",
-     "auditor-ready on demand"
+     "Consent discipline",
+     "Patient consent captured before each session"
     ],
     [
-     "AI asset registry",
-     "shadow-AI discovery included"
+     "Access control",
+     "Records visible to the care team only"
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "The technology choices, justified"
-  },
-  {
-   "t": "p",
-   "x": "Runtime dependencies: SIEM/XDR, SPIFFE/SPIRE, OPA, IdPs/IGA, CNAPP tooling. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
-  },
-  {
-   "t": "h2",
-   "x": "Sequencing, honestly"
-  },
-  {
-   "t": "p",
-   "x": "Deployment models for Tele Medicine Platform follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Tele Medicine Platform architecture, your data, and a written feasibility read you can circulate."
+   "x": "Book a briefing with the telemedicine team. We will show the consultation workflow and the integration path for your hospital."
   }
  ],
- "words": 248,
+ "words": 234,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Tele Medicine Platform",
- "l3": "Architecture & Trust",
+ "l3": "Architecture & Security",
  "l4": "",
  "crumbs": [
   {
@@ -118,45 +90,25 @@
    "url": null
   },
   {
-   "name": "Architecture & Trust",
+   "name": "Architecture & Security",
    "url": "/platforms/telemedicine/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Tele Medicine Platform — Overview",
+   "title": "Tele Medicine Platform",
    "url": "/platforms/telemedicine/",
-   "desc": "Zero-Trust & AI Security Platform"
+   "desc": "Consultations, e-prescriptions and follow-ups over secure video — care that reac"
   },
   {
-   "title": "Tele Medicine Platform — Architecture & Trust",
+   "title": "Tele Medicine Platform — Architecture & Security",
    "url": "/platforms/telemedicine/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Tele Medicine Platform — Industry Use Cases",
    "url": "/platforms/telemedicine/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A tier-1 US bank",
-   "url": "/case-studies/bank-03/",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
-  },
-  {
-   "title": "A European TSO-DSO group",
-   "url": "/case-studies/en-01/",
-   "desc": "Forecast error down 31% — imbalance cost recovered across three control zones"
-  },
-  {
-   "title": "A national tax administration",
-   "url": "/case-studies/pub-02/",
-   "desc": "Fraud and error capture up 26% — cross-source analytics with investigator case packs"
-  },
-  {
-   "title": "A metropolitan city government",
-   "url": "/case-studies/pub-03/",
-   "desc": "Fault-to-fix down 63% and street-light energy down 22% — urban asset platform"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Manufacturing & Industrial operators recognize the pattern: quality escapes and manual inspection, quarter after quarter. Applied AI & GenAI reaches the root: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Manufacturing & Industrial operators recognize the pattern: quality escapes and manual inspection, quarter after quarter. Applied AI & GenAI reaches the root: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -38,11 +38,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Manufacturing & Industrial: visual quality inspection — defect detection and completeness checks closing loops into andon and MES holds. Escape rate down sharply on instrumented stations is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Manufacturing & Industrial: visual quality inspection, defect detection and completeness checks closing loops into andon and MES holds. Escape rate down sharply on instrumented stations is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for quality escapes and manual inspection is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — visual quality inspection, bounded to one path, running on your estate. In Manufacturing & Industrial programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Delivery opens with measurement: the baseline for quality escapes and manual inspection is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, visual quality inspection, bounded to one path, running on your estate. In Manufacturing & Industrial programs the same rule applies: baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -108,19 +108,19 @@
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Applied AI & GenAI in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Applied AI & GenAI in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 577,
@@ -208,25 +208,25 @@
    "title": "Applied AI & GenAI for Automotive & Discrete Manufacturing",
    "url": "/industries/manufacturing/automotive-discrete/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Process Industries & Chemicals",
    "url": "/industries/manufacturing/process-chemicals/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Industrial Equipment & Machinery",
    "url": "/industries/manufacturing/industrial-equipment/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Applied AI & GenAI for Electronics & Semiconductors",
    "url": "/industries/manufacturing/electronics-semiconductors/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

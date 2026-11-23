@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Manufacturing & Industrial does not chase announcements; it delivers audited change — which means we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "Cloud, Edge & Platform in Manufacturing & Industrial does not chase announcements; it delivers audited change, which means we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "p",
@@ -38,11 +38,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Manufacturing & Industrial: plant edge fabric — KubeEdge/K3s fleets with offline-first patterns and OTA model updates. Site decisions at millisecond latency is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Manufacturing & Industrial: plant edge fabric, KubeEdge/K3s fleets with offline-first patterns and OTA model updates. Site decisions at millisecond latency is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "The energy and OEE economics unmeasured cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (plant edge fabric), and the gate review decides what scales — all inside one quarter in Manufacturing & Industrial. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The energy and OEE economics unmeasured cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (plant edge fabric), and the gate review decides what scales, all inside one quarter in Manufacturing & Industrial. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cloud, Edge & Platform side of Manufacturing & Industrial, the binding duties are concrete — IEC 62443 (industrial cybersecurity zones-and-conduits for OT estates); ISO 9001/IATF 16949 quality systems (traceability and process control evidence for audits); EU Machinery / Product regulations & Digital Product Passport (product-level data obligations approaching). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cloud, Edge & Platform side of Manufacturing & Industrial, the binding duties are concrete, IEC 62443 (industrial cybersecurity zones-and-conduits for OT estates); ISO 9001/IATF 16949 quality systems (traceability and process control evidence for audits); EU Machinery / Product regulations & Digital Product Passport (product-level data obligations approaching). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -79,26 +79,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Cloud, Edge & Platform for Manufacturing & Industrial — each page documents the build as delivered:"
+   "x": "Named services for Cloud, Edge & Platform for Manufacturing & Industrial, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },

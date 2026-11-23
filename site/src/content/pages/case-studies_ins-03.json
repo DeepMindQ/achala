@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+   "x": "Bordereaux automation and settlement evidence, reconciliation effort down 74%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A European specialty reinsurer — a Insurance & Risk engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A European specialty reinsurer, a Insurance & Risk engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the bordereaux engine on Forge (format normalization, auto-reconciliation with quality scoring), deployed a permissioned settlement-evidence network on Ledger between cedant, broker and reinsurer, and benchmarked retro capacity formulations in a Quanta tournament — the hybrid winner industrialized as a re-solve service."
+   "x": "We built the bordereaux engine on Forge (format normalization, auto-reconciliation with quality scoring), deployed a permissioned settlement-evidence network on Ledger between cedant, broker and reinsurer, and benchmarked retro capacity formulations in a Quanta tournament, the hybrid winner industrialized as a re-solve service."
   },
   {
    "t": "arch",
@@ -211,7 +211,7 @@
     ],
     [
      "Blockchain & Digital Trust",
-     "the trust question was answered before the chain was chosen — which is why this one survived procurement."
+     "the trust question was answered before the chain was chosen, which is why this one survived procurement."
     ],
     [
      "Quantum & Advanced Compute",

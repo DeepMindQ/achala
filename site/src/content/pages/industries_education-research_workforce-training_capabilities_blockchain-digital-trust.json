@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Workforce & Vocational Training targets a specific gap: systems exist, but no governed path connects them — which is why administration heavy still costs what it costs. The build closes it: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "Blockchain & Digital Trust in Workforce & Vocational Training targets a specific gap: systems exist, but no governed path connects them, which is why administration heavy still costs what it costs. The build closes it: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Workforce & Vocational Training, the pattern is verifiable credentials — portable certificates with employer verification. Portability real sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "In Workforce & Vocational Training, the pattern is verifiable credentials, portable certificates with employer verification. Portability real sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The administration heavy cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Verifiable credentials), and the gate review decides what scales — all inside one quarter in Workforce & Vocational Training. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The administration heavy cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Verifiable credentials), and the gate review decides what scales, all inside one quarter in Workforce & Vocational Training. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Workforce & Vocational Training: Privacy — learner data duties; Accessibility — delivery duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Workforce & Vocational Training: Privacy, learner data duties; Accessibility, delivery duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Blockchain & Digital Trust for Workforce & Vocational Training in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Blockchain & Digital Trust for Workforce & Vocational Training in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 453,

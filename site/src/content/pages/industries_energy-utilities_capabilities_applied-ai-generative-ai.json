@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Energy & Utilities: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Two clocks run in Energy & Utilities: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -44,7 +44,7 @@
     ],
     [
      "Asset fleets uninstrumented",
-     "Turbines, transformers and pipelines hold decades of life left — and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
+     "Turbines, transformers and pipelines hold decades of life left, and zero telemetry. Condition-based maintenance is impossible without sensing, and failures cost the most when they are unscheduled."
     ]
    ]
   },
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Energy & Utilities: renewable and demand forecasting — weather-coupled ML ensembles at asset and portfolio level feeding trading. Imbalance cost down via better forecasts is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Energy & Utilities: renewable and demand forecasting, weather-coupled ML ensembles at asset and portfolio level feeding trading. Imbalance cost down via better forecasts is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for ESG data assembled by spreadsheet is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — renewable and demand forecasting, bounded to one path, running on your estate. In Energy & Utilities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Delivery opens with measurement: the baseline for ESG data assembled by spreadsheet is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, renewable and demand forecasting, bounded to one path, running on your estate. In Energy & Utilities programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Applied AI & GenAI side of Energy & Utilities, the binding duties are concrete — NERC CIP (North America) (critical-infrastructure protection standards for bulk power systems); IEC 62443 / 61850 (industrial cybersecurity and substation automation standards); REMIT / MiFID II (energy market conduct and reporting obligations). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Applied AI & GenAI side of Energy & Utilities, the binding duties are concrete, NERC CIP (North America) (critical-infrastructure protection standards for bulk power systems); IEC 62443 / 61850 (industrial cybersecurity and substation automation standards); REMIT / MiFID II (energy market conduct and reporting obligations). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -207,26 +207,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Applied AI & GenAI for Energy & Utilities — each page documents the build as delivered:"
+   "x": "Named services for Applied AI & GenAI for Energy & Utilities, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Enterprise AI Strategy & Roadmapping",
-     "Align AI to P&L lines and risk mandates — a sequenced portfolio, not a pile of pilots."
+     "Align AI to P&L lines and risk mandates, a sequenced portfolio, not a pile of pilots."
     ],
     [
      "Generative AI Platform Engineering",
-     "One governed platform, many GenAI products — retrieval, guardrails and cost control as shared services."
+     "One governed platform, many GenAI products, retrieval, guardrails and cost control as shared services."
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
+     "Own your models, tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
-     "Answers with citations, not vibes — permission-aware retrieval over your regulated document estate."
+     "Answers with citations, not vibes, permission-aware retrieval over your regulated document estate."
     ]
    ]
   },
@@ -314,7 +314,7 @@
    "title": "Applied AI & GenAI for Oil & Gas",
    "url": "/industries/energy-utilities/oil-gas/capabilities/applied-ai-generative-ai/",
    "tag": "Sub-industry depth",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   }
  ]
 }

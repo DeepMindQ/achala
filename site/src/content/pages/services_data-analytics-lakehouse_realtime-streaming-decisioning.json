@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Sub-second decision paths on streams: exactly-once state, replay semantics and latency budgets measured hop by hop — because a decision path that cannot state its own latency is guessing, and a guess is not a control."
+   "x": "Sub-second decision paths on streams: exactly-once state, replay semantics and latency budgets measured hop by hop, because a decision path that cannot state its own latency is guessing, and a guess is not a control."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Streaming decisioning is where data stops being a report and becomes a reflex: fraud holds in milliseconds, personalization on the next request, pricing that adapts mid-session. The engineering is stateful stream processing with honest semantics — exactly-once state, replayable events, and latency budgets per hop that are measured in production, not hoped for in the design doc."
+   "x": "Streaming decisioning is where data stops being a report and becomes a reflex: fraud holds in milliseconds, personalization on the next request, pricing that adapts mid-session. The engineering is stateful stream processing with honest semantics, exactly-once state, replayable events, and latency budgets per hop that are measured in production, not hoped for in the design doc."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these produces a demo that works and a production incident that surprises nobody who measured — the countermeasures make the path's own behavior observable and bounded."
+   "x": "Every one of these produces a demo that works and a production incident that surprises nobody who measured, the countermeasures make the path's own behavior observable and bounded."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The budget is designed before the code: hop-by-hop allocations, exactly-once state with checkpointed replay, and shadow lanes that compare decisions against the previous engine — disagreement is measured, not assumed away."
+   "x": "The budget is designed before the code: hop-by-hop allocations, exactly-once state with checkpointed replay, and shadow lanes that compare decisions against the previous engine, disagreement is measured, not assumed away."
   },
   {
    "t": "arch",
@@ -295,7 +295,7 @@
   },
   {
    "t": "p",
-   "x": "From ingress through state lookup, scoring and the action write — with the late-event handling, out-of-order tolerance and replay path marked where they actually trigger."
+   "x": "From ingress through state lookup, scoring and the action write, with the late-event handling, out-of-order tolerance and replay path marked where they actually trigger."
   },
   {
    "t": "diagram",
@@ -319,7 +319,7 @@
   },
   {
    "t": "p",
-   "x": "Decision p99, exactly-once violations, late-event drops and shadow disagreement — the four numbers that decide whether the path is a control or a liability."
+   "x": "Decision p99, exactly-once violations, late-event drops and shadow disagreement, the four numbers that decide whether the path is a control or a liability."
   },
   {
    "t": "idash",
@@ -719,7 +719,7 @@
   },
   {
    "t": "p",
-   "x": "Allocation per hop at design load — ingress, state, scoring, policy, action, egress. The chart decides optimization order and shows which hop breaks the p99 promise first under stress."
+   "x": "Allocation per hop at design load, ingress, state, scoring, policy, action, egress. The chart decides optimization order and shows which hop breaks the p99 promise first under stress."
   },
   {
    "t": "chart",
@@ -1282,27 +1282,27 @@
     [
      "Transport",
      "Kafka-class log with schema registry",
-     "Direct HTTP into processors — replay dies instantly"
+     "Direct HTTP into processors, replay dies instantly"
     ],
     [
      "Processing",
      "Flink-class stateful engine with exactly-once",
-     "Micro-batch for decisions under 200ms — it cannot"
+     "Micro-batch for decisions under 200ms, it cannot"
     ],
     [
      "State",
      "RocksDB-class durable state with changelog",
-     "In-memory state — rebalances reset customer sessions"
+     "In-memory state, rebalances reset customer sessions"
     ],
     [
      "Decisions",
      "Rules + models behind a policy gate",
-     "Model calls on every event — budget it or batch features"
+     "Model calls on every event, budget it or batch features"
     ],
     [
      "Replay",
      "Pinned-schema archive with harness",
-     "Sampling archives — replay must cover 100% of events"
+     "Sampling archives, replay must cover 100% of events"
     ]
    ]
   },
@@ -1456,7 +1456,7 @@
   },
   {
    "t": "p",
-   "x": "Every decision records its inputs, model version and budget state at decision time — the incident review question 'what did the system know when it acted' has a definitive answer."
+   "x": "Every decision records its inputs, model version and budget state at decision time, the incident review question 'what did the system know when it acted' has a definitive answer."
   },
   {
    "t": "bullets",
@@ -1491,12 +1491,12 @@
   },
   {
    "t": "p",
-   "x": "Real-time programs fail when latency is a vibe: the path claims milliseconds and the decision lands late. The engineering treats the path as a budget — end-to-end milliseconds allocated across the hops (ingest, bus, state, rules, action), each enforced with p99 checks, and the budget signed per decision class because fraud decisioning and inventory refresh do not share a tolerance. Exactly-once semantics are provable: event-sourced decisions in a durable state store, idempotent actions, and the audit trail that reconstructs any decision from its events.",
+   "x": "Real-time programs fail when latency is a vibe: the path claims milliseconds and the decision lands late. The engineering treats the path as a budget, end-to-end milliseconds allocated across the hops (ingest, bus, state, rules, action), each enforced with p99 checks, and the budget signed per decision class because fraud decisioning and inventory refresh do not share a tolerance. Exactly-once semantics are provable: event-sourced decisions in a durable state store, idempotent actions, and the audit trail that reconstructs any decision from its events.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The replay harness is the truth mechanism: decisions re-driven from the event log must produce parity with what ran — rule changes, model swaps and incidents are all validated by replay before production trusts them again. The console reads p99 per hop, budget adherence and replay parity; the incident review reads the decision audit, because a streaming decision that cannot explain itself is a liability at market speed.",
+   "x": "The replay harness is the truth mechanism: decisions re-driven from the event log must produce parity with what ran, rule changes, model swaps and incidents are all validated by replay before production trusts them again. The console reads p99 per hop, budget adherence and replay parity; the incident review reads the decision audit, because a streaming decision that cannot explain itself is a liability at market speed.",
    "phase3_deep": true
   },
   {
@@ -1504,7 +1504,7 @@
    "items": [
     [
      "Signed latency budgets",
-     "Milliseconds per hop, per decision class — enforced with p99 checks."
+     "Milliseconds per hop, per decision class, enforced with p99 checks."
     ],
     [
      "Provable exactly-once",
@@ -1512,7 +1512,7 @@
     ],
     [
      "Replay parity harness",
-     "Re-driven decisions must match what ran — before trust resumes."
+     "Re-driven decisions must match what ran, before trust resumes."
     ],
     [
      "Versioned decisions",
@@ -1526,7 +1526,7 @@
    "items": [
     [
      "What does \"real-time is a budget\" mean?",
-     "A number per hop: 150ms allocated across consume, validate, state update, enrich, decide and act. Measured p99 must hold headroom on each hop — a path without a budget is marketing, and the console shows where the money goes."
+     "A number per hop: 150ms allocated across consume, validate, state update, enrich, decide and act. Measured p99 must hold headroom on each hop, a path without a budget is marketing, and the console shows where the money goes."
     ],
     [
      "How do you guarantee exactly-once decisions?",
@@ -1534,21 +1534,21 @@
     ],
     [
      "How are decisions made auditable?",
-     "Every decision carries its inputs, the policy version and the state snapshot it saw — incident review reconstructs the decision path hop by hop, which the governance overlay treats as a first-class artifact."
+     "Every decision carries its inputs, the policy version and the state snapshot it saw, incident review reconstructs the decision path hop by hop, which the governance overlay treats as a first-class artifact."
     ],
     [
      "What happens when a hop exceeds its budget?",
-     "The budget degrades gracefully: degrade paths — skip enrichment, cached decisions — are pre-built and rehearsed, and sustained breach is a gate metric. Real-time that quietly becomes batch-at-scale is the failure the budget prevents."
+     "The budget degrades gracefully: degrade paths, skip enrichment, cached decisions, are pre-built and rehearsed, and sustained breach is a gate metric. Real-time that quietly becomes batch-at-scale is the failure the budget prevents."
     ],
     [
      "Can this overlay our existing streaming stack?",
-     "Yes — the integration surface names your streams, state stores and action systems; budgets overlay the existing topology, and the defaults table names where a hop earns a deviation."
+     "Yes, the integration surface names your streams, state stores and action systems; budgets overlay the existing topology, and the defaults table names where a hop earns a deviation."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the decision your traders or operators say is too slow. The diagnostic will budget your path hop by hop — and show exactly where the p99 promise breaks."
+   "x": "Bring the decision your traders or operators say is too slow. The diagnostic will budget your path hop by hop, and show exactly where the p99 promise breaks."
   }
  ],
  "words": 1081,
@@ -1633,19 +1633,19 @@
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Same domain",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Same domain",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Same domain",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Enterprise AI Strategy & Roadmapping",
@@ -1657,19 +1657,19 @@
    "title": "Digital Workforce & Multi-Agent Orchestration",
    "url": "/services/agentic-ai-hyperautomation/digital-workforce-orchestration/",
    "tag": "Pairs with",
-   "desc": "agent-fleet management as workforce management — capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
+   "desc": "agent-fleet management as workforce management, capacity, shifts, versioning, retirement and utilization, with SLAs that hold while the fleet scales."
   },
   {
    "title": "Hybrid & Multicloud Architecture",
    "url": "/services/cloud-edge-platform-engineering/hybrid-multicloud-architecture/",
    "tag": "Pairs with",
-   "desc": "one operating model across clouds and on-prem — workload placement by policy, portable patterns, and drift that is measured in one place."
+   "desc": "one operating model across clouds and on-prem, workload placement by policy, portable patterns, and drift that is measured in one place."
   },
   {
    "title": "A multinational corporate bank",
    "url": "/case-studies/bank-02/",
    "tag": "Evidence",
-   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly."
+   "desc": "KYC refresh backlog cleared, 70% faster cycles with agentic file assembly."
   }
  ],
  "evidence": [

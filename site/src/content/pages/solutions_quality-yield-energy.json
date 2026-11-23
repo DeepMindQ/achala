@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Quality, Yield & Energy Intelligence composes BI & Analytics Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Manufacturing & Industrial, Energy & Utilities, Agrifood, Semiconductors."
+   "x": "Quality, Yield & Energy Intelligence composes BI & Analytics Platform, Fleet Management System, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Manufacturing & Industrial, Energy & Utilities, Agrifood, Semiconductors."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "Quality, Yield & Energy Intelligence runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Quality, Yield & Energy Intelligence runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "What the Quality, Yield & Energy Intelligence case is written against — priced against your own baseline in the diagnostic, not quoted from marketing:"
+   "x": "What the Quality, Yield & Energy Intelligence case is written against, priced against your own baseline in the diagnostic, not quoted from marketing:"
   },
   {
    "t": "bullets",
@@ -203,7 +203,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Quality, Yield & Energy Intelligence, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Quality, Yield & Energy Intelligence, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 359,
@@ -284,7 +284,7 @@
    "title": "Intelligent Process Automation at Scale",
    "url": "/solutions/process-automation-scale/",
    "tag": "Ops",
-   "desc": "From pilot purgatory to a governed fleet — automation with conformance."
+   "desc": "From pilot purgatory to a governed fleet, automation with conformance."
   },
   {
    "title": "Predictive Maintenance & Asset Performance",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cryptographic inventory and post-quantum migration plan — 100% of the crypto estate mapped in six weeks and the migration sequence signed by the board"
+   "x": "Cryptographic inventory and post-quantum migration plan, 100% of the crypto estate mapped in six weeks and the migration sequence signed by the board"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a digital-only challenger bank with no branches and no mainframe, which sounds like a head start until you count the cryptographic surfaces in a mobile-first stack. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a digital-only challenger bank with no branches and no mainframe, which sounds like a head start until you count the cryptographic surfaces in a mobile-first stack. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline diagnostic mapped before it promised: 214 distinct cryptographic dependencies across mobile, API, HSM and vendor stacks, and no owner for 41 of them. Quantum risk was real but unsequenced — every vendor roadmap assumed someone else would move first."
+   "x": "The baseline diagnostic mapped before it promised: 214 distinct cryptographic dependencies across mobile, API, HSM and vendor stacks, and no owner for 41 of them. Quantum risk was real but unsequenced, every vendor roadmap assumed someone else would move first."
   },
   {
    "t": "p",

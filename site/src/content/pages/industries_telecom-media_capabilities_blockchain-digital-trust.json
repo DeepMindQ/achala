@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Blockchain & Digital Trust reality in Telecom, Media & Entertainment: Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups — streaming personalization, ad targeting under consent, and content-performance analytics."
+   "x": "One more Blockchain & Digital Trust reality in Telecom, Media & Entertainment: Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups, streaming personalization, ad targeting under consent, and content-performance analytics."
   },
   {
    "t": "h2",
@@ -175,11 +175,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The interconnect and roaming reconciliation cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (wholesale settlement network), and the gate review decides what scales — all inside one quarter in Telecom, Media & Entertainment. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Telecom, Media & Entertainment, that discipline is not optional — it is the engagement model."
+   "x": "The interconnect and roaming reconciliation cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (wholesale settlement network), and the gate review decides what scales, all inside one quarter in Telecom, Media & Entertainment. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Telecom, Media & Entertainment, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -213,7 +213,7 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -224,19 +224,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -250,7 +250,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Blockchain & Digital Trust in Telecom, Media & Entertainment to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Blockchain & Digital Trust in Telecom, Media & Entertainment to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 508,
@@ -324,13 +324,13 @@
    "title": "Blockchain & Digital Trust for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "Blockchain & Digital Trust for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

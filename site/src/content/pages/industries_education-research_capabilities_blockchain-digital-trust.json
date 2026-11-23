@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The research frontier advantage cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (credential wallets for graduates), and the gate review decides what scales — all inside one quarter in Education & Research. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The research frontier advantage cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (credential wallets for graduates), and the gate review decides what scales, all inside one quarter in Education & Research. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -236,19 +236,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Blockchain & Digital Trust in Education & Research, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Blockchain & Digital Trust in Education & Research, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 491,
@@ -336,7 +336,7 @@
    "title": "Blockchain & Digital Trust for Workforce & Vocational Training",
    "url": "/industries/education-research/workforce-training/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

@@ -33,7 +33,7 @@
   },
   {
    "t": "p",
-   "x": "The alliance with NVIDIA covers Accelerated computing for AI factories and inference at scale — backed by joint reference architectures, certification on both sides, and a support map with real names in it."
+   "x": "The alliance with NVIDIA covers Accelerated computing for AI factories and inference at scale, backed by joint reference architectures, certification on both sides, and a support map with real names in it."
   },
   {
    "t": "h2",
@@ -44,19 +44,19 @@
    "items": [
     [
      "AI inference factories with token-level cost governance",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "End-to-end accelerated RAG and multimodal platforms",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "GPU capacity planning, scheduling and right-sizing programs",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ],
     [
      "Omniverse-class simulation pipelines for digital twins",
-     "joint delivery scenario — reference architecture, certified team and support path in place"
+     "joint delivery scenario, reference architecture, certified team and support path in place"
     ]
    ]
   },

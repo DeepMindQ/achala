@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Multi-cloud misconfiguration and entitlement control: infrastructure-as-code guardrails that block bad deploys, CSPM with dwell-time budgets instead of dashboard anxiety, and entitlement reduction you can trend — across clouds, without blind consoles."
+   "x": "Multi-cloud misconfiguration and entitlement control: infrastructure-as-code guardrails that block bad deploys, CSPM with dwell-time budgets instead of dashboard anxiety, and entitlement reduction you can trend, across clouds, without blind consoles."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Cloud incidents are mostly self-inflicted: a public bucket, an over-privileged role, an untagged resource nobody owns. Cloud security posture is the discipline of making the misconfiguration impossible or short-lived — guardrails in the IaC pipeline, continuous posture checks with dwell-time metrics, and entitlement right-sizing that actually shrinks blast radius."
+   "x": "Cloud incidents are mostly self-inflicted: a public bucket, an over-privileged role, an untagged resource nobody owns. Cloud security posture is the discipline of making the misconfiguration impossible or short-lived, guardrails in the IaC pipeline, continuous posture checks with dwell-time metrics, and entitlement right-sizing that actually shrinks blast radius."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these regenerates the same misconfigurations weekly — the countermeasures move the fix upstream into the pipeline, where it stays fixed."
+   "x": "Each of these regenerates the same misconfigurations weekly, the countermeasures move the fix upstream into the pipeline, where it stays fixed."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The control point is the pipeline: IaC gates block non-compliant templates before deploy, runtime posture monitors catch drift with dwell-time budgets, and entitlement reviews trend downward on a schedule — across clouds, with policy parity as a gate, not a hope."
+   "x": "The control point is the pipeline: IaC gates block non-compliant templates before deploy, runtime posture monitors catch drift with dwell-time budgets, and entitlement reviews trend downward on a schedule, across clouds, with policy parity as a gate, not a hope."
   },
   {
    "t": "arch",
@@ -293,7 +293,7 @@
   },
   {
    "t": "p",
-   "x": "From commit through IaC policy gate, deploy, runtime posture check and the drift path — including where a blocked deploy teaches the team faster than a dashboard would."
+   "x": "From commit through IaC policy gate, deploy, runtime posture check and the drift path, including where a blocked deploy teaches the team faster than a dashboard would."
   },
   {
    "t": "diagram",
@@ -317,7 +317,7 @@
   },
   {
    "t": "p",
-   "x": "Critical misconfiguration dwell, IaC gate blocks and entitlement trend — the three numbers that show whether posture control is compounding or regenerating."
+   "x": "Critical misconfiguration dwell, IaC gate blocks and entitlement trend, the three numbers that show whether posture control is compounding or regenerating."
   },
   {
    "t": "idash",
@@ -616,7 +616,7 @@
   },
   {
    "t": "p",
-   "x": "Critical misconfiguration dwell and entitlement count across quarters — the two curves that decide whether the guardrail investment is reducing risk or just renaming it."
+   "x": "Critical misconfiguration dwell and entitlement count across quarters, the two curves that decide whether the guardrail investment is reducing risk or just renaming it."
   },
   {
    "t": "chart",
@@ -1119,27 +1119,27 @@
     [
      "Prevention",
      "Plan-time policy (OPA/sentinel-class) in CI",
-     "Scan-after-deploy only — the misconfig already exists"
+     "Scan-after-deploy only, the misconfig already exists"
     ],
     [
      "Posture",
      "Normalized control model across clouds",
-     "Three native consoles — three blind spots"
+     "Three native consoles, three blind spots"
     ],
     [
      "Entitlement",
      "Analytics-driven right-sizing with PRs",
-     "Annual access reviews — sprawl compounds daily"
+     "Annual access reviews, sprawl compounds daily"
     ],
     [
      "Drift",
      "Auto-revert on guarded resources",
-     "Ticket-only drift handling — hand changes persist"
+     "Ticket-only drift handling, hand changes persist"
     ],
     [
      "Evidence",
      "Auto-generated control packs",
-     "Manual audit prep — it costs a sprint every time"
+     "Manual audit prep, it costs a sprint every time"
     ]
    ]
   },
@@ -1293,7 +1293,7 @@
   },
   {
    "t": "p",
-   "x": "Entitlement reviews run on schedules with trending targets — the -31% style reductions are earned by removal sprints with owners, not by dashboards that merely count the problem."
+   "x": "Entitlement reviews run on schedules with trending targets, the -31% style reductions are earned by removal sprints with owners, not by dashboards that merely count the problem."
   },
   {
    "t": "bullets",
@@ -1328,12 +1328,12 @@
   },
   {
    "t": "p",
-   "x": "Cloud security becomes churn when it reports: findings arrive weeks late, get triaged into oblivion, and the same misconfiguration returns with the next sprint. The engineering gate inverts it — policy checks run at plan time in the IaC pipeline, blocking non-compliant infrastructure before it applies, with developer-readable messages and golden-path alternatives. The posture engine then watches runtime continuously, and drift reverts automatically with a log entry, because an unowned drift is an incident in rehearsal.",
+   "x": "Cloud security becomes churn when it reports: findings arrive weeks late, get triaged into oblivion, and the same misconfiguration returns with the next sprint. The engineering gate inverts it, policy checks run at plan time in the IaC pipeline, blocking non-compliant infrastructure before it applies, with developer-readable messages and golden-path alternatives. The posture engine then watches runtime continuously, and drift reverts automatically with a log entry, because an unowned drift is an incident in rehearsal.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Entitlement analytics is where cloud estates actually bleed: the identity-to-permission graph finds the standing admin grants, the stale cross-account roles and the service principals nobody can name. Dwell time — how long a critical finding lives — is the headline metric, because it converts posture from a count into a clock, and the review reads the trend: which finding classes dwell longest, and which team owns the fix.",
+   "x": "Entitlement analytics is where cloud estates actually bleed: the identity-to-permission graph finds the standing admin grants, the stale cross-account roles and the service principals nobody can name. Dwell time, how long a critical finding lives, is the headline metric, because it converts posture from a count into a clock, and the review reads the trend: which finding classes dwell longest, and which team owns the fix.",
    "phase3_deep": true
   },
   {
@@ -1345,7 +1345,7 @@
     ],
     [
      "Automatic drift revert",
-     "Runtime drift reverts with a log entry — no unowned drift."
+     "Runtime drift reverts with a log entry, no unowned drift."
     ],
     [
      "Entitlement graph",
@@ -1363,15 +1363,15 @@
    "items": [
     [
      "Why is our CSPM full of findings nobody fixes?",
-     "Because findings arrive after deployment, detached from the deploy decision. Guardrails at plan time shift the same checks into the pull request — prevention hits 84% and the remaining runtime findings carry a dwell SLA measured in hours."
+     "Because findings arrive after deployment, detached from the deploy decision. Guardrails at plan time shift the same checks into the pull request, prevention hits 84% and the remaining runtime findings carry a dwell SLA measured in hours."
     ],
     [
      "How do you stop guardrails from blocking delivery?",
-     "Guardrails ship with the paved road: golden-path templates pass by construction, exceptions are expiry-dated, and the gates track prevention rate against escape rate — a guardrail that blocks more than it prevents gets re-designed."
+     "Guardrails ship with the paved road: golden-path templates pass by construction, exceptions are expiry-dated, and the gates track prevention rate against escape rate, a guardrail that blocks more than it prevents gets re-designed."
     ],
     [
      "Can you handle multi-cloud posture?",
-     "Yes — the control plane normalizes findings across clouds, and the console reports dwell per severity per cloud. The defaults table names where a cloud-specific control earns a deviation."
+     "Yes, the control plane normalizes findings across clouds, and the console reports dwell per severity per cloud. The defaults table names where a cloud-specific control earns a deviation."
     ],
     [
      "What about entitlement sprawl?",
@@ -1379,13 +1379,13 @@
     ],
     [
      "Who owns posture after handover?",
-     "The platform security team inherits the guardrails as code, the exception register, the console and the gates — posture becomes an engineering gate the pipeline enforces, not a report the auditor reads."
+     "The platform security team inherits the guardrails as code, the exception register, the console and the gates, posture becomes an engineering gate the pipeline enforces, not a report the auditor reads."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Count how long your last critical misconfiguration lived before someone closed it. The diagnostic will measure your real dwell-time budget — and show what pipeline guardrails would catch first."
+   "x": "Count how long your last critical misconfiguration lived before someone closed it. The diagnostic will measure your real dwell-time budget, and show what pipeline guardrails would catch first."
   }
  ],
  "words": 1001,
@@ -1470,31 +1470,31 @@
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Same domain",
-   "desc": "workforce and machine identity lifecycle done properly — joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
+   "desc": "workforce and machine identity lifecycle done properly, joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
   },
   {
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Same domain",
-   "desc": "detection engineering with measured coverage — threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
+   "desc": "detection engineering with measured coverage, threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
   },
   {
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Same domain",
-   "desc": "per-request policy decisions on identity, device and context — network location stops being a privilege, and coverage is measured on the paths that matter."
+   "desc": "per-request policy decisions on identity, device and context, network location stops being a privilege, and coverage is measured on the paths that matter."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Pairs with",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "Quantum Optimization for Enterprise Problems",
    "url": "/services/quantum-advanced-compute/quantum-optimization/",
    "tag": "Pairs with",
-   "desc": "hybrid optimization on real problems — QUBO formulation, annealer and gate-model access, and classical polish that beats the baseline or says so."
+   "desc": "hybrid optimization on real problems, QUBO formulation, annealer and gate-model access, and classical polish that beats the baseline or says so."
   },
   {
    "title": "Multimodal AI & Vision-Language Systems",
@@ -1506,7 +1506,7 @@
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

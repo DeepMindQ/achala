@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "A six-week Value Mapping Sprint that scores your use-case portfolio on value density, data readiness, regulatory exposure and operational absorption — and returns a 24-month sequenced roadmap with funding gates."
+   "x": "A six-week Value Mapping Sprint that scores your use-case portfolio on value density, data readiness, regulatory exposure and operational absorption, and returns a 24-month sequenced roadmap with funding gates."
   },
   {
    "t": "p",
-   "x": "A six-week Value Mapping Sprint that scores your use-case portfolio on value density, data readiness, regulatory exposure and operational absorption — and returns a 24-month sequenced roadmap with funding gates. Output is capital-committee grade."
+   "x": "A six-week Value Mapping Sprint that scores your use-case portfolio on value density, data readiness, regulatory exposure and operational absorption, and returns a 24-month sequenced roadmap with funding gates. Output is capital-committee grade."
   },
   {
    "t": "h2",
@@ -24,7 +24,7 @@
    "items": [
     [
      "Preparation",
-     "We start from your use-case inventory — even a rough list — and score it against value-density and data-readiness criteria before the first workshop."
+     "We start from your use-case inventory, even a rough list, and score it against value-density and data-readiness criteria before the first workshop."
     ],
     [
      "The sprint",
@@ -32,7 +32,7 @@
     ],
     [
      "The follow-up",
-     "A two-page readout with the reasoning attached — the scored portfolio, the sequence we would run, and the baseline window to lock first."
+     "A two-page readout with the reasoning attached, the scored portfolio, the sequence we would run, and the baseline window to lock first."
     ]
    ]
   },
@@ -45,7 +45,7 @@
    "items": [
     [
      "Who attends?",
-     "Your domain owners plus one decision maker with budget context — the scoring only works when the people who own the workflows are in the room."
+     "Your domain owners plus one decision maker with budget context, the scoring only works when the people who own the workflows are in the room."
     ],
     [
      "What should we bring?",

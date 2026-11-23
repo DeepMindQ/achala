@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Claims triage in minutes — 55% faster cycle times with document intelligence"
+   "x": "Claims triage in minutes, 55% faster cycle times with document intelligence"
   },
   {
    "t": "h2",
@@ -219,11 +219,11 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
     ],
     [
      "Data & Lakehouse",
@@ -237,7 +237,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind the top-5 global P&C insurer program travels; the estate does not. Teams considering this path should expect the diagnostic to reshape scope at least once — that is the process working, not failing The engagement model here was outcome-linked; the same pattern runs fixed-scope where the estate allows it."
+   "x": "The pattern behind the top-5 global P&C insurer program travels; the estate does not. Teams considering this path should expect the diagnostic to reshape scope at least once, that is the process working, not failing The engagement model here was outcome-linked; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",
@@ -264,7 +264,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the same diagnostic to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring the same diagnostic to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 335,

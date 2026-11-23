@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Honest quantum strategy: use cases triaged on verifiable criteria, a vendor-neutral posture, baselines measured before any hardware is booked — and a roadmap whose milestones are kill criteria, not keynote dates."
+   "x": "Honest quantum strategy: use cases triaged on verifiable criteria, a vendor-neutral posture, baselines measured before any hardware is booked, and a roadmap whose milestones are kill criteria, not keynote dates."
   },
   {
    "t": "p",
-   "x": "Most quantum strategy is either hype (quantum will solve everything by 2027) or dismissal (check back in 2035). Both waste money. The honest middle: triage your problem estate against criteria that can be verified — problem structure, data encoding cost, tolerance for noise, and whether a strong classical baseline even exists to beat."
+   "x": "Most quantum strategy is either hype (quantum will solve everything by 2027) or dismissal (check back in 2035). Both waste money. The honest middle: triage your problem estate against criteria that can be verified, problem structure, data encoding cost, tolerance for noise, and whether a strong classical baseline even exists to beat."
   },
   {
    "t": "p",
-   "x": "The deliverable is a portfolio with three lists: problems worth formulating now, problems to watch as hardware improves, and problems where classical HPC is the right answer today — plus the PQC risk register, because the one quantum-adjacent deadline that is real is the cryptography one."
+   "x": "The deliverable is a portfolio with three lists: problems worth formulating now, problems to watch as hardware improves, and problems where classical HPC is the right answer today, plus the PQC risk register, because the one quantum-adjacent deadline that is real is the cryptography one."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Each failure mode spends real budget on unmeasurable outcomes — the countermeasures make every next step falsifiable and every claim reproducible."
+   "x": "Each failure mode spends real budget on unmeasurable outcomes, the countermeasures make every next step falsifiable and every claim reproducible."
   },
   {
    "t": "table",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Candidates enter through a scored rubric — problem structure, data readiness, baseline availability, risk posture — and exit either into a benchmark plan, the PQC track or a documented park. Nothing reaches a hardware budget without a signed classical baseline."
+   "x": "Candidates enter through a scored rubric, problem structure, data readiness, baseline availability, risk posture, and exit either into a benchmark plan, the PQC track or a documented park. Nothing reaches a hardware budget without a signed classical baseline."
   },
   {
    "t": "arch",
@@ -293,7 +293,7 @@
   },
   {
    "t": "p",
-   "x": "From the vendor pitch through rubric scoring, baseline definition, the formulate-now test and the roadmap slot — including the park list where most ideas correctly wait."
+   "x": "From the vendor pitch through rubric scoring, baseline definition, the formulate-now test and the roadmap slot, including the park list where most ideas correctly wait."
   },
   {
    "t": "diagram",
@@ -317,7 +317,7 @@
   },
   {
    "t": "p",
-   "x": "Problems triaged, formulate-now count and baseline pass rate — the three numbers that show whether the strategy is discovering advantage or collecting slideware."
+   "x": "Problems triaged, formulate-now count and baseline pass rate, the three numbers that show whether the strategy is discovering advantage or collecting slideware."
   },
   {
    "t": "idash",
@@ -630,7 +630,7 @@
   },
   {
    "t": "p",
-   "x": "The share of candidates whose classical baseline passed audit, by quarter — the honest curve that shows how much of the quantum conversation survives measurement."
+   "x": "The share of candidates whose classical baseline passed audit, by quarter, the honest curve that shows how much of the quantum conversation survives measurement."
   },
   {
    "t": "chart",
@@ -1118,27 +1118,27 @@
     [
      "Triage criteria",
      "Written, verifiable, published internally",
-     "Gut-feel scoring — the portfolio mirrors politics"
+     "Gut-feel scoring, the portfolio mirrors politics"
     ],
     [
      "Baselines",
      "Best-known classical results, archived",
-     "Literature numbers — they are rarely your problem"
+     "Literature numbers, they are rarely your problem"
     ],
     [
      "Vendor posture",
      "Neutral capability tracking with benchmarks",
-     "Single-vendor strategy meetings — lock-in arrives early"
+     "Single-vendor strategy meetings, lock-in arrives early"
     ],
     [
      "PQC",
      "Inventory-first, migration-sketch second",
-     "Waiting for standards finality — inventory is usable now"
+     "Waiting for standards finality, inventory is usable now"
     ],
     [
      "Governance",
      "Quarterly re-triage with kill criteria",
-     "Annual strategy refresh — hardware moves faster"
+     "Annual strategy refresh, hardware moves faster"
     ]
    ]
   },
@@ -1292,7 +1292,7 @@
   },
   {
    "t": "p",
-   "x": "Every roadmap milestone carries pre-signed kill criteria and the ledger records outcomes — the strategy document your board can trust because its failures are on the same page as its successes."
+   "x": "Every roadmap milestone carries pre-signed kill criteria and the ledger records outcomes, the strategy document your board can trust because its failures are on the same page as its successes."
   },
   {
    "t": "bullets",
@@ -1327,12 +1327,12 @@
   },
   {
    "t": "p",
-   "x": "Quantum strategies get captured by hype when the roadmap leads with hardware: the honest strategy leads with triage — candidate use cases scored against verifiable criteria (where could advantage plausibly appear, what would it be worth, what is the classical state of the art) before any spend. The classical baseline check is the first gate: a use case that the best current solver already answers to tolerance is filed, dated and revisited — the memo's favorite word applies. Independent benchmarks anchor the evidence, and kill criteria are written at funding, not discovered at review.",
+   "x": "Quantum strategies get captured by hype when the roadmap leads with hardware: the honest strategy leads with triage, candidate use cases scored against verifiable criteria (where could advantage plausibly appear, what would it be worth, what is the classical state of the art) before any spend. The classical baseline check is the first gate: a use case that the best current solver already answers to tolerance is filed, dated and revisited, the memo's favorite word applies. Independent benchmarks anchor the evidence, and kill criteria are written at funding, not discovered at review.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The PQC track runs regardless of quantum optimism, because the clock is real: the crypto inventory, harvest-risk dating and migration waves proceed on regulatory and archival timelines that do not care about qubit counts. The console reads triage pass rates, pending revisits and PQC coverage; the governance overlay keeps the kill-criteria ledger — the record of what was tried, deferred and killed is the strategy's actual output, and it is what protects the budget from enthusiasm.",
+   "x": "The PQC track runs regardless of quantum optimism, because the clock is real: the crypto inventory, harvest-risk dating and migration waves proceed on regulatory and archival timelines that do not care about qubit counts. The console reads triage pass rates, pending revisits and PQC coverage; the governance overlay keeps the kill-criteria ledger, the record of what was tried, deferred and killed is the strategy's actual output, and it is what protects the budget from enthusiasm.",
    "phase3_deep": true
   },
   {
@@ -1374,17 +1374,17 @@
     ],
     [
      "What should we do about post-quantum security?",
-     "That is the security program, not the compute strategy: the PQC migration service runs separately — inventory, harvest-risk waves, crypto-agility — because the deadline there is real regardless of compute timelines."
+     "That is the security program, not the compute strategy: the PQC migration service runs separately, inventory, harvest-risk waves, crypto-agility, because the deadline there is real regardless of compute timelines."
     ],
     [
      "What does the strategy office inherit?",
-     "The triage pipeline, the scored ledger, the kill-criteria overlay and the gates — a strategy the board can read: what we do now, what we watch, and the criteria that move problems between them."
+     "The triage pipeline, the scored ledger, the kill-criteria overlay and the gates, a strategy the board can read: what we do now, what we watch, and the criteria that move problems between them."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the quantum slide from your last board deck. The two-week triage will score every claim on verifiable criteria — and hand back a roadmap your CFO can actually audit."
+   "x": "Bring the quantum slide from your last board deck. The two-week triage will score every claim on verifiable criteria, and hand back a roadmap your CFO can actually audit."
   }
  ],
  "words": 996,
@@ -1469,43 +1469,43 @@
    "title": "Neuromorphic & Emerging Compute Advisory",
    "url": "/services/quantum-advanced-compute/emerging-compute-advisory/",
    "tag": "Same domain",
-   "desc": "neutral horizon scanning — photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
+   "desc": "neutral horizon scanning, photonic, neuromorphic, in-memory and beyond, with evidence memos that translate vendor noise into engineering decisions."
   },
   {
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Same domain",
-   "desc": "classical HPC that does the heavy lifting — benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
+   "desc": "classical HPC that does the heavy lifting, benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
   },
   {
    "title": "Post-Quantum Cryptography Migration",
    "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
    "tag": "Same domain",
-   "desc": "PQC migration as engineering — crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
+   "desc": "PQC migration as engineering, crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
   },
   {
    "title": "AI Security & Model Protection",
    "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
    "tag": "Pairs with",
-   "desc": "security for the models themselves — prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
+   "desc": "security for the models themselves, prompt-injection defense, abuse containment, model theft resistance and eval-based red teams wired into the platform."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Pairs with",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Pairs with",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "A global integrated energy major",
    "url": "/case-studies/en-02/",
    "tag": "Evidence",
-   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale."
+   "desc": "Turnaround duration down 14%, scheduling optimization at refinery scale."
   }
  ],
  "evidence": [

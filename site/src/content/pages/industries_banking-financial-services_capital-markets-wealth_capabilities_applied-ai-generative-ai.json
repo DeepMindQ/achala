@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI for Capital Markets & Wealth Management starts at the reconciliation and breaks manual queue — pricing it honestly, then the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Applied AI & GenAI for Capital Markets & Wealth Management starts at the reconciliation and breaks manual queue, pricing it honestly, then the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Reconciliation and breaks manual is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Reconciliation and breaks manual is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Capital Markets & Wealth Management, the pattern is advisor copilot — portfolio context, research and market moves summarized with citations pre-meeting. Prep time down 40-60% sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "In Capital Markets & Wealth Management, the pattern is advisor copilot, portfolio context, research and market moves summarized with citations pre-meeting. Prep time down 40-60% sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. reconciliation and breaks manual gets a number, an owner and a signature; the quarter belongs to a bounded slice — Advisor copilot — live on your estate. In Capital Markets & Wealth Management programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The first two weeks belong to the baseline. reconciliation and breaks manual gets a number, an owner and a signature; the quarter belongs to a bounded slice, Advisor copilot, live on your estate. In Capital Markets & Wealth Management programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Capital Markets & Wealth Management: MiFID II / fiduciary regimes — suitability and best-execution evidence; Client-asset protection rules — custody reconciliation duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Capital Markets & Wealth Management: MiFID II / fiduciary regimes, suitability and best-execution evidence; Client-asset protection rules, custody reconciliation duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

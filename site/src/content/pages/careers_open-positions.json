@@ -15,7 +15,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Open roles at Achala IT Solutions — delivery engineering across applied AI, data platforms, security, edge and cloud. Every listing names the team, the stack and the interview loop before you apply."
+   "x": "Open roles at Achala IT Solutions, delivery engineering across applied AI, data platforms, security, edge and cloud. Every listing names the team, the stack and the interview loop before you apply."
   },
   {
    "t": "h2",
@@ -47,11 +47,11 @@
   },
   {
    "t": "p",
-   "x": "Apply through the careers inbox with a CV and one artifact you are proud of — a design doc, a repository, a post-mortem you wrote. That artifact starts the conversation."
+   "x": "Apply through the careers inbox with a CV and one artifact you are proud of, a design doc, a repository, a post-mortem you wrote. That artifact starts the conversation."
   },
   {
    "t": "cta",
-   "x": "If the way we work reads like the way you work, careers@achalasolutions.com is the door — bring an artifact, not a cover letter."
+   "x": "If the way we work reads like the way you work, careers@achalasolutions.com is the door, bring an artifact, not a cover letter."
   }
  ],
  "crumbs": [

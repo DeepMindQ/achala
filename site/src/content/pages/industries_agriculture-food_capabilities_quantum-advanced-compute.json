@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute as we run it in Agriculture & Food Systems inverts the predictable failures — the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both."
+   "x": "Quantum & Advanced Compute as we run it in Agriculture & Food Systems inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Agriculture & Food Systems, the working pattern is harvest logistics optimization: routing/storage tournaments at season peak. Windows met where solvers win is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Agriculture & Food Systems, the working pattern is harvest logistics optimization: routing/storage tournaments at season peak. Windows met where solvers win is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. logistics at combinatorial scale gets a number, an owner and a signature; the quarter belongs to a bounded slice — harvest logistics optimization — live on your estate. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. logistics at combinatorial scale gets a number, an owner and a signature; the quarter belongs to a bounded slice, harvest logistics optimization, live on your estate. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -195,26 +195,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Quantum & Advanced Compute for Agriculture & Food Systems — each page documents the build as delivered:"
+   "x": "Named services for Quantum & Advanced Compute for Agriculture & Food Systems, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -302,7 +302,7 @@
    "title": "Quantum & Advanced Compute for AgriFinance & Commodity Markets",
    "url": "/industries/agriculture-food/agrifinance-commodities/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

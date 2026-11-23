@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Culture at Achala IT Solutions is an operating system, not a poster. It is encoded in how engagements start (pre-agreed criteria), how claims are made (benchmarks with baselines), how autonomy is granted (policy envelopes) and how failures are treated (documented negatives that save the next client money)."
+   "x": "Culture at Achala IT Solutions is an operating system, not a poster. It is encoded in how engagements start (pre-agreed criteria), how claims are made (benchmarks with baselines), how autonomy is granted (defined policy limits) and how failures are treated (documented negatives that save the next client money)."
   },
   {
    "t": "p",
-   "x": "We hire for judgment density: engineers who can sit with a credit risk officer, agronomists who can argue with a data scientist, security architects who write for auditors. The internal academy runs credential pathways per domain — from lakehouse engineering to PQC migration — and every delivery pod carries a named quality owner."
+   "x": "We hire for judgment density: engineers who can sit with a credit risk officer, agronomists who can argue with a data scientist, security architects who write for auditors. The internal academy runs credential pathways per domain, from lakehouse engineering to PQC migration, and every delivery pod carries a named quality owner."
   },
   {
    "t": "h2",
@@ -32,7 +32,7 @@
     ],
     [
      "Zero-exposure security",
-     "Client data is never training material. Zero-exposure architecture — enclaves, tenant isolation, customer-managed keys — is our default."
+     "Client data is never training material. Zero-exposure architecture, enclaves, tenant isolation, customer-managed keys, is our default."
     ],
     [
      "Engineered autonomy",
@@ -61,7 +61,7 @@
     ],
     [
      "The no-go discipline",
-     "Roughly one in three PoCs ends with a documented stop — celebrated, because capital was saved."
+     "Roughly one in three PoCs ends with a documented stop, celebrated, because capital was saved."
     ],
     [
      "The security reflex",
@@ -69,7 +69,7 @@
     ],
     [
      "The ownership chain",
-     "Named owner per metric, per control, per model — no orphaned accountability."
+     "Named owner per metric, per control, per model, no orphaned accountability."
     ],
     [
      "The craft standard",

@@ -31,11 +31,11 @@
   {
    "t": "h2",
    "x": "No baseline to no verdict owner — how PoCs become demo-ware",
-   "sub": "No baseline, no real data, no integration probe, no verdict owner — and the fix for each"
+   "sub": "No baseline, no real data, no integration probe, no verdict owner, and the fix for each"
   },
   {
    "t": "p",
-   "x": "Each failure here is a shortcut taken in week one that costs a program in month six — the countermeasures are cheap, and none of them is optional in this sprint."
+   "x": "Each failure here is a shortcut taken in week one that costs a program in month six, the countermeasures are cheap, and none of them is optional in this sprint."
   },
   {
    "t": "table",
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "Week-by-week flow from baseline signing through data-path construction to the verdict review — including the mid-sprint checkpoint where weak ideas are killed early and cheaply."
+   "x": "Week-by-week flow from baseline signing through data-path construction to the verdict review, including the mid-sprint checkpoint where weak ideas are killed early and cheaply."
   },
   {
    "t": "diagram",
@@ -290,7 +290,7 @@
   },
   {
    "t": "p",
-   "x": "Sprints run, verdicts on time, ideas funded to production, ideas killed on evidence and baselines signed — the record that shows whether the sprint process is producing decisions or theater."
+   "x": "Sprints run, verdicts on time, ideas funded to production, ideas killed on evidence and baselines signed, the record that shows whether the sprint process is producing decisions or theater."
   },
   {
    "t": "idash",
@@ -598,11 +598,11 @@
   {
    "t": "h2",
    "x": "Where PoC ideas actually die",
-   "sub": "The kill-reason distribution across sprints — and why kills are the cheap outcome"
+   "sub": "The kill-reason distribution across sprints, and why kills are the cheap outcome"
   },
   {
    "t": "p",
-   "x": "Outcomes across one quarter of sprints, by the stage where each idea was stopped: screening, baseline, data path or verdict. A healthy program kills most ideas before the build — that is the point."
+   "x": "Outcomes across one quarter of sprints, by the stage where each idea was stopped: screening, baseline, data path or verdict. A healthy program kills most ideas before the build, that is the point."
   },
   {
    "t": "chart",
@@ -1152,27 +1152,27 @@
     [
      "Scope instrument",
      "One-page canvas with metric, owner, data path, kill criteria",
-     "Charter documents longer than one page — they hide the weak metric"
+     "Charter documents longer than one page, they hide the weak metric"
     ],
     [
      "Baseline tooling",
      "Scripted collection with the owner's system of record",
-     "Baseline 'estimated from memory' — the first audit kills it"
+     "Baseline 'estimated from memory', the first audit kills it"
     ],
     [
      "Build shape",
      "Thin vertical slice on the real path",
-     "Wide horizontal prototypes — they answer nothing at the gate"
+     "Wide horizontal prototypes, they answer nothing at the gate"
     ],
     [
      "Eval construction",
      "SME-adjudicated set from historic cases",
-     "Team-invented test cases — they measure the team's imagination"
+     "Team-invented test cases, they measure the team's imagination"
     ],
     [
      "Verdict format",
      "One-page exit report: numbers, costs, risks, decision",
-     "Slide decks — they optimize for narrative, not audit"
+     "Slide decks, they optimize for narrative, not audit"
     ]
    ]
   },
@@ -1220,7 +1220,7 @@
   {
    "t": "h2",
    "x": "What you hold at verdict time",
-   "sub": "Baseline, golden set, cost model, gap list — the artifacts a decision needs"
+   "sub": "Baseline, golden set, cost model, gap list, the artifacts a decision needs"
   },
   {
    "t": "bullets",
@@ -1254,7 +1254,7 @@
   {
    "t": "h2",
    "x": "The four weeks, gate by gate",
-   "sub": "Canvas, data, eval, verdict — with exit evidence per gate"
+   "sub": "Canvas, data, eval, verdict, with exit evidence per gate"
   },
   {
    "t": "bullets",
@@ -1351,7 +1351,7 @@
   },
   {
    "t": "note",
-   "x": "Kill verdicts get the same evidence pack as funded ones — the auditable record of why an idea died is the asset that keeps the next portfolio honest."
+   "x": "Kill verdicts get the same evidence pack as funded ones, the auditable record of why an idea died is the asset that keeps the next portfolio honest."
   },
   {
    "t": "h2",
@@ -1361,12 +1361,12 @@
   },
   {
    "t": "p",
-   "x": "Most PoCs measure the wrong thing: demo delight instead of decision-grade deltas. The sprint is instrumented from day one — a provability canvas fixes the metric, the measurement method and the baseline before any model runs; baseline collection measures the human work the model would replace (minutes per case, error rates, rework shares); and the real data path runs production-shaped data under production-shaped governance, so the verdict survives contact with the estate. An integration probe touches at least one real system, because the honest friction — auth, schemas, latency — is where PoC timelines actually die.",
+   "x": "Most PoCs measure the wrong thing: demo delight instead of decision-grade deltas. The sprint is instrumented from day one, a provability canvas fixes the metric, the measurement method and the baseline before any model runs; baseline collection measures the human work the model would replace (minutes per case, error rates, rework shares); and the real data path runs production-shaped data under production-shaped governance, so the verdict survives contact with the estate. An integration probe touches at least one real system, because the honest friction, auth, schemas, latency, is where PoC timelines actually die.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The fund/kill gate is the product. At week four the steering committee reads three numbers: delta against baseline on the golden set, cost per unit of work at sprint scale, and the integration gaps with named owners. Fund means a funded delivery slice with a metric; kill means a documented kill reason in the ledger — and both are wins, because the cheapest failed project is the one that costs four weeks.",
+   "x": "The fund/kill gate is the product. At week four the steering committee reads three numbers: delta against baseline on the golden set, cost per unit of work at sprint scale, and the integration gaps with named owners. Fund means a funded delivery slice with a metric; kill means a documented kill reason in the ledger, and both are wins, because the cheapest failed project is the one that costs four weeks.",
    "phase3_deep": true
   },
   {
@@ -1382,7 +1382,7 @@
     ],
     [
      "Integration probe",
-     "One real system, early — friction is evidence, not noise."
+     "One real system, early, friction is evidence, not noise."
     ],
     [
      "Fund/kill with named owner",
@@ -1400,25 +1400,25 @@
     ],
     [
      "What if the data is not ready in week one?",
-     "The data path is a week-1 gate, not a hope: if the data cannot be wired and profiled by the end of week one, the gate kills the sprint and returns the finding — data readiness is a verdict, not a slide."
+     "The data path is a week-1 gate, not a hope: if the data cannot be wired and profiled by the end of week one, the gate kills the sprint and returns the finding, data readiness is a verdict, not a slide."
     ],
     [
      "How do you measure value without a production deployment?",
-     "The baseline is signed before week one ends, so the eval set measures delta against a number your finance team has already countersigned — holdout-adjusted, with the measurement method in the verdict pack."
+     "The baseline is signed before week one ends, so the eval set measures delta against a number your finance team has already countersigned, holdout-adjusted, with the measurement method in the verdict pack."
     ],
     [
      "Do we get to keep the code and eval artifacts?",
-     "Yes. Baseline, golden eval set, cost model, integration gap list and the verdict pack are yours at verdict time, whatever the verdict is — a kill still leaves you the instrumented evidence."
+     "Yes. Baseline, golden eval set, cost model, integration gap list and the verdict pack are yours at verdict time, whatever the verdict is, a kill still leaves you the instrumented evidence."
     ],
     [
      "What makes this different from our innovation team running a pilot?",
-     "The gates. A pilot runs on enthusiasm; the sprint runs on kill criteria with named owners, and the fund gate requires a price, a data path and an integration probe — the same evidence a steering committee will ask for at scale."
+     "The gates. A pilot runs on enthusiasm; the sprint runs on kill criteria with named owners, and the fund gate requires a price, a data path and an integration probe, the same evidence a steering committee will ask for at scale."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Pick the idea your board keeps asking about. Four weeks, one metric, a real data path — and a verdict with numbers attached, whichever way it lands."
+   "x": "Pick the idea your board keeps asking about. Four weeks, one metric, a real data path, and a verdict with numbers attached, whichever way it lands."
   }
  ],
  "words": 1174,
@@ -1503,7 +1503,7 @@
    "title": "Conversational AI & Digital Humans",
    "url": "/services/applied-ai-generative-ai/conversational-ai-digital-humans/",
    "tag": "Same domain",
-   "desc": "grounded chat and voice agents that contain more without trust loss — dignified handoffs, streaming voice budgets, dialog eval nightly."
+   "desc": "grounded chat and voice agents that contain more without trust loss, dignified handoffs, streaming voice budgets, dialog eval nightly."
   },
   {
    "title": "Enterprise AI Strategy & Roadmapping",
@@ -1515,31 +1515,31 @@
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Same domain",
-   "desc": "one governed door for every model call — authz, budgets, caching, guardrails and traces — so fifty use cases stay operable and affordable."
+   "desc": "one governed door for every model call, authz, budgets, caching, guardrails and traces, so fifty use cases stay operable and affordable."
   },
   {
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Pairs with",
-   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline — conformance-checked, variant-ranked and ROI-priced before anything is built."
+   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline, conformance-checked, variant-ranked and ROI-priced before anything is built."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Pairs with",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Pairs with",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "A national digital-government agency",
    "url": "/case-studies/pub-01/",
    "tag": "Evidence",
-   "desc": "Case processing down 52% — document intelligence under accountable-AI gates."
+   "desc": "Case processing down 52%, document intelligence under accountable-AI gates."
   }
  ],
  "evidence": [

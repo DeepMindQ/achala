@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Identity lifecycle done properly: joiner-mover-leaver automation that revokes on the leaver SLA, privileged access in vaults instead of spreadsheets, standing admin accounts driven to zero — and MFA that people actually complete."
+   "x": "Identity lifecycle done properly: joiner-mover-leaver automation that revokes on the leaver SLA, privileged access in vaults instead of spreadsheets, standing admin accounts driven to zero, and MFA that people actually complete."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Identity is where most breaches begin and where most programs under-invest: accounts outlive their owners, service accounts share passwords, and privileged access is granted with a ticket and forgotten. Modernization is lifecycle engineering — every identity born with an owner, moved with re-attestation, and killed on schedule."
+   "x": "Identity is where most breaches begin and where most programs under-invest: accounts outlive their owners, service accounts share passwords, and privileged access is granted with a ticket and forgotten. Modernization is lifecycle engineering, every identity born with an owner, moved with re-attestation, and killed on schedule."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these is a process failure, not a tool failure — the countermeasures bind the lifecycle to HR and operational reality so revocation is an event, not a TODO."
+   "x": "Every one of these is a process failure, not a tool failure, the countermeasures bind the lifecycle to HR and operational reality so revocation is an event, not a TODO."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The lifecycle is event-driven: joiners provisioned from HR truth, movers re-scoped by role change, leavers revoked on SLA — and privileged access checked out of vaults just-in-time, reviewed, and never standing."
+   "x": "The lifecycle is event-driven: joiners provisioned from HR truth, movers re-scoped by role change, leavers revoked on SLA, and privileged access checked out of vaults just-in-time, reviewed, and never standing."
   },
   {
    "t": "arch",
@@ -298,7 +298,7 @@
   },
   {
    "t": "p",
-   "x": "From the HR trigger through downstream revocations, session invalidation, shared-account rotation and the verification probe — including where the SLA clock starts and what proves it stopped."
+   "x": "From the HR trigger through downstream revocations, session invalidation, shared-account rotation and the verification probe, including where the SLA clock starts and what proves it stopped."
   },
   {
    "t": "diagram",
@@ -322,7 +322,7 @@
   },
   {
    "t": "p",
-   "x": "Leaver revocation SLA, MFA coverage, standing admin count and service-account hygiene — the four numbers that decide whether identity is a control or a finding."
+   "x": "Leaver revocation SLA, MFA coverage, standing admin count and service-account hygiene, the four numbers that decide whether identity is a control or a finding."
   },
   {
    "t": "idash",
@@ -659,7 +659,7 @@
   },
   {
    "t": "p",
-   "x": "Two series across the estate's identity populations — workforce, contractor, service and privileged. The populations where SLA adherence dips are where the next automation investment goes."
+   "x": "Two series across the estate's identity populations, workforce, contractor, service and privileged. The populations where SLA adherence dips are where the next automation investment goes."
   },
   {
    "t": "chart",
@@ -1147,27 +1147,27 @@
     [
      "Lifecycle",
      "HR-driven JML automation with SLAs",
-     "Ticket-driven provisioning — lag is structural"
+     "Ticket-driven provisioning, lag is structural"
     ],
     [
      "Privileged access",
      "PAM vault with JIT elevation and recording",
-     "Standing admin groups — the standing attack path"
+     "Standing admin groups, the standing attack path"
     ],
     [
      "Machine identity",
      "Workload identity federation; vaulted secrets",
-     "Static API keys in repos — the most common breach aid"
+     "Static API keys in repos, the most common breach aid"
     ],
     [
      "Assurance",
      "Weekly hygiene scoring with orphan sweeps",
-     "Annual access reviews — rot compounds weekly"
+     "Annual access reviews, rot compounds weekly"
     ],
     [
      "Phishing resistance",
      "FIDO2 for admins; number matching broadly",
-     "SMS OTP as a control — it is not one"
+     "SMS OTP as a control, it is not one"
     ]
    ]
   },
@@ -1321,7 +1321,7 @@
   },
   {
    "t": "p",
-   "x": "Privileged access is vaulted, checked out just-in-time, session-recorded and reviewed — the standing-admin count reaching zero is the program's proof, not its slogan."
+   "x": "Privileged access is vaulted, checked out just-in-time, session-recorded and reviewed, the standing-admin count reaching zero is the program's proof, not its slogan."
   },
   {
    "t": "bullets",
@@ -1351,17 +1351,17 @@
   {
    "t": "h2",
    "x": "Revocation is the metric that matters",
-   "sub": "Lifecycle fidelity, brokered privilege and workload identity — where auditors look first",
+   "sub": "Lifecycle fidelity, brokered privilege and workload identity, where auditors look first",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Identity programs are judged on the unglamorous metric: how fast access disappears when it should. The lifecycle runs HR-driven — joiner, mover and leaver events drive provisioning with SLAs, and the leaver path is verified, not assumed: revocation is confirmed across every downstream estate (IdP, SaaS, VPN, legacy LDAP), with the confirmation logged per system. Privileged access is brokered, not owned: standing admin grants are eliminated in favor of just-in-time elevation from a vault, with session recording on every privileged minute.",
+   "x": "Identity programs are judged on the unglamorous metric: how fast access disappears when it should. The lifecycle runs HR-driven, joiner, mover and leaver events drive provisioning with SLAs, and the leaver path is verified, not assumed: revocation is confirmed across every downstream estate (IdP, SaaS, VPN, legacy LDAP), with the confirmation logged per system. Privileged access is brokered, not owned: standing admin grants are eliminated in favor of just-in-time elevation from a vault, with session recording on every privileged minute.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Workload identity is the modern frontier — service principals with static secrets are the new service accounts nobody rotated; the modernization replaces them with short-lived, SPIFFE-class workload identities where the platform supports it, and hygiene scoring keeps the honest count everywhere else. The console reads revocation SLA adherence, MFA coverage and hygiene scores; auditors read the same numbers, which is the point.",
+   "x": "Workload identity is the modern frontier, service principals with static secrets are the new service accounts nobody rotated; the modernization replaces them with short-lived, SPIFFE-class workload identities where the platform supports it, and hygiene scoring keeps the honest count everywhere else. The console reads revocation SLA adherence, MFA coverage and hygiene scores; auditors read the same numbers, which is the point.",
    "phase3_deep": true
   },
   {
@@ -1369,7 +1369,7 @@
    "items": [
     [
      "Verified leaver path",
-     "Revocation confirmed per downstream system, logged — never assumed."
+     "Revocation confirmed per downstream system, logged, never assumed."
     ],
     [
      "Brokered privilege",
@@ -1391,7 +1391,7 @@
    "items": [
     [
      "Why is revocation the metric that matters?",
-     "Because auditors find leavers first: an ex-contractor with live credentials invalidates every access review on paper. Revocation SLA is measured from the HR event to verified revocation across every downstream estate — the console headline is exactly that number."
+     "Because auditors find leavers first: an ex-contractor with live credentials invalidates every access review on paper. Revocation SLA is measured from the HR event to verified revocation across every downstream estate, the console headline is exactly that number."
     ],
     [
      "What makes HR the source of truth?",
@@ -1399,21 +1399,21 @@
     ],
     [
      "How are service and workload identities handled?",
-     "As first-class identity classes: rotation on SLA (95–96%), ownership named, standing privilege minimized. Break-glass accounts run at 100% rotation with every use alarmed — the chart shows each class honestly."
+     "As first-class identity classes: rotation on SLA (95–96%), ownership named, standing privilege minimized. Break-glass accounts run at 100% rotation with every use alarmed, the chart shows each class honestly."
     ],
     [
      "Can you modernize without a rip-and-replace of our IAM?",
-     "Yes — the lifecycle plane overlays the existing IAM: HR truth feeds it, revocation verification runs across what exists, and the defaults table names where an identity store earns a deviation."
+     "Yes, the lifecycle plane overlays the existing IAM: HR truth feeds it, revocation verification runs across what exists, and the defaults table names where an identity store earns a deviation."
     ],
     [
      "What does the IAM team inherit?",
-     "The lifecycle plane, the console with revocation and rotation metrics, the gates and the privileged-access overlay — the team operates on SLAs, not on tickets nobody closes."
+     "The lifecycle plane, the console with revocation and rotation metrics, the gates and the privileged-access overlay, the team operates on SLAs, not on tickets nobody closes."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask how fast your last leaver actually lost access — then ask who verified it. The diagnostic will measure your real revocation SLA and vault your privilege before your auditor asks."
+   "x": "Ask how fast your last leaver actually lost access, then ask who verified it. The diagnostic will measure your real revocation SLA and vault your privilege before your auditor asks."
   }
  ],
  "words": 983,
@@ -1498,43 +1498,43 @@
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Same domain",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "Compliance, Audit & Digital Trust",
    "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
    "tag": "Same domain",
-   "desc": "evidence-grade compliance without theater — controls mapped once, evidence generated continuously, audits that pass first time."
+   "desc": "evidence-grade compliance without theater, controls mapped once, evidence generated continuously, audits that pass first time."
   },
   {
    "title": "Cyber Resilience & Incident Recovery",
    "url": "/services/cybersecurity-zero-trust/cyber-resilience-incident-recovery/",
    "tag": "Same domain",
-   "desc": "recovery that is rehearsed, not documented — immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
+   "desc": "recovery that is rehearsed, not documented, immutable backups, clean-room restores and business-service RTOs you can actually meet on a bad Friday."
   },
   {
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Pairs with",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "Post-Quantum Cryptography Migration",
    "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
    "tag": "Pairs with",
-   "desc": "PQC migration as engineering — crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
+   "desc": "PQC migration as engineering, crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
   },
   {
    "title": "Generative AI Platform Engineering",
    "url": "/services/applied-ai-generative-ai/genai-platform-engineering/",
    "tag": "Pairs with",
-   "desc": "one governed door for every model call — authz, budgets, caching, guardrails and traces — so fifty use cases stay operable and affordable."
+   "desc": "one governed door for every model call, authz, budgets, caching, guardrails and traces, so fifty use cases stay operable and affordable."
   },
   {
    "title": "A tier-1 US bank",
    "url": "/case-studies/bank-03/",
    "tag": "Evidence",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated."
+   "desc": "DORA-grade resilience posture, third-party and incident evidence automated."
   }
  ],
  "evidence": [

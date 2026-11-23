@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Warehousing & Fulfillment is how Slotting and pick-path and Wave/order batching stop leaning on manual work — both decide the margin. The build: orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "Agentic AI & Hyperautomation in Warehousing & Fulfillment is how Slotting and pick-path and Wave/order batching stop leaning on manual work, both decide the margin. The build: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "p",
@@ -21,11 +21,11 @@
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
-   "x": "As operators describe it — Warehousing & Fulfillment edition:"
+   "x": "As operators describe it, Warehousing & Fulfillment edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Warehousing & Fulfillment, the pattern is labor orchestration — wave-aware shift/line balancing with skills. Overtime down sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "In Warehousing & Fulfillment, the pattern is labor orchestration, wave-aware shift/line balancing with skills. Overtime down sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. pick-path and slotting stale gets a number, an owner and a signature; the quarter belongs to a bounded slice — Labor orchestration — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The first two weeks belong to the baseline. pick-path and slotting stale gets a number, an owner and a signature; the quarter belongs to a bounded slice, Labor orchestration, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -195,7 +195,7 @@
   },
   {
    "t": "p",
-   "x": "For the Agentic AI & Hyperautomation side of Warehousing & Fulfillment, the binding duties are concrete — Worker-safety rules (robot/zone safety duties); Labor law (scheduling compliance); Customs (bonded warehouses) (inventory evidence). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Agentic AI & Hyperautomation side of Warehousing & Fulfillment, the binding duties are concrete, Worker-safety rules (robot/zone safety duties); Labor law (scheduling compliance); Customs (bonded warehouses) (inventory evidence). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

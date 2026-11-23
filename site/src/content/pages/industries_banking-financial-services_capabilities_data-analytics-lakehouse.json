@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "In Banking & Financial Services, the working pattern is enterprise risk lakehouse: credit, market, liquidity and ops risk on one governed estate with BCBS 239-style lineage. Report lineage questions answered in hours is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Banking & Financial Services, the working pattern is enterprise risk lakehouse: credit, market, liquidity and ops risk on one governed estate with BCBS 239-style lineage. Report lineage questions answered in hours is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -193,7 +193,7 @@
   },
   {
    "t": "p",
-   "x": "The fraud and AML decisions too slow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (enterprise risk lakehouse), and the gate review decides what scales — all inside one quarter in Banking & Financial Services. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The fraud and AML decisions too slow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (enterprise risk lakehouse), and the gate review decides what scales, all inside one quarter in Banking & Financial Services. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -209,26 +209,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Data & Lakehouse for Banking & Financial Services — each page documents the build as delivered:"
+   "x": "Named services for Data & Lakehouse for Banking & Financial Services, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -316,25 +316,25 @@
    "title": "Data & Lakehouse for Retail & Consumer Banking",
    "url": "/industries/banking-financial-services/retail-banking/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Corporate & Investment Banking",
    "url": "/industries/banking-financial-services/corporate-investment-banking/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Payments & Cards",
    "url": "/industries/banking-financial-services/payments-cards/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Capital Markets & Wealth Management",
    "url": "/industries/banking-financial-services/capital-markets-wealth/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

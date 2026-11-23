@@ -21,11 +21,11 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind Enterprise Risk & Scenario Intelligence: decisions that should be systematized are still assembled by hand — one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
+   "x": "The pattern behind Enterprise Risk & Scenario Intelligence: decisions that should be systematized are still assembled by hand, one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Enterprise Risk & Scenario Intelligence composes EEMS Platform, Driisti Smart Vision Glasses — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Energy & Utilities."
+   "x": "Enterprise Risk & Scenario Intelligence composes EEMS Platform, Driisti Smart Vision Glasses, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Energy & Utilities."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "The Enterprise Risk & Scenario Intelligence engagement opens with the problem stated in the CFO's units and a baseline signed by whoever owns the number. Design follows with the risk envelope explicit; the proof phase runs a bounded slice on your data with falsifiable gate criteria; industrialization scales only what the evidence supports. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Enterprise Risk & Scenario Intelligence, that discipline is not optional — it is the engagement model."
+   "x": "The Enterprise Risk & Scenario Intelligence engagement opens with the problem stated in the CFO's units and a baseline signed by whoever owns the number. Design follows with the risk envelope explicit; the proof phase runs a bounded slice on your data with falsifiable gate criteria; industrialization scales only what the evidence supports. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Enterprise Risk & Scenario Intelligence, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -284,13 +284,13 @@
    "title": "Cyber Resilience & Threat Command",
    "url": "/solutions/cyber-resilience-program/",
    "tag": "Risk",
-   "desc": "Assume breach, prove recovery — a resilience program measured in drills."
+   "desc": "Assume breach, prove recovery, a resilience program measured in drills."
   },
   {
    "title": "Regulatory Compliance Automation",
    "url": "/solutions/regulatory-compliance-automation/",
    "tag": "Risk",
-   "desc": "Evidence once, audit anywhere — compliance as a living system."
+   "desc": "Evidence once, audit anywhere, compliance as a living system."
   },
   {
    "title": "Supply Chain Risk & Continuity",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era — and whether spend proves incrementality. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era, and whether spend proves incrementality. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring operations in Advertising & MarTech to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring operations in Advertising & MarTech to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 355,
@@ -327,13 +327,13 @@
    "title": "Applied AI & GenAI for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Data & Lakehouse for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Advertising & MarTech",
@@ -345,13 +345,13 @@
    "title": "Cloud, Edge & Platform for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Blockchain & Digital Trust for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

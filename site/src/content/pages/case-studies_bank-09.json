@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Core-adjacent modernization on landing-zone discipline — release cadence from monthly to weekly and run-the-bank infrastructure cost down 27%"
+   "x": "Core-adjacent modernization on landing-zone discipline, release cadence from monthly to weekly and run-the-bank infrastructure cost down 27%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a US regional bank that had bought cloud twice and used it twice: two disconnected Landing Zones, release trains still monthly, and a data center renewal due in fourteen months. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a US regional bank that had bought cloud twice and used it twice: two disconnected Landing Zones, release trains still monthly, and a data center renewal due in fourteen months. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt delivery on a single landing zone with controls as code: identity, network and logging policy expressed once and inherited everywhere; evidence produced by the pipeline instead of gathered afterwards; and the CAB pack generated from the release record. The core stayed put — the value came from the 40 systems around it that had been holding delivery hostage."
+   "x": "We rebuilt delivery on a single landing zone with controls as code: identity, network and logging policy expressed once and inherited everywhere; evidence produced by the pipeline instead of gathered afterwards; and the CAB pack generated from the release record. The core stayed put, the value came from the 40 systems around it that had been holding delivery hostage."
   },
   {
    "t": "arch",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "The landing-zone control model and the generated CAB pack have both run at other institutions. The migration wave plan does not transfer — it was sequenced against this bank's renewal clock, which is exactly the kind of constraint a diagnostic exists to find."
+   "x": "The landing-zone control model and the generated CAB pack have both run at other institutions. The migration wave plan does not transfer, it was sequenced against this bank's renewal clock, which is exactly the kind of constraint a diagnostic exists to find."
   },
   {
    "t": "table",

@@ -1,83 +1,56 @@
 {
- "id": "PLT-ledger-uc",
+ "id": "PLT-patient-portal-uc",
  "title": "Patient Priority Portal — Industry Use Cases",
  "url": "/platforms/patient-portal/use-cases/",
  "template": "platform_usecases",
  "breadcrumb": "Platforms > Patient Priority Portal > Industry Use Cases",
  "seo_title": "Patient Priority Portal — Industry Use Cases | Achala IT Solutions",
- "meta_description": "How Patient Priority Portal is deployed across industries: banking, agriculture, logistics, energy and more.",
+ "meta_description": "Use cases for Patient Priority Portal: hospital groups, diagnostic chains and specialty clinics.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Where Patient Priority Portal earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+   "x": "Where Patient Priority Portal runs: the patient journeys each provider runs through it and what the deployment delivers."
   },
   {
    "t": "h2",
-   "x": "Where the cost hides"
+   "x": "Who runs it and what it delivers"
+  },
+  {
+   "t": "p",
+   "x": "Multi-speciality hospital groups, diagnostic chains and specialty clinics. A published client quote: queues became visible, predictable and shorter, patients noticed within a quarter."
   },
   {
    "t": "table",
    "caption": "Patient Priority Portal — where it runs and what it does there",
    "headers": [
-    "Industry",
-    "The decision routed through the platform",
-    "What the deployment adds"
+    "Operator",
+    "The workflow on the platform",
+    "What the deployment delivers"
    ],
    "rows": [
     [
-     "Banking",
-     "Interbank event reconciliation",
-     "Immutable log both auditors accept"
+     "Hospital groups",
+     "OPD scheduling, queue priority and report delivery",
+     "Laboratory queues down 20-30%; patients notice within a quarter"
     ],
     [
-     "Insurance",
-     "Parametric trigger and payout records",
-     "Provenance graph from event to payout"
+     "Diagnostic chains",
+     "Test booking and result distribution",
+     "Fewer status calls; results reach patients directly"
     ],
     [
-     "Supply chain",
-     "Provenance claims at product level",
-     "Selective disclosure for each participant"
-    ],
-    [
-     "Public sector",
-     "Grant and benefits disbursement trails",
-     "Signed events end-to-end"
-    ],
-    [
-     "Energy",
-     "Renewable certificate provenance",
-     "Consensus without a gatekeeper"
-    ],
-    [
-     "Healthcare",
-     "Consent and disclosure records",
-     "Attribution that survives scrutiny"
+     "Specialty clinics",
+     "Appointment and follow-up management",
+     "Fewer no-shows; clinicians see cleaner schedules"
     ]
    ]
   },
   {
-   "t": "h2",
-   "x": "From baseline to working slice"
-  },
-  {
-   "t": "p",
-   "x": "Patient Priority Portal deployments begin narrow: one decision class, one owner, one evidence pack. The second use case inherits the controls; the third inherits the audit story."
-  },
-  {
-   "t": "h2",
-   "x": "The ground truth of this sector"
-  },
-  {
-   "t": "p",
-   "x": "Operators see Patient Priority Portal as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
-  },
-  {
    "t": "cta",
-   "x": "Bring a working session on Patient Priority Portal to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Book a briefing with the portal team. We will map your patient journey and show where the queue time comes out."
   }
  ],
- "words": 210,
+ "words": 182,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Patient Priority Portal",
@@ -99,39 +72,19 @@
  ],
  "related": [
   {
-   "title": "Patient Priority Portal — Overview",
+   "title": "Patient Priority Portal",
    "url": "/platforms/patient-portal/",
-   "desc": "Distributed Trust & Tokenization Platform"
+   "desc": "One portal for appointments, results and priority care — laboratory queues down "
   },
   {
-   "title": "Patient Priority Portal — Architecture & Trust",
+   "title": "Patient Priority Portal — Architecture & Security",
    "url": "/platforms/patient-portal/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Patient Priority Portal — Industry Use Cases",
    "url": "/platforms/patient-portal/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A European specialty reinsurer",
-   "url": "/case-studies/ins-03/",
-   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
-  },
-  {
-   "title": "A global fashion group",
-   "url": "/case-studies/ret-02/",
-   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
-  },
-  {
-   "title": "A global coffee trader",
-   "url": "/case-studies/agr-02/",
-   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened"
-  },
-  {
-   "title": "A food processor (dairy)",
-   "url": "/case-studies/agr-03/",
-   "desc": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

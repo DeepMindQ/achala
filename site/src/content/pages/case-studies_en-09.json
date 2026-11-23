@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Hybrid wind-solar-storage forecasting — imbalance costs down 28% and the trading desk finally trusts its own numbers"
+   "x": "Hybrid wind-solar-storage forecasting, imbalance costs down 28% and the trading desk finally trusts its own numbers"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a renewable developer whose portfolio grew faster than its forecasting and whose trading desk priced the shortfall in imbalance penalties. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a renewable developer whose portfolio grew faster than its forecasting and whose trading desk priced the shortfall in imbalance penalties. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the hybrid forecast spine: ensemble weather models fused per site with the operator's own SCADA truth, storage dispatch co-optimized into the forecast, desk adjustments structured and scored weekly so folklore either earns its keep or retires, and imbalance exposure reported per asset. The desk stopped betting against itself."
+   "x": "We built the hybrid forecast spine: ensemble weather models fused per site with the operator's own SCADA truth, storage dispatch co-optimized into the forecast, desk adjustments structured and scored weekly so folklore either delivers results or retires, and imbalance exposure reported per asset. The desk stopped betting against itself."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The scored-adjustment pattern transfers to any forecast-plus-human-desk operation; the ensemble mix was this portfolio's geography. Another developer starts from its imbalance bills — the diagnostic prices the folklore first."
+   "x": "The scored-adjustment pattern transfers to any forecast-plus-human-desk operation; the ensemble mix was this portfolio's geography. Another developer starts from its imbalance bills, the diagnostic prices the folklore first."
   },
   {
    "t": "table",
@@ -210,7 +210,7 @@
   },
   {
    "t": "cta",
-   "x": "The method on this page is documented because it worked twice — here and on the next estate. Book a briefing and bring the metric you need to move."
+   "x": "The method on this page is documented because it worked twice, here and on the next estate. Book a briefing and bring the metric you need to move."
   }
  ],
  "words": 424,

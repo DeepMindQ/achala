@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy — ideal ground for governed automation. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy, ideal ground for governed automation. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework — Life & Annuities edition:"
+   "x": "Named from the floor, not from a framework, Life & Annuities edition:"
   },
   {
    "t": "bullets",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
@@ -220,7 +220,7 @@
   },
   {
    "t": "p",
-   "x": "Ifrs 17 / ldti — actuarial data and reporting discipline. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
+   "x": "Ifrs 17 / ldti, actuarial data and reporting discipline. Programs here are designed against these duties from the first sprint; evidence is a by-product of running the system, not an audit-season project."
   },
   {
    "t": "table",
@@ -323,19 +323,19 @@
    "title": "Applied AI & GenAI for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Life & Annuities",
@@ -347,7 +347,7 @@
    "title": "Cloud, Edge & Platform for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

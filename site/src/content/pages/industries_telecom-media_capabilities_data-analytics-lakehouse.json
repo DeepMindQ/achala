@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "In Telecom, Media & Entertainment, the working pattern is network telemetry backbone: probes, elements and tickets streamed into one governed estate. Noc decisions on event time is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Telecom, Media & Entertainment, the working pattern is network telemetry backbone: probes, elements and tickets streamed into one governed estate. Noc decisions on event time is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -193,7 +193,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. network telemetry underused gets a number, an owner and a signature; the quarter belongs to a bounded slice — network telemetry backbone — live on your estate. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For Telecom, Media & Entertainment, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. network telemetry underused gets a number, an owner and a signature; the quarter belongs to a bounded slice, network telemetry backbone, live on your estate. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists. For Telecom, Media & Entertainment, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "For the Data & Lakehouse side of Telecom, Media & Entertainment, the binding duties are concrete — GDPR and privacy regimes (subscriber profiling and data-sharing consent duties); NIS2 / sector cyber regulation (essential-entity obligations across network estates); EU AI Act (biometric and profiling constraints shaping AI deployment). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Data & Lakehouse side of Telecom, Media & Entertainment, the binding duties are concrete, GDPR and privacy regimes (subscriber profiling and data-sharing consent duties); NIS2 / sector cyber regulation (essential-entity obligations across network estates); EU AI Act (biometric and profiling constraints shaping AI deployment). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -216,19 +216,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -316,25 +316,25 @@
    "title": "Data & Lakehouse for Network Operators (CSPs)",
    "url": "/industries/telecom-media/network-operators/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Media & Entertainment",
    "url": "/industries/telecom-media/media-entertainment/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Streaming & Digital Platforms",
    "url": "/industries/telecom-media/streaming-digital/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Advertising & MarTech",
    "url": "/industries/telecom-media/advertising-martech/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

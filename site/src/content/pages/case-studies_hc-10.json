@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Genomic pipeline platform on hybrid cloud — cost per genome down 44% and turnaround from nine days to three"
+   "x": "Genomic pipeline platform on hybrid cloud, cost per genome down 44% and turnaround from nine days to three"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a genomics lab whose sequencing machines outran its compute: samples queued for days while the on-prem cluster churned, and clinical reports waited on batch windows. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a genomics lab whose sequencing machines outran its compute: samples queued for days while the on-prem cluster churned, and clinical reports waited on batch windows. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "Clinical demand was spiky — oncology panels arrived in bursts — and the cluster sized for average load failed both directions: idle most days, overrun on burst days."
+   "x": "Clinical demand was spiky, oncology panels arrived in bursts, and the cluster sized for average load failed both directions: idle most days, overrun on burst days."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt the pipeline as a hybrid platform: burstable secondary analysis on cloud with data gravity respected — sequencing data staged once, cached hot — workload manager scheduling across both estates, and the clinical report chain kept inside the lab's validated boundary. Cost guards run in the platform: every workload carries its budget, and overrun is a governed exception."
+   "x": "We rebuilt the pipeline as a hybrid platform: burstable secondary analysis on cloud with data gravity respected, sequencing data staged once, cached hot, workload manager scheduling across both estates, and the clinical report chain kept inside the lab's validated boundary. Cost guards run in the platform: every workload carries its budget, and overrun is a governed exception."
   },
   {
    "t": "arch",

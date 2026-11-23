@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "SLOs with teeth: error budgets that actually gate releases, chaos exercises that prove recovery instead of assuming it, and incident craft that turns every postmortem into a reliability deposit — not a lesson plan nobody reads."
+   "x": "SLOs with teeth: error budgets that actually gate releases, chaos exercises that prove recovery instead of assuming it, and incident craft that turns every postmortem into a reliability deposit, not a lesson plan nobody reads."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Reliability is an engineering discipline with a currency: the error budget. SLOs are signed contracts with the business, budgets gate releases without politics, and chaos drills prove recovery paths work before reality tests them. When incidents happen, the response is a rehearsed system — roles, ladders and a decision log."
+   "x": "Reliability is an engineering discipline with a currency: the error budget. SLOs are signed contracts with the business, budgets gate releases without politics, and chaos drills prove recovery paths work before reality tests them. When incidents happen, the response is a rehearsed system, roles, ladders and a decision log."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these ends with 'the SLO dashboard is green but the customer is angry' — the countermeasures bind budgets to release decisions and alerts to user pain."
+   "x": "Every one of these ends with 'the SLO dashboard is green but the customer is angry', the countermeasures bind budgets to release decisions and alerts to user pain."
   },
   {
    "t": "table",
@@ -290,7 +290,7 @@
   },
   {
    "t": "p",
-   "x": "From the error-budget spike through gate thresholds, the release freeze, the reliability work that earns the budget back and the chaos drill that validates recovery — including where heroics are declined, on the record."
+   "x": "From the error-budget spike through gate thresholds, the release freeze, the reliability work that earns the budget back and the chaos drill that validates recovery, including where heroics are declined, on the record."
   },
   {
    "t": "diagram",
@@ -314,7 +314,7 @@
   },
   {
    "t": "p",
-   "x": "SLO adherence, change failure rate and MTTR — three numbers, one story: whether the estate is getting more reliable while shipping faster, or just shipping."
+   "x": "SLO adherence, change failure rate and MTTR, three numbers, one story: whether the estate is getting more reliable while shipping faster, or just shipping."
   },
   {
    "t": "idash",
@@ -643,7 +643,7 @@
   },
   {
    "t": "p",
-   "x": "Adherence and burn rate per service tier across quarters — the shape that shows where reliability investment pays back and where the tiering itself is wrong."
+   "x": "Adherence and burn rate per service tier across quarters, the shape that shows where reliability investment pays back and where the tiering itself is wrong."
   },
   {
    "t": "chart",
@@ -1146,27 +1146,27 @@
     [
      "SLOs",
      "Symptom-based SLIs on critical paths",
-     "CPU/memory SLOs — they measure infrastructure, not users"
+     "CPU/memory SLOs, they measure infrastructure, not users"
     ],
     [
      "Alerting",
      "Precision-targeted symptom pages",
-     "Resource-threshold pages — noise trains people to ignore"
+     "Resource-threshold pages, noise trains people to ignore"
     ],
     [
      "Chaos",
      "Scheduled drills with blast-radius caps",
-     "One-off game days — coverage decays"
+     "One-off game days, coverage decays"
     ],
     [
      "Incidents",
      "Rehearsed command with decision log",
-     "Status-doc theater — decisions need timestamps"
+     "Status-doc theater, decisions need timestamps"
     ],
     [
      "Reviews",
      "Blameless with tracked actions",
-     "Review meetings without owners — nothing changes"
+     "Review meetings without owners, nothing changes"
     ]
    ]
   },
@@ -1320,7 +1320,7 @@
   },
   {
    "t": "p",
-   "x": "Postmortems carry owners, dates and re-test plans; chaos drills re-test the last round's findings first — the reliability program compounds by closing loops, not by accumulating documents."
+   "x": "Postmortems carry owners, dates and re-test plans; chaos drills re-test the last round's findings first, the reliability program compounds by closing loops, not by accumulating documents."
   },
   {
    "t": "bullets",
@@ -1345,22 +1345,22 @@
   },
   {
    "t": "note",
-   "x": "Heroic recovery is celebrated once and then engineered away: any fix that required a human with unusual context becomes a runbook entry, a detection or an automation in the next sprint — and the ledger proves it."
+   "x": "Heroic recovery is celebrated once and then engineered away: any fix that required a human with unusual context becomes a runbook entry, a detection or an automation in the next sprint, and the ledger proves it."
   },
   {
    "t": "h2",
    "x": "Error budgets convert reliability into a currency",
-   "sub": "SLOs, budget-gated releases and incident craft — the system that makes reliability tradable",
+   "sub": "SLOs, budget-gated releases and incident craft, the system that makes reliability tradable",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Reliability programs become decorative when SLOs are aspirations: published, admired and gating nothing. The working system treats the error budget as currency — every service carries a signed SLO document (what is measured, by whom, at what threshold), the calculator tracks burn live, and budget exhaustion freezes releases automatically in CI, converting the reliability-versus-velocity argument from a meeting into a number. The freeze is the discipline: teams may buy budget back with reliability work, and the trade is visible to everyone.",
+   "x": "Reliability programs become decorative when SLOs are aspirations: published, admired and gating nothing. The working system treats the error budget as currency, every service carries a signed SLO document (what is measured, by whom, at what threshold), the calculator tracks burn live, and budget exhaustion freezes releases automatically in CI, converting the reliability-versus-velocity argument from a meeting into a number. The freeze is the discipline: teams may buy budget back with reliability work, and the trade is visible to everyone.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Incident craft is the second half: incident command with named roles trained before the page, chaos drills monthly and scoped (a drill that takes the estate down teaches nothing but fear), and blameless reviews whose actions carry owners and dates — reviewed in the same meeting as the budget, because actions that never close are how programs become decorative. The console reads SLO adherence, budget burn and drill results; the review reads trends, not anecdotes.",
+   "x": "Incident craft is the second half: incident command with named roles trained before the page, chaos drills monthly and scoped (a drill that takes the estate down teaches nothing but fear), and blameless reviews whose actions carry owners and dates, reviewed in the same meeting as the budget, because actions that never close are how programs become decorative. The console reads SLO adherence, budget burn and drill results; the review reads trends, not anecdotes.",
    "phase3_deep": true
   },
   {
@@ -1368,7 +1368,7 @@
    "items": [
     [
      "Signed SLO documents",
-     "Every service: what, who, threshold — signed by the business owner."
+     "Every service: what, who, threshold, signed by the business owner."
     ],
     [
      "Budget-gated releases",
@@ -1394,7 +1394,7 @@
     ],
     [
      "How do error budgets change release behavior?",
-     "A burn above policy freezes feature releases until the budget recovers — the freeze is automatic and dated, so the trade-off between velocity and reliability is priced in real time, not argued after the incident."
+     "A burn above policy freezes feature releases until the budget recovers, the freeze is automatic and dated, so the trade-off between velocity and reliability is priced in real time, not argued after the incident."
     ],
     [
      "How do you pick SLOs that teams actually respect?",
@@ -1406,13 +1406,13 @@
     ],
     [
      "Can this overlay our existing on-call and CI?",
-     "Yes — the integration surface is observability, CI and paging: budgets read from your monitors, gates sit in your pipeline, and paging carries the budget context so the responder knows what is at stake."
+     "Yes, the integration surface is observability, CI and paging: budgets read from your monitors, gates sit in your pipeline, and paging carries the budget context so the responder knows what is at stake."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Ask which release was frozen by an error budget last quarter. If none, the gate is decorative — bring the SLO inventory to a briefing and we will wire the teeth."
+   "x": "Ask which release was frozen by an error budget last quarter. If none, the gate is decorative, bring the SLO inventory to a briefing and we will wire the teeth."
   }
  ],
  "words": 978,
@@ -1497,43 +1497,43 @@
    "title": "Edge Computing & Distributed Infrastructure",
    "url": "/services/cloud-edge-platform-engineering/edge-computing-infrastructure/",
    "tag": "Same domain",
-   "desc": "compute and delivery close to users and devices — regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
+   "desc": "compute and delivery close to users and devices, regional clusters with store-and-forward resilience, fleet ops at scale and honest latency budgets."
   },
   {
    "title": "FinOps & Sustainable Computing",
    "url": "/services/cloud-edge-platform-engineering/finops-sustainable-computing/",
    "tag": "Same domain",
-   "desc": "cost and carbon as engineering inputs — unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
+   "desc": "cost and carbon as engineering inputs, unit economics per workload, rightsizing with teeth, and sustainability reported like any SLO."
   },
   {
    "title": "High-Performance & Mission-Critical Systems",
    "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
    "tag": "Same domain",
-   "desc": "low-latency, high-availability tiers with proofs — latency budgets engineered down the stack and availability demonstrated, not asserted."
+   "desc": "low-latency, high-availability tiers with proofs, latency budgets engineered down the stack and availability demonstrated, not asserted."
   },
   {
    "title": "Cloud Security & Posture Management",
    "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
    "tag": "Pairs with",
-   "desc": "multi-cloud misconfiguration and entitlement control — infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
+   "desc": "multi-cloud misconfiguration and entitlement control, infrastructure-as-code guardrails, CSPM with dwell-time metrics, and drift that fixes itself."
   },
   {
    "title": "Digital Twin Platform Engineering",
    "url": "/services/iot-digital-twin-robotics/digital-twin-platforms/",
    "tag": "Pairs with",
-   "desc": "twins that stay honest — state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
+   "desc": "twins that stay honest, state synchronization with fidelity metrics, simulation tiers for what-ifs, and governance for who may change what."
   },
   {
    "title": "Enterprise BI & Executive Analytics",
    "url": "/services/data-analytics-lakehouse/enterprise-bi-executive-analytics/",
    "tag": "Pairs with",
-   "desc": "decision-grade reporting with one truth per metric — certified datasets, metric contracts and an executive layer that does not argue with itself."
+   "desc": "decision-grade reporting with one truth per metric, certified datasets, metric contracts and an executive layer that does not argue with itself."
   },
   {
    "title": "A multi-campus university group",
    "url": "/case-studies/edu-03/",
    "tag": "Evidence",
-   "desc": "Research throughput up 2.8x — governed HPC/cloud platform."
+   "desc": "Research throughput up 2.8x, governed HPC/cloud platform."
   }
  ],
  "evidence": [

@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. fleet and yard telemetry gaps is measured with your finance and risk leads in the room, then one working path — fleet and trailer sensing — goes live inside the quarter. In Logistics & Supply Chain programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "Nothing scales before the baseline is signed. fleet and yard telemetry gaps is measured with your finance and risk leads in the room, then one working path, fleet and trailer sensing, goes live inside the quarter. In Logistics & Supply Chain programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics control frame for Logistics & Supply Chain: EUDR (deforestation due diligence for in-scope commodities with evidence duties); CSRD/ISSB logistics emissions (scope 3 transport emissions with auditability); CMR/ADR/IMDG transport rules (dangerous-goods and carriage documentation duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The IoT, Twin & Robotics control frame for Logistics & Supply Chain: EUDR (deforestation due diligence for in-scope commodities with evidence duties); CSRD/ISSB logistics emissions (scope 3 transport emissions with auditability); CMR/ADR/IMDG transport rules (dangerous-goods and carriage documentation duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -79,26 +79,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for IoT, Twin & Robotics for Logistics & Supply Chain — each page documents the build as delivered:"
+   "x": "Named services for IoT, Twin & Robotics for Logistics & Supply Chain, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "Sense everything that matters — retrofit-friendly sensor fabric with governed telemetry."
+     "Sense everything that matters, retrofit-friendly sensor fabric with governed telemetry."
     ],
     [
      "Digital Twin Platform Engineering",
-     "Simulate before you cut steel — plant, fleet and product twins with governed physics and data."
+     "Simulate before you cut steel, plant, fleet and product twins with governed physics and data."
     ],
     [
      "Computer Vision & Edge AI",
-     "Cameras into instruments — inspection, safety and counting at the edge, inside policy."
+     "Cameras into instruments, inspection, safety and counting at the edge, inside policy."
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "Fix it before it fails — RUL models wired into planning, spare parts and work orders."
+     "Fix it before it fails, RUL models wired into planning, spare parts and work orders."
     ]
    ]
   },
@@ -186,19 +186,19 @@
    "title": "IoT, Twin & Robotics for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   },
   {
    "title": "IoT, Twin & Robotics for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   },
   {
    "title": "IoT, Twin & Robotics for Last-Mile & Urban Logistics",
    "url": "/industries/logistics-supply-chain/last-mile-mobility/capabilities/iot-digital-twin-robotics/",
    "tag": "Sub-industry depth",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

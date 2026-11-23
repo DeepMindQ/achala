@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cost and carbon as engineering inputs: unit economics per workload with allocation coverage that reaches the invoice, rightsizing with teeth, zombie estates hunted on schedule — and sustainability reported from meters, not multipliers."
+   "x": "Cost and carbon as engineering inputs: unit economics per workload with allocation coverage that reaches the invoice, rightsizing with teeth, zombie estates hunted on schedule, and sustainability reported from meters, not multipliers."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   },
   {
    "t": "p",
-   "x": "Sustainability rides the same rails: carbon per unit of work, scheduling that follows clean-energy windows, and the waste ledger — idle GPUs, over-provisioned clusters, zombie environments — reported next to cost because they are the same problem."
+   "x": "Sustainability rides the same rails: carbon per unit of work, scheduling that follows clean-energy windows, and the waste ledger, idle GPUs, over-provisioned clusters, zombie environments, reported next to cost because they are the same problem."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these hides real money in averages — the countermeasures allocate to the workload, trend the unit cost and hunt the zombies on a schedule."
+   "x": "Every one of these hides real money in averages, the countermeasures allocate to the workload, trend the unit cost and hunt the zombies on a schedule."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Allocation is the foundation: tagging that reaches 97% of spend, showback per workload and team, rightsizing driven from utilization evidence, and carbon reported from provider meters with documented factors — not marketing multipliers."
+   "x": "Allocation is the foundation: tagging that reaches 97% of spend, showback per workload and team, rightsizing driven from utilization evidence, and carbon reported from provider meters with documented factors, not marketing multipliers."
   },
   {
    "t": "arch",
@@ -300,7 +300,7 @@
   },
   {
    "t": "p",
-   "x": "From provider billing through allocation rules, workload showback, rightsizing recommendation and the savings ledger — including where a zombie resource is detected and who signs its retirement."
+   "x": "From provider billing through allocation rules, workload showback, rightsizing recommendation and the savings ledger, including where a zombie resource is detected and who signs its retirement."
   },
   {
    "t": "diagram",
@@ -324,7 +324,7 @@
   },
   {
    "t": "p",
-   "x": "Allocation coverage, unit-cost trend and rightsizing savings — the three numbers that turn the cloud bill from a surprise into an engineering input."
+   "x": "Allocation coverage, unit-cost trend and rightsizing savings, the three numbers that turn the cloud bill from a surprise into an engineering input."
   },
   {
    "t": "idash",
@@ -620,7 +620,7 @@
   },
   {
    "t": "p",
-   "x": "Cost per unit of business work across workload families, quarter over quarter — the curve that shows which efficiency bets paid and which services are eating their margin quietly."
+   "x": "Cost per unit of business work across workload families, quarter over quarter, the curve that shows which efficiency bets paid and which services are eating their margin quietly."
   },
   {
    "t": "chart",
@@ -1117,27 +1117,27 @@
     [
      "Allocation",
      "Enforced tags + allocation engine",
-     "Console-tag anarchy — allocation stays fog"
+     "Console-tag anarchy, allocation stays fog"
     ],
     [
      "Unit economics",
      "Registry with signed owners",
-     "Total-spend-only reporting — nobody can act on it"
+     "Total-spend-only reporting, nobody can act on it"
     ],
     [
      "Rightsizing",
      "PR-driven changes into IaC",
-     "Email recommendations — they age in inboxes"
+     "Email recommendations, they age in inboxes"
     ],
     [
      "Commits",
      "Measured commit strategy per workload",
-     "All-upfront or all-ondemand — both leave money"
+     "All-upfront or all-ondemand, both leave money"
     ],
     [
      "Carbon",
      "Region-aware intensity + scheduling",
-     "Annual average reporting — it drives nothing"
+     "Annual average reporting, it drives nothing"
     ]
    ]
   },
@@ -1287,11 +1287,11 @@
   {
    "t": "h2",
    "x": "Sustainability governance overlay",
-   "sub": "Carbon per unit of work — the second currency, measured"
+   "sub": "Carbon per unit of work, the second currency, measured"
   },
   {
    "t": "p",
-   "x": "Carbon is reported from provider meters with documented emission factors per region — reported beside cost, on the same trend line, because efficiency is one metric wearing two currencies."
+   "x": "Carbon is reported from provider meters with documented emission factors per region, reported beside cost, on the same trend line, because efficiency is one metric wearing two currencies."
   },
   {
    "t": "bullets",
@@ -1321,17 +1321,17 @@
   {
    "t": "h2",
    "x": "Allocation creates accountability",
-   "sub": "From meters to unit economics — the discipline that turns cloud spend into managed cost",
+   "sub": "From meters to unit economics, the discipline that turns cloud spend into managed cost",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Cloud bills stay foggy because nobody is accountable for shared cost and nothing gates commitments. The discipline allocates first: tag enforcement makes untagged workloads un-deployable in CI, the allocation engine prices shared cost fairly (with the formula documented, because allocation disputes are formula disputes), and every workload lands in the unit-economics registry with a named owner and a business metric — cost per transaction, per shipment, per student, per claim. The console reads unit cost as the headline, because a 20% discount on a 40% oversized estate is not savings; a downward unit-cost curve is.",
+   "x": "Cloud bills stay foggy because nobody is accountable for shared cost and nothing gates commitments. The discipline allocates first: tag enforcement makes untagged workloads un-deployable in CI, the allocation engine prices shared cost fairly (with the formula documented, because allocation disputes are formula disputes), and every workload lands in the unit-economics registry with a named owner and a business metric, cost per transaction, per shipment, per student, per claim. The console reads unit cost as the headline, because a 20% discount on a 40% oversized estate is not savings; a downward unit-cost curve is.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The waste ledger then makes the invisible visible: zombie storage, idle clusters, over-provisioned environments — listed monthly with owners and reclaim dates, reviewed in the same meeting as the budget gates. Commitment purchases are gated by forecast evidence and headroom analysis rather than vendor calendars, and the sustainability overlay carries the energy story: carbon per unit of work alongside dollars, because both are resources the estate spends.",
+   "x": "The waste ledger then makes the invisible visible: zombie storage, idle clusters, over-provisioned environments, listed monthly with owners and reclaim dates, reviewed in the same meeting as the budget gates. Commitment purchases are gated by forecast evidence and headroom analysis rather than vendor calendars, and the sustainability overlay carries the energy story: carbon per unit of work alongside dollars, because both are resources the estate spends.",
    "phase3_deep": true
   },
   {
@@ -1347,7 +1347,7 @@
     ],
     [
      "Waste ledger with owners",
-     "Zombies listed, owned and reclaimed on a date — not shuffled into 'savings'."
+     "Zombies listed, owned and reclaimed on a date, not shuffled into 'savings'."
     ],
     [
      "Evidence-gated commitments",
@@ -1361,15 +1361,15 @@
    "items": [
     [
      "How do you get engineering to care about cloud cost?",
-     "Allocation creates accountability: every invoice line attributes to a named decision, and teams see unit cost for their workload — the number a product owner can actually move — rather than a monthly total nobody owns."
+     "Allocation creates accountability: every invoice line attributes to a named decision, and teams see unit cost for their workload, the number a product owner can actually move, rather than a monthly total nobody owns."
     ],
     [
      "What about shared platform costs?",
-     "Shared cost is allocated by a signed driver model — per call, per tenant, per run — reviewed quarterly. The defaults table names the driver per shared service and the deviation path when a driver stops being honest."
+     "Shared cost is allocated by a signed driver model, per call, per tenant, per run, reviewed quarterly. The defaults table names the driver per shared service and the deviation path when a driver stops being honest."
     ],
     [
      "Can finance and engineering actually share one console?",
-     "Yes — the console shows the same unit economics both sides read: finance sees invoice reconciliation, engineering sees cost per request and zombie count, and the review calendar is one meeting, not two."
+     "Yes, the console shows the same unit economics both sides read: finance sees invoice reconciliation, engineering sees cost per request and zombie count, and the review calendar is one meeting, not two."
     ],
     [
      "How do commitments (RIs and savings plans) get decided?",
@@ -1377,13 +1377,13 @@
     ],
     [
      "How is carbon measured credibly?",
-     "Carbon is computed per meter with published emission factors and reported alongside cost per unit — batch at 410gCO2e versus support sessions at 1.2g makes the trade-offs visible and auditable."
+     "Carbon is computed per meter with published emission factors and reported alongside cost per unit, batch at 410gCO2e versus support sessions at 1.2g makes the trade-offs visible and auditable."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring last month's invoice unexplained variance. The diagnostic will reach 97% allocation on your estate — and name the zombies, the rightsizing candidates and the unit-cost trend your CFO has been asking for."
+   "x": "Bring last month's invoice unexplained variance. The diagnostic will reach 97% allocation on your estate, and name the zombies, the rightsizing candidates and the unit-cost trend your CFO has been asking for."
   }
  ],
  "words": 968,
@@ -1468,43 +1468,43 @@
    "title": "Platform Engineering & Developer Experience",
    "url": "/services/cloud-edge-platform-engineering/platform-engineering-devex/",
    "tag": "Same domain",
-   "desc": "the platform as product — golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
+   "desc": "the platform as product, golden paths as versioned APIs, scaffolds that carry SLOs and budgets by default, and a developer experience measured like a funnel."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Same domain",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Same domain",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Pairs with",
-   "desc": "workforce and machine identity lifecycle done properly — joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
+   "desc": "workforce and machine identity lifecycle done properly, joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
   },
   {
    "title": "Robotics & Autonomous Systems Integration",
    "url": "/services/iot-digital-twin-robotics/robotics-autonomous-systems/",
    "tag": "Pairs with",
-   "desc": "robot fleets with safety cases — bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
+   "desc": "robot fleets with safety cases, bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Pairs with",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "A Middle East operator group",
    "url": "/case-studies/tel-02/",
    "tag": "Evidence",
-   "desc": "Energy per site down 18% — telemetry-driven optimization at 12,000 sites."
+   "desc": "Energy per site down 18%, telemetry-driven optimization at 12,000 sites."
   }
  ],
  "evidence": [

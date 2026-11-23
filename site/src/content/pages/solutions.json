@@ -5,11 +5,11 @@
  "template": "solutions_hub",
  "breadcrumb": "Solutions",
  "seo_title": "Solutions Overview | Achala IT Solutions",
- "meta_description": "24 outcome-based solutions: a named business problem, a composed architecture, a platform stack and a metric the program answers to.",
+ "meta_description": "24 packaged solutions: a named business problem, a composed architecture, a platform stack and a metric the program is measured on.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Solutions are how clients buy outcomes rather than domains: a named business problem, a composed architecture from two to four domains, and a value case written in the CFO's units. Each one has run in delivery; none of them is slideware."
+   "x": "Achala solutions package a named business problem with the architecture, platforms and metric to solve it. Twenty-four solutions are available today, each one composed from two to four service domains and measured in units a CFO recognizes."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Every solution here is a full pattern: the decision being made, the data and models behind it, the controls that make it defensible in audit, and the measured delta when the pattern landed in production. Nothing is a slide-ware umbrella — each page names the systems it touches and the metric it moves."
+   "x": "Every solution here is a full pattern: the decision being made, the data and models behind it, the controls that make it defensible in audit, and the measured delta when the pattern landed in production. Nothing is a slide-ware umbrella, each page names the systems it touches and the metric it moves."
   },
   {
    "t": "h2",
@@ -25,11 +25,11 @@
   },
   {
    "t": "p",
-   "x": "Start from the problem your board is actually asking about — revenue mechanics, fraud and risk, throughput economics, or frontline leverage — and read the pattern end to end before you shortlist vendors."
+   "x": "Start from the problem your board is actually asking about, revenue mechanics, fraud and risk, throughput economics, or frontline leverage, and read the pattern end to end before you shortlist vendors."
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on the section map above, your data, and a written feasibility read you can circulate."
+   "x": "one working session on the section map above, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 146,
@@ -92,19 +92,19 @@
    "title": "Cyber Resilience & Threat Command",
    "url": "/solutions/cyber-resilience-program/",
    "tag": "Risk",
-   "desc": "Assume breach, prove recovery — a resilience program measured in drills."
+   "desc": "Assume breach, prove recovery, a resilience program measured in drills."
   },
   {
    "title": "Regulatory Compliance Automation",
    "url": "/solutions/regulatory-compliance-automation/",
    "tag": "Risk",
-   "desc": "Evidence once, audit anywhere — compliance as a living system."
+   "desc": "Evidence once, audit anywhere, compliance as a living system."
   },
   {
    "title": "Enterprise Risk & Scenario Intelligence",
    "url": "/solutions/enterprise-risk-analytics/",
    "tag": "Risk",
-   "desc": "Risk that changes decisions — limits, reserves and stress on one governed spine."
+   "desc": "Risk that changes decisions, limits, reserves and stress on one delivery standard."
   },
   {
    "title": "Supply Chain Risk & Continuity",
@@ -128,7 +128,7 @@
    "title": "Intelligent Process Automation at Scale",
    "url": "/solutions/process-automation-scale/",
    "tag": "Ops",
-   "desc": "From pilot purgatory to a governed fleet — automation with conformance."
+   "desc": "From pilot purgatory to a governed fleet, automation with conformance."
   },
   {
    "title": "Predictive Maintenance & Asset Performance",
@@ -152,7 +152,7 @@
    "title": "Workforce Scheduling & Field Orchestration",
    "url": "/solutions/workforce-scheduling/",
    "tag": "Ops",
-   "desc": "The right skills at the right place — demand-aware, SLA-bound."
+   "desc": "The right skills at the right place, demand-aware, SLA-bound."
   },
   {
    "title": "Enterprise Copilots & Digital Workplace",
@@ -164,7 +164,7 @@
    "title": "Contact Center & Conversational Transformation",
    "url": "/solutions/contact-center-transformation/",
    "tag": "People",
-   "desc": "Resolution-first voice and chat — measured on outcomes, not deflection."
+   "desc": "Resolution-first voice and chat, measured on outcomes, not deflection."
   },
   {
    "title": "Knowledge & Collaboration Fabric",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what fraud industrialized against manual detection costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. That is the engineering behind Insurance & Risk."
+   "x": "Ask what fraud industrialized against manual detection costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. That is the engineering behind Insurance & Risk."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points — Insurance & Risk edition:"
+   "x": "The recurring pressure points, Insurance & Risk edition:"
   },
   {
    "t": "bullets",
@@ -46,7 +46,7 @@
   },
   {
    "t": "p",
-   "x": "Programs in Insurance & Risk converge on the same first move: fnol triage agent — documents classified, extracted and routed with confidence thresholds; straight-through for clean claims. Triage queue clearance in minutes is the measured outcome the gate checks."
+   "x": "Programs in Insurance & Risk converge on the same first move: fnol triage agent, documents classified, extracted and routed with confidence thresholds; straight-through for clean claims. Triage queue clearance in minutes is the measured outcome the gate checks."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. fraud industrialized against manual detection is measured with your finance and risk leads in the room, then one working path — fnol triage agent — goes live inside the quarter. In Insurance & Risk programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. fraud industrialized against manual detection is measured with your finance and risk leads in the room, then one working path, fnol triage agent, goes live inside the quarter. In Insurance & Risk programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The Agentic AI & Hyperautomation control frame for Insurance & Risk: Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Agentic AI & Hyperautomation control frame for Insurance & Risk: Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -302,19 +302,19 @@
    "title": "Agentic AI & Hyperautomation for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Property & Casualty",
    "url": "/industries/insurance/property-casualty/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

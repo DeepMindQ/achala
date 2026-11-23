@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "DIDs and verifiable credentials that work offline: issuers governed by charter, holder wallets people keep using, selective disclosure that shares less, and revocation that actually propagates in minutes — verification in 210ms, without a phone call."
+   "x": "DIDs and verifiable credentials that work offline: issuers governed by charter, holder wallets people keep using, selective disclosure that shares less, and revocation that actually propagates in minutes, verification in 210ms, without a phone call."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Decentralized identity earns its keep when verification works without calling home: a credential presented offline, checked against cryptographic proofs, with selective disclosure so the holder shares the attribute and not the whole file. The engineering is the trust triangle done properly — issuer governance, holder experience, verifier SDKs."
+   "x": "Decentralized identity delivers results when verification works without calling home: a credential presented offline, checked against cryptographic proofs, with selective disclosure so the holder shares the attribute and not the whole file. The engineering is the trust triangle done properly, issuer governance, holder experience, verifier SDKs."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these kills adoption quietly — the countermeasures treat issuer governance, wallet UX and revocation as engineering deliverables, not roadmap promises."
+   "x": "Each of these kills adoption quietly, the countermeasures treat issuer governance, wallet UX and revocation as engineering deliverables, not roadmap promises."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Issuers operate under a charter with accreditation rules, holders get wallets designed for retention, verifiers check credentials in milliseconds — offline where possible — and revocation registries propagate in minutes, because a credential that cannot be revoked is a liability, not a feature."
+   "x": "Issuers operate under a charter with accreditation rules, holders get wallets designed for retention, verifiers check credentials in milliseconds, offline where possible, and revocation registries propagate in minutes, because a credential that cannot be revoked is a liability, not a feature."
   },
   {
    "t": "arch",
@@ -301,7 +301,7 @@
   },
   {
    "t": "p",
-   "x": "From issuance under charter rules through holder consent, selective disclosure and the offline verification path — including the revocation check that catches a cancelled credential at the door."
+   "x": "From issuance under charter rules through holder consent, selective disclosure and the offline verification path, including the revocation check that catches a cancelled credential at the door."
   },
   {
    "t": "diagram",
@@ -325,7 +325,7 @@
   },
   {
    "t": "p",
-   "x": "Verification latency, offline verification rate and revocation propagation — the three numbers that decide whether the ecosystem is trusted or merely launched."
+   "x": "Verification latency, offline verification rate and revocation propagation, the three numbers that decide whether the ecosystem is trusted or merely launched."
   },
   {
    "t": "idash",
@@ -641,7 +641,7 @@
   },
   {
    "t": "p",
-   "x": "Latency and offline success rates as issuers and credential types grow — the curve that shows whether the registry design scales past the pilot."
+   "x": "Latency and offline success rates as issuers and credential types grow, the curve that shows whether the registry design scales past the pilot."
   },
   {
    "t": "chart",
@@ -1117,12 +1117,12 @@
     [
      "DID method",
      "Ledger-anchored or did:web for enterprise",
-     "did:key everywhere — no revocation story"
+     "did:key everywhere, no revocation story"
     ],
     [
      "Schemas",
      "Versioned credential schemas with predicates",
-     "Free-form JSON claims — selective disclosure dies"
+     "Free-form JSON claims, selective disclosure dies"
     ],
     [
      "Status",
@@ -1132,12 +1132,12 @@
     [
      "Wallets",
      "Recovery-first UX with consent logging",
-     "Seed-phrase-only wallets — holders lose everything"
+     "Seed-phrase-only wallets, holders lose everything"
     ],
     [
      "Verifier SDK",
      "Offline-capable with evidence logs",
-     "Phone-home API checks — latency and availability risk"
+     "Phone-home API checks, latency and availability risk"
     ]
    ]
   },
@@ -1291,7 +1291,7 @@
   },
   {
    "t": "p",
-   "x": "Selective disclosure is structural — holders share claims, not documents — and the issuer charter caps what may be requested, so the ecystem minimizes data by design rather than by policy memo."
+   "x": "Selective disclosure is structural, holders share claims, not documents, and the issuer charter caps what may be requested, so the ecystem minimizes data by design rather than by policy memo."
   },
   {
    "t": "bullets",
@@ -1316,7 +1316,7 @@
   },
   {
    "t": "note",
-   "x": "Revocation is tested like a control: synthetic cancelled credentials are presented to verifiers weekly, and any acceptance is a sev-1 — revocation fiction is the ecosystem's most dangerous failure."
+   "x": "Revocation is tested like a control: synthetic cancelled credentials are presented to verifiers weekly, and any acceptance is a sev-1, revocation fiction is the ecosystem's most dangerous failure."
   },
   {
    "t": "h2",
@@ -1326,12 +1326,12 @@
   },
   {
    "t": "p",
-   "x": "Verifiable-credential ecosystems fail for the reason marketplaces fail: issuers will not issue without verifiers, verifiers will not verify without holders, and holders delete wallets that sit empty. The engineering answer is sequencing, not evangelism — pick the pair with existing economic gravity (an employer issuing to employees who already verify at a gate, a university issuing to students who already verify at a licensure board), ship the verifier SDK to the one-scan standard (a verification must be one action, under five seconds, with the trust registry doing the policy work), and let revocation propagation under ten minutes make the credentials operationally real rather than ceremonial.",
+   "x": "Verifiable-credential ecosystems fail for the reason marketplaces fail: issuers will not issue without verifiers, verifiers will not verify without holders, and holders delete wallets that sit empty. The engineering answer is sequencing, not evangelism, pick the pair with existing economic gravity (an employer issuing to employees who already verify at a gate, a university issuing to students who already verify at a licensure board), ship the verifier SDK to the one-scan standard (a verification must be one action, under five seconds, with the trust registry doing the policy work), and let revocation propagation under ten minutes make the credentials operationally real rather than ceremonial.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Privacy review is the launch gate: selective disclosure, no beaconing to issuers (verifier queries must not leak to the issuer who issued), and retention rules for the status registry that survive DPA scrutiny. The identity console reads adoption honestly — issuance counts, verification counts, wallet retention — because a trust framework that is not being verified is a pilot, no matter how elegant the cryptography.",
+   "x": "Privacy review is the launch gate: selective disclosure, no beaconing to issuers (verifier queries must not leak to the issuer who issued), and retention rules for the status registry that survive DPA scrutiny. The identity console reads adoption honestly, issuance counts, verification counts, wallet retention, because a trust framework that is not being verified is a pilot, no matter how elegant the cryptography.",
    "phase3_deep": true
   },
   {
@@ -1347,7 +1347,7 @@
     ],
     [
      "Issuer-blind verification",
-     "Verifier queries never leak back to issuers — privacy by protocol."
+     "Verifier queries never leak back to issuers, privacy by protocol."
     ],
     [
      "Fast revocation",
@@ -1361,7 +1361,7 @@
    "items": [
     [
      "Why will people actually keep and use the wallet?",
-     "The wallet ships inside apps people already use — the employee badge rides the workplace app, the membership proof rides the loyalty app. Adoption is a cold-start problem solved at the consumer-app intersection, not a new app to download."
+     "The wallet ships inside apps people already use, the employee badge rides the workplace app, the membership proof rides the loyalty app. Adoption is a cold-start problem solved at the consumer-app intersection, not a new app to download."
     ],
     [
      "How does verification work offline?",
@@ -1369,7 +1369,7 @@
     ],
     [
      "What prevents issuer lock-in?",
-     "The trust charter governs issuers, and credentials are standard verifiable credentials — a holder’s wallet is portable across issuers, and the charter amendment path is documented for exactly that reason."
+     "The trust charter governs issuers, and credentials are standard verifiable credentials, a holder’s wallet is portable across issuers, and the charter amendment path is documented for exactly that reason."
     ],
     [
      "How are revoked or expired credentials handled?",
@@ -1377,7 +1377,7 @@
     ],
     [
      "What does the trust-framework team inherit?",
-     "The charter, the issuer onboarding kit, the verifier gates, the console and the privacy overlay — the ecosystem artifacts, not just code, because the charter is the load-bearing document."
+     "The charter, the issuer onboarding kit, the verifier gates, the console and the privacy overlay, the ecosystem artifacts, not just code, because the charter is the load-bearing document."
     ]
    ]
   },
@@ -1468,43 +1468,43 @@
    "title": "Enterprise DLT Network Engineering",
    "url": "/services/blockchain-digital-trust/enterprise-dlt-networks/",
    "tag": "Same domain",
-   "desc": "permissioned networks with real governance — membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
+   "desc": "permissioned networks with real governance, membership charters, privacy domains, boring consensus, and operations that treat nodes like production systems."
   },
   {
    "title": "Provenance, Traceability & Supply Chain Trust",
    "url": "/services/blockchain-digital-trust/provenance-traceability/",
    "tag": "Same domain",
-   "desc": "end-to-end supply-chain evidence — anchored document hashes, event provenance at each handoff, and recall queries that finish in minutes, not weeks."
+   "desc": "end-to-end supply-chain evidence, anchored document hashes, event provenance at each handoff, and recall queries that finish in minutes, not weeks."
   },
   {
    "title": "Smart Contract Engineering & Audit",
    "url": "/services/blockchain-digital-trust/smart-contract-engineering/",
    "tag": "Same domain",
-   "desc": "audited contracts with upgrade discipline — formal-verified cores, independent audits at zero highs, and upgrade paths that cannot surprise the network."
+   "desc": "audited contracts with upgrade discipline, formal-verified cores, independent audits at zero highs, and upgrade paths that cannot surprise the network."
   },
   {
    "title": "Data Monetization & Analytics Products",
    "url": "/services/data-analytics-lakehouse/data-monetization-products/",
    "tag": "Pairs with",
-   "desc": "data as a product for external consumption — contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
+   "desc": "data as a product for external consumption, contracts, SLAs, purpose limits and billing, with controls that get stronger the moment data leaves the building."
   },
   {
    "title": "Industrial IoT & Sensor Fabric",
    "url": "/services/iot-digital-twin-robotics/industrial-iot-sensor-fabric/",
    "tag": "Pairs with",
-   "desc": "instrumentation as infrastructure — versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
+   "desc": "instrumentation as infrastructure, versioned schemas per device class, store-and-forward resilience, and a device lifecycle that retires zombies."
   },
   {
    "title": "Identity & Access Modernization",
    "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
    "tag": "Pairs with",
-   "desc": "workforce and machine identity lifecycle done properly — joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
+   "desc": "workforce and machine identity lifecycle done properly, joiner-mover-leaver automation, privileged access vaulting and credential hygiene that is measured weekly."
   },
   {
    "title": "A global coffee trader",
    "url": "/case-studies/agr-02/",
    "tag": "Evidence",
-   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened."
+   "desc": "EUDR due-diligence automated, compliance evidence in hours, premium channels opened."
   }
  ],
  "evidence": [

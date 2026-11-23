@@ -1,112 +1,84 @@
 {
- "id": "PLT-compass-ar",
- "title": "Driisti Smart Vision Glasses — Architecture & Trust",
+ "id": "PLT-driisti-ar",
+ "title": "Driisti Smart Vision Glasses — Architecture & Security",
  "url": "/platforms/driisti/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Driisti Smart Vision Glasses > Architecture & Trust",
- "seo_title": "Driisti Smart Vision Glasses — Architecture & Trust | Achala IT Solutions",
- "meta_description": "Architecture, security posture and compliance evidence for Driisti Smart Vision Glasses — Responsible AI & Governance Platform from Achala IT Solutions.",
+ "breadcrumb": "Platforms > Driisti Smart Vision Glasses > Architecture & Security",
+ "seo_title": "Driisti Smart Vision Glasses — Architecture & Security | Achala IT Solutions",
+ "meta_description": "Architecture and design of Driisti Smart Vision Glasses — onboard recognition and assistive audio for visually challenged users.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Driisti Smart Vision Glasses's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+   "x": "How Driisti is built: onboard AI, immediate audio guidance and privacy-first data handling."
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Structurally Driisti Smart Vision Glasses is planes, not layers — workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
-  },
-  {
-   "t": "p",
-   "x": "For Driisti Smart Vision Glasses architecture, the build decomposes into named pieces, each with an owner and a gate:"
+   "x": "Lightweight glasses carry the camera and processing unit; recognition runs on device where possible, with cloud assistance for heavier tasks. Audio output is immediate and localized to the user. Care-circle features let family members stay connected where the user opts in."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Policy layer",
-     "regime mapping to controls and owners"
+     "On-device recognition",
+     "Scene descriptions without network dependence for core tasks"
     ],
     [
-     "Model registry",
-     "cards, lineage, versions, documentation"
+     "Low-latency audio",
+     "Guidance delivered while it is still useful"
     ],
     [
-     "Evaluation suite",
-     "golden datasets, judge panels, red teams"
+     "Opt-in care circle",
+     "Family connection only with the user's consent"
     ],
     [
-     "Guardrail configuration",
-     "PII, injection, topic fences as code"
-    ],
-    [
-     "Incident response",
-     "AI-specific playbooks and disclosure flows"
-    ],
-    [
-     "Evidence pack",
-     "conformity-grade documentation generated"
+     "Privacy by design",
+     "Camera data processed for the user, not stored for others"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Trust and controls"
+   "x": "Security and compliance"
   },
   {
    "t": "p",
-   "x": "For Driisti Smart Vision Glasses, instrumented from week one, on your channels:"
+   "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "EU AI Act evidence",
-     "high-risk documentation generated"
+     "On-device recognition",
+     "Scene descriptions without network dependence for core tasks"
     ],
     [
-     "Continuous evaluation",
-     "regression gates in CI/CD"
+     "Low-latency audio",
+     "Guidance delivered while it is still useful"
     ],
     [
-     "Control ownership",
-     "named owner per model"
+     "Opt-in care circle",
+     "Family connection only with the user's consent"
     ],
     [
-     "Shadow-AI discovery",
-     "unsanctioned use surfaced and routed"
+     "Privacy by design",
+     "Camera data processed for the user, not stored for others"
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "Under the hood"
-  },
-  {
-   "t": "p",
-   "x": "Runtime dependencies: MLflow, evaluation frameworks, guardrail libraries, GRC integration. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
-  },
-  {
-   "t": "h2",
-   "x": "What the weeks look like"
-  },
-  {
-   "t": "p",
-   "x": "Deployment models for Driisti Smart Vision Glasses follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Driisti Smart Vision Glasses architecture in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Book a briefing with the Driisti team, or arrange a live demonstration for your accessibility program."
   }
  ],
- "words": 265,
+ "words": 252,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "Driisti Smart Vision Glasses",
- "l3": "Architecture & Trust",
+ "l3": "Architecture & Security",
  "l4": "",
  "crumbs": [
   {
@@ -118,45 +90,25 @@
    "url": null
   },
   {
-   "name": "Architecture & Trust",
+   "name": "Architecture & Security",
    "url": "/platforms/driisti/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Driisti Smart Vision Glasses — Overview",
+   "title": "Driisti Smart Vision Glasses",
    "url": "/platforms/driisti/",
-   "desc": "Responsible AI & Governance Platform"
+   "desc": "AI-enabled smart vision glasses for the visually challenged, plus assistive devi"
   },
   {
-   "title": "Driisti Smart Vision Glasses — Architecture & Trust",
+   "title": "Driisti Smart Vision Glasses — Architecture & Security",
    "url": "/platforms/driisti/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "Driisti Smart Vision Glasses — Industry Use Cases",
    "url": "/platforms/driisti/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A tier-1 US bank",
-   "url": "/case-studies/bank-03/",
-   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
-  },
-  {
-   "title": "A 12-hospital US health system",
-   "url": "/case-studies/hc-01/",
-   "desc": "Clinicians get 90 minutes a day back — ambient documentation inside the EHR"
-  },
-  {
-   "title": "A national digital-government agency",
-   "url": "/case-studies/pub-01/",
-   "desc": "Case processing down 52% — document intelligence under accountable-AI gates"
-  },
-  {
-   "title": "A national EdTech platform (2M learners)",
-   "url": "/case-studies/edu-02/",
-   "desc": "Outcome evidence published — renewals secured with learning-gain pipelines"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

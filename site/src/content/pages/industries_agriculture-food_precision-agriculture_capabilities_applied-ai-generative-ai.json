@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI against agronomy data siloed in Precision Agriculture & Agronomy: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Applied AI & GenAI against agronomy data siloed in Precision Agriculture & Agronomy: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI ground truth in Precision Agriculture & Agronomy: Precision agriculture converts sensing into input savings and yield: soil/weather/crop telemetry, variable-rate practice, agronomy models and machine orchestration. The unit economics are per-hectare — and they clear investment hurdles when engineered honestly."
+   "x": "The Applied AI & GenAI ground truth in Precision Agriculture & Agronomy: Precision agriculture converts sensing into input savings and yield: soil/weather/crop telemetry, variable-rate practice, agronomy models and machine orchestration. The unit economics are per-hectare, and they clear investment hurdles when engineered honestly."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Precision Agriculture & Agronomy, the pattern is yield models — satellite+sensor agronomy models with uncertainty. Decisions early sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "In Precision Agriculture & Agronomy, the pattern is yield models, satellite+sensor agronomy models with uncertainty. Decisions early sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for agronomy data siloed is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Yield models, bounded to one path, running on your estate. In Precision Agriculture & Agronomy programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Delivery opens with measurement: the baseline for agronomy data siloed is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Yield models, bounded to one path, running on your estate. In Precision Agriculture & Agronomy programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Precision Agriculture & Agronomy: Input/residue rules — application evidence; CAP/subsidy measurement — practice verification. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Precision Agriculture & Agronomy: Input/residue rules, application evidence; CAP/subsidy measurement, practice verification. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

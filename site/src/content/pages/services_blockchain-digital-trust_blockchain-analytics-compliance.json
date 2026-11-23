@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ledger intelligence mapped to regulatory duties: transaction risk scoring with measured precision, travel-rule workflows that cover your counterparties, and case management that turns investigations from archaeology into a query — built for the auditor who arrives unannounced."
+   "x": "Ledger intelligence mapped to regulatory duties: transaction risk scoring with measured precision, travel-rule workflows that cover your counterparties, and case management that turns investigations from archaeology into a query, built for the auditor who arrives unannounced."
   },
   {
    "t": "h2",
@@ -18,11 +18,11 @@
   },
   {
    "t": "p",
-   "x": "When value moves on ledgers, compliance duties follow: sanctions screening, travel-rule information transfer, AML case management. The practice builds the intelligence layer — address clustering, risk scoring on flows, and case files that assemble themselves from ledger evidence instead of analyst archaeology."
+   "x": "When value moves on ledgers, compliance duties follow: sanctions screening, travel-rule information transfer, AML case management. The practice builds the intelligence layer, address clustering, risk scoring on flows, and case files that assemble themselves from ledger evidence instead of analyst archaeology."
   },
   {
    "t": "p",
-   "x": "The design principle: every regulatory duty maps to a pipeline stage with evidence. A case file that a regulator can read — transaction graph, screening results, decisions, timestamps — is the deliverable, not a dashboard."
+   "x": "The design principle: every regulatory duty maps to a pipeline stage with evidence. A case file that a regulator can read, transaction graph, screening results, decisions, timestamps, is the deliverable, not a dashboard."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these converts a regulator's question into a week of work — the countermeasures measure precision, close travel-rule gaps and keep cases queryable from day one."
+   "x": "Every one of these converts a regulator's question into a week of work, the countermeasures measure precision, close travel-rule gaps and keep cases queryable from day one."
   },
   {
    "t": "table",
@@ -310,7 +310,7 @@
   },
   {
    "t": "p",
-   "x": "From the screening hit through attribution, risk scoring, the travel-rule exchange where triggered and case disposition — including the false-positive feedback that tunes precision."
+   "x": "From the screening hit through attribution, risk scoring, the travel-rule exchange where triggered and case disposition, including the false-positive feedback that tunes precision."
   },
   {
    "t": "diagram",
@@ -334,7 +334,7 @@
   },
   {
    "t": "p",
-   "x": "Screening precision, travel-rule coverage and case SLA adherence — the three numbers that decide whether the compliance function scales with volume or drowns under it."
+   "x": "Screening precision, travel-rule coverage and case SLA adherence, the three numbers that decide whether the compliance function scales with volume or drowns under it."
   },
   {
    "t": "idash",
@@ -602,7 +602,7 @@
   },
   {
    "t": "p",
-   "x": "Screening precision and travel-rule coverage across quarterly cycles — the paired curve that shows the noise problem shrinking as coverage grows."
+   "x": "Screening precision and travel-rule coverage across quarterly cycles, the paired curve that shows the noise problem shrinking as coverage grows."
   },
   {
    "t": "chart",
@@ -1078,27 +1078,27 @@
     [
      "Attribution",
      "Multi-source with confidence scores",
-     "Single-vendor labels — black-box clusters"
+     "Single-vendor labels, black-box clusters"
     ],
     [
      "Scoring",
      "Rules + models with feedback loops",
-     "Static rules — precision never improves"
+     "Static rules, precision never improves"
     ],
     [
      "Travel rule",
      "Protocol integration with directories",
-     "Manual counterparty emails — SLA fiction"
+     "Manual counterparty emails, SLA fiction"
     ],
     [
      "Cases",
      "Auto-assembled evidence files",
-     "Analyst-built folders — audit archaeology"
+     "Analyst-built folders, audit archaeology"
     ],
     [
      "Packs",
      "Regulator-format rendering",
-     "Screenshots — provenance never survives"
+     "Screenshots, provenance never survives"
     ]
    ]
   },
@@ -1252,7 +1252,7 @@
   },
   {
    "t": "p",
-   "x": "Examination readiness is a systems property: case files, model cards and screening calibrations are queryable — the unannounced examiner meets a portal, not a panic."
+   "x": "Examination readiness is a systems property: case files, model cards and screening calibrations are queryable, the unannounced examiner meets a portal, not a panic."
   },
   {
    "t": "bullets",
@@ -1277,7 +1277,7 @@
   },
   {
    "t": "note",
-   "x": "Address blindness is hunted monthly: new protocol deployments and mixing services are added to attribution within a published SLA — the coverage ledger records when each new pattern became visible."
+   "x": "Address blindness is hunted monthly: new protocol deployments and mixing services are added to attribution within a published SLA, the coverage ledger records when each new pattern became visible."
   },
   {
    "t": "h2",
@@ -1287,12 +1287,12 @@
   },
   {
    "t": "p",
-   "x": "Analytics programs drown compliance teams by optimizing recall: every address looks suspicious, every alert lacks context, and analysts stop trusting the queue. The discipline runs the other way — attribution sources are ranked and cited, clustering heuristics carry confidence bands, and every alert ships with reason codes tied to the specific risk rule that fired. Precision becomes the headline metric because a screened-and-cleared population that survives regulatory sampling is worth more than a noisy one; the console reports precision, coverage and the alert-to-case conversion funnel as standing numbers.",
+   "x": "Analytics programs drown compliance teams by optimizing recall: every address looks suspicious, every alert lacks context, and analysts stop trusting the queue. The discipline runs the other way, attribution sources are ranked and cited, clustering heuristics carry confidence bands, and every alert ships with reason codes tied to the specific risk rule that fired. Precision becomes the headline metric because a screened-and-cleared population that survives regulatory sampling is worth more than a noisy one; the console reports precision, coverage and the alert-to-case conversion funnel as standing numbers.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Case assembly is where the audit survives: flagged flows assemble into evidence packs with the transaction graph, the attribution basis, the screening history and the analyst's disposition — exported in the format an examiner expects, not a screenshot bundle. Model changes run through validation with population-drift monitors on both the attribution layer and the risk scores, because sanctions lists and mixing patterns move monthly, and a stale model is a silent compliance debt.",
+   "x": "Case assembly is where the audit survives: flagged flows assemble into evidence packs with the transaction graph, the attribution basis, the screening history and the analyst's disposition, exported in the format an examiner expects, not a screenshot bundle. Model changes run through validation with population-drift monitors on both the attribution layer and the risk scores, because sanctions lists and mixing patterns move monthly, and a stale model is a silent compliance debt.",
    "phase3_deep": true
   },
   {
@@ -1322,11 +1322,11 @@
    "items": [
     [
      "How do you reduce false positives without missing real risk?",
-     "Precision is measured per flow class against signed alert budgets, with coverage reported alongside — the examinable claim is the pair, never precision alone. Attribution quality is tuned on your transaction mix, not a vendor demo set."
+     "Precision is measured per flow class against signed alert budgets, with coverage reported alongside, the examinable claim is the pair, never precision alone. Attribution quality is tuned on your transaction mix, not a vendor demo set."
     ],
     [
      "Does this cover travel-rule obligations?",
-     "Yes — travel-rule messaging integrates with the case systems, and the overlay maps each duty (VASP due diligence, sanctions screening, reporting) to the artifact it produces for the examination file."
+     "Yes, travel-rule messaging integrates with the case systems, and the overlay maps each duty (VASP due diligence, sanctions screening, reporting) to the artifact it produces for the examination file."
     ],
     [
      "Can you work with our existing screening vendor?",
@@ -1334,7 +1334,7 @@
     ],
     [
      "What does an examiner actually get?",
-     "The examination overlay produces the pack: model documentation, precision and coverage evidence per cycle, case outcomes and the reconciliation of alerts to reports — prepared in advance, not reconstructed under deadline."
+     "The examination overlay produces the pack: model documentation, precision and coverage evidence per cycle, case outcomes and the reconciliation of alerts to reports, prepared in advance, not reconstructed under deadline."
     ],
     [
      "How quickly do new typologies get into screening?",
@@ -1344,7 +1344,7 @@
   },
   {
    "t": "cta",
-   "x": "Ask what percentage of last month's screening hits your team closed as actionable. The diagnostic will calibrate precision against your closed cases — and price what a quieter, defensible compliance stack costs."
+   "x": "Ask what percentage of last month's screening hits your team closed as actionable. The diagnostic will calibrate precision against your closed cases, and price what a quieter, defensible compliance stack costs."
   }
  ],
  "words": 954,
@@ -1429,43 +1429,43 @@
    "title": "Smart Contract Engineering & Audit",
    "url": "/services/blockchain-digital-trust/smart-contract-engineering/",
    "tag": "Same domain",
-   "desc": "audited contracts with upgrade discipline — formal-verified cores, independent audits at zero highs, and upgrade paths that cannot surprise the network."
+   "desc": "audited contracts with upgrade discipline, formal-verified cores, independent audits at zero highs, and upgrade paths that cannot surprise the network."
   },
   {
    "title": "Asset Tokenization & Digital Assets",
    "url": "/services/blockchain-digital-trust/asset-tokenization/",
    "tag": "Same domain",
-   "desc": "regulated token designs — legal-wrapper-first architecture, transfer controls that enforce restrictions in code, and settlement that shortens cycles honestly."
+   "desc": "regulated token designs, legal-wrapper-first architecture, transfer controls that enforce restrictions in code, and settlement that shortens cycles honestly."
   },
   {
    "title": "Decentralized Identity & Verifiable Credentials",
    "url": "/services/blockchain-digital-trust/decentralized-identity/",
    "tag": "Same domain",
-   "desc": "DIDs and verifiable credentials that work offline — issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
+   "desc": "DIDs and verifiable credentials that work offline, issuer governance, holder wallets, selective disclosure, and verification at 200ms without a phone-home."
   },
   {
    "title": "Lakehouse Architecture & Migration",
    "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
    "tag": "Pairs with",
-   "desc": "bronze→silver→gold on open table formats — a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
+   "desc": "bronze→silver→gold on open table formats, a promotion path with quality gates, time travel and honest storage economics instead of a data swamp."
   },
   {
    "title": "Robotics & Autonomous Systems Integration",
    "url": "/services/iot-digital-twin-robotics/robotics-autonomous-systems/",
    "tag": "Pairs with",
-   "desc": "robot fleets with safety cases — bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
+   "desc": "robot fleets with safety cases, bounded autonomy, incident-ready telemetry, and utilization measured honestly against safety-critical discipline."
   },
   {
    "title": "Zero-Trust Architecture & Implementation",
    "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
    "tag": "Pairs with",
-   "desc": "per-request policy decisions on identity, device and context — network location stops being a privilege, and coverage is measured on the paths that matter."
+   "desc": "per-request policy decisions on identity, device and context, network location stops being a privilege, and coverage is measured on the paths that matter."
   },
   {
    "title": "A global coffee trader",
    "url": "/case-studies/agr-02/",
    "tag": "Evidence",
-   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened."
+   "desc": "EUDR due-diligence automated, compliance evidence in hours, premium channels opened."
   }
  ],
  "evidence": [

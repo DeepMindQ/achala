@@ -9,20 +9,20 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Hyperautomation succeeds as workforce design, not as tool rollout. Agentic AI & Hyperautomation runs seven practices that mine the work, prove the ROI before the build, deploy role-scoped agents under policy bounds, and manage the resulting digital workforce with the same discipline — capacity, shifts, versioning, retirement — you apply to people."
+   "x": "Hyperautomation succeeds as workforce design, not as tool rollout. Agentic AI & Hyperautomation runs seven practices that mine the work, prove the ROI before the build, deploy role-scoped agents under policy bounds, and manage the resulting digital workforce with the same discipline, capacity, shifts, versioning, retirement, you apply to people."
   },
   {
    "t": "p",
-   "x": "The buyers who arrive here carry one of two documents: a process inventory nobody defends, or an automation backlog full of bots whose business case expired after the pilot. Both are symptoms of the same missing discipline — automation decisions made without mined evidence, priced economics and a checkpoint design. The seven practices in this domain exist to install that discipline before the next license renewal, not after."
+   "x": "The buyers who arrive here carry one of two documents: a process inventory nobody defends, or an automation backlog full of bots whose business case expired after the pilot. Both are symptoms of the same missing discipline, automation decisions made without mined evidence, priced economics and a checkpoint design. The seven practices in this domain exist to install that discipline before the next license renewal, not after."
   },
   {
    "t": "p",
-   "x": "Seven practices carry the domain, from process mining through document intelligence to digital-workforce orchestration. They share one substrate — the policy engine, the replay store and the ROI ledger — and every practice contributes to and is constrained by it. That is what makes the practices composable: a document pipeline built by one practice replays under the same evidence store that audits an agent fleet built by another."
+   "x": "Seven practices carry the domain, from process mining through document intelligence to digital-workforce orchestration. They share one substrate, the policy engine, the replay store and the ROI ledger, and every practice contributes to and is constrained by it. That is what makes the practices composable: a document pipeline built by one practice replays under the same evidence store that audits an agent fleet built by another."
   },
   {
    "t": "h2",
    "x": "Seven practices, one governed execution spine",
-   "sub": "How mining, design, fleet and evidence divide the automation problem — and what joins them"
+   "sub": "How mining, design, fleet and evidence divide the automation problem, and what joins them"
   },
   {
    "t": "table",
@@ -65,7 +65,7 @@
     ],
     [
      "Hyperautomation Integration",
-     "The seams: ERP, CRM, ITSM, comms — contracted and monitored",
+     "The seams: ERP, CRM, ITSM, comms, contracted and monitored",
      "Integration failure rate and MTTR"
     ]
    ]
@@ -77,7 +77,7 @@
   },
   {
    "t": "p",
-   "x": "The stall pattern is predictable enough to name: licenses bought on a vendor's workshop, bots deployed against processes that were never mined, a coverage number nobody owns, and an exception backlog that quietly becomes the old process with extra steps. Spend compounds while the audited benefit stays flat — the economics die in exactly that sequence. The operating discipline here reverses it: mined evidence before funding, priced economics before build, checkpoint design before autonomy, and a coverage metric with a named owner from the first week."
+   "x": "The stall pattern is predictable enough to name: licenses bought on a vendor's workshop, bots deployed against processes that were never mined, a coverage number nobody owns, and an exception backlog that quietly becomes the old process with extra steps. Spend compounds while the audited benefit stays flat, the economics die in exactly that sequence. The operating discipline here reverses it: mined evidence before funding, priced economics before build, checkpoint design before autonomy, and a coverage metric with a named owner from the first week."
   },
   {
    "t": "p",
@@ -318,11 +318,11 @@
   {
    "t": "h2",
    "x": "The fleet console — what the automation program is steered by",
-   "sub": "Coverage, checkpoint fidelity and unit cost as the weekly reading — exception queue one click away"
+   "sub": "Coverage, checkpoint fidelity and unit cost as the weekly reading, exception queue one click away"
   },
   {
    "t": "p",
-   "x": "Coverage, checkpoint fidelity, cost per task and the exception queue — the four numbers a COO steers the program by. The reference console below reads the way your handover console will read, because the operating model ships with the build rather than being assembled at the end."
+   "x": "Coverage, checkpoint fidelity, cost per task and the exception queue, the four numbers a COO steers the program by. The reference console below reads the way your handover console will read, because the operating model ships with the build rather than being assembled at the end."
   },
   {
    "t": "idash",
@@ -594,7 +594,7 @@
   },
   {
    "t": "p",
-   "x": "The mining funnel is a kill pipeline by design: candidates die at conformance checks, at ROI screening, at checkpoint design — and the kill reasons are logged, because a defensible no is worth as much as a funded yes."
+   "x": "The mining funnel is a kill pipeline by design: candidates die at conformance checks, at ROI screening, at checkpoint design, and the kill reasons are logged, because a defensible no is worth as much as a funded yes."
   },
   {
    "t": "chart",
@@ -631,7 +631,7 @@
   },
   {
    "t": "p",
-   "x": "Automation concentrates where back-office volume meets regulatory checkpoints: claims, onboarding, order-to-cash, service desks. The bars count the sub-industry briefs published on this site — a taller bar means a sector-calibrated automation playbook you can start against on day one, not a discovery project."
+   "x": "Automation concentrates where back-office volume meets regulatory checkpoints: claims, onboarding, order-to-cash, service desks. The bars count the sub-industry briefs published on this site, a taller bar means a sector-calibrated automation playbook you can start against on day one, not a discovery project."
   },
   {
    "t": "chart",
@@ -1169,7 +1169,7 @@
   {
    "t": "h2",
    "x": "From event log to managed digital workforce",
-   "sub": "Four phases, each with a signed exit artifact — the same cadence every practice in this domain runs on"
+   "sub": "Four phases, each with a signed exit artifact, the same cadence every practice in this domain runs on"
   },
   {
    "t": "bullets",
@@ -1246,12 +1246,12 @@
   },
   {
    "t": "p",
-   "x": "Automation programs fail at the joints, and the joints are between practices, not inside them. A mined candidate list that nobody prices dies in procurement; an agent fleet without a policy spine dies at the first access review; a policy spine without a replay store dies at the first internal audit. The domain is therefore engineered as one execution spine: mining prices the work, design places the checkpoints, the fleet executes under policy, and the evidence store makes every claim reconstructable. Each practice can be bought separately — the spine cannot, which is why the reference architecture holds all four layers even for a single-practice engagement.",
+   "x": "Automation programs fail at the joints, and the joints are between practices, not inside them. A mined candidate list that nobody prices dies in procurement; an agent fleet without a policy spine dies at the first access review; a policy spine without a replay store dies at the first internal audit. The domain is therefore engineered as one execution spine: mining prices the work, design places the checkpoints, the fleet executes under policy, and the evidence store makes every claim reconstructable. Each practice can be bought separately, the spine cannot, which is why the reference architecture holds all four layers even for a single-practice engagement.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The technical debate we settle with every client is where authority sits. Tool grants belong to role definitions, not to agent builders; checkpoint placement belongs to a signed risk matrix, not to developer convenience; the kill decision on a candidate belongs to the ROI ledger, not to stakeholder enthusiasm. Programs that leave these three calls informal produce impressive demos and indefensible operations. The gates in this domain encode exactly those calls — evidence, not narrative, moves a candidate from mining to design to production.",
+   "x": "The technical debate we settle with every client is where authority sits. Tool grants belong to role definitions, not to agent builders; checkpoint placement belongs to a signed risk matrix, not to developer convenience; the kill decision on a candidate belongs to the ROI ledger, not to stakeholder enthusiasm. Programs that leave these three calls informal produce impressive demos and indefensible operations. The gates in this domain encode exactly those calls, evidence, not narrative, moves a candidate from mining to design to production.",
    "phase3_deep": true
   },
   {
@@ -1259,7 +1259,7 @@
    "items": [
     [
      "One spine, four practices",
-     "Mining, design, fleet and evidence share identifiers, schemas and gates — no orphan artifacts."
+     "Mining, design, fleet and evidence share identifiers, schemas and gates, no orphan artifacts."
     ],
     [
      "Authority is explicit",
@@ -1289,7 +1289,7 @@
     ],
     [
      "What does the two-week diagnostic actually produce?",
-     "A ranked candidate list mined from your event logs with owners and kill reasons, a scored gate map, and a checkpoint design for the first process family — signed by your side, and usable by whoever builds next."
+     "A ranked candidate list mined from your event logs with owners and kill reasons, a scored gate map, and a checkpoint design for the first process family, signed by your side, and usable by whoever builds next."
     ],
     [
      "Who owns the automation after you leave?",
@@ -1297,13 +1297,13 @@
     ],
     [
      "Can we start with just document processing?",
-     "Yes — intelligent document processing is a common entry practice. The spine still applies: the documents it reads are versioned sources, its outputs land in systems of record through the integration practice, and its decisions replay into the same evidence store."
+     "Yes, intelligent document processing is a common entry practice. The spine still applies: the documents it reads are versioned sources, its outputs land in systems of record through the integration practice, and its decisions replay into the same evidence store."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the process your CFO calls expensive and your auditors call fragile — the two-week diagnostic will rank what should be automated, what should not, and what the checkpoint design would look like."
+   "x": "Bring the process your CFO calls expensive and your auditors call fragile, the two-week diagnostic will rank what should be automated, what should not, and what the checkpoint design would look like."
   }
  ],
  "words": 948,
@@ -1349,7 +1349,7 @@
    "title": "Agentic Process Automation",
    "url": "/services/agentic-ai-hyperautomation/agentic-process-automation/",
    "tag": "Service",
-   "desc": "Agents that execute the work — tool-using, policy-bounded, and fully logged for audit."
+   "desc": "Agents that execute the work, tool-using, policy-bounded, and fully logged for audit."
   },
   {
    "title": "Digital Workforce & Multi-Agent Orchestration",
@@ -1367,25 +1367,25 @@
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Service",
-   "desc": "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+   "desc": "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
   },
   {
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Service",
-   "desc": "See the work as it actually runs — event-log truth before you automate anything."
+   "desc": "See the work as it actually runs, event-log truth before you automate anything."
   },
   {
    "title": "Hyperautomation & Systems Integration",
    "url": "/services/agentic-ai-hyperautomation/hyperautomation-integration/",
    "tag": "Service",
-   "desc": "One automation spine — APIs, events, RPA and agents composable under common control."
+   "desc": "One automation spine, APIs, events, RPA and agents composable under common control."
   },
   {
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Service",
-   "desc": "Workflows that recover from failure on their own — long-running business processes that adapt, retry and recover without tickets."
+   "desc": "Workflows that recover from failure on their own, long-running business processes that adapt, retry and recover without tickets."
   }
  ],
  "evidence": [

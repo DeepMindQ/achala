@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "The Cloud, Edge & Platform view of how work actually runs: CIB margins compress while deal complexity grows: origination research, credit memos, trade documentation and risk reporting all consume expensive analyst hours that agentic systems can compress — with the control discipline investment banks cannot compromise."
+   "x": "The Cloud, Edge & Platform view of how work actually runs: CIB margins compress while deal complexity grows: origination research, credit memos, trade documentation and risk reporting all consume expensive analyst hours that agentic systems can compress, with the control discipline investment banks cannot compromise."
   },
   {
    "t": "p",
-   "x": "Trade documentation exceptions is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Trade documentation exceptions is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Corporate & Investment Banking, the pattern is front-office platform modernization — strangler decomposition with parallel-run equivalence. Product launch lead time halved sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "In Corporate & Investment Banking, the pattern is front-office platform modernization, strangler decomposition with parallel-run equivalence. Product launch lead time halved sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The trade documentation exceptions cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Front-office platform modernization), and the gate review decides what scales — all inside one quarter in Corporate & Investment Banking. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The trade documentation exceptions cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Front-office platform modernization), and the gate review decides what scales, all inside one quarter in Corporate & Investment Banking. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Corporate & Investment Banking: Basel capital regimes — counterparty credit and market risk model quality; Trade-finance AML (Wolfsberg-class) — trade document scrutiny duties. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Corporate & Investment Banking: Basel capital regimes, counterparty credit and market risk model quality; Trade-finance AML (Wolfsberg-class), trade document scrutiny duties. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Gaming & Interactive Media targets a specific gap: systems exist, but no governed path connects them — which is why moderation overwhelming still costs what it costs. The build closes it: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "Agentic AI & Hyperautomation in Gaming & Interactive Media targets a specific gap: systems exist, but no governed path connects them, which is why moderation overwhelming still costs what it costs. The build closes it: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Gaming & Interactive Media, the pattern is moderation fleet — policy-bounded review agents + human escalation. Coverage scaled sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "In Gaming & Interactive Media, the pattern is moderation fleet, policy-bounded review agents + human escalation. Coverage scaled sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. moderation overwhelming gets a number, an owner and a signature; the quarter belongs to a bounded slice — Moderation fleet — live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Gaming & Interactive Media, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. moderation overwhelming gets a number, an owner and a signature; the quarter belongs to a bounded slice, Moderation fleet, live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Gaming & Interactive Media, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "The Agentic AI & Hyperautomation control frame for Gaming & Interactive Media: Privacy (minors) (player data duties); Consumer/loot-box rules (monetization duties); Platform policies (safety duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Agentic AI & Hyperautomation control frame for Gaming & Interactive Media: Privacy (minors) (player data duties); Consumer/loot-box rules (monetization duties); Platform policies (safety duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

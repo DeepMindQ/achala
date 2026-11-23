@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Five layers of control from policy to assurance — mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act."
+   "x": "Five layers of control from policy to assurance, mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act."
   },
   {
    "t": "p",
@@ -50,7 +50,7 @@
   },
   {
    "t": "p",
-   "x": "High-risk use cases (credit scoring, employment screening, medical triage) ship with documentation, human-oversight gates and post-market monitoring as built artifacts. Every model carries a card, an evaluation report and a named control owner. Zero-exposure architecture means client data is never training material — enforced by design, evidenced by lineage."
+   "x": "High-risk use cases (credit scoring, employment screening, medical triage) ship with documentation, human-oversight gates and post-market monitoring as built artifacts. Every model carries a card, an evaluation report and a named control owner. Zero-exposure architecture means client data is never training material, enforced by design, evidenced by lineage."
   },
   {
    "t": "h2",
@@ -90,13 +90,13 @@
     ],
     [
      "A global integrated energy major",
-     "The engagement is documented on its case page — what was measured, what moved and how the evidence was gathered."
+     "The engagement is documented on its case page, what was measured, what moved and how the evidence was gathered."
     ]
    ]
   },
   {
    "t": "p",
-   "x": "In practice, Responsible AI Framework looks like fewer meetings about whose number is right, and more meetings about what to do next — because the evidence trail settled the first question."
+   "x": "In practice, Responsible AI Framework looks like fewer meetings about whose number is right, and more meetings about what to do next, because the evidence trail settled the first question."
   },
   {
    "t": "cta",

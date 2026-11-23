@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Search relevance rebuilt with retrieval evaluation — conversion from search up 7% and zero-result sessions down 68%"
+   "x": "Search relevance rebuilt with retrieval evaluation, conversion from search up 7% and zero-result sessions down 68%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a specialty marketplace whose search bar was a keyword matcher from another decade and whose buyers described products in words the sellers never used. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a specialty marketplace whose search bar was a keyword matcher from another decade and whose buyers described products in words the sellers never used. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "The catalog's metadata was seller-written and uneven; relevance was keyword-shaped while intent was need-shaped. No evaluation existed for any change — relevance shipped on opinion and rolled back on complaint."
+   "x": "The catalog's metadata was seller-written and uneven; relevance was keyword-shaped while intent was need-shaped. No evaluation existed for any change, relevance shipped on opinion and rolled back on complaint."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt search as an evaluated retrieval system: intent models over query and browse signals, hybrid retrieval spanning text and catalog attributes with seller-quality weighting, and — the actual unlock — an evaluation harness of labeled query sessions that every change must beat before shipping. Zero-result pages now trigger grounded query rewriting instead of a shrug."
+   "x": "We rebuilt search as an evaluated retrieval system: intent models over query and browse signals, hybrid retrieval spanning text and catalog attributes with seller-quality weighting, and, the actual unlock, an evaluation harness of labeled query sessions that every change must beat before shipping. Zero-result pages now trigger grounded query rewriting instead of a shrug."
   },
   {
    "t": "arch",
@@ -184,7 +184,7 @@
   },
   {
    "t": "p",
-   "x": "The harness-gated pattern transfers to any relevance problem; the query label set was this marketplace's language and is the work. Another marketplace starts by labeling its own sessions — two weeks, and the arguments end."
+   "x": "The harness-gated pattern transfers to any relevance problem; the query label set was this marketplace's language and is the work. Another marketplace starts by labeling its own sessions, two weeks, and the arguments end."
   },
   {
    "t": "table",

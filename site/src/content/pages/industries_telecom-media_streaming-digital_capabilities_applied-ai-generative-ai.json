@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI earns its place in Streaming & Digital Platforms only when it changes what Personalization/discovery costs or what Subscriber lifecycle returns. The engagement is built around one measurable path: the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Applied AI & GenAI earns its place in Streaming & Digital Platforms only when it changes what Personalization/discovery costs or what Subscriber lifecycle returns. The engagement is built around one measurable path: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI ground truth in Streaming & Digital Platforms: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines — and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
+   "x": "The Applied AI & GenAI ground truth in Streaming & Digital Platforms: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines, and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
   },
   {
    "t": "p",
-   "x": "Engagement metrics contested is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Engagement metrics contested is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Streaming & Digital Platforms, the pattern is objective-governed recommendations — multi-objective recommendation with evaluation gates. Satisfaction-weighted engagement sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint — grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "In Streaming & Digital Platforms, the pattern is objective-governed recommendations, multi-objective recommendation with evaluation gates. Satisfaction-weighted engagement sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
   },
   {
    "t": "arch",
@@ -197,11 +197,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. engagement metrics contested gets a number, an owner and a signature; the quarter belongs to a bounded slice — Objective-governed recommendations — live on your estate. In Streaming & Digital Platforms programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. engagement metrics contested gets a number, an owner and a signature; the quarter belongs to a bounded slice, Objective-governed recommendations, live on your estate. In Streaming & Digital Platforms programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",

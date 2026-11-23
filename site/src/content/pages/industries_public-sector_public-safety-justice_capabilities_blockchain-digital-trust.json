@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Public Safety & Justice is how Dispatch and coordination and Evidence management stop leaning on manual work — both decide the margin. The build: the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify."
+   "x": "Blockchain & Digital Trust in Public Safety & Justice is how Dispatch and coordination and Evidence management stop leaning on manual work, both decide the margin. The build: the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Public Safety & Justice, the pattern is evidence anchoring — custody events anchored with access logs. Integrity cryptographic sits on top as the measured result, tracked from the signed baseline onward. Around it, the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify."
+   "x": "In Public Safety & Justice, the pattern is evidence anchoring, custody events anchored with access logs. Integrity cryptographic sits on top as the measured result, tracked from the signed baseline onward. Around it, the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The video triage overwhelming cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Evidence anchoring), and the gate review decides what scales — all inside one quarter in Public Safety & Justice. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Public Safety & Justice, that discipline is not optional — it is the engagement model."
+   "x": "The video triage overwhelming cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Evidence anchoring), and the gate review decides what scales, all inside one quarter in Public Safety & Justice. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Public Safety & Justice, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Public Safety & Justice: Criminal-procedure rules — evidence and disclosure duties; GDPR/privacy — biometric and location data limits. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Blockchain & Digital Trust frame in Public Safety & Justice: Criminal-procedure rules, evidence and disclosure duties; GDPR/privacy, biometric and location data limits. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

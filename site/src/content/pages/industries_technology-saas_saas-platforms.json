@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "SaaS companies compound on engineering use: platform engineering, SRE, FinOps unit economics and AI feature velocity decide NRR. The winners productize their intelligence — evaluation suites, guardrails and cost telemetry from the first AI release. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "SaaS companies compound on engineering use: platform engineering, SRE, FinOps unit economics and AI feature velocity decide NRR. The winners productize their intelligence, evaluation suites, guardrails and cost telemetry from the first AI release. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -58,7 +58,7 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for SaaS & Platform Companies",
    "url": "/industries/technology-saas/saas-platforms/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for SaaS & Platform Companies",
    "url": "/industries/technology-saas/saas-platforms/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for SaaS & Platform Companies",
    "url": "/industries/technology-saas/saas-platforms/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for SaaS & Platform Companies",
@@ -351,7 +351,7 @@
    "title": "Cloud, Edge & Platform for SaaS & Platform Companies",
    "url": "/industries/technology-saas/saas-platforms/capabilities/cloud-edge-platform-engineering/",
    "tag": "Capability",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

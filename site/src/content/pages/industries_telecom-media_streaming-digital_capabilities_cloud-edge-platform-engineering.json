@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against delivery unit economics opaque in Streaming & Digital Platforms: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Cloud, Edge & Platform against delivery unit economics opaque in Streaming & Digital Platforms: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
   },
   {
    "t": "p",
-   "x": "Setting the Cloud, Edge & Platform scene in Streaming & Digital Platforms: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines — and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
+   "x": "Setting the Cloud, Edge & Platform scene in Streaming & Digital Platforms: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines, and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Streaming & Digital Platforms, the pattern is delivery economics — per-stream cost telemetry with codec/CDN policy. Margin recovered sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "In Streaming & Digital Platforms, the pattern is delivery economics, per-stream cost telemetry with codec/CDN policy. Margin recovered sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The delivery unit economics opaque cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Delivery economics), and the gate review decides what scales — all inside one quarter in Streaming & Digital Platforms. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The delivery unit economics opaque cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Delivery economics), and the gate review decides what scales, all inside one quarter in Streaming & Digital Platforms. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Cloud, Edge & Platform control frame for Streaming & Digital Platforms: Privacy/consent (profiling and cross-border duties); Accessibility (UI and captions duties); Content local quotas (catalog duties where applicable). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Cloud, Edge & Platform control frame for Streaming & Digital Platforms: Privacy/consent (profiling and cross-border duties); Accessibility (UI and captions duties); Content local quotas (catalog duties where applicable). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cloud, Edge & Platform for Streaming & Digital Platforms in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cloud, Edge & Platform for Streaming & Digital Platforms in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 449,

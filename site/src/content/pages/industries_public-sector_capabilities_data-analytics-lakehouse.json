@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Public Sector & Government operators recognize the pattern: agency data islands, quarter after quarter. Data & Lakehouse reaches the root: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "Public Sector & Government operators recognize the pattern: agency data islands, quarter after quarter. Data & Lakehouse reaches the root: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "p",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. agency data islands is measured with your finance and risk leads in the room, then one working path — interagency data exchange — goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Nothing scales before the baseline is signed. agency data islands is measured with your finance and risk leads in the room, then one working path, interagency data exchange, goes live inside the quarter. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -71,7 +71,7 @@
   },
   {
    "t": "p",
-   "x": "For the Data & Lakehouse side of Public Sector & Government, the binding duties are concrete — Accessibility (Section 508 / EN 301 549 / WCAG) (digital services must meet accessibility mandates); GDPR / national privacy law (citizen data duties including automated-decision transparency); EU AI Act (public-sector AI uses largely high-risk with conformity duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Data & Lakehouse side of Public Sector & Government, the binding duties are concrete, Accessibility (Section 508 / EN 301 549 / WCAG) (digital services must meet accessibility mandates); GDPR / national privacy law (citizen data duties including automated-decision transparency); EU AI Act (public-sector AI uses largely high-risk with conformity duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -86,19 +86,19 @@
    "items": [
     [
      "Data Engineering & Pipeline Modernization",
-     "Resilient, observable pipelines — trusted data from source to decision at SLA."
+     "Resilient, observable pipelines, trusted data from source to decision at SLA."
     ],
     [
      "Lakehouse Architecture & Migration",
-     "Lakehouse the right way — Unity Catalog governance, cost-aware design and AI-ready foundations."
+     "Lakehouse the right way, Unity Catalog governance, cost-aware design and AI-ready foundations."
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "Decisions at event speed — sub-second pipelines from sensor, click or transaction to action."
+     "Decisions at event speed, sub-second pipelines from sensor, click or transaction to action."
     ],
     [
      "Enterprise BI & Executive Analytics",
-     "Metrics into management — one governed semantic layer, decision cadence built in."
+     "Metrics into management, one governed semantic layer, decision cadence built in."
     ]
    ]
   },
@@ -186,25 +186,25 @@
    "title": "Data & Lakehouse for National Government & Digital Services",
    "url": "/industries/public-sector/national-government/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Defense & National Security",
    "url": "/industries/public-sector/defense-security/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Smart Cities & Infrastructure",
    "url": "/industries/public-sector/smart-cities-infrastructure/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Data & Lakehouse for Public Safety & Justice",
    "url": "/industries/public-sector/public-safety-justice/capabilities/data-analytics-lakehouse/",
    "tag": "Sub-industry depth",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   }
  ]
 }

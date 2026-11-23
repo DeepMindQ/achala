@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Through the Data & Lakehouse lens, the operating reality: Grocery runs on the thinnest margins and the shortest freshness clocks: ordering precision, waste reduction and store labor efficiency decide survival. Fresh-chain intelligence — demand by day-part, markdown automation, cold-chain truth — is the difference."
+   "x": "Through the Data & Lakehouse lens, the operating reality: Grocery runs on the thinnest margins and the shortest freshness clocks: ordering precision, waste reduction and store labor efficiency decide survival. Fresh-chain intelligence, demand by day-part, markdown automation, cold-chain truth, is the difference."
   },
   {
    "t": "p",
-   "x": "Point fixes for cold-chain unverified — a script here, a spreadsheet there — have usually been tried in Grocery & Convenience. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for cold-chain unverified, a script here, a spreadsheet there, have usually been tried in Grocery & Convenience. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Grocery & Convenience, the pattern is fresh demand models — day-part/weather demand per SKU-store. Waste down 20-35% sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. That is the engineering behind Grocery & Convenience."
+   "x": "In Grocery & Convenience, the pattern is fresh demand models, day-part/weather demand per SKU-store. Waste down 20-35% sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. That is the engineering behind Grocery & Convenience."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. cold-chain unverified gets a number, an owner and a signature; the quarter belongs to a bounded slice — Fresh demand models — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Grocery & Convenience, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. cold-chain unverified gets a number, an owner and a signature; the quarter belongs to a bounded slice, Fresh demand models, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Grocery & Convenience, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Grocery & Convenience: Food-safety (HACCP) — temperature evidence duties; GDPR — loyalty profiling duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Grocery & Convenience: Food-safety (HACCP), temperature evidence duties; GDPR, loyalty profiling duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",

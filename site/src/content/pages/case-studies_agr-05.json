@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Herd health on IoT evidence — clinical mastitis detected days earlier, milk yield up 5% and antibiotic use down 18%"
+   "x": "Herd health on IoT evidence, clinical mastitis detected days earlier, milk yield up 5% and antibiotic use down 18%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a dairy group whose herd health depended on the 4:30 a.m. observation skills of whoever was milking. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a dairy group whose herd health depended on the 4:30 a.m. observation skills of whoever was milking. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the herd twin: sensor streams — yield, conductivity, activity — normalized across farms into one health model, anomaly signatures learned per breed and lactation stage with vets labeling confirmed cases, early-warning alerts routed to farm and vet with the evidence attached, and treatment outcomes feeding the signatures back. The 4:30 a.m. instincts became a model that works all day."
+   "x": "We built the herd twin: sensor streams, yield, conductivity, activity, normalized across farms into one health model, anomaly signatures learned per breed and lactation stage with vets labeling confirmed cases, early-warning alerts routed to farm and vet with the evidence attached, and treatment outcomes feeding the signatures back. The 4:30 a.m. instincts became a model that works all day."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The vet-labeled signature pattern transfers across livestock; the sensor mix was these farms' installed base. Another co-op starts from its treatment records — the diagnostic reads what the sensors have been quietly saying."
+   "x": "The vet-labeled signature pattern transfers across livestock; the sensor mix was these farms' installed base. Another co-op starts from its treatment records, the diagnostic reads what the sensors have been quietly saying."
   },
   {
    "t": "table",

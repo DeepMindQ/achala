@@ -1,83 +1,56 @@
 {
- "id": "PLT-swarm-uc",
+ "id": "PLT-kyc-uc",
  "title": "KYC Management System — Industry Use Cases",
  "url": "/platforms/kyc/use-cases/",
  "template": "platform_usecases",
  "breadcrumb": "Platforms > KYC Management System > Industry Use Cases",
  "seo_title": "KYC Management System — Industry Use Cases | Achala IT Solutions",
- "meta_description": "How KYC Management System is deployed across industries: banking, insurance, telecom, logistics and more.",
+ "meta_description": "Use cases for KYC Management System: banking, insurance, telecom and regulated onboarding programs.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Where KYC Management System earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+   "x": "Where KYC Management System runs: the onboarding flows each industry runs through it and what the deployment delivers."
   },
   {
    "t": "h2",
-   "x": "What actually breaks today"
+   "x": "Who runs it and what it delivers"
+  },
+  {
+   "t": "p",
+   "x": "Banks, insurance companies, telecom operators and any business with a regulated onboarding duty. Published deployments report verification in about 5 minutes, 60% faster than manual processing."
   },
   {
    "t": "table",
    "caption": "KYC Management System — where it runs and what it does there",
    "headers": [
-    "Industry",
-    "The decision routed through the platform",
-    "What the deployment adds"
+    "Operator",
+    "The workflow on the platform",
+    "What the deployment delivers"
    ],
    "rows": [
     [
      "Banking",
-     "KYC refresh and exception clearing at file volume",
-     "Human checkpoints exactly where policy requires"
+     "Account opening and re-verification",
+     "Onboarding in about 5 minutes; complete audit trail per applicant"
     ],
     [
      "Insurance",
-     "Claims assembly and FNOL processing",
-     "Every action replayable for the claim file"
+     "Policyholder identity checks",
+     "Fewer abandoned applications; consistent verification decisions"
     ],
     [
      "Telecom",
-     "Order orchestration across legacy stacks",
-     "Rollback that works when an agent misfires"
-    ],
-    [
-     "Logistics",
-     "Document-driven customs and freight workflows",
-     "Escalations designed, not improvised"
-    ],
-    [
-     "Public sector",
-     "Case assembly across registries and forms",
-     "Evidence written as the work happens, ready for the review board"
-    ],
-    [
-     "Healthcare",
-     "Prior-auth package assembly",
-     "Audit trail from document to determination"
+     "SIM registration compliance",
+     "Regulatory checks met automatically; review queue for edge cases"
     ]
    ]
   },
   {
-   "t": "h2",
-   "x": "Delivery, without the theater"
-  },
-  {
-   "t": "p",
-   "x": "Each KYC Management System deployment starts with one decision class in production — not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
-  },
-  {
-   "t": "h2",
-   "x": "What this environment runs on"
-  },
-  {
-   "t": "p",
-   "x": "Operators see KYC Management System as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
-  },
-  {
    "t": "cta",
-   "x": "Talk to the team that runs a working session on KYC Management System in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Book a briefing with the KYC team. We will map your onboarding flow and show where the 60% time saving comes from."
   }
  ],
- "words": 246,
+ "words": 179,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "KYC Management System",
@@ -99,39 +72,19 @@
  ],
  "related": [
   {
-   "title": "KYC Management System — Overview",
+   "title": "KYC Management System",
    "url": "/platforms/kyc/",
-   "desc": "Agentic AI Orchestration Platform"
+   "desc": "Document verification and face recognition that onboard customers in 5 minutes —"
   },
   {
-   "title": "KYC Management System — Architecture & Trust",
+   "title": "KYC Management System — Architecture & Security",
    "url": "/platforms/kyc/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "KYC Management System — Industry Use Cases",
    "url": "/platforms/kyc/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A multinational corporate bank",
-   "url": "/case-studies/bank-02/",
-   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A leading life insurer (North America)",
-   "url": "/case-studies/ins-02/",
-   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
-  },
-  {
-   "title": "A national health insurer",
-   "url": "/case-studies/hc-02/",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

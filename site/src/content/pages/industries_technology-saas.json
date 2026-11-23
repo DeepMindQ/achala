@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Software companies eat their own cooking or get eaten: platform engineering, SRE discipline and FinOps are not nice-to-haves but the operating system of companies whose product is infrastructure. The AI era adds a new economics layer — inference cost per customer, model quality per feature, data moats per vertical — that decides which SaaS companies compound margin and which dilute it."
+   "x": "Software companies eat their own cooking or get eaten: platform engineering, SRE discipline and FinOps are not nice-to-haves but the operating system of companies whose product is infrastructure. The AI era adds a new economics layer, inference cost per customer, model quality per feature, data moats per vertical, that decides which SaaS companies compound margin and which dilute it."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The competitive math is unforgiving: NRR (net revenue retention) is decided by product velocity and reliability; enterprise procurement gates on SOC 2/ISO 27001 evidence; AI features must launch in weeks against well-funded rivals while keeping unit economics sane. Meanwhile data products — benchmarks, telemetry insights, vertical datasets — have become a second revenue line for companies that can build the privacy and entitlement plumbing."
+   "x": "The competitive math is unforgiving: NRR (net revenue retention) is decided by product velocity and reliability; enterprise procurement gates on SOC 2/ISO 27001 evidence; AI features must launch in weeks against well-funded rivals while keeping unit economics sane. Meanwhile data products, benchmarks, telemetry insights, vertical datasets, have become a second revenue line for companies that can build the privacy and entitlement plumbing."
   },
   {
    "t": "h2",

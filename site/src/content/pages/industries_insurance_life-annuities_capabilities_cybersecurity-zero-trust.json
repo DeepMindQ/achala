@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust treats underwriting evidence assembly in Life & Annuities as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Cyber & Zero-Trust treats underwriting evidence assembly in Life & Annuities as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "p",
-   "x": "Setting the Cyber & Zero-Trust scene in Life & Annuities: Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy — ideal ground for governed automation."
+   "x": "Setting the Cyber & Zero-Trust scene in Life & Annuities: Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy, ideal ground for governed automation."
   },
   {
    "t": "p",
-   "x": "Underwriting evidence assembly is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Underwriting evidence assembly is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Life & Annuities, the pattern is long-retention data protection — classification-aware controls for health/PII archives. Sensitive estate governed sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "In Life & Annuities, the pattern is long-retention data protection, classification-aware controls for health/PII archives. Sensitive estate governed sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. underwriting evidence assembly gets a number, an owner and a signature; the quarter belongs to a bounded slice — Long-retention data protection — live on your estate. In Life & Annuities programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. underwriting evidence assembly gets a number, an owner and a signature; the quarter belongs to a bounded slice, Long-retention data protection, live on your estate. In Life & Annuities programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Life & Annuities: IFRS 17 / LDTI — actuarial data and reporting discipline; GLBA/privacy regimes — health and financial data duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Cyber & Zero-Trust frame in Life & Annuities: IFRS 17 / LDTI, actuarial data and reporting discipline; GLBA/privacy regimes, health and financial data duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cyber & Zero-Trust for Life & Annuities, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cyber & Zero-Trust for Life & Annuities, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 532,

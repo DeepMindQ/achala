@@ -1,112 +1,84 @@
 {
- "id": "PLT-twinverse-ar",
- "title": "BI & Analytics Platform — Architecture & Trust",
+ "id": "PLT-bi-analytics-ar",
+ "title": "BI & Analytics Platform — Architecture & Security",
  "url": "/platforms/bi-analytics/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > BI & Analytics Platform > Architecture & Trust",
- "seo_title": "BI & Analytics Platform — Architecture & Trust | Achala IT Solutions",
- "meta_description": "Architecture, security posture and compliance evidence for BI & Analytics Platform — Digital Twin & IoT Intelligence Platform from Achala IT Solutions.",
+ "breadcrumb": "Platforms > BI & Analytics Platform > Architecture & Security",
+ "seo_title": "BI & Analytics Platform — Architecture & Security | Achala IT Solutions",
+ "meta_description": "Architecture and security posture of BI & Analytics Platform — dashboards, KPI monitoring and decision support.",
  "blocks": [
   {
    "t": "hero",
-   "x": "BI & Analytics Platform's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+   "x": "How BI & Analytics Platform is built: owned pipelines, single metric definitions and role-based access on your estate."
   },
   {
    "t": "h2",
-   "x": "The build, in plain terms"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Structurally BI & Analytics Platform is planes, not layers — workload, decision and evidence run in parallel behind one governed API, and each crossing is logged with policy version and owner."
-  },
-  {
-   "t": "p",
-   "x": "For BI & Analytics Platform architecture, the build decomposes into named pieces, each with an owner and a gate:"
+   "x": "The platform runs on cloud or on-premise infrastructure alongside your warehouse estate. Pipelines are versioned and owned; dashboards and alerts follow role-based access; every metric has a documented definition."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Sensor fabric",
-     "retrofit telemetry with data contracts"
+     "Owned pipelines",
+     "Every transformation documented and versioned"
     ],
     [
-     "Twin core",
-     "physics+data models with validation regime"
+     "Single metric definitions",
+     "One definition per KPI, shared by every report"
     ],
     [
-     "Edge fleet",
-     "KubeEdge-class orchestration with OTA"
+     "Role-based access",
+     "Data visibility follows your access policy"
     ],
     [
-     "Maintenance loop",
-     "RUL models into CMMS scheduling"
-    ],
-    [
-     "Scenario engine",
-     "what-if and capacity simulation"
-    ],
-    [
-     "Vision integration",
-     "inspection and safety analytics"
+     "On-premise option",
+     "Runs inside your perimeter where required"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "Trust and controls"
+   "x": "Security and compliance"
   },
   {
    "t": "p",
-   "x": "In BI & Analytics Platform, the program tracks these without being asked:"
+   "x": "The platform ships with the controls below as standard, and every deployment documents them in the evidence pack your auditors receive:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "IEC 62443 alignment",
-     "zones-and-conduits for OT estates"
+     "Owned pipelines",
+     "Every transformation documented and versioned"
     ],
     [
-     "Signed edge fleet",
-     "measured boot, OTA rollback"
+     "Single metric definitions",
+     "One definition per KPI, shared by every report"
     ],
     [
-     "Telemetry contracts",
-     "units, timestamps, lineage enforced"
+     "Role-based access",
+     "Data visibility follows your access policy"
     ],
     [
-     "Privacy pack",
-     "camera governance with works-council alignment"
+     "On-premise option",
+     "Runs inside your perimeter where required"
     ]
    ]
-  },
-  {
-   "t": "h2",
-   "x": "The technology choices, justified"
-  },
-  {
-   "t": "p",
-   "x": "Runtime dependencies: OPC UA, MQTT Sparkplug B, LoRaWAN/NB-IoT, KubeEdge/K3s, CMMS/MES adapters. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
-  },
-  {
-   "t": "h2",
-   "x": "How we run the build"
-  },
-  {
-   "t": "p",
-   "x": "Deployment models for BI & Analytics Platform follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on BI & Analytics Platform architecture, your data, and a written feasibility read you can circulate."
+   "x": "Book a briefing with the BI team. Bring one messy report and we will show the dashboard and pipeline it would become."
   }
  ],
- "words": 264,
+ "words": 235,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "BI & Analytics Platform",
- "l3": "Architecture & Trust",
+ "l3": "Architecture & Security",
  "l4": "",
  "crumbs": [
   {
@@ -118,45 +90,25 @@
    "url": null
   },
   {
-   "name": "Architecture & Trust",
+   "name": "Architecture & Security",
    "url": "/platforms/bi-analytics/architecture/"
   }
  ],
  "related": [
   {
-   "title": "BI & Analytics Platform — Overview",
+   "title": "BI & Analytics Platform",
    "url": "/platforms/bi-analytics/",
-   "desc": "Digital Twin & IoT Intelligence Platform"
+   "desc": "Operational dashboards and KPI monitoring that turn daily operations into decisi"
   },
   {
-   "title": "BI & Analytics Platform — Architecture & Trust",
+   "title": "BI & Analytics Platform — Architecture & Security",
    "url": "/platforms/bi-analytics/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "BI & Analytics Platform — Industry Use Cases",
    "url": "/platforms/bi-analytics/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A global automotive OEM",
-   "url": "/case-studies/mfg-01/",
-   "desc": "OEE +7.2 points across 14 plants — sensor network to scheduling decisions"
-  },
-  {
-   "title": "A specialty chemicals producer",
-   "url": "/case-studies/mfg-02/",
-   "desc": "Yield +3.4 points and energy per tonne down 17% — APC augmentation program"
-  },
-  {
-   "title": "A construction-equipment manufacturer",
-   "url": "/case-studies/mfg-03/",
-   "desc": "Connected machines to connected margin — service revenue attach up 3x"
-  },
-  {
-   "title": "A top-3 grocery retailer (800+ stores)",
-   "url": "/case-studies/ret-01/",
-   "desc": "Fresh waste down 28%, OOS down 31% — day-part demand and ordering agents"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

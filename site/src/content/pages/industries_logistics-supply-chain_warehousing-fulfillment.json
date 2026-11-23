@@ -262,7 +262,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on operations in Warehousing & Fulfillment, your data, and a written feasibility read you can circulate."
+   "x": "one working session on operations in Warehousing & Fulfillment, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 335,
@@ -327,13 +327,13 @@
    "title": "Agentic AI & Hyperautomation for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Warehousing & Fulfillment",
@@ -345,13 +345,13 @@
    "title": "Quantum & Advanced Compute for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "IoT, Twin & Robotics for Warehousing & Fulfillment",
    "url": "/industries/logistics-supply-chain/warehousing-fulfillment/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

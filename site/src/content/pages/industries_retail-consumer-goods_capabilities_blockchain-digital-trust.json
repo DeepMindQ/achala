@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "Programs in Retail & Consumer Goods converge on the same first move: provenance verification — EUDR/DPP-grade chain-of-custody for claim-bearing products. Claims verified, greenwashing risk down is the measured outcome the gate checks."
+   "x": "Programs in Retail & Consumer Goods converge on the same first move: provenance verification, EUDR/DPP-grade chain-of-custody for claim-bearing products. Claims verified, greenwashing risk down is the measured outcome the gate checks."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The provenance claims unverifiable cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (provenance verification), and the gate review decides what scales — all inside one quarter in Retail & Consumer Goods. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The provenance claims unverifiable cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (provenance verification), and the gate review decides what scales, all inside one quarter in Retail & Consumer Goods. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "For the Blockchain & Digital Trust side of Retail & Consumer Goods, the binding duties are concrete — GDPR/CCPA and consent regimes (profiling, consent and preference management duties); EU AI Act transparency (personalization and pricing automation disclosure expectations); CSRD/ISSB-adjacent reporting (scope 3 and packaging data with auditability). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Blockchain & Digital Trust side of Retail & Consumer Goods, the binding duties are concrete, GDPR/CCPA and consent regimes (profiling, consent and preference management duties); EU AI Act transparency (personalization and pricing automation disclosure expectations); CSRD/ISSB-adjacent reporting (scope 3 and packaging data with auditability). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Enterprise DLT Network Engineering",
-     "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+     "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
     ],
     [
      "Asset Tokenization & Digital Assets",
-     "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+     "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
     ],
     [
      "Smart Contract Engineering & Audit",
-     "Contracts as production software — specification, formal verification and audit before value moves."
+     "Contracts as production software, specification, formal verification and audit before value moves."
     ],
     [
      "Provenance, Traceability & Supply Chain Trust",
-     "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+     "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
     ]
    ]
   },
@@ -297,13 +297,13 @@
    "title": "Blockchain & Digital Trust for CPG & Brands",
    "url": "/industries/retail-consumer-goods/cpg-brands/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "Blockchain & Digital Trust for Fashion & Luxury",
    "url": "/industries/retail-consumer-goods/fashion-luxury/capabilities/blockchain-digital-trust/",
    "tag": "Sub-industry depth",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   }
  ]
 }

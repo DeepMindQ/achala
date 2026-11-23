@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Providers run 24/7 operations on clinical goodwill: clinician burden, throughput, revenue-cycle leakage and patient experience all compete for the same attention. Systems that industrialize documentation, coding and workflow intelligence give clinicians their time back — the only resource that matters. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Providers run 24/7 operations on clinical goodwill: clinician burden, throughput, revenue-cycle leakage and patient experience all compete for the same attention. Systems that industrialize documentation, coding and workflow intelligence give clinicians their time back, the only resource that matters. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first — Hospitals & Provider Networks edition:"
+   "x": "The queues and waits that come up first, Hospitals & Provider Networks edition:"
   },
   {
    "t": "bullets",
@@ -327,19 +327,19 @@
    "title": "Applied AI & GenAI for Hospitals & Provider Networks",
    "url": "/industries/healthcare-life-sciences/hospitals-providers/capabilities/applied-ai-generative-ai/",
    "tag": "Capability",
-   "desc": "From enterprise strategy to production models — AI measured on the P&L."
+   "desc": "From enterprise strategy to production models, AI measured on the P&L."
   },
   {
    "title": "Agentic AI & Hyperautomation for Hospitals & Provider Networks",
    "url": "/industries/healthcare-life-sciences/hospitals-providers/capabilities/agentic-ai-hyperautomation/",
    "tag": "Capability",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Data & Lakehouse for Hospitals & Provider Networks",
    "url": "/industries/healthcare-life-sciences/hospitals-providers/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Hospitals & Provider Networks",
@@ -351,7 +351,7 @@
    "title": "IoT, Twin & Robotics for Hospitals & Provider Networks",
    "url": "/industries/healthcare-life-sciences/hospitals-providers/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

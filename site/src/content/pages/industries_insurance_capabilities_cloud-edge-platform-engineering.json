@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Insurance & Risk does not chase announcements; it delivers audited change — which means we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "Cloud, Edge & Platform in Insurance & Risk does not chase announcements; it delivers audited change, which means we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Cloud, Edge & Platform reality in Insurance & Risk: Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect — documentation as you build, not reconstruction under exam."
+   "x": "One more Cloud, Edge & Platform reality in Insurance & Risk: Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect, documentation as you build, not reconstruction under exam."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Insurance & Risk edition:"
+   "x": "The places value leaks, Insurance & Risk edition:"
   },
   {
    "t": "bullets",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Insurance & Risk, the working pattern is policy admin modernization: strangler decomposition of core wrappers with parallel-run equivalence testing. Product change lead time cut in half is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Insurance & Risk, the working pattern is policy admin modernization: strangler decomposition of core wrappers with parallel-run equivalence testing. Product change lead time cut in half is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. legacy policy admin drag is measured with your finance and risk leads in the room, then one working path — policy admin modernization — goes live inside the quarter. In Insurance & Risk programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Nothing scales before the baseline is signed. legacy policy admin drag is measured with your finance and risk leads in the room, then one working path, policy admin modernization, goes live inside the quarter. In Insurance & Risk programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cloud, Edge & Platform side of Insurance & Risk, the binding duties are concrete — Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cloud, Edge & Platform side of Insurance & Risk, the binding duties are concrete, Solvency II / NAIC RBC regimes (reserving, capital and model governance under supervisory review); EIOPA / state DOIs AI guidance (pricing models and automated decisions under fairness and explainability expectations); GDPR / HIPAA-adjacent health data (sensitive-category handling, retention and DSAR duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },
@@ -302,13 +302,13 @@
    "title": "Cloud, Edge & Platform for Life & Annuities",
    "url": "/industries/insurance/life-annuities/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Health Insurance & Benefits",
    "url": "/industries/insurance/health-insurance/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

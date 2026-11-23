@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust is delivered as boring infrastructure: permissioned networks with real governance, contracts that pass audits at zero highs, identity that works offline, provenance that survives recalls — the verifiable record regulators accept, built with consensus nobody has to adore."
+   "x": "Blockchain & Digital Trust is delivered as boring infrastructure: permissioned networks with real governance, contracts that pass audits at zero highs, identity that works offline, provenance that survives recalls, the verifiable record regulators accept, built with consensus nobody has to adore."
   },
   {
    "t": "p",
-   "x": "This domain treats distributed ledgers as infrastructure for verifiable trust between parties who do not fully trust each other — which means most of the engineering happens off the chain: identity and keys, privacy scoping, off-chain state, and independent verification that does not require faith in anyone's node."
+   "x": "This domain treats distributed ledgers as infrastructure for verifiable trust between parties who do not fully trust each other, which means most of the engineering happens off the chain: identity and keys, privacy scoping, off-chain state, and independent verification that does not require faith in anyone's node."
   },
   {
    "t": "p",
@@ -72,20 +72,20 @@
   },
   {
    "t": "p",
-   "x": "The practice's bias is deliberate dullness: boring consensus, boring cryptography, boring governance — because the value of a shared ledger is that nobody argues with it, and nobody argues with systems that behave predictably under stress. The exciting part is what the record enables: recalls resolved in minutes, credentials verified offline, settlements that reconcile to the ledger by construction."
+   "x": "The practice's bias is deliberate dullness: boring consensus, boring cryptography, boring governance, because the value of a shared ledger is that nobody argues with it, and nobody argues with systems that behave predictably under stress. The exciting part is what the record enables: recalls resolved in minutes, credentials verified offline, settlements that reconcile to the ledger by construction."
   },
   {
    "t": "p",
-   "x": "Regulation is a design input, not an afterthought: transfer restrictions enforced in code, travel-rule workflows built into analytics, privacy domains engineered into the network charter. The practices assume the regulator reads the architecture — because eventually, one does."
+   "x": "Regulation is a design input, not an afterthought: transfer restrictions enforced in code, travel-rule workflows built into analytics, privacy domains engineered into the network charter. The practices assume the regulator reads the architecture, because eventually, one does."
   },
   {
    "t": "h2",
    "x": "Charter to verifiable surface — the trust stack in one map",
-   "sub": "Membership, ledger, privacy, identity and the anchoring points in one governed stack"
+   "sub": "Membership, ledger, privacy, identity and the anchoring points in one platform suite"
   },
   {
    "t": "p",
-   "x": "The charter governs membership and privacy domains, consensus carries the ledger, contracts and credentials build on it, analytics maps it to regulatory duties, and every surface inherits the controls — one stack where verifiability is structural, not aspirational."
+   "x": "The charter governs membership and privacy domains, consensus carries the ledger, contracts and credentials build on it, analytics maps it to regulatory duties, and every surface inherits the controls, one stack where verifiability is structural, not aspirational."
   },
   {
    "t": "arch",
@@ -314,7 +314,7 @@
   },
   {
    "t": "p",
-   "x": "Transaction cost, network uptime, version currency and the governance ledger — tiles that read like infrastructure because that is what trust requires."
+   "x": "Transaction cost, network uptime, version currency and the governance ledger, tiles that read like infrastructure because that is what trust requires."
   },
   {
    "t": "idash",
@@ -655,11 +655,11 @@
   {
    "t": "h2",
    "x": "Where verifiable records already have sector playbooks",
-   "sub": "Trade finance, provenance, tokenization — twelve industries with live briefs"
+   "sub": "Trade finance, provenance, tokenization, twelve industries with live briefs"
   },
   {
    "t": "p",
-   "x": "Trade finance, provenance and tokenization concentrate in different sectors — and so does the published depth. The bars count sub-industry briefs live on this site; a taller bar is a sector where the network charter, privacy domains and regulator workflows are already drawn, not invented on engagement."
+   "x": "Trade finance, provenance and tokenization concentrate in different sectors, and so does the published depth. The bars count sub-industry briefs live on this site; a taller bar is a sector where the network charter, privacy domains and regulator workflows are already drawn, not invented on engagement."
   },
   {
    "t": "chart",
@@ -1129,7 +1129,7 @@
    "items": [
     [
      "Diagnostic — two weeks",
-     "The charter drafted, privacy domains scoped, the governance ledger designed — you keep the network blueprint with member obligations spelled out."
+     "The charter drafted, privacy domains scoped, the governance ledger designed, you keep the network blueprint with member obligations spelled out."
     ],
     [
      "Provability sprint — four weeks",
@@ -1137,7 +1137,7 @@
     ],
     [
      "Build — ten to fourteen weeks",
-     "Network, contracts and surfaces built to the reference architecture, with audits scheduled before go-live — not after incidents."
+     "Network, contracts and surfaces built to the reference architecture, with audits scheduled before go-live, not after incidents."
     ],
     [
      "Industrialize — ongoing",
@@ -1148,7 +1148,7 @@
   {
    "t": "h2",
    "x": "Five gates before the first transaction matters",
-   "sub": "Membership, contract, key, privacy, verification — the evidence each demands"
+   "sub": "Membership, contract, key, privacy, verification, the evidence each demands"
   },
   {
    "t": "table",
@@ -1194,12 +1194,12 @@
   },
   {
    "t": "p",
-   "x": "Distributed-ledger programs fail when they are exciting: novel consensus, token improvisation and governance-by-goodwill produce systems nobody will sign. The domain standard is deliberate dullness — permissioned networks with chartered membership, BFT-class consensus sized to the member set, privacy domains that pass data-protection review, and key ceremonies that are witnessed events with dual control rather than DevOps chores. Every write lands with an assurance pack, and every claim a member makes can be reconstructed by an independent verifier who assumes no issuer goodwill.",
+   "x": "Distributed-ledger programs fail when they are exciting: novel consensus, token improvisation and governance-by-goodwill produce systems nobody will sign. The domain standard is deliberate dullness, permissioned networks with chartered membership, BFT-class consensus sized to the member set, privacy domains that pass data-protection review, and key ceremonies that are witnessed events with dual control rather than DevOps chores. Every write lands with an assurance pack, and every claim a member makes can be reconstructed by an independent verifier who assumes no issuer goodwill.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The second thesis is that the ledger is the small part. The hard parts are the capture chain (are the events true?), the legal wrapper (do on-ledger rights match off-chain law?) and the governance (who may change what, decided before the first transaction). The six practices in this domain exist because each hard part needs its own engineering — and because a network that gets them boring survives its third year, which is where most die.",
+   "x": "The second thesis is that the ledger is the small part. The hard parts are the capture chain (are the events true?), the legal wrapper (do on-ledger rights match off-chain law?) and the governance (who may change what, decided before the first transaction). The six practices in this domain exist because each hard part needs its own engineering, and because a network that gets them boring survives its third year, which is where most die.",
    "phase3_deep": true
   },
   {
@@ -1229,7 +1229,7 @@
    "items": [
     [
      "Isn't blockchain a solution looking for a problem?",
-     "Sometimes — which is why the readiness work precedes any network build. Where parties genuinely distrust each other's records and a shared truth removes reconciliation work, the ledger pays for itself; where a database would do, the diagnostic says so in the first two weeks."
+     "Sometimes, which is why the readiness work precedes any network build. Where parties genuinely distrust each other's records and a shared truth removes reconciliation work, the ledger pays for itself; where a database would do, the diagnostic says so in the first two weeks."
     ],
     [
      "How do you handle privacy when the ledger is shared?",
@@ -1237,15 +1237,15 @@
     ],
     [
      "What happens when a member wants to leave?",
-     "Exits are written into the charter before the first transaction — data carried forward, credentials revoked, obligations settled on-ledger. The governance cadence covers the operational side: version upgrades, member onboarding and the audit calendar."
+     "Exits are written into the charter before the first transaction, data carried forward, credentials revoked, obligations settled on-ledger. The governance cadence covers the operational side: version upgrades, member onboarding and the audit calendar."
     ],
     [
      "Do you work with public chains?",
-     "Where the regulatory design permits it, the analytics practice covers public-chain flows; enterprise value transfer runs on permissioned networks with chartered membership — the boring choice that gets signed."
+     "Where the regulatory design permits it, the analytics practice covers public-chain flows; enterprise value transfer runs on permissioned networks with chartered membership, the boring choice that gets signed."
     ],
     [
      "What does audit-grade mean concretely?",
-     "Contracts audited at zero high-severity findings, key ceremonies with quorum evidence, independent verifier walkthroughs, and assurance packs on every write — the artifact set an auditor reads instead of holding interviews."
+     "Contracts audited at zero high-severity findings, key ceremonies with quorum evidence, independent verifier walkthroughs, and assurance packs on every write, the artifact set an auditor reads instead of holding interviews."
     ]
    ]
   },
@@ -1297,37 +1297,37 @@
    "title": "Enterprise DLT Network Engineering",
    "url": "/services/blockchain-digital-trust/enterprise-dlt-networks/",
    "tag": "Service",
-   "desc": "Permissioned networks for multi-party truth — governance, consensus and integration done institutionally."
+   "desc": "Permissioned networks for multi-party truth, governance, consensus and integration done institutionally."
   },
   {
    "title": "Asset Tokenization & Digital Assets",
    "url": "/services/blockchain-digital-trust/asset-tokenization/",
    "tag": "Service",
-   "desc": "Instruments as tokens — issuance, custody and lifecycle under securities-law discipline."
+   "desc": "Instruments as tokens, issuance, custody and lifecycle under securities-law discipline."
   },
   {
    "title": "Smart Contract Engineering & Audit",
    "url": "/services/blockchain-digital-trust/smart-contract-engineering/",
    "tag": "Service",
-   "desc": "Contracts as production software — specification, formal verification and audit before value moves."
+   "desc": "Contracts as production software, specification, formal verification and audit before value moves."
   },
   {
    "title": "Provenance, Traceability & Supply Chain Trust",
    "url": "/services/blockchain-digital-trust/provenance-traceability/",
    "tag": "Service",
-   "desc": "Proof, not paperwork — EUDR, DPP and chain-of-custody systems regulators and customers can verify."
+   "desc": "Proof, not paperwork, EUDR, DPP and chain-of-custody systems regulators and customers can verify."
   },
   {
    "title": "Decentralized Identity & Verifiable Credentials",
    "url": "/services/blockchain-digital-trust/decentralized-identity/",
    "tag": "Service",
-   "desc": "Credentials users carry — portable, privacy-preserving verification for workforce and customers."
+   "desc": "Credentials users carry, portable, privacy-preserving verification for workforce and customers."
   },
   {
    "title": "Blockchain Analytics & Regulatory Compliance",
    "url": "/services/blockchain-digital-trust/blockchain-analytics-compliance/",
    "tag": "Service",
-   "desc": "On-chain transparency, operationalized — analytics, Travel Rule and MiCA-aligned controls."
+   "desc": "On-chain transparency, operationalized, analytics, Travel Rule and MiCA-aligned controls."
   }
  ],
  "evidence": [

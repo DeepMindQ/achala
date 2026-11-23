@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Software Development & Engineering Pods: Product-grade engineering pods that ship into your controls, not around them. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Software Development & Engineering Pods: Product-grade engineering pods that ship into your controls, not around them. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Our engineering pods build the systems the business actually runs on: transactional platforms, customer portals, integration fabrics and the internal tools operations depends on. Pods arrive with a delivery system, not just developers — trunk-based development, contract-tested APIs, progressive delivery and evidence-producing pipelines are the default, because software that cannot be audited is a liability no matter how well it demos."
+   "x": "Our engineering pods build the systems the business actually runs on: transactional platforms, customer portals, integration fabrics and the internal tools operations depends on. Pods arrive with a delivery system, not just developers, trunk-based development, contract-tested APIs, progressive delivery and evidence-producing pipelines are the default, because software that cannot be audited is a liability no matter how well it demos."
   },
   {
    "t": "p",
@@ -217,7 +217,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a Software Development & Engineering Pods briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Software Development & Engineering Pods briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 364,

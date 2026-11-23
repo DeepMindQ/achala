@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Retail margin is decided in thousands of small decisions a day: the price on the tag, the fill rate on the shelf, the offer in the app, the allocation behind the promotion. Winners industrialize those decisions on live data — demand sensing, price elasticity, availability telemetry — and losers discover the loss later in the margin bridge, unwritten."
+   "x": "Retail margin is decided in thousands of small decisions a day: the price on the tag, the fill rate on the shelf, the offer in the app, the allocation behind the promotion. Winners industrialize those decisions on live data, demand sensing, price elasticity, availability telemetry, and losers discover the loss later in the margin bridge, unwritten."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The operating environment keeps tightening: marketplace giants set fulfillment expectations, private label squeezes brand premium, retail media becomes a P&L line of its own, and sustainability regulation (packaging, provenance, CSRD-adjacent reporting) turns supply-chain data into a compliance asset. Store estates themselves become sensor networks — computer vision for shelf truth, footfall analytics, energy optimization."
+   "x": "The operating environment keeps tightening: marketplace giants set fulfillment expectations, private label squeezes brand premium, retail media becomes a P&L line of its own, and sustainability regulation (packaging, provenance, CSRD-adjacent reporting) turns supply-chain data into a compliance asset. Store estates themselves become sensor networks, computer vision for shelf truth, footfall analytics, energy optimization."
   },
   {
    "t": "h2",
@@ -129,7 +129,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring programs in Retail & Consumer Goods to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring programs in Retail & Consumer Goods to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 469,

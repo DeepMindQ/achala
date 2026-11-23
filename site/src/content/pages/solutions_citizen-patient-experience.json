@@ -29,7 +29,7 @@
   },
   {
    "t": "p",
-   "x": "We redesign journeys on shared rails — identity, consent, notification — orchestrate cross-agency/cross-clinic workflows with event fabric, and instrument experience (resolution, effort, equity) as operating metrics."
+   "x": "We redesign journeys on shared rails, identity, consent, notification, orchestrate cross-agency/cross-clinic workflows with event fabric, and instrument experience (resolution, effort, equity) as operating metrics."
   },
   {
    "t": "p",
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Citizen & Patient Experience Orchestration composes KYC Management System, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Public Sector & Government, Healthcare & Life Sciences, Education & Research."
+   "x": "Citizen & Patient Experience Orchestration composes KYC Management System, EEMS Platform, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Public Sector & Government, Healthcare & Life Sciences, Education & Research."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "Method over magic in Citizen & Patient Experience Orchestration: the problem gets a CFO-unit statement and a signed baseline; the design gets a written risk envelope; the pilot gets falsifiable criteria; the rollout gets whatever the evidence supports. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Citizen & Patient Experience Orchestration, that discipline is not optional — it is the engagement model."
+   "x": "Method over magic in Citizen & Patient Experience Orchestration: the problem gets a CFO-unit statement and a signed baseline; the design gets a written risk envelope; the pilot gets falsifiable criteria; the rollout gets whatever the evidence supports. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For Citizen & Patient Experience Orchestration, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "What the Citizen & Patient Experience Orchestration case is written against — priced against your own baseline in the diagnostic, not quoted from marketing:"
+   "x": "What the Citizen & Patient Experience Orchestration case is written against, priced against your own baseline in the diagnostic, not quoted from marketing:"
   },
   {
    "t": "bullets",
@@ -203,7 +203,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Citizen & Patient Experience Orchestration, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Citizen & Patient Experience Orchestration, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 354,
@@ -284,7 +284,7 @@
    "title": "Contact Center & Conversational Transformation",
    "url": "/solutions/contact-center-transformation/",
    "tag": "People",
-   "desc": "Resolution-first voice and chat — measured on outcomes, not deflection."
+   "desc": "Resolution-first voice and chat, measured on outcomes, not deflection."
   },
   {
    "title": "Knowledge & Collaboration Fabric",

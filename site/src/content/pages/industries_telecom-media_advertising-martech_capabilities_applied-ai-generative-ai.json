@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI treats supply-chain transparency thin in Advertising & MarTech as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Applied AI & GenAI treats supply-chain transparency thin in Advertising & MarTech as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
-   "x": "Setting the Applied AI & GenAI scene in Advertising & MarTech: Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era — and whether spend proves incrementality."
+   "x": "Setting the Applied AI & GenAI scene in Advertising & MarTech: Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era, and whether spend proves incrementality."
   },
   {
    "t": "p",
-   "x": "Supply-chain transparency thin is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Supply-chain transparency thin is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Advertising & MarTech, the pattern is creative automation — variant generation under brand guardrails with QC. Cycle down 50% sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "In Advertising & MarTech, the pattern is creative automation, variant generation under brand guardrails with QC. Cycle down 50% sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The supply-chain transparency thin cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Creative automation), and the gate review decides what scales — all inside one quarter in Advertising & MarTech. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Advertising & MarTech, that discipline is not optional — it is the engagement model."
+   "x": "The supply-chain transparency thin cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Creative automation), and the gate review decides what scales, all inside one quarter in Advertising & MarTech. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Advertising & MarTech, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Applied AI & GenAI frame in Advertising & MarTech: GDPR/ePrivacy/ATT-class — consent and tracking duties; EU AI Act transparency — synthetic content disclosure. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Applied AI & GenAI frame in Advertising & MarTech: GDPR/ePrivacy/ATT-class, consent and tracking duties; EU AI Act transparency, synthetic content disclosure. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

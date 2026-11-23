@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what long-tail data under PQ risk costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay — routing, scheduling, allocation — we deploy them; where they do not, we say so in writing."
+   "x": "Ask what long-tail data under PQ risk costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Quantum & Advanced Compute reality in Insurance & Risk: Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect — documentation as you build, not reconstruction under exam."
+   "x": "One more Quantum & Advanced Compute reality in Insurance & Risk: Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect, documentation as you build, not reconstruction under exam."
   },
   {
    "t": "h2",
@@ -175,11 +175,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for long-tail data under PQ risk is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — catastrophe portfolio optimization, bounded to one path, running on your estate. In Insurance & Risk programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "Delivery opens with measurement: the baseline for long-tail data under PQ risk is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, catastrophe portfolio optimization, bounded to one path, running on your estate. In Insurance & Risk programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -195,26 +195,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Quantum & Advanced Compute for Insurance & Risk — each page documents the build as delivered:"
+   "x": "Named services for Quantum & Advanced Compute for Insurance & Risk, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Quantum & Advanced Compute in Insurance & Risk in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Quantum & Advanced Compute in Insurance & Risk in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 526,
@@ -297,7 +297,7 @@
    "title": "Quantum & Advanced Compute for Reinsurance & Commercial Lines",
    "url": "/industries/insurance/reinsurance-commercial-lines/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

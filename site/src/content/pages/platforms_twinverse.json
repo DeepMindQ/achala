@@ -1,0 +1,230 @@
+{
+ "id": "PLT-twinverse-ov",
+ "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+ "url": "/platforms/twinverse/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Twinverse > Overview",
+ "seo_title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform | Achala IT Solutions",
+ "meta_description": "Achala Twinverse, our Digital Twin & IoT Intelligence Platform, connects sensor data to simulation and actuation for physical operations.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Your physical operations, mirrored in software you can act on. Achala Twinverse connects sensor data to simulation and actuation, from industrial IoT fleets to connected medical devices."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Twinverse is our Digital Twin & IoT Intelligence Platform. It ingests telemetry from devices, keeps a faithful model of the physical world, and closes the loop: simulate a change, compare it to reality, then apply it through controlled actuation."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Device fabric",
+     "Fleet ingestion with OTA update safety gates"
+    ],
+    [
+     "Twin models",
+     "State models of assets and processes, validated against telemetry"
+    ],
+    [
+     "Simulation runs",
+     "Test operational changes in the twin before touching production"
+    ],
+    [
+     "Actuation paths",
+     "Controlled outputs to plant systems and devices, with rollback"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Twinverse — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "OPC UA",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Sensor fabric",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Twin core",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Edge fleet",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "Maintenance loop",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "IEC 62443 alignment",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Safety and compliance"
+  },
+  {
+   "t": "p",
+   "x": "Physical systems need safety discipline alongside security:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "OTA safety gates",
+     "Firmware updates staged, signed and reversible"
+    ],
+    [
+     "Twin fidelity reports",
+     "Model-vs-reality drift measured and published"
+    ],
+    [
+     "IEC 62443 alignment",
+     "Industrial security zones and conduits respected"
+    ],
+    [
+     "Actuation audit",
+     "Every control action logged with its authorization"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Twinverse runs in manufacturing plants, energy networks, logistics fleets and connected-health estates, anywhere sensors produce decisions and decisions move physical assets."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Connects to OPC-UA, MQTT and industrial historians on the ingestion side, and to SCADA/MES systems on the actuation side, through versioned integrations."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one production line or asset class to a briefing. We will show the twin, the simulation loop and the actuation path it would run with."
+  }
+ ],
+ "words": 565,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Twinverse",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Twinverse",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/twinverse/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Twinverse — Digital Twin & IoT Intelligence Platform",
+   "url": "/platforms/twinverse/",
+   "desc": "Digital Twin & IoT Intelligence Platform"
+  },
+  {
+   "title": "Achala Twinverse — Architecture & Trust",
+   "url": "/platforms/twinverse/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Twinverse — Industry Use Cases",
+   "url": "/platforms/twinverse/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

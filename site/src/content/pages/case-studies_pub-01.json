@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Case processing down 52% — document intelligence under accountable-AI gates"
+   "x": "Case processing down 52%, document intelligence under accountable-AI gates"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A national digital-government agency — a Public Sector & Government engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A national digital-government agency, a Public Sector & Government engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -213,11 +213,11 @@
    "items": [
     [
      "Applied AI & GenAI",
-     "the models and retrieval systems were evaluated before anyone trusted them — grounded answers, cited sources, measured quality."
+     "the models and retrieval systems were evaluated before anyone trusted them, grounded answers, cited sources, measured quality."
     ],
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",

@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse view of how work actually runs: Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack — now with agentic planning on top."
+   "x": "The Data & Lakehouse view of how work actually runs: Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack, now with agentic planning on top."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Process Industries & Chemicals, the pattern is batch genealogy platform — batch/quality/ERP unified with lineage. Investigations in hours sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "In Process Industries & Chemicals, the pattern is batch genealogy platform, batch/quality/ERP unified with lineage. Investigations in hours sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. process drift costs yield gets a number, an owner and a signature; the quarter belongs to a bounded slice — Batch genealogy platform — live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "The first two weeks belong to the baseline. process drift costs yield gets a number, an owner and a signature; the quarter belongs to a bounded slice, Batch genealogy platform, live on your estate. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",

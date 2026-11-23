@@ -1,0 +1,230 @@
+{
+ "id": "PLT-ledger-ov",
+ "title": "Achala Ledger — Distributed Trust & Tokenization Platform",
+ "url": "/platforms/ledger/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Achala Ledger > Overview",
+ "seo_title": "Achala Ledger — Distributed Trust & Tokenization Platform | Achala IT Solutions",
+ "meta_description": "Achala Ledger, our Distributed Trust & Tokenization Platform, runs permissioned networks for shared records and tokenized assets.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Shared records that survive an audit. Achala Ledger runs permissioned distributed networks where multiple organizations read the same truth, and tokenization when real assets need digital form."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Achala Ledger is our Distributed Trust & Tokenization Platform. It gives consortia and trading partners a shared record with consensus-gated writes: every participant sees the same history, and no one can change it alone."
+  },
+  {
+   "t": "h2",
+   "x": "The modules"
+  },
+  {
+   "t": "p",
+   "x": "Named modules, each with a clear job:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Permissioned network",
+     "Membership, roles and consensus rules set by the consortium"
+    ],
+    [
+     "Consensus gates",
+     "Writes committed only when the network's rules are satisfied"
+    ],
+    [
+     "Tokenization engine",
+     "Assets represented digitally with issuance and transfer controls"
+    ],
+    [
+     "Inspection exports",
+     "Regulator-ready views of any record's full history"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Achala Ledger — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "Hyperledger Fabric/Besu",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Network engineering",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Governance charter",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Tokenization stack",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "Contract factory",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "HSM custody",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "Security and compliance"
+  },
+  {
+   "t": "p",
+   "x": "Distributed records are only useful if they are defensible:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Consensus parity checks",
+     "All nodes agree, and the platform proves it"
+    ],
+    [
+     "Audit chain",
+     "Every write linked to its authorization"
+    ],
+    [
+     "GDPR-aligned data handling",
+     "Personal data kept off-chain by design"
+    ],
+    [
+     "Key ceremonies",
+     "Network keys managed with documented procedures"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Where it runs"
+  },
+  {
+   "t": "p",
+   "x": "Achala Ledger runs in trade finance, supply-chain provenance, healthcare record sharing and asset registry programs, wherever multiple organizations need one version of the truth."
+  },
+  {
+   "t": "h2",
+   "x": "How it connects"
+  },
+  {
+   "t": "p",
+   "x": "Built on permissioned ledger frameworks with adapters to ERP, core banking and hospital systems. Token standards follow your jurisdiction's requirements."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one shared-record problem to a briefing. We will show the network, the consensus rules and the inspection views it would run with."
+  }
+ ],
+ "words": 557,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Ledger",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Ledger",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/ledger/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Ledger — Distributed Trust & Tokenization Platform",
+   "url": "/platforms/ledger/",
+   "desc": "Distributed Trust & Tokenization Platform"
+  },
+  {
+   "title": "Achala Ledger — Architecture & Trust",
+   "url": "/platforms/ledger/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Ledger — Industry Use Cases",
+   "url": "/platforms/ledger/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

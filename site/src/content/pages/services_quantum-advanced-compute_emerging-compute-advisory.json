@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Emerging compute moves faster than procurement cycles: photonic accelerators, neuromorphic chips, analog in-memory compute, chiplets. The advisory practice keeps your organization sane — tracking capabilities against your actual workload shapes, testing claims on your problems, and writing decision memos that name the date you should revisit rather than vague enthusiasm."
+   "x": "Emerging compute moves faster than procurement cycles: photonic accelerators, neuromorphic chips, analog in-memory compute, chiplets. The advisory practice keeps your organization sane, tracking capabilities against your actual workload shapes, testing claims on your problems, and writing decision memos that name the date you should revisit rather than vague enthusiasm."
   },
   {
    "t": "p",
@@ -26,7 +26,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these converts a conference demo into a purchase order — the countermeasures test claims on your workloads and time-stamp every verdict."
+   "x": "Every one of these converts a conference demo into a purchase order, the countermeasures test claims on your workloads and time-stamp every verdict."
   },
   {
    "t": "table",
@@ -66,7 +66,7 @@
   },
   {
    "t": "p",
-   "x": "The pipeline treats vendor claims like hypothesis tests: reproduce the demo on your data shapes, benchmark against your incumbent stack, then write the memo — watch, pilot or buy — with the evidence attached and the revisit date set."
+   "x": "The pipeline treats vendor claims like hypothesis tests: reproduce the demo on your data shapes, benchmark against your incumbent stack, then write the memo, watch, pilot or buy, with the evidence attached and the revisit date set."
   },
   {
    "t": "arch",
@@ -265,7 +265,7 @@
   },
   {
    "t": "p",
-   "x": "From claim intake through reproduction, benchmarking on your workloads and the memo verdict — including the watchlist entry where most claims correctly land."
+   "x": "From claim intake through reproduction, benchmarking on your workloads and the memo verdict, including the watchlist entry where most claims correctly land."
   },
   {
    "t": "diagram",
@@ -289,7 +289,7 @@
   },
   {
    "t": "p",
-   "x": "Claims tested per quarter, memos delivered on time and buy recommendations — the three numbers that show whether the advisory is a decision engine or a conference subscription."
+   "x": "Claims tested per quarter, memos delivered on time and buy recommendations, the three numbers that show whether the advisory is a decision engine or a conference subscription."
   },
   {
    "t": "idash",
@@ -607,7 +607,7 @@
   },
   {
    "t": "p",
-   "x": "Claims tested, verdicts delivered and the watchlist composition across quarters — the shape that shows how much of the frontier is real and how much is well-lit."
+   "x": "Claims tested, verdicts delivered and the watchlist composition across quarters, the shape that shows how much of the frontier is real and how much is well-lit."
   },
   {
    "t": "chart",
@@ -1092,27 +1092,27 @@
     [
      "Scanning",
      "Criteria-driven landscape tracker",
-     "Newsletter summaries — noise without shapes"
+     "Newsletter summaries, noise without shapes"
     ],
     [
      "Testing",
      "Your-workload instances in pilots",
-     "Vendor demo numbers — different problems, different answers"
+     "Vendor demo numbers, different problems, different answers"
     ],
     [
      "Memos",
      "Buy/wait/monitor with cost models",
-     "Slide enthusiasm — no cost model, no memo"
+     "Slide enthusiasm, no cost model, no memo"
     ],
     [
      "Clocks",
      "Revisit dates with triggers",
-     "Open-ended recommendations — they never resolve"
+     "Open-ended recommendations, they never resolve"
     ],
     [
      "Cadence",
      "Quarterly review with portfolio",
-     "Ad-hoc briefings — whiplash by design"
+     "Ad-hoc briefings, whiplash by design"
     ]
    ]
   },
@@ -1266,7 +1266,7 @@
   },
   {
    "t": "p",
-   "x": "The advisory carries no vendor incentives: benchmark evidence is archived with every memo, recommendations are revisited on their dates, and strategy whiplash — the annual reversal — is tracked as its own risk metric."
+   "x": "The advisory carries no vendor incentives: benchmark evidence is archived with every memo, recommendations are revisited on their dates, and strategy whiplash, the annual reversal, is tracked as its own risk metric."
   },
   {
    "t": "bullets",
@@ -1301,12 +1301,12 @@
   },
   {
    "t": "p",
-   "x": "Emerging-compute advisories become procurement theater when they convert keynotes into roadmaps: the discipline runs the other direction — vendor claims are validated by reproduction (on your workload shapes, not their demo instances), landscape scans record claim provenance, and the decision memo's most common verdict is wait, with a revisit date and the criteria that would change the verdict. Workload shapes are typed and benchmarked so that when a technology does cross the threshold, the match to your actual problems is already known.",
+   "x": "Emerging-compute advisories become procurement theater when they convert keynotes into roadmaps: the discipline runs the other direction, vendor claims are validated by reproduction (on your workload shapes, not their demo instances), landscape scans record claim provenance, and the decision memo's most common verdict is wait, with a revisit date and the criteria that would change the verdict. Workload shapes are typed and benchmarked so that when a technology does cross the threshold, the match to your actual problems is already known.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "The independence overlay keeps the advisory honest: no vendor relationships that reward conclusions, evidence memos filed for every claim tested (including the ones that reproduced), and the architecture council reads verdicts with their criteria, not enthusiasm with its slide deck. The console reads claims tested, verdicts and upcoming revisit dates — the calendar is the governance.",
+   "x": "The independence overlay keeps the advisory honest: no vendor relationships that reward conclusions, evidence memos filed for every claim tested (including the ones that reproduced), and the architecture council reads verdicts with their criteria, not enthusiasm with its slide deck. The console reads claims tested, verdicts and upcoming revisit dates, the calendar is the governance.",
    "phase3_deep": true
   },
   {
@@ -1322,7 +1322,7 @@
     ],
     [
      "Dated revisits",
-     "The calendar enforces reconsideration — drift-proof governance."
+     "The calendar enforces reconsideration, drift-proof governance."
     ],
     [
      "Independence by design",
@@ -1336,29 +1336,29 @@
    "items": [
     [
      "How do you test vendor claims without buying anything?",
-     "Benchmarks against your workloads on rented or shared hardware, reproducible scripts, and measured baselines. The claim-vs-measured gap — 12% to 58% in the chart — is computed from runs the vendor did not script."
+     "Benchmarks against your workloads on rented or shared hardware, reproducible scripts, and measured baselines. The claim-vs-measured gap, 12% to 58% in the chart, is computed from runs the vendor did not script."
     ],
     [
      "What does a decision memo actually contain?",
-     "The tested claim, the fit score against your estate, the gap between vendor claims and measured reality, the kill criteria and a recommendation — often wait, sometimes pilot, rarely adopt, always signed."
+     "The tested claim, the fit score against your estate, the gap between vendor claims and measured reality, the kill criteria and a recommendation, often wait, sometimes pilot, rarely adopt, always signed."
     ],
     [
      "How do you stay vendor-neutral?",
-     "The independence overlay: no vendor compensation, rotation of benchmark vendors, and memos published to the architecture council with methods included — the advisory’s only product is the decision, not a procurement."
+     "The independence overlay: no vendor compensation, rotation of benchmark vendors, and memos published to the architecture council with methods included, the advisory’s only product is the decision, not a procurement."
     ],
     [
      "Can you evaluate claims for technologies not on your chart?",
-     "Yes — the loop is technology-agnostic: claim, benchmark design, measurement, memo. Photonic, neuromorphic, chiplets and in-memory analogs all run the same gates."
+     "Yes, the loop is technology-agnostic: claim, benchmark design, measurement, memo. Photonic, neuromorphic, chiplets and in-memory analogs all run the same gates."
     ],
     [
      "What does the technology office inherit?",
-     "The tested-claims ledger, the memo archive, the gates and the council cadence — horizon scanning that produces decisions, not keynotes."
+     "The tested-claims ledger, the memo archive, the gates and the council cadence, horizon scanning that produces decisions, not keynotes."
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "Bring the claim your CTO keeps forwarding. The advisory will reproduce it on your workloads, benchmark it against your stack — and return a memo with a verdict, not a webinar."
+   "x": "Bring the claim your CTO keeps forwarding. The advisory will reproduce it on your workloads, benchmark it against your stack, and return a memo with a verdict, not a webinar."
   }
  ],
  "words": 924,
@@ -1443,43 +1443,43 @@
    "title": "HPC & Simulation Engineering",
    "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
    "tag": "Same domain",
-   "desc": "classical HPC that does the heavy lifting — benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
+   "desc": "classical HPC that does the heavy lifting, benchmarked clusters, tuned solvers, cost-per-solve discipline and simulation workflows with provenance."
   },
   {
    "title": "Post-Quantum Cryptography Migration",
    "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
    "tag": "Same domain",
-   "desc": "PQC migration as engineering — crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
+   "desc": "PQC migration as engineering, crypto inventory with endpoint-level truth, hybrid deployments where standards allow, and crypto-agility that makes the next swap cheap."
   },
   {
    "title": "Quantum Machine Learning & Simulation",
    "url": "/services/quantum-advanced-compute/quantum-ml-simulation/",
    "tag": "Same domain",
-   "desc": "circuit-based ML and chemistry simulation with verification-first rigor — benchmarks that survive noise, and classical surrogates that carry the workload meanwhile."
+   "desc": "circuit-based ML and chemistry simulation with verification-first rigor, benchmarks that survive noise, and classical surrogates that carry the workload meanwhile."
   },
   {
    "title": "Threat Intelligence & Managed SOC",
    "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
    "tag": "Pairs with",
-   "desc": "detection engineering with measured coverage — threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
+   "desc": "detection engineering with measured coverage, threat-informed, purple-teamed, and run by a SOC whose speed is measured from detect to contain."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Pairs with",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "Advanced Risk & Predictive Analytics",
    "url": "/services/data-analytics-lakehouse/advanced-risk-predictive-analytics/",
    "tag": "Pairs with",
-   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance — predictions that survive the quarter they were made in."
+   "desc": "risk and forecasting models with signed baselines, time-based holdouts and governance, predictions that survive the quarter they were made in."
   },
   {
    "title": "A parcel network (12M parcels/week)",
    "url": "/case-studies/log-03/",
    "tag": "Evidence",
-   "desc": "Failed deliveries down 34% — promise engine and exception agents."
+   "desc": "Failed deliveries down 34%, promise engine and exception agents."
   }
  ],
  "evidence": [

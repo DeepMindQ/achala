@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Gaming & Interactive Media lives inside Player analytics, Live-ops and Trust & safety — paths that all carry decisions now. The work: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own. For Gaming & Interactive Media, this is the standard the build is held to."
+   "x": "Applied AI & GenAI in Gaming & Interactive Media lives inside Player analytics, Live-ops and Trust & safety, paths that all carry decisions now. The work: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own. For Gaming & Interactive Media, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Player analytics shallow is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Player analytics shallow is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Gaming & Interactive Media, the pattern is content balancing — simulation-driven balancing with human signoff. Live-ops faster sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own. For Gaming & Interactive Media, this is the standard the build is held to."
+   "x": "In Gaming & Interactive Media, the pattern is content balancing, simulation-driven balancing with human signoff. Live-ops faster sits on top as the measured result, tracked from the signed baseline onward. Around it, we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own. For Gaming & Interactive Media, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. player analytics shallow gets a number, an owner and a signature; the quarter belongs to a bounded slice — Content balancing — live on your estate. In Gaming & Interactive Media programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. player analytics shallow gets a number, an owner and a signature; the quarter belongs to a bounded slice, Content balancing, live on your estate. In Gaming & Interactive Media programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Applied AI & GenAI control frame for Gaming & Interactive Media: Privacy (minors) (player data duties); Consumer/loot-box rules (monetization duties); Platform policies (safety duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Applied AI & GenAI control frame for Gaming & Interactive Media: Privacy (minors) (player data duties); Consumer/loot-box rules (monetization duties); Platform policies (safety duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

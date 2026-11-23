@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics treats port systems exposed in Maritime, Ports & Shipping as an engineering target — baseline, gate, owner — not a permanent feature of the terrain: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "IoT, Twin & Robotics treats port systems exposed in Maritime, Ports & Shipping as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics ground truth in Maritime, Ports & Shipping: Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure — pure intelligence arbitrage."
+   "x": "The IoT, Twin & Robotics ground truth in Maritime, Ports & Shipping: Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure, pure intelligence arbitrage."
   },
   {
    "t": "p",
-   "x": "Port systems exposed is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Port systems exposed is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Maritime, Ports & Shipping, the pattern is crane health sensing — telemetry into predictive maintenance. Availability up sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "In Maritime, Ports & Shipping, the pattern is crane health sensing, telemetry into predictive maintenance. Availability up sits on top as the measured result, tracked from the signed baseline onward. Around it, the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The port systems exposed cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Crane health sensing), and the gate review decides what scales — all inside one quarter in Maritime, Ports & Shipping. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Maritime, Ports & Shipping, that discipline is not optional — it is the engagement model."
+   "x": "The port systems exposed cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Crane health sensing), and the gate review decides what scales, all inside one quarter in Maritime, Ports & Shipping. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Maritime, Ports & Shipping, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The IoT, Twin & Robotics control frame for Maritime, Ports & Shipping: SOLAS/ISPS (port security duties); Customs regimes (cargo documentation); Environmental (IMO/FEU) (emissions reporting). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The IoT, Twin & Robotics control frame for Maritime, Ports & Shipping: SOLAS/ISPS (port security duties); Customs regimes (cargo documentation); Environmental (IMO/FEU) (emissions reporting). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against non-revenue water invisible in Water, Waste & City Utilities: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. For Water, Waste & City Utilities, this is the standard the build is held to."
+   "x": "Cloud, Edge & Platform against non-revenue water invisible in Water, Waste & City Utilities: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. For Water, Waste & City Utilities, this is the standard the build is held to."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Water, Waste & City Utilities, the pattern is M2B integrity — meter-to-bill pipelines with anomaly detection. Disputes down sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. For Water, Waste & City Utilities, this is the standard the build is held to."
+   "x": "In Water, Waste & City Utilities, the pattern is M2B integrity, meter-to-bill pipelines with anomaly detection. Disputes down sits on top as the measured result, tracked from the signed baseline onward. Around it, infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. For Water, Waste & City Utilities, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. non-revenue water invisible is measured with your finance and risk leads in the room, then one working path — M2B integrity — goes live inside the quarter. In Water, Waste & City Utilities programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "Nothing scales before the baseline is signed. non-revenue water invisible is measured with your finance and risk leads in the room, then one working path, M2B integrity, goes live inside the quarter. In Water, Waste & City Utilities programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Water, Waste & City Utilities: Drinking-water directives — quality duties; NIS2 — essential-entity duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in Water, Waste & City Utilities: Drinking-water directives, quality duties; NIS2, essential-entity duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Cloud, Edge & Platform for Water, Waste & City Utilities, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Cloud, Edge & Platform for Water, Waste & City Utilities, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 479,

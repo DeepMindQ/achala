@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in SaaS & Platform Companies lives inside Release engineering, AI feature delivery and Support operations — paths that all carry decisions now. The work: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "Agentic AI & Hyperautomation in SaaS & Platform Companies lives inside Release engineering, AI feature delivery and Support operations, paths that all carry decisions now. The work: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
   },
   {
    "t": "p",
-   "x": "Setting the Agentic AI & Hyperautomation scene in SaaS & Platform Companies: SaaS companies compound on engineering use: platform engineering, SRE, FinOps unit economics and AI feature velocity decide NRR. The winners productize their intelligence — evaluation suites, guardrails and cost telemetry from the first AI release."
+   "x": "Setting the Agentic AI & Hyperautomation scene in SaaS & Platform Companies: SaaS companies compound on engineering use: platform engineering, SRE, FinOps unit economics and AI feature velocity decide NRR. The winners productize their intelligence, evaluation suites, guardrails and cost telemetry from the first AI release."
   },
   {
    "t": "p",
-   "x": "The fix for telemetry unused is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for telemetry unused is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In SaaS & Platform Companies, the pattern is support fleet — resolution-first agents with product grounding. Cost down 30% sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "In SaaS & Platform Companies, the pattern is support fleet, resolution-first agents with product grounding. Cost down 30% sits on top as the measured result, tracked from the signed baseline onward. Around it, the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The telemetry unused cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Support fleet), and the gate review decides what scales — all inside one quarter in SaaS & Platform Companies. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For SaaS & Platform Companies, that discipline is not optional — it is the engagement model."
+   "x": "The telemetry unused cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Support fleet), and the gate review decides what scales, all inside one quarter in SaaS & Platform Companies. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team. For SaaS & Platform Companies, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -195,7 +195,7 @@
   },
   {
    "t": "p",
-   "x": "For the Agentic AI & Hyperautomation side of SaaS & Platform Companies, the binding duties are concrete — SOC 2/ISO 27001 (procurement gates); GDPR (customer-data duties); EU AI Act (provider) (AI duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Agentic AI & Hyperautomation side of SaaS & Platform Companies, the binding duties are concrete, SOC 2/ISO 27001 (procurement gates); GDPR (customer-data duties); EU AI Act (provider) (AI duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -207,7 +207,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Agentic AI & Hyperautomation for SaaS & Platform Companies in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Agentic AI & Hyperautomation for SaaS & Platform Companies in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 479,

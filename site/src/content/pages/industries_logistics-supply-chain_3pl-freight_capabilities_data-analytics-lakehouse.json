@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in 3PL & Freight Forwarding meets two truths at once — volume keeps growing, and the old way stopped scaling. The structured response: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. That is the engineering behind 3PL & Freight Forwarding."
+   "x": "Data & Lakehouse in 3PL & Freight Forwarding meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind 3PL & Freight Forwarding."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In 3PL & Freight Forwarding, the pattern is control-tower spine — multi-carrier events into one visibility estate. Etas real sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears. That is the engineering behind 3PL & Freight Forwarding."
+   "x": "In 3PL & Freight Forwarding, the pattern is control-tower spine, multi-carrier events into one visibility estate. Etas real sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind 3PL & Freight Forwarding."
   },
   {
    "t": "arch",
@@ -187,11 +187,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for freight fraud rising is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — Control-tower spine, bounded to one path, running on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "Delivery opens with measurement: the baseline for freight fraud rising is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, Control-tower spine, bounded to one path, running on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse control frame for 3PL & Freight Forwarding: Customs/security (AEO/C-TPAT) (chain-security evidence); Dangerous goods (ADR/IMDG/IATA) (DG documentation); EUDR (in-scope commodities) (due-diligence evidence). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Data & Lakehouse control frame for 3PL & Freight Forwarding: Customs/security (AEO/C-TPAT) (chain-security evidence); Dangerous goods (ADR/IMDG/IATA) (DG documentation); EUDR (in-scope commodities) (due-diligence evidence). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

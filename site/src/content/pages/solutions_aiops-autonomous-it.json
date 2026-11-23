@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind AIOps & Autonomous IT Operations: decisions that should be systematized are still assembled by hand — one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
+   "x": "The pattern behind AIOps & Autonomous IT Operations: decisions that should be systematized are still assembled by hand, one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
   },
   {
    "t": "h2",
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "AIOps & Autonomous IT Operations composes KYC Management System, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Telecom, Media & Entertainment, Banking & Financial Services, Retail & Consumer Goods."
+   "x": "AIOps & Autonomous IT Operations composes KYC Management System, Fleet Management System, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Telecom, Media & Entertainment, Banking & Financial Services, Retail & Consumer Goods."
   },
   {
    "t": "h2",
@@ -174,7 +174,7 @@
   },
   {
    "t": "p",
-   "x": "AIOps & Autonomous IT Operations runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For AIOps & Autonomous IT Operations, that discipline is not optional — it is the engagement model."
+   "x": "AIOps & Autonomous IT Operations runs on phases: phase one prices the problem in your own units and signs the baseline; phase two designs with the risk envelope written down; phase three proves a bounded slice on your data; phase four scales what survived the gate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide. For AIOps & Autonomous IT Operations, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "What the AIOps & Autonomous IT Operations case is written against — priced against your own baseline in the diagnostic, not quoted from marketing:"
+   "x": "What the AIOps & Autonomous IT Operations case is written against, priced against your own baseline in the diagnostic, not quoted from marketing:"
   },
   {
    "t": "bullets",
@@ -284,7 +284,7 @@
    "title": "Intelligent Process Automation at Scale",
    "url": "/solutions/process-automation-scale/",
    "tag": "Ops",
-   "desc": "From pilot purgatory to a governed fleet — automation with conformance."
+   "desc": "From pilot purgatory to a governed fleet, automation with conformance."
   },
   {
    "title": "Predictive Maintenance & Asset Performance",

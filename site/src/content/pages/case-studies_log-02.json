@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Berth productivity +16% — planning platform and crane health sensing"
+   "x": "Berth productivity +16%, planning platform and crane health sensing"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — A container-terminal operator, Logistics & Supply Chain sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, A container-terminal operator, Logistics & Supply Chain sector, outcome-linked engagement, blended delivery team. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -205,11 +205,11 @@
     ],
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
     ],
     [
      "Quantum & Advanced Compute",
-     "the problem class was bounded in writing before any solver ran — which is why the speedup held."
+     "the problem class was bounded in writing before any solver ran, which is why the speedup held."
     ]
    ]
   },
@@ -219,7 +219,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind the container-terminal operator program travels; the estate does not. Teams considering this path should expect the diagnostic to reshape scope at least once — that is the process working, not failing The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
+   "x": "The pattern behind the container-terminal operator program travels; the estate does not. Teams considering this path should expect the diagnostic to reshape scope at least once, that is the process working, not failing The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",

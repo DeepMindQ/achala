@@ -1,0 +1,118 @@
+{
+ "id": "PLT-forge-uc",
+ "title": "Achala Forge — Industry Use Cases",
+ "url": "/platforms/forge/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Achala Forge > Industry Use Cases",
+ "seo_title": "Achala Forge — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "Industry use cases for Achala Forge — Data & Lakehouse Engineering Platform: migrations, real-time pipelines and governed data products.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Achala Forge runs, sector by sector: the data estates each industry builds on it and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "The workflows that feel it"
+  },
+  {
+   "t": "table",
+   "caption": "Achala Forge — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Banking",
+     "One customer view across deposits, cards and loans",
+     "Certified definitions that end metric disputes"
+    ],
+    [
+     "Healthcare",
+     "Clinical, claims and operational data under one spine",
+     "PHI-safe pipelines with lineage to the field level"
+    ],
+    [
+     "Manufacturing",
+     "Plant telemetry and quality data unified",
+     "Freshness SLAs the operations floor trusts"
+    ],
+    [
+     "Retail",
+     "Demand, supply and loyalty data as one asset",
+     "Contract-governed quality before analytics runs"
+    ],
+    [
+     "Telecom",
+     "Network and customer data joined for decisioning",
+     "Cost-aware storage that survives the CFO"
+    ],
+    [
+     "Public sector",
+     "Cross-agency data under strict governance",
+     "Lineage that answers the transparency request"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Each Achala Forge deployment starts with one decision class in production, not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "How the operation actually works"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Achala Forge as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not, fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one data domain to a briefing. We will show the contract, the pipeline and the cost picture it would run under."
+  }
+ ],
+ "words": 326,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Forge",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Forge",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/forge/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Forge — Data & Lakehouse Engineering Platform",
+   "url": "/platforms/forge/",
+   "desc": "Data & Lakehouse Engineering Platform"
+  },
+  {
+   "title": "Achala Forge — Architecture & Trust",
+   "url": "/platforms/forge/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Forge — Industry Use Cases",
+   "url": "/platforms/forge/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}

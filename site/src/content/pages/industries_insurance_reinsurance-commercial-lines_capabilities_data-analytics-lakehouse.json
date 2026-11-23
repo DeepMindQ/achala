@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Reinsurance & Commercial Lines is how Bordereaux intake/reconciliation and Treaty settlement stop leaning on manual work — both decide the margin. The build: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Data & Lakehouse in Reinsurance & Commercial Lines is how Bordereaux intake/reconciliation and Treaty settlement stop leaning on manual work, both decide the margin. The build: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse ground truth in Reinsurance & Commercial Lines: Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets — which is why settlement cycles and model confidence suffer."
+   "x": "The Data & Lakehouse ground truth in Reinsurance & Commercial Lines: Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets, which is why settlement cycles and model confidence suffer."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Reinsurance & Commercial Lines, the pattern is bordereaux engine — format-normalized intake with auto-reconciliation and quality scoring. 70%+ auto-reconciled sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "In Reinsurance & Commercial Lines, the pattern is bordereaux engine, format-normalized intake with auto-reconciliation and quality scoring. 70%+ auto-reconciled sits on top as the measured result, tracked from the signed baseline onward. Around it, we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. settlement evidence bilateral is measured with your finance and risk leads in the room, then one working path — Bordereaux engine — goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
+   "x": "Nothing scales before the baseline is signed. settlement evidence bilateral is measured with your finance and risk leads in the room, then one working path, Bordereaux engine, goes live inside the quarter. Baselines are signed in the first two weeks, the working slice lands inside the quarter, and the value ledger stays open to your finance team."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse control frame for Reinsurance & Commercial Lines: Solvency II / RBC (capital and reserving discipline); Contract certainty rules (documentation timeliness); AML/reputational screening (counterparty duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Data & Lakehouse control frame for Reinsurance & Commercial Lines: Solvency II / RBC (capital and reserving discipline); Contract certainty rules (documentation timeliness); AML/reputational screening (counterparty duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Extraction and adjudication inside the process, not beside it: documents become decisions with confidence gates, per-field evidence and a human queue that shrinks by design — because the root causes of the queue are fixed, not just staffed."
+   "x": "Extraction and adjudication inside the process, not beside it: documents become decisions with confidence gates, per-field evidence and a human queue that shrinks by design, because the root causes of the queue are fixed, not just staffed."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "IDP inside hyperautomation is different from standalone extraction: the output is not a spreadsheet, it is a process decision — an invoice matched, a claim registered, a contract clause routed. That means confidence gates tuned per field class, adjudication queues that feed the process, and evidence that satisfies the audit two years later."
+   "x": "IDP inside hyperautomation is different from standalone extraction: the output is not a spreadsheet, it is a process decision, an invoice matched, a claim registered, a contract clause routed. That means confidence gates tuned per field class, adjudication queues that feed the process, and evidence that satisfies the audit two years later."
   },
   {
    "t": "p",
@@ -35,7 +35,7 @@
   },
   {
    "t": "p",
-   "x": "Each of these survives a pilot and bankrupts the operation at scale — the countermeasures target root causes so the queue shrinks instead of being staffed."
+   "x": "Each of these survives a pilot and bankrupts the operation at scale, the countermeasures target root causes so the queue shrinks instead of being staffed."
   },
   {
    "t": "table",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "Confidence gates route fields, not documents: high-confidence fields post, low-confidence fields route to an adjudication surface whose verdicts feed the extractor — so every human minute makes the next hundred documents cheaper."
+   "x": "Confidence gates route fields, not documents: high-confidence fields post, low-confidence fields route to an adjudication surface whose verdicts feed the extractor, so every human minute makes the next hundred documents cheaper."
   },
   {
    "t": "arch",
@@ -298,7 +298,7 @@
   },
   {
    "t": "p",
-   "x": "From capture through field-level gates and adjudication to posting and root-cause logging — including the money-path checks that hold high-value documents for review by design."
+   "x": "From capture through field-level gates and adjudication to posting and root-cause logging, including the money-path checks that hold high-value documents for review by design."
   },
   {
    "t": "diagram",
@@ -323,7 +323,7 @@
   },
   {
    "t": "p",
-   "x": "Straight-through rate beside adjudicated field accuracy, queue age beside hold rate — the pairing that keeps speed honest and the money path protected."
+   "x": "Straight-through rate beside adjudicated field accuracy, queue age beside hold rate, the pairing that keeps speed honest and the money path protected."
   },
   {
    "t": "idash",
@@ -665,7 +665,7 @@
   },
   {
    "t": "p",
-   "x": "Queue depth decomposed by root-cause class across six months — template drift, missing fields, edge cases, upstream data debt. The shrinking shape is the evidence the program is fixing causes, not hiring reviewers."
+   "x": "Queue depth decomposed by root-cause class across six months, template drift, missing fields, edge cases, upstream data debt. The shrinking shape is the evidence the program is fixing causes, not hiring reviewers."
   },
   {
    "t": "chart",
@@ -1230,27 +1230,27 @@
     [
      "Extraction",
      "Domain-standard perception stack (see Multimodal Vision Systems)",
-     "Duplicate extraction stacks per team — standards live at domain level"
+     "Duplicate extraction stacks per team, standards live at domain level"
     ],
     [
      "Gates",
      "Per-field confidence thresholds with cohort tuning",
-     "One global threshold — it optimizes nothing and everything badly"
+     "One global threshold, it optimizes nothing and everything badly"
     ],
     [
      "Adjudication",
      "Guided queue SOPs with correction capture",
-     "Free-form review without structure — corrections never train anything"
+     "Free-form review without structure, corrections never train anything"
     ],
     [
      "Matching",
      "Typed PO/ledger reconciliation before commit",
-     "Direct-to-ERP writes from extraction — the fastest way to a bad payment"
+     "Direct-to-ERP writes from extraction, the fastest way to a bad payment"
     ],
     [
      "Learning",
      "Versioned retraining gated by the eval set",
-     "Continuous auto-retrain — it bakes reviewer bias into production"
+     "Continuous auto-retrain, it bakes reviewer bias into production"
     ]
    ]
   },
@@ -1366,7 +1366,7 @@
   {
    "t": "h2",
    "x": "Capture in, ledgers out — the typed document path",
-   "sub": "Scanners, portals and EDI in; ERP ledgers out — typed throughout"
+   "sub": "Scanners, portals and EDI in; ERP ledgers out, typed throughout"
   },
   {
    "t": "p",
@@ -1404,7 +1404,7 @@
   },
   {
    "t": "p",
-   "x": "Per-field evidence, adjudicator identity and money-path holds are structural — the audit question 'who decided this value and why' has a one-click answer."
+   "x": "Per-field evidence, adjudicator identity and money-path holds are structural, the audit question 'who decided this value and why' has a one-click answer."
   },
   {
    "t": "bullets",
@@ -1429,22 +1429,22 @@
   },
   {
    "t": "note",
-   "x": "Money-path documents carry mandatory dual review above signed value thresholds — automation stops there by design, and the stop is logged as a control, not a failure."
+   "x": "Money-path documents carry mandatory dual review above signed value thresholds, automation stops there by design, and the stop is logged as a control, not a failure."
   },
   {
    "t": "h2",
    "x": "The confidence gate is the product",
-   "sub": "Route-don't-guess adjudication — and why correction capture is the compounding asset",
+   "sub": "Route-don't-guess adjudication, and why correction capture is the compounding asset",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Document processing programs fail by optimizing extraction accuracy while ignoring the routing decision that actually protects the money path. The gate is the product: every extracted field carries a confidence score, and the gate routes on the score band — high confidence posts straight through after reconciliation, mid band goes to a human queue with the uncertain fields highlighted, low band goes back for recapture. The bands are set per document class from the risk matrix, because an invoice under $200 and a change order under $2M do not share a tolerance. Reconciliation against source — three-way match for PO flows, ledger match for accruals — runs before posting, so the queue measures exceptions, not errors.",
+   "x": "Document processing programs fail by optimizing extraction accuracy while ignoring the routing decision that actually protects the money path. The gate is the product: every extracted field carries a confidence score, and the gate routes on the score band, high confidence posts straight through after reconciliation, mid band goes to a human queue with the uncertain fields highlighted, low band goes back for recapture. The bands are set per document class from the risk matrix, because an invoice under $200 and a change order under $2M do not share a tolerance. Reconciliation against source, three-way match for PO flows, ledger match for accruals, runs before posting, so the queue measures exceptions, not errors.",
    "phase3_deep": true
   },
   {
    "t": "p",
-   "x": "Correction capture is the compounding asset. Every human fix is recorded as a labeled correction bound to the page region and the field, and the correction stream feeds the monthly gate recalibration — which is why straight-through share climbs for months after go-live instead of decaying. The queue itself is managed as a product: age bands, root-cause tags and a monthly shrinkage review that kills the worst extraction failure class each cycle, rather than a support inbox that quietly grows.",
+   "x": "Correction capture is the compounding asset. Every human fix is recorded as a labeled correction bound to the page region and the field, and the correction stream feeds the monthly gate recalibration, which is why straight-through share climbs for months after go-live instead of decaying. The queue itself is managed as a product: age bands, root-cause tags and a monthly shrinkage review that kills the worst extraction failure class each cycle, rather than a support inbox that quietly grows.",
    "phase3_deep": true
   },
   {
@@ -1456,7 +1456,7 @@
     ],
     [
      "Reconcile before post",
-     "Three-way match on PO flows, ledger match on accruals — exceptions, not errors."
+     "Three-way match on PO flows, ledger match on accruals, exceptions, not errors."
     ],
     [
      "Correction capture",
@@ -1482,7 +1482,7 @@
     ],
     [
      "Does this work with our scanners, portals and EDI feeds?",
-     "Yes — capture channels are typed inputs feeding one adjudication flow, and the systems of record receive typed, gated output rather than raw extractions."
+     "Yes, capture channels are typed inputs feeding one adjudication flow, and the systems of record receive typed, gated output rather than raw extractions."
     ],
     [
      "How do human corrections make the system better?",
@@ -1496,7 +1496,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring the queue your team works nights to clear. The sprint will decompose it by root cause and price what straight-through would honestly cost — hold rates included."
+   "x": "Bring the queue your team works nights to clear. The sprint will decompose it by root cause and price what straight-through would honestly cost, hold rates included."
   }
  ],
  "words": 1105,
@@ -1581,7 +1581,7 @@
    "title": "Process & Task Mining",
    "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
    "tag": "Same domain",
-   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline — conformance-checked, variant-ranked and ROI-priced before anything is built."
+   "desc": "event-log forensics that turns system footprints into a defensible automation pipeline, conformance-checked, variant-ranked and ROI-priced before anything is built."
   },
   {
    "title": "Agentic Process Automation",
@@ -1593,7 +1593,7 @@
    "title": "Autonomous Workflow Orchestration",
    "url": "/services/agentic-ai-hyperautomation/autonomous-workflow-orchestration/",
    "tag": "Same domain",
-   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit — orchestration that survives partial failure as a normal event."
+   "desc": "long-running workflows with durable state, recovery by design, escalation choreography and audit, orchestration that survives partial failure as a normal event."
   },
   {
    "title": "Multimodal AI & Vision-Language Systems",
@@ -1605,19 +1605,19 @@
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Pairs with",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "Cloud-Native & Legacy Modernization",
    "url": "/services/cloud-edge-platform-engineering/cloud-native-modernization/",
    "tag": "Pairs with",
-   "desc": "workloads rebuilt for cloud-native operations — containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
+   "desc": "workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, with a strangler path that retires VMs on evidence."
   },
   {
    "title": "A national health insurer",
    "url": "/case-studies/hc-02/",
    "tag": "Evidence",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically."
+   "desc": "Prior authorization turnaround down 62%, clinical evidence assembled automatically."
   }
  ],
  "evidence": [

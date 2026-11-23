@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Application Services & Modernization: Keep the applications that earn their keep; retire the ones that only cost. This page is the practice as it works — method, toolchain, artifacts and the architecture we deploy."
+   "x": "Application Services & Modernization: Keep the applications that earn their keep; retire the ones that only cost. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
   },
   {
    "t": "h2",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "Every estate carries a portfolio, not an application: some systems earn their keep, some hold critical logic nobody understands, and some only cost. We start with a portfolio triage — business value against technical debt — and give each application a disposition: invest, modernize, encapsulate, or retire. Modernization then runs incrementally: strangler patterns around monoliths, contract-first extraction of services, and data uncoupled from application lifecycles so neither migration blocks the other."
+   "x": "Every estate carries a portfolio, not an application: some systems earn their keep, some hold critical logic nobody understands, and some only cost. We start with a portfolio triage, business value against technical debt, and give each application a disposition: invest, modernize, encapsulate, or retire. Modernization then runs incrementally: strangler patterns around monoliths, contract-first extraction of services, and data uncoupled from application lifecycles so neither migration blocks the other."
   },
   {
    "t": "p",
-   "x": "Run-state matters as much as build-state. Modernized applications land with observability, cost telemetry and support models defined — because an application that cannot be observed, costed and supported safely has not been modernized; it has been relocated."
+   "x": "Run-state matters as much as build-state. Modernized applications land with observability, cost telemetry and support models defined, because an application that cannot be observed, costed and supported safely has not been modernized; it has been relocated."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "cta",
-   "x": "Book a Application Services & Modernization briefing — 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
+   "x": "Book a Application Services & Modernization briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
  "words": 359,

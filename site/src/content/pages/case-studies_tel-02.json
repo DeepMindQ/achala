@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Energy per site down 18% — telemetry-driven optimization at 12,000 sites"
+   "x": "Energy per site down 18%, telemetry-driven optimization at 12,000 sites"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A Middle East operator group — a Telecom, Media & Entertainment engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A Middle East operator group, a Telecom, Media & Entertainment engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -217,7 +217,7 @@
     ],
     [
      "IoT, Twin & Robotics",
-     "the twin drifted when the asset drifted — and the sync loop caught it, which is what kept operators using it."
+     "the twin drifted when the asset drifted, and the sync loop caught it, which is what kept operators using it."
     ],
     [
      "Data & Lakehouse",

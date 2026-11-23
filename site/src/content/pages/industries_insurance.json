@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Insurance is a decision business wrapped in a promise: price the risk correctly, honor the claim quickly, hold the reserves honestly. All three now depend on machinery most carriers have underinvested in — pricing models that see the portfolio's drift, claims pipelines that read documents instead of waiting for humans, and reserving analytics that reconcile actuarial judgment with live experience data."
+   "x": "Insurance is a decision business wrapped in a promise: price the risk correctly, honor the claim quickly, hold the reserves honestly. All three now depend on machinery most carriers have underinvested in, pricing models that see the portfolio's drift, claims pipelines that read documents instead of waiting for humans, and reserving analytics that reconcile actuarial judgment with live experience data."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The industry's structural pressures compound: catastrophe volatility reprices property books annually, combined-ratio pressure meets softening cycles, and fraud has industrialized on both sides of the ledger. Meanwhile distribution shifts — embedded insurance, ecosystems, digital MGAs — reward carriers whose underwriting and claims engines can plug into partners' platforms through APIs rather than PDFs."
+   "x": "The industry's structural pressures compound: catastrophe volatility reprices property books annually, combined-ratio pressure meets softening cycles, and fraud has industrialized on both sides of the ledger. Meanwhile distribution shifts, embedded insurance, ecosystems, digital MGAs, reward carriers whose underwriting and claims engines can plug into partners' platforms through APIs rather than PDFs."
   },
   {
    "t": "h2",
@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect — documentation as you build, not reconstruction under exam."
+   "x": "Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect, documentation as you build, not reconstruction under exam."
   },
   {
    "t": "h2",
@@ -70,7 +70,7 @@
   },
   {
    "t": "p",
-   "x": "Insurance & Risk programs pay first in this order — and here is why:"
+   "x": "Insurance & Risk programs pay first in this order, and here is why:"
   },
   {
    "t": "bullets",
@@ -133,28 +133,28 @@
   },
   {
    "t": "p",
-   "x": "Reference deliveries in Insurance & Risk — identity withheld as standard, method notes available under NDA:"
+   "x": "Reference deliveries in Insurance & Risk, identity withheld as standard, method notes available under NDA:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "A top-5 global P&C insurer",
-     "Claims triage in minutes — 55% faster cycle times with document intelligence"
+     "Claims triage in minutes, 55% faster cycle times with document intelligence"
     ],
     [
      "A leading life insurer (North America)",
-     "Underwriting evidence assembled in hours — case cycle time down 44%"
+     "Underwriting evidence assembled in hours, case cycle time down 44%"
     ],
     [
      "A European specialty reinsurer",
-     "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+     "Bordereaux automation and settlement evidence, reconciliation effort down 74%"
     ]
    ]
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on programs in Insurance & Risk, your data, and a written feasibility read you can circulate."
+   "x": "one working session on programs in Insurance & Risk, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 627,

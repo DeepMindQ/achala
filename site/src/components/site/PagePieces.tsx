@@ -380,7 +380,7 @@ function sectionKicker(page: PageData): string | undefined {
     services_hub: "Services & Expertise",
     industries_hub: "Industries",
     solutions_hub: "Solutions",
-    platforms_hub: "Proprietary Platforms",
+    platforms_hub: "Platforms",
     insights_hub: "Insights Library",
   };
   return map[page.template];
@@ -389,8 +389,8 @@ function sectionKicker(page: PageData): string | undefined {
 function cardsHeading(template: string): string {
   const map: Record<string, string> = {
     services_hub: "The eight expertise domains",
-    industries_hub: "Twelve industries, one operating discipline",
-    solutions_hub: "24 outcome-linked solutions",
+    industries_hub: "Twelve industries, one delivery standard",
+    solutions_hub: "24 packaged solutions",
     platforms_hub: "The Achala platform portfolio",
     cases_hub: "The case index",
     insights_hub: "Insight categories",
@@ -406,9 +406,10 @@ function cardsHeading(template: string): string {
 
 function cardsSub(template: string): string {
   const map: Record<string, string> = {
-    services_hub: "Each domain card opens its hub — the practices, the reference architectures, the sector briefs and the metric the domain is managed on.",
-    cases_hub: "Indexed by industry and service area — every case carries its measured delta and the gates that governed the build.",
-    insights_hub: "Practitioner theses from the delivery floor — published with vendor questions included.",
+    services_hub: "Each domain page lists its practices, reference architectures, sector briefs and the metric the domain is managed on.",
+    cases_hub: "Indexed by industry and service area. Every case carries its measured result and the gates that governed the build.",
+    insights_hub: "Written by the people who ran the work — vendor questions included.",
+    platforms_hub: "Eight licensed products from our R&D programme, and eight platforms running in production today.",
   };
   return map[template] ?? "";
 }

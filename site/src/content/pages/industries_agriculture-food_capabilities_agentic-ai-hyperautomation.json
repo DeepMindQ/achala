@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what input and logistics planning manual costs Agriculture & Food Systems firms in a year and the honest answer is: more than anyone has measured. We measure first, then we automate the path end to end — mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. Agriculture & Food Systems is where this discipline pays."
+   "x": "Ask what input and logistics planning manual costs Agriculture & Food Systems firms in a year and the honest answer is: more than anyone has measured. We measure first, then we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. Agriculture & Food Systems is where this discipline pays."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Agriculture & Food Systems: harvest logistics orchestration — weather-window aware scheduling of machines, crews and storage. Logistics losses down measurably is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Agriculture & Food Systems: harvest logistics orchestration, weather-window aware scheduling of machines, crews and storage. Logistics losses down measurably is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. input and logistics planning manual is measured with your finance and risk leads in the room, then one working path — harvest logistics orchestration — goes live inside the quarter. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Agriculture & Food Systems, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. input and logistics planning manual is measured with your finance and risk leads in the room, then one working path, harvest logistics orchestration, goes live inside the quarter. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Agriculture & Food Systems, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -191,30 +191,30 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
-   "x": "Named services for Agentic AI & Hyperautomation for Agriculture & Food Systems — each page documents the build as delivered:"
+   "x": "Named services for Agentic AI & Hyperautomation for Agriculture & Food Systems, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Agentic AI & Hyperautomation in Agriculture & Food Systems, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Agentic AI & Hyperautomation in Agriculture & Food Systems, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 530,
@@ -302,13 +302,13 @@
    "title": "Agentic AI & Hyperautomation for Precision Agriculture & Agronomy",
    "url": "/industries/agriculture-food/precision-agriculture/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Food Safety & Food Retail",
    "url": "/industries/agriculture-food/food-safety-retail/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

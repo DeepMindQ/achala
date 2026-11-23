@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what customer and market platforms creak costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "Ask what customer and market platforms creak costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Energy & Utilities, the working pattern is market platform resilience: active-active customer/market platforms with chaos-verified failover. Volatility events absorbed without outages is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Energy & Utilities, the working pattern is market platform resilience: active-active customer/market platforms with chaos-verified failover. Volatility events absorbed without outages is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. customer and market platforms creak is measured with your finance and risk leads in the room, then one working path — market platform resilience — goes live inside the quarter. In Energy & Utilities programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. customer and market platforms creak is measured with your finance and risk leads in the room, then one working path, market platform resilience, goes live inside the quarter. In Energy & Utilities programs the same rule applies: what we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -79,26 +79,26 @@
   },
   {
    "t": "p",
-   "x": "Named services for Cloud, Edge & Platform for Energy & Utilities — each page documents the build as delivered:"
+   "x": "Named services for Cloud, Edge & Platform for Energy & Utilities, each page documents the build as delivered:"
   },
   {
    "t": "bullets",
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },
@@ -186,13 +186,13 @@
    "title": "Cloud, Edge & Platform for Renewable Energy",
    "url": "/industries/energy-utilities/renewables/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Water, Waste & City Utilities",
    "url": "/industries/energy-utilities/water-utilities/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

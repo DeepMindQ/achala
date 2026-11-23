@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse across Public Sector & Government repeats one pattern in Defense & National Security: pressure on Mission data fusion, pressure on Accreditation evidence, a fix improvised at the desk. This page is the engineered version: the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "Data & Lakehouse across Public Sector & Government repeats one pattern in Defense & National Security: pressure on Mission data fusion, pressure on Accreditation evidence, a fix improvised at the desk. This page is the engineered version: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "p",
@@ -17,11 +17,11 @@
   },
   {
    "t": "p",
-   "x": "The fix for multi-level data fusion manual is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for multi-level data fusion manual is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
-   "x": "Where this capability earns its keep"
+   "x": "Where this capability delivers results"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Defense & National Security, the pattern is tiered fusion platform — sensitivity-aware joining with provenance. Analyst latency down sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering — modeled once, certified once, reused everywhere the decision appears."
+   "x": "In Defense & National Security, the pattern is tiered fusion platform, sensitivity-aware joining with provenance. Analyst latency down sits on top as the measured result, tracked from the signed baseline onward. Around it, the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. multi-level data fusion manual gets a number, an owner and a signature; the quarter belongs to a bounded slice — Tiered fusion platform — live on your estate. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. multi-level data fusion manual gets a number, an owner and a signature; the quarter belongs to a bounded slice, Tiered fusion platform, live on your estate. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Defense & National Security: National security accreditation schemes — system authorization; Export controls (ITAR-class) — transfer duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Defense & National Security: National security accreditation schemes, system authorization; Export controls (ITAR-class), transfer duties. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",

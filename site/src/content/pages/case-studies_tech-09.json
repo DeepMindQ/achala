@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Zero-trust multi-tenant architecture — enterprise security reviews passed in days instead of months and the top-100 enterprise deal barrier removed"
+   "x": "Zero-trust multi-tenant architecture, enterprise security reviews passed in days instead of months and the top-100 enterprise deal barrier removed"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a collaboration vendor whose product enterprises loved and whose security questionnaire enterprises feared. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a collaboration vendor whose product enterprises loved and whose security questionnaire enterprises feared. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt the trust boundary as architecture: tenant isolation verified continuously with test tenants probing their own isolation, identity-first access with customer-controlled SSO and SCIM, admin action logging exposed to the customer's own SIEM, and a trust center publishing evidence — penetration test summaries, control mappings, architecture reviews — that sales can link. Reviews shortened because answers became inspectable."
+   "x": "We rebuilt the trust boundary as architecture: tenant isolation verified continuously with test tenants probing their own isolation, identity-first access with customer-controlled SSO and SCIM, admin action logging exposed to the customer's own SIEM, and a trust center publishing evidence, penetration test summaries, control mappings, architecture reviews, that sales can link. Reviews shortened because answers became inspectable."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The publish-what-you-verify pattern transfers to any multi-tenant vendor; the isolation proofs were this product's architecture. Another vendor starts from its questionnaire spreadsheet — the diagnostic counts what it answers honestly."
+   "x": "The publish-what-you-verify pattern transfers to any multi-tenant vendor; the isolation proofs were this product's architecture. Another vendor starts from its questionnaire spreadsheet, the diagnostic counts what it answers honestly."
   },
   {
    "t": "table",

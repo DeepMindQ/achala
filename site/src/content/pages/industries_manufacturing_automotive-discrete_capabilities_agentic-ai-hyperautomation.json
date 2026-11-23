@@ -9,15 +9,15 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation responds where Automotive & Discrete Manufacturing hurts most: traceability by paperwork lands near the top of every operator list. The structured response: we automate the path end to end — mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. For Automotive & Discrete Manufacturing, this is the standard the build is held to."
+   "x": "Agentic AI & Hyperautomation responds where Automotive & Discrete Manufacturing hurts most: traceability by paperwork lands near the top of every operator list. The structured response: we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. For Automotive & Discrete Manufacturing, this is the standard the build is held to."
   },
   {
    "t": "p",
-   "x": "Setting the Agentic AI & Hyperautomation scene in Automotive & Discrete Manufacturing: Automotive and discrete plants chase three numbers — OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
+   "x": "Setting the Agentic AI & Hyperautomation scene in Automotive & Discrete Manufacturing: Automotive and discrete plants chase three numbers, OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect."
   },
   {
    "t": "p",
-   "x": "Traceability by paperwork is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Traceability by paperwork is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Automotive & Discrete Manufacturing, the pattern is sequencing assistant — changeover-aware sequences proposed to planners. Changeover losses recovered sits on top as the measured result, tracked from the signed baseline onward. Around it, we automate the path end to end — mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. For Automotive & Discrete Manufacturing, this is the standard the build is held to."
+   "x": "In Automotive & Discrete Manufacturing, the pattern is sequencing assistant, changeover-aware sequences proposed to planners. Changeover losses recovered sits on top as the measured result, tracked from the signed baseline onward. Around it, we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. For Automotive & Discrete Manufacturing, this is the standard the build is held to."
   },
   {
    "t": "arch",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The traceability by paperwork cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Sequencing assistant), and the gate review decides what scales — all inside one quarter in Automotive & Discrete Manufacturing. In Automotive & Discrete Manufacturing programs the same rule applies: every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The traceability by paperwork cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Sequencing assistant), and the gate review decides what scales, all inside one quarter in Automotive & Discrete Manufacturing. In Automotive & Discrete Manufacturing programs the same rule applies: every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",

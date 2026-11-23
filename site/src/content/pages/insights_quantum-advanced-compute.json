@@ -28,11 +28,11 @@
     ],
     [
      "Solver tournaments beat quantum hype",
-     "The full argument is in the article — with the vendor questions to bring to your next evaluation meeting."
+     "The full argument is in the article, with the vendor questions to bring to your next evaluation meeting."
     ],
     [
      "HPC throughput is a software story before a hardware story",
-     "The full argument is in the article — with the vendor questions to bring to your next evaluation meeting."
+     "The full argument is in the article, with the vendor questions to bring to your next evaluation meeting."
     ]
    ]
   },
@@ -49,11 +49,11 @@
    "items": [
     [
      "Is this real in production?",
-     "The references here run in production today — the pages name the shape of the deployment and what it took."
+     "The references here run in production today, the pages name the shape of the deployment and what it took."
     ],
     [
      "What does it cost to be honest?",
-     "Evaluation, audit trails and guardrails cost real engineering time — the honest answer includes that line item."
+     "Evaluation, audit trails and guardrails cost real engineering time, the honest answer includes that line item."
     ]
    ]
   },
@@ -63,7 +63,7 @@
   },
   {
    "t": "cta",
-   "x": "Read the viewpoints, then argue with them — the briefing exists for the arguments that survive."
+   "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
   }
  ],
  "words": 190,
@@ -100,7 +100,7 @@
    "title": "Solver tournaments beat quantum hype",
    "url": "/insights/insight-17/",
    "tag": "Quantum & Advanced Compute",
-   "desc": "Benchmark classical, quantum-inspired and hybrid solvers on your problem — and publish the verdict either way."
+   "desc": "Benchmark classical, quantum-inspired and hybrid solvers on your problem, and publish the verdict either way."
   },
   {
    "title": "HPC throughput is a software story before a hardware story",

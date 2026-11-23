@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure — pure intelligence arbitrage. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure, pure intelligence arbitrage. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",
@@ -327,7 +327,7 @@
    "title": "Data & Lakehouse for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/data-analytics-lakehouse/",
    "tag": "Capability",
-   "desc": "Trusted data, delivered in near real time — pipelines, lakehouse and governance that holds up under audit."
+   "desc": "Trusted data, delivered in near real time, pipelines, lakehouse and governance that holds up under audit."
   },
   {
    "title": "Cyber & Zero-Trust for Maritime, Ports & Shipping",
@@ -339,19 +339,19 @@
    "title": "Quantum & Advanced Compute for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/quantum-advanced-compute/",
    "tag": "Capability",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Blockchain & Digital Trust for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/blockchain-digital-trust/",
    "tag": "Capability",
-   "desc": "DLT networks, tokenization and verifiable credentials — a shared, verifiable record with controls regulators accept."
+   "desc": "DLT networks, tokenization and verifiable credentials, a shared, verifiable record with controls regulators accept."
   },
   {
    "title": "IoT, Twin & Robotics for Maritime, Ports & Shipping",
    "url": "/industries/logistics-supply-chain/maritime-ports/capabilities/iot-digital-twin-robotics/",
    "tag": "Capability",
-   "desc": "Sensing, simulating, acting — the operations stack that turns physical assets into self-monitoring systems."
+   "desc": "Sensing, simulating, acting, the operations stack that turns physical assets into self-monitoring systems."
   }
  ]
 }

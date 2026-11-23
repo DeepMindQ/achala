@@ -21,7 +21,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern behind Supply Chain Risk & Continuity: decisions that should be systematized are still assembled by hand — one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
+   "x": "The pattern behind Supply Chain Risk & Continuity: decisions that should be systematized are still assembled by hand, one document, one queue, one meeting at a time. This solution replaces the assembly with a governed composition."
   },
   {
    "t": "h2",
@@ -166,15 +166,15 @@
   },
   {
    "t": "p",
-   "x": "Supply Chain Risk & Continuity composes EEMS Platform, Patient Priority Portal — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Logistics & Supply Chain, Manufacturing & Industrial, Retail & Consumer Goods, Agriculture & Food Systems."
+   "x": "Supply Chain Risk & Continuity composes EEMS Platform, Patient Priority Portal, platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Logistics & Supply Chain, Manufacturing & Industrial, Retail & Consumer Goods, Agriculture & Food Systems."
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "Method over magic in Supply Chain Risk & Continuity: the problem gets a CFO-unit statement and a signed baseline; the design gets a written risk envelope; the pilot gets falsifiable criteria; the rollout gets whatever the evidence supports. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Supply Chain Risk & Continuity, that discipline is not optional — it is the engagement model."
+   "x": "Method over magic in Supply Chain Risk & Continuity: the problem gets a CFO-unit statement and a signed baseline; the design gets a written risk envelope; the pilot gets falsifiable criteria; the rollout gets whatever the evidence supports. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Supply Chain Risk & Continuity, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "Every Supply Chain Risk & Continuity value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic — never a promise from a brochure."
+   "x": "Every Supply Chain Risk & Continuity value case is written against named movements; the list below is the shape of that case, priced against your baseline during the diagnostic, never a promise from a brochure."
   },
   {
    "t": "bullets",
@@ -284,19 +284,19 @@
    "title": "Cyber Resilience & Threat Command",
    "url": "/solutions/cyber-resilience-program/",
    "tag": "Risk",
-   "desc": "Assume breach, prove recovery — a resilience program measured in drills."
+   "desc": "Assume breach, prove recovery, a resilience program measured in drills."
   },
   {
    "title": "Regulatory Compliance Automation",
    "url": "/solutions/regulatory-compliance-automation/",
    "tag": "Risk",
-   "desc": "Evidence once, audit anywhere — compliance as a living system."
+   "desc": "Evidence once, audit anywhere, compliance as a living system."
   },
   {
    "title": "Enterprise Risk & Scenario Intelligence",
    "url": "/solutions/enterprise-risk-analytics/",
    "tag": "Risk",
-   "desc": "Risk that changes decisions — limits, reserves and stress on one governed spine."
+   "desc": "Risk that changes decisions, limits, reserves and stress on one delivery standard."
   }
  ]
 }

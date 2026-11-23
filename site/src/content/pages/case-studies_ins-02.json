@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Underwriting evidence assembled in hours — case cycle time down 44%"
+   "x": "Underwriting evidence assembled in hours, case cycle time down 44%"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A leading life insurer (North America) — a Insurance & Risk engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A leading life insurer (North America), a Insurance & Risk engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -213,7 +213,7 @@
    "items": [
     [
      "Agentic AI & Hyperautomation",
-     "the agents ran inside a policy envelope with replay, so autonomy never outran the evidence."
+     "the agents ran inside a defined policy limit with replay, so autonomy never outran the evidence."
     ],
     [
      "Data & Lakehouse",
@@ -231,7 +231,7 @@
   },
   {
    "t": "p",
-   "x": "What transferred directly from the leading life insurer (North America) program: the decision pattern and the evidence design. What never transfers: the estate's quirks — which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
+   "x": "What transferred directly from the leading life insurer (North America) program: the decision pattern and the evidence design. What never transfers: the estate's quirks, which is why every program re-runs the baseline diagnostic on its own data before any build The engagement model here was build-transfer; the same pattern runs fixed-scope where the estate allows it."
   },
   {
    "t": "table",

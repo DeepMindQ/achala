@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse ground truth in Advertising & MarTech: Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era — and whether spend proves incrementality."
+   "x": "The Data & Lakehouse ground truth in Advertising & MarTech: Ad and martech businesses trade on identity, measurement and trust: signal loss (cookie deprecation, ATT), clean-room measurement and consent architecture decide whether targeting survives the privacy era, and whether spend proves incrementality."
   },
   {
    "t": "p",
-   "x": "Point fixes for creative production slow — a script here, a spreadsheet there — have usually been tried in Advertising & MarTech. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for creative production slow, a script here, a spreadsheet there, have usually been tried in Advertising & MarTech. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Advertising & MarTech, the pattern is first-party identity spine — consent-scoped identity graphs with clean-room activation. Match rates sustained sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Advertising & MarTech, the pattern is first-party identity spine, consent-scoped identity graphs with clean-room activation. Match rates sustained sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "arch",
@@ -201,7 +201,7 @@
   },
   {
    "t": "p",
-   "x": "The creative production slow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (First-party identity spine), and the gate review decides what scales — all inside one quarter in Advertising & MarTech. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The creative production slow cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (First-party identity spine), and the gate review decides what scales, all inside one quarter in Advertising & MarTech. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -209,7 +209,7 @@
   },
   {
    "t": "p",
-   "x": "For the Data & Lakehouse side of Advertising & MarTech, the binding duties are concrete — GDPR/ePrivacy/ATT-class (consent and tracking duties); EU AI Act transparency (synthetic content disclosure); Ad-transparency rules (DSA) (targeting disclosure duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Data & Lakehouse side of Advertising & MarTech, the binding duties are concrete, GDPR/ePrivacy/ATT-class (consent and tracking duties); EU AI Act transparency (synthetic content disclosure); Ad-transparency rules (DSA) (targeting disclosure duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

@@ -13,11 +13,11 @@
   },
   {
    "t": "p",
-   "x": "Predictive analytics fails quietly: the model was good in the notebook, decent at launch, and three quarters later nobody knows it drifted. We build risk and forecasting with the decision-domain's discipline — signed baselines, time-based holdouts, champion-challenger on live data — because a prediction that cannot be scored against reality is an opinion."
+   "x": "Predictive analytics fails quietly: the model was good in the notebook, decent at launch, and three quarters later nobody knows it drifted. We build risk and forecasting with the decision-domain's discipline, signed baselines, time-based holdouts, champion-challenger on live data, because a prediction that cannot be scored against reality is an opinion."
   },
   {
    "t": "p",
-   "x": "The practice spans credit and operational risk, demand and capacity forecasting, and early-warning systems — always with the governance layer that says who may act on the model and under what bounds."
+   "x": "The practice spans credit and operational risk, demand and capacity forecasting, and early-warning systems, always with the governance layer that says who may act on the model and under what bounds."
   },
   {
    "t": "p",
@@ -30,7 +30,7 @@
   },
   {
    "t": "p",
-   "x": "Every one of these produces beautiful numbers that collapse in the quarter they were meant to serve — the countermeasures make the model falsifiable and the action real."
+   "x": "Every one of these produces beautiful numbers that collapse in the quarter they were meant to serve, the countermeasures make the model falsifiable and the action real."
   },
   {
    "t": "table",
@@ -292,7 +292,7 @@
   },
   {
    "t": "p",
-   "x": "From feature assembly through leakage screens, backtesting against time holdouts, baseline comparison and the action record — including the drift watch that triggers re-baselining."
+   "x": "From feature assembly through leakage screens, backtesting against time holdouts, baseline comparison and the action record, including the drift watch that triggers re-baselining."
   },
   {
    "t": "diagram",
@@ -316,7 +316,7 @@
   },
   {
    "t": "p",
-   "x": "Forecast accuracy, baseline status, leakage findings and drift score — the four numbers that decide whether the model keeps its mandate or goes back for re-work."
+   "x": "Forecast accuracy, baseline status, leakage findings and drift score, the four numbers that decide whether the model keeps its mandate or goes back for re-work."
   },
   {
    "t": "idash",
@@ -580,11 +580,11 @@
   {
    "t": "h2",
    "x": "Forecast skill against baselines, horizon by horizon",
-   "sub": "Where the model actually earns its keep"
+   "sub": "Where the model actually delivers results"
   },
   {
    "t": "p",
-   "x": "Skill versus naive and seasonal baselines across forecast horizons — the shape that shows where the model genuinely adds value and where the seasonal baseline remains embarrassingly hard to beat."
+   "x": "Skill versus naive and seasonal baselines across forecast horizons, the shape that shows where the model genuinely adds value and where the seasonal baseline remains embarrassingly hard to beat."
   },
   {
    "t": "chart",
@@ -1155,27 +1155,27 @@
     [
      "Features",
      "Point-in-time feature store with leakage tests",
-     "As-of joins by hand — leakage is a when, not an if"
+     "As-of joins by hand, leakage is a when, not an if"
     ],
     [
      "Validation",
      "Rolling-origin and time-based splits",
-     "Random CV on time series — it lies"
+     "Random CV on time series, it lies"
     ],
     [
      "Models",
      "GBMs and econometric baselines first",
-     "Deep models without a baseline case — they rarely win tabular risk"
+     "Deep models without a baseline case, they rarely win tabular risk"
     ],
     [
      "Baselines",
      "Naive and seasonal-naive signed per use case",
-     "Skipping baselines — accuracy means nothing alone"
+     "Skipping baselines, accuracy means nothing alone"
     ],
     [
      "Serving",
      "Batch + online scoring with drift monitors",
-     "One-time deployment without drift watch — it decays silently"
+     "One-time deployment without drift watch, it decays silently"
     ]
    ]
   },
@@ -1329,7 +1329,7 @@
   },
   {
    "t": "p",
-   "x": "Feature lineage, holdout definitions and drift scores are retained per model version — the model-risk inventory a supervisor asks for is generated as the work runs."
+   "x": "Feature lineage, holdout definitions and drift scores are retained per model version, the model-risk inventory a supervisor asks for is generated as the work runs."
   },
   {
    "t": "bullets",
@@ -1364,7 +1364,7 @@
   },
   {
    "t": "p",
-   "x": "Risk analytics loses trust through leakage: features that quietly encode the future make backtests brilliant and production embarrassing. The engineering answer is point-in-time correctness as a property of the feature store — every feature carries its as-of semantics, joins are enforced through the point-in-time layer, and leakage tests (target-aware, run in CI) block any feature set that peeks. Evaluation is walk-forward: rolling-origin splits that respect time, holdouts the model has structurally never seen, and a baseline comparison where a naive seasonal benchmark is a formal challenger — because a model that cannot beat naive does not ship, whatever its AUC.",
+   "x": "Risk analytics loses trust through leakage: features that quietly encode the future make backtests brilliant and production embarrassing. The engineering answer is point-in-time correctness as a property of the feature store, every feature carries its as-of semantics, joins are enforced through the point-in-time layer, and leakage tests (target-aware, run in CI) block any feature set that peeks. Evaluation is walk-forward: rolling-origin splits that respect time, holdouts the model has structurally never seen, and a baseline comparison where a naive seasonal benchmark is a formal challenger, because a model that cannot beat naive does not ship, whatever its AUC.",
    "phase3_deep": true
   },
   {
@@ -1403,15 +1403,15 @@
     ],
     [
      "What happens when the forecast is wrong?",
-     "It is falsifiable by design: every forecast carries confidence bands and the decision it feeds, so a miss is diagnosable — feature drift, regime change, or a broken assumption — and the miss log feeds the retrain calendar."
+     "It is falsifiable by design: every forecast carries confidence bands and the decision it feeds, so a miss is diagnosable, feature drift, regime change, or a broken assumption, and the miss log feeds the retrain calendar."
     ],
     [
      "Can you work with our existing planning systems?",
-     "Yes — forecasts land in the planning systems through typed integration, and the action loop records which plan took which number, so accountability survives the handoff from model to decision."
+     "Yes, forecasts land in the planning systems through typed integration, and the action loop records which plan took which number, so accountability survives the handoff from model to decision."
     ],
     [
      "How is model risk governed?",
-     "The overlay carries inventory, validation evidence, drift monitoring and the retrain cadence — mapped to model-risk expectations so the examination pack is a byproduct of operation, not an annual scramble."
+     "The overlay carries inventory, validation evidence, drift monitoring and the retrain cadence, mapped to model-risk expectations so the examination pack is a byproduct of operation, not an annual scramble."
     ],
     [
      "What data do you need to start?",
@@ -1506,19 +1506,19 @@
    "title": "Master Data, Governance & Cataloging",
    "url": "/services/data-analytics-lakehouse/master-data-governance/",
    "tag": "Same domain",
-   "desc": "golden records with owners, survivorship rules and a catalog people actually trust — governance as engineering, not committee minutes."
+   "desc": "golden records with owners, survivorship rules and a catalog people actually trust, governance as engineering, not committee minutes."
   },
   {
    "title": "Real-Time Streaming & Event-Driven Decisioning",
    "url": "/services/data-analytics-lakehouse/realtime-streaming-decisioning/",
    "tag": "Same domain",
-   "desc": "sub-second decision paths on streams — exactly-once state, replay semantics and latency budgets that are measured, not asserted."
+   "desc": "sub-second decision paths on streams, exactly-once state, replay semantics and latency budgets that are measured, not asserted."
   },
   {
    "title": "Data Engineering & Pipeline Modernization",
    "url": "/services/data-analytics-lakehouse/data-engineering-modernization/",
    "tag": "Same domain",
-   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs — with a strangler pattern that retires the old estate without a big-bang cutover."
+   "desc": "legacy pipelines rebuilt as typed, contract-gated, observable jobs, with a strangler pattern that retires the old estate without a big-bang cutover."
   },
   {
    "title": "LLM Fine-Tuning & Model Operations",
@@ -1530,19 +1530,19 @@
    "title": "Intelligent Document Processing",
    "url": "/services/agentic-ai-hyperautomation/intelligent-document-processing/",
    "tag": "Pairs with",
-   "desc": "extraction and adjudication inside the process — documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
+   "desc": "extraction and adjudication inside the process, documents become decisions with confidence gates, evidence and a human queue that shrinks on measurement."
   },
   {
    "title": "SRE & Reliability Engineering",
    "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
    "tag": "Pairs with",
-   "desc": "SLOs with teeth — error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
+   "desc": "SLOs with teeth, error budgets that gate releases, chaos that proves recovery, and incident craft that turns 3am into a rehearsed system."
   },
   {
    "title": "A national EdTech platform (2M learners)",
    "url": "/case-studies/edu-02/",
    "tag": "Evidence",
-   "desc": "Outcome evidence published — renewals secured with learning-gain pipelines."
+   "desc": "Outcome evidence published, renewals secured with learning-gain pipelines."
   }
  ],
  "evidence": [

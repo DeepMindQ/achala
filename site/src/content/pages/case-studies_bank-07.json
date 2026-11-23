@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Research copilot for wealth advisors — client meeting preparation time down 60% with compliance passing 93% of outputs on first review"
+   "x": "Research copilot for wealth advisors, client meeting preparation time down 60% with compliance passing 93% of outputs on first review"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a private banking group in the Gulf whose advisors spent their mornings assembling briefs from four research silos and their evenings defending them to compliance. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a private banking group in the Gulf whose advisors spent their mornings assembling briefs from four research silos and their evenings defending them to compliance. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The baseline week measured the real cost of advice: 7.2 hours of preparation per client meeting, and suitability documentation finished after the meeting — when it could no longer shape the advice."
+   "x": "The baseline week measured the real cost of advice: 7.2 hours of preparation per client meeting, and suitability documentation finished after the meeting, when it could no longer shape the advice."
   },
   {
    "t": "p",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We built the advisory copilot on the retrieval layer: client mandate, restrictions and holdings resolved into the brief automatically, every research claim cited to its source, and the suitability record drafted alongside the brief — before the meeting. Advisors edit; the system assembles; compliance reviews evidence, not prose."
+   "x": "We built the advisory copilot on retrieval: client mandate, restrictions and holdings resolved into the brief automatically, every research claim cited to its source, and the suitability record drafted alongside the brief, before the meeting. Advisors edit; the system assembles; compliance reviews evidence, not prose."
   },
   {
    "t": "arch",
@@ -182,7 +182,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that travels is brief-assembly with the suitability record drafted in parallel — it has since run in two advisory businesses outside wealth. The corpus curation workflow does not; it is a mirror of each firm's research governance, and the diagnostic maps it before a single document is indexed."
+   "x": "The pattern that travels is brief-assembly with the suitability record drafted in parallel, it has since run in two advisory businesses outside wealth. The corpus curation workflow does not; it is a mirror of each firm's research governance, and the diagnostic maps it before a single document is indexed."
   },
   {
    "t": "table",

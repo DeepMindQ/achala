@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Healthcare & Life Sciences has one job: move a named number — validated-environment rigidity included — and prove it moved. The engineering that does it: we engineer the estate the workload runs on — landing zones, edge capacity, SRE discipline — so scaling never becomes the incident."
+   "x": "Cloud, Edge & Platform in Healthcare & Life Sciences has one job: move a named number, validated-environment rigidity included, and prove it moved. The engineering that does it: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
   },
   {
    "t": "p",
@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "In Healthcare & Life Sciences, the working pattern is validated cloud analytics: GxP-aligned validation pipelines on cloud with documented equivalence. Analytics modernization without losing validation status is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Healthcare & Life Sciences, the working pattern is validated cloud analytics: GxP-aligned validation pipelines on cloud with documented equivalence. Analytics modernization without losing validation status is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery opens with measurement: the baseline for validated-environment rigidity is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter — validated cloud analytics, bounded to one path, running on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "Delivery opens with measurement: the baseline for validated-environment rigidity is produced with your team and signed by whoever owns the number today. The working slice follows inside the quarter, validated cloud analytics, bounded to one path, running on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -187,7 +187,7 @@
   },
   {
    "t": "p",
-   "x": "The Cloud, Edge & Platform control frame for Healthcare & Life Sciences: HIPAA / HITECH (PHI safeguards, BAAs, breach notification and audit trails); GDPR / EU health-data regimes (special-category data, DPIAs and cross-border transfer controls); FDA SaMD / CDS guidance (clinical decision support under enforcement discretion boundaries and validation duties). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Cloud, Edge & Platform control frame for Healthcare & Life Sciences: HIPAA / HITECH (PHI safeguards, BAAs, breach notification and audit trails); GDPR / EU health-data regimes (special-category data, DPIAs and cross-border transfer controls); FDA SaMD / CDS guidance (clinical decision support under enforcement discretion boundaries and validation duties). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",
@@ -202,19 +202,19 @@
    "items": [
     [
      "Hybrid & Multicloud Architecture",
-     "The estate as designed system — landing zones, network fabric and workload placement by economics."
+     "The estate as designed system, landing zones, network fabric and workload placement by economics."
     ],
     [
      "Cloud-Native & Legacy Modernization",
-     "Retire the legacy tax — strangler-pattern modernization with measurable unit economics."
+     "Retire the legacy tax, strangler-pattern modernization with measurable unit economics."
     ],
     [
      "Edge Computing & Distributed Infrastructure",
-     "Compute where the physics is — edge fabric for plants, stores, vehicles and grids."
+     "Compute where the physics is, edge fabric for plants, stores, vehicles and grids."
     ],
     [
      "SRE & Reliability Engineering",
-     "Reliability as product — SLOs, error budgets and incident discipline that engineers actually follow."
+     "Reliability as product, SLOs, error budgets and incident discipline that engineers actually follow."
     ]
    ]
   },
@@ -228,7 +228,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Cloud, Edge & Platform in Healthcare & Life Sciences to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Cloud, Edge & Platform in Healthcare & Life Sciences to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 540,
@@ -302,13 +302,13 @@
    "title": "Cloud, Edge & Platform for Medical Devices & MedTech",
    "url": "/industries/healthcare-life-sciences/medtech-devices/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   },
   {
    "title": "Cloud, Edge & Platform for Care Management & Population Health",
    "url": "/industries/healthcare-life-sciences/payers-care-management/capabilities/cloud-edge-platform-engineering/",
    "tag": "Sub-industry depth",
-   "desc": "Hybrid estates, edge estate and internal platforms — engineered for reliability and unit cost."
+   "desc": "Hybrid estates, edge estate and internal platforms, engineered for reliability and unit cost."
   }
  ]
 }

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Demand sensing on a governed signals spine — forecast error down 23% and finished-goods inventory down 18% at stable service levels"
+   "x": "Demand sensing on a governed signals spine, forecast error down 23% and finished-goods inventory down 18% at stable service levels"
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Identity withheld — a consumer goods manufacturer whose S&OP ran on a consensus meeting that averaged three opinions into one number nobody owned. Figures are the client's own, shared with permission."
+   "x": "Identity withheld, a consumer goods manufacturer whose S&OP ran on a consensus meeting that averaged three opinions into one number nobody owned. Figures are the client's own, shared with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We rebuilt sensing on a signals spine: POS, shipment, promo-calendar and external signals landed in one governed model with lineage per input, statistical sensing produced the base forecast with error measured weekly, and the consensus meeting became a short exception review — humans override with logged reasons, and the overrides themselves are scored. Supply plans to a number with a measured error bar."
+   "x": "We rebuilt sensing on a signals spine: POS, shipment, promo-calendar and external signals landed in one governed model with lineage per input, statistical sensing produced the base forecast with error measured weekly, and the consensus meeting became a short exception review, humans override with logged reasons, and the overrides themselves are scored. Supply plans to a number with a measured error bar."
   },
   {
    "t": "arch",
@@ -183,7 +183,7 @@
   },
   {
    "t": "p",
-   "x": "The spine-plus-scored-overrides pattern transfers to any consensus forecasting shop; the promo data contracts were this manufacturer's trade reality. Another replication starts from its own override culture — the diagnostic measures it before designing around it."
+   "x": "The spine-plus-scored-overrides pattern transfers to any consensus forecasting shop; the promo data contracts were this manufacturer's trade reality. Another replication starts from its own override culture, the diagnostic measures it before designing around it."
   },
   {
    "t": "table",

@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Streaming & Digital Platforms lives inside Personalization/discovery, Subscriber lifecycle and Delivery cost management — paths that all carry decisions now. The work: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Data & Lakehouse in Streaming & Digital Platforms lives inside Personalization/discovery, Subscriber lifecycle and Delivery cost management, paths that all carry decisions now. The work: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "p",
-   "x": "Through the Data & Lakehouse lens, the operating reality: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines — and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
+   "x": "Through the Data & Lakehouse lens, the operating reality: Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines, and both run better on governed telemetry, evaluation-driven ML and cost telemetry."
   },
   {
    "t": "p",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
-   "x": "In Streaming & Digital Platforms, the pattern is metric governance layer — certified engagement definitions with lineage. Product decisions stable sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Streaming & Digital Platforms, the pattern is metric governance layer, certified engagement definitions with lineage. Product decisions stable sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. A/B experimentation slow is measured with your finance and risk leads in the room, then one working path — Metric governance layer — goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Streaming & Digital Platforms, that discipline is not optional — it is the engagement model."
+   "x": "Nothing scales before the baseline is signed. A/B experimentation slow is measured with your finance and risk leads in the room, then one working path, Metric governance layer, goes live inside the quarter. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward. For Streaming & Digital Platforms, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "For the Data & Lakehouse side of Streaming & Digital Platforms, the binding duties are concrete — Privacy/consent (profiling and cross-border duties); Accessibility (UI and captions duties); Content local quotas (catalog duties where applicable). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Data & Lakehouse side of Streaming & Digital Platforms, the binding duties are concrete, Privacy/consent (profiling and cross-border duties); Accessibility (UI and captions duties); Content local quotas (catalog duties where applicable). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -108,7 +108,7 @@
   },
   {
    "t": "cta",
-   "x": "Bring Data & Lakehouse for Streaming & Digital Platforms to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+   "x": "Bring Data & Lakehouse for Streaming & Digital Platforms to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
  "words": 490,

@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what retail media measurement contested costs Retail & Consumer Goods firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay — routing, scheduling, allocation — we deploy them; where they do not, we say so in writing."
+   "x": "Ask what retail media measurement contested costs Retail & Consumer Goods firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Retail & Consumer Goods, the working pattern is assortment optimization: solver tournaments on assortment/bin-packing formulations. Assortment refresh cadence up is the measured outcome the gate checks. Everything upstream of it — data, identity, access — is built to keep that pattern honest."
+   "x": "In Retail & Consumer Goods, the working pattern is assortment optimization: solver tournaments on assortment/bin-packing formulations. Assortment refresh cadence up is the measured outcome the gate checks. Everything upstream of it, data, identity, access, is built to keep that pattern honest."
   },
   {
    "t": "bullets",
@@ -75,7 +75,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. retail media measurement contested gets a number, an owner and a signature; the quarter belongs to a bounded slice — assortment optimization — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For Retail & Consumer Goods, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. retail media measurement contested gets a number, an owner and a signature; the quarter belongs to a bounded slice, assortment optimization, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For Retail & Consumer Goods, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -109,7 +109,7 @@
   },
   {
    "t": "h2",
-   "x": "The technology choices, justified"
+   "x": "How it connects"
   },
   {
    "t": "p",
@@ -120,19 +120,19 @@
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -146,7 +146,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Quantum & Advanced Compute in Retail & Consumer Goods in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Quantum & Advanced Compute in Retail & Consumer Goods in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 563,

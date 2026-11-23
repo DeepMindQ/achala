@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in AgriFinance & Commodity Markets lives inside Credit scoring, Parametric insurance and Commodity trading — paths that all carry decisions now. The work: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "Blockchain & Digital Trust in AgriFinance & Commodity Markets lives inside Credit scoring, Parametric insurance and Commodity trading, paths that all carry decisions now. The work: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In AgriFinance & Commodity Markets, the pattern is provenance collateral — warehouse-receipt/provenance anchoring. Financing unlocked sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "In AgriFinance & Commodity Markets, the pattern is provenance collateral, warehouse-receipt/provenance anchoring. Financing unlocked sits on top as the measured result, tracked from the signed baseline onward. Around it, the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. practice data absent gets a number, an owner and a signature; the quarter belongs to a bounded slice — Provenance collateral — live on your estate. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The first two weeks belong to the baseline. practice data absent gets a number, an owner and a signature; the quarter belongs to a bounded slice, Provenance collateral, live on your estate. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Blockchain & Digital Trust frame in AgriFinance & Commodity Markets: Financial regulation (lending) — scoring governance; Insurance regulation — parametric duties. By the time the regulator asks, the evidence already exists — that is the point of designing controls first."
+   "x": "Two regimes anchor the Blockchain & Digital Trust frame in AgriFinance & Commodity Markets: Financial regulation (lending), scoring governance; Insurance regulation, parametric duties. By the time the regulator asks, the evidence already exists, that is the point of designing controls first."
   },
   {
    "t": "table",
@@ -134,7 +134,7 @@
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on Blockchain & Digital Trust for AgriFinance & Commodity Markets, your data, and a written feasibility read you can circulate."
+   "x": "one working session on Blockchain & Digital Trust for AgriFinance & Commodity Markets, your data, and a written feasibility read you can circulate."
   }
  ],
  "words": 476,

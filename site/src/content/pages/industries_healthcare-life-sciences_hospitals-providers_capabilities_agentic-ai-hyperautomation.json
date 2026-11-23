@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation for Hospitals & Provider Networks starts at the prior-auth and revenue-cycle friction queue — pricing it honestly, then orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "Agentic AI & Hyperautomation for Hospitals & Provider Networks starts at the prior-auth and revenue-cycle friction queue, pricing it honestly, then orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "p",
-   "x": "Through the Agentic AI & Hyperautomation lens, the operating reality: Providers run 24/7 operations on clinical goodwill: clinician burden, throughput, revenue-cycle leakage and patient experience all compete for the same attention. Systems that industrialize documentation, coding and workflow intelligence give clinicians their time back — the only resource that matters."
+   "x": "Through the Agentic AI & Hyperautomation lens, the operating reality: Providers run 24/7 operations on clinical goodwill: clinician burden, throughput, revenue-cycle leakage and patient experience all compete for the same attention. Systems that industrialize documentation, coding and workflow intelligence give clinicians their time back, the only resource that matters."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it — Hospitals & Provider Networks edition:"
+   "x": "As operators describe it, Hospitals & Provider Networks edition:"
   },
   {
    "t": "bullets",
@@ -50,11 +50,11 @@
   },
   {
    "t": "h2",
-   "x": "The working system, described"
+   "x": "How the platform works"
   },
   {
    "t": "p",
-   "x": "In Hospitals & Provider Networks, the pattern is prior-auth agent — criteria mapped to chart evidence; submissions assembled. Turnaround down 60% sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline — dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "In Hospitals & Provider Networks, the pattern is prior-auth agent, criteria mapped to chart evidence; submissions assembled. Turnaround down 60% sits on top as the measured result, tracked from the signed baseline onward. Around it, orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "Nothing scales before the baseline is signed. prior-auth and revenue-cycle friction is measured with your finance and risk leads in the room, then one working path — Prior-auth agent — goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "Nothing scales before the baseline is signed. prior-auth and revenue-cycle friction is measured with your finance and risk leads in the room, then one working path, Prior-auth agent, goes live inside the quarter. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Agentic AI & Hyperautomation side of Hospitals & Provider Networks, the binding duties are concrete — HIPAA (PHI safeguards, BAAs, breach duties); CMS billing rules (coding and documentation integrity); EU AI Act (clinical AI) (high-risk duties where deployed). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Agentic AI & Hyperautomation side of Hospitals & Provider Networks, the binding duties are concrete, HIPAA (PHI safeguards, BAAs, breach duties); CMS billing rules (coding and documentation integrity); EU AI Act (clinical AI) (high-risk duties where deployed). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

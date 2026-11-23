@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in FinTech & Digital Natives lives inside Onboarding/KYC, Fraud decisioning and Credit underwriting — paths that all carry decisions now. The work: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Cloud, Edge & Platform in FinTech & Digital Natives lives inside Onboarding/KYC, Fraud decisioning and Credit underwriting, paths that all carry decisions now. The work: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it — FinTech & Digital Natives edition:"
+   "x": "As operators describe it, FinTech & Digital Natives edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In FinTech & Digital Natives, the pattern is ops automation spine — back-office workflows orchestrated. Cost/account down sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "In FinTech & Digital Natives, the pattern is ops automation spine, back-office workflows orchestrated. Cost/account down sits on top as the measured result, tracked from the signed baseline onward. Around it, the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. credit signals thin gets a number, an owner and a signature; the quarter belongs to a bounded slice — Ops automation spine — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives. For FinTech & Digital Natives, that discipline is not optional — it is the engagement model."
+   "x": "The first two weeks belong to the baseline. credit signals thin gets a number, an owner and a signature; the quarter belongs to a bounded slice, Ops automation spine, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives. For FinTech & Digital Natives, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Cloud, Edge & Platform frame in FinTech & Digital Natives: AML/CTF — monitoring duties; PSD2/PSD3 — payment rules. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
+   "x": "Two regimes anchor the Cloud, Edge & Platform frame in FinTech & Digital Natives: AML/CTF, monitoring duties; PSD2/PSD3, payment rules. The control posture is part of the architecture, which is what makes the audit routine instead of a crisis."
   },
   {
    "t": "table",
@@ -237,7 +237,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cloud, Edge & Platform for FinTech & Digital Natives in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cloud, Edge & Platform for FinTech & Digital Natives in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 444,

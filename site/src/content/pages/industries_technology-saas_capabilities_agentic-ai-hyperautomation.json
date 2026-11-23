@@ -42,7 +42,7 @@
   },
   {
    "t": "p",
-   "x": "The pattern that repeats in Technology & SaaS: customer-success orchestration — usage signals trigger health plays and renewal actions. Nrr protected at scale is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
+   "x": "The pattern that repeats in Technology & SaaS: customer-success orchestration, usage signals trigger health plays and renewal actions. Nrr protected at scale is the measured outcome the gate checks. The engineering follows the pressure, not the fashion."
   },
   {
    "t": "arch",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The support and success scale linearly cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (customer-success orchestration), and the gate review decides what scales — all inside one quarter in Technology & SaaS. The discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later. For Technology & SaaS, that discipline is not optional — it is the engagement model."
+   "x": "The support and success scale linearly cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (customer-success orchestration), and the gate review decides what scales, all inside one quarter in Technology & SaaS. The discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later. For Technology & SaaS, that discipline is not optional, it is the engagement model."
   },
   {
    "t": "h2",
@@ -224,19 +224,19 @@
    "items": [
     [
      "Agentic Process Automation",
-     "Agents that execute the work — tool-using, policy-bounded, and replayable for audit."
+     "Agents that execute the work, tool-using, policy-bounded, and replayable for audit."
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "Hundreds of agents as one governed fleet — roles, queues, budgets and audit for the AI workforce."
+     "Hundreds of agents as one governed fleet, roles, queues, budgets and audit for the AI workforce."
     ],
     [
      "Decision Intelligence Systems",
-     "Enterprise decisions in milliseconds — decision hubs with policy, evidence and replay built in."
+     "Enterprise decisions in milliseconds, decision hubs with policy, evidence and replay built in."
     ],
     [
      "Intelligent Document Processing",
-     "Contracts, claims and invoices read end-to-end — extraction, validation and downstream action."
+     "Contracts, claims and invoices read end-to-end, extraction, validation and downstream action."
     ]
    ]
   },
@@ -324,19 +324,19 @@
    "title": "Agentic AI & Hyperautomation for SaaS & Platform Companies",
    "url": "/industries/technology-saas/saas-platforms/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for FinTech & Digital Natives",
    "url": "/industries/technology-saas/fintech-digital-natives/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   },
   {
    "title": "Agentic AI & Hyperautomation for Gaming & Interactive Media",
    "url": "/industries/technology-saas/gaming-interactive/capabilities/agentic-ai-hyperautomation/",
    "tag": "Sub-industry depth",
-   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own — automation with human checkpoints, budgets and audit."
+   "desc": "Digital workers, decision hubs and workflows that recover from failure on their own, automation with human checkpoints, budgets and audit."
   }
  ]
 }

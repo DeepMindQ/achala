@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI answers Agriculture & Food Systems pressure where it lands in Agri-Food Processing: intake grading manual, week after week. The architectural answer: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "Applied AI & GenAI answers Agriculture & Food Systems pressure where it lands in Agri-Food Processing: intake grading manual, week after week. The architectural answer: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for intake grading manual — a script here, a spreadsheet there — have usually been tried in Agri-Food Processing. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for intake grading manual, a script here, a spreadsheet there, have usually been tried in Agri-Food Processing. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks — Agri-Food Processing edition:"
+   "x": "The places value leaks, Agri-Food Processing edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Agri-Food Processing, the pattern is vision grading — defect/quality grading at line speed. Throughput up sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality — shipped into the tools people already use."
+   "x": "In Agri-Food Processing, the pattern is vision grading, defect/quality grading at line speed. Throughput up sits on top as the measured result, tracked from the signed baseline onward. Around it, the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The intake grading manual cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Vision grading), and the gate review decides what scales — all inside one quarter in Agri-Food Processing. In Agri-Food Processing programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The intake grading manual cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Vision grading), and the gate review decides what scales, all inside one quarter in Agri-Food Processing. In Agri-Food Processing programs the same rule applies: nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",

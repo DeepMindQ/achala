@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse against fab IP targeted in Electronics & Semiconductors: the same tension every team carries — speed demanded, scrutiny rising. We break the trade-off: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Data & Lakehouse against fab IP targeted in Electronics & Semiconductors: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "p",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The fix for fab IP targeted is rarely another screen. It is a governed path between the systems that already exist — instrumented, bounded, and owned by someone with the authority to change the process."
+   "x": "The fix for fab IP targeted is rarely another screen. It is a governed path between the systems that already exist, instrumented, bounded, and owned by someone with the authority to change the process."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Electronics & Semiconductors, the pattern is yield analytics platform — process/metrology/defect unified with lineage. Rca in hours sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Electronics & Semiconductors, the pattern is yield analytics platform, process/metrology/defect unified with lineage. Rca in hours sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "table",
@@ -84,11 +84,11 @@
   },
   {
    "t": "h2",
-   "x": "The delivery rhythm"
+   "x": "Deployment options"
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. fab IP targeted gets a number, an owner and a signature; the quarter belongs to a bounded slice — Yield analytics platform — live on your estate. In Electronics & Semiconductors programs the same rule applies: the discipline is the differentiator — measured baselines, bounded scopes, and decisions you can replay a year later."
+   "x": "The first two weeks belong to the baseline. fab IP targeted gets a number, an owner and a signature; the quarter belongs to a bounded slice, Yield analytics platform, live on your estate. In Electronics & Semiconductors programs the same rule applies: the discipline is the differentiator, measured baselines, bounded scopes, and decisions you can replay a year later."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "The Data & Lakehouse control frame for Electronics & Semiconductors: Export controls (technology transfer duties); IEC 62443 / TSMC-style fab security (OT protection); Conflict minerals reporting (chain evidence). Controls are designed against these duties up front — identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
+   "x": "The Data & Lakehouse control frame for Electronics & Semiconductors: Export controls (technology transfer duties); IEC 62443 / TSMC-style fab security (OT protection); Conflict minerals reporting (chain evidence). Controls are designed against these duties up front, identity, access, retention and explainability are architectural decisions here, not audit-season retrofits."
   },
   {
    "t": "h2",

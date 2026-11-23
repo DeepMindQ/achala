@@ -9,11 +9,11 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Care Management & Population Health targets a specific gap: systems exist, but no governed path connects them — which is why member risk signals scattered still costs what it costs. The build closes it: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. That is the engineering behind Care Management & Population Health."
+   "x": "Cyber & Zero-Trust in Care Management & Population Health targets a specific gap: systems exist, but no governed path connects them, which is why member risk signals scattered still costs what it costs. The build closes it: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. That is the engineering behind Care Management & Population Health."
   },
   {
    "t": "p",
-   "x": "The Cyber & Zero-Trust ground truth in Care Management & Population Health: Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving quality outcomes. It is a data-discipline business — and the data discipline is usually the missing part."
+   "x": "The Cyber & Zero-Trust ground truth in Care Management & Population Health: Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving quality outcomes. It is a data-discipline business, and the data discipline is usually the missing part."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Care Management & Population Health, the pattern is care-data protection — vendor access governed with monitoring. Coordination secure sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. That is the engineering behind Care Management & Population Health."
+   "x": "In Care Management & Population Health, the pattern is care-data protection, vendor access governed with monitoring. Coordination secure sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. That is the engineering behind Care Management & Population Health."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. member risk signals scattered gets a number, an owner and a signature; the quarter belongs to a bounded slice — Care-data protection — live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
+   "x": "The first two weeks belong to the baseline. member risk signals scattered gets a number, an owner and a signature; the quarter belongs to a bounded slice, Care-data protection, live on your estate. What we promise is modest and checkable: a signed baseline, a bounded slice in production, and evidence your auditors can read without a guide."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cyber & Zero-Trust side of Care Management & Population Health, the binding duties are concrete — HIPAA (care data safeguards); Quality program rules (measure reporting duties); State Medicaid rules (program compliance where applicable). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cyber & Zero-Trust side of Care Management & Population Health, the binding duties are concrete, HIPAA (care data safeguards); Quality program rules (measure reporting duties); State Medicaid rules (program compliance where applicable). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",
@@ -211,7 +211,7 @@
   },
   {
    "t": "cta",
-   "x": "Talk to the team that runs Cyber & Zero-Trust for Care Management & Population Health in production — the briefing is technical by design, and the first one costs nothing but the hour."
+   "x": "Talk to the team that runs Cyber & Zero-Trust for Care Management & Population Health in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
  "words": 494,

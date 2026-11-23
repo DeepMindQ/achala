@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Systems targeted is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce — not with a platform license."
+   "x": "Systems targeted is the concrete face of a general problem: the work is shaped for a world of manual checks and batch updates, while volume and scrutiny both grew. We start with the queue, the wait and the number they produce, not with a platform license."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates — Public Safety & Justice edition:"
+   "x": "Where the friction concentrates, Public Safety & Justice edition:"
   },
   {
    "t": "bullets",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In Public Safety & Justice, the pattern is coordination platform — dispatch/records unified with access tiers. Joint ops faster sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "In Public Safety & Justice, the pattern is coordination platform, dispatch/records unified with access tiers. Joint ops faster sits on top as the measured result, tracked from the signed baseline onward. Around it, underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. systems targeted gets a number, an owner and a signature; the quarter belongs to a bounded slice — Coordination platform — live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The first two weeks belong to the baseline. systems targeted gets a number, an owner and a signature; the quarter belongs to a bounded slice, Coordination platform, live on your estate. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",
@@ -199,7 +199,7 @@
   },
   {
    "t": "p",
-   "x": "Two regimes anchor the Data & Lakehouse frame in Public Safety & Justice: Criminal-procedure rules — evidence and disclosure duties; GDPR/privacy — biometric and location data limits. Controls are designed in from the first sprint — not bolted on when the audit letter arrives."
+   "x": "Two regimes anchor the Data & Lakehouse frame in Public Safety & Justice: Criminal-procedure rules, evidence and disclosure duties; GDPR/privacy, biometric and location data limits. Controls are designed in from the first sprint, not bolted on when the audit letter arrives."
   },
   {
    "t": "table",

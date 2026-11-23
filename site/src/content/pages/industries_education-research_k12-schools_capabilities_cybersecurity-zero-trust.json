@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Point fixes for safeguarding workflows manual — a script here, a spreadsheet there — have usually been tried in K-12 & School Systems. This page is the structured version: one capability, one owner, one evidence trail."
+   "x": "Point fixes for safeguarding workflows manual, a script here, a spreadsheet there, have usually been tried in K-12 & School Systems. This page is the structured version: one capability, one owner, one evidence trail."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In K-12 & School Systems, the pattern is student data protection — vendor governance + monitoring. Minors' data safe sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
+   "x": "In K-12 & School Systems, the pattern is student data protection, vendor governance + monitoring. Minors' data safe sits on top as the measured result, tracked from the signed baseline onward. Around it, the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
   },
   {
    "t": "table",
@@ -88,7 +88,7 @@
   },
   {
    "t": "p",
-   "x": "The first two weeks belong to the baseline. safeguarding workflows manual gets a number, an owner and a signature; the quarter belongs to a bounded slice — Student data protection — live on your estate. Every artifact ships with its evidence — who signed the baseline, what the gate measured, where the number lives."
+   "x": "The first two weeks belong to the baseline. safeguarding workflows manual gets a number, an owner and a signature; the quarter belongs to a bounded slice, Student data protection, live on your estate. Every artifact ships with its evidence, who signed the baseline, what the gate measured, where the number lives."
   },
   {
    "t": "h2",
@@ -96,7 +96,7 @@
   },
   {
    "t": "p",
-   "x": "For the Cyber & Zero-Trust side of K-12 & School Systems, the binding duties are concrete — FERPA/GDPR-K (minors' data duties); Safeguarding law (reporting duties); Accessibility (ADA/WCAG) (materials duties). We design against them from the first sprint so the audit reads the system, not a binder."
+   "x": "For the Cyber & Zero-Trust side of K-12 & School Systems, the binding duties are concrete, FERPA/GDPR-K (minors' data duties); Safeguarding law (reporting duties); Accessibility (ADA/WCAG) (materials duties). We design against them from the first sprint so the audit reads the system, not a binder."
   },
   {
    "t": "h2",

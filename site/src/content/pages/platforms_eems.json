@@ -1,15 +1,15 @@
 {
- "id": "PLT-nexus-ov",
+ "id": "PLT-eems-ov",
  "title": "EEMS Platform",
  "url": "/platforms/eems/",
  "template": "platform_overview",
  "breadcrumb": "Platforms > EEMS Platform > Overview",
  "seo_title": "EEMS Platform | Achala IT Solutions",
- "meta_description": "Enterprise decisions in milliseconds — with the evidence to defend every one.",
+ "meta_description": "EEMS Platform runs AI-powered emergency response — dispatch, fleet readiness and field coordination for 50,000+ daily cases across 9 states.",
  "blocks": [
   {
    "t": "hero",
-   "x": "AI-powered emergency response platform — dispatch, fleet readiness and field coordination for 50,000+ daily cases across 9 states."
+   "x": "AI-powered emergency response, running at state scale. EEMS Platform coordinates dispatch, fleet readiness and field coordination for 50,000+ daily cases across 9 states."
   },
   {
    "t": "h2",
@@ -17,187 +17,80 @@
   },
   {
    "t": "p",
-   "x": "EEMS Platform is the decision infrastructure for high-volume enterprise choices: credit, claims, pricing, triage, fraud, routing. It combines predictive models, business rules and agentic reasoning behind one governed decision API, with champion-challenger testing and full decision replay — so any decision can be reconstructed months later for an auditor, a customer or a court. Nexus enforces separability by design: models score, policy decides, humans supervise. Risk teams change policy without retraining; data scientists ship models without touching code paths; compliance inspects what actually ran on any given day. It is the platform underneath our decision-intelligence services and the control point for every automated decision we deploy."
+   "x": "EEMS Platform is the system an emergency response network runs on. It takes calls in, triages them, dispatches the right vehicle, tracks fleet readiness and coordinates the teams in the field. Dispatchers see everything in one screen; managers see performance in one report."
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "What it does"
   },
   {
    "t": "p",
-   "x": "EEMS Platform: named modules with a gate at each boundary,"
+   "x": "The platform's working capabilities:"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Decision API",
-     "one governed entry point with SLA guarantees"
+     "AI-assisted dispatch",
+     "Calls triaged and routed to the right vehicle in seconds"
     ],
     [
-     "Policy-as-artifact",
-     "versioned decision policies with effective-dating and simulation"
+     "Fleet readiness",
+     "Vehicle and crew status tracked live, with maintenance flagged before it bites"
     ],
     [
-     "Champion-challenger",
-     "shadow scoring and incremental traffic shifting"
+     "Field coordination",
+     "Teams on the ground share one operational picture"
     ],
     [
-     "Decision replay",
-     "full input/model/policy snapshots per decision"
-    ],
-    [
-     "Feature integration",
-     "online feature store with point-in-time correctness"
-    ],
-    [
-     "Decision analytics",
-     "outcome, fairness and drift monitoring"
+     "Performance reporting",
+     "Response times and coverage measured, per zone and per shift"
     ]
    ]
   },
   {
-   "t": "arch",
-   "title": "EEMS Platform — module topology",
-   "lanes": [
-    "Ingest",
-    "Core",
-    "Delivery",
-    "Trust"
-   ],
-   "nodes": [
-    {
-     "id": "in1",
-     "lane": 0,
-     "label": "Adapters & contracts",
-     "hot": false
-    },
-    {
-     "id": "in2",
-     "lane": 0,
-     "label": "Databricks Feature Store",
-     "hot": false
-    },
-    {
-     "id": "c1",
-     "lane": 1,
-     "label": "Decision API",
-     "hot": true
-    },
-    {
-     "id": "c2",
-     "lane": 1,
-     "label": "Policy-as-artifact",
-     "hot": false
-    },
-    {
-     "id": "d1",
-     "lane": 2,
-     "label": "Champion-challenger",
-     "hot": false
-    },
-    {
-     "id": "d2",
-     "lane": 2,
-     "label": "Decision replay",
-     "hot": false
-    },
-    {
-     "id": "t1",
-     "lane": 3,
-     "label": "Evidence packs",
-     "hot": false
-    },
-    {
-     "id": "t2",
-     "lane": 3,
-     "label": "Customer-managed keys",
-     "hot": false
-    }
-   ],
-   "edges": [
-    {
-     "a": "in1",
-     "b": "c1"
-    },
-    {
-     "a": "in2",
-     "b": "c1"
-    },
-    {
-     "a": "c1",
-     "b": "c2"
-    },
-    {
-     "a": "c1",
-     "b": "d1"
-    },
-    {
-     "a": "c2",
-     "b": "d2"
-    },
-    {
-     "a": "d1",
-     "b": "t1"
-    },
-    {
-     "a": "d2",
-     "b": "t2"
-    }
-   ],
-   "note": "Modules are the platform's named components; trust lane is what the audit reads."
-  },
-  {
    "t": "h2",
-   "x": "Built for the auditors too"
+   "x": "How it is built"
   },
   {
    "t": "p",
-   "x": "Nexus runs inside your security perimeter with customer-managed keys, full audit export and evidence packs mapped to SOC 2, ISO 27001 and model-risk expectations. Decision policies, model versions and feature states are immutable artifacts — the replay trail is cryptographic, not testimonial."
+   "x": "The platform runs on cloud infrastructure with redundant failover for dispatch continuity. Integrations cover call feeds, hospital availability and vehicle telematics. Sensitive patient data is encrypted in transit and at rest, with access limited by role."
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Customer-managed keys",
-     "CMK/BYOK for all decision data"
+     "High availability",
+     "Redundant deployment for dispatch continuity, 24x7 operations"
     ],
     [
-     "Immutable replay",
-     "tamper-evident decision logs"
+     "Role-based access",
+     "Dispatchers, crews and administrators see only what they need"
     ],
     [
-     "Fairness monitoring",
-     "protected-attribute testing built in"
+     "Data protection",
+     "Patient data encrypted in transit and at rest"
     ],
     [
-     "Model-risk docs",
-     "SR 11-7/TRIM-aligned evidence generated"
+     "Audit logs",
+     "Every dispatch decision recorded and reviewable"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "In delivery, sector by sector"
+   "x": "Who runs it"
   },
   {
    "t": "p",
-   "x": "EEMS Platform runs under NDA in Banking & Financial Services, Insurance & Risk, Healthcare & Life Sciences, Retail & Consumer Goods, Energy & Utilities. Deployments stay private; the architecture and control packs are the part we can show."
-  },
-  {
-   "t": "h2",
-   "x": "The technology choices, justified"
-  },
-  {
-   "t": "p",
-   "x": "Connects to: Databricks Feature Store, Kafka/Flink, Redis, OPA, core-system adapters. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+   "x": "State emergency services, hospital networks and private ambulance operators. The largest deployment handles 50,000+ cases a day across 9 states."
   },
   {
    "t": "cta",
-   "x": "The next step is small and real: one working session on EEMS Platform, your data, and a written feasibility read you can circulate."
+   "x": "Book a briefing with the EEMS team. We will walk through your dispatch workflow and show what the platform would change."
   }
  ],
- "words": 359,
+ "words": 346,
  "section": "Platforms",
  "l1": "Platforms",
  "l2": "EEMS Platform",
@@ -219,39 +112,19 @@
  ],
  "related": [
   {
-   "title": "EEMS Platform — Overview",
+   "title": "EEMS Platform",
    "url": "/platforms/eems/",
-   "desc": "Decision Intelligence Hub"
+   "desc": "AI-powered emergency response — dispatch, fleet readiness and field coordination"
   },
   {
-   "title": "EEMS Platform — Architecture & Trust",
+   "title": "EEMS Platform — Architecture & Security",
    "url": "/platforms/eems/architecture/",
-   "desc": "Architecture, controls and evidence trails."
+   "desc": "How it is built and controlled."
   },
   {
    "title": "EEMS Platform — Industry Use Cases",
    "url": "/platforms/eems/use-cases/",
-   "desc": "Where the platform is in production."
-  },
-  {
-   "title": "A top-10 European retail bank",
-   "url": "/case-studies/bank-01/",
-   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
-  },
-  {
-   "title": "A top-5 global P&C insurer",
-   "url": "/case-studies/ins-01/",
-   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
-  },
-  {
-   "title": "A national health insurer",
-   "url": "/case-studies/hc-02/",
-   "desc": "Prior authorization turnaround down 62% — clinical evidence assembled automatically"
-  },
-  {
-   "title": "A global fashion group",
-   "url": "/case-studies/ret-02/",
-   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
+   "desc": "Who runs it and what it delivers."
   }
  ],
  "cards": []

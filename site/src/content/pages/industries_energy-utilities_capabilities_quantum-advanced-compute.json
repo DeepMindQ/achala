@@ -9,7 +9,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what PQC over infrastructure lifetimes costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we treat advanced compute as a tool with a contract — bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Ask what PQC over infrastructure lifetimes costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
   },
   {
    "t": "p",
@@ -38,7 +38,7 @@
   },
   {
    "t": "h2",
-   "x": "The system, piece by piece"
+   "x": "The modules"
   },
   {
    "t": "p",
@@ -179,7 +179,7 @@
   },
   {
    "t": "p",
-   "x": "The PQC over infrastructure lifetimes cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (unit commitment tournaments), and the gate review decides what scales — all inside one quarter in Energy & Utilities. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
+   "x": "The PQC over infrastructure lifetimes cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (unit commitment tournaments), and the gate review decides what scales, all inside one quarter in Energy & Utilities. Nothing scales on a demo. The gate criteria are written with your team, and the pilot runs on your data before any rollout plan exists."
   },
   {
    "t": "h2",
@@ -224,19 +224,19 @@
    "items": [
     [
      "Quantum Readiness & Strategy",
-     "A quantum plan that survives a CFO — inventory, risk clocks and sequenced roadmaps."
+     "A quantum plan that survives a CFO, inventory, risk clocks and sequenced roadmaps."
     ],
     [
      "Quantum Optimization for Enterprise Problems",
-     "Routing, scheduling, portfolios and formulations — hybrid solvers beating classical baselines."
+     "Routing, scheduling, portfolios and formulations, hybrid solvers beating classical baselines."
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "Beat the harvest-now-decrypt-later clock — cryptographic inventory to PQC cutover."
+     "Beat the harvest-now-decrypt-later clock, cryptographic inventory to PQC cutover."
     ],
     [
      "Quantum Machine Learning & Simulation",
-     "QML and simulation pilots with industrial honesty — real baselines, real data, real verdicts."
+     "QML and simulation pilots with industrial honesty, real baselines, real data, real verdicts."
     ]
    ]
   },
@@ -324,13 +324,13 @@
    "title": "Quantum & Advanced Compute for Oil & Gas",
    "url": "/industries/energy-utilities/oil-gas/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   },
   {
    "title": "Quantum & Advanced Compute for Power Generation & Grid",
    "url": "/industries/energy-utilities/power-grid/capabilities/quantum-advanced-compute/",
    "tag": "Sub-industry depth",
-   "desc": "Quantum readiness, optimization and PQC migration — pragmatic advantage from emerging compute."
+   "desc": "Quantum readiness, optimization and PQC migration, pragmatic advantage from emerging compute."
   }
  ]
 }

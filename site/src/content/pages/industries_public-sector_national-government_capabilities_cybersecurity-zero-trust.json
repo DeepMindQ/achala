@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "The Cyber & Zero-Trust ground truth in National Government & Digital Services: National digital government builds shared rails — identity, data exchange, notification, payments — and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
+   "x": "The Cyber & Zero-Trust ground truth in National Government & Digital Services: National digital government builds shared rails, identity, data exchange, notification, payments, and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI."
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "In National Government & Digital Services, the pattern is zero-trust estate — identity-centric access across agencies. Threat surface reduced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind National Government & Digital Services."
+   "x": "In National Government & Digital Services, the pattern is zero-trust estate, identity-centric access across agencies. Threat surface reduced sits on top as the measured result, tracked from the signed baseline onward. Around it, we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind National Government & Digital Services."
   },
   {
    "t": "arch",
@@ -191,7 +191,7 @@
   },
   {
    "t": "p",
-   "x": "The state-grade threats cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Zero-trust estate), and the gate review decides what scales — all inside one quarter in National Government & Digital Services. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
+   "x": "The state-grade threats cadence is short: weeks one and two set the signed baseline, weeks three through eight produce a working slice (Zero-trust estate), and the gate review decides what scales, all inside one quarter in National Government & Digital Services. The engagement is instrumented like production, because it is production: gates, named owners, and a weekly cadence your control owner can forward."
   },
   {
    "t": "h2",

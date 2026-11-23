@@ -1,0 +1,143 @@
+{
+ "id": "PLT-quanta-ar",
+ "title": "Achala Quanta — Architecture & Trust",
+ "url": "/platforms/quanta/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Achala Quanta > Architecture & Trust",
+ "seo_title": "Achala Quanta — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Achala Quanta — Quantum & Advanced Compute Suite.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "How Achala Quanta is put together: the bench, the backend adapters and the benchmark ledger that keeps the program honest."
+  },
+  {
+   "t": "h2",
+   "x": "What we put in place"
+  },
+  {
+   "t": "p",
+   "x": "In Achala Quanta, decisions and evidence sit on separate planes that meet at one auditable API. Inputs, policy version and owner are recorded at every crossing."
+  },
+  {
+   "t": "p",
+   "x": "Achala Quanta architecture: the components, as they land,"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Readiness engine",
+     "workload inventory + HNDL exposure ranking"
+    ],
+    [
+     "Solver tournament",
+     "benchmarking suite across solver families"
+    ],
+    [
+     "Solver-as-a-service",
+     "industrialized winners with warm starts and SLAs"
+    ],
+    [
+     "PQC program",
+     "CBOM discovery through hybrid transition"
+    ],
+    [
+     "HPC engineering",
+     "scheduler/GPU/storage tuning and cloud burst"
+    ],
+    [
+     "Watchlist",
+     "emerging silicon scored against your workloads"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "How it earns audit sign-off"
+  },
+  {
+   "t": "p",
+   "x": "what the dashboard carries, honestly chosen, Achala Quanta edition:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "NIST PQC alignment",
+     "ML-KEM/ML-DSA/SLH-DSA programs"
+    ],
+    [
+     "Published benchmarks",
+     "methodology and baselines disclosed"
+    ],
+    [
+     "Crypto-agility",
+     "algorithm swaps as configuration"
+    ],
+    [
+     "Verdict discipline",
+     "advantage/parity/no-advantage documented"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Engineering standards we hold"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: Qiskit, PennyLane, Gurobi/CP-SAT, Slurm, CUDA, CBOM tooling. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Achala Quanta follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "Bring one optimization problem to a briefing. We will show the bench, the baseline and the benchmark plan it would run under."
+  }
+ ],
+ "words": 356,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Achala Quanta",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Achala Quanta",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/quanta/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Achala Quanta — Quantum & Advanced Compute Suite",
+   "url": "/platforms/quanta/",
+   "desc": "Quantum & Advanced Compute Suite"
+  },
+  {
+   "title": "Achala Quanta — Architecture & Trust",
+   "url": "/platforms/quanta/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Achala Quanta — Industry Use Cases",
+   "url": "/platforms/quanta/use-cases/",
+   "desc": "Where the platform runs, sector by sector."
+  }
+ ],
+ "cards": []
+}
