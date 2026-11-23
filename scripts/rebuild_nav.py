@@ -81,42 +81,42 @@ nav = {
         ]),
       ]},
       {"label": "Platforms", "url": "/platforms/", "mega": [
-        col("DataQ Nexus — Decision Intelligence", "/platforms/nexus/", [
+        col("Achala Nexus — Decision Intelligence", "/platforms/nexus/", [
           {"label": "Overview", "url": "/platforms/nexus/"},
           {"label": "Architecture & Trust", "url": "/platforms/nexus/architecture/"},
           {"label": "Use cases", "url": "/platforms/nexus/use-cases/"},
         ]),
-        col("DataQ Forge — Data & Lakehouse", "/platforms/forge/", [
+        col("Achala Forge — Data & Lakehouse", "/platforms/forge/", [
           {"label": "Overview", "url": "/platforms/forge/"},
           {"label": "Architecture & Trust", "url": "/platforms/forge/architecture/"},
           {"label": "Use cases", "url": "/platforms/forge/use-cases/"},
         ]),
-        col("DataQ Swarm — Agent Orchestration", "/platforms/swarm/", [
+        col("Achala Swarm — Agent Orchestration", "/platforms/swarm/", [
           {"label": "Overview", "url": "/platforms/swarm/"},
           {"label": "Architecture & Trust", "url": "/platforms/swarm/architecture/"},
           {"label": "Use cases", "url": "/platforms/swarm/use-cases/"},
         ]),
-        col("DataQ Sentinel — Security Fabric", "/platforms/sentinel/", [
+        col("Achala Sentinel — Security Fabric", "/platforms/sentinel/", [
           {"label": "Overview", "url": "/platforms/sentinel/"},
           {"label": "Architecture & Trust", "url": "/platforms/sentinel/architecture/"},
           {"label": "Use cases", "url": "/platforms/sentinel/use-cases/"},
         ]),
-        col("DataQ Twinverse — Digital Twin Ops", "/platforms/twinverse/", [
+        col("Achala Twinverse — Digital Twin Ops", "/platforms/twinverse/", [
           {"label": "Overview", "url": "/platforms/twinverse/"},
           {"label": "Architecture & Trust", "url": "/platforms/twinverse/architecture/"},
           {"label": "Use cases", "url": "/platforms/twinverse/use-cases/"},
         ]),
-        col("DataQ Quanta — Advanced Compute", "/platforms/quanta/", [
+        col("Achala Quanta — Advanced Compute", "/platforms/quanta/", [
           {"label": "Overview", "url": "/platforms/quanta/"},
           {"label": "Architecture & Trust", "url": "/platforms/quanta/architecture/"},
           {"label": "Use cases", "url": "/platforms/quanta/use-cases/"},
         ]),
-        col("DataQ Ledger — Digital Trust", "/platforms/ledger/", [
+        col("Achala Ledger — Digital Trust", "/platforms/ledger/", [
           {"label": "Overview", "url": "/platforms/ledger/"},
           {"label": "Architecture & Trust", "url": "/platforms/ledger/architecture/"},
           {"label": "Use cases", "url": "/platforms/ledger/use-cases/"},
         ]),
-        col("DataQ Compass — AI Governance", "/platforms/compass/", [
+        col("Achala Compass — AI Governance", "/platforms/compass/", [
           {"label": "Overview", "url": "/platforms/compass/"},
           {"label": "Architecture & Trust", "url": "/platforms/compass/architecture/"},
           {"label": "Use cases", "url": "/platforms/compass/use-cases/"},
@@ -148,14 +148,14 @@ nav = {
       ]},
       {"label": "About Us", "url": "/about-us/", "mega": [
         col("Company", "/about-us/", [
-          {"label": "About DataQ Soft", "url": "/about-us/"},
-          {"label": "Why DataQ Soft", "url": "/why-dataq-soft/"},
+          {"label": "About Achala IT Solutions", "url": "/about-us/"},
+          {"label": "Why Achala IT Solutions", "url": "/why-achala-soft/"},
           {"label": "Values & Culture", "url": "/values-culture/"},
           {"label": "Leadership", "url": "/leadership/"},
           {"label": "Global Offices", "url": "/global-offices/"},
         ]),
-        col("Our Approach", "/our-approach/the-dataq-method/", [
-          {"label": "The DataQ Method", "url": "/our-approach/the-dataq-method/"},
+        col("Our Approach", "/our-approach/the-achala-method/", [
+          {"label": "The Achala Method", "url": "/our-approach/the-achala-method/"},
           {"label": "Outcome-Linked Engagements", "url": "/our-approach/outcome-linked-engagements/"},
           {"label": "Responsible AI Framework", "url": "/our-approach/responsible-ai-framework/"},
           {"label": "Global Delivery Model", "url": "/our-approach/global-delivery-model/"},

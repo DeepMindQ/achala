@@ -1,9 +1,9 @@
 import type { CSSProperties } from "react";
 
 /*
- * Authentic DataQ Soft lockup — vectorized 1:1 from the supplied dataq_logo.png
- * (Wave 1, CHG-001/002). Orange #FE5722 block with white lowercase "dataq";
- * navy #18142D lowercase "software" whose "o" is the orange dot.
+ * Authentic Achala IT Solutions lockup — vectorized 1:1 from the supplied achala_logo.png
+ * (Wave 1, CHG-001/002). Orange #d20000 block with white lowercase "achala";
+ * navy #2b5672 lowercase "software" whose "o" is the red dot.
  * Variants: full (light surfaces) · reversed (white wordmark, dark surfaces) ·
  * mono (single navy, print/legal). Clearspace rule: keep free space equal to
  * the block height on all sides; never render below 120px width (CHG-024).
@@ -20,9 +20,9 @@ type LogoProps = {
 };
 
 export default function Logo({ variant = "full", height = 38, className = "", style }: LogoProps) {
-  const wordmark = variant === "reversed" ? "#FFFFFF" : variant === "mono" ? "#18142D" : "#18142D";
-  const blockFill = variant === "mono" ? "#18142D" : "#FE5722";
-  const dotFill = variant === "mono" ? "#18142D" : "#FE5722";
+  const wordmark = variant === "reversed" ? "#FFFFFF" : variant === "mono" ? "#2b5672" : "#2b5672";
+  const blockFill = variant === "mono" ? "#2b5672" : "#d20000";
+  const dotFill = variant === "mono" ? "#2b5672" : "#d20000";
   const width = Math.round(height * (1000 / 184));
   return (
     <svg
@@ -31,7 +31,7 @@ export default function Logo({ variant = "full", height = 38, className = "", st
       viewBox="0 0 1000 184"
       fill="none"
       role="img"
-      aria-label="DataQ Soft"
+      aria-label="Achala IT Solutions"
       className={`logo-lockup shrink-0 ${className}`}
       style={style}
     >

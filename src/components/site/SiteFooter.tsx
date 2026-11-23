@@ -14,7 +14,7 @@ export default function SiteFooter({ brand, footer }: { brand: Brand; footer: Fo
         <div className="container-dq grid gap-10 py-14 lg:grid-cols-2">
           <div>
             <p className="kicker-bar-dark text-[12px] font-semibold uppercase tracking-[0.18em] text-brand-300">
-              Contact DataQ Soft
+              Contact Achala IT Solutions
             </p>
             <h2 className="mt-2 font-display text-2xl font-semibold leading-snug text-white sm:text-3xl">
               Tell us the metric you need to move.

@@ -358,7 +358,7 @@ CARDS = [
 ]
 
 RELATED = [
-    {"title": "The Dataq Method", "url": "/our-approach/the-dataq-method/", "tag": "Method", "desc": "The delivery method and gates behind the operating contract — read it before you compare proposals."},
+    {"title": "The Achala Method", "url": "/our-approach/the-achala-method/", "tag": "Method", "desc": "The delivery method and gates behind the operating contract — read it before you compare proposals."},
     {"title": "Evidence library — 116 builds", "url": "/case-studies/", "tag": "Proof", "desc": "Anonymized builds with measured deltas, filterable by industry and service area."},
     {"title": "Industries", "url": "/industries/", "tag": "Sectors", "desc": "Twelve sector playbooks with the regulations, workflows and controls that bind them."},
     {"title": "Platforms", "url": "/platforms/", "tag": "Product estate", "desc": "The productized estate the practices deploy on — consoles, portals and reference architectures."},
@@ -482,7 +482,7 @@ def wc(b):
 page = dict(current)
 page.update({
     "title": "Eight expertise domains, one governed delivery system",
-    "seo_title": "IT Services & Expertise Domains | Dataq Software",
+    "seo_title": "IT Services & Expertise Domains | Achala IT Solutions",
     "meta_description": ("54 engineering practices across 8 expertise domains — every engagement enters on a signed metric baseline, "
                          "clears evidenced gates and exits with audited numbers. Pick your industry and see the engagement we would run."),
     "blocks": NEW_BLOCKS,

@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Swarm",
+     "label": "KYC Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Intelligent Process Automation at Scale composes Dataq Swarm, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Telecom, Media & Entertainment, Public Sector & Government."
+   "x": "Intelligent Process Automation at Scale composes KYC Management System, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Telecom, Media & Entertainment, Public Sector & Government."
   },
   {
    "t": "h2",

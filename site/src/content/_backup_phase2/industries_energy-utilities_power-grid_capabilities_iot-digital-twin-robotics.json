@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Power Generation & Grid",
- "meta_description": "IoT, Twin & Robotics for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "IoT, Twin & Robotics for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of IoT, Twin & Robotics for Power Generation & Grid: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of IoT, Twin & Robotics for Power Generation & Grid: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -74,11 +74,11 @@
    "items": [
     [
      "Smart Infrastructure, Buildings & Cities",
-     "What Smart Infrastructure, Buildings & Cities means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Smart Infrastructure, Buildings & Cities means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Industrial IoT & Sensor Fabric",
-     "What Industrial IoT & Sensor Fabric means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
+     "What Industrial IoT & Sensor Fabric means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
     ],
     [
      "Digital Twin Platform Engineering",
@@ -218,7 +218,7 @@
   },
   {
    "t": "p",
-   "x": "IoT, Twin & Robotics for Power Generation & Grid follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "IoT, Twin & Robotics for Power Generation & Grid follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

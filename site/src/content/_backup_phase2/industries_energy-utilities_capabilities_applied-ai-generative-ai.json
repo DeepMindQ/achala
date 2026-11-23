@@ -4,8 +4,8 @@
  "url": "/industries/energy-utilities/capabilities/applied-ai-generative-ai/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Applied AI & Generative AI",
- "seo_title": "Applied AI & GenAI for Energy & Utilities | Dataq Software",
- "meta_description": "Applied AI & GenAI for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Applied AI & GenAI for Energy & Utilities | Achala IT Solutions",
+ "meta_description": "Applied AI & GenAI for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Dataq Forge platform for rails, and your estate at SCADA / EMS cores for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Fleet Management System platform for rails, and your estate at SCADA / EMS cores for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "h2",
@@ -82,7 +82,7 @@
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "What LLM Fine-Tuning & Model Operations means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What LLM Fine-Tuning & Model Operations means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
@@ -236,7 +236,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

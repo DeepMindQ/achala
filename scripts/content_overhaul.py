@@ -137,14 +137,14 @@ BULLET_LIB = {
     "Blockchain & Digital Trust": "Permissioned networks, tokenization and verifiable credentials with the reporting and controls supervisors expect.",
     "IoT, Digital Twin & Robotics": "Sensor integration, digital twins and robotics that let operations teams see, simulate and act on physical assets in one loop.",
     # platforms
-    "DataQ Nexus": "The decision hub: contextual graphs, policy checks and full decision replay for audit.",
-    "DataQ Forge": "The data platform every program builds on: ingestion, quality, lineage and access control.",
-    "DataQ Swarm": "Multi-agent orchestration with queues, budgets, escalation paths and audit trails.",
-    "DataQ Sentinel": "Security controls for people, machines and models, with evidence collected continuously.",
-    "DataQ Twinverse": "Simulation and operations for physical assets, from sensor data to actuation.",
-    "DataQ Quanta": "Optimization workloads on quantum-inspired algorithms, benchmarked against classical solvers.",
-    "DataQ Ledger": "Permissioned ledger networks with regulatory reporting built in.",
-    "DataQ Compass": "Model governance: validation, monitoring and documentation your risk committee can review.",
+    "Achala Nexus": "The decision hub: contextual graphs, policy checks and full decision replay for audit.",
+    "Achala Forge": "The data platform every program builds on: ingestion, quality, lineage and access control.",
+    "Achala Swarm": "Multi-agent orchestration with queues, budgets, escalation paths and audit trails.",
+    "Achala Sentinel": "Security controls for people, machines and models, with evidence collected continuously.",
+    "Achala Twinverse": "Simulation and operations for physical assets, from sensor data to actuation.",
+    "Achala Quanta": "Optimization workloads on quantum-inspired algorithms, benchmarked against classical solvers.",
+    "Achala Ledger": "Permissioned ledger networks with regulatory reporting built in.",
+    "Achala Compass": "Model governance: validation, monitoring and documentation your risk committee can review.",
     # industries
     "Banking & Financial Services": "Real-time fraud and risk decisions, resilient core operations and AI controls that pass supervisory review.",
     "Insurance & Risk": "Underwriting accuracy, claims automation and fraud detection with full model documentation for regulators.",
@@ -199,16 +199,16 @@ def hero_for(page):
                 f"pattern we run, the services and platforms involved, and the outcomes we commit to.")
     if t == 'tower_hub':
         tw = title
-        return (f"DataQ Soft's {tw} practice: what the tower covers, the services inside it, the "
+        return (f"Achala IT Solutions's {tw} practice: what the tower covers, the services inside it, the "
                 f"platforms it deploys and the outcomes typical programs commit to.")
     if t == 'service_page':
-        return (f"{title} as delivered by DataQ Soft: scope, delivery pattern, the platforms "
+        return (f"{title} as delivered by Achala IT Solutions: scope, delivery pattern, the platforms "
                 f"involved and the outcomes we commit to at each gate.")
     if t == 'solution_page':
         return (f"{title}: the composed architecture, the platforms underneath and the metric "
                 f"the program is judged on.")
     if t == 'industry_hub':
-        return (f"How DataQ Soft serves {l2 or title}: priority programs, regulatory posture and "
+        return (f"How Achala IT Solutions serves {l2 or title}: priority programs, regulatory posture and "
                 f"the capability towers aligned to the sector.")
     if t == 'subindustry_page':
         return (f"{title}: the operating units, priority programs and the five capability towers "
@@ -225,15 +225,15 @@ def meta_for(page):
     if t in ('sub_capability', 'industry_capability'):
         cap = title.split(' for ')[0] if ' for ' in title else title
         sub = l3 or l2 or 'your sector'
-        m = f"{cap} for {sub}: delivery pattern, compliance frame, platforms and committed outcomes from DataQ Soft."
+        m = f"{cap} for {sub}: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions."
     elif t == 'tower_hub':
-        m = f"{title} services from DataQ Soft: scope, delivery pattern, platforms and committed outcomes."
+        m = f"{title} services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes."
     elif t == 'service_page':
-        m = f"{title} from DataQ Soft: scope, delivery pattern, platforms and committed outcomes."
+        m = f"{title} from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes."
     elif t == 'solution_page':
         m = f"{title} — composed architecture, platform stack and the metric the program answers to."
     elif t == 'industry_hub':
-        m = f"DataQ Soft programs for {l2 or title}: priority use cases, regulatory posture and delivery model."
+        m = f"Achala IT Solutions programs for {l2 or title}: priority use cases, regulatory posture and delivery model."
     else:
         return None
     return m[:158]

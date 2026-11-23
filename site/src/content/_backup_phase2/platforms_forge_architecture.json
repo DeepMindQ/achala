@@ -1,15 +1,15 @@
 {
  "id": "PLT-forge-ar",
- "title": "Dataq Forge — Architecture & Trust",
- "url": "/platforms/forge/architecture/",
+ "title": "Fleet Management System — Architecture & Trust",
+ "url": "/platforms/fms/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Forge > Architecture & Trust",
- "seo_title": "Dataq Forge — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Forge — Data & Lakehouse Engineering Platform from Dataq Software.",
+ "breadcrumb": "Platforms > Fleet Management System > Architecture & Trust",
+ "seo_title": "Fleet Management System — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Fleet Management System — Data & Lakehouse Engineering Platform from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "A no-theater description of Dataq Forge — Architecture & Trust: what ships first, what it touches at operational stores, how it is verified, and the per workflow metric we commit to moving against baseline."
+   "x": "A no-theater description of Fleet Management System — Architecture & Trust: what ships first, what it touches at operational stores, how it is verified, and the per workflow metric we commit to moving against baseline."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Forge — plane and service layers",
+   "title": "Fleet Management System — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Forge — deployment topology and flow",
+   "title": "Fleet Management System — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -192,7 +192,7 @@
  "words": 466,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Forge",
+ "l2": "Fleet Management System",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Forge",
+   "name": "Fleet Management System",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/forge/architecture/"
+   "url": "/platforms/fms/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Forge — Overview",
-   "url": "/platforms/forge/",
+   "title": "Fleet Management System — Overview",
+   "url": "/platforms/fms/",
    "desc": "Data & Lakehouse Engineering Platform"
   },
   {
-   "title": "Dataq Forge — Architecture & Trust",
-   "url": "/platforms/forge/architecture/",
+   "title": "Fleet Management System — Architecture & Trust",
+   "url": "/platforms/fms/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Forge — Industry Use Cases",
-   "url": "/platforms/forge/use-cases/",
+   "title": "Fleet Management System — Industry Use Cases",
+   "url": "/platforms/fms/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

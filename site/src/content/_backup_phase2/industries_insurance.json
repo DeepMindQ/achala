@@ -4,8 +4,8 @@
  "url": "/industries/insurance/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Insurance & Risk",
- "seo_title": "Insurance & Risk | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Insurance & Risk: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Insurance & Risk | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Insurance & Risk: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Decision fabric — how Dataq Software composes Insurance & Risk capability",
+   "title": "Decision fabric — how Achala IT Solutions composes Insurance & Risk capability",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,11 +80,11 @@
   },
   {
    "t": "h2",
-   "x": "How Dataq Software responds"
+   "x": "How Achala IT Solutions responds"
   },
   {
    "t": "p",
-   "x": "Dataq Software builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect — documentation as you build, not reconstruction under exam."
+   "x": "Achala IT Solutions builds the machinery: underwriting workbenches with speed-to-quote discipline, agentic claims triage that reads FNOL packets and medical reports, fraud decision hubs with network analytics, and reserving workbenches that keep actuaries in command while automating the data wrangling. Our delivery includes the model governance carriers' regulators expect — documentation as you build, not reconstruction under exam."
   },
   {
    "t": "h2",

@@ -177,7 +177,7 @@ export default function SiteHeader({ nav, brand }: { nav: Nav; brand: Brand }) {
         <div
           className={`container-dq flex items-center justify-between gap-4 transition-[height] duration-300 ${scrolled ? "h-[52px]" : "h-16"}`}
         >
-          <Link href="/" aria-label="DataQ Soft home" className="shrink-0">
+          <Link href="/" aria-label="Achala IT Solutions home" className="shrink-0">
             <Logo height={38} />
           </Link>
 

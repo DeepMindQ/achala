@@ -26,7 +26,7 @@ def page_digest(path, label, out):
     s = read(path)
     t = visible(s)
     # trim chrome
-    for ns in ["Maintained by the Dataq Software practice council", "CONTACT DATAQ SOFTWARE"]:
+    for ns in ["Maintained by the Achala IT Solutions practice council", "CONTACT ACHALA IT SOLUTIONS"]:
         i = t.find(ns)
         if i > 0:
             t = t[:i]
@@ -74,7 +74,7 @@ def main():
             p = os.path.join(dpath, s2, "index.html")
             page_digest(p, f"/services/{d}/{s2}/", all_lines)
             t = visible(read(p))
-            for ns in ["Maintained by the Dataq Software practice council", "CONTACT DATAQ SOFTWARE"]:
+            for ns in ["Maintained by the Achala IT Solutions practice council", "CONTACT ACHALA IT SOLUTIONS"]:
                 i = t.find(ns)
                 if i > 0:
                     t = t[:i]

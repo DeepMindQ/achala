@@ -25,11 +25,11 @@ export function OutputTelemetry({ page }: { page: PageData }) {
           How the platform is engineered, layer by layer
         </h2>
         <p className="mt-1.5 max-w-2xl text-[13px] text-slate-body/70">
-          Each layer maps to a patented method family — the same map your auditors
+          Each layer maps to a proprietary accelerator family — the same map your auditors
           can walk from control to owner.
         </p>
         <div className="mt-5">
-          <ArchitectureFlow title="Trust layers" caption="Patent-aligned design" layers={layers} />
+          <ArchitectureFlow title="Trust layers" caption="Accelerator-aligned design" layers={layers} />
         </div>
       </section>
     );
@@ -38,7 +38,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
     return (
       <section className="container-dq pt-2">
         <p className="text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-          The Dataq Method
+          The Achala Method
         </p>
         <h2 className="mt-1 font-display text-[21px] font-semibold text-navy-800 sm:text-[23px]">
           Four gates, each with evidence that stops the program if it is missing
@@ -126,7 +126,7 @@ export function PatentStrip({ page, dark }: { page: PageData; dark?: boolean }) 
     <section className="container-dq pt-6">
       <div className={`rounded-2xl border px-5 py-4 ${dark ? "border-white/10 bg-white/[0.05]" : "border-line bg-mist/60"}`}>
         <p className={`text-[11px] font-bold uppercase tracking-[0.18em] ${dark ? "text-brand-300" : "text-brand-deep"}`}>
-          Patented method underneath
+          Accelerator underneath
         </p>
         <div className="mt-3 grid gap-3 md:grid-cols-3">
           {patents.map((p) => (
@@ -138,7 +138,7 @@ export function PatentStrip({ page, dark }: { page: PageData; dark?: boolean }) 
                   href="/patented-intelligence/"
                   className={`text-[11px] font-medium hover:underline ${dark ? "text-brand-300" : "text-brand-deep"}`}
                 >
-                  {p.ref} — see the method map
+                  {p.ref} — see the acceleration map
                 </Link>
               </div>
             </div>
@@ -161,7 +161,7 @@ export function PatentGrid() {
           >
             <div className="flex items-center justify-between gap-3">
               <span className="inline-flex items-center gap-1.5 rounded-full bg-brand-tint px-2.5 py-1 text-[10.5px] font-bold uppercase tracking-[0.12em] text-brand-deep">
-                <ShieldCheck className="h-3.5 w-3.5" aria-hidden="true" /> Patented method
+                <ShieldCheck className="h-3.5 w-3.5" aria-hidden="true" /> Accelerator family
               </span>
               <span className="font-display text-[12px] font-bold text-brand-deep/60">{String(i + 1).padStart(2, "0")}</span>
             </div>

@@ -5,7 +5,7 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Insurance & Risk",
- "meta_description": "Agentic AI & Hyperautomation for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Agentic AI & Hyperautomation for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Dataq Forge platform for rails, and your estate at policy admin platforms for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Fleet Management System platform for rails, and your estate at policy admin platforms for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "h2",
@@ -78,11 +78,11 @@
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "The Dataq Software build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
+     "The Achala IT Solutions build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
     ],
     [
      "Decision Intelligence Systems",
-     "The Dataq Software build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
+     "The Achala IT Solutions build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
     ],
     [
      "Intelligent Document Processing",

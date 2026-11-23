@@ -4,8 +4,8 @@
  "url": "/value-assessment/",
  "template": "contact_page",
  "breadcrumb": "Contact > Request a Value Assessment",
- "seo_title": "Request a Value Assessment | Dataq Software",
- "meta_description": "Engage Dataq Software: executive briefings, value assessments and practice-lead responses within one business day.",
+ "seo_title": "Request a Value Assessment | Achala IT Solutions",
+ "meta_description": "Engage Achala IT Solutions: executive briefings, value assessments and practice-lead responses within one business day.",
  "blocks": [
   {
    "t": "hero",
@@ -80,7 +80,7 @@
  ],
  "related": [
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": ""
   },

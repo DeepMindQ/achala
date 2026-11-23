@@ -38,7 +38,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
     return (
       <section className="container-dq pt-2">
         <p className="text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-          The Dataq Method
+          The Achala Method
         </p>
         <h2 className="mt-1 font-display text-[21px] font-semibold text-navy-800 sm:text-[23px]">
           Four gates, each with evidence that stops the program if it is missing

@@ -4,7 +4,7 @@
  "url": "/our-approach/global-delivery-model/",
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > Global Delivery Model",
- "seo_title": "Global Delivery Model | Dataq Software",
+ "seo_title": "Global Delivery Model | Achala IT Solutions",
  "meta_description": "Four delivery centers, named pods, follow-the-sun operations.",
  "blocks": [
   {
@@ -108,8 +108,8 @@
  ],
  "related": [
   {
-   "title": "The Dataq Method",
-   "url": "/our-approach/the-dataq-method/",
+   "title": "The Achala Method",
+   "url": "/our-approach/the-achala-method/",
    "desc": ""
   },
   {
@@ -123,8 +123,8 @@
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": "The proof points behind the method."
   }
  ],

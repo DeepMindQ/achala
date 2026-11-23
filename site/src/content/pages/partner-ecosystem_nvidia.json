@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/nvidia/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > NVIDIA",
- "seo_title": "NVIDIA Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on NVIDIA: Accelerated computing for AI factories and inference at scale.",
+ "seo_title": "NVIDIA Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on NVIDIA: Accelerated computing for AI factories and inference at scale.",
  "words": 174,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with NVIDIA: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with NVIDIA: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",

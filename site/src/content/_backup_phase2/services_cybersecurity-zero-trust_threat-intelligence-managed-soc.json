@@ -4,8 +4,8 @@
  "url": "/services/cybersecurity-zero-trust/threat-intelligence-managed-soc/",
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Threat Intelligence & Managed SOC",
- "seo_title": "Threat Intelligence & Managed SOC | Dataq Software",
- "meta_description": "Threat Intelligence & Managed SOC from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Threat Intelligence & Managed SOC | Achala IT Solutions",
+ "meta_description": "Threat Intelligence & Managed SOC from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -253,7 +253,7 @@
     ],
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "AI Security & Model Protection",
@@ -282,7 +282,7 @@
    "items": [
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "Identity & Access Modernization",

@@ -1,6 +1,6 @@
 "use client";
 
-/* ── DataQ Soft data-visualization library (Wave 2, CHG-178/223 + output graphs)
+/* ── Achala IT Solutions data-visualization library (Wave 2, CHG-178/223 + output graphs)
    Pure SVG, brand-token colored, scroll-triggered draw animations, deterministic
    props (all data computed server-side → hydration-safe). Reduced motion: the
    globals.css kill switch drops every transition to instant.                 */
@@ -8,10 +8,10 @@
 import { useInView } from "./Motion";
 import { hashStr, mulberry32 } from "@/lib/seeded";
 
-export const BRAND = "#FE5722";
-export const BRAND_SOFT = "#FE9C77";
-export const NAVY = "#18142D";
-const NAVY_SOFT = "#3A3358";
+export const BRAND = "#d20000";
+export const BRAND_SOFT = "#ff9d96";
+export const NAVY = "#2b5672";
+const NAVY_SOFT = "#568aa6";
 
 type Dark = { dark?: boolean };
 
@@ -464,7 +464,7 @@ export function NetworkGraph({
               y1={py(nodes[a])}
               x2={px(nodes[b])}
               y2={py(nodes[b])}
-              stroke={dark ? "rgba(254,87,34,.5)" : "rgba(254,87,34,.45)"}
+              stroke={dark ? "rgba(210, 0, 0,.5)" : "rgba(210, 0, 0,.45)"}
               strokeWidth="1.4"
               pathLength={1}
               strokeDasharray={1}
@@ -541,7 +541,7 @@ export function Heatmap({
                       key={ci}
                       className="rounded-[4px] text-center font-semibold tabular-nums text-white"
                       style={{
-                        background: `rgba(254, 87, 34, ${0.12 + 0.78 * (v / max)})`,
+                        background: `rgba(210, 0, 0, ${0.12 + 0.78 * (v / max)})`,
                         color: v / max > 0.55 || v / max < 0.2 ? (dark ? "#fff" : NAVY) : "#fff",
                         opacity: inView ? 1 : 0,
                         transform: inView ? "scale(1)" : "scale(.6)",
@@ -716,7 +716,7 @@ export function WorldPins({
         <div className="relative overflow-hidden rounded-xl" style={{ aspectRatio: "2.1 / 1" }}>
           <svg viewBox="0 0 100 48" className="absolute inset-0 h-full w-full" aria-hidden="true">
             {dots.map((d, i) => (
-              <circle key={i} cx={d.x * 100} cy={d.y * 48} r="0.45" fill={dark ? "rgba(255,255,255,.28)" : "rgba(24,20,45,.22)"} />
+              <circle key={i} cx={d.x * 100} cy={d.y * 48} r="0.45" fill={dark ? "rgba(255,255,255,.28)" : "rgba(43, 86, 114,.22)"} />
             ))}
             {pins.map((p, i) => (
               <g key={p.id} style={{ opacity: inView ? 1 : 0, transition: `opacity 500ms ease ${400 + i * 220}ms` }}>
@@ -734,7 +734,7 @@ export function WorldPins({
               style={{
                 left: `${p.x * 100}%`,
                 top: `calc(${p.y * 100}% - 24px)`,
-                background: dark ? "rgba(24,20,45,.85)" : "rgba(24,20,45,.85)",
+                background: dark ? "rgba(43, 86, 114,.85)" : "rgba(43, 86, 114,.85)",
                 color: "#fff",
               }}
             >

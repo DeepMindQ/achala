@@ -4,12 +4,12 @@
  "url": "/industries/energy-utilities/water-utilities/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Energy & Utilities > Water, Waste & City Utilities",
- "seo_title": "Water, Waste & City Utilities | Dataq Software",
+ "seo_title": "Water, Waste & City Utilities | Achala IT Solutions",
  "meta_description": "Water and waste utilities run essential services on aging assets and thin margins: leak detection, network telemetry, customer analytics and regulatory.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Water, Waste & City Utilities: concrete interfaces at SCADA / EMS cores, measured movement on NRW, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Water, Waste & City Utilities: concrete interfaces at SCADA / EMS cores, measured movement on NRW, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",

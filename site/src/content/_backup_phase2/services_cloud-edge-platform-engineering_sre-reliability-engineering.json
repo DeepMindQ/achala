@@ -4,8 +4,8 @@
  "url": "/services/cloud-edge-platform-engineering/sre-reliability-engineering/",
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > SRE & Reliability Engineering",
- "seo_title": "SRE & Reliability Engineering | Dataq Software",
- "meta_description": "SRE & Reliability Engineering from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "SRE & Reliability Engineering | Achala IT Solutions",
+ "meta_description": "SRE & Reliability Engineering from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -282,7 +282,7 @@
    "items": [
     [
      "FinOps & Sustainable Computing",
-     "The Dataq Software build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
+     "The Achala IT Solutions build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
     ],
     [
      "Edge Computing & Distributed Infrastructure",

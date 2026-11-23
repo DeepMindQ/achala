@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Swarm",
+     "label": "KYC Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Enterprise Copilots & Digital Workplace composes Dataq Swarm, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in All."
+   "x": "Enterprise Copilots & Digital Workplace composes KYC Management System, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in All."
   },
   {
    "t": "h2",

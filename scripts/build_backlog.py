@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Dataq Software website — 500+ change backlog (gate deliverable)."""
+"""Achala IT Solutions website — 500+ change backlog (gate deliverable)."""
 import sys, os
 XLSX_SKILL_DIR = "/home/z/my-project/skills/xlsx"
 for sub in [XLSX_SKILL_DIR, os.path.join(XLSX_SKILL_DIR, "templates")]:
@@ -15,12 +15,12 @@ def add(wave, cat, area, change, why, effort="M", status="Planned"):
 
 # ══════════════════ P0 — IMAGE SYSTEM (root cause: 1 recycled SVG per page) ══════════════════
 IMG = "Images & Visual Assets"
-add("P0-Images", IMG, "Site-wide", "Replace 22 recycled abstract SVGs with 24 premium AI-generated brand visuals (orange #FE5722 / deep-blue #18142D art direction)", "Root cause of 'images not rendering': every page shows the same dark placeholder; nothing to render", "L")
+add("P0-Images", IMG, "Site-wide", "Replace 22 recycled abstract SVGs with 24 premium AI-generated brand visuals (orange #d20000 / deep-blue #2b5672 art direction)", "Root cause of 'images not rendering': every page shows the same dark placeholder; nothing to render", "L")
 for svc, label in [("applied-ai-generative-ai","Applied & Generative AI"),("agentic-ai-hyperautomation","Agentic AI & Hyperautomation"),("data-analytics-lakehouse","Data, Analytics & Lakehouse"),("cybersecurity-zero-trust","Cybersecurity & Zero Trust"),("cloud-edge-platform-engineering","Cloud, Edge & Platform Engineering"),("quantum-advanced-compute","Quantum & Advanced Compute"),("blockchain-digital-trust","Blockchain & Digital Trust"),("iot-digital-twin-robotics","IoT, Digital Twin & Robotics")]:
     add("P0-Images", IMG, f"Service tower: {label}", f"Photoreal branded hero image for {label} tower hub + 3 sub-services (photoreal ops scenes, brand-graded)", "Unique imagery per service page kills the placeholder effect", "M")
 for ind, label in [("banking-financial-services","Banking & Financial Services"),("healthcare-pharma-life-sciences","Healthcare, Pharma & Life Sciences"),("retail-consumer-e-commerce","Retail, Consumer & E-commerce"),("manufacturing-energy-industrial","Manufacturing, Energy & Industrial"),("government-public-sector-education","Government, Public Sector & Education"),("telecom-media-travel-hospitality","Telecom, Media, Travel & Hospitality")]:
     add("P0-Images", IMG, f"Industry: {label}", f"Industry-specific hero + section imagery set (3 images) for {label}", "Industries reuse generic art today; sector credibility needs sector visuals", "M")
-for plat, label in [("nexus","Dataq Nexus"),("forge","Dataq Forge"),("swarm","Dataq Swarm"),("sentinel","Dataq Sentinel"),("twinverse","Dataq Twinverse"),("quanta","Dataq Quanta"),("ledger","Dataq Ledger"),("compass","Dataq Compass")]:
+for plat, label in [("nexus","Achala Nexus"),("forge","Achala Forge"),("swarm","Achala Swarm"),("sentinel","Achala Sentinel"),("twinverse","Achala Twinverse"),("quanta","Achala Quanta"),("ledger","Achala Ledger"),("compass","Achala Compass")]:
     add("P0-Images", IMG, f"Platform: {label}", f"Product-style UI mock render for {label} platform page", "Platforms need product-feel visuals, not abstract arcs", "M")
 add("P0-Images", IMG, "Homepage", "Cinematic homepage hero visual (abstract data-intelligence field, animated layered depth)", "First impression currently text-only", "M")
 add("P0-Images", IMG, "About / Careers / Contact", "Human-side photography set: delivery centers, teams at work (8 images, consistent grade)", "Company pages have zero human imagery", "M")
@@ -30,7 +30,7 @@ add("P0-Images", IMG, "All pages", "Inline SVG diagram strip component: 3 contex
 add("P0-Images", IMG, "OG/social", "OpenGraph image (1200x630) per section, brand template with page title", "Social shares currently show no image", "S")
 add("P0-Images", IMG, "Build", "next/image audit: sizes attribute per breakpoint, priority only above-the-fold", "LCP + layout stability", "S")
 add("P0-Images", IMG, "Build", "Asset pipeline: AI images compressed to WebP + AVIF, lazy below fold", "Page weight discipline", "S")
-add("P0-Images", IMG, "gh-pages", "GHPAGES=1 basePath regression test in CI script (assert /DataQ/images/* exists in out-gh HTML)", "Prevent recurring 'images 404 on Pages' class bugs", "S")
+add("P0-Images", IMG, "gh-pages", "GHPAGES=1 basePath regression test in CI script (assert /achala/images/* exists in out-gh HTML)", "Prevent recurring 'images 404 on Pages' class bugs", "S")
 add("P0-Images", IMG, "Legal", "Confidentiality scan on all generated imagery prompts + visible text (no entity names)", "Hard confidentiality rule", "S")
 
 # ══════════════════ P0 — ANIMATION 100X ══════════════════
@@ -85,7 +85,7 @@ PERPAGE = ["Homepage hero: full cinematic intro sequence (orbit rings draw, KPIs
            "Contact: form steps animate + submit success confetti burst (brand colors)",
            "Careers: perks cards deal-in like cards on a table",
            "About: timeline draws horizontally with milestones popping",
-           "Why-Dataq: comparison table rows slide-in alternating left/right",
+           "Why-Achala: comparison table rows slide-in alternating left/right",
            "Approach: process steps connect with animated path (SVG draw)",
            "Patented-intelligence: patent nodes orbit core, connect on hover",
            "Book-a-briefing: calendar slot grid hover wave",
@@ -108,7 +108,7 @@ add("P1-Content", CT, "Industry sub-pages", "Sector use-case pages: process flow
 add("P1-Content", CT, "8 platform pages", "Platform pages rewritten as product sheets: what it runs, what it replaces, time-to-value", "Platforms currently read like essays", "M")
 add("P1-Content", CT, "37 case studies", "Case study upgrade: Challenge → Build → Outcome with named KPI deltas (illustrative, consistent)", "Strongest proof asset; currently thin", "L")
 add("P1-Content", CT, "33 insights", "Insight rewrite: thesis in first line, evidence table, 'what to do Monday' box", "Thought leadership must lead thought", "L")
-add("P1-Content", CT, "Why-Dataq page", "Rewrite around 5 differentiators with proof point each (delivery model, outcome linkage, IP, security, speed)", "Decision-stage page must close", "M")
+add("P1-Content", CT, "Why-Achala page", "Rewrite around 5 differentiators with proof point each (delivery model, outcome linkage, IP, security, speed)", "Decision-stage page must close", "M")
 add("P1-Content", CT, "Our approach", "Method page: 6-step engagement model with entry/exit criteria per step", "Buyers need process certainty", "M")
 add("P1-Content", CT, "About us", "About rewrite: mission, delivery footprint, engineering culture, hiring philosophy", "Company story is flat", "M")
 add("P1-Content", CT, "Patented intelligence", "Rewrite as capability map: 8 families explained in business language, each mapped to services/platforms (indirect, no entity names)", "Turns IP page into sales asset while honoring confidentiality", "M")
@@ -149,7 +149,7 @@ add("P1-UX", UX, "Responsive", "Breakpoint audit: 390/768/1024/1440/1920 — no 
 
 # ══════════════════ P2 — SEO ══════════════════
 SEO = "SEO & Discoverability"
-add("P2-SEO", SEO, "URLs", "Fix /why-dataq-soft/ slug → /why-dataq/ + 301 redirect stub page (13 refs / 12 files)", "Brand-name consistency", "S")
+add("P2-SEO", SEO, "URLs", "Fix /why-achala-soft/ slug → /why-achala/ + 301 redirect stub page (13 refs / 12 files)", "Brand-name consistency", "S")
 add("P2-SEO", SEO, "Sitemap", "Regenerate sitemap.xml with lastmod + priority per template", "Crawl efficiency", "S")
 add("P2-SEO", SEO, "Schema", "Organization + WebSite + SearchAction JSON-LD on homepage", "Rich results", "S")
 add("P2-SEO", SEO, "Schema", "FAQPage schema on 20 top pages with visible FAQ blocks", "SERP real estate", "M")
@@ -197,13 +197,13 @@ add("P3-Charts", CH, "Animation", "Chart entrance choreography + hover crosshair
 
 # ══════════════════ P3 — TRUST / LEGAL / OPS ══════════════════
 TR = "Trust, Legal & Ops"
-add("P3-Trust", TR, "Brand", "Brand-name sweep: 'Dataq Software' everywhere; 'DataQ Soft' zero instances (automated check)", "Naming consistency", "S")
+add("P3-Trust", TR, "Brand", "Brand-name sweep: 'Achala IT Solutions' everywhere; 'Achala IT Solutions' zero instances (automated check)", "Naming consistency", "S")
 add("P3-Trust", TR, "Confidentiality", "Entity-name zero-instance check in CI (repo, content, assets metadata)", "Hard rule: check 100x", "S")
 add("P3-Trust", TR, "Cookie/consent", "Cookie consent banner v2: granular toggles, brand-styled", "Compliance", "S")
 add("P3-Trust", TR, "Policies", "Privacy/terms/accessibility pages: plain-language rewrite", "Trust", "S")
 add("P3-Trust", TR, "Security", "Security headers doc (CSP-safe for static export), HTTPS-only links audit", "Hardening", "S")
-add("P3-Trust", TR, "Deploy", "GitHub Pages validation runbook + www.dataqsoft.com deploy checklist", "Ship reliability", "S")
-add("P3-Trust", TR, "Zip", "Repackage download/DataQ-website-repo.zip after every wave", "Handoff hygiene", "S")
+add("P3-Trust", TR, "Deploy", "GitHub Pages validation runbook + www.achalasolutions.com deploy checklist", "Ship reliability", "S")
+add("P3-Trust", TR, "Zip", "Repackage download/achala-website-repo.zip after every wave", "Handoff hygiene", "S")
 
 # ── Expand: per-page content line items to guarantee 500+ ──
 import glob, os, json as J
@@ -288,7 +288,7 @@ ws.sheet_view.showGridLines = False
 PRIMARY = "18142D"; BRAND = "FE5722"; NEUTRAL_100 = "F7F7F5"; NEUTRAL_200 = "E9E9E8"
 thin = Side(style="thin", color=NEUTRAL_200)
 
-ws["B2"] = "Dataq Software — Website Transformation Backlog (Gate: 500+ Changes)"
+ws["B2"] = "Achala IT Solutions — Website Transformation Backlog (Gate: 500+ Changes)"
 ws["B2"].font = Font(name="Arial", size=16, bold=True, color=PRIMARY)
 ws["B3"] = "Scope: fix images (root cause: placeholder-only visuals), 100X motion upgrade, full content rewrite, layout density, SEO/a11y/perf. Target: from ~20% to ≥50% of expected quality. Generated 2026-11-21."
 ws["B3"].font = Font(name="Arial", size=10, color="8C8A84")
@@ -373,6 +373,6 @@ ws2.column_dimensions["C"].width = 16
 ws2.column_dimensions["D"].width = 60
 
 wb.properties.creator = "Z.ai"
-out = "/home/z/my-project/download/Dataq-website-500plus-change-backlog.xlsx"
+out = "/home/z/my-project/download/Achala-website-500plus-change-backlog.xlsx"
 wb.save(out)
 print("saved:", out, os.path.getsize(out), "bytes")

@@ -1,27 +1,39 @@
 {
  "id": "CO-about",
- "title": "About Dataq Software",
+ "title": "About Achala IT Solutions",
  "url": "/about-us/",
  "template": "company_page",
- "breadcrumb": "About Us > About Dataq Software",
- "seo_title": "About Dataq Software | Dataq Software",
- "meta_description": "Dataq Software is a global IT services and consulting company that builds the AI and data systems enterprises run on — 2,400+ engineers across four delivery cente",
+ "breadcrumb": "About Us > About Achala IT Solutions",
+ "seo_title": "About Achala IT Solutions | AI-First, Platform-Driven Engineering",
+ "meta_description": "Achala IT Solutions Private Limited — founded in 2009 in Hyderabad, an AI-first, platform-driven engineering company with global delivery from India, Germany and Bulgaria. 300+ projects, 95% client retention.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Software is a global IT services and consulting company that builds the AI and data systems enterprises run on — 2,400+ engineers across four delivery centers, eight proprietary platforms in production."
+   "x": "Achala IT Solutions Private Limited, founded in 2009, is a leading AI-first solutions and platform-driven company offering full-cycle software product engineering services. Headquartered in Hyderabad with global presence in Munich and Sofia, we empower Fortune 500 enterprises, SMEs and startups."
   },
   {
    "t": "p",
-   "x": "Dataq Software was founded on a simple observation: enterprises were accumulating AI pilots that never reached production. The gap was rarely model capability; it was the operating machinery around it — data contracts, decision ownership, monitoring and audit. So we built that machinery first: decision hubs with replay, data estates with contracts, agent fleets with policy envelopes, and governance that produces evidence continuously instead of annually."
+   "x": "Achala was built on a simple conviction: industries transform when AI moves out of the lab and into production. That is why our teams own the whole arc — from proof-of-concept to industrialization — across generative AI, ML, data and analytics engineering, quality engineering, connected devices and IoT, design engineering, mobile application development and DevOps."
   },
   {
    "t": "p",
-   "x": "Today Dataq Software is a global IT services and consulting firm with 2,400+ engineers, scientists and domain specialists across four delivery centers, eight proprietary platforms in production with clients, and a portfolio spanning applied AI, agentic automation, data and lakehouse, cybersecurity, cloud and edge, quantum and advanced compute, distributed trust, and IoT and robotics."
+   "x": "Today our platforms run in production where failure is not an option: the EEMS platform handles 50,000+ daily emergency cases across 9 states, our KYC systems verify customers in under 5 minutes, hospital BI deployments at KIMS Hospitals deliver 150+ dashboards, and our telematics work has optimized workforce efficiency by up to 40% for automotive clients."
   },
   {
    "t": "p",
-   "x": "We are deliberately selective. We take engagements where the outcome is measurable, the owner is named, and the controls can be evidenced — because that is the work that pays for itself. Our commercial models can link fees to the metrics we commit to moving; our delivery pods arrive HIPAA-ready, SOC 2-audited and AI-Act-conformant by design."
+   "x": "We are recognized as Innovators in the NASSCOM #AI Game Changers 2021 program and were selected for the first cohort of the Telangana AI Mission (T-AIM) revv-up accelerator. In partnership with Sulzer GmbH — one of the 25 largest IT service providers in the German automotive industry — we operate Achala Sulzer Ltd. in Sofia, offering clients flexible and global shoring models."
+  },
+  {
+   "t": "h2",
+   "x": "Vision and mission"
+  },
+  {
+   "t": "p",
+   "x": "Vision: empowering next-generation businesses to unlock the full potential of the digital landscape through our expertise in data, apps and analytics, supported by cutting-edge technologies like AI, ML, IoT, Cloud and Mobility in the Industry 4.0 era."
+  },
+  {
+   "t": "p",
+   "x": "Mission: to revolutionize the digital landscape through innovative AI-driven solutions and platform-driven services, empowering businesses worldwide to thrive in the age of technology."
   },
   {
    "t": "h2",
@@ -29,7 +41,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Software at a glance",
+   "caption": "Achala IT Solutions at a glance",
    "headers": [
     "Dimension",
     "Detail"
@@ -37,108 +49,133 @@
    "rows": [
     [
      "Founded",
-     "2016, incorporated in the United States"
+     "2009, Hyderabad, India"
     ],
     [
      "People",
-     "2,400+ across US, UK, India and KSA"
+     "300+ employees, including 200+ IT specialists"
     ],
     [
-     "Platforms",
-     "8 proprietary platforms (Nexus, Forge, Swarm, Sentinel, Twinverse, Quanta, Ledger, Compass)"
+     "Global presence",
+     "Hyderabad (HQ) · Munich, Germany · Sofia, Bulgaria"
     ],
     [
-     "Engagements",
-     "350+ delivered across 40+ countries"
+     "Projects",
+     "300+ delivered; 95% client retention"
+    ],
+    [
+     "Flagship platforms",
+     "EEMS, Fleet Management System, KYC Management System, Tele Medicine, BI & Analytics, Token Management, Patient Priority Portal, Driisti Smart Vision Glasses"
+    ],
+    [
+     "Recognitions",
+     "NASSCOM AI Game Changers 2021 (Innovators) · T-AIM first cohort"
     ],
     [
      "Credentials",
-     "SOC 2 Type II, ISO 27001, ISO 9001, GDPR/CCPA aligned, HIPAA-ready pods"
+     "ISO/IEC 27001 · TISAX · GDPR-aligned delivery"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "What we deliberately do not do"
+   "x": "Management team"
+  },
+  {
+   "t": "table",
+   "caption": "Leadership",
+   "headers": [
+    "Name",
+    "Role",
+    "Background"
+   ],
+   "rows": [
+    [
+     "Rajesh Raju",
+     "CEO & Co-Founder",
+     "25+ years in technology and consulting. Founder of Achala IT Solutions in 2009. Bachelors in Mechanical Engineering from IIT Madras; MBA from the University of Chicago Booth. Management consulting experience with Fortune 500 clients across product marketing, new product innovation, M&A and BPO."
+    ],
+    [
+     "Jyotish Vegesna",
+     "COO & Co-Founder",
+     "13+ years in technology, consulting, product development and operations across automotive, fintech and healthcare. Bachelors in Information Technology from SRKR Engineering College. Also COO of Achala Health and Achala Sulzer Ltd."
+    ],
+    [
+     "Venkat Paturu",
+     "Vice President, Software Engineering",
+     "Leads engineering organization and delivery pods."
+    ],
+    [
+     "Sandeep Puli",
+     "Vice President, Product & Startup Management",
+     "Product strategy and startup engagements."
+    ],
+    [
+     "Satish Malla",
+     "Vice President, Human Resources",
+     "People, culture and talent operations."
+    ],
+    [
+     "Srinivas Adur",
+     "Vice President, Quality and Automation",
+     "Quality engineering, test automation and delivery assurance."
+    ],
+    [
+     "Vijay Saradhy Kotra",
+     "Vice President, Product Management (APAC)",
+     "Product management for APAC engagements."
+    ],
+    [
+     "Ankit Gujrati",
+     "Vice President, SAP & Mainframes",
+     "Enterprise core systems and SAP practice."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "How we engage"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "No generic application development",
-     "We do not compete on commodity web and mobile builds — the domains above are the portfolio."
+     "POC to industrialization",
+     "We take AI solutions from proof-of-concept to production-grade platforms — the full arc, not a demo."
     ],
     [
-     "No data as training material",
-     "Zero-exposure architecture by default; client data never trains shared models."
+     "Platform-first delivery",
+     "Flagship platforms — EEMS, FMS, KYC, Tele Medicine, BI — arrive configured, then tailored to your estate."
     ],
     [
-     "No ungated pilots",
-     "Every PoC carries pre-agreed criteria and a documented go/redirect/stop decision."
-    ]
-   ]
-  },
-  {
-   "t": "h2",
-   "x": "Global footprint"
-  },
-  {
-   "t": "table",
-   "caption": "Delivery centers",
-   "headers": [
-    "Location",
-    "City",
-    "Focus",
-    "Address"
-   ],
-   "rows": [
-    [
-     "United States — Global Headquarters",
-     "Tysons Corner, Virginia, USA",
-     "Strategic leadership, board advisory, quantum and advanced compute practices.",
-     ""
+     "Global shoring with Sulzer",
+     "Flexible delivery across Hyderabad, Munich and Sofia under a fair-partnership continuity model."
     ],
     [
-     "United Kingdom — European Hub",
-     "London, United Kingdom",
-     "European delivery, DORA and regulatory programs, financial services practice.",
-     ""
+     "24x7 operations",
+     "Mission-critical systems stay mission-critical: round-the-clock support with audited SLAs."
     ],
     [
-     "India — Global Execution Core",
-     "India — Global Execution Core",
-     "Engineering depth: data, platform, agentic and delivery factories at scale.",
-     ""
-    ],
-    [
-     "Kingdom of Saudi Arabia — Growth Engine",
-     "Riyadh (KAFD), Saudi Arabia",
-     "Vision 2030 programs, sovereign delivery, smart-city and energy practices.",
-     ""
+     "Compliance-ready engineering",
+     "ISO/IEC 27001, TISAX and GDPR-aligned practices built into delivery for automotive and regulated clients."
     ]
    ]
   }
  ],
- "words": 394,
- "section": "Company",
- "l1": "About Us",
- "l2": "About Dataq Software",
- "l3": "",
- "l4": "",
  "crumbs": [
   {
    "name": "About Us",
    "url": "/about-us/"
   },
   {
-   "name": "About Dataq Software",
+   "name": "About Achala IT Solutions",
    "url": "/about-us/"
   }
  ],
  "related": [
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala-soft/",
    "desc": ""
   },
   {
@@ -157,7 +194,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -172,10 +209,14 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }
  ],
+ "words": 417,
+ "section": "Company",
+ "l1": "About Us",
+ "l2": "About Achala IT Solutions",
  "cards": []
 }

@@ -1,15 +1,15 @@
 {
  "id": "PLT-forge-ov",
- "title": "Dataq Forge — Overview",
- "url": "/platforms/forge/",
+ "title": "Fleet Management System — Overview",
+ "url": "/platforms/fms/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Forge > Overview",
- "seo_title": "Dataq Forge — Overview | Dataq Software",
+ "breadcrumb": "Platforms > Fleet Management System > Overview",
+ "seo_title": "Fleet Management System — Overview | Achala IT Solutions",
  "meta_description": "The governed data estate every intelligence program silently depends on.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Forge — Overview delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
+   "x": "Fleet Management System — Overview delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Forge operationalizes the lakehouse: medallion pipelines with data contracts, Unity Catalog-class governance, lineage and freshness SLAs, streaming and batch in one estate, and the AI-ready layer (feature stores, vector search, retrieval services) built on the same governed data. It is the substrate tower made product."
+   "x": "Fleet Management System operationalizes the lakehouse: medallion pipelines with data contracts, Unity Catalog-class governance, lineage and freshness SLAs, streaming and batch in one estate, and the AI-ready layer (feature stores, vector search, retrieval services) built on the same governed data. It is the substrate tower made product."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Forge — control and evidence planes",
+   "title": "Fleet Management System — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Forge — Overview runs on a structure your control owners can interrogate — the decision plane, the evidence plane and the governance plane stay separate in design and reconciled in operation."
+   "x": "Fleet Management System — Overview runs on a structure your control owners can interrogate — the decision plane, the evidence plane and the governance plane stay separate in design and reconciled in operation."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Programs use Dataq Forge — Overview where a decision needs to be current and defensible at once — scored in-flight, logged end to end, and reviewed at the same gates as every other program."
+   "x": "Programs use Fleet Management System — Overview where a decision needs to be current and defensible at once — scored in-flight, logged end to end, and reviewed at the same gates as every other program."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 571,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Forge",
+ "l2": "Fleet Management System",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Forge",
+   "name": "Fleet Management System",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/forge/"
+   "url": "/platforms/fms/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Forge — Overview",
-   "url": "/platforms/forge/",
+   "title": "Fleet Management System — Overview",
+   "url": "/platforms/fms/",
    "desc": "Data & Lakehouse Engineering Platform"
   },
   {
-   "title": "Dataq Forge — Architecture & Trust",
-   "url": "/platforms/forge/architecture/",
+   "title": "Fleet Management System — Architecture & Trust",
+   "url": "/platforms/fms/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Forge — Industry Use Cases",
-   "url": "/platforms/forge/use-cases/",
+   "title": "Fleet Management System — Industry Use Cases",
+   "url": "/platforms/fms/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

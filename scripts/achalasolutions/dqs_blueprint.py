@@ -1,0 +1,302 @@
+# -*- coding: utf-8 -*-
+"""Achala IT Solutions — Website Blueprint JSON generator (feeds the docx renderer)."""
+
+import sys, os, json
+sys.path.insert(0, os.path.dirname(__file__))
+from dqs_ia import PAGES, build_ia, TOWERS, SERVICES, INDUSTRIES, SUBS, VOL_NAMES
+from dqs_data_brand import BRAND
+
+pages = build_ia()
+from collections import Counter, defaultdict
+sec = Counter(p["section"] for p in pages)
+vol_map = defaultdict(list)
+for p in pages:
+    vol_map[p["volume"]].append(p)
+
+templates = Counter(p["template"] for p in pages)
+
+def blocks_ch1():
+    return [
+        {"t": "hero", "x": "This blueprint is the single source of truth for the new Achala IT Solutions website: navigation, information architecture, page templates and the content package behind them."},
+        {"t": "p", "x": "The project rebuilds Achala IT Solutions's web presence from a generalist IT-services site into a Fortune-500-grade deep-tech property. The content foundation was extracted from www.strategemist.com (65 pages across eight platform families and 13 services), then rebuilt and expanded — not copied — into a 602-page architecture spanning 12 industries, 48 sub-industries, 54 deep-tech services, 24 solutions, 8 proprietary platforms, 36 anonymized case studies and a 24-article insights library."},
+        {"t": "h2", "x": "What this package contains"},
+        {"t": "table", "caption": "Deliverable map", "headers": ["Deliverable", "Contents", "How it is used"],
+         "rows": [
+             ["Website Blueprint (this document)", "Navigation spec, IA, template specs, SEO framework, governance", "Read first; the contract between brand, content and build"],
+             ["Page Inventory (Excel)", "602 rows: menu levels, URL paths, templates, SEO titles, metas, volumes, priorities", "The build backlog — hand to designers/developers as the page list"],
+             ["Content Volumes V01–V11 (Word)", "Full copy for every page: blocks, headings, bullets, tables, CTAs", "Copy-and-build reference; each page shows its metadata box"],
+         ]},
+        {"t": "h2", "x": "How to use this package"},
+        {"t": "p", "x": "Designers: Volume pages are ordered exactly like the sitemap; each page opens with a metadata box (URL, breadcrumb, SEO fields). Developers: the URL Path column in the inventory is the routing contract; template names map 1:1 to the templates in Chapter 5. Editors: every 【…】 placeholder is information only the company can supply — a consolidated checklist lives in Chapter 8."},
+        {"t": "h2", "x": "Source policy"},
+        {"t": "p", "x": "Strategemist's deep-tech voice — patent-backed platforms, outcome-linked engagements, zero-exposure security — is preserved as a family resemblance, but every sentence in this package was rebuilt for Achala IT Solutions's positioning. No paragraph was carried over verbatim. Where Strategemist offered one proof style (anonymized outcomes), this package industrializes it: 36 case skeletons, committed outcome ranges per service, and regulatory context per industry."},
+    ]
+
+def blocks_ch2():
+    return [
+        {"t": "hero", "x": BRAND["positioning"]},
+        {"t": "h2", "x": "Positioning statement"},
+        {"t": "p", "x": BRAND["positioning"]},
+        {"t": "h2", "x": "Tagline and promise"},
+        {"t": "bullets", "items": [["Tagline", BRAND["tagline"]], ["Promise", BRAND["promise"]]]},
+        {"t": "h2", "x": "Voice and tone"},
+        {"t": "bullets", "items": [
+            ["Direct, evidence-led", "short declarative sentences; claims carry numbers, artifacts or named regimes"],
+            ["Senior-to-senior", "write for the CIO's chief of staff, not for a student; explain a term the first time it appears"],
+            ["Zero hype", "'cutting-edge', 'best-in-class' and similar phrases are banned; specificity replaces them"],
+            ["Audit-first", "every page answers the auditor's question — where did this number come from, who owns this control"],
+        ]},
+        {"t": "h2", "x": "Claims and credentials"},
+        {"t": "table", "caption": "Proof bar (marketing claims — validate before publication)",
+         "headers": ["Claim", "Meaning"], "rows": [[a, b] for a, b in BRAND["proof_bar"]]},
+        {"t": "p", "x": "Credentials referenced across the site: " + ", ".join(BRAND["credentials"]) + ". These are positioning claims, not certifications: before launch, legal must confirm each one is accurate and evidenced."},
+        {"t": "h2", "x": "Terminology standards"},
+        {"t": "bullets", "items": [
+            ["Towers, not categories", "the eight capability stacks are 'towers' everywhere on the site"],
+            ["Capability pages", "a tower applied to an industry or sub-industry — never 'industry solutions' (reserved for Solutions section)"],
+            ["Engagement, not project", "client work is an 'engagement' with a named pod, gate and baseline"],
+            ["Platforms are products", "always 'Achala Nexus' style — the platform name carries the Achala prefix"],
+        ]},
+    ]
+
+def blocks_ch3():
+    tree_rows = [
+        ["Home", "1", "/", "Brand hero, towers, platforms, proof bar, method, CTA"],
+        ["Services", "63", "/services/…", "1 hub · 8 tower hubs · 54 service pages"],
+        ["Industries", "397", "/industries/…", "1 hub · 12 industry hubs · 48 sub-industries · 96 industry capability pages · 240 sub-industry capability pages"],
+        ["Solutions", "25", "/solutions/…", "1 hub · 24 outcome-based solutions in 4 categories"],
+        ["Platforms", "25", "/platforms/…", "1 hub · 8 platforms × (Overview, Architecture & Trust, Industry Use Cases)"],
+        ["Case Studies", "37", "/case-studies/…", "1 hub · 36 anonymized engagements across 12 industries"],
+        ["Company", "8", "/about-us/ …", "About, Edge, Leadership, Offices, Values, Careers, Newsroom, Partners"],
+        ["Approach", "4", "/our-approach/…", "Method, Outcome-Linked Engagements, Responsible AI, Delivery Model"],
+        ["Insights", "33", "/insights/…", "1 hub · 8 tower categories · 24 articles"],
+        ["Contact & Legal", "9", "/contact/ …", "Contact, Briefing, Assessment · Privacy, Terms, Cookies, Accessibility, Sitemap, Status"],
+    ]
+    return [
+        {"t": "hero", "x": "602 pages, four navigation levels, one URL taxonomy — the entire site fits in this chapter."},
+        {"t": "h2", "x": "Architecture at a glance"},
+        {"t": "table", "caption": "Sections and page counts", "headers": ["Section", "Pages", "URL root", "Composition"],
+         "rows": tree_rows},
+        {"t": "h2", "x": "The three-layer industry architecture"},
+        {"t": "p", "x": "Industries are the largest section by design (397 pages). The structure is deliberately three-layered, mirroring how enterprise buyers actually search and decide:"},
+        {"t": "bullets", "items": [
+            ["Layer 1 — Industry hubs (12)", "the sector's operating picture: pressures, regulatory posture, priority programs, proof"],
+            ["Layer 2 — Sub-industry pages (48)", "the operating units (payments, prior authorization, cold chain, smart cities) with their own workflows, regimes and KPIs"],
+            ["Layer 3 — Capability pages (336)", "a tower applied to the sector: 96 at industry level (12 × 8 towers) and 240 at sub-industry level (48 × 5 priority towers)"],
+        ]},
+        {"t": "h2", "x": "URL taxonomy"},
+        {"t": "table", "caption": "URL patterns (the routing contract)",
+         "headers": ["Page type", "Pattern", "Example"],
+         "rows": [
+             ["Tower", "/services/{tower-slug}/", "/services/applied-ai-generative-ai/"],
+             ["Service", "/services/{tower-slug}/{service-id}/", "/services/applied-ai-generative-ai/llm-fine-tuning-ops/"],
+             ["Industry hub", "/industries/{industry-slug}/", "/industries/banking-financial-services/"],
+             ["Sub-industry", "/industries/{industry-slug}/{sub-slug}/", "/industries/banking-financial-services/payments-cards/"],
+             ["Industry capability", "/industries/{industry-slug}/capabilities/{tower-slug}/", "/industries/banking-financial-services/capabilities/agentic-ai-hyperautomation/"],
+             ["Sub-industry capability", "/industries/{industry-slug}/{sub-slug}/capabilities/{tower-slug}/", "/industries/banking-financial-services/payments-cards/capabilities/cybersecurity-zero-trust/"],
+             ["Solution", "/solutions/{solution-id}/", "/solutions/fraud-decisioning/"],
+             ["Platform", "/platforms/{platform-slug}/{overview|architecture|use-cases}/", "/platforms/achala-nexus/architecture/"],
+             ["Case study", "/case-studies/{case-id}/", "/case-studies/bank-01/"],
+             ["Insight article", "/insights/{article-slug}/", "/insights/insight-ins-01/"],
+         ]},
+        {"t": "note", "x": "Slugs are stable identifiers — do not change them after the sitemap is frozen; redirects are not included in this package."},
+    ]
+
+def blocks_ch4():
+    return [
+        {"t": "hero", "x": "Primary navigation, mega menus, footer and breadcrumbs — specified for implementation."},
+        {"t": "h2", "x": "Primary navigation (desktop)"},
+        {"t": "table", "caption": "Primary nav items and behavior", "headers": ["Item", "Type", "Mega-menu contents"],
+         "rows": [
+             ["Services", "Mega menu", "8 tower columns; each column lists its 6-7 services; column head links to tower hub"],
+             ["Industries", "Mega menu", "12 industry columns; each flyout: 4 sub-industries + 'Capabilities' grid linking to the 8 industry capability pages"],
+             ["Solutions", "Mega menu", "4 category columns (Growth & Revenue, Risk & Resilience, Operational Excellence, Workforce & Experience); each lists its 6 solutions"],
+             ["Platforms", "Mega menu", "8 platform columns; each flyout: Overview · Architecture & Trust · Industry Use Cases"],
+             ["Case Studies", "Drop-down", "Featured 3 + filter list by industry"],
+             ["Insights", "Mega menu", "8 tower categories"],
+             ["About Us", "Drop-down", "About Achala IT Solutions · Why Achala IT Solutions · Our Approach (4 items) · Leadership · Global Offices · Values & Culture · Careers · Newsroom · Partner Ecosystem"],
+             ["Contact", "CTA button", "Button label 'Book a Briefing' → /book-a-briefing/; contact page in footer"],
+         ]},
+        {"t": "h2", "x": "Mega-menu interaction rules"},
+        {"t": "bullets", "items": [
+            ["Open on hover (desktop) / tap (mobile)", "keyboard accessible; Escape closes; focus trapped inside the panel"],
+            ["Column headers are links", "tower/industry/category names link to their hub pages"],
+            ["Capability links are grouped", "inside an industry flyout, the 8 capability links sit in a two-column grid under a 'Capabilities' subhead"],
+            ["Mobile pattern", "accordions; L2 accordions nest L3 links; the Contact CTA stays pinned in the sticky bar"],
+        ]},
+        {"t": "h2", "x": "Breadcrumb and page headers"},
+        {"t": "p", "x": "Breadcrumbs follow the menu path (Home > Industries > Banking & Financial Services > Payments & Cards > Cybersecurity & Zero-Trust). Every capability and sub-industry page shows the breadcrumb plus two cross-links: the parent hub and the sibling capabilities grid."},
+        {"t": "h2", "x": "Footer navigation"},
+        {"t": "table", "caption": "Footer columns", "headers": ["Column", "Links"],
+         "rows": [
+             ["Services", "the 8 tower hubs"],
+             ["Industries", "the 12 industry hubs"],
+             ["Platforms", "the 8 platform overview pages"],
+             ["Company", "About · Why Achala IT Solutions · Our Approach · Leadership · Global Offices · Values & Culture · Careers · Newsroom · Partner Ecosystem"],
+             ["Legal & utility", "Contact · Privacy Policy · Terms of Use · Cookie Policy · Accessibility Statement · Sitemap · Platform Status"],
+         ]},
+        {"t": "h2", "x": "Internal linking rules"},
+        {"t": "bullets", "items": [
+            ["Capability pages link up", "to the industry hub and to each referenced service page"],
+            ["Service pages link across", "to 3 sibling services and down to anchor industries"],
+            ["Case studies link to patterns", "two adjacent-sector cases and the platforms used"],
+            ["Insights link to services", "every article closes with the two services that deliver its pattern"],
+        ]},
+    ]
+
+def blocks_ch5():
+    rows = [
+        ["home", "Home", "Hero (positioning) · 8-tower grid · platform strip · industries strip · proof-bar table · method summary · credentials · CTA", "900"],
+        ["services_hub", "Services hub", "Hero · tower list · tower-map table · engagement model · governance · CTA", "850"],
+        ["tower_hub", "Tower hub", "Hero (tagline) · definition · why-now · service list · platforms · outcomes · industries · CTA", "850"],
+        ["service_page", "Service page", "Hero (promise) · overview · delivery · capabilities · deliverables · stack · outcomes · first-90-days · related · applies · CTA", "700"],
+        ["industries_hub", "Industries hub", "Hero · industry table · architecture explainer · compliance posture · CTA", "650"],
+        ["industry_hub", "Industry hub", "Hero (tagline) · three authored intros · pressure points · regime table · priorities · proof · capability links · KPIs · CTA", "950"],
+        ["subindustry_page", "Sub-industry page", "Hero (intro) · workflows · pressure points · regime table · five priority capabilities · outcomes · engagement · proof · adjacent · CTA", "700"],
+        ["industry_capability", "Industry capability", "Hero · why-here · pressure points · delivery pattern · service list · use cases · outcomes · governance note · CTA", "700"],
+        ["sub_capability", "Sub-industry capability", "Hero · context · break-points · delivery · services · use case · compliance table · industry echo · outcomes · CTA", "620"],
+        ["solution_page", "Solution page", "Hero (promise) · problem · approach · components · platform stack · engagement · deliverables · prerequisites · proof · industry fit · outcomes · CTA", "650"],
+        ["platforms_hub", "Platforms hub", "Hero · portfolio bullets · usage explainer · platform map table · CTA", "700"],
+        ["platform_overview", "Platform overview", "Hero (promise) · what-it-is · operation · modules · trust · business change · usage · integrations · deployments · CTA", "700"],
+        ["platform_architecture", "Platform architecture", "Hero · reference planes · security posture · trust controls · compliance mapping · performance · deployment models · integration · CTA", "620"],
+        ["platform_usecases", "Platform use cases", "Hero · industry pattern table · rollout · operator story · integration · programs · CTA", "620"],
+        ["cases_hub", "Case-studies hub", "Hero · full 36-case table · CTA", "550"],
+        ["case_study", "Case study", "Hero (headline) · client profile · challenge · build · delivery pattern · adjacent sectors · stack · outcomes table · facts table · transfer notes · CTA", "600"],
+        ["company_page", "Company page", "Per-page authored: hero · paragraphs · tables/bullets (facts, offices, roles, values…)", "550"],
+        ["approach_page", "Approach page", "Hero · explainer · model/phase tables · selection or conformity guides · in-practice proof · CTA", "600"],
+        ["contact_page", "Contact page", "Hero · paragraphs · regional table · next-steps or session-run bullets · FAQ · CTA", "420"],
+        ["legal_page", "Legal page", "Hero · template paragraph · document-control bullets · counsel note", "380"],
+        ["insights_hub", "Insights hub", "Hero · positioning paragraphs · categories · CTA", "500"],
+        ["insights_category", "Insights category", "Hero · publishes-what · articles · cadence · key questions · CTA", "420"],
+        ["insight_article", "Insight article", "Hero (thesis) · argument · three points · vendor questions · failure modes · response · the number · service links · CTA", "500"],
+    ]
+    return [
+        {"t": "hero", "x": "23 templates cover all 602 pages. Each template is a fixed block recipe — designers design blocks once, content fills them."},
+        {"t": "h2", "x": "Template specifications"},
+        {"t": "table", "caption": "Template catalog (block order = rendering order)", "headers": ["Template", "Used for", "Block recipe (in order)", "Words"],
+         "rows": rows},
+        {"t": "h2", "x": "Design notes per block type"},
+        {"t": "bullets", "items": [
+            ["Hero", "the page's promise line — set 20-28px, accent-colored left border, no image required"],
+            ["Bullets", "label-bold pattern ('Label — description'); icons optional, never required"],
+            ["Tables", "regime tables, outcome tables and proof-bar tables render as styled HTML tables; header row uses the primary brand color"],
+            ["CTA", "one primary CTA per page; button label derives from the CTA text's first clause"],
+            ["Note", "small print — confidentiality and legal-review notices; 12px muted"],
+        ]},
+    ]
+
+def blocks_ch6():
+    return [
+        {"t": "hero", "x": "SEO fields are pre-written for all 602 pages — title ≤ 60 characters, meta ≤ 155."},
+        {"t": "h2", "x": "Rules applied across the inventory"},
+        {"t": "bullets", "items": [
+            ["Title pattern", "'{Page} | {Context} | Achala IT Solutions' — context is the tower, industry or section name"],
+            ["Meta pattern", "the page's promise/tagline compressed to ≤ 155 characters, ending with an action or outcome"],
+            ["H1 discipline", "one H1 per page = the Page Title column; H2s come from the content blocks; H3s inside long sections"],
+            ["URL discipline", "slugs are the identifiers in the inventory; no date or number fragments in evergreen URLs"],
+            ["Internal links", "every capability page links to its services and industry hub — crawl depth ≤ 4 from home"],
+        ]},
+        {"t": "h2", "x": "Examples from the inventory"},
+        {"t": "table", "caption": "Sample SEO rows (of 602)", "headers": ["Page", "SEO Title", "Meta Description"],
+         "rows": [
+             ["Service — LLM Fine-Tuning & Model Operations", "LLM Fine-Tuning & Model Operations | Applied AI & GenAI | Data…", "Own your models — tune, distill and operate LLMs with measurable quality, controlled cost and enforceable policy."],
+             ["Industry capability — Agentic AI for Banking", "Agentic AI & Hyperautomation for Banking & Financia…", "How Achala IT Solutions applies Agentic AI & Hyperautomation in Banking & Financial Services: Real-time risk, resilient operations…"],
+             ["Platform — Achala Nexus Architecture", "Achala Nexus Architecture | Security & Trust | Da…", "Architecture, security posture and compliance evidence for Achala Nexus — Decision Intelligence Hub from Achala IT Solutions."],
+         ]},
+        {"t": "h2", "x": "Structured data and technical notes"},
+        {"t": "bullets", "items": [
+            ["Organization schema", "on all pages: legal name, logo, sameAs (social), contact points per office"],
+            ["Service schema", "on the 54 service pages with areaServed and provider"],
+            ["Article schema", "on 24 insight articles with author = practice name"],
+            ["Breadcrumb schema", "on every page below the home level"],
+            ["Sitemaps", "XML sitemap generated from the inventory; the /html-sitemap/ page mirrors it for humans"],
+        ]},
+    ]
+
+def blocks_ch7():
+    rows = []
+    for v in sorted(vol_map):
+        ps = vol_map[v]
+        sections = Counter(p["section"] for p in ps)
+        comp = ", ".join(f"{k} ({n})" for k, n in sections.most_common())
+        rows.append([VOL_NAMES[v].split("—")[0].strip(), VOL_NAMES[v].split("—", 1)[1].strip(),
+                     str(len(ps)), comp[:150]])
+    return [
+        {"t": "hero", "x": "Eleven Word volumes carry the full copy for all 602 pages — ordered exactly like the sitemap."},
+        {"t": "h2", "x": "The volume index"},
+        {"t": "table", "caption": "Content volumes", "headers": ["Volume", "Title", "Pages", "Contents"],
+         "rows": rows},
+        {"t": "h2", "x": "Volume conventions"},
+        {"t": "bullets", "items": [
+            ["Page unit", "each web page starts on a fresh document page with an H1 and a metadata box"],
+            ["Metadata box", "URL path, breadcrumb, SEO title, meta description, template, draft word count"],
+            ["Block order", "blocks render exactly in the order they appear — the design system maps each block type"],
+            ["Volumes are separable", "teams can work in parallel: V06/V07 (capability pages) have no dependency on V08/V09"],
+        ]},
+    ]
+
+def blocks_ch8():
+    return [
+        {"t": "hero", "x": "What must be filled, decided and reviewed before launch — in one checklist."},
+        {"t": "h2", "x": "Placeholder checklist (fill before build freeze)"},
+        {"t": "table", "caption": "【…】 placeholders by area", "headers": ["Area", "Placeholder", "Owner"],
+         "rows": [
+             ["Global offices", "Street addresses for Tysons Corner, London, Hyderabad, Riyadh", "Operations"],
+             ["Leadership", "Executive names and bios (8 roles)", "Communications"],
+             ["Contact", "Contact, press, careers emails; switchboard phone; careers portal link", "Marketing"],
+             ["Legal", "Privacy, Terms, Cookies text per jurisdiction; document-control owners and dates", "Legal"],
+             ["Newsroom", "First three news entries; media kit link", "Communications"],
+             ["Partners", "Named partners per tier", "Alliances"],
+             ["Claims", "Proof-bar figures and credential list — legal validation", "Legal + Marketing"],
+         ]},
+        {"t": "h2", "x": "Review workflow"},
+        {"t": "bullets", "items": [
+            ["Step 1 — Content review", "practice leads review their towers/industries for accuracy (2 weeks)"],
+            ["Step 2 — Legal review", "claims, credentials and legal-page templates (2 weeks, parallel)"],
+            ["Step 3 — Design build", "23 templates against the block recipes (Chapter 5)"],
+            ["Step 4 — Content load", "inventory drives CMS page creation; volumes are the copy source"],
+            ["Step 5 — SEO validation", "titles/metas from the inventory; schema per Chapter 6; sitemap generation"],
+        ]},
+        {"t": "h2", "x": "Phase-2 backlog (post-launch)"},
+        {"t": "bullets", "items": [
+            ["Localization", "Arabic (KSA), Hindi — the IA is locale-ready; slugs stay English"],
+            ["Insights expansion", "8 more articles per tower; author pages"],
+            ["Interactive elements", "ROI calculators per solution; maturity self-assessment"],
+            ["Client portal teasers", "gated evidence packs under NDA flows"],
+            ["Case-study deepening", "full-length versions with client quotes once approvals land"],
+        ]},
+        {"t": "note", "x": "Companion files: Achala_Soft_Page_Inventory.xlsx (the 602-row backlog) and Content_Volumes/V01–V11 (the copy). This blueprint is the contract between them."},
+    ]
+
+
+blueprint_pages = [
+    ("1. Project Overview", blocks_ch1()),
+    ("2. Brand & Positioning Platform", blocks_ch2()),
+    ("3. Global Information Architecture", blocks_ch3()),
+    ("4. Navigation Specification", blocks_ch4()),
+    ("5. Page Template Specifications", blocks_ch5()),
+    ("6. SEO & Metadata Framework", blocks_ch6()),
+    ("7. Content Volume Index", blocks_ch7()),
+    ("8. Governance & Next Steps", blocks_ch8()),
+]
+
+doc = {
+    "volume": "BLUEPRINT",
+    "volume_title": "Achala IT Solutions Website Blueprint — Information Architecture, Navigation & Content Specification",
+    "toc_range": "1-2",
+    "cover": {
+        "label": "ACHALA SOFT",
+        "title": "Website Blueprint — Information Architecture, Navigation & Content Specification",
+        "subtitle": "The single source of truth for www.achalasolutions.com — 602 pages, 23 templates, 11 content volumes",
+        "metaLines": ["Prepared for the web design & development team", "602 pages · 12 industries · 8 platforms · 54 services",
+                      "Source: rebuilt & expanded from strategemist.com", "November 2026"],
+        "footerLeft": "Achala IT Solutions Corporation",
+        "footerRight": "Confidential — working document",
+    },
+    "pages": [{"id": f"BP-{i}", "title": t, "blocks": b, "words": 0,
+               "seo_title": "", "meta_description": "", "url": "", "breadcrumb": "", "template": "blueprint"}
+              for i, (t, b) in enumerate(blueprint_pages, 1)],
+}
+with open(os.path.join(os.path.dirname(__file__), "out", "BLUEPRINT.json"), "w", encoding="utf-8") as f:
+    json.dump(doc, f, ensure_ascii=False, indent=1)
+print("BLUEPRINT.json written:", len(blueprint_pages), "chapters")

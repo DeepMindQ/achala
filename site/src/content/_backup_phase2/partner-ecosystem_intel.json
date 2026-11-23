@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/intel/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Intel",
- "seo_title": "Intel Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Intel: Edge silicon, confidential computing and cost-efficient AI.",
+ "seo_title": "Intel Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Intel: Edge silicon, confidential computing and cost-efficient AI.",
  "words": 413,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Intel: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Intel: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Intel — joint delivery topology with Dataq Software",
+   "title": "Intel — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",

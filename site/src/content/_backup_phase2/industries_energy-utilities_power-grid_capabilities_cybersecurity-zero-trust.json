@@ -4,12 +4,12 @@
  "url": "/industries/energy-utilities/power-grid/capabilities/cybersecurity-zero-trust/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > Cybersecurity & Zero-Trust",
- "seo_title": "Cyber & Zero-Trust for Power Generation & Grid | Dataq Software",
- "meta_description": "Cyber & Zero-Trust for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Cyber & Zero-Trust for Power Generation & Grid | Achala IT Solutions",
+ "meta_description": "Cyber & Zero-Trust for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Cyber & Zero-Trust for Power Generation & Grid: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Cyber & Zero-Trust for Power Generation & Grid: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -74,11 +74,11 @@
    "items": [
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Threat Intelligence & Managed SOC",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

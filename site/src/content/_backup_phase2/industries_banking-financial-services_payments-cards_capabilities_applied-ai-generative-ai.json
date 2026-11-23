@@ -4,8 +4,8 @@
  "url": "/industries/banking-financial-services/payments-cards/capabilities/applied-ai-generative-ai/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Payments & Cards > Applied AI & Generative AI",
- "seo_title": "Applied AI & GenAI for Payments & Cards | Dataq Software",
- "meta_description": "Applied AI & GenAI for Payments & Cards: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Applied AI & GenAI for Payments & Cards | Achala IT Solutions",
+ "meta_description": "Applied AI & GenAI for Payments & Cards: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -78,7 +78,7 @@
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "What LLM Fine-Tuning & Model Operations means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What LLM Fine-Tuning & Model Operations means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "RAG & Enterprise Knowledge Systems",
@@ -218,7 +218,7 @@
   },
   {
    "t": "p",
-   "x": "Applied AI & GenAI for Payments & Cards follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Applied AI & GenAI for Payments & Cards follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

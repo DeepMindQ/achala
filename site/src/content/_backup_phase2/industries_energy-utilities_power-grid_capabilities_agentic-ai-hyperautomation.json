@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Power Generation & Grid",
- "meta_description": "Agentic AI & Hyperautomation for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Agentic AI & Hyperautomation for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Agentic AI & Hyperautomation for Power Generation & Grid means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per feeder outcomes measured against your audited baseline."
+   "x": "What Agentic AI & Hyperautomation for Power Generation & Grid means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per feeder outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Process & Task Mining",
-     "What Process & Task Mining means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
+     "What Process & Task Mining means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
     ],
     [
      "Hyperautomation & Systems Integration",
@@ -82,7 +82,7 @@
     ],
     [
      "Autonomous Workflow Orchestration",
-     "The Dataq Software build of Autonomous Workflow Orchestration: concrete interfaces at core systems, measured movement on workflow completion rate."
+     "The Achala IT Solutions build of Autonomous Workflow Orchestration: concrete interfaces at core systems, measured movement on workflow completion rate."
     ]
    ]
   },
@@ -218,7 +218,7 @@
   },
   {
    "t": "p",
-   "x": "Agentic AI & Hyperautomation for Power Generation & Grid follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Agentic AI & Hyperautomation for Power Generation & Grid follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

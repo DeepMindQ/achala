@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Hospitals & Provider Networks > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Hospitals & Provider Networks",
- "meta_description": "IoT, Twin & Robotics for Hospitals & Provider Networks: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "IoT, Twin & Robotics for Hospitals & Provider Networks: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of IoT, Twin & Robotics for Hospitals & Provider Networks: concrete interfaces at EHR integration, measured movement on Documentation time per clinician, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of IoT, Twin & Robotics for Hospitals & Provider Networks: concrete interfaces at EHR integration, measured movement on Documentation time per clinician, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Robotics & Autonomous Systems Integration",
-     "What Robotics & Autonomous Systems Integration means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated."
+     "What Robotics & Autonomous Systems Integration means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated."
     ],
     [
      "Connected Products & Smart Devices",
@@ -82,7 +82,7 @@
     ],
     [
      "Smart Infrastructure, Buildings & Cities",
-     "What Smart Infrastructure, Buildings & Cities means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Smart Infrastructure, Buildings & Cities means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ]
    ]
   },

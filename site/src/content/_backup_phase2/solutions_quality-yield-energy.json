@@ -4,7 +4,7 @@
  "url": "/solutions/quality-yield-energy/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Quality, Yield & Energy Intelligence",
- "seo_title": "Quality, Yield & Energy Intelligence | Solution | Dataq Software",
+ "seo_title": "Quality, Yield & Energy Intelligence | Solution | Achala IT Solutions",
  "meta_description": "Quality, Yield & Energy Intelligence — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -84,7 +84,7 @@
   },
   {
    "t": "p",
-   "x": "The solution runs on Dataq Twinverse and Dataq Forge: Sensor data feeds a living model of your plant, fleet or field estate, and the model drives action. The governed data estate every AI program needs."
+   "x": "The solution runs on BI & Analytics Platform and Fleet Management System: Sensor data feeds a living model of your plant, fleet or field estate, and the model drives action. The governed data estate every AI program needs."
   },
   {
    "t": "h2",
@@ -295,7 +295,7 @@
    "items": [
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ],
     [
      "Telecom, Media & Entertainment",

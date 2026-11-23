@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/google-cloud/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Google Cloud",
- "seo_title": "Google Cloud Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Google Cloud: Analytics, AI and multi-cloud data platforms on Google Cloud.",
+ "seo_title": "Google Cloud Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Google Cloud: Analytics, AI and multi-cloud data platforms on Google Cloud.",
  "words": 353,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Google Cloud: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Google Cloud: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Google Cloud — joint delivery topology with Dataq Software",
+   "title": "Google Cloud — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",

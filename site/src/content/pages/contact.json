@@ -1,89 +1,105 @@
 {
- "id": "CT-contact",
- "title": "Contact Dataq Software",
+ "id": "CO-contact",
+ "title": "Contact Achala IT Solutions",
  "url": "/contact/",
  "template": "contact_page",
- "breadcrumb": "Contact > Contact Dataq Software",
- "seo_title": "Contact Dataq Software | Dataq Software",
- "meta_description": "Engage Dataq Software: executive briefings, value assessments and practice-lead responses within one business day.",
+ "breadcrumb": "Contact > Contact Achala IT Solutions",
+ "seo_title": "Contact Achala IT Solutions | Hyderabad · Munich · Sofia",
+ "meta_description": "Reach Achala IT Solutions: +91 7337444922, info@achalasolutions.com. Offices in Hyderabad (India), Munich (Germany) and Sofia (Bulgaria).",
  "blocks": [
   {
    "t": "hero",
-   "x": "Tell us the metric you need to move and the constraint you operate under — regulatory, security, capital."
-  },
-  {
-   "t": "p",
-   "x": "Tell us the metric you need to move and the constraint you operate under — regulatory, security, capital. A practice lead (not a call center) responds within one business day with the relevant domain pod."
-  },
-  {
-   "t": "p",
-   "x": "General inquiries: info@dataqsoft.com · Press: press@dataqsoft.com · Careers: careers@dataqsoft.com. Offices in the US (Tysons Corner), UK (London), India (global execution core) and KSA (Riyadh)."
+   "x": "Tell us what you are building. A practice lead — not a call-center — replies with the fastest path from POC to production."
   },
   {
    "t": "h2",
-   "x": "Regional practice leads"
+   "x": "Offices"
   },
   {
    "t": "table",
-   "caption": "Where to reach us",
+   "caption": "Achala IT Solutions locations",
    "headers": [
-    "Center",
-    "City",
-    "Practice focus"
+    "Office",
+    "Address"
    ],
    "rows": [
     [
-     "United States — Global Headquarters",
-     "Tysons Corner, Virginia, USA",
-     "Strategic leadership, board advisory, quantum and advanced compute practices."
+     "India — Headquarters",
+     "Achala IT Solutions Private Limited, Floor 10, 285 FD by Phoenix, Financial District, Nanakramguda, Hyderabad, Telangana 500089"
     ],
     [
-     "United Kingdom — European Hub",
-     "London, United Kingdom",
-     "European delivery, DORA and regulatory programs, financial services practice."
+     "India — Registered office",
+     "Achala IT Solutions Private Limited, 3rd Floor, Plot No 342 & 343, Road Number 7, Kakateeya Hills, Hyderabad, Telangana 500081"
     ],
     [
-     "India — Global Execution Core",
-     "India — Global Execution Core",
-     "Engineering depth: data, platform, agentic and delivery factories at scale."
+     "Germany",
+     "Achala GmbH, C/O Sulzer GmbH, Frankfurter Ring 162, 80807 Munich, Germany"
     ],
     [
-     "Kingdom of Saudi Arabia — Growth Engine",
-     "Riyadh (KAFD), Saudi Arabia",
-     "Vision 2030 programs, sovereign delivery, smart-city and energy practices."
+     "Bulgaria",
+     "Achala Sulzer Ltd., MHQ Building, 115 Tsarigradsko Shose Blvd, Floor 3, Sofia 1784, Bulgaria"
     ]
    ]
   },
   {
    "t": "h2",
-   "x": "What happens next"
+   "x": "Talk to us"
   },
   {
    "t": "bullets",
    "items": [
     [
-     "Within one business day",
-     "A practice lead (not a call center) responds with the relevant domain pod."
+     "Inquiries",
+     "+91 7337444922"
     ],
     [
-     "Within one week",
-     "A 45-minute working session: your metric, our pattern library, three reference engagements."
+     "Human resources",
+     "+91 9030015539"
     ],
     [
-     "Within one month",
-     "If it fits, a Value Assessment proposal: six weeks to a capital-committee-grade roadmap."
+     "Email",
+     "info@achalasolutions.com"
+    ],
+    [
+     "Achala Sulzer",
+     "info@achalasulzer.eu"
     ]
    ]
   },
   {
-   "t": "cta",
-   "x": "Book a briefing — or request the Value Assessment directly."
+   "t": "h2",
+   "x": "Follow Achala"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "LinkedIn",
+     "https://www.linkedin.com/company/achala-it-solutions-pvt-ltd/"
+    ],
+    [
+     "Facebook",
+     "https://www.facebook.com/Achala-it-Solutions-Pvt-Ltd-2009-100557234648701/"
+    ],
+    [
+     "X (Twitter)",
+     "https://twitter.com/AchalaIt"
+    ],
+    [
+     "Instagram",
+     "https://www.instagram.com/achala_itsolutions/"
+    ]
+   ]
+  },
+  {
+   "t": "p",
+   "x": "Prefer email? Write to info@achalasolutions.com and a practice lead will respond within one business day. For partnership and press queries, use the same address with the subject line you prefer — we route it internally."
   }
  ],
  "words": 220,
  "section": "Contact & Legal",
  "l1": "Contact",
- "l2": "Contact Dataq Software",
+ "l2": "Contact Achala IT Solutions",
  "l3": "",
  "l4": "",
  "crumbs": [
@@ -92,7 +108,7 @@
    "url": null
   },
   {
-   "name": "Contact Dataq Software",
+   "name": "Contact Achala IT Solutions",
    "url": "/contact/"
   }
  ],

@@ -1,22 +1,22 @@
 {
  "id": "news-hyperautomation-swarm-release",
- "title": "Dataq Swarm release adds governed agent fleets at enterprise scale",
+ "title": "KYC Management System release adds governed agent fleets at enterprise scale",
  "url": "/newsroom/hyperautomation-swarm-release/",
  "template": "newsroom_article",
- "breadcrumb": "Home > About Us > Newsroom > Dataq Swarm release adds governed agent fleets at enterprise scale",
- "seo_title": "Dataq Swarm release adds governed agent fleets at…",
+ "breadcrumb": "Home > About Us > Newsroom > KYC Management System release adds governed agent fleets at enterprise scale",
+ "seo_title": "KYC Management System release adds governed agent fleets at…",
  "meta_description": "The agentic-automation platform's latest release introduces fleet budgets, authority gates and cross-agent replay as standard controls.",
  "words": 218,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
- "l3": "Dataq Swarm release adds governed agent fleets at enterprise scale",
+ "l3": "KYC Management System release adds governed agent fleets at enterprise scale",
  "l4": "",
  "published": "2026-08-12",
  "blocks": [
   {
    "t": "hero",
-   "x": "Company release from Dataq Software: Dataq Swarm release adds governed agent fleets at enterprise scale. What shipped, why now, and what it means for active engagements."
+   "x": "Company release from Achala IT Solutions: KYC Management System release adds governed agent fleets at enterprise scale. What shipped, why now, and what it means for active engagements."
   },
   {
    "t": "h2",
@@ -32,11 +32,11 @@
   },
   {
    "t": "p",
-   "x": "Dataq Swarm release adds governed agent fleets at enterprise scale matters where it sits — on the path between a signal and an action. Programs on decision paths pay back measurably; programs on reporting paths usually do not."
+   "x": "KYC Management System release adds governed agent fleets at enterprise scale matters where it sits — on the path between a signal and an action. Programs on decision paths pay back measurably; programs on reporting paths usually do not."
   },
   {
    "t": "p",
-   "x": "Dataq Swarm release adds governed agent fleets at enterprise scale matters where it sits — on the path between a signal and an action. Programs on decision paths pay back measurably; programs on reporting paths usually do not."
+   "x": "KYC Management System release adds governed agent fleets at enterprise scale matters where it sits — on the path between a signal and an action. Programs on decision paths pay back measurably; programs on reporting paths usually do not."
   },
   {
    "t": "h2",
@@ -86,7 +86,7 @@
    "url": "/newsroom/"
   },
   {
-   "name": "Dataq Swarm release adds governed agent fleets at enterprise scale",
+   "name": "KYC Management System release adds governed agent fleets at enterprise scale",
    "url": "/newsroom/hyperautomation-swarm-release/"
   }
  ],
@@ -97,13 +97,13 @@
    "desc": "Releases and announcements."
   },
   {
-   "title": "Dataq Software launches its new digital platform",
-   "url": "/newsroom/dataqsoft-launches-new-digital-platform/",
-   "desc": "The new dataqsoft.com goes live with 600+ pages of industry- and service-aligned engineering content, reflecting the firm's eight technology towers and outcome-linked engagement model."
+   "title": "Achala IT Solutions launches its new digital platform",
+   "url": "/newsroom/achalasolutions-launches-new-digital-platform/",
+   "desc": "The new achalasolutions.com goes live with 600+ pages of industry- and service-aligned engineering content, reflecting the firm's eight technology towers and outcome-linked engagement model."
   },
   {
-   "title": "Dataq Nexus reaches general availability for decision intelligence",
-   "url": "/newsroom/dataq-nexus-general-availability/",
+   "title": "EEMS Platform reaches general availability for decision intelligence",
+   "url": "/newsroom/achala-nexus-general-availability/",
    "desc": "The decision-intelligence hub behind real-time credit, claims, pricing and fraud decisions is now generally available with replay, champion-challenger and full evidence trails."
   },
   {

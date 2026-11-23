@@ -2,7 +2,7 @@
 import openpyxl
 
 wb = openpyxl.load_workbook(
-    "/home/z/my-project/download/dataqsoft-website-content/DataQ_Soft_Page_Inventory.xlsx",
+    "/home/z/my-project/download/achalasolutions-website-content/achala_Soft_Page_Inventory.xlsx",
     read_only=True, data_only=True,
 )
 print("SHEETS:", wb.sheetnames)

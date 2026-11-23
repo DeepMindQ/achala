@@ -4,8 +4,8 @@
  "url": "/industries/manufacturing/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Manufacturing & Industrial",
- "seo_title": "Manufacturing & Industrial | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Manufacturing & Industrial: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Manufacturing & Industrial | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Manufacturing & Industrial: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software delivers the operations stack: retrofit sensor fabric on brownfield lines, computer vision inspection and safety analytics at the edge, digital twins for capacity decisions, predictive maintenance wired into CMMS work orders, agentic scheduling assistants for planners, and quality analytics that trace escapes to root cause across process telemetry."
+   "x": "Achala IT Solutions delivers the operations stack: retrofit sensor fabric on brownfield lines, computer vision inspection and safety analytics at the edge, digital twins for capacity decisions, predictive maintenance wired into CMMS work orders, agentic scheduling assistants for planners, and quality analytics that trace escapes to root cause across process telemetry."
   },
   {
    "t": "h2",

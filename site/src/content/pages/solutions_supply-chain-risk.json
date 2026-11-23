@@ -4,7 +4,7 @@
  "url": "/solutions/supply-chain-risk/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Supply Chain Risk & Continuity",
- "seo_title": "Supply Chain Risk & Continuity | Solution | Dataq Software",
+ "seo_title": "Supply Chain Risk & Continuity | Solution | Achala IT Solutions",
  "meta_description": "Supply Chain Risk & Continuity — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Ledger",
+     "label": "Patient Priority Portal",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Supply Chain Risk & Continuity composes Dataq Nexus, Dataq Ledger — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Logistics & Supply Chain, Manufacturing & Industrial, Retail & Consumer Goods, Agriculture & Food Systems."
+   "x": "Supply Chain Risk & Continuity composes EEMS Platform, Patient Priority Portal — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Logistics & Supply Chain, Manufacturing & Industrial, Retail & Consumer Goods, Agriculture & Food Systems."
   },
   {
    "t": "h2",

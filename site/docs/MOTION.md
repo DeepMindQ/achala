@@ -1,4 +1,4 @@
-# Dataq Software — Motion Specification (Wave 2, CHG-101/171)
+# Achala IT Solutions — Motion Specification (Wave 2, CHG-101/171)
 
 Motion tokens live in `globals.css` (`--dur-1`, `--dur-2`, `--ease-out`,
 `--ease-spring`). Every animation on the site resolves through these rules:

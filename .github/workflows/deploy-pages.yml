@@ -24,7 +24,7 @@ jobs:
       - name: Static export (633 pages + Pagefind search index)
         run: bun run export
         env:
-          NEXT_PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL || 'https://www.dataqsoft.com' }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL || 'https://www.achalasolutions.com' }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out

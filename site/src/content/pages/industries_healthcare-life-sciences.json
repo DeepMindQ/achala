@@ -4,8 +4,8 @@
  "url": "/industries/healthcare-life-sciences/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Healthcare & Life Sciences",
- "seo_title": "Healthcare & Life Sciences | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Healthcare & Life Sciences: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Healthcare & Life Sciences | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Healthcare & Life Sciences: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The regulatory bar is the highest in any industry: HIPAA and GDPR privacy regimes, FDA oversight where software informs clinical decisions, EU AI Act classification for medical AI, and GxP validation for pharma-adjacent systems. That bar is passable — but only when controls, documentation and validation are designed into delivery from the first sprint, which is precisely how Dataq Software builds."
+   "x": "The regulatory bar is the highest in any industry: HIPAA and GDPR privacy regimes, FDA oversight where software informs clinical decisions, EU AI Act classification for medical AI, and GxP validation for pharma-adjacent systems. That bar is passable — but only when controls, documentation and validation are designed into delivery from the first sprint, which is precisely how Achala IT Solutions builds."
   },
   {
    "t": "h2",

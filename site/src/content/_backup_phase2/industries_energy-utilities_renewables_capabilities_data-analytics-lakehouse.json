@@ -4,8 +4,8 @@
  "url": "/industries/energy-utilities/renewables/capabilities/data-analytics-lakehouse/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Renewable Energy > Data, Analytics & Lakehouse",
- "seo_title": "Data & Lakehouse for Renewable Energy | Dataq Software",
- "meta_description": "Data & Lakehouse for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Data & Lakehouse for Renewable Energy | Achala IT Solutions",
+ "meta_description": "Data & Lakehouse for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -78,7 +78,7 @@
     ],
     [
      "Master Data, Governance & Cataloging",
-     "The Dataq Software build of Master Data, Governance & Cataloging: concrete interfaces at core systems, measured movement on duplicate record rates."
+     "The Achala IT Solutions build of Master Data, Governance & Cataloging: concrete interfaces at core systems, measured movement on duplicate record rates."
     ],
     [
      "Advanced Risk & Predictive Analytics",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

@@ -4,12 +4,12 @@
  "url": "/industries/energy-utilities/oil-gas/capabilities/iot-digital-twin-robotics/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Oil & Gas > IoT, Digital Twin & Robotics",
- "seo_title": "IoT, Twin & Robotics for Oil & Gas | Dataq Software",
- "meta_description": "IoT, Twin & Robotics for Oil & Gas: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "IoT, Twin & Robotics for Oil & Gas | Achala IT Solutions",
+ "meta_description": "IoT, Twin & Robotics for Oil & Gas: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of IoT, Twin & Robotics for Oil & Gas: concrete interfaces at SCADA / EMS cores, measured movement on Unplanned downtime, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of IoT, Twin & Robotics for Oil & Gas: concrete interfaces at SCADA / EMS cores, measured movement on Unplanned downtime, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -74,11 +74,11 @@
    "items": [
     [
      "Smart Infrastructure, Buildings & Cities",
-     "What Smart Infrastructure, Buildings & Cities means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Smart Infrastructure, Buildings & Cities means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Industrial IoT & Sensor Fabric",
-     "What Industrial IoT & Sensor Fabric means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
+     "What Industrial IoT & Sensor Fabric means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
     ],
     [
      "Digital Twin Platform Engineering",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

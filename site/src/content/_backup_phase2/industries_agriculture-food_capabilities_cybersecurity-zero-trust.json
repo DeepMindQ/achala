@@ -5,7 +5,7 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Agriculture & Food Systems",
- "meta_description": "Cyber & Zero-Trust for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Cyber & Zero-Trust for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Threat Intelligence & Managed SOC",
@@ -86,7 +86,7 @@
     ],
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ]
    ]
   },

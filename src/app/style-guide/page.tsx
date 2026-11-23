@@ -4,23 +4,23 @@ import Logo from "@/components/site/Logo";
 /* Hidden style-guide page (Wave 1, CHG-097): renders every token and core
    component for visual QA and developer onboarding. Not linked in navigation. */
 export const metadata: Metadata = {
-  title: "DataQ Soft — Style Guide",
+  title: "Achala IT Solutions — Style Guide",
   description: "Internal design-system reference. Not for publication.",
   robots: { index: false, follow: false },
 };
 
 const SWATCHES: { name: string; cls: string; hex: string }[] = [
-  { name: "Brand Orange", cls: "bg-brand", hex: "#FE5722" },
-  { name: "Orange Hover", cls: "bg-brand-hover", hex: "#E04A17" },
-  { name: "Orange Deep (text-safe)", cls: "bg-brand-deep", hex: "#C2410C" },
-  { name: "Orange 300 (on navy)", cls: "bg-brand-300", hex: "#FE9C77" },
-  { name: "Orange Tint", cls: "bg-brand-tint", hex: "#FFF3EE" },
-  { name: "Navy 950", cls: "bg-navy-950", hex: "#0F0C20" },
-  { name: "Navy 900", cls: "bg-navy-900", hex: "#14102A" },
-  { name: "Navy 800", cls: "bg-navy-800", hex: "#18142D" },
-  { name: "Navy 700", cls: "bg-navy-700", hex: "#221D3A" },
-  { name: "Navy 600", cls: "bg-navy-600", hex: "#2C2648" },
-  { name: "Navy 500", cls: "bg-navy-500", hex: "#3A3358" },
+  { name: "Brand Orange", cls: "bg-brand", hex: "#d20000" },
+  { name: "Orange Hover", cls: "bg-brand-hover", hex: "#a80000" },
+  { name: "Orange Deep (text-safe)", cls: "bg-brand-deep", hex: "#8f0000" },
+  { name: "Orange 300 (on navy)", cls: "bg-brand-300", hex: "#ff9d96" },
+  { name: "Orange Tint", cls: "bg-brand-tint", hex: "#fdecec" },
+  { name: "Navy 950", cls: "bg-navy-950", hex: "#0e2230" },
+  { name: "Navy 900", cls: "bg-navy-900", hex: "#16334a" },
+  { name: "Navy 800", cls: "bg-navy-800", hex: "#2b5672" },
+  { name: "Navy 700", cls: "bg-navy-700", hex: "#3a6983" },
+  { name: "Navy 600", cls: "bg-navy-600", hex: "#477a95" },
+  { name: "Navy 500", cls: "bg-navy-500", hex: "#568aa6" },
   { name: "Mist", cls: "bg-mist", hex: "#F6F7FB" },
   { name: "Line", cls: "bg-line", hex: "#E5E7F0" },
   { name: "Body text", cls: "bg-slate-body", hex: "#46425A" },
@@ -33,7 +33,7 @@ export default function StyleGuide() {
         <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
           Internal reference
         </p>
-        <h1 className="text-display-2 mt-2 text-navy-800">DataQ Soft style guide</h1>
+        <h1 className="text-display-2 mt-2 text-navy-800">Achala IT Solutions style guide</h1>
         <p className="measure mt-3 text-[14.5px] text-slate-body">
           Every color, type style and core component in one place. Not indexed, not linked from
           navigation. Source of truth: <code>src/app/globals.css</code> and{" "}
@@ -90,7 +90,7 @@ export default function StyleGuide() {
           <p className="text-display-1 text-navy-800">Display 1 — 40/72px</p>
           <p className="text-display-2 text-navy-800">Display 2 — 30/48px</p>
           <p className="text-display-3 text-navy-800">Display 3 — 22/30px</p>
-          <p className="text-body-lg text-slate-body">Body large — 15/16.5px. DataQ Soft engineers the intelligence layer of the enterprise.</p>
+          <p className="text-body-lg text-slate-body">Body large — 15/16.5px. Achala IT Solutions engineers the intelligence layer of the enterprise.</p>
           <p className="text-[14.5px] text-slate-body">Body — 14.5px/1.75 for long-form prose with a 68ch measure.</p>
         </div>
       </section>
@@ -127,7 +127,7 @@ export default function StyleGuide() {
             />
           </div>
           <label className="flex items-center gap-2 text-[13px] text-slate-body">
-            <input type="checkbox" className="h-4 w-4 accent-[#FE5722]" defaultChecked /> Orange checked state
+            <input type="checkbox" className="h-4 w-4 accent-[#d20000]" defaultChecked /> Orange checked state
           </label>
         </div>
       </section>

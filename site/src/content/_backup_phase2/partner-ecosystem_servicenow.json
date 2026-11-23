@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/servicenow/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > ServiceNow",
- "seo_title": "ServiceNow Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on ServiceNow: Workflow digitization and agentic operations on ServiceNow.",
+ "seo_title": "ServiceNow Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on ServiceNow: Workflow digitization and agentic operations on ServiceNow.",
  "words": 416,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with ServiceNow: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with ServiceNow: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "ServiceNow — joint delivery topology with Dataq Software",
+   "title": "ServiceNow — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",

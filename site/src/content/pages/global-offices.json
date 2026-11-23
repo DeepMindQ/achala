@@ -4,8 +4,8 @@
  "url": "/global-offices/",
  "template": "company_page",
  "breadcrumb": "About Us > Global Offices",
- "seo_title": "Global Offices | Dataq Software",
- "meta_description": "Four global delivery centers — US, UK, India and KSA — with practice focus per location.",
+ "seo_title": "Global Offices | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions delivers from Hyderabad (India HQ), Munich (Germany) and Sofia (Bulgaria). Contact: +91 7337444922 · info@achalasolutions.com.",
  "blocks": [
   {
    "t": "hero",
@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software runs four centers with distinct mandates. Programs are staffed by named pods that stay with the outcome — the team that designs your decision hub is accountable for its production results, wherever they sit."
+   "x": "Achala IT Solutions runs four centers with distinct mandates. Programs are staffed by named pods that stay with the outcome — the team that designs your decision hub is accountable for its production results, wherever they sit."
   },
   {
    "t": "h2",
@@ -23,35 +23,25 @@
    "t": "table",
    "caption": "Global offices",
    "headers": [
-    "Center",
-    "City",
-    "Mandate",
+    "Office",
     "Address"
    ],
    "rows": [
     [
-     "United States — Global Headquarters",
-     "Tysons Corner, Virginia, USA",
-     "Strategic leadership, board advisory, quantum and advanced compute practices.",
-     ""
+     "India — Headquarters",
+     "Achala IT Solutions Private Limited, Floor 10, 285 FD by Phoenix, Financial District, Nanakramguda, Hyderabad, Telangana 500089"
     ],
     [
-     "United Kingdom — European Hub",
-     "London, United Kingdom",
-     "European delivery, DORA and regulatory programs, financial services practice.",
-     ""
+     "India — Registered office",
+     "3rd Floor, Plot No 342 & 343, Road Number 7, Kakateeya Hills, Hyderabad, Telangana 500081"
     ],
     [
-     "India — Global Execution Core",
-     "India — Global Execution Core",
-     "Engineering depth: data, platform, agentic and delivery factories at scale.",
-     ""
+     "Germany — European Hub",
+     "Achala GmbH, C/O Sulzer GmbH, Frankfurter Ring 162, 80807 Munich, Germany"
     ],
     [
-     "Kingdom of Saudi Arabia — Growth Engine",
-     "Riyadh (KAFD), Saudi Arabia",
-     "Vision 2030 programs, sovereign delivery, smart-city and energy practices.",
-     ""
+     "Bulgaria — EU Delivery Center",
+     "Achala Sulzer Ltd., MHQ Building, 115 Tsarigradsko Shose Blvd, Floor 3, Sofia 1784, Bulgaria"
     ]
    ]
   },
@@ -71,11 +61,11 @@
    "t": "bullets",
    "items": [
     [
-     "US — Tysons Corner",
+     "US — Hyderabad Corner",
      "Quantum and advanced compute practice, board advisory, commercial models tied to outcomes."
     ],
     [
-     "UK — London",
+     "UK — Munich",
      "DORA and regulatory programs, financial-services delivery, European data-residency patterns."
     ],
     [
@@ -83,7 +73,7 @@
      "Data and platform factories, agentic engineering pods, 24/7 operations depth."
     ],
     [
-     "KSA — Riyadh",
+     "KSA — Sofia",
      "Vision 2030 programs, sovereign delivery models, energy and smart-city practices."
     ]
    ]
@@ -95,6 +85,32 @@
   {
    "t": "p",
    "x": "Delivery pods operate under a single security architecture: zero-exposure defaults, customer-managed keys for client data, zoned networks per center, and cross-center access governed by the same zero-trust controls we sell. SOC 2 Type II and ISO 27001 cover the operated estate end to end."
+  },
+  {
+   "t": "table",
+   "caption": "Achala IT Solutions locations",
+   "headers": [
+    "Office",
+    "Address"
+   ],
+   "rows": [
+    [
+     "India — Headquarters",
+     "Achala IT Solutions Private Limited, Floor 10, 285 FD by Phoenix, Financial District, Nanakramguda, Hyderabad, Telangana 500089"
+    ],
+    [
+     "India — Registered office",
+     "3rd Floor, Plot No 342 & 343, Road Number 7, Kakateeya Hills, Hyderabad, Telangana 500081"
+    ],
+    [
+     "Germany — European Hub",
+     "Achala GmbH, C/O Sulzer GmbH, Frankfurter Ring 162, 80807 Munich, Germany"
+    ],
+    [
+     "Bulgaria — EU Delivery Center",
+     "Achala Sulzer Ltd., MHQ Building, 115 Tsarigradsko Shose Blvd, Floor 3, Sofia 1784, Bulgaria"
+    ]
+   ]
   }
  ],
  "words": 270,
@@ -115,13 +131,13 @@
  ],
  "related": [
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -135,7 +151,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -150,7 +166,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

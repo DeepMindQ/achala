@@ -1,15 +1,15 @@
 {
  "id": "PLT-nexus-uc",
- "title": "Dataq Nexus — Industry Use Cases",
- "url": "/platforms/nexus/use-cases/",
+ "title": "EEMS Platform — Industry Use Cases",
+ "url": "/platforms/eems/use-cases/",
  "template": "platform_usecases",
- "breadcrumb": "Platforms > Dataq Nexus > Industry Use Cases",
- "seo_title": "Dataq Nexus — Industry Use Cases | Dataq Software",
- "meta_description": "How Dataq Nexus is deployed across industries: banking, insurance, healthcare, retail and more.",
+ "breadcrumb": "Platforms > EEMS Platform > Industry Use Cases",
+ "seo_title": "EEMS Platform — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How EEMS Platform is deployed across industries: banking, insurance, healthcare, retail and more.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Nexus — Industry Use Cases delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
+   "x": "EEMS Platform — Industry Use Cases delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Nexus across industries",
+   "caption": "EEMS Platform across industries",
    "headers": [
     "Industry",
     "Pattern",
@@ -63,7 +63,7 @@
   {
    "t": "diagram",
    "kind": "pipeline",
-   "title": "Dataq Nexus — reference flow in production",
+   "title": "EEMS Platform — reference flow in production",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,7 +80,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Dataq Nexus platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the EEMS Platform platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "bullets",
@@ -117,7 +117,7 @@
   },
   {
    "t": "p",
-   "x": "Integration for Dataq Nexus — Industry Use Cases follows one rule: the system of record stays authoritative. Decisions and analytics read from it; nothing writes back without a reviewable path."
+   "x": "Integration for EEMS Platform — Industry Use Cases follows one rule: the system of record stays authoritative. Decisions and analytics read from it; nothing writes back without a reviewable path."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
   },
   {
    "t": "p",
-   "x": "We run Dataq Nexus — Industry Use Cases in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing."
+   "x": "We run EEMS Platform — Industry Use Cases in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing."
   },
   {
    "t": "cta",
@@ -202,7 +202,7 @@
  "words": 491,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Nexus",
+ "l2": "EEMS Platform",
  "l3": "Industry Use Cases",
  "l4": "",
  "crumbs": [
@@ -211,28 +211,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Nexus",
+   "name": "EEMS Platform",
    "url": null
   },
   {
    "name": "Industry Use Cases",
-   "url": "/platforms/nexus/use-cases/"
+   "url": "/platforms/eems/use-cases/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Nexus — Overview",
-   "url": "/platforms/nexus/",
+   "title": "EEMS Platform — Overview",
+   "url": "/platforms/eems/",
    "desc": "Decision Intelligence Hub"
   },
   {
-   "title": "Dataq Nexus — Architecture & Trust",
-   "url": "/platforms/nexus/architecture/",
+   "title": "EEMS Platform — Architecture & Trust",
+   "url": "/platforms/eems/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Nexus — Industry Use Cases",
-   "url": "/platforms/nexus/use-cases/",
+   "title": "EEMS Platform — Industry Use Cases",
+   "url": "/platforms/eems/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

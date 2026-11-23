@@ -11,7 +11,7 @@ from openpyxl.utils import get_column_letter
 import base as B
 
 ROOT = "/home/z/my-project/site"
-OUTFILE = "/home/z/my-project/download/DataQ-page-by-page-impact-assessment.xlsx"
+OUTFILE = "/home/z/my-project/download/achala-page-by-page-impact-assessment.xlsx"
 
 # ---------- load live pages ----------
 pages = []
@@ -143,7 +143,7 @@ ws = wb.active
 ws.title = "Impact Assessment"
 ws.sheet_view.showGridLines = False
 B.use_palette_explicit("professional")
-B.setup_sheet(ws, title="DataQ Website - Page-by-Page Impact Assessment (633 pages)", last_col=11)
+B.setup_sheet(ws, title="Achala Website - Page-by-Page Impact Assessment (633 pages)", last_col=11)
 headers = ["URL","Template","Depth","Words","H2 count","Skeleton shared by","Hero asset","Asset reuse (pages)","Verdict","Phase","Planned changes"]
 hr = 4
 for ci, h in enumerate(headers, 1):

@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Dynamic Pricing & Revenue Intelligence composes Dataq Nexus, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Manufacturing & Industrial, Airline Adjacent, Agriculture & Food Systems."
+   "x": "Dynamic Pricing & Revenue Intelligence composes EEMS Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Manufacturing & Industrial, Airline Adjacent, Agriculture & Food Systems."
   },
   {
    "t": "h2",

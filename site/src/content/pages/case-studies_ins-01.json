@@ -4,7 +4,7 @@
  "url": "/case-studies/ins-01/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Insurance & Risk > A top-5 global P&C insurer",
- "seo_title": "A top-5 global P&C insurer | Case Study | Dataq Software",
+ "seo_title": "A top-5 global P&C insurer | Case Study | Achala IT Solutions",
  "meta_description": "Claims triage in minutes — 55% faster cycle times with document intelligence.",
  "blocks": [
   {
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A top-5 global P&C insurer: a Insurance & Risk program run on the outcome-linked model with a blended Dataq Software team. The name stays behind the NDA; the numbers are published with permission."
+   "x": "A top-5 global P&C insurer: a Insurance & Risk program run on the outcome-linked model with a blended Achala IT Solutions team. The name stays behind the NDA; the numbers are published with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "We deployed the claims decision pipeline: document intelligence (classification, extraction, validation) feeding Dataq Nexus decision policies with confidence-threshold routing, network fraud analytics scoring claims pre-settlement, and a portfolio lakehouse unifying exposure and claims for steering. Adjusters work a review queue of pre-assembled cases with citations."
+   "x": "We deployed the claims decision pipeline: document intelligence (classification, extraction, validation) feeding EEMS Platform decision policies with confidence-threshold routing, network fraud analytics scoring claims pre-settlement, and a portfolio lakehouse unifying exposure and claims for steering. Adjusters work a review queue of pre-assembled cases with citations."
   },
   {
    "t": "arch",

@@ -5,7 +5,7 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Manufacturing & Industrial",
- "meta_description": "Quantum & Advanced Compute for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Quantum & Advanced Compute for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more Quantum & Advanced Compute reality in Manufacturing & Industrial: Dataq Software delivers the operations stack: retrofit sensor fabric on brownfield lines, computer vision inspection and safety analytics at the edge, digital twins for capacity decisions, predictive maintenance wired into CMMS work orders, agentic scheduling assistants for planners, and quality analytics that trace escapes to root cause across process telemetry."
+   "x": "One more Quantum & Advanced Compute reality in Manufacturing & Industrial: Achala IT Solutions delivers the operations stack: retrofit sensor fabric on brownfield lines, computer vision inspection and safety analytics at the edge, digital twins for capacity decisions, predictive maintenance wired into CMMS work orders, agentic scheduling assistants for planners, and quality analytics that trace escapes to root cause across process telemetry."
   },
   {
    "t": "h2",

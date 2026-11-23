@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Healthcare & Life Sciences",
- "meta_description": "Quantum & Advanced Compute for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Quantum & Advanced Compute for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Quantum & Advanced Compute for Healthcare & Life Sciences means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 patients outcomes measured against your audited baseline."
+   "x": "What Quantum & Advanced Compute for Healthcare & Life Sciences means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 patients outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -82,7 +82,7 @@
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
+     "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
     ],
     [
      "Quantum Machine Learning & Simulation",

@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Swarm",
+     "label": "KYC Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Citizen & Patient Experience Orchestration composes Dataq Swarm, Dataq Nexus — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Public Sector & Government, Healthcare & Life Sciences, Education & Research."
+   "x": "Citizen & Patient Experience Orchestration composes KYC Management System, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Public Sector & Government, Healthcare & Life Sciences, Education & Research."
   },
   {
    "t": "h2",

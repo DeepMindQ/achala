@@ -2,9 +2,9 @@
 """Audit brand naming + confidentiality tokens across site src (and docs).
 
 Reports every occurrence of:
-  - 'DataQ Soft' NOT followed by 'ware'  (the forbidden abbreviation)
-  - 'DataQSoft' / 'DataQ Soft' camel/short variants in user-visible strings
-  - 'DataQ Software' (current standard, count only)
+  - 'Achala IT Solutions' NOT followed by 'ware'  (the forbidden abbreviation)
+  - 'Achala IT Solutions' / 'Achala IT Solutions' camel/short variants in user-visible strings
+  - 'Achala IT Solutionsware' (current standard, count only)
   - confidentiality tokens: Strategemist / Pisupati / Shanker / Hyderabad
 Outputs /tmp/naming_report.json  (file -> [{line, col, text}])
 """
@@ -14,9 +14,9 @@ ROOTS = ["/home/z/my-project/site/src", "/home/z/my-project/docs"]
 DOCS = "/home/z/my-project/docs"
 EXTS = {".ts", ".tsx", ".js", ".jsx", ".json", ".css", ".md", ".html", ".txt"}
 
-PAT_ABBR = re.compile(r"DataQ\s?Soft(?!ware)")   # forbidden abbreviations
-PAT_FULL = re.compile(r"DataQ Software")
-PAT_DATAQ = re.compile(r"DataQ(?!u)")            # bare DataQ usage (context check)
+PAT_ABBR = re.compile(r"Achala\s?Soft(?!ware)")   # forbidden abbreviations
+PAT_FULL = re.compile(r"Achala IT Solutionsware")
+PAT_ACHALA = re.compile(r"Achala(?!u)")            # bare Achala usage (context check)
 CONFID = re.compile(r"Strategemist|Pisupati|Shanker", re.I)
 
 def walk(root):
@@ -27,7 +27,7 @@ def walk(root):
                 yield os.path.join(dirpath, fn)
 
 PAT_FULL = re.compile(r"Data[qQ] Software")
-report = {"abbr": {}, "full_count": 0, "confidential": {}, "bare_dataq": {}}
+report = {"abbr": {}, "full_count": 0, "confidential": {}, "bare_achala": {}}
 total_abbr = 0
 for root in ROOTS + [DOCS]:
     for path in walk(root):
@@ -49,7 +49,7 @@ for root in ROOTS + [DOCS]:
 print(json.dumps({
     "files_with_abbr": len(report["abbr"]),
     "total_abbr_occurrences": total_abbr,
-    "total_DataQ_Software_full": report["full_count"],
+    "total_Achala_Software_full": report["full_count"],
     "confidential_files": {k: len(v) for k, v in report["confidential"].items()},
 }, indent=2))
 

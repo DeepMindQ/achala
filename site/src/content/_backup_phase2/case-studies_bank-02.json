@@ -4,7 +4,7 @@
  "url": "/case-studies/bank-02/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Banking & Financial Services > A multinational corporate bank",
- "seo_title": "A multinational corporate bank | Case Study | Dataq Software",
+ "seo_title": "A multinational corporate bank | Case Study | Achala IT Solutions",
  "meta_description": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly.",
  "blocks": [
   {
@@ -42,11 +42,11 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
-   "x": "Dataq Swarm agents now assemble each review file — registries, screening, financials, relationship notes — under a policy envelope that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is generated in-flight, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
+   "x": "KYC Management System agents now assemble each review file — registries, screening, financials, relationship notes — under a policy envelope that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is generated in-flight, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
   },
   {
    "t": "h2",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: Agentic AI & Hyperautomation, Data, Analytics & Lakehouse. Platforms: Dataq Swarm, Dataq Forge."
+   "x": "Towers: Agentic AI & Hyperautomation, Data, Analytics & Lakehouse. Platforms: KYC Management System, Fleet Management System."
   },
   {
    "t": "h2",

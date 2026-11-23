@@ -20,7 +20,7 @@ Wave 1 design-system reference (CHG-098). Site components live in `src/component
 
 ## Components
 
-- **`Logo`** — `variant`: `full` (light) | `reversed` (navy) | `mono` (print/legal). `height` prop, default 38. Hover: orange dot bounce (reduced-motion safe).
+- **`Logo`** — `variant`: `full` (light) | `reversed` (navy) | `mono` (print/legal). `height` prop, default 38. Hover: red dot bounce (reduced-motion safe).
 - **`Reveal`** — scroll-triggered fade-up; `delay` prop staggers grids.
 - **`SiteHeader`** — navy-900 utility bar, orange CTA with sheen, mega panel with navy-tinted elevation.
 - **`SiteFooter`** — navy gradient, contact band + form, newsletter slot, reversed lockup in legal bar, social icon row.

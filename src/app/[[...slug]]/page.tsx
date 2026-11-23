@@ -11,9 +11,9 @@ export function generateStaticParams(): { slug: string[] }[] {
 }
 
 const HOME_META: Metadata = {
-  title: "DataQ Soft | IT Services & Consulting for the Intelligence Era",
+  title: "Achala IT Solutions | IT Services & Consulting for the Intelligence Era",
   description:
-    "DataQ Soft engineers the intelligence layer of the enterprise — applied AI, agentic automation, data platforms, cybersecurity and emerging compute with outcome-linked engagements.",
+    "Achala IT Solutions engineers the intelligence layer of the enterprise — applied AI, agentic automation, data platforms, cybersecurity and emerging compute with outcome-linked engagements.",
   alternates: { canonical: "/" },
 };
 

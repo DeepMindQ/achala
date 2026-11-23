@@ -1,0 +1,138 @@
+{
+ "id": "PLT-quanta-uc",
+ "title": "Token Management System — Industry Use Cases",
+ "url": "/platforms/token-management/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Token Management System > Industry Use Cases",
+ "seo_title": "Token Management System — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How Token Management System is deployed across industries: banking, energy, logistics, manufacturing and more.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Token Management System earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "What slows the operation down"
+  },
+  {
+   "t": "table",
+   "caption": "Token Management System — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Logistics",
+     "Routing and load planning at fleet scale",
+     "Optimality bounds, not vibes"
+    ],
+    [
+     "Banking",
+     "Portfolio construction and rebalancing",
+     "Classical baseline the CFO can read"
+    ],
+    [
+     "Manufacturing",
+     "Production scheduling under constraints",
+     "Reproducible runs with explain reports"
+    ],
+    [
+     "Energy",
+     "Grid scheduling and unit commitment",
+     "Verified results before dispatch"
+    ],
+    [
+     "Telecom",
+     "Network resource optimization",
+     "Benchmarked honestly against best classical"
+    ],
+    [
+     "Insurance",
+     "Claims batching and reserve optimization",
+     "Formulation discipline with a contract"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "The cadence you would see"
+  },
+  {
+   "t": "p",
+   "x": "Each Token Management System deployment starts with one decision class in production — not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "What this environment runs on"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Token Management System as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Start with the diagnostic, not the contract: a working session on Token Management System baselined in two weeks, and a scoped proposal only if the delta justifies it."
+  }
+ ],
+ "words": 228,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Token Management System",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Token Management System",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/token-management/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Token Management System — Overview",
+   "url": "/platforms/token-management/",
+   "desc": "Quantum & Advanced Compute Suite"
+  },
+  {
+   "title": "Token Management System — Architecture & Trust",
+   "url": "/platforms/token-management/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Token Management System — Industry Use Cases",
+   "url": "/platforms/token-management/use-cases/",
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A European specialty reinsurer",
+   "url": "/case-studies/ins-03/",
+   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+  },
+  {
+   "title": "A European biopharma group",
+   "url": "/case-studies/hc-03/",
+   "desc": "Trial eligibility matching at 10x — enrollment windows met"
+  },
+  {
+   "title": "A global integrated energy major",
+   "url": "/case-studies/en-02/",
+   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale"
+  },
+  {
+   "title": "A container-terminal operator",
+   "url": "/case-studies/log-02/",
+   "desc": "Berth productivity +16% — planning platform and crane health sensing"
+  }
+ ],
+ "cards": []
+}

@@ -777,7 +777,7 @@
   "category": "E - Visual Assets & Imagery",
   "scope": "QA",
   "item": "Cross-asset color consistency audit",
-  "spec": "All assets use the exact #FE5722 orange and #18142D navy; no drift."
+  "spec": "All assets use the exact #d20000 orange and #2b5672 navy; no drift."
  },
  "CHG-231": {
   "category": "E - Visual Assets & Imagery",

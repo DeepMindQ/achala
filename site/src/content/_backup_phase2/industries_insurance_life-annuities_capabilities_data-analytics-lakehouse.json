@@ -4,12 +4,12 @@
  "url": "/industries/insurance/life-annuities/capabilities/data-analytics-lakehouse/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Life & Annuities > Data, Analytics & Lakehouse",
- "seo_title": "Data & Lakehouse for Life & Annuities | Dataq Software",
- "meta_description": "Data & Lakehouse for Life & Annuities: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Data & Lakehouse for Life & Annuities | Achala IT Solutions",
+ "meta_description": "Data & Lakehouse for Life & Annuities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Data & Lakehouse for Life & Annuities means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 claims outcomes measured against your audited baseline."
+   "x": "What Data & Lakehouse for Life & Annuities means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 claims outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Data Monetization & Analytics Products",
-     "The Dataq Software build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
+     "The Achala IT Solutions build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
     ],
     [
      "Data Engineering & Pipeline Modernization",

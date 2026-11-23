@@ -4,12 +4,12 @@
  "url": "/cookie-policy/",
  "template": "legal_page",
  "breadcrumb": "Cookie Policy",
- "seo_title": "Cookie Policy | Dataq Software",
+ "seo_title": "Cookie Policy | Achala IT Solutions",
  "meta_description": "Categories of cookies (essential, analytics, marketing), consent management and control instructions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What cookies and similar technologies run on dataqsoft.com, what each category does, and how you control them — written to be read, not to be endured."
+   "x": "What cookies and similar technologies run on achalasolutions.com, what each category does, and how you control them — written to be read, not to be endured."
   },
   {
    "t": "h2",
@@ -60,7 +60,7 @@
    "items": [
     [
      "Owner",
-     "Dataq Software Legal Affairs, jointly with the platform engineering team"
+     "Achala IT Solutions Legal Affairs, jointly with the platform engineering team"
     ],
     [
      "Review cadence",

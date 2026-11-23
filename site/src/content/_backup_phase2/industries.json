@@ -4,7 +4,7 @@
  "url": "/industries/",
  "template": "industries_hub",
  "breadcrumb": "Industries",
- "seo_title": "Industries Overview | Dataq Software",
+ "seo_title": "Industries Overview | Achala IT Solutions",
  "meta_description": "Twelve industries with sub-industry depth — each page maps the sector's programs, regulatory posture and the capability towers aligned to it.",
  "blocks": [
   {
@@ -27,7 +27,7 @@
     "Serving & BI",
     "Decision feedback"
    ],
-   "note": "We keep the topology boring on purpose: explicit stages, typed interfaces, no hidden couplings. Each stage owns a latency budget and a failure policy, so when something degrades you know exactly where — and the Dataq Forge control plane shows it in one view."
+   "note": "We keep the topology boring on purpose: explicit stages, typed interfaces, no hidden couplings. Each stage owns a latency budget and a failure policy, so when something degrades you know exactly where — and the Fleet Management System control plane shows it in one view."
   },
   {
    "t": "p",

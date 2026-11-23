@@ -4,12 +4,12 @@
  "url": "/industries/energy-utilities/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Energy & Utilities",
- "seo_title": "Energy & Utilities | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Energy & Utilities: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Energy & Utilities | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Energy & Utilities: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand), and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand), and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Decision fabric — how Dataq Software composes Energy & Utilities capability",
+   "title": "Decision fabric — how Achala IT Solutions composes Energy & Utilities capability",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,11 +80,11 @@
   },
   {
    "t": "h2",
-   "x": "How Dataq Software responds"
+   "x": "How Achala IT Solutions responds"
   },
   {
    "t": "p",
-   "x": "Dataq Software delivers across the chain: grid and asset intelligence from SCADA-class telemetry, forecasting and trading optimization with solver tournaments, O&M prediction for turbines and substations, OT segmentation and recovery engineering, customer analytics for retailers, and PQC programs for long-lived infrastructure. We speak both kilowatts and capital committees."
+   "x": "Achala IT Solutions delivers across the chain: grid and asset intelligence from SCADA-class telemetry, forecasting and trading optimization with solver tournaments, O&M prediction for turbines and substations, OT segmentation and recovery engineering, customer analytics for retailers, and PQC programs for long-lived infrastructure. We speak both kilowatts and capital committees."
   },
   {
    "t": "h2",

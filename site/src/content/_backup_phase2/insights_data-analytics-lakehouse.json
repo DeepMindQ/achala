@@ -4,12 +4,12 @@
  "url": "/insights/data-analytics-lakehouse/",
  "template": "insights_category",
  "breadcrumb": "Insights > Data, Analytics & Lakehouse",
- "seo_title": "Insights: Data & Lakehouse | Insights | Dataq Software",
- "meta_description": "Dataq Software perspectives on Data, Analytics & Lakehouse: engineering notes, market views and delivery lessons.",
+ "seo_title": "Insights: Data & Lakehouse | Insights | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions perspectives on Data, Analytics & Lakehouse: engineering notes, market views and delivery lessons.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Insights: Data & Lakehouse means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Insights: Data & Lakehouse means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

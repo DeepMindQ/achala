@@ -4,8 +4,8 @@
  "url": "/industries/technology-saas/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Technology & SaaS",
- "seo_title": "Technology & SaaS | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Technology & SaaS: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Technology & SaaS | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Technology & SaaS: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software works with SaaS and platform companies, fintech-adjacent teams, semiconductor and hardware firms, and gaming studios: platform engineering and DevEx programs, AI feature factories with evaluation suites, data monetization stacks, security and compliance automation, and scaling engineering for the moments when growth tests architecture."
+   "x": "Achala IT Solutions works with SaaS and platform companies, fintech-adjacent teams, semiconductor and hardware firms, and gaming studios: platform engineering and DevEx programs, AI feature factories with evaluation suites, data monetization stacks, security and compliance automation, and scaling engineering for the moments when growth tests architecture."
   },
   {
    "t": "h2",

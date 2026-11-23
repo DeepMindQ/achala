@@ -4,12 +4,12 @@
  "url": "/industries/retail-consumer-goods/grocery-convenience/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Retail & Consumer Goods > Grocery & Convenience",
- "seo_title": "Grocery & Convenience | Dataq Software",
+ "seo_title": "Grocery & Convenience | Achala IT Solutions",
  "meta_description": "Grocery runs on the thinnest margins and the shortest freshness clocks: ordering precision, waste reduction and store labor efficiency decide survival.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Grocery & Convenience means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per SKU-store outcomes measured against your audited baseline."
+   "x": "What Grocery & Convenience means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per SKU-store outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

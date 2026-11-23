@@ -1,23 +1,23 @@
 {
  "id": "CO-about",
- "title": "About Dataq Software",
+ "title": "About Achala IT Solutions",
  "url": "/about-us/",
  "template": "company_page",
- "breadcrumb": "About Us > About Dataq Software",
- "seo_title": "About Dataq Software | Dataq Software",
- "meta_description": "Dataq Software is a global IT services and consulting company that builds the AI and data systems enterprises run on — 2,400+ engineers across four delivery cente",
+ "breadcrumb": "About Us > About Achala IT Solutions",
+ "seo_title": "About Achala IT Solutions | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions is a global IT services and consulting company that builds the AI and data systems enterprises run on — 2,400+ engineers across four delivery cente",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Software is a global IT services and consulting company that builds the AI and data systems enterprises run on — 2,400+ engineers across four delivery centers, eight proprietary platforms in production."
+   "x": "Achala IT Solutions is a global IT services and consulting company that builds the AI and data systems enterprises run on — 2,400+ engineers across four delivery centers, eight proprietary platforms in production."
   },
   {
    "t": "p",
-   "x": "Dataq Software was founded on a simple observation: enterprises were accumulating AI pilots that never reached production. The gap was rarely model capability; it was the operating machinery around it — data contracts, decision ownership, monitoring and audit. So we built that machinery first: decision hubs with replay, data estates with contracts, agent fleets with policy envelopes, and governance that produces evidence continuously instead of annually."
+   "x": "Achala IT Solutions was founded on a simple observation: enterprises were accumulating AI pilots that never reached production. The gap was rarely model capability; it was the operating machinery around it — data contracts, decision ownership, monitoring and audit. So we built that machinery first: decision hubs with replay, data estates with contracts, agent fleets with policy envelopes, and governance that produces evidence continuously instead of annually."
   },
   {
    "t": "p",
-   "x": "Today Dataq Software is a global IT services and consulting firm with 2,400+ engineers, scientists and domain specialists across four delivery centers, eight proprietary platforms in production with clients, and a portfolio spanning applied AI, agentic automation, data and lakehouse, cybersecurity, cloud and edge, quantum and advanced compute, distributed trust, and IoT and robotics."
+   "x": "Today Achala IT Solutions is a global IT services and consulting firm with 2,400+ engineers, scientists and domain specialists across four delivery centers, eight proprietary platforms in production with clients, and a portfolio spanning applied AI, agentic automation, data and lakehouse, cybersecurity, cloud and edge, quantum and advanced compute, distributed trust, and IoT and robotics."
   },
   {
    "t": "p",
@@ -29,7 +29,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Software at a glance",
+   "caption": "Achala IT Solutions at a glance",
    "headers": [
     "Dimension",
     "Detail"
@@ -122,7 +122,7 @@
  "words": 269,
  "section": "Company",
  "l1": "About Us",
- "l2": "About Dataq Software",
+ "l2": "About Achala IT Solutions",
  "l3": "",
  "l4": "",
  "crumbs": [
@@ -131,14 +131,14 @@
    "url": "/about-us/"
   },
   {
-   "name": "About Dataq Software",
+   "name": "About Achala IT Solutions",
    "url": "/about-us/"
   }
  ],
  "related": [
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -157,7 +157,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -172,7 +172,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

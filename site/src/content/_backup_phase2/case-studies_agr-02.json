@@ -4,7 +4,7 @@
  "url": "/case-studies/agr-02/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Agriculture & Food Systems > A global coffee trader",
- "seo_title": "A global coffee trader | Case Study | Dataq Software",
+ "seo_title": "A global coffee trader | Case Study | Achala IT Solutions",
  "meta_description": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened.",
  "blocks": [
   {
@@ -42,7 +42,7 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: Blockchain & Digital Trust, IoT, Digital Twin & Robotics, Data, Analytics & Lakehouse. Platforms: Dataq Ledger, Dataq Twinverse, Dataq Forge."
+   "x": "Towers: Blockchain & Digital Trust, IoT, Digital Twin & Robotics, Data, Analytics & Lakehouse. Platforms: Patient Priority Portal, BI & Analytics Platform, Fleet Management System."
   },
   {
    "t": "h2",
@@ -154,7 +154,7 @@
     ],
     [
      "What never transfers",
-     "Runs on the Dataq Method cadence — baseline signed before build, delta reviewed at every gate"
+     "Runs on the Achala Method cadence — baseline signed before build, delta reviewed at every gate"
     ]
    ]
   },

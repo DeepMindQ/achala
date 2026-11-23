@@ -3,7 +3,7 @@ import { pageIndex } from "@/lib/content";
 
 export const dynamic = "force-static";
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://www.dataqsoft.com";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL || "https://www.achalasolutions.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const rows = pageIndex();

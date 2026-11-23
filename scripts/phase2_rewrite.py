@@ -157,7 +157,7 @@ class Ctx:
 
 def para_for(page_id, section, title, old):
     seed = (page_id, section)
-    title = re.split(r'\s+—\s+', title)[0]  # 'Dataq Forge — Overview' -> 'Dataq Forge'
+    title = re.split(r'\s+—\s+', title)[0]  # 'Achala Forge — Overview' -> 'Achala Forge'
     if section.startswith(INDUSTRY_PARA_KEY):
         ind = section[len(INDUSTRY_PARA_KEY):].strip()
         return pick(INDUSTRY_PARAS, seed).replace('{IND}', ind).replace('{T}', title)

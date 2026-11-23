@@ -4,8 +4,8 @@
  "url": "/services/cybersecurity-zero-trust/ai-security-model-protection/",
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > AI Security & Model Protection",
- "seo_title": "AI Security & Model Protection | Dataq Software",
- "meta_description": "AI Security & Model Protection from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "AI Security & Model Protection | Achala IT Solutions",
+ "meta_description": "AI Security & Model Protection from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -253,7 +253,7 @@
     ],
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "Cyber Resilience & Incident Recovery",
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "AI Security & Model Protection follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "AI Security & Model Protection follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

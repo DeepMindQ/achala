@@ -4,7 +4,7 @@
  "url": "/global-offices/",
  "template": "company_page",
  "breadcrumb": "About Us > Global Offices",
- "seo_title": "Global Offices | Dataq Software",
+ "seo_title": "Global Offices | Achala IT Solutions",
  "meta_description": "Four global delivery centers — US, UK, India and KSA — with practice focus per location.",
  "blocks": [
   {
@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software runs four centers with distinct mandates. Programs are staffed by named pods that stay with the outcome — the team that designs your decision hub is accountable for its production results, wherever they sit."
+   "x": "Achala IT Solutions runs four centers with distinct mandates. Programs are staffed by named pods that stay with the outcome — the team that designs your decision hub is accountable for its production results, wherever they sit."
   },
   {
    "t": "h2",
@@ -115,13 +115,13 @@
  ],
  "related": [
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -135,7 +135,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -150,7 +150,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

@@ -4,12 +4,12 @@
  "url": "/industries/education-research/edtech-platforms/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Education & Research > EdTech & Learning Platforms",
- "seo_title": "EdTech & Learning Platforms | Dataq Software",
+ "seo_title": "EdTech & Learning Platforms | Achala IT Solutions",
  "meta_description": "EdTech companies sell learning outcomes and must prove them: engagement-to-evidence loops, content ops at scale, assessment integrity and institutional.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What EdTech & Learning Platforms means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per cohort outcomes measured against your audited baseline."
+   "x": "What EdTech & Learning Platforms means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per cohort outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

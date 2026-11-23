@@ -24,13 +24,13 @@ import { useMemo, useState } from "react";
      scatter decision map with group legend + hover
    ═══════════════════════════════════════════════════════════════════════════ */
 
-const ORANGE = "#FE5722";
+const ORANGE = "#d20000";
 const PALETTE = [
-  "#FE5722",
+  "#d20000",
   "rgba(255,255,255,0.92)",
   "rgba(254,140,80,0.85)",
   "rgba(255,255,255,0.55)",
-  "rgba(254,87,34,0.45)",
+  "rgba(210, 0, 0,0.45)",
   "rgba(160,190,255,0.75)",
 ];
 
@@ -176,7 +176,7 @@ function LineWidget({ w }: { w: Extract<DashWidget, { kind: "line" }> }) {
             </text>
           ))}
           {hi !== null && (
-            <line x1={x(hi)} x2={x(hi)} y1={PT} y2={PT + ih} stroke="rgba(254,87,34,0.55)" strokeDasharray="3 4" strokeWidth={1.2} />
+            <line x1={x(hi)} x2={x(hi)} y1={PT} y2={PT + ih} stroke="rgba(210, 0, 0,0.55)" strokeDasharray="3 4" strokeWidth={1.2} />
           )}
           {vis.map((s, si) => (
             <g key={s.name}>
@@ -441,7 +441,7 @@ function HeatWidget({ w }: { w: Extract<DashWidget, { kind: "heat" }> }) {
                           onMouseLeave={() => setCell(null)}
                           className="flex h-8 cursor-crosshair items-center justify-center rounded text-[10.5px] font-bold tabular-nums transition"
                           style={{
-                            background: `rgba(254,87,34,${0.08 + f * 0.8})`,
+                            background: `rgba(210, 0, 0,${0.08 + f * 0.8})`,
                             color: f > 0.45 ? "#fff" : "rgba(255,255,255,0.75)",
                             outline: active ? "1.5px solid rgba(255,255,255,0.9)" : "none",
                           }}
@@ -576,7 +576,7 @@ function GaugeWidget({ w }: { w: Extract<DashWidget, { kind: "gauge" }> }) {
     const x1 = 50 + Math.cos(a) * r1;
     const y1 = 50 - Math.sin(a) * r1;
     const large = f > 0.5 ? 1 : 0;
-    const col = crit !== undefined && v >= crit ? "#f87171" : warn !== undefined && v >= warn ? "#facc15" : "#FE5722";
+    const col = crit !== undefined && v >= crit ? "#f87171" : warn !== undefined && v >= warn ? "#facc15" : "#d20000";
     return { d: `M 6 50 A ${r1} ${r1} 0 ${large} 1 ${x1.toFixed(1)} ${y1.toFixed(1)}`, col, f };
   };
   return (
@@ -766,7 +766,7 @@ function SimWidget({ w }: { w: Extract<DashWidget, { kind: "sim" }> }) {
                   nv[i] = parseFloat(e.target.value);
                   setVals(nv);
                 }}
-                className="mt-1 w-full accent-[#FE5722]"
+                className="mt-1 w-full accent-[#d20000]"
                 aria-label={p.name}
               />
               <div className="flex justify-between text-[9px] text-white/35">
@@ -782,7 +782,7 @@ function SimWidget({ w }: { w: Extract<DashWidget, { kind: "sim" }> }) {
               return (
                 <div key={o.spec.name} className="flex items-center justify-between rounded-lg border border-white/10 bg-white/[0.05] px-3 py-2">
                   <span className="text-[11.5px] font-medium text-white/75">{o.spec.name}</span>
-                  <span className="text-[14px] font-bold tabular-nums" style={{ color: bad ? "#f87171" : good ? "#34d399" : "#FE5722" }}>
+                  <span className="text-[14px] font-bold tabular-nums" style={{ color: bad ? "#f87171" : good ? "#34d399" : "#d20000" }}>
                     {o.v.toLocaleString("en-US", { maximumFractionDigits: 1 })}
                     <span className="ml-1 text-[10px] font-medium text-white/45">{o.spec.unit}</span>
                   </span>
@@ -862,7 +862,7 @@ function SloWidget({ w }: { w: Extract<DashWidget, { kind: "slo" }> }) {
                 {traffic.toLocaleString("en-US")} <span className="text-white/45">req/s</span>
               </span>
             </div>
-            <input type="range" min={100} max={50000} step={100} value={traffic} onChange={(e) => setTraffic(parseInt(e.target.value))} className="mt-1 w-full accent-[#FE5722]" aria-label="Request rate" />
+            <input type="range" min={100} max={50000} step={100} value={traffic} onChange={(e) => setTraffic(parseInt(e.target.value))} className="mt-1 w-full accent-[#d20000]" aria-label="Request rate" />
           </div>
           <div className="mb-2">
             <div className="flex items-center justify-between">
@@ -871,7 +871,7 @@ function SloWidget({ w }: { w: Extract<DashWidget, { kind: "slo" }> }) {
                 {errPct.toFixed(2)} <span className="text-white/45">%</span>
               </span>
             </div>
-            <input type="range" min={0} max={2} step={0.01} value={errPct} onChange={(e) => setErrPct(parseFloat(e.target.value))} className="mt-1 w-full accent-[#FE5722]" aria-label="Error rate" />
+            <input type="range" min={0} max={2} step={0.01} value={errPct} onChange={(e) => setErrPct(parseFloat(e.target.value))} className="mt-1 w-full accent-[#d20000]" aria-label="Error rate" />
             <div className="flex justify-between text-[9px] text-white/35">
               <span>0%</span>
               <span>budget floor {budgetPct.toFixed(2)}%</span>
@@ -1010,7 +1010,7 @@ function ArchWidget({ w }: { w: Extract<DashWidget, { kind: "arch" }> }) {
             {w.lanes.map((lane, li) => (
               <g key={lane}>
                 <rect x={laneX(li)} y={10} width={COL_W} height={H - 24} rx={10} fill={li % 2 ? "rgba(255,255,255,0.035)" : "rgba(255,255,255,0.015)"} stroke="rgba(255,255,255,0.06)" />
-                <text x={laneX(li) + COL_W / 2} y={28} fontSize={9.5} fontWeight={800} fill="rgba(254,87,34,0.9)" textAnchor="middle" letterSpacing="0.14em">
+                <text x={laneX(li) + COL_W / 2} y={28} fontSize={9.5} fontWeight={800} fill="rgba(210, 0, 0,0.9)" textAnchor="middle" letterSpacing="0.14em">
                   {lane.toUpperCase()}
                 </text>
               </g>
@@ -1028,9 +1028,9 @@ function ArchWidget({ w }: { w: Extract<DashWidget, { kind: "arch" }> }) {
               const lit = sel && (e.a === sel || e.b === sel);
               return (
                 <g key={`e${i}`}>
-                  <path d={d} fill="none" stroke={lit ? "rgba(254,87,34,0.85)" : "rgba(255,255,255,0.18)"} strokeWidth={lit ? 1.8 : 1.2} />
+                  <path d={d} fill="none" stroke={lit ? "rgba(210, 0, 0,0.85)" : "rgba(255,255,255,0.18)"} strokeWidth={lit ? 1.8 : 1.2} />
                   {lit && e.label && (
-                    <text x={mx} y={(ay + by) / 2 - 4} fontSize={8.5} fill="rgba(254,87,34,0.9)" textAnchor="middle">{e.label}</text>
+                    <text x={mx} y={(ay + by) / 2 - 4} fontSize={8.5} fill="rgba(210, 0, 0,0.9)" textAnchor="middle">{e.label}</text>
                   )}
                 </g>
               );
@@ -1058,8 +1058,8 @@ function ArchWidget({ w }: { w: Extract<DashWidget, { kind: "arch" }> }) {
                 >
                   <rect
                     x={p.x} y={p.y} width={NODE_W} height={NODE_H} rx={8}
-                    fill={active ? "rgba(254,87,34,0.3)" : n.hot ? "rgba(254,87,34,0.14)" : "rgba(255,255,255,0.05)"}
-                    stroke={active ? "#FE5722" : linked ? "rgba(254,87,34,0.6)" : n.hot ? "rgba(254,87,34,0.55)" : "rgba(255,255,255,0.24)"}
+                    fill={active ? "rgba(210, 0, 0,0.3)" : n.hot ? "rgba(210, 0, 0,0.14)" : "rgba(255,255,255,0.05)"}
+                    stroke={active ? "#d20000" : linked ? "rgba(210, 0, 0,0.6)" : n.hot ? "rgba(210, 0, 0,0.55)" : "rgba(255,255,255,0.24)"}
                     strokeWidth={active ? 2 : 1.1}
                   />
                   {lines.slice(0, 2).map((ln, k) => (
@@ -1266,7 +1266,7 @@ export function KpiStrip({ kpis }: { kpis: DashKpiSpec[] }) {
     const d = pts.map((v, i) => `${i === 0 ? "M" : "L"} ${(i / Math.max(pts.length - 1, 1)) * W} ${H - ((v - mn) / span) * H}`).join(" ");
     return (
       <svg viewBox={`0 0 ${W} ${H}`} className="h-[18px] w-[64px]" aria-hidden="true" key={key}>
-        <path d={d} fill="none" stroke="rgba(254,87,34,0.85)" strokeWidth={1.6} />
+        <path d={d} fill="none" stroke="rgba(210, 0, 0,0.85)" strokeWidth={1.6} />
       </svg>
     );
   };

@@ -4,7 +4,7 @@
  "url": "/solutions/customer-360/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Growth & Revenue > Customer 360 & Hyper-Personalization",
- "seo_title": "Customer 360 & Hyper-Personalization | Solution | Dataq Software",
+ "seo_title": "Customer 360 & Hyper-Personalization | Solution | Achala IT Solutions",
  "meta_description": "Customer 360 & Hyper-Personalization — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -84,7 +84,7 @@
   },
   {
    "t": "p",
-   "x": "The solution runs on Dataq Nexus and Dataq Forge: Enterprise decisions in milliseconds — with a full evidence trail for each decision. The governed data estate every AI program needs."
+   "x": "The solution runs on EEMS Platform and Fleet Management System: Enterprise decisions in milliseconds — with a full evidence trail for each decision. The governed data estate every AI program needs."
   },
   {
    "t": "h2",
@@ -242,7 +242,7 @@
   },
   {
    "t": "p",
-   "x": "Customer 360 & Hyper-Personalization follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Customer 360 & Hyper-Personalization follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",
@@ -303,7 +303,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ],
     [
      "A national consumer-electronics chain",

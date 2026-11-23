@@ -14,7 +14,7 @@
   {"id": "W3-07", "item": "Consoles/notes/badges re-labeled", "spec": "8 idash notes and badges now name the domain model (fleet/release/trust/estate/SOC/platform/operations/benchmark console) instead of the shared 'Interactive · portfolio model'"},
   {"id": "W3-08", "item": "Explorer practice notes varied", "spec": "8 identical 'Domain-level view — pick a practice above...' notes rewritten per domain"},
   {"id": "W3-09", "item": "Buyer FAQ per domain", "spec": "5 question-shaped Q&A per hub, domain-specific (RPA coexistence, agent safety, eval ownership, warehouse-vs-lakehouse, twin honesty, HNDL, bake-offs...), feeding FAQ JSON-LD"},
-  {"id": "W3-10", "item": "Unique meta_descriptions", "spec": "8 identical 'X services from Dataq Software: scope, delivery pattern...' metas replaced with per-domain proof-bearing descriptions"},
+  {"id": "W3-10", "item": "Unique meta_descriptions", "spec": "8 identical 'X services from Achala IT Solutions: scope, delivery pattern...' metas replaced with per-domain proof-bearing descriptions"},
   {"id": "W3-11", "item": "Engagement sections retitled", "spec": "Event log→managed fleet, signed metric→governed release, charter-first sequencing, estate baseline→paths, gate map→rehearsed recovery, spreadsheet census→certified metrics, fidelity baseline→fleet ops, triage→bake-off→migrate"},
   {"id": "W3-12", "item": "Thesis sections sharpened", "spec": "Agentic 'The engineering argument behind this domain' → 'Authority is the design problem'; all other 7 hubs keep their already-unique thesis titles"},
   {"id": "W3-13", "item": "Patent-neutral phrasing preserved", "spec": "naming_ci gate runs before push; no inventor or company names anywhere (content-only wave)"},

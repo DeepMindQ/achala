@@ -4,12 +4,12 @@
  "url": "/industries/manufacturing/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Manufacturing & Industrial",
- "seo_title": "Manufacturing & Industrial | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Manufacturing & Industrial: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Manufacturing & Industrial | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Manufacturing & Industrial: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical assets, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical assets, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Decision fabric — how Dataq Software composes Manufacturing & Industrial capability",
+   "title": "Decision fabric — how Achala IT Solutions composes Manufacturing & Industrial capability",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,11 +80,11 @@
   },
   {
    "t": "h2",
-   "x": "How Dataq Software responds"
+   "x": "How Achala IT Solutions responds"
   },
   {
    "t": "p",
-   "x": "Dataq Software delivers the operations stack: retrofit sensor network on brownfield lines, computer vision inspection and safety analytics at the edge, digital twins for capacity decisions, predictive maintenance wired into CMMS work orders, agentic scheduling assistants for planners, and quality analytics that trace escapes to root cause across process telemetry."
+   "x": "Achala IT Solutions delivers the operations stack: retrofit sensor network on brownfield lines, computer vision inspection and safety analytics at the edge, digital twins for capacity decisions, predictive maintenance wired into CMMS work orders, agentic scheduling assistants for planners, and quality analytics that trace escapes to root cause across process telemetry."
   },
   {
    "t": "h2",

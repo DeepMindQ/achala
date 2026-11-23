@@ -1,15 +1,15 @@
 {
  "id": "PLT-twinverse-uc",
- "title": "Dataq Twinverse — Industry Use Cases",
- "url": "/platforms/twinverse/use-cases/",
+ "title": "BI & Analytics Platform — Industry Use Cases",
+ "url": "/platforms/bi-analytics/use-cases/",
  "template": "platform_usecases",
- "breadcrumb": "Platforms > Dataq Twinverse > Industry Use Cases",
- "seo_title": "Dataq Twinverse — Industry Use Cases | Dataq Software",
- "meta_description": "How Dataq Twinverse is deployed across industries: manufacturing, energy, logistics, retail and more.",
+ "breadcrumb": "Platforms > BI & Analytics Platform > Industry Use Cases",
+ "seo_title": "BI & Analytics Platform — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How BI & Analytics Platform is deployed across industries: manufacturing, energy, logistics, retail and more.",
  "blocks": [
   {
    "t": "hero",
-   "x": "A working definition of Dataq Twinverse — Industry Use Cases for the enterprise: engineered controls, named owners, weekly evidence, and a signed baseline so every claim of improvement can be replayed line by line."
+   "x": "A working definition of BI & Analytics Platform — Industry Use Cases for the enterprise: engineered controls, named owners, weekly evidence, and a signed baseline so every claim of improvement can be replayed line by line."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Twinverse across industries",
+   "caption": "BI & Analytics Platform across industries",
    "headers": [
     "Industry",
     "Pattern",
@@ -63,7 +63,7 @@
   {
    "t": "diagram",
    "kind": "pipeline",
-   "title": "Dataq Twinverse — reference flow in production",
+   "title": "BI & Analytics Platform — reference flow in production",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,7 +80,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Dataq Twinverse platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the BI & Analytics Platform platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "bullets",
@@ -117,7 +117,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Twinverse — Industry Use Cases integrates through contracts, not through point-to-point goodwill — each connection has a schema, an owner and a failure policy agreed before it goes live."
+   "x": "BI & Analytics Platform — Industry Use Cases integrates through contracts, not through point-to-point goodwill — each connection has a schema, an owner and a failure policy agreed before it goes live."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
   },
   {
    "t": "p",
-   "x": "Delivery on Dataq Twinverse — Industry Use Cases is sequenced so the measurement always precedes the build: two weeks of baseline before the pilot, a scheduled gate before any scale-out, and a fortnightly reading against the signed number."
+   "x": "Delivery on BI & Analytics Platform — Industry Use Cases is sequenced so the measurement always precedes the build: two weeks of baseline before the pilot, a scheduled gate before any scale-out, and a fortnightly reading against the signed number."
   },
   {
    "t": "cta",
@@ -202,7 +202,7 @@
  "words": 494,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Twinverse",
+ "l2": "BI & Analytics Platform",
  "l3": "Industry Use Cases",
  "l4": "",
  "crumbs": [
@@ -211,28 +211,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Twinverse",
+   "name": "BI & Analytics Platform",
    "url": null
   },
   {
    "name": "Industry Use Cases",
-   "url": "/platforms/twinverse/use-cases/"
+   "url": "/platforms/bi-analytics/use-cases/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Twinverse — Overview",
-   "url": "/platforms/twinverse/",
+   "title": "BI & Analytics Platform — Overview",
+   "url": "/platforms/bi-analytics/",
    "desc": "Digital Twin & IoT Intelligence Platform"
   },
   {
-   "title": "Dataq Twinverse — Architecture & Trust",
-   "url": "/platforms/twinverse/architecture/",
+   "title": "BI & Analytics Platform — Architecture & Trust",
+   "url": "/platforms/bi-analytics/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Twinverse — Industry Use Cases",
-   "url": "/platforms/twinverse/use-cases/",
+   "title": "BI & Analytics Platform — Industry Use Cases",
+   "url": "/platforms/bi-analytics/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

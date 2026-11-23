@@ -4,8 +4,8 @@
  "url": "/industries/telecom-media/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Telecom, Media & Entertainment",
- "seo_title": "Telecom, Media & Entertainment | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Telecom, Media & Entertainment: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Telecom, Media & Entertainment | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Telecom, Media & Entertainment: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Decision fabric — how Dataq Software composes Telecom, Media & Entertainment capability",
+   "title": "Decision fabric — how Achala IT Solutions composes Telecom, Media & Entertainment capability",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,11 +80,11 @@
   },
   {
    "t": "h2",
-   "x": "How Dataq Software responds"
+   "x": "How Achala IT Solutions responds"
   },
   {
    "t": "p",
-   "x": "Dataq Software builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups — streaming personalization, ad targeting under consent, and content-performance analytics."
+   "x": "Achala IT Solutions builds at carrier scale: network telemetry platforms and AIOps, churn and CLV decision hubs, fraud management for interconnect and subsides, edge compute fabric, monetization data products (insights partnerships under privacy architecture), and for media groups — streaming personalization, ad targeting under consent, and content-performance analytics."
   },
   {
    "t": "h2",

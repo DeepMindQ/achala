@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Swarm",
+     "label": "KYC Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Contact Center & Conversational Transformation composes Dataq Swarm, Dataq Nexus — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Telecom, Media & Entertainment, Healthcare & Life Sciences."
+   "x": "Contact Center & Conversational Transformation composes KYC Management System, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Telecom, Media & Entertainment, Healthcare & Life Sciences."
   },
   {
    "t": "h2",

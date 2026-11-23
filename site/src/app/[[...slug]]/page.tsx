@@ -12,9 +12,9 @@ export function generateStaticParams(): { slug: string[] }[] {
 }
 
 const HOME_META: Metadata = {
-  title: "Dataq Software — IT services, consulting & business solutions | AI, cloud, data, security, ERP",
+  title: "Achala IT Solutions — AI-driven IT solutions & digital engineering | AI, ML, IoT, cloud, data",
   description:
-    "Dataq Software is a global IT services, consulting and business solutions partner — from ERP and cloud to AI and data — powered by patented delivery IP and gated on signed metrics. SOC 2 · ISO 27001.",
+    "Achala IT Solutions is an AI-first, platform-driven engineering company — taking solutions from POC to industrialization for mobility, healthcare, manufacturing and financial services. ISO/IEC 27001 · TISAX · GDPR-aligned.",
   alternates: { canonical: "/" },
 };
 

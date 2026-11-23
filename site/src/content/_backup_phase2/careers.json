@@ -1,19 +1,19 @@
 {
  "id": "CO-careers",
- "title": "Careers at Dataq Software",
+ "title": "Careers at Achala IT Solutions",
  "url": "/careers/",
  "template": "company_page",
- "breadcrumb": "About Us > Careers at Dataq Software",
- "seo_title": "Careers at Dataq Software | Dataq Software",
+ "breadcrumb": "About Us > Careers at Achala IT Solutions",
+ "seo_title": "Careers at Achala IT Solutions | Achala IT Solutions",
  "meta_description": "Careers across eight deep-tech towers with credential pathways and global rotation.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Software hires people who want their work to be measurable."
+   "x": "Achala IT Solutions hires people who want their work to be measurable."
   },
   {
    "t": "p",
-   "x": "Dataq Software hires people who want their work to be measurable. Engineers here ship platforms that clear fraud decisions in milliseconds, twins that re-plan supply chains, and PQC migrations that beat regulatory clocks — and every one of them can point to the metric their work moved."
+   "x": "Achala IT Solutions hires people who want their work to be measurable. Engineers here ship platforms that clear fraud decisions in milliseconds, twins that re-plan supply chains, and PQC migrations that beat regulatory clocks — and every one of them can point to the metric their work moved."
   },
   {
    "t": "p",
@@ -77,7 +77,7 @@
  "words": 233,
  "section": "Company",
  "l1": "About Us",
- "l2": "Careers at Dataq Software",
+ "l2": "Careers at Achala IT Solutions",
  "l3": "",
  "l4": "",
  "crumbs": [
@@ -86,19 +86,19 @@
    "url": "/about-us/"
   },
   {
-   "name": "Careers at Dataq Software",
+   "name": "Careers at Achala IT Solutions",
    "url": "/careers/"
   }
  ],
  "related": [
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -127,7 +127,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

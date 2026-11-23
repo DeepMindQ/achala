@@ -196,7 +196,7 @@ COMPLIANCE = {
 
 DEPLOY = {
   "customer tenancy": "Deployed inside your tenancy, your keys, your logs — the default for regulated estates.",
-  "dataq managed": "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path.",
+  "achala managed": "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path.",
   "hybrid / edge": "Split by design: what must stay local stays local, what benefits from scale scales.",
 }
 

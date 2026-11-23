@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/ibm/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > IBM",
- "seo_title": "IBM Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on IBM: Hybrid infrastructure, watsonx AI and mainframe-era modernization.",
+ "seo_title": "IBM Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on IBM: Hybrid infrastructure, watsonx AI and mainframe-era modernization.",
  "words": 184,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with IBM: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with IBM: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",

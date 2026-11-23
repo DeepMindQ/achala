@@ -4,8 +4,8 @@
  "url": "/leadership/chief-ai-data-officer/",
  "template": "leadership_profile",
  "breadcrumb": "Home > About Us > Leadership > Chief AI & Data Officer",
- "seo_title": "Chief AI & Data Officer | Leadership | Dataq Software",
- "meta_description": "Chief AI & Data Officer at Dataq Software — Leads applied AI research, retrieval architectures and the data-contracts practice.",
+ "seo_title": "Chief AI & Data Officer | Leadership | Achala IT Solutions",
+ "meta_description": "Chief AI & Data Officer at Achala IT Solutions — Leads applied AI research, retrieval architectures and the data-contracts practice.",
  "words": 200,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Chief AI & Data Officer mandate at Dataq Software: keep deliveries predictable, keep evidence honest, and stay personally reachable to the clients those deliveries serve."
+   "x": "The Chief AI & Data Officer mandate at Achala IT Solutions: keep deliveries predictable, keep evidence honest, and stay personally reachable to the clients those deliveries serve."
   },
   {
    "t": "h2",
@@ -122,12 +122,12 @@
    "desc": "Runs the four global delivery centers and the first-90-days engagement machinery."
   },
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": "The firm in numbers."
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing."
   }
@@ -140,7 +140,7 @@
    "desc": "Outcomes over output; evidence first; engineered autonomy."
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "tag": "Careers",
    "desc": "Evidence-based hiring across four delivery centers."

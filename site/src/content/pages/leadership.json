@@ -4,16 +4,16 @@
  "url": "/leadership/",
  "template": "company_page",
  "breadcrumb": "About Us > Leadership",
- "seo_title": "Leadership | Dataq Software",
- "meta_description": "Leadership roles and accountability structure across the Dataq Software platform portfolio.",
+ "seo_title": "Leadership Team | Achala IT Solutions",
+ "meta_description": "Meet the leadership of Achala IT Solutions: CEO Rajesh Raju and COO Jyotish Vegesna, with the vice presidents who run engineering, quality, HR, product and the SAP practice.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Named accountability from the top: every platform, domain and control carries an executive owner."
+   "x": "The leadership of Achala IT Solutions Private Limited — founded in 2009 by engineers and consultants who still run delivery today."
   },
   {
    "t": "p",
-   "x": "Dataq Software's leadership structure mirrors its delivery model — each executive owns a domain portfolio and the outcomes it commits to. Roles and focus areas below; names and bios are maintained by the communications team."
+   "x": "Achala IT Solutions's leadership structure mirrors its delivery model — each executive owns a domain portfolio and the outcomes it commits to. Roles and focus areas below; names and bios are maintained by the communications team."
   },
   {
    "t": "h2",
@@ -21,52 +21,52 @@
   },
   {
    "t": "table",
-   "caption": "Leadership roles",
+   "caption": "Management team",
    "headers": [
-    "Role",
     "Name",
-    "Focus"
+    "Role",
+    "Background"
    ],
    "rows": [
     [
-     "Chief Executive Officer",
-     "Executive appointment in progress",
-     "Sets the outcome-linked engagement model and the platform-first strategy across the group."
+     "Rajesh Raju",
+     "CEO & Co-Founder",
+     "25+ years in technology and consulting. Founder of Achala IT Solutions in 2009. B.E. Mechanical Engineering, IIT Madras; MBA, University of Chicago Booth. Management consulting experience with Fortune 500 clients across product marketing, innovation, M&A and BPO."
     ],
     [
-     "Chief Technology Officer",
-     "Executive appointment in progress",
-     "Owns the eight-platform architecture, engineering standards and the responsible-AI framework."
+     "Jyotish Vegesna",
+     "COO & Co-Founder",
+     "13+ years across technology, consulting, product development and operations in automotive, fintech and healthcare. B.Tech Information Technology, SRKR Engineering College. Also COO of Achala Health and Achala Sulzer Ltd."
     ],
     [
-     "Chief AI & Data Officer",
-     "Executive appointment in progress",
-     "Leads applied AI, data and agentic practices; chairs the internal AI governance board."
+     "Venkat Paturu",
+     "Vice President, Software Engineering",
+     "Leads the engineering organization and delivery pods across all practices."
     ],
     [
-     "Chief Security Officer",
-     "Executive appointment in progress",
-     "Runs the zero-trust estate, managed security operations and the AI-security practice."
+     "Sandeep Puli",
+     "Vice President, Product & Startup Management",
+     "Product strategy and startup engagements."
     ],
     [
-     "Chief Delivery Officer",
-     "Executive appointment in progress",
-     "Owns the global delivery model across US, UK, India and KSA pods."
+     "Satish Malla",
+     "Vice President, Human Resources",
+     "People, culture and talent operations."
     ],
     [
-     "Chief Commercial Officer",
-     "Executive appointment in progress",
-     "Leads industry go-to-market, partnerships and outcome-linked commercial models."
+     "Srinivas Adur",
+     "Vice President, Quality and Automation",
+     "Quality engineering, test automation and delivery assurance."
     ],
     [
-     "Chief People Officer",
-     "Executive appointment in progress",
-     "Builds the talent engine: 2,400+ specialists and the internal academy."
+     "Vijay Saradhy Kotra",
+     "Vice President, Product Management (APAC)",
+     "Product management for APAC engagements."
     ],
     [
-     "Chief Financial Officer",
-     "Executive appointment in progress",
-     "Stewards the value-linked commercial structures and platform economics."
+     "Ankit Gujrati",
+     "Vice President, SAP & Mainframes",
+     "Enterprise core systems and the SAP practice."
     ]
    ]
   },
@@ -105,13 +105,13 @@
  ],
  "related": [
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -125,7 +125,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -140,7 +140,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

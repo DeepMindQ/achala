@@ -4,12 +4,12 @@
  "url": "/status/",
  "template": "legal_page",
  "breadcrumb": "Platform Status",
- "seo_title": "Platform Status | Dataq Software",
+ "seo_title": "Platform Status | Achala IT Solutions",
  "meta_description": "Public status page for managed platforms (Nexus, Forge, Swarm, Sentinel, Twinverse) with incident history.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Operational status for the managed Dataq platforms — what we publish here, how incidents are communicated, and where tenant-specific telemetry lives."
+   "x": "Operational status for the managed Achala platforms — what we publish here, how incidents are communicated, and where tenant-specific telemetry lives."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Public availability for the managed surfaces of Dataq Nexus, Forge, Swarm, Sentinel, Twinverse, Quanta, Ledger and Compass when they are consumed as Dataq-operated services. Customer-tenanted deployments are monitored inside each tenant's own observability stack; their status lives with your platform team, not here."
+   "x": "Public availability for the managed surfaces of EEMS Platform, Forge, Swarm, Sentinel, Twinverse, Quanta, Ledger and Compass when they are consumed as Achala-operated services. Customer-tenanted deployments are monitored inside each tenant's own observability stack; their status lives with your platform team, not here."
   },
   {
    "t": "h2",
@@ -52,7 +52,7 @@
    "items": [
     [
      "Owner",
-     "Dataq Software reliability engineering (SRE) function"
+     "Achala IT Solutions reliability engineering (SRE) function"
     ],
     [
      "Review cadence",

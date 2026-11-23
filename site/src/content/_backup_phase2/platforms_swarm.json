@@ -1,15 +1,15 @@
 {
  "id": "PLT-swarm-ov",
- "title": "Dataq Swarm — Overview",
- "url": "/platforms/swarm/",
+ "title": "KYC Management System — Overview",
+ "url": "/platforms/kyc/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Swarm > Overview",
- "seo_title": "Dataq Swarm — Overview | Dataq Software",
+ "breadcrumb": "Platforms > KYC Management System > Overview",
+ "seo_title": "KYC Management System — Overview | Achala IT Solutions",
  "meta_description": "Hundreds of agents as one governed, measurable workforce.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Dataq Swarm — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of KYC Management System — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Swarm is the orchestration layer for agentic operations: role definitions, task queues and bidding, durable execution with saga compensation, policy envelopes (solo/approval/forbidden), per-team budgets, kill switches, and a control tower for fleet health, throughput and cost per completed task."
+   "x": "KYC Management System is the orchestration layer for agentic operations: role definitions, task queues and bidding, durable execution with saga compensation, policy envelopes (solo/approval/forbidden), per-team budgets, kill switches, and a control tower for fleet health, throughput and cost per completed task."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Swarm — control and evidence planes",
+   "title": "KYC Management System — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "What holds Dataq Swarm — Overview together is discipline at the boundaries — typed contracts between stages, versioned releases, and a replay trail for every decision. The diagram above shows how the pieces compose; the gate reviews are what keep them honest."
+   "x": "What holds KYC Management System — Overview together is discipline at the boundaries — typed contracts between stages, versioned releases, and a replay trail for every decision. The diagram above shows how the pieces compose; the gate reviews are what keep them honest."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Teams adopt Dataq Swarm — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
+   "x": "Teams adopt KYC Management System — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 575,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Swarm",
+ "l2": "KYC Management System",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Swarm",
+   "name": "KYC Management System",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/swarm/"
+   "url": "/platforms/kyc/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Swarm — Overview",
-   "url": "/platforms/swarm/",
+   "title": "KYC Management System — Overview",
+   "url": "/platforms/kyc/",
    "desc": "Agentic AI Orchestration Platform"
   },
   {
-   "title": "Dataq Swarm — Architecture & Trust",
-   "url": "/platforms/swarm/architecture/",
+   "title": "KYC Management System — Architecture & Trust",
+   "url": "/platforms/kyc/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Swarm — Industry Use Cases",
-   "url": "/platforms/swarm/use-cases/",
+   "title": "KYC Management System — Industry Use Cases",
+   "url": "/platforms/kyc/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

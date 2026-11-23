@@ -4,7 +4,7 @@
  "url": "/solutions/quality-yield-energy/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Quality, Yield & Energy Intelligence",
- "seo_title": "Quality, Yield & Energy Intelligence | Solution | Dataq Software",
+ "seo_title": "Quality, Yield & Energy Intelligence | Solution | Achala IT Solutions",
  "meta_description": "Quality, Yield & Energy Intelligence — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Twinverse",
+     "label": "BI & Analytics Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Quality, Yield & Energy Intelligence composes Dataq Twinverse, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Manufacturing & Industrial, Energy & Utilities, Agrifood, Semiconductors."
+   "x": "Quality, Yield & Energy Intelligence composes BI & Analytics Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Manufacturing & Industrial, Energy & Utilities, Agrifood, Semiconductors."
   },
   {
    "t": "h2",

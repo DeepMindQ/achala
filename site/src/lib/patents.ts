@@ -1,7 +1,7 @@
-/* ── Dataq Software method-family registry (proprietary IP) ──────────────────
-   Distilled from the eight complete specifications held by the Dataq Software
+/* ── Achala IT Solutions method-family registry (proprietary IP) ──────────────────
+   Distilled from the eight complete specifications held by the Achala IT Solutions
    research programme — the intellectual-property foundation beneath the
-   Dataq platform portfolio. Only delivery-relevant capability summaries are
+   Achala platform portfolio. Only delivery-relevant capability summaries are
    surfaced on the site (no claims language, no applicant details).        */
 
 export type Patent = {
@@ -19,7 +19,7 @@ export const PATENTS: Patent[] = [
     ref: "GNN-Contextual",
     title: "Contextual Intelligence Processing Using Graph Neural Networks",
     oneLiner:
-      "The graph core of Dataq Nexus: dynamic heterogeneous graphs, hypergraph tensors, quantum-inspired embedding and deterministic streaming for real-time contextual reasoning.",
+      "The graph core of EEMS Platform: dynamic heterogeneous graphs, hypergraph tensors, quantum-inspired embedding and deterministic streaming for real-time contextual reasoning.",
     outcome:
       "Means: decisions that cite their full context — the replay trail your auditor asks for.",
     capabilities: [
@@ -36,7 +36,7 @@ export const PATENTS: Patent[] = [
     ref: "Quantum-Workflow",
     title: "Optimizing Computational Workflows Using Quantum-Inspired Algorithms",
     oneLiner:
-      "Tensor-manifold processing, quantum-walk exploration and logarithmic-complexity scheduling executed across TPU/FPGA fabric — the Dataq Quanta and Forge optimization core.",
+      "Tensor-manifold processing, quantum-walk exploration and logarithmic-complexity scheduling executed across TPU/FPGA fabric — the Token Management System and Forge optimization core.",
     outcome:
       "Means: scheduling and optimization that stays near-log-cost as the estate grows.",
     capabilities: [
@@ -53,7 +53,7 @@ export const PATENTS: Patent[] = [
     ref: "Federated-Distributed",
     title: "Distributed Intelligence Using Federated Learning in Enterprise Networks",
     oneLiner:
-      "Privacy-preserving collaborative intelligence: ZHNE homomorphic encryption, Multi-Scale Asynchronous Byzantine Consensus and swarm-based self-healing clusters — the Dataq Sentinel trust fabric.",
+      "Privacy-preserving collaborative intelligence: ZHNE homomorphic encryption, Multi-Scale Asynchronous Byzantine Consensus and swarm-based self-healing clusters — the Tele Medicine Platform trust fabric.",
     outcome:
       "Means: partner analytics without sharing raw data — the control your DPO will ask about.",
     capabilities: [
@@ -87,7 +87,7 @@ export const PATENTS: Patent[] = [
     ref: "GenAI-Workflows",
     title: "Automating Knowledge Workflows Using Generative Artificial Intelligence",
     oneLiner:
-      "Self-improving orchestration: transformer workflow blueprints, temporal reasoning, knowledge-liquidity protocols and multi-agent reinforcement learning — the Dataq Swarm engine.",
+      "Self-improving orchestration: transformer workflow blueprints, temporal reasoning, knowledge-liquidity protocols and multi-agent reinforcement learning — the KYC Management System engine.",
     outcome:
       "Means: digital workers that improve on the job under guardrails — every action logged and reversible.",
     capabilities: [
@@ -104,7 +104,7 @@ export const PATENTS: Patent[] = [
     ref: "Pattern-Recognition",
     title: "Adaptive Pattern Recognition Using Quantum-Enhanced Neural Networks",
     oneLiner:
-      "Real-time multimodal perception — vision, audio, text and sensor fusion with quantum feedback loops and probabilistic ensemble learning — the Dataq Twinverse perception layer.",
+      "Real-time multimodal perception — vision, audio, text and sensor fusion with quantum feedback loops and probabilistic ensemble learning — the BI & Analytics Platform perception layer.",
     outcome:
       "Means: one perception layer across sensor, video and text — recalibrated without retraining pauses.",
     capabilities: [
@@ -121,7 +121,7 @@ export const PATENTS: Patent[] = [
     ref: "Energy-Workload",
     title: "AI-Driven Energy-Efficient Workload Optimization in Distributed Computing",
     oneLiner:
-      "Grid-aware orchestration: tensor workload decomposition, reinforcement-learned scheduling and power-state modulation that cut datacenter energy per decision — the Dataq Forge economics engine.",
+      "Grid-aware orchestration: tensor workload decomposition, reinforcement-learned scheduling and power-state modulation that cut datacenter energy per decision — the Fleet Management System economics engine.",
     outcome:
       "Means: compute cost and energy per decision fall together — visible on your infrastructure bill.",
     capabilities: [
@@ -138,7 +138,7 @@ export const PATENTS: Patent[] = [
     ref: "Adaptive-Learning",
     title: "Adaptive Learning Using Reinforcement Optimization and Self-Evolving Frameworks",
     oneLiner:
-      "Self-evolving decision systems: neural architecture search, temporal-spatial feature extraction and knowledge-graph decision support synced by Raft consensus — the Dataq Compass intelligence loop.",
+      "Self-evolving decision systems: neural architecture search, temporal-spatial feature extraction and knowledge-graph decision support synced by Raft consensus — the Driisti Smart Vision Glasses intelligence loop.",
     outcome:
       "Means: systems that keep learning under governance — explained to stakeholders, synced by consensus.",
     capabilities: [

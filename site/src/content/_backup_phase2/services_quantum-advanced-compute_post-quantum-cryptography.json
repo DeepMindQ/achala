@@ -4,12 +4,12 @@
  "url": "/services/quantum-advanced-compute/post-quantum-cryptography/",
  "template": "service_page",
  "breadcrumb": "Services > Quantum & Advanced Compute > Post-Quantum Cryptography Migration",
- "seo_title": "Post-Quantum Cryptography Migration | Dataq Software",
- "meta_description": "Post-Quantum Cryptography Migration from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Post-Quantum Cryptography Migration | Achala IT Solutions",
+ "meta_description": "Post-Quantum Cryptography Migration from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -282,7 +282,7 @@
    "items": [
     [
      "HPC & Simulation Engineering",
-     "What HPC & Simulation Engineering means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
+     "What HPC & Simulation Engineering means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
     ],
     [
      "Neuromorphic & Emerging Compute Advisory",

@@ -4,12 +4,12 @@
  "url": "/privacy-policy/",
  "template": "legal_page",
  "breadcrumb": "Privacy Policy",
- "seo_title": "Privacy Policy | Dataq Software",
+ "seo_title": "Privacy Policy | Achala IT Solutions",
  "meta_description": "Template covering data controller identity, processing purposes, legal bases, retention, subject rights, international transfers and DPO contact. 【Legal.",
  "blocks": [
   {
    "t": "hero",
-   "x": "How Dataq Software Corporation collects, uses, shares and protects personal data across this website and our delivery operations, and the rights you can exercise over it."
+   "x": "How Achala IT Solutions Corporation collects, uses, shares and protects personal data across this website and our delivery operations, and the rights you can exercise over it."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software Corporation (“Dataq Software”, “we”) is the controller for personal data processed through dataqsoft.com and the contact routes it publishes. Delivery entities in the United States, United Kingdom, India and Saudi Arabia act as processors for client engagements under the terms of each contract."
+   "x": "Achala IT Solutions Corporation (“Achala IT Solutions”, “we”) is the controller for personal data processed through achalasolutions.com and the contact routes it publishes. Delivery entities in the United States, United Kingdom, India and Saudi Arabia act as processors for client engagements under the terms of each contract."
   },
   {
    "t": "h2",
@@ -65,7 +65,7 @@
   },
   {
    "t": "p",
-   "x": "Questions or complaints about privacy can be sent to info@dataqsoft.com, marked for the attention of the privacy function. You also have the right to lodge a complaint with your local supervisory authority."
+   "x": "Questions or complaints about privacy can be sent to info@achalasolutions.com, marked for the attention of the privacy function. You also have the right to lodge a complaint with your local supervisory authority."
   },
   {
    "t": "h2",
@@ -76,7 +76,7 @@
    "items": [
     [
      "Owner",
-     "Dataq Software Legal Affairs, with the privacy function as operational delegate"
+     "Achala IT Solutions Legal Affairs, with the privacy function as operational delegate"
     ],
     [
      "Review cadence",

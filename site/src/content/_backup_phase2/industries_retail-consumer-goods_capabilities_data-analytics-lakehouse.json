@@ -4,12 +4,12 @@
  "url": "/industries/retail-consumer-goods/capabilities/data-analytics-lakehouse/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Capabilities > Data, Analytics & Lakehouse",
- "seo_title": "Data & Lakehouse for Retail & Consumer Goods | Dataq Software",
- "meta_description": "Data & Lakehouse for Retail & Consumer Goods: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Data & Lakehouse for Retail & Consumer Goods | Achala IT Solutions",
+ "meta_description": "Data & Lakehouse for Retail & Consumer Goods: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Data & Lakehouse for Retail & Consumer Goods means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per SKU-store outcomes measured against your audited baseline."
+   "x": "What Data & Lakehouse for Retail & Consumer Goods means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per SKU-store outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -82,7 +82,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ],
     [
      "Enterprise BI & Executive Analytics",

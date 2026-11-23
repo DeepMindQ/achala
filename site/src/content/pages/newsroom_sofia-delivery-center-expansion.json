@@ -1,0 +1,117 @@
+{
+ "id": "news-sofia-delivery-center-expansion",
+ "title": "Sofia delivery center expands to serve Vision 2030 programs",
+ "url": "/newsroom/sofia-delivery-center-expansion/",
+ "template": "newsroom_article",
+ "breadcrumb": "Home > About Us > Newsroom > Sofia delivery center expands to serve Vision 2030 programs",
+ "seo_title": "Sofia delivery center expands to serve Vision 2030 programs",
+ "meta_description": "The Financial District-based center doubles its sovereign-delivery capacity for smart-city, energy and public-sector programs in the Kingdom.",
+ "words": 189,
+ "section": "Company",
+ "l1": "About Us",
+ "l2": "Newsroom",
+ "l3": "Sofia delivery center expands to serve Vision 2030 programs",
+ "l4": "",
+ "published": "2026-09-30",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Company release from Achala IT Solutions: Sofia delivery center expands to serve Vision 2030 programs. What shipped, why now, and what it means for active engagements."
+  },
+  {
+   "t": "h2",
+   "x": "What happened"
+  },
+  {
+   "t": "p",
+   "x": "What happened: the baseline was signed in the first two weeks, the pilot ran against a control group, and the measured delta went to the gate — the account below stays close to that evidence."
+  },
+  {
+   "t": "h2",
+   "x": "Why it matters"
+  },
+  {
+   "t": "p",
+   "x": "Sofia delivery center expands to serve Vision 2030 programs matters because the decision it improves is made hourly, and a small change in its quality compounds across the year — which is why we measure it before we promise anything."
+  },
+  {
+   "t": "h2",
+   "x": "Details"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Scope",
+     "What is in scope and, as importantly, what is not — written before the pilot starts."
+    ],
+    [
+     "Timing",
+     "effective from 2026-09-30, with the enablement material available to delivery teams immediately and client-facing documentation updating through the week"
+    ],
+    [
+     "Evidence",
+     "The evidence behind the claim, attached — method note, measurement window and who verified it."
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What happens next"
+  },
+  {
+   "t": "p",
+   "x": "What actually changed with sofia delivery center expands to serve vision 2030 programs:"
+  },
+  {
+   "t": "cta",
+   "x": "For press enquiries, use the newsroom contact — named inbox, one business day response."
+  }
+ ],
+ "crumbs": [
+  {
+   "name": "Home",
+   "url": "/"
+  },
+  {
+   "name": "About Us",
+   "url": "/about-us/"
+  },
+  {
+   "name": "Newsroom",
+   "url": "/newsroom/"
+  },
+  {
+   "name": "Sofia delivery center expands to serve Vision 2030 programs",
+   "url": "/newsroom/sofia-delivery-center-expansion/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Newsroom",
+   "url": "/newsroom/",
+   "desc": "Releases and announcements."
+  },
+  {
+   "title": "Achala IT Solutions launches its new digital platform",
+   "url": "/newsroom/achalasolutions-launches-new-digital-platform/",
+   "desc": "The new achalasolutions.com goes live with 600+ pages of industry- and service-aligned engineering content, reflecting the firm's eight technology domains and outcome-linked engagement model."
+  },
+  {
+   "title": "EEMS Platform reaches general availability for decision intelligence",
+   "url": "/newsroom/achala-nexus-general-availability/",
+   "desc": "The decision-intelligence hub behind real-time credit, claims, pricing and fraud decisions is now generally available with replay, champion-challenger and full evidence trails."
+  },
+  {
+   "title": "ISO 27001 and ISO/IEC 27001 programs renewed across delivery centers",
+   "url": "/newsroom/iso-27001-and-soc-2-renewals/",
+   "desc": "Annual audits reconfirm the control set behind the firm's zero-exposure record across all four delivery centers."
+  },
+  {
+   "title": "Responsible AI Framework version 2.0 published",
+   "url": "/newsroom/responsible-ai-framework-v2/",
+   "desc": "The framework now covers agentic systems end-to-end: policy envelopes, authority gates, evaluation evidence and drift response."
+  }
+ ],
+ "cards": []
+}

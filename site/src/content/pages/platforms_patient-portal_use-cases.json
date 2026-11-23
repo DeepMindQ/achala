@@ -1,0 +1,138 @@
+{
+ "id": "PLT-ledger-uc",
+ "title": "Patient Priority Portal — Industry Use Cases",
+ "url": "/platforms/patient-portal/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Patient Priority Portal > Industry Use Cases",
+ "seo_title": "Patient Priority Portal — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How Patient Priority Portal is deployed across industries: banking, agriculture, logistics, energy and more.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Patient Priority Portal earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "Where the cost hides"
+  },
+  {
+   "t": "table",
+   "caption": "Patient Priority Portal — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Banking",
+     "Interbank event reconciliation",
+     "Immutable log both auditors accept"
+    ],
+    [
+     "Insurance",
+     "Parametric trigger and payout records",
+     "Provenance graph from event to payout"
+    ],
+    [
+     "Supply chain",
+     "Provenance claims at product level",
+     "Selective disclosure for each participant"
+    ],
+    [
+     "Public sector",
+     "Grant and benefits disbursement trails",
+     "Signed events end-to-end"
+    ],
+    [
+     "Energy",
+     "Renewable certificate provenance",
+     "Consensus without a gatekeeper"
+    ],
+    [
+     "Healthcare",
+     "Consent and disclosure records",
+     "Attribution that survives scrutiny"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "From baseline to working slice"
+  },
+  {
+   "t": "p",
+   "x": "Patient Priority Portal deployments begin narrow: one decision class, one owner, one evidence pack. The second use case inherits the controls; the third inherits the audit story."
+  },
+  {
+   "t": "h2",
+   "x": "The ground truth of this sector"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Patient Priority Portal as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Bring a working session on Patient Priority Portal to a 45-minute briefing with the practice lead — your metric, our method, and an honest read on feasibility."
+  }
+ ],
+ "words": 210,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Patient Priority Portal",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Patient Priority Portal",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/patient-portal/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Patient Priority Portal — Overview",
+   "url": "/platforms/patient-portal/",
+   "desc": "Distributed Trust & Tokenization Platform"
+  },
+  {
+   "title": "Patient Priority Portal — Architecture & Trust",
+   "url": "/platforms/patient-portal/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Patient Priority Portal — Industry Use Cases",
+   "url": "/platforms/patient-portal/use-cases/",
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A European specialty reinsurer",
+   "url": "/case-studies/ins-03/",
+   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+  },
+  {
+   "title": "A global fashion group",
+   "url": "/case-studies/ret-02/",
+   "desc": "Sell-through +8 points and hero-SKU availability +24% — assortment intelligence"
+  },
+  {
+   "title": "A global coffee trader",
+   "url": "/case-studies/agr-02/",
+   "desc": "EUDR due-diligence automated — compliance evidence in hours, premium channels opened"
+  },
+  {
+   "title": "A food processor (dairy)",
+   "url": "/case-studies/agr-03/",
+   "desc": "Yield +2.8 points, recalls scoped in minutes — quality and traceability program"
+  }
+ ],
+ "cards": []
+}

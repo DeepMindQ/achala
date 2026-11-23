@@ -4,8 +4,8 @@
  "url": "/careers/working-here/",
  "template": "careers_page",
  "breadcrumb": "Home > About Us > Careers > Working Here",
- "seo_title": "Working Here | Careers | Dataq Software",
- "meta_description": "Working Here at Dataq Software — What it is like to build a career inside an outcome-linked engineering firm — guilds, evidence-first reviews and work.",
+ "seo_title": "Working Here | Careers | Achala IT Solutions",
+ "meta_description": "Working Here at Achala IT Solutions — What it is like to build a career inside an outcome-linked engineering firm — guilds, evidence-first reviews and work.",
  "words": 236,
  "section": "Company",
  "l1": "About Us",
@@ -15,7 +15,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "What working at Dataq Software is actually like: small teams, real production ownership, evidence over opinions, and a career ladder that rewards engineering depth as much as management."
+   "x": "What working at Achala IT Solutions is actually like: small teams, real production ownership, evidence over opinions, and a career ladder that rewards engineering depth as much as management."
   },
   {
    "t": "h2",
@@ -51,7 +51,7 @@
   },
   {
    "t": "cta",
-   "x": "Send your CV and one artifact you are proud of to careers@dataqsoft.com — a human reads it, and you will hear back inside a week."
+   "x": "Send your CV and one artifact you are proud of to careers@achalasolutions.com — a human reads it, and you will hear back inside a week."
   }
  ],
  "crumbs": [

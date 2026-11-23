@@ -4,8 +4,8 @@
  "url": "/industries/energy-utilities/capabilities/data-analytics-lakehouse/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Data, Analytics & Lakehouse",
- "seo_title": "Data & Lakehouse for Energy & Utilities | Dataq Software",
- "meta_description": "Data & Lakehouse for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Data & Lakehouse for Energy & Utilities | Achala IT Solutions",
+ "meta_description": "Data & Lakehouse for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -82,7 +82,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ],
     [
      "Enterprise BI & Executive Analytics",
@@ -236,7 +236,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Mail, MapPin, ShieldCheck, Linkedin, Twitter, Youtube, Rss } from "lucide-react";
+import { Mail, MapPin, ShieldCheck, Linkedin, Twitter, Facebook, Instagram, Rss } from "lucide-react";
 import Logo from "./Logo";
 import Reveal from "./Reveal";
 import ContactForm from "./ContactForm";
@@ -14,10 +14,10 @@ export default function SiteFooter({ brand, footer }: { brand: Brand; footer: Fo
         <div className="container-dq grid gap-10 py-14 lg:grid-cols-2">
           <div>
             <p className="kicker-bar-dark text-[12px] font-semibold uppercase tracking-[0.18em] text-brand-300">
-              Contact Dataq Software
+              Contact Achala IT Solutions
             </p>
             <h2 className="mt-2 font-display text-2xl font-semibold leading-snug text-white sm:text-3xl">
-              Tell us the metric you need to move.
+              Tell us the outcome you need to move.
             </h2>
             <p className="mt-3 max-w-md text-[14px] leading-relaxed text-white/65">
               A practice lead — not a call center — responds within one business day with the
@@ -41,7 +41,7 @@ export default function SiteFooter({ brand, footer }: { brand: Brand; footer: Fo
               <p className="flex items-start gap-2">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-300" />
                 <span>
-                  {brand.offices.map((o) => o.city.split(",")[0]).join(" · ")} — four global delivery centers
+                  {brand.offices.map((o) => o.city.split(",")[0]).join(" · ")} — global delivery from India, Germany and Bulgaria
                 </span>
               </p>
             </div>
@@ -125,9 +125,10 @@ export default function SiteFooter({ brand, footer }: { brand: Brand; footer: Fo
             {/* Social row (CHG-077): wire hrefs to the real profiles when public */}
             <div className="flex items-center gap-2" aria-label="Social profiles">
               {[
-                { icon: Linkedin, label: "LinkedIn", href: "#" },
-                { icon: Twitter, label: "X", href: "#" },
-                { icon: Youtube, label: "YouTube", href: "#" },
+                { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/company/achala-it-solutions-pvt-ltd/" },
+                { icon: Twitter, label: "X (Twitter)", href: "https://twitter.com/AchalaIt" },
+                { icon: Facebook, label: "Facebook", href: "https://www.facebook.com/Achala-it-Solutions-Pvt-Ltd-2009-100557234648701/" },
+                { icon: Instagram, label: "Instagram", href: "https://www.instagram.com/achala_itsolutions/" },
                 { icon: Rss, label: "RSS", href: "/insights/" },
               ].map(({ icon: Icon, label, href }) => (
                 <a
@@ -142,7 +143,7 @@ export default function SiteFooter({ brand, footer }: { brand: Brand; footer: Fo
               ))}
             </div>
             <p className="text-[12px] text-white/45">
-              © {new Date().getFullYear()} {brand.legalName}. Every release gated on signed evidence · SOC 2 Type II · ISO 27001.
+              © {new Date().getFullYear()} {brand.legalName}. ISO/IEC 27001 · TISAX · GDPR-aligned delivery.
             </p>
           </div>
         </div>

@@ -4,7 +4,7 @@
  "url": "/solutions/aiops-autonomous-it/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > AIOps & Autonomous IT Operations",
- "seo_title": "AIOps & Autonomous IT Operations | Solution | Dataq Software",
+ "seo_title": "AIOps & Autonomous IT Operations | Solution | Achala IT Solutions",
  "meta_description": "AIOps & Autonomous IT Operations — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -84,7 +84,7 @@
   },
   {
    "t": "p",
-   "x": "The solution runs on Dataq Swarm and Dataq Forge: Many agents operating as one governed, measurable workforce. The governed data estate every AI program needs."
+   "x": "The solution runs on KYC Management System and Fleet Management System: Many agents operating as one governed, measurable workforce. The governed data estate every AI program needs."
   },
   {
    "t": "h2",
@@ -303,7 +303,7 @@
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
+     "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
     ],
     [
      "A national tax administration",

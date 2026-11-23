@@ -4,12 +4,12 @@
  "url": "/services/cybersecurity-zero-trust/zero-trust-architecture/",
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Zero-Trust Architecture & Implementation",
- "seo_title": "Zero-Trust Architecture & Implementation | Dataq Software",
- "meta_description": "Zero-Trust Architecture & Implementation from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Zero-Trust Architecture & Implementation | Achala IT Solutions",
+ "meta_description": "Zero-Trust Architecture & Implementation from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -249,7 +249,7 @@
    "items": [
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "Threat Intelligence & Managed SOC",
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "Zero-Trust Architecture & Implementation follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Zero-Trust Architecture & Implementation follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

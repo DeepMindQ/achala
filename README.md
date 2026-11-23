@@ -1,6 +1,6 @@
-# DataQ Soft — Corporate Website
+# Achala IT Solutions — Corporate Website
 
-The full public website for **www.dataqsoft.com** — a 633-page, Fortune-100-grade
+The full public website for **www.achalasolutions.com** — a 633-page, Fortune-100-grade
 static-first platform built from the approved content package (223,751 words of
 industry- and service-aligned deep-technology copy).
 
@@ -33,10 +33,10 @@ bun run export     # static export -> ./out (run "npx serve out" to preview)
 
 Copy `.env.example` to `.env`:
 
-- `NEXT_PUBLIC_SITE_URL` — canonical site URL (default https://www.dataqsoft.com)
+- `NEXT_PUBLIC_SITE_URL` — canonical site URL (default https://www.achalasolutions.com)
 - `NEXT_PUBLIC_FORM_ACCESS_KEY` — Web3Forms access key; without it the contact
   form runs in demo mode (success state, no delivery). Get a free key at
-  web3forms.com; submissions are delivered to your inbox (info@dataqsoft.com).
+  web3forms.com; submissions are delivered to your inbox (info@achalasolutions.com).
 - `NEXT_PUBLIC_GA_ID` — GA4 measurement id, loaded only after cookie consent.
 
 ## Deploy
@@ -62,7 +62,7 @@ its metadata, sitemap entry and search index all update on the next build.
 To regenerate the whole content set from the source data modules:
 
 ```bash
-cd scripts/dataqsoft
+cd scripts/achalasolutions
 python3 dqs_site_export.py     # emits src/content/* (633 pages) and verifies the link graph
 ```
 
@@ -72,7 +72,7 @@ These are marked in the content and must be swapped for real data:
 
 1. **Leadership names** (8 profiles under `/leadership/…`) — the names shown
    are placeholders (`placeholder: true` in JSON); replace name + biography.
-2. **Contact emails** — `info@ / press@ / careers@dataqsoft.com` are set as
+2. **Contact emails** — `info@ / press@ / careers@achalasolutions.com` are set as
    the documented inboxes; confirm they exist.
 3. **Partner alliance pages** (`/partner-ecosystem/…`) — written as
    *alliance status: in validation*; upgrade copy + logos after legal
@@ -91,6 +91,6 @@ src/app/page.tsx               — (removed; home handled by catch-all, slug=[])
 src/components/site/           — header/mega-menu, footer+form, templates, SEO pieces
 src/lib/content.ts             — server-side content layer
 src/content/                   — index.json + 633 page JSONs + nav.json + brand.json
-scripts/dataqsoft/             — content source modules + exporter (Python)
+scripts/achalasolutions/             — content source modules + exporter (Python)
 .github/workflows/             — GitHub Pages deploy
 ```

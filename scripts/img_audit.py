@@ -3,7 +3,7 @@
 Checks every <img src>, srcset entry, og:image and CSS url() found in HTML,
 then verifies whether each target file exists in:
   - out/    (root-context build served on port 4173)
-  - out-gh/ (basePath=/DataQ build served on github.io/DataQ/)
+  - out-gh/ (basePath=/achala build served on github.io/achala/)
 Reports missing files grouped by path.
 """
 import os, re, sys, json
@@ -73,9 +73,9 @@ def main():
                     key = base
                     missing_root[key] += 1
                     examples.setdefault(key, rel)
-                # gh context: root-absolute URLs need the /DataQ prefix to be served
-                if base.startswith("/") and not base.startswith("/DataQ/"):
-                    gh_path = OUT_GH + base  # unprefixed -> 404 on github.io/DataQ/
+                # gh context: root-absolute URLs need the /achala prefix to be served
+                if base.startswith("/") and not base.startswith("/achala/"):
+                    gh_path = OUT_GH + base  # unprefixed -> 404 on github.io/achala/
                     if not os.path.exists(gh_path.replace("/out-gh", "/out-gh")):
                         pass  # file presence in out-gh at unprefixed path is irrelevant; URL is broken regardless
                     missing_gh["UNPREFIXED:" + base] += 1

@@ -2,11 +2,11 @@
 """Naming + confidentiality CI gate (BG-008 / BG-014 / BG-017) + content lint (E-20).
 
 HARD RULES enforced before any static export leaves the machine:
-  1. Brand naming  — the only allowed brand string is "Dataq Software".
-     Forbidden: "DataQ Soft", "DataQSoft", "DataQ Software", bare "DataQ".
+  1. Brand naming  — the only allowed brand string is "Achala IT Solutions".
+     Forbidden: "Achala IT Solutions", "Achala IT Solutions", "Achala IT Solutionsware", bare "Achala".
   2. Confidentiality — the R&D programme source entity must never appear:
      forbidden: "Strategemist", "Pisupati", "VSS Ravi Shanker".
-     (Note: Hyderabad as Dataq Software's own delivery-center city is ALLOWED;
+     (Note: Hyderabad as Achala IT Solutions's own delivery-center city is ALLOWED;
       the forbidden strings are the secret entity and personnel names.)
   3. Content lint (E-20, Wave 0):
      a. HARD trust guards — fail the build immediately:
@@ -40,10 +40,10 @@ TEXT_EXT = {
 }
 
 BRAND_RULES = [
-    # (compiled pattern, replacement, label)
-    (re.compile(r"DataQ\s*Soft(ware)?"), "Dataq Software", "DataQ Soft/Software"),
-    (re.compile(r"DataQSoft"), "Dataq Software", "DataQSoft joined"),
-    (re.compile(r"(?<![A-Za-z])DataQ(?![A-Za-z])"), "Dataq", "bare DataQ"),
+    # (compiled pattern, replacement, label) — legacy DataQ strings must never appear
+    (re.compile(r"(?i)dataq[-\s]*soft(ware)?"), "Achala IT Solutions", "legacy 'DataQ Soft(ware)' brand"),
+    (re.compile(r"(?i)dataqsoft"), "achalasolutions", "legacy dataqsoft domain/brand"),
+    (re.compile(r"(?i)(?<![A-Za-z])dataq(?![A-Za-z])"), "Achala", "legacy bare DataQ token"),
 ]
 
 CONFIDENTIAL_RULES = [
@@ -84,12 +84,12 @@ def main() -> int:
                 brand_viol.append((str(f.relative_to(SITE)), label, n))
                 if fix:
                     s = pat.sub(repl, s)
-        brand_ok_count += len(re.findall(r"Dataq Software", s))
+        brand_ok_count += len(re.findall(r"Achala IT Solutions", s))
         if fix and s != orig:
             f.write_text(s, encoding="utf-8")
 
     print(f"[naming_ci] files scanned: {sum(1 for _ in iter_files())}")
-    print(f"[naming_ci] 'Dataq Software' occurrences: {brand_ok_count}")
+    print(f"[naming_ci] 'Achala IT Solutions' occurrences: {brand_ok_count}")
 
     if brand_viol:
         print("[naming_ci] BRAND VIOLATIONS:")

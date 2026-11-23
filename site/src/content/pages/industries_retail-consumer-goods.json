@@ -4,8 +4,8 @@
  "url": "/industries/retail-consumer-goods/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Retail & Consumer Goods",
- "seo_title": "Retail & Consumer Goods | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Retail & Consumer Goods: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Retail & Consumer Goods | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Retail & Consumer Goods: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software builds the retail decision stack: demand and pricing intelligence on streaming data, agentic replenishment and allocation, personalization platforms with privacy architecture, store-edge vision for shelf and safety, supply-chain twins from supplier to shelf, and retail-media analytics that prove incrementality rather than correlation."
+   "x": "Achala IT Solutions builds the retail decision stack: demand and pricing intelligence on streaming data, agentic replenishment and allocation, personalization platforms with privacy architecture, store-edge vision for shelf and safety, supply-chain twins from supplier to shelf, and retail-media analytics that prove incrementality rather than correlation."
   },
   {
    "t": "h2",

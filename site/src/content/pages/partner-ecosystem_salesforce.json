@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/salesforce/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Salesforce",
- "seo_title": "Salesforce Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Salesforce: Customer-platform intelligence and Data Cloud programs.",
+ "seo_title": "Salesforce Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Salesforce: Customer-platform intelligence and Data Cloud programs.",
  "words": 171,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Salesforce: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Salesforce: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",

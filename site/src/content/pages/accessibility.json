@@ -4,12 +4,12 @@
  "url": "/accessibility/",
  "template": "legal_page",
  "breadcrumb": "Accessibility Statement",
- "seo_title": "Accessibility Statement | Dataq Software",
+ "seo_title": "Accessibility Statement | Achala IT Solutions",
  "meta_description": "Commitment to WCAG 2.2 AA, feedback channel, and conformance status per jurisdiction.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Our commitment to WCAG 2.2 Level AA across dataqsoft.com, the measures we maintain, and how to tell us when something is in your way."
+   "x": "Our commitment to WCAG 2.2 Level AA across achalasolutions.com, the measures we maintain, and how to tell us when something is in your way."
   },
   {
    "t": "h2",
@@ -49,7 +49,7 @@
   },
   {
    "t": "p",
-   "x": "If any page blocks you, write to info@dataqsoft.com with the page URL and what failed. Accessibility reports are answered within two business days with either a fix plan or a workaround, and we will provide the requested content through an alternative channel while the fix ships."
+   "x": "If any page blocks you, write to info@achalasolutions.com with the page URL and what failed. Accessibility reports are answered within two business days with either a fix plan or a workaround, and we will provide the requested content through an alternative channel while the fix ships."
   },
   {
    "t": "h2",
@@ -60,7 +60,7 @@
    "items": [
     [
      "Owner",
-     "Dataq Software platform engineering team, with Legal Affairs review"
+     "Achala IT Solutions platform engineering team, with Legal Affairs review"
     ],
     [
      "Review cadence",
@@ -74,7 +74,7 @@
   },
   {
    "t": "note",
-   "x": "This statement describes dataqsoft.com. Accessibility commitments for delivered products are agreed per engagement and documented in the relevant contract and acceptance criteria.",
+   "x": "This statement describes achalasolutions.com. Accessibility commitments for delivered products are agreed per engagement and documented in the relevant contract and acceptance criteria.",
    "variant": "compliance"
   }
  ],

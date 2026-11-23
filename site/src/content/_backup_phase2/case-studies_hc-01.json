@@ -4,7 +4,7 @@
  "url": "/case-studies/hc-01/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Healthcare & Life Sciences > A 12-hospital US health system",
- "seo_title": "A 12-hospital US health system | Case Study | Dataq Software",
+ "seo_title": "A 12-hospital US health system | Case Study | Achala IT Solutions",
  "meta_description": "Clinicians get 90 minutes a day back — ambient documentation inside the EHR.",
  "blocks": [
   {
@@ -42,7 +42,7 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "A 12-hospital US health system uses the standard Dataq delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
+   "x": "A 12-hospital US health system uses the standard Achala delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
   },
   {
    "t": "h2",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: Applied AI & Generative AI, Data, Analytics & Lakehouse, Cybersecurity & Zero-Trust. Platforms: Dataq Forge, Dataq Compass."
+   "x": "Towers: Applied AI & Generative AI, Data, Analytics & Lakehouse, Cybersecurity & Zero-Trust. Platforms: Fleet Management System, Driisti Smart Vision Glasses."
   },
   {
    "t": "h2",

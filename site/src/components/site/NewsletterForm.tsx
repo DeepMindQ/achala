@@ -23,8 +23,8 @@ export default function NewsletterForm() {
           body: JSON.stringify({
             access_key: accessKey,
             email,
-            subject: "Newsletter subscription — dataqsoft.com",
-            from_name: "Dataq Software website",
+            subject: "Newsletter subscription — achalasolutions.com",
+            from_name: "Achala IT Solutions website",
           }),
         });
       } else {

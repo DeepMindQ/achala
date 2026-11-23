@@ -514,146 +514,146 @@
     "url": "/platforms/",
     "mega": [
      {
-      "label": "Dataq Nexus — Decision Intelligence",
-      "url": "/platforms/nexus/",
+      "label": "EEMS Platform — Decision Intelligence",
+      "url": "/platforms/eems/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/nexus/"
+        "url": "/platforms/eems/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/nexus/architecture/"
+        "url": "/platforms/eems/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/nexus/use-cases/"
+        "url": "/platforms/eems/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Forge — Data & Lakehouse",
-      "url": "/platforms/forge/",
+      "label": "Fleet Management System — Data & Lakehouse",
+      "url": "/platforms/fms/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/forge/"
+        "url": "/platforms/fms/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/forge/architecture/"
+        "url": "/platforms/fms/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/forge/use-cases/"
+        "url": "/platforms/fms/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Swarm — Agent Orchestration",
-      "url": "/platforms/swarm/",
+      "label": "KYC Management System — Agent Orchestration",
+      "url": "/platforms/kyc/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/swarm/"
+        "url": "/platforms/kyc/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/swarm/architecture/"
+        "url": "/platforms/kyc/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/swarm/use-cases/"
+        "url": "/platforms/kyc/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Sentinel — Security Fabric",
-      "url": "/platforms/sentinel/",
+      "label": "Tele Medicine Platform — Security Fabric",
+      "url": "/platforms/telemedicine/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/sentinel/"
+        "url": "/platforms/telemedicine/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/sentinel/architecture/"
+        "url": "/platforms/telemedicine/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/sentinel/use-cases/"
+        "url": "/platforms/telemedicine/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Twinverse — Digital Twin Ops",
-      "url": "/platforms/twinverse/",
+      "label": "BI & Analytics Platform — Digital Twin Ops",
+      "url": "/platforms/bi-analytics/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/twinverse/"
+        "url": "/platforms/bi-analytics/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/twinverse/architecture/"
+        "url": "/platforms/bi-analytics/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/twinverse/use-cases/"
+        "url": "/platforms/bi-analytics/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Quanta — Advanced Compute",
-      "url": "/platforms/quanta/",
+      "label": "Token Management System — Advanced Compute",
+      "url": "/platforms/token-management/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/quanta/"
+        "url": "/platforms/token-management/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/quanta/architecture/"
+        "url": "/platforms/token-management/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/quanta/use-cases/"
+        "url": "/platforms/token-management/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Ledger — Digital Trust",
-      "url": "/platforms/ledger/",
+      "label": "Patient Priority Portal — Digital Trust",
+      "url": "/platforms/patient-portal/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/ledger/"
+        "url": "/platforms/patient-portal/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/ledger/architecture/"
+        "url": "/platforms/patient-portal/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/ledger/use-cases/"
+        "url": "/platforms/patient-portal/use-cases/"
        }
       ]
      },
      {
-      "label": "Dataq Compass — AI Governance",
-      "url": "/platforms/compass/",
+      "label": "Driisti Smart Vision Glasses — AI Governance",
+      "url": "/platforms/driisti/",
       "children": [
        {
         "label": "Overview",
-        "url": "/platforms/compass/"
+        "url": "/platforms/driisti/"
        },
        {
         "label": "Architecture & Trust",
-        "url": "/platforms/compass/architecture/"
+        "url": "/platforms/driisti/architecture/"
        },
        {
         "label": "Use cases",
-        "url": "/platforms/compass/use-cases/"
+        "url": "/platforms/driisti/use-cases/"
        }
       ]
      }
@@ -875,12 +875,12 @@
       "url": "/about-us/",
       "children": [
        {
-        "label": "About Dataq Software",
+        "label": "About Achala IT Solutions",
         "url": "/about-us/"
        },
        {
-        "label": "Why Dataq Software",
-        "url": "/why-dataq/"
+        "label": "Why Achala IT Solutions",
+        "url": "/why-achala/"
        },
        {
         "label": "Values & Culture",
@@ -898,11 +898,11 @@
      },
      {
       "label": "Our Approach",
-      "url": "/our-approach/the-dataq-method/",
+      "url": "/our-approach/the-achala-method/",
       "children": [
        {
-        "label": "The Dataq Method",
-        "url": "/our-approach/the-dataq-method/"
+        "label": "The Achala Method",
+        "url": "/our-approach/the-achala-method/"
        },
        {
         "label": "Outcome-Linked Engagements",
@@ -1047,43 +1047,43 @@
    "title": "Platforms",
    "links": [
     {
-     "label": "Dataq Nexus",
-     "url": "/platforms/nexus/",
+     "label": "EEMS Platform",
+     "url": "/platforms/eems/",
      "children": []
     },
     {
-     "label": "Dataq Forge",
-     "url": "/platforms/forge/",
+     "label": "Fleet Management System",
+     "url": "/platforms/fms/",
      "children": []
     },
     {
-     "label": "Dataq Swarm",
-     "url": "/platforms/swarm/",
+     "label": "KYC Management System",
+     "url": "/platforms/kyc/",
      "children": []
     },
     {
-     "label": "Dataq Sentinel",
-     "url": "/platforms/sentinel/",
+     "label": "Tele Medicine Platform",
+     "url": "/platforms/telemedicine/",
      "children": []
     },
     {
-     "label": "Dataq Twinverse",
-     "url": "/platforms/twinverse/",
+     "label": "BI & Analytics Platform",
+     "url": "/platforms/bi-analytics/",
      "children": []
     },
     {
-     "label": "Dataq Quanta",
-     "url": "/platforms/quanta/",
+     "label": "Token Management System",
+     "url": "/platforms/token-management/",
      "children": []
     },
     {
-     "label": "Dataq Ledger",
-     "url": "/platforms/ledger/",
+     "label": "Patient Priority Portal",
+     "url": "/platforms/patient-portal/",
      "children": []
     },
     {
-     "label": "Dataq Compass",
-     "url": "/platforms/compass/",
+     "label": "Driisti Smart Vision Glasses",
+     "url": "/platforms/driisti/",
      "children": []
     }
    ]
@@ -1092,7 +1092,7 @@
    "title": "Company",
    "links": [
     {
-     "label": "About Dataq Software",
+     "label": "About Achala IT Solutions",
      "url": "/about-us/",
      "children": []
     },

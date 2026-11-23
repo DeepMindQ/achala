@@ -4,8 +4,8 @@
  "url": "/services/applied-ai-generative-ai/ai-poc-value-validation/",
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > AI Proof-of-Concept & Value Validation",
- "seo_title": "AI Proof-of-Concept & Value Validation | Dataq Software",
- "meta_description": "AI Proof-of-Concept & Value Validation from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "AI Proof-of-Concept & Value Validation | Achala IT Solutions",
+ "meta_description": "AI Proof-of-Concept & Value Validation from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -47,7 +47,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 5 tower services, the Dataq Forge platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 5 tower services, the Fleet Management System platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "diagram",

@@ -1,0 +1,163 @@
+{
+ "id": "PLT-quanta-ar",
+ "title": "Token Management System — Architecture & Trust",
+ "url": "/platforms/token-management/architecture/",
+ "template": "platform_architecture",
+ "breadcrumb": "Platforms > Token Management System > Architecture & Trust",
+ "seo_title": "Token Management System — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Token Management System — Quantum & Advanced Compute Suite from Achala IT Solutions.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Token Management System's architecture: the planes, the controls and the evidence export — documented the way your auditors will read it."
+  },
+  {
+   "t": "h2",
+   "x": "What we put in place"
+  },
+  {
+   "t": "p",
+   "x": "In Token Management System, decisions and evidence sit on separate planes that meet at one auditable API. Inputs, policy version and owner are recorded at every crossing."
+  },
+  {
+   "t": "p",
+   "x": "Token Management System architecture: the components, as they land,"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Readiness engine",
+     "workload inventory + HNDL exposure ranking"
+    ],
+    [
+     "Solver tournament",
+     "benchmarking suite across solver families"
+    ],
+    [
+     "Solver-as-a-service",
+     "industrialized winners with warm starts and SLAs"
+    ],
+    [
+     "PQC program",
+     "CBOM discovery through hybrid transition"
+    ],
+    [
+     "HPC engineering",
+     "scheduler/GPU/storage tuning and cloud burst"
+    ],
+    [
+     "Watchlist",
+     "emerging silicon scored against your workloads"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "How it earns audit sign-off"
+  },
+  {
+   "t": "p",
+   "x": "what the dashboard carries, honestly chosen, Token Management System edition:"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "NIST PQC alignment",
+     "ML-KEM/ML-DSA/SLH-DSA programs"
+    ],
+    [
+     "Published benchmarks",
+     "methodology and baselines disclosed"
+    ],
+    [
+     "Crypto-agility",
+     "algorithm swaps as configuration"
+    ],
+    [
+     "Verdict discipline",
+     "advantage/parity/no-advantage documented"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "Engineering standards we hold"
+  },
+  {
+   "t": "p",
+   "x": "Runtime dependencies: Qiskit, PennyLane, Gurobi/CP-SAT, Slurm, CUDA, CBOM tooling. Deployment runs inside your security perimeter with customer-managed keys; the evidence export is formatted for the audit formats your team already uses."
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Deployment models for Token Management System follow the estate: in-perimeter on customer-managed keys, or in a segregated enclave where the estate cannot host the workload. Either way the control pack, the replay log and the audit export keep the same format, so the second deployment never re-argues the first."
+  },
+  {
+   "t": "cta",
+   "x": "The next step is small and real: one working session on Token Management System architecture, your data, and a written feasibility read you can circulate."
+  }
+ ],
+ "words": 249,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Token Management System",
+ "l3": "Architecture & Trust",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Token Management System",
+   "url": null
+  },
+  {
+   "name": "Architecture & Trust",
+   "url": "/platforms/token-management/architecture/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Token Management System — Overview",
+   "url": "/platforms/token-management/",
+   "desc": "Quantum & Advanced Compute Suite"
+  },
+  {
+   "title": "Token Management System — Architecture & Trust",
+   "url": "/platforms/token-management/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Token Management System — Industry Use Cases",
+   "url": "/platforms/token-management/use-cases/",
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A European specialty reinsurer",
+   "url": "/case-studies/ins-03/",
+   "desc": "Bordereaux automation and settlement evidence — reconciliation effort down 74%"
+  },
+  {
+   "title": "A European biopharma group",
+   "url": "/case-studies/hc-03/",
+   "desc": "Trial eligibility matching at 10x — enrollment windows met"
+  },
+  {
+   "title": "A global integrated energy major",
+   "url": "/case-studies/en-02/",
+   "desc": "Turnaround duration down 14% — scheduling optimization at refinery scale"
+  },
+  {
+   "title": "A container-terminal operator",
+   "url": "/case-studies/log-02/",
+   "desc": "Berth productivity +16% — planning platform and crane health sensing"
+  }
+ ],
+ "cards": []
+}

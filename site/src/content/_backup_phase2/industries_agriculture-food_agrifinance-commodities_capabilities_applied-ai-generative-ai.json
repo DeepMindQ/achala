@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > AgriFinance & Commodity Markets > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for AgriFinance & Commodity Markets",
- "meta_description": "Applied AI & GenAI for AgriFinance & Commodity Markets: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Applied AI & GenAI for AgriFinance & Commodity Markets: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Applied AI & GenAI for AgriFinance & Commodity Markets means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per field outcomes measured against your audited baseline."
+   "x": "What Applied AI & GenAI for AgriFinance & Commodity Markets means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per field outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "Structurally, the build is three planes and a spine — workload, decision, evidence, with Dataq Forge carrying the spine. The decision plane never touches raw sources directly; the evidence plane records what was known at decision time, which is what makes the whole thing defensible in audit."
+   "x": "Structurally, the build is three planes and a spine — workload, decision, evidence, with Fleet Management System carrying the spine. The decision plane never touches raw sources directly; the evidence plane records what was known at decision time, which is what makes the whole thing defensible in audit."
   },
   {
    "t": "p",

@@ -238,7 +238,7 @@ applied.append("glow-removed")
 # 14. glow-hot removal
 rep("""/* ── spotlight v2: expands over interactive elements ───────────────────── */
 #dq-cursor-glow.glow-hot {
-  background: radial-gradient(circle, rgba(254, 87, 34, 0.16), rgba(254, 87, 34, 0.06) 45%, transparent 70%);
+  background: radial-gradient(circle, rgba(210, 0, 0, 0.16), rgba(210, 0, 0, 0.06) 45%, transparent 70%);
 }""",
 """/* (spotlight hot state removed in Phase 1) */""", "glow-hot")
 

@@ -1,15 +1,15 @@
 {
  "id": "PLT-quanta-ov",
- "title": "Dataq Quanta — Overview",
- "url": "/platforms/quanta/",
+ "title": "Token Management System — Overview",
+ "url": "/platforms/token-management/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Quanta > Overview",
- "seo_title": "Dataq Quanta — Overview | Dataq Software",
+ "breadcrumb": "Platforms > Token Management System > Overview",
+ "seo_title": "Token Management System — Overview | Achala IT Solutions",
  "meta_description": "Emerging compute with investor discipline — baselines, benchmarks, verdicts.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Dataq Quanta — Overview means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Token Management System — Overview means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Quanta runs our quantum and advanced-compute programs: readiness assessments with HNDL risk clocks, solver tournaments (classical vs. Quantum-inspired vs. Hybrid) on your actual formulations, PQC migration with CBOM-grade discovery, HPC engineering, and the emerging-silicon watchlist."
+   "x": "Token Management System runs our quantum and advanced-compute programs: readiness assessments with HNDL risk clocks, solver tournaments (classical vs. Quantum-inspired vs. Hybrid) on your actual formulations, PQC migration with CBOM-grade discovery, HPC engineering, and the emerging-silicon watchlist."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Quanta — control and evidence planes",
+   "title": "Token Management System — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "Every component in Dataq Quanta — Overview has a contract, a version and a named owner. When something drifts, the ticket goes to a person, not to a committee — that is what the reference architecture is for."
+   "x": "Every component in Token Management System — Overview has a contract, a version and a named owner. When something drifts, the ticket goes to a person, not to a committee — that is what the reference architecture is for."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Programs use Dataq Quanta — Overview where a decision needs to be current and defensible at once — scored in-flight, logged end to end, and reviewed at the same gates as every other program."
+   "x": "Programs use Token Management System — Overview where a decision needs to be current and defensible at once — scored in-flight, logged end to end, and reviewed at the same gates as every other program."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 583,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Quanta",
+ "l2": "Token Management System",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Quanta",
+   "name": "Token Management System",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/quanta/"
+   "url": "/platforms/token-management/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Quanta — Overview",
-   "url": "/platforms/quanta/",
+   "title": "Token Management System — Overview",
+   "url": "/platforms/token-management/",
    "desc": "Quantum & Advanced Compute Suite"
   },
   {
-   "title": "Dataq Quanta — Architecture & Trust",
-   "url": "/platforms/quanta/architecture/",
+   "title": "Token Management System — Architecture & Trust",
+   "url": "/platforms/token-management/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Quanta — Industry Use Cases",
-   "url": "/platforms/quanta/use-cases/",
+   "title": "Token Management System — Industry Use Cases",
+   "url": "/platforms/token-management/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

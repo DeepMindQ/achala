@@ -4,12 +4,12 @@
  "url": "/solutions/frontline-enablement/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Workforce & Experience > Frontline Mobile & Field Enablement",
- "seo_title": "Frontline Mobile & Field Enablement | Solution | Dataq Software",
+ "seo_title": "Frontline Mobile & Field Enablement | Solution | Achala IT Solutions",
  "meta_description": "Frontline Mobile & Field Enablement — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Frontline Mobile & Field Enablement: concrete interfaces at core systems, measured movement on task completion, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Frontline Mobile & Field Enablement: concrete interfaces at core systems, measured movement on task completion, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -242,7 +242,7 @@
   },
   {
    "t": "p",
-   "x": "Frontline Mobile & Field Enablement follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Frontline Mobile & Field Enablement follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

@@ -4,8 +4,8 @@
  "url": "/services/cloud-edge-platform-engineering/high-performance-mission-critical/",
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > High-Performance & Mission-Critical Systems",
- "seo_title": "High-Performance & Mission-Critical Systems | Dataq Software",
- "meta_description": "High-Performance & Mission-Critical Systems from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "High-Performance & Mission-Critical Systems | Achala IT Solutions",
+ "meta_description": "High-Performance & Mission-Critical Systems from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -249,7 +249,7 @@
    "items": [
     [
      "FinOps & Sustainable Computing",
-     "The Dataq Software build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
+     "The Achala IT Solutions build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
     ],
     [
      "Hybrid & Multicloud Architecture",

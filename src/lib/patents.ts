@@ -1,7 +1,7 @@
-/* ── DataQ Soft patented-intelligence registry ───────────────────────────
+/* ── Achala IT Solutions patented-intelligence registry ───────────────────────────
    Distilled from the eight patent complete specifications filed by
    Strategemist Global Pvt. Ltd. (Hyderabad) — the intellectual-property
-   foundation beneath the DataQ platform portfolio. Only delivery-relevant
+   foundation beneath the Achala platform portfolio. Only delivery-relevant
    capability summaries are surfaced on the site (no claims language).     */
 
 export type Patent = {
@@ -18,7 +18,7 @@ export const PATENTS: Patent[] = [
     ref: "GNN-Contextual",
     title: "Contextual Intelligence Processing Using Graph Neural Networks",
     oneLiner:
-      "The graph core of DataQ Nexus: dynamic heterogeneous graphs, hypergraph tensors, quantum-inspired embedding and deterministic streaming for real-time contextual reasoning.",
+      "The graph core of Achala Nexus: dynamic heterogeneous graphs, hypergraph tensors, quantum-inspired embedding and deterministic streaming for real-time contextual reasoning.",
     capabilities: [
       "Dynamic graph representations with continuous edge rewiring",
       "Hypergraph tensor encoding (CANDECOMP/PARAFAC, Tucker)",
@@ -33,7 +33,7 @@ export const PATENTS: Patent[] = [
     ref: "Quantum-Workflow",
     title: "Optimizing Computational Workflows Using Quantum-Inspired Algorithms",
     oneLiner:
-      "Tensor-manifold processing, quantum-walk exploration and logarithmic-complexity scheduling executed across TPU/FPGA fabric — the DataQ Quanta and Forge optimization core.",
+      "Tensor-manifold processing, quantum-walk exploration and logarithmic-complexity scheduling executed across TPU/FPGA fabric — the Achala Quanta and Forge optimization core.",
     capabilities: [
       "Tensor manifold processing units (TMPUs)",
       "Quantum-walk state-space exploration",
@@ -48,7 +48,7 @@ export const PATENTS: Patent[] = [
     ref: "Federated-Distributed",
     title: "Distributed Intelligence Using Federated Learning in Enterprise Networks",
     oneLiner:
-      "Privacy-preserving collaborative intelligence: ZHNE homomorphic encryption, Multi-Scale Asynchronous Byzantine Consensus and swarm-based self-healing clusters — the DataQ Sentinel trust fabric.",
+      "Privacy-preserving collaborative intelligence: ZHNE homomorphic encryption, Multi-Scale Asynchronous Byzantine Consensus and swarm-based self-healing clusters — the Achala Sentinel trust fabric.",
     capabilities: [
       "Zero-Knowledge Homomorphic Neural Encryption (ZHNE)",
       "Multi-Scale Asynchronous Byzantine Consensus (MABC)",
@@ -78,7 +78,7 @@ export const PATENTS: Patent[] = [
     ref: "GenAI-Workflows",
     title: "Automating Knowledge Workflows Using Generative Artificial Intelligence",
     oneLiner:
-      "Self-improving orchestration: transformer workflow blueprints, temporal reasoning, knowledge-liquidity protocols and multi-agent reinforcement learning — the DataQ Swarm engine.",
+      "Self-improving orchestration: transformer workflow blueprints, temporal reasoning, knowledge-liquidity protocols and multi-agent reinforcement learning — the Achala Swarm engine.",
     capabilities: [
       "Generative AI orchestration blueprints (DAG synthesis)",
       "Probabilistic temporal-logic scheduling",
@@ -93,7 +93,7 @@ export const PATENTS: Patent[] = [
     ref: "Pattern-Recognition",
     title: "Adaptive Pattern Recognition Using Quantum-Enhanced Neural Networks",
     oneLiner:
-      "Real-time multimodal perception — vision, audio, text and sensor fusion with quantum feedback loops and probabilistic ensemble learning — the DataQ Twinverse perception layer.",
+      "Real-time multimodal perception — vision, audio, text and sensor fusion with quantum feedback loops and probabilistic ensemble learning — the Achala Twinverse perception layer.",
     capabilities: [
       "Multimodal fusion across sensor, video, text and audio streams",
       "Quantum feedback loop recalibration without retraining",
@@ -108,7 +108,7 @@ export const PATENTS: Patent[] = [
     ref: "Energy-Workload",
     title: "AI-Driven Energy-Efficient Workload Optimization in Distributed Computing",
     oneLiner:
-      "Grid-aware orchestration: tensor workload decomposition, reinforcement-learned scheduling and power-state modulation that cut datacenter energy per decision — the DataQ Forge economics engine.",
+      "Grid-aware orchestration: tensor workload decomposition, reinforcement-learned scheduling and power-state modulation that cut datacenter energy per decision — the Achala Forge economics engine.",
     capabilities: [
       "Tensor-based workload decomposition (SVD, low-rank)",
       "Double-Q-learning execution scheduling",
@@ -123,7 +123,7 @@ export const PATENTS: Patent[] = [
     ref: "Adaptive-Learning",
     title: "Adaptive Learning Using Reinforcement Optimization and Self-Evolving Frameworks",
     oneLiner:
-      "Self-evolving decision systems: neural architecture search, temporal-spatial feature extraction and knowledge-graph decision support synced by Raft consensus — the DataQ Compass intelligence loop.",
+      "Self-evolving decision systems: neural architecture search, temporal-spatial feature extraction and knowledge-graph decision support synced by Raft consensus — the Achala Compass intelligence loop.",
     capabilities: [
       "Dynamic reinforcement learning framework (DRLF)",
       "Temporal Fusion Transformers + Fourier cyclical modeling",

@@ -4,8 +4,8 @@
  "url": "/industries/energy-utilities/capabilities/iot-digital-twin-robotics/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > IoT, Digital Twin & Robotics",
- "seo_title": "IoT, Twin & Robotics for Energy & Utilities | Dataq Software",
- "meta_description": "IoT, Twin & Robotics for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "IoT, Twin & Robotics for Energy & Utilities | Achala IT Solutions",
+ "meta_description": "IoT, Twin & Robotics for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "What Industrial IoT & Sensor Fabric means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
+     "What Industrial IoT & Sensor Fabric means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
     ],
     [
      "Digital Twin Platform Engineering",
@@ -86,7 +86,7 @@
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "What Predictive Maintenance & Asset Intelligence means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated."
+     "What Predictive Maintenance & Asset Intelligence means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated."
     ]
    ]
   },
@@ -236,7 +236,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

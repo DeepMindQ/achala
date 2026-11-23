@@ -4,12 +4,12 @@
  "url": "/terms-of-use/",
  "template": "legal_page",
  "breadcrumb": "Terms of Use",
- "seo_title": "Terms of Use | Dataq Software",
+ "seo_title": "Terms of Use | Achala IT Solutions",
  "meta_description": "Template covering site usage, intellectual property, disclaimers, liability limits and governing law.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The rules for using dataqsoft.com: what you may do with its content and code samples, what we disclaim, and how disputes are limited — the whole document, without the maze."
+   "x": "The rules for using achalasolutions.com: what you may do with its content and code samples, what we disclaim, and how disputes are limited — the whole document, without the maze."
   },
   {
    "t": "h2",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Text, diagrams, code examples, brand marks and page designs on this site belong to Dataq Software Corporation or its licensors. You may quote short extracts with attribution and a link for commentary or non-commercial teaching. You may not republish substantial parts, resell access, or use our marks in a way that suggests endorsement without written permission."
+   "x": "Text, diagrams, code examples, brand marks and page designs on this site belong to Achala IT Solutions Corporation or its licensors. You may quote short extracts with attribution and a link for commentary or non-commercial teaching. You may not republish substantial parts, resell access, or use our marks in a way that suggests endorsement without written permission."
   },
   {
    "t": "h2",
@@ -49,7 +49,7 @@
   },
   {
    "t": "p",
-   "x": "To the maximum extent permitted by law, Dataq Software is not liable for indirect or consequential losses arising from use of this site, and total liability arising out of the site itself is limited to 100 US dollars. Nothing limits liability that cannot lawfully be limited, including for fraud or death and personal injury caused by negligence."
+   "x": "To the maximum extent permitted by law, Achala IT Solutions is not liable for indirect or consequential losses arising from use of this site, and total liability arising out of the site itself is limited to 100 US dollars. Nothing limits liability that cannot lawfully be limited, including for fraud or death and personal injury caused by negligence."
   },
   {
    "t": "h2",
@@ -68,7 +68,7 @@
    "items": [
     [
      "Owner",
-     "Dataq Software Legal Affairs"
+     "Achala IT Solutions Legal Affairs"
     ],
     [
      "Review cadence",

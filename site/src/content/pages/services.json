@@ -4,7 +4,7 @@
  "url": "/services/",
  "template": "services_hub",
  "breadcrumb": "Services",
- "seo_title": "IT Services & Expertise Domains | Dataq Software",
+ "seo_title": "IT Services & Expertise Domains | Achala IT Solutions",
  "meta_description": "54 engineering practices across 8 expertise domains — every engagement enters on a signed metric baseline, clears evidenced gates and exits with audited numbers. Pick your industry and see the engagement we would run.",
  "blocks": [
   {
@@ -1307,7 +1307,7 @@
     ],
     [
      "Where do the patented methods fit?",
-     "Eight patented method families sit underneath the release gates. Where a family strengthens a gate, the service page names it and links the method map — so you can read what the method does without asking for a briefing first."
+     "Eight proprietary method families sit underneath the release gates. Where a family strengthens a gate, the service page names it and links the method map — so you can read what the method does without asking for a briefing first."
     ]
    ]
   },
@@ -1330,8 +1330,8 @@
  ],
  "related": [
   {
-   "title": "The Dataq Method",
-   "url": "/our-approach/the-dataq-method/",
+   "title": "The Achala Method",
+   "url": "/our-approach/the-achala-method/",
    "tag": "Method",
    "desc": "The delivery method and gates behind the operating contract — read it before you compare proposals."
   },

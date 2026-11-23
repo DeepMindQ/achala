@@ -4,7 +4,7 @@
  "url": "/solutions/fraud-decisioning/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Fraud & Financial Crime Decisioning",
- "seo_title": "Fraud & Financial Crime Decisioning | Solution | Dataq Software",
+ "seo_title": "Fraud & Financial Crime Decisioning | Solution | Achala IT Solutions",
  "meta_description": "Fraud & Financial Crime Decisioning — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Fraud & Financial Crime Decisioning composes Dataq Nexus, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Logistics & Supply Chain, Technology & SaaS."
+   "x": "Fraud & Financial Crime Decisioning composes EEMS Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Logistics & Supply Chain, Technology & SaaS."
   },
   {
    "t": "h2",

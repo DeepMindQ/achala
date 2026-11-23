@@ -56,14 +56,14 @@ const COL_META: Record<string, { icon: React.ComponentType<{ className?: string 
   "Operational Excellence": { icon: Gauge, blurb: "Automation, assets and IT ops — throughput economics with autonomous runbooks." },
   "Workforce & Experience": { icon: Users, blurb: "Copilots and service orchestration — the frontline gets leverage, not another dashboard." },
   // platforms
-  "Dataq Nexus — Decision Intelligence": { icon: CircleDot, blurb: "Millisecond decisions with full replay — the decision hub for streaming estates." },
-  "Dataq Forge — Data & Lakehouse": { icon: Database, blurb: "The estate every program builds on — contracts, pipelines and cost control." },
-  "Dataq Swarm — Agent Orchestration": { icon: Bot, blurb: "Agent fleets with queues and budgets — validated decentralized execution." },
-  "Dataq Sentinel — Security Fabric": { icon: ShieldCheck, blurb: "Controls for people, machines and models — encrypted collaborative intelligence." },
-  "Dataq Twinverse — Digital Twin Ops": { icon: Boxes, blurb: "Simulate, then act on physical assets — multimodal perception to actuation." },
-  "Dataq Quanta — Advanced Compute": { icon: Atom, blurb: "Quantum-inspired optimization, benchmarked — schedule, route and allocate better." },
-  "Dataq Ledger — Digital Trust": { icon: Link2, blurb: "Shared records regulators can inspect — consensus-gated releases." },
-  "Dataq Compass — AI Governance": { icon: CompassIcon, blurb: "Model risk, validation and monitoring — self-evolving decision loops with evidence." },
+  "EEMS Platform — Decision Intelligence": { icon: CircleDot, blurb: "Millisecond decisions with full replay — the decision hub for streaming estates." },
+  "Fleet Management System — Data & Lakehouse": { icon: Database, blurb: "The estate every program builds on — contracts, pipelines and cost control." },
+  "KYC Management System — Agent Orchestration": { icon: Bot, blurb: "Agent fleets with queues and budgets — validated decentralized execution." },
+  "Tele Medicine Platform — Security Fabric": { icon: ShieldCheck, blurb: "Controls for people, machines and models — encrypted collaborative intelligence." },
+  "BI & Analytics Platform — Digital Twin Ops": { icon: Boxes, blurb: "Simulate, then act on physical assets — multimodal perception to actuation." },
+  "Token Management System — Advanced Compute": { icon: Atom, blurb: "Quantum-inspired optimization, benchmarked — schedule, route and allocate better." },
+  "Patient Priority Portal — Digital Trust": { icon: Link2, blurb: "Shared records regulators can inspect — consensus-gated releases." },
+  "Driisti Smart Vision Glasses — AI Governance": { icon: CompassIcon, blurb: "Model risk, validation and monitoring — self-evolving decision loops with evidence." },
   // insights / about
   "AI & Data viewpoints": { icon: BrainCircuit, blurb: "Field notes on production AI — what ships, what scales, what stalls." },
   "Automation & operations viewpoints": { icon: Bot, blurb: "What actually scales — automation economics from the delivery floor." },
@@ -77,7 +77,7 @@ function colMeta(label: string) {
   return COL_META[label] ?? { icon: Sparkles, blurb: "" };
 }
 function platformKey(label: string): string {
-  return label.replace(/^Dataq /, "").split(" ")[0];
+  return label.replace(/^Achala /, "").split(" ")[0];
 }
 /* singular kicker word above the preview title */
 const PREVIEW_KICKER: Record<string, string> = {
@@ -113,7 +113,7 @@ function MegaPanel({
   const Icon = meta.icon;
   const isPlatform = item.label === "Platforms";
   const extra = isPlatform ? PLATFORM_EXTRAS[platformKey(col.label)] : undefined;
-  const shortName = col.label.replace(/^Dataq /, "").split(" — ")[0];
+  const shortName = col.label.replace(/^Achala /, "").split(" — ")[0];
 
   return (
     /* Anchored to the full-width header bar (inset-x-0), NOT the nav item. */
@@ -141,7 +141,7 @@ function MegaPanel({
                 const RIcon = rm.icon;
                 const isActive = i === safeIdx;
                 /* full menu names: platforms keep their complete
-                   "Dataq X — descriptor" label; nothing gets shortened. */
+                   "Achala X — descriptor" label; nothing gets shortened. */
                 const rowLabel = c.label;
                 return (
                   <Link
@@ -358,13 +358,13 @@ export default function SiteHeader({ nav, brand }: { nav: Nav; brand: Brand }) {
     <header className="sticky top-0 z-50">
       <SkipLink />
       {/* announcement bar (CHG-381) */}
-      <AnnouncementBar message="Patented method families now power every Dataq engagement — see how" href="/patented-intelligence/" />
+      <AnnouncementBar message="EEMS, FMS, KYC — Achala platforms run in production every day — see how" href="/platforms/" />
       {/* utility bar — brand navy (CHG-010) */}
       <div className="bg-navy-900 text-white/70 text-[11.5px]">
         <div className="container-dq flex h-8 items-center justify-between">
           <p className="tracking-wide">
-            <span className="hidden sm:inline">SOC 2 Type II · ISO 27001 · ISO 9001 · HIPAA-ready pods</span>
-            <span className="sm:hidden">SOC 2 · ISO 27001 · ISO 9001</span>
+            <span className="hidden sm:inline">ISO/IEC 27001 · TISAX · GDPR-aligned delivery</span>
+            <span className="sm:hidden">ISO/IEC 27001 · TISAX · GDPR</span>
           </p>
           <div className="hidden md:flex items-center gap-4">
             <a href={`mailto:${brand.emails.general}`} className="hover:text-brand-300">
@@ -386,7 +386,7 @@ export default function SiteHeader({ nav, brand }: { nav: Nav; brand: Brand }) {
           ref={rowRef}
           className={`container-dq flex flex-nowrap items-center justify-between gap-4 overflow-x-clip transition-[height] duration-300 ${scrolled ? "h-[56px]" : "h-[72px]"}`}
         >
-          <Link href="/" aria-label="Dataq Software home" className="hdr-logo shrink-0">
+          <Link href="/" aria-label="Achala IT Solutions home" className="hdr-logo shrink-0">
             <Logo height={40} />
           </Link>
 

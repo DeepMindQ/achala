@@ -4,8 +4,8 @@
  "url": "/industries/public-sector/public-safety-justice/capabilities/applied-ai-generative-ai/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice > Applied AI & Generative AI",
- "seo_title": "Applied AI & GenAI for Public Safety & Justice | Dataq Software",
- "meta_description": "Applied AI & GenAI for Public Safety & Justice: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Applied AI & GenAI for Public Safety & Justice | Achala IT Solutions",
+ "meta_description": "Applied AI & GenAI for Public Safety & Justice: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 3 tower services, the Dataq Forge platform for rails, and your estate at case & benefits platforms for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 3 tower services, the Fleet Management System platform for rails, and your estate at case & benefits platforms for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "h2",

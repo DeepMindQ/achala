@@ -1,6 +1,6 @@
 "use client";
 
-/* ── DataQ Soft motion primitives (Wave 2, CHG-101/105/118/120/124/125/157/169/170)
+/* ── Achala IT Solutions motion primitives (Wave 2, CHG-101/105/118/120/124/125/157/169/170)
    Shared in-view hook + scroll chrome + marquee. All animations respect the
    prefers-reduced-motion kill switch declared in globals.css.               */
 

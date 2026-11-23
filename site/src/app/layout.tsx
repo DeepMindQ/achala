@@ -24,13 +24,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.dataqsoft.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.achalasolutions.com"),
   title: {
-    default: "Dataq Software — IT services, consulting & business solutions | AI, cloud, data, security, ERP",
+    default: "Achala IT Solutions — AI-driven IT solutions & digital engineering | AI, ML, IoT, cloud, data",
     template: "%s",
   },
   description:
-    "Dataq Software is a global IT services, consulting and business solutions partner — from ERP and cloud to AI and data — powered by patented delivery IP and gated on signed metrics. SOC 2 · ISO 27001.",
+    "Achala IT Solutions is an AI-first, platform-driven engineering company — taking solutions from POC to industrialization for mobility, healthcare, manufacturing and financial services. ISO/IEC 27001 · TISAX · GDPR-aligned.",
   robots: { index: true, follow: true },
   manifest: "/manifest.json",
   icons: {
@@ -42,8 +42,8 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    siteName: "Dataq Software",
-    images: [{ url: "/og-default.png", width: 1200, height: 630, alt: "Dataq Software — Intelligence, engineered for outcomes." }],
+    siteName: "Achala IT Solutions",
+    images: [{ url: "/og-default.png", width: 1200, height: 630, alt: "Achala IT Solutions — Transforming industries through AI acceleration." }],
   },
   twitter: {
     card: "summary_large_image",
@@ -54,8 +54,8 @@ export const metadata: Metadata = {
 /* Mobile browser chrome carries the brand (CHG-006 / CHG-039). */
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#18142D" },
-    { media: "(prefers-color-scheme: dark)", color: "#0F0C20" },
+    { media: "(prefers-color-scheme: light)", color: "#2b5672" },
+    { media: "(prefers-color-scheme: dark)", color: "#0e2230" },
   ],
 };
 
@@ -72,8 +72,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     slogan: brand.tagline,
     description: brand.positioning,
     email: brand.emails.general,
-    // sameAs: add LinkedIn/X/YouTube profile URLs here when the accounts are public.
-    sameAs: [],
+    // Social profiles from achalasolutions.com
+    sameAs: [
+      "https://www.linkedin.com/company/achala-it-solutions-pvt-ltd/",
+      "https://twitter.com/AchalaIt",
+      "https://www.facebook.com/Achala-it-Solutions-Pvt-Ltd-2009-100557234648701/",
+      "https://www.instagram.com/achala_itsolutions/",
+    ],
     address: brand.offices.map((o) => ({
       "@type": "PostalAddress",
       addressLocality: o.city,

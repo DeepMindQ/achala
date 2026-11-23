@@ -4,7 +4,7 @@
  "url": "/our-approach/responsible-ai-framework/",
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > Responsible AI Framework",
- "seo_title": "Responsible AI Framework | Dataq Software",
+ "seo_title": "Responsible AI Framework | Achala IT Solutions",
  "meta_description": "Five control layers mapped to NIST AI RMF, ISO 42001 and the EU AI Act.",
  "blocks": [
   {
@@ -13,7 +13,7 @@
   },
   {
    "t": "p",
-   "x": "Responsible AI at Dataq Software is not a policy page; it is five control layers wired into every delivery, mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act."
+   "x": "Responsible AI at Achala IT Solutions is not a policy page; it is five control layers wired into every delivery, mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act."
   },
   {
    "t": "h2",
@@ -125,8 +125,8 @@
  ],
  "related": [
   {
-   "title": "The Dataq Method",
-   "url": "/our-approach/the-dataq-method/",
+   "title": "The Achala Method",
+   "url": "/our-approach/the-achala-method/",
    "desc": ""
   },
   {
@@ -140,8 +140,8 @@
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": "The proof points behind the method."
   }
  ],

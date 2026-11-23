@@ -4,12 +4,12 @@
  "url": "/industries/healthcare-life-sciences/payers-care-management/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Care Management & Population Health",
- "seo_title": "Care Management & Population Health | Dataq Software",
+ "seo_title": "Care Management & Population Health | Achala IT Solutions",
  "meta_description": "Care management succeeds on precision targeting and timely intervention: identifying rising-risk members, coordinating across providers, and proving qua.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Care Management & Population Health means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 patients outcomes measured against your audited baseline."
+   "x": "What Care Management & Population Health means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 patients outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

@@ -4,7 +4,7 @@
  "url": "/consulting/ui-ux-design/",
  "template": "consulting_service",
  "breadcrumb": "Consulting",
- "seo_title": "UI/UX Design & Product Experience — Consulting | Dataq Software",
+ "seo_title": "UI/UX Design & Product Experience — Consulting | Achala IT Solutions",
  "meta_description": "UI/UX Design & Product Experience: Interfaces your customers finish — designed from evidence, built for accessibility. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
  "blocks": [
   {
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Experience work at Dataq Software starts with evidence: session analytics, support tickets, task-completion data and field research, not opinions in a conference room. We design journeys around the jobs users are actually trying to finish, prototype in code where it matters, and test with real users before a single component is committed to the design system."
+   "x": "Experience work at Achala IT Solutions starts with evidence: session analytics, support tickets, task-completion data and field research, not opinions in a conference room. We design journeys around the jobs users are actually trying to finish, prototype in code where it matters, and test with real users before a single component is committed to the design system."
   },
   {
    "t": "p",

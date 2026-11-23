@@ -4,12 +4,12 @@
  "url": "/services/data-analytics-lakehouse/",
  "template": "tower_hub",
  "breadcrumb": "Services > Data, Analytics & Lakehouse",
- "seo_title": "Data, Analytics & Lakehouse | Dataq Software",
- "meta_description": "Data, Analytics & Lakehouse services from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Data, Analytics & Lakehouse | Achala IT Solutions",
+ "meta_description": "Data, Analytics & Lakehouse services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Data, Analytics & Lakehouse means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Data, Analytics & Lakehouse means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -70,7 +70,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ],
     [
      "Enterprise BI & Executive Analytics",
@@ -78,7 +78,7 @@
     ],
     [
      "Master Data, Governance & Cataloging",
-     "The Dataq Software build of Master Data, Governance & Cataloging: concrete interfaces at core systems, measured movement on duplicate record rates."
+     "The Achala IT Solutions build of Master Data, Governance & Cataloging: concrete interfaces at core systems, measured movement on duplicate record rates."
     ],
     [
      "Advanced Risk & Predictive Analytics",
@@ -86,7 +86,7 @@
     ],
     [
      "Data Monetization & Analytics Products",
-     "The Dataq Software build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
+     "The Achala IT Solutions build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
     ]
    ]
   },

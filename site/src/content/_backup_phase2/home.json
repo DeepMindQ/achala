@@ -4,12 +4,12 @@
  "url": "/",
  "template": "home",
  "breadcrumb": "Home",
- "seo_title": "Dataq Software | Deep-Tech IT Services & Consulting",
- "meta_description": "Dataq Software builds the AI and data systems enterprises run on: applied AI, agentic automation, data platforms, cybersecurity and advanced compute — delivered by 2,400+ engineers across 4 global centers.",
+ "seo_title": "Achala IT Solutions | Deep-Tech IT Services & Consulting",
+ "meta_description": "Achala IT Solutions builds the AI and data systems enterprises run on: applied AI, agentic automation, data platforms, cybersecurity and advanced compute — delivered by 2,400+ engineers across 4 global centers.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Software builds the AI and data systems enterprises run on. Applied AI, agentic automation, data platforms, cybersecurity and advanced compute — delivered by named teams, measured against a signed baseline, and handed over with the evidence your auditors ask for."
+   "x": "Achala IT Solutions builds the AI and data systems enterprises run on. Applied AI, agentic automation, data platforms, cybersecurity and advanced compute — delivered by named teams, measured against a signed baseline, and handed over with the evidence your auditors ask for."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software is a global IT services and consulting firm with 2,400+ engineers, data scientists and domain specialists across four delivery centers. We take on programs where the outcome can be measured before and after: a fraud model's approval rate, a plant's unplanned downtime, a contact center's cost per case, a grid's balancing cost."
+   "x": "Achala IT Solutions is a global IT services and consulting firm with 2,400+ engineers, data scientists and domain specialists across four delivery centers. We take on programs where the outcome can be measured before and after: a fraud model's approval rate, a plant's unplanned downtime, a contact center's cost per case, a grid's balancing cost."
   },
   {
    "t": "p",
@@ -80,35 +80,35 @@
    "t": "bullets",
    "items": [
     [
-     "Dataq Nexus",
+     "EEMS Platform",
      "The decision hub: contextual graphs, policy checks and full decision replay for audit."
     ],
     [
-     "Dataq Forge",
+     "Fleet Management System",
      "The data platform every program builds on: ingestion, quality, lineage and access control."
     ],
     [
-     "Dataq Swarm",
+     "KYC Management System",
      "Multi-agent orchestration with queues, budgets, escalation paths and audit trails."
     ],
     [
-     "Dataq Sentinel",
+     "Tele Medicine Platform",
      "Security controls for people, machines and models, with evidence collected continuously."
     ],
     [
-     "Dataq Twinverse",
+     "BI & Analytics Platform",
      "Simulation and operations for physical assets, from sensor data to actuation."
     ],
     [
-     "Dataq Quanta",
+     "Token Management System",
      "Optimization workloads on quantum-inspired algorithms, benchmarked against classical solvers."
     ],
     [
-     "Dataq Ledger",
+     "Patient Priority Portal",
      "Permissioned ledger networks with regulatory reporting built in."
     ],
     [
-     "Dataq Compass",
+     "Driisti Smart Vision Glasses",
      "Model governance: validation, monitoring and documentation your risk committee can review."
     ]
    ]
@@ -160,11 +160,11 @@
   },
   {
    "t": "h2",
-   "x": "Dataq Software in numbers"
+   "x": "Achala IT Solutions in numbers"
   },
   {
    "t": "table",
-   "caption": "Dataq Software at a glance",
+   "caption": "Achala IT Solutions at a glance",
    "headers": [
     "Proof point",
     "What it means"
@@ -409,43 +409,43 @@
   ],
   "platforms": [
    {
-    "name": "Dataq Nexus",
-    "url": "/platforms/nexus/",
+    "name": "EEMS Platform",
+    "url": "/platforms/eems/",
     "desc": "Decision Intelligence Hub"
    },
    {
-    "name": "Dataq Forge",
-    "url": "/platforms/forge/",
+    "name": "Fleet Management System",
+    "url": "/platforms/fms/",
     "desc": "Data & Lakehouse Engineering Platform"
    },
    {
-    "name": "Dataq Swarm",
-    "url": "/platforms/swarm/",
+    "name": "KYC Management System",
+    "url": "/platforms/kyc/",
     "desc": "Agentic AI Orchestration Platform"
    },
    {
-    "name": "Dataq Sentinel",
-    "url": "/platforms/sentinel/",
+    "name": "Tele Medicine Platform",
+    "url": "/platforms/telemedicine/",
     "desc": "Zero-Trust & AI Security Platform"
    },
    {
-    "name": "Dataq Twinverse",
-    "url": "/platforms/twinverse/",
+    "name": "BI & Analytics Platform",
+    "url": "/platforms/bi-analytics/",
     "desc": "Digital Twin & IoT Intelligence Platform"
    },
    {
-    "name": "Dataq Quanta",
-    "url": "/platforms/quanta/",
+    "name": "Token Management System",
+    "url": "/platforms/token-management/",
     "desc": "Quantum & Advanced Compute Suite"
    },
    {
-    "name": "Dataq Ledger",
-    "url": "/platforms/ledger/",
+    "name": "Patient Priority Portal",
+    "url": "/platforms/patient-portal/",
     "desc": "Distributed Trust & Tokenization Platform"
    },
    {
-    "name": "Dataq Compass",
-    "url": "/platforms/compass/",
+    "name": "Driisti Smart Vision Glasses",
+    "url": "/platforms/driisti/",
     "desc": "Responsible AI & Governance Platform"
    }
   ]

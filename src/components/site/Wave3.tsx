@@ -466,7 +466,7 @@ export function PlatformTabs({
               k === i ? "bg-navy-800 text-white" : "text-navy-800/70 hover:bg-white hover:text-brand-deep"
             }`}
           >
-            {pl.name.replace("DataQ ", "")}
+            {pl.name.replace("Achala ", "")}
           </button>
         ))}
       </div>
@@ -479,7 +479,7 @@ export function PlatformTabs({
               href={p.url}
               className="btn-sheen inline-flex items-center gap-1.5 rounded-[10px] bg-brand px-4 py-2 text-[12.5px] font-semibold text-white hover:bg-brand-hover"
             >
-              Enter {p.name.replace("DataQ ", "")} <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
+              Enter {p.name.replace("Achala ", "")} <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
             </Link>
             <Link
               href="/patented-intelligence/"

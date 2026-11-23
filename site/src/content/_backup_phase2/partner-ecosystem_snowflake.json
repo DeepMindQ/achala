@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/snowflake/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Snowflake",
- "seo_title": "Snowflake Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Snowflake: Governed data sharing and Snowflake-native applications.",
+ "seo_title": "Snowflake Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Snowflake: Governed data sharing and Snowflake-native applications.",
  "words": 391,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Snowflake: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Snowflake: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Snowflake — joint delivery topology with Dataq Software",
+   "title": "Snowflake — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",

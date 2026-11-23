@@ -4,8 +4,8 @@
  "url": "/services/cybersecurity-zero-trust/",
  "template": "tower_hub",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust",
- "seo_title": "Cybersecurity & Zero-Trust | Dataq Software",
- "meta_description": "Cybersecurity & Zero-Trust services from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Cybersecurity & Zero-Trust | Achala IT Solutions",
+ "meta_description": "Cybersecurity & Zero-Trust services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -62,7 +62,7 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Threat Intelligence & Managed SOC",
@@ -74,7 +74,7 @@
     ],
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "AI Security & Model Protection",
@@ -86,7 +86,7 @@
     ],
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ]
    ]
   },

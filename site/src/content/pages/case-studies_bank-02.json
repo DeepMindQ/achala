@@ -4,7 +4,7 @@
  "url": "/case-studies/bank-02/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Banking & Financial Services > A multinational corporate bank",
- "seo_title": "A multinational corporate bank | Case Study | Dataq Software",
+ "seo_title": "A multinational corporate bank | Case Study | Achala IT Solutions",
  "meta_description": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly.",
  "blocks": [
   {
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "A multinational corporate bank — a Banking & Financial Services engagement delivered by a blended Dataq Software team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
+   "x": "A multinational corporate bank — a Banking & Financial Services engagement delivered by a blended Achala IT Solutions team under the outcome-linked engagement model. Identity withheld as standard; the figures are the client's, reproduced with permission."
   },
   {
    "t": "h2",
@@ -37,7 +37,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Swarm agents now assemble each review file — registries, screening, financials, relationship notes — under a policy envelope that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is written as the work happens, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
+   "x": "KYC Management System agents now assemble each review file — registries, screening, financials, relationship notes — under a policy envelope that routes only genuine judgment calls to analysts. The evidence trail (who saw what, when, why) is written as the work happens, and the risk-data spine on Forge keeps customer master data clean enough for the agents to trust."
   },
   {
    "t": "arch",

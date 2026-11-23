@@ -4,7 +4,7 @@
  "url": "/solutions/customer-360/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Growth & Revenue > Customer 360 & Hyper-Personalization",
- "seo_title": "Customer 360 & Hyper-Personalization | Solution | Dataq Software",
+ "seo_title": "Customer 360 & Hyper-Personalization | Solution | Achala IT Solutions",
  "meta_description": "Customer 360 & Hyper-Personalization — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Customer 360 & Hyper-Personalization composes Dataq Nexus, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Banking & Financial Services, Telecom, Media & Entertainment, Insurance & Risk."
+   "x": "Customer 360 & Hyper-Personalization composes EEMS Platform, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Banking & Financial Services, Telecom, Media & Entertainment, Insurance & Risk."
   },
   {
    "t": "h2",

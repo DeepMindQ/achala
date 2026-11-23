@@ -4,12 +4,12 @@
  "url": "/industries/public-sector/public-safety-justice/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice",
- "seo_title": "Public Safety & Justice | Dataq Software",
+ "seo_title": "Public Safety & Justice | Achala IT Solutions",
  "meta_description": "Police, fire, EMS and courts coordinate under minutes-matter constraints and the strictest accountability: evidence integrity, proportionality and priva.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Public Safety & Justice means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per case file outcomes measured against your audited baseline."
+   "x": "What Public Safety & Justice means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per case file outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

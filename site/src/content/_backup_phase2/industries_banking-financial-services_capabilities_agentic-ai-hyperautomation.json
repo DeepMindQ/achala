@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Banking & Financial…",
- "meta_description": "Agentic AI & Hyperautomation for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Agentic AI & Hyperautomation for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Agentic AI & Hyperautomation for Banking & Financial Services means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 transactions outcomes measured against your audited baseline."
+   "x": "What Agentic AI & Hyperautomation for Banking & Financial Services means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 transactions outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Dataq Forge platform for rails, and your estate at core banking rails for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Fleet Management System platform for rails, and your estate at core banking rails for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "h2",
@@ -78,11 +78,11 @@
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "The Dataq Software build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
+     "The Achala IT Solutions build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
     ],
     [
      "Decision Intelligence Systems",
-     "The Dataq Software build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
+     "The Achala IT Solutions build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
     ],
     [
      "Intelligent Document Processing",

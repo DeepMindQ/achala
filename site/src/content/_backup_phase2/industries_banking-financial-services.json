@@ -4,8 +4,8 @@
  "url": "/industries/banking-financial-services/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Banking & Financial Services",
- "seo_title": "Banking & Financial Services | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Banking & Financial Services: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Banking & Financial Services | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Banking & Financial Services: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Decision fabric — how Dataq Software composes Banking & Financial Services capability",
+   "title": "Decision fabric — how Achala IT Solutions composes Banking & Financial Services capability",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,11 +80,11 @@
   },
   {
    "t": "h2",
-   "x": "How Dataq Software responds"
+   "x": "How Achala IT Solutions responds"
   },
   {
    "t": "p",
-   "x": "Dataq Software works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Engagements Tied to Named Metrics put our fees next to the metric we move — loss rate, straight-through rate, cycle time."
+   "x": "Achala IT Solutions works with retail banks, corporate and investment banks, payment institutions and capital-markets firms as an engineering partner, not a slide deck. We build the lakehouse underneath risk and finance, the decision hubs that score and route, the agentic workforce that clears the KYC and exception backlog, and the evidence layer that turns every audit into a formality. Engagements Tied to Named Metrics put our fees next to the metric we move — loss rate, straight-through rate, cycle time."
   },
   {
    "t": "h2",

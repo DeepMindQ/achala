@@ -4,12 +4,12 @@
  "url": "/industries/telecom-media/media-entertainment/capabilities/cybersecurity-zero-trust/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Media & Entertainment > Cybersecurity & Zero-Trust",
- "seo_title": "Cyber & Zero-Trust for Media & Entertainment | Dataq Software",
- "meta_description": "Cyber & Zero-Trust for Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Cyber & Zero-Trust for Media & Entertainment | Achala IT Solutions",
+ "meta_description": "Cyber & Zero-Trust for Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Cyber & Zero-Trust for Media & Entertainment: concrete interfaces at OSS/BSS stacks, measured movement on Commissioning hit-rate, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Cyber & Zero-Trust for Media & Entertainment: concrete interfaces at OSS/BSS stacks, measured movement on Commissioning hit-rate, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Threat Intelligence & Managed SOC",

@@ -46,7 +46,7 @@ const TESTIMONIALS = [
     role: "Top-5 private bank, EMEA",
   },
   {
-    text: "We had seen a dozen agentic demos. DataQ was the first team that showed us the control trail behind every autonomous action.",
+    text: "We had seen a dozen agentic demos. Achala was the first team that showed us the control trail behind every autonomous action.",
     who: "VP Intelligent Automation",
     role: "Global insurer, APAC",
   },
@@ -93,7 +93,7 @@ export default function HomeView() {
                 ))}
               </h1>
               <p className="rise-item measure mt-5 text-body-lg leading-relaxed text-white/70" style={{ ["--rise-delay" as string]: "560ms" }}>
-                DataQ Soft engineers the intelligence layer of the enterprise: applied AI, agentic
+                Achala IT Solutions engineers the intelligence layer of the enterprise: applied AI, agentic
                 automation, data platforms, cybersecurity and emerging compute — delivered through eight
                 proprietary platforms and engagements anchored to named business metrics, named control
                 owners and named risk budgets.
@@ -171,7 +171,7 @@ export default function HomeView() {
           className="marquee-dark container-dq"
           items={[
             "SOC 2 Type II", "ISO 27001", "ISO 9001", "GDPR & CCPA aligned", "Zero-exposure delivery",
-            "DataQ Nexus", "DataQ Forge", "DataQ Swarm", "DataQ Sentinel", "DataQ Twinverse", "DataQ Quanta", "DataQ Ledger", "DataQ Compass",
+            "Achala Nexus", "Achala Forge", "Achala Swarm", "Achala Sentinel", "Achala Twinverse", "Achala Quanta", "Achala Ledger", "Achala Compass",
             "8 patented method families", "4 global delivery centers",
           ]}
         />
@@ -495,7 +495,7 @@ export default function HomeView() {
       <section className="container-dq pt-12">
         <Quote
           text="Every engagement anchored to a named business metric, a named control owner and a named risk budget."
-          attribution="The DataQ engagement charter"
+          attribution="The Achala engagement charter"
           role="Signed before delivery begins — measured at every gate"
         />
       </section>
@@ -539,7 +539,7 @@ function HomeBar() {
       labels={["Fraud triage", "Claims routing", "Demand plan", "Risk review"]}
       series={[
         { name: "Baseline", values: [42, 31, 64, 58] },
-        { name: "With DataQ", values: [11, 9, 22, 17], color: "#FE5722" },
+        { name: "With Achala", values: [11, 9, 22, 17], color: "#d20000" },
       ]}
       unit=" hrs"
     />

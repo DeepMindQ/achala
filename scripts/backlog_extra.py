@@ -9,7 +9,7 @@ P1E = [
     ("P1", "Platforms section", "PlatformTabs: add status chip (production/pilot) + integration count per platform", "PlatformTabs", "8 tabs carry chips", "Low", "S", ""),
     ("P1", "Evidence band", "Evidence slides: add artifact chips (steering pack, gate report, control matrix)", "SpotlightSlider", "3 chips per slide", "Med", "S", ""),
     ("P1", "Charter section", "Charter pillars: each links to approach page anchor describing the mechanism", "PILLARS", "Links resolve to anchors", "Low", "S", ""),
-    ("P1", "SEO page", "Homepage meta rewrite to match new positioning ('Dataq Software | ...') with 155-char description carrying towers", "home.json", "Unique meta; title pattern approved", "Med", "S", ""),
+    ("P1", "SEO page", "Homepage meta rewrite to match new positioning ('Achala IT Solutions | ...') with 155-char description carrying towers", "home.json", "Unique meta; title pattern approved", "Med", "S", ""),
 ]
 
 P3E = [

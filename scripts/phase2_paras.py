@@ -17,7 +17,7 @@ PARAS = {
   "How a delivery runs": [
     "A delivery for {T} runs on rhythm, not ritual: the baseline is signed in the first weeks, evidence is generated as the work happens, and the gate at each stage has real stop authority. Programs that miss their evidence stop.",
     "The rhythm for {T}: measure first, prove on real data, industrialize what survived the gate, and review the delta every fortnight with the people accountable for the number.",
-    "{T} follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk.",
+    "{T} follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk.",
     "Delivery on {T} is sequenced so the measurement always precedes the build: two weeks of baseline before the pilot, a scheduled gate before any scale-out, and a fortnightly reading against the signed number.",
     "We run {T} in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing.",
   ],
@@ -51,7 +51,7 @@ PARAS = {
   ],
   "The delivery pattern": [
     "The delivery pattern behind {T} is the one this site describes everywhere: signed baseline, bounded pilot, gates with stop authority, and a value ledger your finance team can audit.",
-    "{T} uses the standard Dataq delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate.",
+    "{T} uses the standard Achala delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate.",
     "What repeats across programs like {T} is the pattern; what never repeats is your baseline. The pattern carries the discipline, your estate sets the design.",
   ],
   "Where programs fail with this": [
@@ -100,7 +100,7 @@ PARAS = {
     "We start {T} by writing the mandate down — decision rights, budget authority and stop conditions — because unstated mandates are how programs drift.",
   ],
   "How this office works with clients": [
-    "This office works with clients the way every Dataq delivery works: named teams, signed baselines, gates with evidence — with regional time zones covered by the pod, not by heroics.",
+    "This office works with clients the way every Achala delivery works: named teams, signed baselines, gates with evidence — with regional time zones covered by the pod, not by heroics.",
     "Clients of this office get the same delivery standard as everywhere else in the portfolio — the local part is language, time zones and regulatory familiarity, not a different method.",
     "From this office, {T} programs are run by pods that stay with the engagement from diagnosis to handover — the same people your auditors will meet.",
   ],
@@ -330,7 +330,7 @@ CTA_LINES = {
 # ── note blocks (case studies) ───────────────────────────────────────────
 NOTE_LINES = [
   "Client identity, baselines and raw figures stay under agreement; the method note and the measurement shape are shareable in a briefing.",
-  "The engagement's evidence trail is available to your auditors under NDA — the same standard every Dataq program carries.",
+  "The engagement's evidence trail is available to your auditors under NDA — the same standard every Achala program carries.",
   "Figures on this page are the client's, reproduced with permission; the method note explaining how each was measured is shareable under NDA.",
   "Anonymity is contractual; the measurement discipline is not — the same gates and evidence standards apply on every engagement.",
 ]

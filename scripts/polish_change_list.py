@@ -1,7 +1,7 @@
-"""Polish print setup for the DataQ change list workbook (content untouched)."""
+"""Polish print setup for the Achala change list workbook (content untouched)."""
 import openpyxl
 
-PATH = "/home/z/my-project/download/DataQ_Website_Overhaul_Change_List.xlsx"
+PATH = "/home/z/my-project/download/achala_Website_Overhaul_Change_List.xlsx"
 
 wb = openpyxl.load_workbook(PATH)
 

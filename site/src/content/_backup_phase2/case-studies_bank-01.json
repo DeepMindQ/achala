@@ -4,7 +4,7 @@
  "url": "/case-studies/bank-01/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Banking & Financial Services > A top-10 European retail bank",
- "seo_title": "A top-10 European retail bank | Case Study | Dataq Software",
+ "seo_title": "A top-10 European retail bank | Case Study | Achala IT Solutions",
  "meta_description": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate.",
  "blocks": [
   {
@@ -42,11 +42,11 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
-   "x": "We built the streaming decision hub: Kafka/Flink features at event time, champion-challenger models behind policy layers on Dataq Nexus, and full decision replay with cryptographic logs. Network analytics across accounts and devices added organized-fraud detection, while the model-risk pack was produced as we built — documentation the regulator read directly."
+   "x": "We built the streaming decision hub: Kafka/Flink features at event time, champion-challenger models behind policy layers on EEMS Platform, and full decision replay with cryptographic logs. Network analytics across accounts and devices added organized-fraud detection, while the model-risk pack was produced as we built — documentation the regulator read directly."
   },
   {
    "t": "h2",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: Agentic AI & Hyperautomation, Data, Analytics & Lakehouse, Applied AI & Generative AI. Platforms: Dataq Nexus, Dataq Forge."
+   "x": "Towers: Agentic AI & Hyperautomation, Data, Analytics & Lakehouse, Applied AI & Generative AI. Platforms: EEMS Platform, Fleet Management System."
   },
   {
    "t": "h2",

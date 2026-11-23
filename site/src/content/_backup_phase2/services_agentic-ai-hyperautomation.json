@@ -4,12 +4,12 @@
  "url": "/services/agentic-ai-hyperautomation/",
  "template": "tower_hub",
  "breadcrumb": "Services > Agentic AI & Hyperautomation",
- "seo_title": "Agentic AI & Hyperautomation | Dataq Software",
- "meta_description": "Agentic AI & Hyperautomation services from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Agentic AI & Hyperautomation | Achala IT Solutions",
+ "meta_description": "Agentic AI & Hyperautomation services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Agentic AI & Hyperautomation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Agentic AI & Hyperautomation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -66,11 +66,11 @@
     ],
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "The Dataq Software build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
+     "The Achala IT Solutions build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
     ],
     [
      "Decision Intelligence Systems",
-     "The Dataq Software build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
+     "The Achala IT Solutions build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
     ],
     [
      "Intelligent Document Processing",
@@ -78,7 +78,7 @@
     ],
     [
      "Process & Task Mining",
-     "What Process & Task Mining means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
+     "What Process & Task Mining means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
     ],
     [
      "Hyperautomation & Systems Integration",
@@ -86,7 +86,7 @@
     ],
     [
      "Autonomous Workflow Orchestration",
-     "The Dataq Software build of Autonomous Workflow Orchestration: concrete interfaces at core systems, measured movement on workflow completion rate."
+     "The Achala IT Solutions build of Autonomous Workflow Orchestration: concrete interfaces at core systems, measured movement on workflow completion rate."
     ]
    ]
   },

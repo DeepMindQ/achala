@@ -4,12 +4,12 @@
  "url": "/services/cybersecurity-zero-trust/cloud-security-posture/",
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Cloud Security & Posture Management",
- "seo_title": "Cloud Security & Posture Management | Dataq Software",
- "meta_description": "Cloud Security & Posture Management from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Cloud Security & Posture Management | Achala IT Solutions",
+ "meta_description": "Cloud Security & Posture Management from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -253,11 +253,11 @@
     ],
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ]
    ]
   },
@@ -282,7 +282,7 @@
    "items": [
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "AI Security & Model Protection",

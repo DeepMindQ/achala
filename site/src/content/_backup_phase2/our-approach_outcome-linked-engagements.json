@@ -4,7 +4,7 @@
  "url": "/our-approach/outcome-linked-engagements/",
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > Outcome-Linked Engagements",
- "seo_title": "Outcome-Linked Engagements | Dataq Software",
+ "seo_title": "Outcome-Linked Engagements | Achala IT Solutions",
  "meta_description": "Commercial models aligned to the metric: outcome pilots, value-linked fees, platform subscriptions.",
  "blocks": [
   {
@@ -133,8 +133,8 @@
  ],
  "related": [
   {
-   "title": "The Dataq Method",
-   "url": "/our-approach/the-dataq-method/",
+   "title": "The Achala Method",
+   "url": "/our-approach/the-achala-method/",
    "desc": ""
   },
   {
@@ -148,8 +148,8 @@
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": "The proof points behind the method."
   }
  ],

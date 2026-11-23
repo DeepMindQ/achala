@@ -41,7 +41,7 @@ export default function ContactForm({ compact = false }: { compact?: boolean }) 
       message: (data.get("message") as string) || "",
       consent: (data.get("consent") as string) || "",
       subject: "Website contact — " + ((data.get("interest") as string) || "general"),
-      from_name: "DataQ Soft website",
+      from_name: "Achala IT Solutions website",
     };
     try {
       if (accessKey) {
@@ -147,10 +147,10 @@ export default function ContactForm({ compact = false }: { compact?: boolean }) 
           name="consent"
           type="checkbox"
           required
-          className="mt-1 h-4 w-4 rounded border-line accent-[#FE5722]"
+          className="mt-1 h-4 w-4 rounded border-line accent-[#d20000]"
         />
         <label htmlFor="cf-consent" className="text-[11.5px] leading-snug text-slate-body/70">
-          I consent to DataQ Soft storing this message to respond to my inquiry, in line with the{" "}
+          I consent to Achala IT Solutions storing this message to respond to my inquiry, in line with the{" "}
           <a href="/privacy-policy/" className="underline hover:text-navy-800">
             Privacy Policy
           </a>
@@ -159,7 +159,7 @@ export default function ContactForm({ compact = false }: { compact?: boolean }) 
       </div>
       {state === "error" && (
         <p className="flex items-center gap-2 text-[12.5px] text-red-600" role="alert">
-          <AlertCircle className="h-4 w-4" /> {errorMsg || "Something went wrong — please email info@dataqsoft.com."}
+          <AlertCircle className="h-4 w-4" /> {errorMsg || "Something went wrong — please email info@achalasolutions.com."}
         </p>
       )}
       <button

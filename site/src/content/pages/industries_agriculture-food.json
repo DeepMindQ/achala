@@ -4,8 +4,8 @@
  "url": "/industries/agriculture-food/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Agriculture & Food Systems",
- "seo_title": "Agriculture & Food Systems | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Agriculture & Food Systems: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Agriculture & Food Systems | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Agriculture & Food Systems: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -62,7 +62,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software builds for agribusiness, co-ops, food processors and agri-finance: precision-agronomy platforms on sensor and satellite feeds, yield and quality prediction, chain-of-custody networks with verifiable credentials, agri-finance risk models, and food-safety traceability that answers a recall query in minutes."
+   "x": "Achala IT Solutions builds for agribusiness, co-ops, food processors and agri-finance: precision-agronomy platforms on sensor and satellite feeds, yield and quality prediction, chain-of-custody networks with verifiable credentials, agri-finance risk models, and food-safety traceability that answers a recall query in minutes."
   },
   {
    "t": "h2",

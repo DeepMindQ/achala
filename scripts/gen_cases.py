@@ -121,7 +121,7 @@ def main():
             "url": f"/case-studies/{s['code']}/",
             "template": "case_study",
             "breadcrumb": f"Case Studies > {ind_label} > {s['client']}",
-            "seo_title": f"{s['client']} | Case Study | Dataq Software",
+            "seo_title": f"{s['client']} | Case Study | Achala IT Solutions",
             "meta_description": s["hero"],
             "blocks": bl,
             "words": words_of(bl),
@@ -196,7 +196,7 @@ def main():
     hub.update({
         "title": "Case studies",
         "breadcrumb": "Case Studies",
-        "seo_title": "Case Studies by Industry & Service Area | Dataq Software",
+        "seo_title": "Case Studies by Industry & Service Area | Achala IT Solutions",
         "meta_description": f"{n_cases} anonymized client engagements across {len(ind_list)} industries and "
                             f"{len(svc_list)} service areas — indexed by industry and service area, with challenge, "
                             f"solution architecture and measured outcomes for every program.",
@@ -233,7 +233,7 @@ def main():
             "url": url, "file": f"case-studies_{s['code']}", "title": s["client"],
             "template": "case_study", "section": "Case Studies", "l1": "Case Studies",
             "l2": ind_label, "l3": s["client"], "l4": "",
-            "seoTitle": f"{s['client']} | Case Study | Dataq Software",
+            "seoTitle": f"{s['client']} | Case Study | Achala IT Solutions",
             "metaDescription": s["hero"], "words": words_of(bl),
         })
         added += 1
@@ -241,7 +241,7 @@ def main():
     for r in idx:
         if r["url"] == "/case-studies/":
             r.update({"title": "Case studies",
-                      "seoTitle": "Case Studies by Industry & Service Area | Dataq Software",
+                      "seoTitle": "Case Studies by Industry & Service Area | Achala IT Solutions",
                       "metaDescription": hub["meta_description"], "words": hub["words"]})
     json.dump(idx, open(IDX, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     print("index rows added:", added, "| index total:", len(idx))

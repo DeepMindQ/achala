@@ -4,7 +4,7 @@
  "url": "/platforms/",
  "template": "platforms_hub",
  "breadcrumb": "Platforms",
- "seo_title": "Platforms Overview | Dataq Software",
+ "seo_title": "Platforms Overview | Achala IT Solutions",
  "meta_description": "Eight proprietary platforms encode our delivery patterns as configurable products — governance, security controls and evidence generation arrive pre-built.",
  "blocks": [
   {
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Each platform packages a patented method family as a product you can run: Nexus decides in milliseconds with a replayable trail, Forge keeps the lakehouse contracted and affordable, Swarm runs agent fleets inside policy envelopes, Sentinel encrypts collaboration, Twinverse mirrors physical operations, Quanta benchmarks every optimization run against the best classical solver, Ledger makes records auditable, and Compass governs the whole decision estate."
+   "x": "Each platform packages a proprietary method family as a product you can run: Nexus decides in milliseconds with a replayable trail, Forge keeps the lakehouse contracted and affordable, Swarm runs agent fleets inside policy envelopes, Sentinel encrypts collaboration, Twinverse mirrors physical operations, Quanta benchmarks every optimization run against the best classical solver, Ledger makes records auditable, and Compass governs the whole decision estate."
   },
   {
    "t": "h2",
@@ -47,50 +47,50 @@
  "related": [],
  "cards": [
   {
-   "title": "Dataq Nexus — Decision Intelligence Hub",
-   "url": "/platforms/nexus/",
+   "title": "EEMS Platform — Decision Intelligence Hub",
+   "url": "/platforms/eems/",
    "tag": "Platform",
    "desc": "Decision Intelligence Hub"
   },
   {
-   "title": "Dataq Forge — Data & Lakehouse Engineering Platform",
-   "url": "/platforms/forge/",
+   "title": "Fleet Management System — Data & Lakehouse Engineering Platform",
+   "url": "/platforms/fms/",
    "tag": "Platform",
    "desc": "Data & Lakehouse Engineering Platform"
   },
   {
-   "title": "Dataq Swarm — Agentic AI Orchestration Platform",
-   "url": "/platforms/swarm/",
+   "title": "KYC Management System — Agentic AI Orchestration Platform",
+   "url": "/platforms/kyc/",
    "tag": "Platform",
    "desc": "Agentic AI Orchestration Platform"
   },
   {
-   "title": "Dataq Sentinel — Zero-Trust & AI Security Platform",
-   "url": "/platforms/sentinel/",
+   "title": "Tele Medicine Platform — Zero-Trust & AI Security Platform",
+   "url": "/platforms/telemedicine/",
    "tag": "Platform",
    "desc": "Zero-Trust & AI Security Platform"
   },
   {
-   "title": "Dataq Twinverse — Digital Twin & IoT Intelligence Platform",
-   "url": "/platforms/twinverse/",
+   "title": "BI & Analytics Platform — Digital Twin & IoT Intelligence Platform",
+   "url": "/platforms/bi-analytics/",
    "tag": "Platform",
    "desc": "Digital Twin & IoT Intelligence Platform"
   },
   {
-   "title": "Dataq Quanta — Quantum & Advanced Compute Suite",
-   "url": "/platforms/quanta/",
+   "title": "Token Management System — Quantum & Advanced Compute Suite",
+   "url": "/platforms/token-management/",
    "tag": "Platform",
    "desc": "Quantum & Advanced Compute Suite"
   },
   {
-   "title": "Dataq Ledger — Distributed Trust & Tokenization Platform",
-   "url": "/platforms/ledger/",
+   "title": "Patient Priority Portal — Distributed Trust & Tokenization Platform",
+   "url": "/platforms/patient-portal/",
    "tag": "Platform",
    "desc": "Distributed Trust & Tokenization Platform"
   },
   {
-   "title": "Dataq Compass — Responsible AI & Governance Platform",
-   "url": "/platforms/compass/",
+   "title": "Driisti Smart Vision Glasses — Responsible AI & Governance Platform",
+   "url": "/platforms/driisti/",
    "tag": "Platform",
    "desc": "Responsible AI & Governance Platform"
   }

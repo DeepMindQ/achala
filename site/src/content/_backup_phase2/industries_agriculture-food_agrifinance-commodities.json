@@ -4,12 +4,12 @@
  "url": "/industries/agriculture-food/agrifinance-commodities/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Agriculture & Food Systems > AgriFinance & Commodity Markets",
- "seo_title": "AgriFinance & Commodity Markets | Dataq Software",
+ "seo_title": "AgriFinance & Commodity Markets | Achala IT Solutions",
  "meta_description": "Agri-finance prices practice, not just history: lenders, insurers and traders need verified agronomic data for credit scoring, parametric products and p.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What AgriFinance & Commodity Markets means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per field outcomes measured against your audited baseline."
+   "x": "What AgriFinance & Commodity Markets means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per field outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

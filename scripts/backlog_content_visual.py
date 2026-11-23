@@ -8,8 +8,8 @@ INDUSTRIES = ["Banking & Financial Services", "Insurance & Risk", "Healthcare & 
               "Manufacturing & Industrial", "Retail & Consumer Goods", "Telecom, Media & Entertainment",
               "Energy & Utilities", "Logistics & Supply Chain", "Public Sector & Government",
               "Education & Research", "Technology & SaaS", "Agriculture & Food Systems"]
-PLATFORMS = ["Dataq Nexus", "Dataq Forge", "Dataq Swarm", "Dataq Sentinel",
-             "Dataq Twinverse", "Dataq Quanta", "Dataq Ledger", "Dataq Compass"]
+PLATFORMS = ["Achala Nexus", "Achala Forge", "Achala Swarm", "Achala Sentinel",
+             "Achala Twinverse", "Achala Quanta", "Achala Ledger", "Achala Compass"]
 
 def eng(kind, label, count, dod):
     return ("P4", "Cluster rewrites", f"Rewrite {kind} '{label}' ({count} pages): new hero (no formula), 600+ word body, concrete numbers, 3+ inline cross-links, mapped visuals", label, dod, "High", "M", "")
@@ -21,12 +21,12 @@ P4 = [
     ("P4", "Engine rules", "Sentence texture rule: mix lengths (max 28 words), one concrete noun+number per paragraph, zero nested em-dash chains", "engine", "Readability spot-check on 30 pages passes", "Med", "M", ""),
     ("P4", "Engine rules", "'So-what' test: every section ends with a business implication line (cost, risk, speed, compliance)", "engine + editor pass", "30-page sample: every H2 section has implication line", "High", "M", ""),
     ("P4", "Engine rules", "Concrete-number density: each page >=5 grounded figures (windows, volumes, roles, SLA shapes) from the honest assumption registry", "engine", "Number density report >=5/page", "Med", "M", ""),
-    ("P4", "Engine rules", "Terminology table: canonical terms (Dataq Software, towers, platforms, methods) with approved synonyms; engine enforces", "engine config", "0 off-brand variants in build", "Med", "S", ""),
+    ("P4", "Engine rules", "Terminology table: canonical terms (Achala IT Solutions, towers, platforms, methods) with approved synonyms; engine enforces", "engine config", "0 off-brand variants in build", "Med", "S", ""),
     ("P4", "Engine rules", "US English + headline case rules applied engine-wide", "engine", "Spellcheck pass; heading case consistent", "Low", "S", ""),
     ("P4", "Engine rules", "Tone guide: deep-tech consultancy voice - declarative, evidence-first, zero hype adjectives; 3 exemplar paragraphs per template in the guide", "docs/tone_guide", "Guide signed; used by rewrite batches", "High", "S", ""),
     ("P4", "Engine rules", "Per-template paragraph minimums: body >=600 words (content pages), >=350 (legal), hubs >=800", "engine", "Word-count report per template passes", "High", "M", ""),
     ("P4", "Engine rules", "First-person plural 'we' voice with named roles ('delivery lead', 'model risk reviewer') - no 'our team of experts' fluff", "engine", "Sample pass on 20 pages", "Med", "S", ""),
-    ("P4", "Engine rules", "Kill 'Dataq Software was founded on a simple observation...' style origin-story filler on hubs; lead with the offer", "index/about content", "About + hubs rewritten leads", "Med", "S", ""),
+    ("P4", "Engine rules", "Kill 'Achala IT Solutions was founded on a simple observation...' style origin-story filler on hubs; lead with the offer", "index/about content", "About + hubs rewritten leads", "Med", "S", ""),
     ("P4", "Engine rules", "Quote-attribution cleanup: no invented executive quotes; use role-based anonymized types consistently", "content", "0 fabricated named quotes", "Med", "S", ""),
     ("P4", "Engine rules", "Glossary: 40 terms with 2-line definitions; terms auto-linked on first use per page", "glossary content + linker", "Glossary page live; >=60% of pages link >=1 term", "Med", "M", ""),
 ] + [
@@ -95,7 +95,7 @@ P4 = [
     ("P4", "New blocks", "Updated-date + reading-time meta on articles and long pages", "renderer", "Meta renders site-wide", "Low", "S", ""),
     ("P4", "New blocks", "Assumptions & sources footnote block on pages with figures", "renderer", "Pages with numbers carry it", "Med", "S", ""),
     ("P4", "SEO copy", "633 unique meta descriptions: pattern per template + page-specific hook; 140-155 chars", "content engine", "Meta checker: 633/633 unique, in range", "High", "L", ""),
-    ("P4", "SEO copy", "633 unique seo_titles: template pattern '{Capability} - {Industry context} | Dataq Software' variants", "content engine", "0 duplicates; <=60 chars target", "High", "L", ""),
+    ("P4", "SEO copy", "633 unique seo_titles: template pattern '{Capability} - {Industry context} | Achala IT Solutions' variants", "content engine", "0 duplicates; <=60 chars target", "High", "L", ""),
     ("P4", "SEO copy", "H1 uniqueness + keyword-to-page map (no cannibalization across 240 sub-capability pages)", "map doc", "Map reviewed; 0 cannibalization pairs", "High", "M", ""),
     ("P4", "SEO copy", "OG titles/descriptions per template family + OG image route per template", "OG generator", "OG tags correct on 20 sampled pages", "Med", "M", ""),
     ("P4", "SEO copy", "Internal anchor audit: anchors descriptive (never 'click here'), match target page intent", "link checker", "Audit green", "Low", "S", ""),

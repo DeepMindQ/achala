@@ -4,12 +4,12 @@
  "url": "/services/applied-ai-generative-ai/llm-fine-tuning-ops/",
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > LLM Fine-Tuning & Model Operations",
- "seo_title": "LLM Fine-Tuning & Model Operations | Dataq Software",
- "meta_description": "LLM Fine-Tuning & Model Operations from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "LLM Fine-Tuning & Model Operations | Achala IT Solutions",
+ "meta_description": "LLM Fine-Tuning & Model Operations from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What LLM Fine-Tuning & Model Operations means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What LLM Fine-Tuning & Model Operations means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

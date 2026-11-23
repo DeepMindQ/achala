@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild home.json: reposition Dataq Software as an IT services & consulting company
+"""Rebuild home.json: reposition Achala IT Solutions as an IT services & consulting company
 with patented IP as the differential strategy. Keeps extras schema intact (stats,
 domains, industries, cases, insights, platforms) and recomputes the word count."""
 import json, re
@@ -8,9 +8,9 @@ P = "site/src/content/pages/home.json"
 old = json.load(open(P))
 
 blocks = [
- {"t": "hero", "x": "Dataq Software is an IT services and consulting company. Fifty-four deep-tech practices and thirteen consulting practices — from strategy to managed operations — with eight patented method families pre-configured in eight proprietary platforms, and every engagement gated on a metric your board signs."},
+ {"t": "hero", "x": "Achala IT Solutions is an IT services and consulting company. Fifty-four deep-tech practices and thirteen consulting practices — from strategy to managed operations — with eight patented method families pre-configured in eight proprietary platforms, and every engagement gated on a metric your board signs."},
  {"t": "h2", "x": "What we do"},
- {"t": "p", "x": "Dataq Software is a global IT services and consulting firm with 2,400+ engineers, consultants, data scientists and domain specialists across four delivery centers. The engagement surface covers the whole estate: digital transformation programs, data migration, software engineering pods, testing and quality engineering, application modernization, Azure cloud, ERP cores, managed operations and end-user support — alongside deep-tech programs in applied AI, agentic automation, data platforms, cybersecurity and advanced compute."},
+ {"t": "p", "x": "Achala IT Solutions is a global IT services and consulting firm with 2,400+ engineers, consultants, data scientists and domain specialists across four delivery centers. The engagement surface covers the whole estate: digital transformation programs, data migration, software engineering pods, testing and quality engineering, application modernization, Azure cloud, ERP cores, managed operations and end-user support — alongside deep-tech programs in applied AI, agentic automation, data platforms, cybersecurity and advanced compute."},
  {"t": "p", "x": "Every engagement starts with a baseline your finance team signs. Every quarter ends with a measured delta against that baseline. When a program should stop, we say so in writing. That discipline — not a model architecture — is what most enterprise technology programs are missing, and it is the first thing we install."},
  {"t": "p", "x": "What separates us is the intellectual property we bring on day one. Eight patented method families developed by our research programme arrive pre-configured inside eight proprietary platforms, so programs start from a configured 80 percent baseline and the budget goes to the 20 percent that is genuinely yours."},
  {"t": "h2", "x": "Two ways in: eight expertise domains, thirteen consulting practices"},
@@ -46,9 +46,9 @@ blocks = [
   ["Retail & Consumer Goods", "Pricing, availability and personalization programs measured directly on margin."],
  ]},
  {"t": "p", "x": "The full sector list — insurance, telecom, logistics, public sector, education, technology and agriculture — is on the industries hub, and every sub-industry page aligns the five domains that matter most there."},
- {"t": "h2", "x": "Dataq Software in numbers"},
+ {"t": "h2", "x": "Achala IT Solutions in numbers"},
  {"t": "table",
-  "caption": "Dataq Software at a glance",
+  "caption": "Achala IT Solutions at a glance",
   "headers": ["Proof point", "What it means"],
   "rows": [
    ["350+", "enterprise engagements delivered"],
@@ -87,7 +87,7 @@ for s in stats:
         s["label"] = "engineers, consultants, data scientists and domain specialists"
 
 out = dict(old)
-out["seo_title"] = "Dataq Software — IT services & consulting with patented IP | AI, cloud, data, security, ERP"
+out["seo_title"] = "Achala IT Solutions — IT services & consulting with patented IP | AI, cloud, data, security, ERP"
 out["meta_description"] = "IT services and consulting: 8 deep-tech expertise domains and 13 consulting practices, every engagement powered by 8 patented method families and 8 proprietary platforms — gated on signed metrics. SOC 2 · ISO 27001."
 out["blocks"] = blocks
 out["words"] = words

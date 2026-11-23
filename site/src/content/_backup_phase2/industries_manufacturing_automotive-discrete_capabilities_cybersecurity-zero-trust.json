@@ -5,7 +5,7 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Automotive & Discrete Manufacturing > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing",
- "meta_description": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 3 tower services, the Dataq Forge platform for rails, and your estate at MES layers for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 3 tower services, the Fleet Management System platform for rails, and your estate at MES layers for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Threat Intelligence & Managed SOC",
@@ -218,7 +218,7 @@
   },
   {
    "t": "p",
-   "x": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",
@@ -241,7 +241,7 @@
     ],
     [
      "Manufacturing & Industrial",
-     "The Dataq Software build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical."
+     "The Achala IT Solutions build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical."
     ]
    ]
   },

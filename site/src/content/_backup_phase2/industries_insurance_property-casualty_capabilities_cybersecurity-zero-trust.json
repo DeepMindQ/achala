@@ -4,8 +4,8 @@
  "url": "/industries/insurance/property-casualty/capabilities/cybersecurity-zero-trust/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Property & Casualty > Cybersecurity & Zero-Trust",
- "seo_title": "Cyber & Zero-Trust for Property & Casualty | Dataq Software",
- "meta_description": "Cyber & Zero-Trust for Property & Casualty: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Cyber & Zero-Trust for Property & Casualty | Achala IT Solutions",
+ "meta_description": "Cyber & Zero-Trust for Property & Casualty: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "AI Security & Model Protection",

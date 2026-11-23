@@ -6,7 +6,7 @@ import { HelpCircle, Play, X } from "lucide-react";
 /* ── OpsConsole — the leadership panel in the homepage hero ─────────────────
    E-04: labeled "Illustrative — reference program", never claiming liveness —
    a technically literate buyer will test any claim of liveness, so the console
-   states exactly what it is: a sample of the panel every Dataq program ships,
+   states exactly what it is: a sample of the panel every Achala program ships,
    rendered from the illustrative reference program (E-05 provenance rule).
    A-06: every KPI tile carries a plain-language tooltip.
    A-51: minimally interactive — hover a tile for its explanation, or run the
@@ -137,7 +137,7 @@ export default function OpsConsole() {
       <div className="px-4 py-3.5">
         {/* A-06: one-line caption under the title — what this panel is */}
         <p className="mb-2.5 text-[11px] leading-relaxed text-white/45">
-          The leadership panel every Dataq program ships — sample from a fraud-decisioning program.
+          The leadership panel every Achala program ships — sample from a fraud-decisioning program.
         </p>
 
         {/* KPI tiles — A-06 tooltips + A-51 tour target */}
@@ -185,7 +185,7 @@ export default function OpsConsole() {
               <line key={y} x1="4" y1={y} x2="316" y2={y} stroke="rgba(255,255,255,0.07)" />
             ))}
             <path d={SparkPath(s2, 320, 84)} fill="none" stroke="rgba(255,255,255,0.28)" strokeWidth="1.2" />
-            <path d={SparkPath(s1, 320, 84)} fill="none" stroke="#FE5722" strokeWidth="1.8" className="td-flow" strokeDasharray="200 0" />
+            <path d={SparkPath(s1, 320, 84)} fill="none" stroke="#d20000" strokeWidth="1.8" className="td-flow" strokeDasharray="200 0" />
           </svg>
         </div>
 
@@ -199,7 +199,7 @@ export default function OpsConsole() {
                   className="block h-full rounded-full"
                   style={{
                     width: `${b.pct}%`,
-                    background: i === 0 ? "rgba(255,255,255,0.35)" : "rgba(254,87,34,0.6)",
+                    background: i === 0 ? "rgba(255,255,255,0.35)" : "rgba(210, 0, 0,0.6)",
                     animation: `dash-bar .9s ${0.3 + i * 0.15}s both`,
                   }}
                 />

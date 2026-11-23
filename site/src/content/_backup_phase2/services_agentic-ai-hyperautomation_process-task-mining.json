@@ -4,12 +4,12 @@
  "url": "/services/agentic-ai-hyperautomation/process-task-mining/",
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Process & Task Mining",
- "seo_title": "Process & Task Mining | Dataq Software",
- "meta_description": "Process & Task Mining from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Process & Task Mining | Achala IT Solutions",
+ "meta_description": "Process & Task Mining from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Process & Task Mining means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Process & Task Mining means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -249,11 +249,11 @@
    "items": [
     [
      "Digital Workforce & Multi-Agent Orchestration",
-     "The Dataq Software build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
+     "The Achala IT Solutions build of Digital Workforce & Multi-Agent Orchestration: concrete interfaces at core systems, measured movement on fleet."
     ],
     [
      "Decision Intelligence Systems",
-     "The Dataq Software build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
+     "The Achala IT Solutions build of Decision Intelligence Systems: concrete interfaces at core systems, measured movement on decision latency, and a delivery."
     ],
     [
      "Intelligent Document Processing",
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "Process & Task Mining follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Process & Task Mining follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

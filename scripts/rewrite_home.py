@@ -5,16 +5,16 @@ P = '/home/z/my-project/site/src/content/pages/home.json'
 d = json.load(open(P))
 
 d['title'] = 'Home'
-d['seo_title'] = 'DataQ Soft | Deep-Tech IT Services & Consulting'
-d['meta_description'] = ('DataQ Soft builds the AI and data systems enterprises run on: applied AI, '
+d['seo_title'] = 'Achala IT Solutions | Deep-Tech IT Services & Consulting'
+d['meta_description'] = ('Achala IT Solutions builds the AI and data systems enterprises run on: applied AI, '
                          'agentic automation, data platforms, cybersecurity and advanced compute — '
                          'delivered by 2,400+ engineers across 4 global centers.')
 
 d['blocks'] = [
-    {"t": "hero", "x": "DataQ Soft builds the AI and data systems enterprises run on. Applied AI, agentic automation, data platforms, cybersecurity and advanced compute — delivered by named teams, measured against a signed baseline, and handed over with the evidence your auditors ask for."},
+    {"t": "hero", "x": "Achala IT Solutions builds the AI and data systems enterprises run on. Applied AI, agentic automation, data platforms, cybersecurity and advanced compute — delivered by named teams, measured against a signed baseline, and handed over with the evidence your auditors ask for."},
 
     {"t": "h2", "x": "What we do"},
-    {"t": "p", "x": "DataQ Soft is a global IT services and consulting firm with 2,400+ engineers, data scientists and domain specialists across four delivery centers. We take on programs where the outcome can be measured before and after: a fraud model's approval rate, a plant's unplanned downtime, a contact center's cost per case, a grid's balancing cost."},
+    {"t": "p", "x": "Achala IT Solutions is a global IT services and consulting firm with 2,400+ engineers, data scientists and domain specialists across four delivery centers. We take on programs where the outcome can be measured before and after: a fraud model's approval rate, a plant's unplanned downtime, a contact center's cost per case, a grid's balancing cost."},
     {"t": "p", "x": "Every engagement starts with a baseline your finance team signs. Every quarter ends with a measured delta against that baseline. When a program should stop, we say so in writing. That discipline — not a model architecture — is what most enterprise AI programs are missing, and it is the first thing we install."},
 
     {"t": "h2", "x": "Eight service towers, one delivery system"},
@@ -33,14 +33,14 @@ d['blocks'] = [
     {"t": "h2", "x": "Platforms, not just projects"},
     {"t": "p", "x": "Each tower runs on one of our eight proprietary platforms. The platforms arrive pre-configured with the controls, evidence generation and delivery patterns our teams have standardized — clients start from a configured 80 percent baseline and spend their budget on the 20 percent that is genuinely theirs."},
     {"t": "bullets", "items": [
-        ["DataQ Nexus", "The decision hub: contextual graphs, policy checks and full decision replay for audit."],
-        ["DataQ Forge", "The data platform every program builds on: ingestion, quality, lineage and access control."],
-        ["DataQ Swarm", "Multi-agent orchestration with queues, budgets, escalation paths and audit trails."],
-        ["DataQ Sentinel", "Security controls for people, machines and models, with evidence collected continuously."],
-        ["DataQ Twinverse", "Simulation and operations for physical assets, from sensor data to actuation."],
-        ["DataQ Quanta", "Optimization workloads on quantum-inspired algorithms, benchmarked against classical solvers."],
-        ["DataQ Ledger", "Permissioned ledger networks with regulatory reporting built in."],
-        ["DataQ Compass", "Model governance: validation, monitoring and documentation your risk committee can review."]
+        ["Achala Nexus", "The decision hub: contextual graphs, policy checks and full decision replay for audit."],
+        ["Achala Forge", "The data platform every program builds on: ingestion, quality, lineage and access control."],
+        ["Achala Swarm", "Multi-agent orchestration with queues, budgets, escalation paths and audit trails."],
+        ["Achala Sentinel", "Security controls for people, machines and models, with evidence collected continuously."],
+        ["Achala Twinverse", "Simulation and operations for physical assets, from sensor data to actuation."],
+        ["Achala Quanta", "Optimization workloads on quantum-inspired algorithms, benchmarked against classical solvers."],
+        ["Achala Ledger", "Permissioned ledger networks with regulatory reporting built in."],
+        ["Achala Compass", "Model governance: validation, monitoring and documentation your risk committee can review."]
     ]},
 
     {"t": "h2", "x": "Where we work"},
@@ -57,8 +57,8 @@ d['blocks'] = [
     {"t": "h2", "x": "The research behind the delivery"},
     {"t": "p", "x": "Our platforms embed eight proprietary method families developed by our research programme: graph-native contextual intelligence, quantum-inspired optimization, federated learning with homomorphic encryption, multi-layer decision validation, energy-aware workload orchestration, generative workflow automation, self-evolving enterprise learning loops and multimodal pattern recognition. Each method is in production use inside named platforms — the mapping from method to platform to service is on the patented-intelligence page."},
 
-    {"t": "h2", "x": "DataQ Soft in numbers"},
-    {"t": "table", "caption": "DataQ Soft at a glance", "headers": ["Proof point", "What it means"], "rows": [
+    {"t": "h2", "x": "Achala IT Solutions in numbers"},
+    {"t": "table", "caption": "Achala IT Solutions at a glance", "headers": ["Proof point", "What it means"], "rows": [
         ["350+", "enterprise engagements delivered"],
         ["40+", "countries served from 4 global delivery centers"],
         ["2,400+", "engineers, data scientists and domain specialists"],

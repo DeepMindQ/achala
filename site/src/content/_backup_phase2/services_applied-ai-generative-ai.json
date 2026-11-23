@@ -4,8 +4,8 @@
  "url": "/services/applied-ai-generative-ai/",
  "template": "tower_hub",
  "breadcrumb": "Services > Applied AI & Generative AI",
- "seo_title": "Applied AI & Generative AI | Dataq Software",
- "meta_description": "Applied AI & Generative AI services from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Applied AI & Generative AI | Achala IT Solutions",
+ "meta_description": "Applied AI & Generative AI services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Applied AI & Generative AI at Dataq Software covers the full lifecycle of enterprise intelligence: strategy and value mapping, platform build-out, model adaptation, retrieval architectures, multimodal systems, and the governance fabric that keeps every model auditable. We do not run experiments for their own sake; every engagement is anchored to a named business metric, a named control owner, and a named risk budget."
+   "x": "Applied AI & Generative AI at Achala IT Solutions covers the full lifecycle of enterprise intelligence: strategy and value mapping, platform build-out, model adaptation, retrieval architectures, multimodal systems, and the governance fabric that keeps every model auditable. We do not run experiments for their own sake; every engagement is anchored to a named business metric, a named control owner, and a named risk budget."
   },
   {
    "t": "h2",
@@ -70,7 +70,7 @@
     ],
     [
      "LLM Fine-Tuning & Model Operations",
-     "What LLM Fine-Tuning & Model Operations means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What LLM Fine-Tuning & Model Operations means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "RAG & Enterprise Knowledge Systems",

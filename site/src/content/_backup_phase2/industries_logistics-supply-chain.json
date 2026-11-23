@@ -4,8 +4,8 @@
  "url": "/industries/logistics-supply-chain/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Logistics & Supply Chain",
- "seo_title": "Logistics & Supply Chain | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Logistics & Supply Chain: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Logistics & Supply Chain | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Logistics & Supply Chain: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Decision fabric — how Dataq Software composes Logistics & Supply Chain capability",
+   "title": "Decision fabric — how Achala IT Solutions composes Logistics & Supply Chain capability",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,11 +80,11 @@
   },
   {
    "t": "h2",
-   "x": "How Dataq Software responds"
+   "x": "How Achala IT Solutions responds"
   },
   {
    "t": "p",
-   "x": "Dataq Software builds the flow stack: event-driven visibility across TMS/WMS/telematics, agentic dispatch and exception resolution, yard and dock orchestration, computer vision for damage and load verification, network twins for scenario planning, and provenance networks for compliance-grade chain-of-custody."
+   "x": "Achala IT Solutions builds the flow stack: event-driven visibility across TMS/WMS/telematics, agentic dispatch and exception resolution, yard and dock orchestration, computer vision for damage and load verification, network twins for scenario planning, and provenance networks for compliance-grade chain-of-custody."
   },
   {
    "t": "h2",

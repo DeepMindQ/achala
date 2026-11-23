@@ -4,8 +4,8 @@
  "url": "/careers/working-here/",
  "template": "careers_page",
  "breadcrumb": "Home > About Us > Careers > Working Here",
- "seo_title": "Working Here | Careers | Dataq Software",
- "meta_description": "Working Here at Dataq Software — What it is like to build a career inside an outcome-linked engineering firm — guilds, evidence-first reviews and work.",
+ "seo_title": "Working Here | Careers | Achala IT Solutions",
+ "meta_description": "Working Here at Achala IT Solutions — What it is like to build a career inside an outcome-linked engineering firm — guilds, evidence-first reviews and work.",
  "words": 234,
  "section": "Company",
  "l1": "About Us",
@@ -15,7 +15,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "What working at Dataq Software is actually like: small teams, real production ownership, evidence over opinions, and a career ladder that rewards engineering depth as much as management."
+   "x": "What working at Achala IT Solutions is actually like: small teams, real production ownership, evidence over opinions, and a career ladder that rewards engineering depth as much as management."
   },
   {
    "t": "h2",
@@ -47,11 +47,11 @@
   },
   {
    "t": "p",
-   "x": "Delivery hubs in Tysons Corner, London, Riyadh and our India execution core, working as one pod across time zones with a written-first culture — decisions live in documents, not in meetings you had to attend."
+   "x": "Delivery hubs in Hyderabad, Munich, Sofia and our India execution core, working as one pod across time zones with a written-first culture — decisions live in documents, not in meetings you had to attend."
   },
   {
    "t": "cta",
-   "x": "Send your CV and one artifact you are proud of to careers@dataqsoft.com — a human reads it, and you will hear back inside a week."
+   "x": "Send your CV and one artifact you are proud of to careers@achalasolutions.com — a human reads it, and you will hear back inside a week."
   }
  ],
  "crumbs": [
@@ -76,7 +76,7 @@
   {
    "title": "Careers — overview",
    "url": "/careers/",
-   "desc": "Evidence-based hiring across four delivery centers."
+   "desc": "Evidence-based hiring across global delivery centers in Hyderabad, Munich and Sofia."
   },
   {
    "title": "Open Positions",

@@ -5,7 +5,7 @@ const C = [
     why: "The same 8-section order on all eight hubs reproduces the template feel at hub level; only the nouns change.",
     chg: "Give each hub a narrative order that fits its buying story: Cyber = control-surface story first; Quantum = evidence-first; IoT = field-first; Data = contract-first. At minimum vary section names, not just nouns." },
   { id: "C-02", loc: "All 8 hubs \u00b7 H1", pri: 2,
-    now: "Bare domain names (\u201cAgentic AI & Hyperautomation | Dataq Software\u201d)",
+    now: "Bare domain names (\u201cAgentic AI & Hyperautomation | Achala IT Solutions\u201d)",
     why: "H1s name the taxonomy, not the promise; SERP and tab give no reason to click.",
     chg: "Benefit-led H1s: \u201cAgentic AI & Hyperautomation \u2014 automation that survives its own failures\u201d; \u201cData, Analytics & Lakehouse \u2014 decisions in the first second, evidence forever\u201d." },
 

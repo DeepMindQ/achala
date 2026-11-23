@@ -4,8 +4,8 @@
  "url": "/industries/energy-utilities/renewables/capabilities/cloud-edge-platform-engineering/",
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Renewable Energy > Cloud, Edge & Platform Engineering",
- "seo_title": "Cloud, Edge & Platform for Renewable Energy | Dataq Software",
- "meta_description": "Cloud, Edge & Platform for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Cloud, Edge & Platform for Renewable Energy | Achala IT Solutions",
+ "meta_description": "Cloud, Edge & Platform for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -74,7 +74,7 @@
    "items": [
     [
      "FinOps & Sustainable Computing",
-     "The Dataq Software build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
+     "The Achala IT Solutions build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
     ],
     [
      "High-Performance & Mission-Critical Systems",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

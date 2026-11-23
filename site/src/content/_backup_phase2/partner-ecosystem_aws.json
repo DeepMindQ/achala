@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/aws/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > AWS",
- "seo_title": "AWS Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on AWS: Cloud, data and agentic workloads on Amazon Web Services.",
+ "seo_title": "AWS Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on AWS: Cloud, data and agentic workloads on Amazon Web Services.",
  "words": 430,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with AWS: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with AWS: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "AWS — joint delivery topology with Dataq Software",
+   "title": "AWS — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -161,7 +161,7 @@
    "items": [
     [
      "Joint architecture pack",
-     "a tenancy-specific architecture pack co-signed by Dataq Software and the vendor platform team"
+     "a tenancy-specific architecture pack co-signed by Achala IT Solutions and the vendor platform team"
     ],
     [
      "Certified delivery pod",

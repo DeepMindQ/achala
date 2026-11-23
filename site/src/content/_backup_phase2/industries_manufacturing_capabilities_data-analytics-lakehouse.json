@@ -4,12 +4,12 @@
  "url": "/industries/manufacturing/capabilities/data-analytics-lakehouse/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Data, Analytics & Lakehouse",
- "seo_title": "Data & Lakehouse for Manufacturing & Industrial | Dataq Software",
- "meta_description": "Data & Lakehouse for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Data & Lakehouse for Manufacturing & Industrial | Achala IT Solutions",
+ "meta_description": "Data & Lakehouse for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Data & Lakehouse for Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on freshness SLO attainment, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Data & Lakehouse for Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on freshness SLO attainment, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -82,7 +82,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ],
     [
      "Enterprise BI & Executive Analytics",
@@ -236,7 +236,7 @@
     ],
     [
      "Manufacturing & Industrial",
-     "The Dataq Software build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical."
+     "The Achala IT Solutions build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical."
     ]
    ]
   },

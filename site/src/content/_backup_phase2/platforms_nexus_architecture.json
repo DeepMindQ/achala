@@ -1,15 +1,15 @@
 {
  "id": "PLT-nexus-ar",
- "title": "Dataq Nexus — Architecture & Trust",
- "url": "/platforms/nexus/architecture/",
+ "title": "EEMS Platform — Architecture & Trust",
+ "url": "/platforms/eems/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Nexus > Architecture & Trust",
- "seo_title": "Dataq Nexus — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Nexus — Decision Intelligence Hub from Dataq Software.",
+ "breadcrumb": "Platforms > EEMS Platform > Architecture & Trust",
+ "seo_title": "EEMS Platform — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for EEMS Platform — Decision Intelligence Hub from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Nexus — Architecture & Trust in production terms — the runtime that holds it, the policies that bound it, the dashboards that prove it, and the quarterly delta your finance team can bank."
+   "x": "EEMS Platform — Architecture & Trust in production terms — the runtime that holds it, the policies that bound it, the dashboards that prove it, and the quarterly delta your finance team can bank."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Nexus — plane and service layers",
+   "title": "EEMS Platform — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Nexus — deployment topology and flow",
+   "title": "EEMS Platform — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -161,7 +161,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Nexus — Architecture & Trust is described here in operational terms: who owns what, where the evidence lives, and what stops the program if the numbers stop moving."
+   "x": "EEMS Platform — Architecture & Trust is described here in operational terms: who owns what, where the evidence lives, and what stops the program if the numbers stop moving."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
  "words": 489,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Nexus",
+ "l2": "EEMS Platform",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Nexus",
+   "name": "EEMS Platform",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/nexus/architecture/"
+   "url": "/platforms/eems/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Nexus — Overview",
-   "url": "/platforms/nexus/",
+   "title": "EEMS Platform — Overview",
+   "url": "/platforms/eems/",
    "desc": "Decision Intelligence Hub"
   },
   {
-   "title": "Dataq Nexus — Architecture & Trust",
-   "url": "/platforms/nexus/architecture/",
+   "title": "EEMS Platform — Architecture & Trust",
+   "url": "/platforms/eems/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Nexus — Industry Use Cases",
-   "url": "/platforms/nexus/use-cases/",
+   "title": "EEMS Platform — Industry Use Cases",
+   "url": "/platforms/eems/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

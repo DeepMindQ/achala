@@ -4,12 +4,12 @@
  "url": "/services/cybersecurity-zero-trust/compliance-audit-digital-trust/",
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Compliance, Audit & Digital Trust",
- "seo_title": "Compliance, Audit & Digital Trust | Dataq Software",
- "meta_description": "Compliance, Audit & Digital Trust from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Compliance, Audit & Digital Trust | Achala IT Solutions",
+ "meta_description": "Compliance, Audit & Digital Trust from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -257,7 +257,7 @@
     ],
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ]
    ]
   },

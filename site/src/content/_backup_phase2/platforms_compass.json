@@ -1,15 +1,15 @@
 {
  "id": "PLT-compass-ov",
- "title": "Dataq Compass — Overview",
- "url": "/platforms/compass/",
+ "title": "Driisti Smart Vision Glasses — Overview",
+ "url": "/platforms/driisti/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Compass > Overview",
- "seo_title": "Dataq Compass — Overview | Dataq Software",
+ "breadcrumb": "Platforms > Driisti Smart Vision Glasses > Overview",
+ "seo_title": "Driisti Smart Vision Glasses — Overview | Achala IT Solutions",
  "meta_description": "AI your model-risk committee approves and your regulator can inspect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Compass — Overview in production terms — the runtime that holds it, the policies that bound it, the dashboards that prove it, and the quarterly delta your finance team can bank."
+   "x": "Driisti Smart Vision Glasses — Overview in production terms — the runtime that holds it, the policies that bound it, the dashboards that prove it, and the quarterly delta your finance team can bank."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Compass operationalizes AI governance: the policy layer (NIST AI RMF, ISO 42001, EU AI Act mapping), model registry with technical documentation, evaluation puts to work with red-team suites, guardrail configuration, incident response for AI events, and the evidence pack that turns conformity assessment into a formality."
+   "x": "Driisti Smart Vision Glasses operationalizes AI governance: the policy layer (NIST AI RMF, ISO 42001, EU AI Act mapping), model registry with technical documentation, evaluation puts to work with red-team suites, guardrail configuration, incident response for AI events, and the evidence pack that turns conformity assessment into a formality."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Compass — control and evidence planes",
+   "title": "Driisti Smart Vision Glasses — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "Every component in Dataq Compass — Overview has a contract, a version and a named owner. When something drifts, the ticket goes to a person, not to a committee — that is what the reference architecture is for."
+   "x": "Every component in Driisti Smart Vision Glasses — Overview has a contract, a version and a named owner. When something drifts, the ticket goes to a person, not to a committee — that is what the reference architecture is for."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Teams adopt Dataq Compass — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
+   "x": "Teams adopt Driisti Smart Vision Glasses — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 589,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Compass",
+ "l2": "Driisti Smart Vision Glasses",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Compass",
+   "name": "Driisti Smart Vision Glasses",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/compass/"
+   "url": "/platforms/driisti/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Compass — Overview",
-   "url": "/platforms/compass/",
+   "title": "Driisti Smart Vision Glasses — Overview",
+   "url": "/platforms/driisti/",
    "desc": "Responsible AI & Governance Platform"
   },
   {
-   "title": "Dataq Compass — Architecture & Trust",
-   "url": "/platforms/compass/architecture/",
+   "title": "Driisti Smart Vision Glasses — Architecture & Trust",
+   "url": "/platforms/driisti/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Compass — Industry Use Cases",
-   "url": "/platforms/compass/use-cases/",
+   "title": "Driisti Smart Vision Glasses — Industry Use Cases",
+   "url": "/platforms/driisti/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

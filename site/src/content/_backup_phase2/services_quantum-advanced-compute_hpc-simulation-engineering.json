@@ -4,12 +4,12 @@
  "url": "/services/quantum-advanced-compute/hpc-simulation-engineering/",
  "template": "service_page",
  "breadcrumb": "Services > Quantum & Advanced Compute > HPC & Simulation Engineering",
- "seo_title": "HPC & Simulation Engineering | Dataq Software",
- "meta_description": "HPC & Simulation Engineering from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "HPC & Simulation Engineering | Achala IT Solutions",
+ "meta_description": "HPC & Simulation Engineering from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What HPC & Simulation Engineering means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What HPC & Simulation Engineering means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -257,7 +257,7 @@
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
+     "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
     ]
    ]
   },
@@ -282,7 +282,7 @@
    "items": [
     [
      "Post-Quantum Cryptography Migration",
-     "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
+     "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
     ],
     [
      "Neuromorphic & Emerging Compute Advisory",

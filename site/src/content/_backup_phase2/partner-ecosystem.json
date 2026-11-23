@@ -4,16 +4,16 @@
  "url": "/partner-ecosystem/",
  "template": "company_page",
  "breadcrumb": "About Us > Partner Ecosystem",
- "seo_title": "Partner Ecosystem | Dataq Software",
+ "seo_title": "Partner Ecosystem | Achala IT Solutions",
  "meta_description": "Architecture-level partner ecosystem across hyperscalers, data, security, quantum and DLT.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Software maintains deliberate, architecture-level partnerships across hyperscalers, data platforms, security vendors, quantum hardware providers and DLT foundations."
+   "x": "Achala IT Solutions maintains deliberate, architecture-level partnerships across hyperscalers, data platforms, security vendors, quantum hardware providers and DLT foundations."
   },
   {
    "t": "p",
-   "x": "Dataq Software maintains deliberate, architecture-level partnerships across hyperscalers, data platforms, security vendors, quantum hardware providers and DLT foundations. Partnerships are chosen for architectural fit — reference architectures, joint practices and co-developed patterns — not resale margin."
+   "x": "Achala IT Solutions maintains deliberate, architecture-level partnerships across hyperscalers, data platforms, security vendors, quantum hardware providers and DLT foundations. Partnerships are chosen for architectural fit — reference architectures, joint practices and co-developed patterns — not resale margin."
   },
   {
    "t": "p",
@@ -76,7 +76,7 @@
   },
   {
    "t": "p",
-   "x": "Architecture first, resale never: partnerships exist to compress deployment paths, certify integrations and share support models. Where partners and Dataq platforms overlap, we say so explicitly in the architecture."
+   "x": "Architecture first, resale never: partnerships exist to compress deployment paths, certify integrations and share support models. Where partners and Achala platforms overlap, we say so explicitly in the architecture."
   }
  ],
  "words": 159,
@@ -97,13 +97,13 @@
  ],
  "related": [
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -122,7 +122,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -132,7 +132,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

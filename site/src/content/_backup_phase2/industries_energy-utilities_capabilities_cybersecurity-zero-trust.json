@@ -4,8 +4,8 @@
  "url": "/industries/energy-utilities/capabilities/cybersecurity-zero-trust/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Cybersecurity & Zero-Trust",
- "seo_title": "Cyber & Zero-Trust for Energy & Utilities | Dataq Software",
- "meta_description": "Cyber & Zero-Trust for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "Cyber & Zero-Trust for Energy & Utilities | Achala IT Solutions",
+ "meta_description": "Cyber & Zero-Trust for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "Threat Intelligence & Managed SOC",
@@ -86,7 +86,7 @@
     ],
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ]
    ]
   },
@@ -236,7 +236,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

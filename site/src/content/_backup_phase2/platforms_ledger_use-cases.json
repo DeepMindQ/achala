@@ -1,15 +1,15 @@
 {
  "id": "PLT-ledger-uc",
- "title": "Dataq Ledger — Industry Use Cases",
- "url": "/platforms/ledger/use-cases/",
+ "title": "Patient Priority Portal — Industry Use Cases",
+ "url": "/platforms/patient-portal/use-cases/",
  "template": "platform_usecases",
- "breadcrumb": "Platforms > Dataq Ledger > Industry Use Cases",
- "seo_title": "Dataq Ledger — Industry Use Cases | Dataq Software",
- "meta_description": "How Dataq Ledger is deployed across industries: banking, agriculture, logistics, energy and more.",
+ "breadcrumb": "Platforms > Patient Priority Portal > Industry Use Cases",
+ "seo_title": "Patient Priority Portal — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How Patient Priority Portal is deployed across industries: banking, agriculture, logistics, energy and more.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The contract behind Dataq Ledger — Industry Use Cases: signed baseline in week two, working slice by week eight, industrialized controls by week twelve, and evidence flowing to your control owner throughout."
+   "x": "The contract behind Patient Priority Portal — Industry Use Cases: signed baseline in week two, working slice by week eight, industrialized controls by week twelve, and evidence flowing to your control owner throughout."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Ledger across industries",
+   "caption": "Patient Priority Portal across industries",
    "headers": [
     "Industry",
     "Pattern",
@@ -63,7 +63,7 @@
   {
    "t": "diagram",
    "kind": "pipeline",
-   "title": "Dataq Ledger — reference flow in production",
+   "title": "Patient Priority Portal — reference flow in production",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,7 +80,7 @@
   },
   {
    "t": "p",
-   "x": "The build sequence is deliberate: contracts and identity first, the working decision slice second, the verification harness third — because a Dataq Ledger — Industry Use Cases capability without its eval gate is just another unattended automation."
+   "x": "The build sequence is deliberate: contracts and identity first, the working decision slice second, the verification harness third — because a Patient Priority Portal — Industry Use Cases capability without its eval gate is just another unattended automation."
   },
   {
    "t": "bullets",
@@ -117,7 +117,7 @@
   },
   {
    "t": "p",
-   "x": "The integration pattern for Dataq Ledger — Industry Use Cases is read-first and contract-first: integrate to the system of record without copying it, and let typed contracts govern what crosses the boundary."
+   "x": "The integration pattern for Patient Priority Portal — Industry Use Cases is read-first and contract-first: integrate to the system of record without copying it, and let typed contracts govern what crosses the boundary."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
   },
   {
    "t": "p",
-   "x": "We run Dataq Ledger — Industry Use Cases in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing."
+   "x": "We run Patient Priority Portal — Industry Use Cases in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing."
   },
   {
    "t": "cta",
@@ -202,7 +202,7 @@
  "words": 486,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Ledger",
+ "l2": "Patient Priority Portal",
  "l3": "Industry Use Cases",
  "l4": "",
  "crumbs": [
@@ -211,28 +211,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Ledger",
+   "name": "Patient Priority Portal",
    "url": null
   },
   {
    "name": "Industry Use Cases",
-   "url": "/platforms/ledger/use-cases/"
+   "url": "/platforms/patient-portal/use-cases/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Ledger — Overview",
-   "url": "/platforms/ledger/",
+   "title": "Patient Priority Portal — Overview",
+   "url": "/platforms/patient-portal/",
    "desc": "Distributed Trust & Tokenization Platform"
   },
   {
-   "title": "Dataq Ledger — Architecture & Trust",
-   "url": "/platforms/ledger/architecture/",
+   "title": "Patient Priority Portal — Architecture & Trust",
+   "url": "/platforms/patient-portal/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Ledger — Industry Use Cases",
-   "url": "/platforms/ledger/use-cases/",
+   "title": "Patient Priority Portal — Industry Use Cases",
+   "url": "/platforms/patient-portal/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

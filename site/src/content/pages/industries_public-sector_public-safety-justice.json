@@ -4,12 +4,12 @@
  "url": "/industries/public-sector/public-safety-justice/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice",
- "seo_title": "Public Safety & Justice | Dataq Software",
+ "seo_title": "Public Safety & Justice | Achala IT Solutions",
  "meta_description": "Police, fire, EMS and courts coordinate under minutes-matter constraints and the strictest accountability: evidence integrity, proportionality and priva.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Police, fire, EMS and courts coordinate under minutes-matter constraints and the strictest accountability: evidence integrity, proportionality and privacy. Dataq Software engineers the intelligence layer with auditability as a design primitive, not a feature. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Police, fire, EMS and courts coordinate under minutes-matter constraints and the strictest accountability: evidence integrity, proportionality and privacy. Achala IT Solutions engineers the intelligence layer with auditability as a design primitive, not a feature. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",

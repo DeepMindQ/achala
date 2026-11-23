@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Telecom, Media & Entertainment",
- "meta_description": "IoT, Twin & Robotics for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "IoT, Twin & Robotics for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What IoT, Twin & Robotics for Telecom, Media & Entertainment means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per cell site outcomes measured against your audited baseline."
+   "x": "What IoT, Twin & Robotics for Telecom, Media & Entertainment means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per cell site outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "What Industrial IoT & Sensor Fabric means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
+     "What Industrial IoT & Sensor Fabric means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
     ],
     [
      "Digital Twin Platform Engineering",
@@ -86,7 +86,7 @@
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "What Predictive Maintenance & Asset Intelligence means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated."
+     "What Predictive Maintenance & Asset Intelligence means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated."
     ]
    ]
   },

@@ -4,7 +4,7 @@
  "url": "/solutions/knowledge-collaboration-fabric/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Workforce & Experience > Knowledge & Collaboration Fabric",
- "seo_title": "Knowledge & Collaboration Fabric | Solution | Dataq Software",
+ "seo_title": "Knowledge & Collaboration Fabric | Solution | Achala IT Solutions",
  "meta_description": "Knowledge & Collaboration Fabric — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Knowledge & Collaboration Fabric composes Dataq Forge, Dataq Nexus — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Banking & Financial Services, Public Sector & Government, Education & Research."
+   "x": "Knowledge & Collaboration Fabric composes Fleet Management System, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Banking & Financial Services, Public Sector & Government, Education & Research."
   },
   {
    "t": "h2",

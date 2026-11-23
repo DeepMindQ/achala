@@ -1,15 +1,15 @@
 {
  "id": "PLT-twinverse-ov",
- "title": "Dataq Twinverse — Overview",
- "url": "/platforms/twinverse/",
+ "title": "BI & Analytics Platform — Overview",
+ "url": "/platforms/bi-analytics/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Twinverse > Overview",
- "seo_title": "Dataq Twinverse — Overview | Dataq Software",
+ "breadcrumb": "Platforms > BI & Analytics Platform > Overview",
+ "seo_title": "BI & Analytics Platform — Overview | Achala IT Solutions",
  "meta_description": "Sense, simulate, act — the operations stack for physical assets.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Twinverse — Overview delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
+   "x": "BI & Analytics Platform — Overview delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Twinverse bridges sensor network to decisions: governed telemetry (OPC UA/Sparkplug) from retrofit-friendly devices, physics+data digital twins with validated models, edge inference fleets with OTA, predictive maintenance wired into CMMS work orders, and the scenario engines planners actually use."
+   "x": "BI & Analytics Platform bridges sensor network to decisions: governed telemetry (OPC UA/Sparkplug) from retrofit-friendly devices, physics+data digital twins with validated models, edge inference fleets with OTA, predictive maintenance wired into CMMS work orders, and the scenario engines planners actually use."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Twinverse — control and evidence planes",
+   "title": "BI & Analytics Platform — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "The reference pattern behind Dataq Twinverse — Overview is boring on purpose: contracts at every boundary, an owner per component, and evidence captured where the work happens. Boring architecture is what survives contact with an audit."
+   "x": "The reference pattern behind BI & Analytics Platform — Overview is boring on purpose: contracts at every boundary, an owner per component, and evidence captured where the work happens. Boring architecture is what survives contact with an audit."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Programs use Dataq Twinverse — Overview where a decision needs to be current and defensible at once — scored in-flight, logged end to end, and reviewed at the same gates as every other program."
+   "x": "Programs use BI & Analytics Platform — Overview where a decision needs to be current and defensible at once — scored in-flight, logged end to end, and reviewed at the same gates as every other program."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 573,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Twinverse",
+ "l2": "BI & Analytics Platform",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Twinverse",
+   "name": "BI & Analytics Platform",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/twinverse/"
+   "url": "/platforms/bi-analytics/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Twinverse — Overview",
-   "url": "/platforms/twinverse/",
+   "title": "BI & Analytics Platform — Overview",
+   "url": "/platforms/bi-analytics/",
    "desc": "Digital Twin & IoT Intelligence Platform"
   },
   {
-   "title": "Dataq Twinverse — Architecture & Trust",
-   "url": "/platforms/twinverse/architecture/",
+   "title": "BI & Analytics Platform — Architecture & Trust",
+   "url": "/platforms/bi-analytics/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Twinverse — Industry Use Cases",
-   "url": "/platforms/twinverse/use-cases/",
+   "title": "BI & Analytics Platform — Industry Use Cases",
+   "url": "/platforms/bi-analytics/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

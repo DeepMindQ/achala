@@ -22,14 +22,14 @@ ex["stats"] = [
 
 # ── domains (A-21 buyer-intent order; A-19 flagship metric; A-39 pairing) ──
 DOMAIN_ORDER = [
-    ("Data, Analytics & Lakehouse", {"metric": "99.4% freshness SLA · 0 metric disputes", "plat": "Dataq Forge", "start": True}),
-    ("Agentic AI & Hyperautomation", {"metric": "78% portfolio containment · 216 automations governed", "plat": "Dataq Swarm", "start": True}),
-    ("Applied AI & Generative AI", {"metric": "87% eval coverage · 68% PoC kill rate enforced", "plat": "Dataq Nexus"}),
-    ("Cybersecurity & Zero-Trust", {"metric": "97.4% evidence freshness · drill RTO 9.5 h vs 12 h target", "plat": "Dataq Sentinel"}),
-    ("Cloud, Edge & Platform Engineering", {"metric": "23.4% waste eliminated · 38% legacy surface retired", "plat": "Dataq Forge"}),
-    ("IoT, Digital Twin & Robotics", {"metric": "1,842 assets instrumented · −58% unplanned downtime", "plat": "Dataq Twinverse"}),
-    ("Blockchain & Digital Trust", {"metric": "0 reconciliation deltas · 412k credentials issued", "plat": "Dataq Ledger"}),
-    ("Quantum & Advanced Compute", {"metric": "82% parallel efficiency · 100% benchmark honesty", "plat": "Dataq Quanta"}),
+    ("Data, Analytics & Lakehouse", {"metric": "99.4% freshness SLA · 0 metric disputes", "plat": "Achala Forge", "start": True}),
+    ("Agentic AI & Hyperautomation", {"metric": "78% portfolio containment · 216 automations governed", "plat": "Achala Swarm", "start": True}),
+    ("Applied AI & Generative AI", {"metric": "87% eval coverage · 68% PoC kill rate enforced", "plat": "Achala Nexus"}),
+    ("Cybersecurity & Zero-Trust", {"metric": "97.4% evidence freshness · drill RTO 9.5 h vs 12 h target", "plat": "Achala Sentinel"}),
+    ("Cloud, Edge & Platform Engineering", {"metric": "23.4% waste eliminated · 38% legacy surface retired", "plat": "Achala Forge"}),
+    ("IoT, Digital Twin & Robotics", {"metric": "1,842 assets instrumented · −58% unplanned downtime", "plat": "Achala Twinverse"}),
+    ("Blockchain & Digital Trust", {"metric": "0 reconciliation deltas · 412k credentials issued", "plat": "Achala Ledger"}),
+    ("Quantum & Advanced Compute", {"metric": "82% parallel efficiency · 100% benchmark honesty", "plat": "Achala Quanta"}),
 ]
 by_name = {dm["name"]: dm for dm in ex["domains"]}
 new_domains = []
@@ -67,7 +67,7 @@ if len(ex["insights"]) < 6:
             break
 
 # ── SEO (A-49/50) ──
-d["seo_title"] = "Dataq Software — decision intelligence with evidence | AI, data, security, cloud"
+d["seo_title"] = "Achala IT Solutions — decision intelligence with evidence | AI, data, security, cloud"
 d["meta_description"] = (
     "Eight expertise domains, 54 practices. Every engagement gated on a signed metric, "
     "every decision carrying evidence. SOC 2 · ISO 27001."

@@ -4,7 +4,7 @@
  "url": "/solutions/cyber-resilience-program/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Cyber Resilience & Threat Command",
- "seo_title": "Cyber Resilience & Threat Command | Solution | Dataq Software",
+ "seo_title": "Cyber Resilience & Threat Command | Solution | Achala IT Solutions",
  "meta_description": "Cyber Resilience & Threat Command — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Sentinel",
+     "label": "Tele Medicine Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Compass",
+     "label": "Driisti Smart Vision Glasses",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Cyber Resilience & Threat Command composes Dataq Sentinel, Dataq Compass — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government."
+   "x": "Cyber Resilience & Threat Command composes Tele Medicine Platform, Driisti Smart Vision Glasses — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government."
   },
   {
    "t": "h2",

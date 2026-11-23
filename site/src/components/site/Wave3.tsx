@@ -390,7 +390,7 @@ export function PlatformTabs({
 }) {
   const [i, setI] = useState(0);
   const p = platforms[i];
-  const key = p?.name.replace("Dataq ", "") ?? "";
+  const key = p?.name.replace("Achala ", "") ?? "";
   const extra = PLATFORM_EXTRAS[key];
   if (!p) return null;
   return (
@@ -407,7 +407,7 @@ export function PlatformTabs({
               k === i ? "bg-navy-800 text-white" : "text-navy-800/70 hover:bg-white hover:text-brand-deep"
             }`}
           >
-            {pl.name.replace("Dataq ", "")}
+            {pl.name.replace("Achala ", "")}
           </button>
         ))}
       </div>

@@ -545,7 +545,7 @@ def gen():
             note_="Reference portfolio model: depth indices and engagement mix from delivery, not client telemetry.",
         ),
         h2("Where sector depth sits — and how to read it"),
-        p("Depth is claimed per sector × practice combination and earned through delivery: the explorer on every practice page marks flagship combinations with an orange dot and links the full sector brief — workflows, controls and reference cases for that exact pairing. Twelve industries × 54 practices = 648 mapped combinations; the sector-brief pages carry the regulatory posture, the workflow-level scope and the delivery record behind each flagship dot."),
+        p("Depth is claimed per sector × practice combination and earned through delivery: the explorer on every practice page marks flagship combinations with an red dot and links the full sector brief — workflows, controls and reference cases for that exact pairing. Twelve industries × 54 practices = 648 mapped combinations; the sector-brief pages carry the regulatory posture, the workflow-level scope and the delivery record behind each flagship dot."),
         bullets([
             ["A console on every page", "Interactive delivery consoles with gate thresholds — the numbers are the status meeting"],
             ["A failure taxonomy per practice", "What breaks, what it costs, what ships with the build — stated on the page"],

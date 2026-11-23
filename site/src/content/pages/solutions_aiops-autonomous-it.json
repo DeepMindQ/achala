@@ -4,7 +4,7 @@
  "url": "/solutions/aiops-autonomous-it/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > AIOps & Autonomous IT Operations",
- "seo_title": "AIOps & Autonomous IT Operations | Solution | Dataq Software",
+ "seo_title": "AIOps & Autonomous IT Operations | Solution | Achala IT Solutions",
  "meta_description": "AIOps & Autonomous IT Operations — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Swarm",
+     "label": "KYC Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "AIOps & Autonomous IT Operations composes Dataq Swarm, Dataq Forge — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Telecom, Media & Entertainment, Banking & Financial Services, Retail & Consumer Goods."
+   "x": "AIOps & Autonomous IT Operations composes KYC Management System, Fleet Management System — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Telecom, Media & Entertainment, Banking & Financial Services, Retail & Consumer Goods."
   },
   {
    "t": "h2",

@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/microsoft-azure/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Microsoft Azure",
- "seo_title": "Microsoft Azure Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Microsoft Azure: Enterprise AI, data and hybrid estates on Microsoft Azure.",
+ "seo_title": "Microsoft Azure Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Microsoft Azure: Enterprise AI, data and hybrid estates on Microsoft Azure.",
  "words": 181,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Microsoft Azure: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Microsoft Azure: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",

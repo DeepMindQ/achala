@@ -64,7 +64,7 @@ content_types = rd("src/lib/content.ts")
 
 # ── A: Brand Identity & Logo (CHG-001..042) ─────────────────────────────
 add("CHG-001", "Delete invented hexagon logo", "hexagon" not in logo.lower() and "22D3EE" not in logo.upper())
-add("CHG-002", "Authentic lockup SVG in Logo.tsx", "#FE5722" in logo and "#18142D" in logo and "fillRule" in logo)
+add("CHG-002", "Authentic lockup SVG in Logo.tsx", "#d20000" in logo and "#2b5672" in logo and "fillRule" in logo)
 logo_usage = grep_src(r"from \"\./Logo\"|from \"@/components/site/Logo\"")
 add("CHG-003", "Logo installed Header+Footer", len(logo_usage) >= 2, f"{len(logo_usage)} importers")
 assets = ["logo.svg","logo-white.svg","logo-mono.svg","logo-512.png","logo-white-512.png"]
@@ -73,7 +73,7 @@ add("CHG-005", "icon.svg orange-block d glyph", exists("src/app/icon.svg") and (
 add("CHG-006", "metadata icons + theme-color", "apple-touch-icon" in layout and "themeColor" in layout and "18142D" in layout)
 cyan = grep_src(r"#22[Dd]3[Ee][Ee]|#1[Bb]6[Bb]7[Aa]|#0[Ee]7490|brand-cyan|brand-teal")
 add("CHG-007", "Cyan/teal tokens removed", len([h for h in cyan if h[0] not in ("src/app/globals.css", "src/content/brand.json")]) == 0, f"residual: {cyan[:5]}")
-add("CHG-008", "Orange token ramp", "--color-brand:" in g_css and "#fe5722" in g_css and "brand-hover" in g_css and "brand-deep" in g_css and "brand-tint" in g_css)
+add("CHG-008", "Orange token ramp", "--color-brand:" in g_css and "#d20000" in g_css and "brand-hover" in g_css and "brand-deep" in g_css and "brand-tint" in g_css)
 add("CHG-009", "Navy token ramp", all(f"--color-navy-{s}" in g_css for s in ["950","900","800","700","600","500"]))
 gray_ink = grep_src(r"#0a1424|#0e1b30|#14263f")
 add("CHG-010", "Dark surfaces = navy ramp", len(gray_ink) == 0, f"gray-ink residual: {gray_ink[:3]}")
@@ -82,8 +82,8 @@ add("CHG-011", "Zero cyan class refs in tsx", len(cyan_cls) == 0)
 btn_orange = re.findall(r"bg-brand[\s\"']", uibits) + re.findall(r"bg-brand[\s\"']", header) + re.findall(r"bg-brand[\s\"']", home) + re.findall(r"bg-brand[\s\"']", contact)
 add("CHG-012", "Primary CTAs solid orange", len(btn_orange) >= 3, f"{len(btn_orange)} bg-brand usages")
 add("CHG-013", "Link accent rules", "link-animated" in g_css and "hover:text-brand-deep" in uibits + footer + home + PagePieces)
-add("CHG-014", "Selection + focus orange", "rgba(254, 87, 34, 0.28)" in g_css and ":focus-visible" in g_css and "outline: 2px solid var(--color-brand)" in g_css)
-add("CHG-015", "dot-grid recolored", "rgba(254, 87, 34, 0.16)" in g_css and "dot-grid-light" in g_css)
+add("CHG-014", "Selection + focus orange", "rgba(210, 0, 0, 0.28)" in g_css and ":focus-visible" in g_css and "outline: 2px solid var(--color-brand)" in g_css)
+add("CHG-015", "dot-grid recolored", "rgba(210, 0, 0, 0.16)" in g_css and "dot-grid-light" in g_css)
 add("CHG-016", "Hero gradient navy+orange", "grad-navy-field" in g_css and "grad-orange-glow" in g_css and "grad-navy-field" in rd("src/components/site/PagePieces.tsx"))
 add("CHG-017", "PWA manifest", exists("public/manifest.json") and "manifest" in layout and "icons" in manifest)
 add("CHG-018", "Branded OG image", exists("public/og-default.png") and "og-default.png" in layout and os.path.getsize(os.path.join(SITE,"public/og-default.png")) > 50000)
@@ -92,13 +92,13 @@ add("CHG-020", "Branded email assets", exists("docs/email-header.html"))
 add("CHG-021", "Social banner set", exists("public/social-linkedin.png") and exists("public/social-x.png"))
 printcss = "@media print" in g_css or any("@media print" in rd(os.path.join(dp, f)) for dp, dn, fn in os.walk(os.path.join(SITE, "src")) for f in fn if f.endswith(".css"))
 add("CHG-022", "Print-safe styles", printcss or "print" in brandmd.lower())
-add("CHG-023", "brand.json tokens encoded", "#FE5722" in brand and "#18142D" in brand and "usageRules" in brand)
+add("CHG-023", "brand.json tokens encoded", "#d20000" in brand and "#2b5672" in brand and "usageRules" in brand)
 add("CHG-024", "Logo sizing + clearspace rules", "Math.round(height" in logo and "clearspace" in logo.lower())
 add("CHG-025", "Logo dark-surface variants", 'variant === "reversed"' in logo and "logo-white.svg" in brand)
-# brand string per naming_ci BG-008: the only allowed brand string is "Dataq Software"
-add("CHG-026", "Logo a11y", 'role="img"' in logo and 'aria-label="Dataq Software"' in logo)
+# brand string per naming_ci BG-008: the only allowed brand string is "Achala IT Solutions"
+add("CHG-026", "Logo a11y", 'role="img"' in logo and 'aria-label="Achala IT Solutions"' in logo)
 add("CHG-027", "Toaster brand colors", exists("src/components/ui/toaster.tsx"))
-chart_ok = "--chart-1: #fe5722" in g_css
+chart_ok = "--chart-1: #d20000" in g_css
 add("CHG-028", "Chart palette branded", chart_ok)
 add("CHG-029", "CookieConsent branded", "brand" in cookie and ("bg-brand" in cookie or "text-brand" in cookie or "brand-" in cookie))
 add("CHG-030", "Branded 404", "grad-navy-field" in nf or "brand" in nf or "navy" in nf)
@@ -109,7 +109,7 @@ for root, dirs, files in os.walk(os.path.join(SITE, "src/content")):
             with open(os.path.join(root, fn), encoding="utf-8") as f:
                 t = f.read()
             for hx in re.findall(r"#[0-9a-fA-F]{6}", t):
-                if hx.upper() not in {"#FE5722","#18142D"} and hx.lower() not in {"#fe5722","#18142d"}:
+                if hx.upper() not in {"#d20000","#2b5672"} and hx.lower() not in {"#d20000","#2b5672"}:
                     hex_in_content.append((fn, hx))
 add("CHG-031", "Content layer hex audit", len(hex_in_content) == 0, f"non-brand hex: {hex_in_content[:5]}")
 add("CHG-032", "Skeleton brand ramp", "Skeleton" in uibits and ("animate-pulse" in uibits or "pulse" in uibits))
@@ -132,7 +132,7 @@ add("CHG-046", "Body font polish", 'font-feature-settings: "cv11", "ss01"' in g_
 add("CHG-047", "Container system", ".container-dq" in g_css)
 add("CHG-048", "12-column grid utility", ".grid-12" in g_css)
 add("CHG-049", "Section rhythm tokens", ".section-y" in g_css and "clamp(" in g_css.split(".section-y")[1][:200])
-add("CHG-050", "Elevation tokens navy-tinted", ".shadow-3" in g_css and "rgba(24, 20, 45" in g_css)
+add("CHG-050", "Elevation tokens navy-tinted", ".shadow-3" in g_css and "rgba(43, 86, 114" in g_css)
 add("CHG-051", "Radius consistency", "--radius: 0.625rem" in g_css)
 add("CHG-052", "Button system rebuild", "rounded-[10px] bg-brand" in (uibits+PagePieces+header))
 add("CHG-053", "Sheen hover effect", ".btn-sheen" in g_css and sum(rd(os.path.join(r, fn)).count("btn-sheen") for r, _, fns in os.walk(os.path.join(SITE, "src")) for fn in fns if fn.endswith((".tsx", ".ts"))) >= 10)

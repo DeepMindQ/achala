@@ -4,8 +4,8 @@
  "url": "/industries/public-sector/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Public Sector & Government",
- "seo_title": "Public Sector & Government | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Public Sector & Government: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Public Sector & Government | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Public Sector & Government: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The accountability bar is total: procurement law, records management, accessibility mandates, privacy regimes, security accreditation and now AI transparency obligations all bind simultaneously. This is why Dataq Software leads with evidence-grade engineering: every deliverable arrives with its documentation, its control mapping and its audit trail already in order."
+   "x": "The accountability bar is total: procurement law, records management, accessibility mandates, privacy regimes, security accreditation and now AI transparency obligations all bind simultaneously. This is why Achala IT Solutions leads with evidence-grade engineering: every deliverable arrives with its documentation, its control mapping and its audit trail already in order."
   },
   {
    "t": "h2",

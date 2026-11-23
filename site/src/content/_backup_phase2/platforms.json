@@ -4,12 +4,12 @@
  "url": "/platforms/",
  "template": "platforms_hub",
  "breadcrumb": "Platforms",
- "seo_title": "Platforms Overview | Dataq Software",
+ "seo_title": "Platforms Overview | Achala IT Solutions",
  "meta_description": "Eight proprietary platforms encode our delivery patterns as configurable products — governance, security controls and evidence generation arrive pre-built.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Platforms Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Platforms Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -57,35 +57,35 @@
    "t": "bullets",
    "items": [
     [
-     "Dataq Nexus — Decision Intelligence Hub",
+     "EEMS Platform — Decision Intelligence Hub",
      "Enterprise decisions in milliseconds: with a full evidence trail for each decision."
     ],
     [
-     "Dataq Forge — Data & Lakehouse Engineering Platform",
+     "Fleet Management System — Data & Lakehouse Engineering Platform",
      "The governed data estate every AI program needs."
     ],
     [
-     "Dataq Swarm — Agentic AI Orchestration Platform",
+     "KYC Management System — Agentic AI Orchestration Platform",
      "Many agents operating as one governed, measurable workforce."
     ],
     [
-     "Dataq Sentinel — Zero-Trust & AI Security Platform",
-     "Dataq Sentinel — Zero-Trust & AI Security Platform is reported against the signed baseline with the evidence attached; if the number stops moving, the program says so."
+     "Tele Medicine Platform — Zero-Trust & AI Security Platform",
+     "Tele Medicine Platform — Zero-Trust & AI Security Platform is reported against the signed baseline with the evidence attached; if the number stops moving, the program says so."
     ],
     [
-     "Dataq Twinverse — Digital Twin & IoT Intelligence Platform",
-     "Dataq Twinverse — Digital Twin & IoT Intelligence Platform is part of the steering pack from week two: current value, signed baseline and the delta since the last gate, on one line."
+     "BI & Analytics Platform — Digital Twin & IoT Intelligence Platform",
+     "BI & Analytics Platform — Digital Twin & IoT Intelligence Platform is part of the steering pack from week two: current value, signed baseline and the delta since the last gate, on one line."
     ],
     [
-     "Dataq Quanta — Quantum & Advanced Compute Suite",
+     "Token Management System — Quantum & Advanced Compute Suite",
      "Optimization with baselines, benchmarks and a documented verdict."
     ],
     [
-     "Dataq Ledger — Distributed Trust & Tokenization Platform",
+     "Patient Priority Portal — Distributed Trust & Tokenization Platform",
      "A shared, verifiable record with controls regulators accept — permissioned networks that stand up to supervision."
     ],
     [
-     "Dataq Compass — Responsible AI & Governance Platform",
+     "Driisti Smart Vision Glasses — Responsible AI & Governance Platform",
      "Model governance your risk committee and regulator can review."
     ]
    ]
@@ -104,42 +104,42 @@
    ],
    "rows": [
     [
-     "Dataq Nexus",
+     "EEMS Platform",
      "Decision Intelligence Hub",
      "banking, insurance, healthcare, retail"
     ],
     [
-     "Dataq Forge",
+     "Fleet Management System",
      "Data & Lakehouse Engineering Platform",
      "banking, insurance, retail, healthcare"
     ],
     [
-     "Dataq Swarm",
+     "KYC Management System",
      "Agentic AI Orchestration Platform",
      "banking, insurance, telecom, logistics"
     ],
     [
-     "Dataq Sentinel",
+     "Tele Medicine Platform",
      "Zero-Trust & AI Security Platform",
      "banking, healthcare, energy, public-sector"
     ],
     [
-     "Dataq Twinverse",
+     "BI & Analytics Platform",
      "Digital Twin & IoT Intelligence Platform",
      "manufacturing, energy, logistics, retail"
     ],
     [
-     "Dataq Quanta",
+     "Token Management System",
      "Quantum & Advanced Compute Suite",
      "banking, energy, logistics, manufacturing"
     ],
     [
-     "Dataq Ledger",
+     "Patient Priority Portal",
      "Distributed Trust & Tokenization Platform",
      "banking, agriculture, logistics, energy"
     ],
     [
-     "Dataq Compass",
+     "Driisti Smart Vision Glasses",
      "Responsible AI & Governance Platform",
      "banking, healthcare, insurance, public-sector"
     ]
@@ -165,50 +165,50 @@
  "related": [],
  "cards": [
   {
-   "title": "Dataq Nexus — Decision Intelligence Hub",
-   "url": "/platforms/nexus/",
+   "title": "EEMS Platform — Decision Intelligence Hub",
+   "url": "/platforms/eems/",
    "tag": "Platform",
    "desc": "Decision Intelligence Hub"
   },
   {
-   "title": "Dataq Forge — Data & Lakehouse Engineering Platform",
-   "url": "/platforms/forge/",
+   "title": "Fleet Management System — Data & Lakehouse Engineering Platform",
+   "url": "/platforms/fms/",
    "tag": "Platform",
    "desc": "Data & Lakehouse Engineering Platform"
   },
   {
-   "title": "Dataq Swarm — Agentic AI Orchestration Platform",
-   "url": "/platforms/swarm/",
+   "title": "KYC Management System — Agentic AI Orchestration Platform",
+   "url": "/platforms/kyc/",
    "tag": "Platform",
    "desc": "Agentic AI Orchestration Platform"
   },
   {
-   "title": "Dataq Sentinel — Zero-Trust & AI Security Platform",
-   "url": "/platforms/sentinel/",
+   "title": "Tele Medicine Platform — Zero-Trust & AI Security Platform",
+   "url": "/platforms/telemedicine/",
    "tag": "Platform",
    "desc": "Zero-Trust & AI Security Platform"
   },
   {
-   "title": "Dataq Twinverse — Digital Twin & IoT Intelligence Platform",
-   "url": "/platforms/twinverse/",
+   "title": "BI & Analytics Platform — Digital Twin & IoT Intelligence Platform",
+   "url": "/platforms/bi-analytics/",
    "tag": "Platform",
    "desc": "Digital Twin & IoT Intelligence Platform"
   },
   {
-   "title": "Dataq Quanta — Quantum & Advanced Compute Suite",
-   "url": "/platforms/quanta/",
+   "title": "Token Management System — Quantum & Advanced Compute Suite",
+   "url": "/platforms/token-management/",
    "tag": "Platform",
    "desc": "Quantum & Advanced Compute Suite"
   },
   {
-   "title": "Dataq Ledger — Distributed Trust & Tokenization Platform",
-   "url": "/platforms/ledger/",
+   "title": "Patient Priority Portal — Distributed Trust & Tokenization Platform",
+   "url": "/platforms/patient-portal/",
    "tag": "Platform",
    "desc": "Distributed Trust & Tokenization Platform"
   },
   {
-   "title": "Dataq Compass — Responsible AI & Governance Platform",
-   "url": "/platforms/compass/",
+   "title": "Driisti Smart Vision Glasses — Responsible AI & Governance Platform",
+   "url": "/platforms/driisti/",
    "tag": "Platform",
    "desc": "Responsible AI & Governance Platform"
   }

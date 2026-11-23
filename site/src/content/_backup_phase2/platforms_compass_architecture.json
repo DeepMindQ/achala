@@ -1,15 +1,15 @@
 {
  "id": "PLT-compass-ar",
- "title": "Dataq Compass — Architecture & Trust",
- "url": "/platforms/compass/architecture/",
+ "title": "Driisti Smart Vision Glasses — Architecture & Trust",
+ "url": "/platforms/driisti/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Compass > Architecture & Trust",
- "seo_title": "Dataq Compass — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Compass — Responsible AI & Governance Platform from Dataq Software.",
+ "breadcrumb": "Platforms > Driisti Smart Vision Glasses > Architecture & Trust",
+ "seo_title": "Driisti Smart Vision Glasses — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Driisti Smart Vision Glasses — Responsible AI & Governance Platform from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Dataq Compass — Architecture & Trust: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Driisti Smart Vision Glasses — Architecture & Trust: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Compass — plane and service layers",
+   "title": "Driisti Smart Vision Glasses — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Compass — deployment topology and flow",
+   "title": "Driisti Smart Vision Glasses — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -192,7 +192,7 @@
  "words": 481,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Compass",
+ "l2": "Driisti Smart Vision Glasses",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Compass",
+   "name": "Driisti Smart Vision Glasses",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/compass/architecture/"
+   "url": "/platforms/driisti/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Compass — Overview",
-   "url": "/platforms/compass/",
+   "title": "Driisti Smart Vision Glasses — Overview",
+   "url": "/platforms/driisti/",
    "desc": "Responsible AI & Governance Platform"
   },
   {
-   "title": "Dataq Compass — Architecture & Trust",
-   "url": "/platforms/compass/architecture/",
+   "title": "Driisti Smart Vision Glasses — Architecture & Trust",
+   "url": "/platforms/driisti/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Compass — Industry Use Cases",
-   "url": "/platforms/compass/use-cases/",
+   "title": "Driisti Smart Vision Glasses — Industry Use Cases",
+   "url": "/platforms/driisti/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

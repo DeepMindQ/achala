@@ -20,13 +20,13 @@ const nextConfig: NextConfig = isExport
       trailingSlash: true,
       images: { unoptimized: true },
       distDir: ".next-export",
-      // GitHub Pages project-site preview: GHPAGES=1 builds with /DataQ base path.
+      // GitHub Pages project-site preview: GHPAGES=1 builds with /achala base path.
       // NEXT_PUBLIC_BASE_PATH lets server components prefix raw <img src> paths,
       // because next/image does NOT prefix under unoptimized+basePath.
-      ...(process.env.GHPAGES === "1" ? { basePath: "/DataQ" } : {}),
+      ...(process.env.GHPAGES === "1" ? { basePath: "/achala" } : {}),
       env: {
-        NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL || "https://www.dataqsoft.com",
-        NEXT_PUBLIC_BASE_PATH: process.env.GHPAGES === "1" ? "/DataQ" : "",
+        NEXT_PUBLIC_SITE_URL: process.env.NEXT_PUBLIC_SITE_URL || "https://www.achalasolutions.com",
+        NEXT_PUBLIC_BASE_PATH: process.env.GHPAGES === "1" ? "/achala" : "",
       },
     }
   : {

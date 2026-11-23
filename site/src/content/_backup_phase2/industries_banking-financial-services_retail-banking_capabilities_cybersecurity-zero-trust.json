@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Retail & Consumer Banking > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Retail & Consumer Banking",
- "meta_description": "Cyber & Zero-Trust for Retail & Consumer Banking: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Cyber & Zero-Trust for Retail & Consumer Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Cyber & Zero-Trust for Retail & Consumer Banking means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 transactions outcomes measured against your audited baseline."
+   "x": "What Cyber & Zero-Trust for Retail & Consumer Banking means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 transactions outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -78,7 +78,7 @@
     ],
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "AI Security & Model Protection",

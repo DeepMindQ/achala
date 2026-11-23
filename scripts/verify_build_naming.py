@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Verify the BUILT site (out/) uses 'Dataq Software' everywhere, has zero
-'DataQ Soft'/bare-'DataQ' text and zero confidentiality tokens."""
+"""Verify the BUILT site (out/) uses 'Achala IT Solutions' everywhere, has zero
+'Achala IT Solutions'/bare-'Achala' text and zero confidentiality tokens."""
 import os, re, json, html
 
 OUT = "/home/z/my-project/site/out"
-abbr = re.compile(r"DataQ\s?Soft(?!ware)|DataQSoft(?![A-Za-z0-9])")
-bare = re.compile(r"DataQ(?![A-Za-z0-9])")
+abbr = re.compile(r"Achala\s?Soft(?!ware)|Achala IT Solutions(?![A-Za-z0-9])")
+bare = re.compile(r"Achala(?![A-Za-z0-9])")
 confid = re.compile(r"Strategemist|Pisupati|Shanker", re.I)
 full = re.compile(r"Data[qQ] Software")
-# bare DataQ inside visible text (strip tags first) vs attribute URLs (dataqsoft.com ok)
+# bare Achala inside visible text (strip tags first) vs attribute URLs (achalasolutions.com ok)
 tag = re.compile(r"<[^>]+>")
 
 hits = {"abbr": [], "bare_visible": [], "confid": []}
@@ -35,7 +35,7 @@ print(json.dumps({
     "files_scanned": n_files,
     "full_name_count": n_full,
     "abbr_hits": len(hits["abbr"]),
-    "bare_DataQ_in_visible_text": len(hits["bare_visible"]),
+    "bare_Achala_in_visible_text": len(hits["bare_visible"]),
     "confidentiality_hits": len(hits["confid"]),
 }, indent=2))
 for path, ctx in (hits["abbr"] + hits["bare_visible"])[:10]:

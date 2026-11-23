@@ -4,12 +4,12 @@
  "url": "/industries/telecom-media/streaming-digital/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Streaming & Digital Platforms",
- "seo_title": "Streaming & Digital Platforms | Dataq Software",
+ "seo_title": "Streaming & Digital Platforms | Achala IT Solutions",
  "meta_description": "Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn).",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Streaming & Digital Platforms means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per cell site outcomes measured against your audited baseline."
+   "x": "What Streaming & Digital Platforms means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per cell site outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

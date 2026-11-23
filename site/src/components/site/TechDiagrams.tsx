@@ -39,8 +39,8 @@ const CL = {
   fill: "rgba(255,255,255,0.065)",
   fill2: "rgba(255,255,255,0.11)",
   stroke: "rgba(255,255,255,0.24)",
-  orange: "#FE5722",
-  orangeSoft: "rgba(254,87,34,0.55)",
+  orange: "#d20000",
+  orangeSoft: "rgba(210, 0, 0,0.55)",
   txt: "rgba(255,255,255,0.94)",
   dim: "rgba(255,255,255,0.62)",
   faint: "rgba(255,255,255,0.4)",
@@ -123,8 +123,8 @@ function Node({
       width={w}
       height={h}
       rx={r}
-      fill={hot ? "rgba(254,87,34,0.16)" : CL.fill}
-      stroke={hot ? "rgba(254,87,34,0.65)" : CL.stroke}
+      fill={hot ? "rgba(210, 0, 0,0.16)" : CL.fill}
+      stroke={hot ? "rgba(210, 0, 0,0.65)" : CL.stroke}
       strokeWidth={1.2}
     />
   );
@@ -296,8 +296,8 @@ function OrchestrationLoop({ labels }: { labels: string[] }) {
       <Flow d={`M ${cx - 34} ${cy + R - 12} A ${R} ${R} 0 0 1 ${cx - R + 12} ${cy + 34}`} dur={1.8} delay={1.0} />
       <Flow d={`M ${cx - R + 12} ${cy - 34} A ${R} ${R} 0 0 1 ${cx - 34} ${cy - R + 12}`} dur={1.8} delay={1.5} />
       {/* core */}
-      <circle cx={cx} cy={cy} r={58} fill="rgba(254,87,34,0.13)" stroke="rgba(254,87,34,0.7)" strokeWidth={1.4} />
-      <circle cx={cx} cy={cy} r={44} fill="rgba(24,20,45,0.9)" stroke={CL.orange} strokeWidth={1.2} />
+      <circle cx={cx} cy={cy} r={58} fill="rgba(210, 0, 0,0.13)" stroke="rgba(210, 0, 0,0.7)" strokeWidth={1.4} />
+      <circle cx={cx} cy={cy} r={44} fill="rgba(43, 86, 114,0.9)" stroke={CL.orange} strokeWidth={1.2} />
       <Label x={cx} y={cy - 2}>Orchestration</Label>
       <Label x={cx} y={cy + 15} dim size={10}>core</Label>
       {L.map((s, i) => (
@@ -351,7 +351,7 @@ function ZeroTrustMesh({ labels }: { labels: string[] }) {
             height={14}
             rx={3}
             transform={`rotate(45 ${g.x + (cx - g.x) * 0.62} ${g.y + (cy - g.y) * 0.62})`}
-            fill="rgba(254,87,34,0.2)"
+            fill="rgba(210, 0, 0,0.2)"
             stroke={CL.orange}
             strokeWidth={1.2}
             style={{ animationDelay: `${i * 0.5}s` }}
@@ -363,7 +363,7 @@ function ZeroTrustMesh({ labels }: { labels: string[] }) {
         </g>
       ))}
       {/* core */}
-      <circle cx={cx} cy={cy} r={52} fill="rgba(24,20,45,0.92)" stroke={CL.orange} strokeWidth={1.6} />
+      <circle cx={cx} cy={cy} r={52} fill="rgba(43, 86, 114,0.92)" stroke={CL.orange} strokeWidth={1.6} />
       <circle className="td-halo" cx={cx} cy={cy} r={52} fill="none" stroke={CL.orangeSoft} />
       <Label x={cx} y={cy - 4}>Policy engine</Label>
       <Label x={cx} y={cy + 14} dim size={10}>deny · verify · sign</Label>
@@ -391,7 +391,7 @@ function TwinLoop({ labels }: { labels: string[] }) {
       <Node x={586} y={92} w={250} h={190} r={14} hot />
       <Label x={711} y={124}>{L[2]}</Label>
       {[0, 1, 2].map((i) => (
-        <rect key={i} x={612 + i * 70} y={146} width={54} height={40} rx={7} fill="rgba(254,87,34,0.14)" stroke="rgba(254,87,34,0.55)" />
+        <rect key={i} x={612 + i * 70} y={146} width={54} height={40} rx={7} fill="rgba(210, 0, 0,0.14)" stroke="rgba(210, 0, 0,0.55)" />
       ))}
       <Label x={711} y={216} dim size={10}>state estimate · simulation · prediction</Label>
       {/* forward telemetry */}
@@ -403,7 +403,7 @@ function TwinLoop({ labels }: { labels: string[] }) {
       <Flow d={`M 582 224 H 298`} dur={2.1} delay={0.6} color={CL.orangeSoft} />
       <Label x={440} y={244} size={10.5} dim>{L[3]}</Label>
       {/* sync hub */}
-      <circle className="td-spin" cx={440} cy={188} r={26} fill="rgba(24,20,45,0.92)" stroke={CL.orange} strokeDasharray="3 5" />
+      <circle className="td-spin" cx={440} cy={188} r={26} fill="rgba(43, 86, 114,0.92)" stroke={CL.orange} strokeDasharray="3 5" />
       <Label x={440} y={192} size={10}>sync</Label>
       {/* analytics strip */}
       <rect x={44} y={318} width={W - 88} height={48} rx={10} fill={CL.fill} stroke={CL.stroke} />
@@ -422,7 +422,7 @@ function OptimizationFunnel({ labels }: { labels: string[] }) {
       {/* funnel bands */}
       <path d="M 120 70 H 760 L 640 168 H 240 Z" fill="rgba(255,255,255,0.05)" stroke={CL.stroke} />
       <path d="M 240 176 H 640 L 548 268 H 332 Z" fill="rgba(255,255,255,0.07)" stroke={CL.stroke} />
-      <path d="M 332 276 H 548 L 468 340 H 412 Z" fill="rgba(254,87,34,0.14)" stroke="rgba(254,87,34,0.6)" />
+      <path d="M 332 276 H 548 L 468 340 H 412 Z" fill="rgba(210, 0, 0,0.14)" stroke="rgba(210, 0, 0,0.6)" />
       <Label x={440} y={104}>{L[0]}</Label>
       <Label x={440} y={210}>{L[1]}</Label>
       <Label x={440} y={296}>{L[2]}</Label>
@@ -463,7 +463,7 @@ function LedgerChain({ labels }: { labels: string[] }) {
         return (
           <g key={s + i}>
             <Node x={x} y={y} w={bw} h={bh} r={12} hot={i === 2} />
-            <rect x={x} y={y} width={bw} height={26} rx={12} fill="rgba(254,87,34,0.16)" />
+            <rect x={x} y={y} width={bw} height={26} rx={12} fill="rgba(210, 0, 0,0.16)" />
             <Label x={x + bw / 2} y={y + 17} size={10} dim>{`block ${String(i + 1).padStart(2, "0")}`}</Label>
             <Label x={x + bw / 2} y={y + 56}>{s}</Label>
             <circle className="td-pulse" cx={x + bw - 14} cy={y + bh - 14} r={2.4} style={{ animationDelay: `${i * 0.44}s` }} />
@@ -471,7 +471,7 @@ function LedgerChain({ labels }: { labels: string[] }) {
               <>
                 <Edge d={`M ${x + bw} ${y + bh / 2} h ${gap}`} />
                 <Flow d={`M ${x + bw + 3} ${y + bh / 2} h ${gap - 6}`} dur={1.4} delay={i * 0.3} />
-                <circle cx={x + bw + gap / 2} cy={y + bh / 2} r={4.5} fill="#18142D" stroke={CL.orange} strokeWidth={1.3} />
+                <circle cx={x + bw + gap / 2} cy={y + bh / 2} r={4.5} fill="#2b5672" stroke={CL.orange} strokeWidth={1.3} />
               </>
             )}
           </g>
@@ -547,7 +547,7 @@ function DecisionFabric({ labels }: { labels: string[] }) {
         );
       })}
       {/* core */}
-      <circle cx={440} cy={210} r={54} fill="rgba(24,20,45,0.94)" stroke={CL.orange} strokeWidth={1.5} />
+      <circle cx={440} cy={210} r={54} fill="rgba(43, 86, 114,0.94)" stroke={CL.orange} strokeWidth={1.5} />
       <circle className="td-spin" cx={440} cy={210} r={66} fill="none" stroke={CL.soft} strokeDasharray="3 7" />
       <Label x={440} y={206}>{L[1]}</Label>
       <Label x={440} y={224} dim size={9.5}>retrieval · eval · guard</Label>
@@ -595,7 +595,7 @@ function DeliveryCadence({ labels }: { labels: string[] }) {
             <rect className="td-prog" x={x} y={y + 96 - 6} width={bw} height={6} rx={3} fill={CL.orange} opacity={0.85} style={{ animationDelay: `${i * 0.9}s` }} />
             {i < 3 && (
               <g>
-                <rect x={x + bw + gap / 2 - 8} y={y + 40} width={16} height={16} rx={3} transform={`rotate(45 ${x + bw + gap / 2} ${y + 48})`} fill="rgba(24,20,45,0.95)" stroke={CL.orange} strokeWidth={1.4} />
+                <rect x={x + bw + gap / 2 - 8} y={y + 40} width={16} height={16} rx={3} transform={`rotate(45 ${x + bw + gap / 2} ${y + 48})`} fill="rgba(43, 86, 114,0.95)" stroke={CL.orange} strokeWidth={1.4} />
                 <Label x={x + bw + gap / 2} y={y + 22} size={9.5} dim>GATE</Label>
               </g>
             )}
@@ -646,7 +646,7 @@ export function TechDiagram({
             {title ?? "Reference architecture"}
           </figcaption>
           <span className="rounded-full border border-white/15 px-2.5 py-0.5 text-[9.5px] font-semibold uppercase tracking-[0.18em] text-white/55">
-            Dataq Software · live schematic
+            Achala IT Solutions · live schematic
           </span>
         </div>
         <div className="td-canvas bg-navy-900">

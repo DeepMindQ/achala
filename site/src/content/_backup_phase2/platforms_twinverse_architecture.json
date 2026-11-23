@@ -1,15 +1,15 @@
 {
  "id": "PLT-twinverse-ar",
- "title": "Dataq Twinverse — Architecture & Trust",
- "url": "/platforms/twinverse/architecture/",
+ "title": "BI & Analytics Platform — Architecture & Trust",
+ "url": "/platforms/bi-analytics/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Twinverse > Architecture & Trust",
- "seo_title": "Dataq Twinverse — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Twinverse — Digital Twin & IoT Intelligence Platform from Dataq Software.",
+ "breadcrumb": "Platforms > BI & Analytics Platform > Architecture & Trust",
+ "seo_title": "BI & Analytics Platform — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for BI & Analytics Platform — Digital Twin & IoT Intelligence Platform from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Dataq Twinverse — Architecture & Trust: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of BI & Analytics Platform — Architecture & Trust: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Twinverse — plane and service layers",
+   "title": "BI & Analytics Platform — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Twinverse — deployment topology and flow",
+   "title": "BI & Analytics Platform — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -107,7 +107,7 @@
   },
   {
    "t": "p",
-   "x": "Every claim about Dataq Twinverse — Architecture & Trust lives inside a measured envelope — what it holds at load, where it degrades first, and what the rollback path costs."
+   "x": "Every claim about BI & Analytics Platform — Architecture & Trust lives inside a measured envelope — what it holds at load, where it degrades first, and what the rollback path costs."
   },
   {
    "t": "h2",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -161,7 +161,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Twinverse — Architecture & Trust runs on the same delivery standard as the rest of the portfolio: measure first, gate honestly, and let the evidence decide what scales."
+   "x": "BI & Analytics Platform — Architecture & Trust runs on the same delivery standard as the rest of the portfolio: measure first, gate honestly, and let the evidence decide what scales."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
  "words": 472,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Twinverse",
+ "l2": "BI & Analytics Platform",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Twinverse",
+   "name": "BI & Analytics Platform",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/twinverse/architecture/"
+   "url": "/platforms/bi-analytics/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Twinverse — Overview",
-   "url": "/platforms/twinverse/",
+   "title": "BI & Analytics Platform — Overview",
+   "url": "/platforms/bi-analytics/",
    "desc": "Digital Twin & IoT Intelligence Platform"
   },
   {
-   "title": "Dataq Twinverse — Architecture & Trust",
-   "url": "/platforms/twinverse/architecture/",
+   "title": "BI & Analytics Platform — Architecture & Trust",
+   "url": "/platforms/bi-analytics/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Twinverse — Industry Use Cases",
-   "url": "/platforms/twinverse/use-cases/",
+   "title": "BI & Analytics Platform — Industry Use Cases",
+   "url": "/platforms/bi-analytics/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

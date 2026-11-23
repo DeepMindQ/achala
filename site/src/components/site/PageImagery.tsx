@@ -30,14 +30,14 @@ const DOMAIN_IMG: Record<string, Img> = {
 };
 
 const PLATFORM_IMG: Record<string, Img> = {
-  nexus: gen("plat-nexus", "Dataq Nexus — decision intelligence sphere with ranked data columns"),
-  forge: gen("plat-forge", "Dataq Forge — platform strata assembled by construction light"),
-  swarm: gen("plat-swarm", "Dataq Swarm — agent fleet in coordinated formation"),
-  sentinel: gen("plat-sentinel", "Dataq Sentinel — monitored control wall in the security operations room"),
-  twinverse: gen("plat-twinverse", "Dataq Twinverse — the mirrored operations city"),
-  quanta: gen("plat-quanta", "Dataq Quanta — optimizer vortex converging on the best schedule"),
-  ledger: gen("plat-ledger", "Dataq Ledger — distributed trust constellation"),
-  compass: gen("plat-compass", "Dataq Compass — governance needle steering regulated delivery"),
+  nexus: gen("plat-nexus", "EEMS Platform — decision intelligence sphere with ranked data columns"),
+  forge: gen("plat-forge", "Fleet Management System — platform strata assembled by construction light"),
+  swarm: gen("plat-swarm", "KYC Management System — agent fleet in coordinated formation"),
+  sentinel: gen("plat-sentinel", "Tele Medicine Platform — monitored control wall in the security operations room"),
+  twinverse: gen("plat-twinverse", "BI & Analytics Platform — the mirrored operations city"),
+  quanta: gen("plat-quanta", "Token Management System — optimizer vortex converging on the best schedule"),
+  ledger: gen("plat-ledger", "Patient Priority Portal — distributed trust constellation"),
+  compass: gen("plat-compass", "Driisti Smart Vision Glasses — governance needle steering regulated delivery"),
 };
 
 /* Industry motifs, matched by keyword anywhere in the page path. */
@@ -50,7 +50,7 @@ const INDUSTRY_RULES: [RegExp, Img][] = [
   [/telecom|media|travel|hospitality|sports/, gen("ind-telecom", "Global mesh linking markets across continents")],
 ];
 
-const INDUSTRY_IMG = gen("ind-telecom", "Global delivery mesh in the Dataq brand");
+const INDUSTRY_IMG = gen("ind-telecom", "Global delivery mesh in the Achala brand");
 
 const SOLUTION_RULES: [RegExp, Img][] = [
   [/workflow|orchestr|agent|swarm|hyperautomat|automation/, gen("svc-agentic", "Orchestrated agents moving work through lanes")],
@@ -66,29 +66,29 @@ const SOLUTION_RULES: [RegExp, Img][] = [
 ];
 
 const HUB_IMG: Record<string, Img> = {
-  "/services": gen("co-approach", "Service platform strata in the Dataq brand"),
+  "/services": gen("co-approach", "Service platform strata in the Achala brand"),
   "/solutions": gen("co-home", "Solution field composing intelligence"),
   "/industries": gen("ind-telecom", "Global industry mesh"),
   "/platforms": gen("plat-forge", "Eight platforms, one governed stack"),
   "/case-studies": gen("plat-nexus", "Outcomes surfaced as ranked decisions"),
   "/insights": gen("svc-data", "Insight streams from the knowledge estate"),
-  "/newsroom": gen("ind-telecom", "Dataq newsroom, worldwide"),
-  "/careers": gen("co-careers", "Rising steps — growth at Dataq Software"),
-  "/about-us": gen("co-about", "Dataq delivery campus at dusk"),
-  "/why-dataq": gen("plat-compass", "The Dataq edge — governed, outcome-linked delivery"),
-  "/our-approach": gen("co-approach", "The Dataq method, step by step"),
+  "/newsroom": gen("ind-telecom", "Achala newsroom, worldwide"),
+  "/careers": gen("co-careers", "Rising steps — growth at Achala IT Solutions"),
+  "/about-us": gen("co-about", "Achala delivery campus at dusk"),
+  "/why-achala": gen("plat-compass", "The Achala edge — governed, outcome-linked delivery"),
+  "/our-approach": gen("co-approach", "The Achala method, step by step"),
   "/patented-intelligence": gen("svc-quantum", "Patent-pending capability families converging into delivery"),
   "/partner-ecosystem": gen("plat-ledger", "Partner trust constellation"),
   "/global-offices": gen("ind-telecom", "Four global delivery centers"),
-  "/contact": gen("co-contact", "Talk to Dataq Software"),
+  "/contact": gen("co-contact", "Talk to Achala IT Solutions"),
   "/values-culture": gen("plat-compass", "Values that steer every engagement"),
   "/book-a-briefing": gen("co-contact", "Bring your baseline — leave with a plan"),
 };
 
 /* Company-section roots that inherit the hub image on sub-URLs too. */
-const COMPANY_ROOTS = ["/about-us", "/why-dataq", "/our-approach", "/careers", "/newsroom", "/insights", "/case-studies", "/patented-intelligence", "/partner-ecosystem", "/global-offices", "/contact", "/values-culture", "/book-a-briefing"];
+const COMPANY_ROOTS = ["/about-us", "/why-achala", "/our-approach", "/careers", "/newsroom", "/insights", "/case-studies", "/patented-intelligence", "/partner-ecosystem", "/global-offices", "/contact", "/values-culture", "/book-a-briefing"];
 
-const DEFAULT_IMG = gen("co-home", "Dataq Software — intelligence, engineered for outcomes");
+const DEFAULT_IMG = gen("co-home", "Achala IT Solutions — intelligence, engineered for outcomes");
 
 function firstRule(rules: [RegExp, Img][], haystack: string): Img | null {
   for (const [re, im] of rules) if (re.test(haystack)) return im;

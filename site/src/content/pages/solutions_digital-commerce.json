@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Digital Commerce & Experience Acceleration composes Dataq Forge, Dataq Nexus — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Technology & SaaS, Telecom, Media & Entertainment."
+   "x": "Digital Commerce & Experience Acceleration composes Fleet Management System, EEMS Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Technology & SaaS, Telecom, Media & Entertainment."
   },
   {
    "t": "h2",

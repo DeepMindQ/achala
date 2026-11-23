@@ -1,15 +1,15 @@
 {
  "id": "PLT-swarm-ar",
- "title": "Dataq Swarm — Architecture & Trust",
- "url": "/platforms/swarm/architecture/",
+ "title": "KYC Management System — Architecture & Trust",
+ "url": "/platforms/kyc/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Swarm > Architecture & Trust",
- "seo_title": "Dataq Swarm — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Swarm — Agentic AI Orchestration Platform from Dataq Software.",
+ "breadcrumb": "Platforms > KYC Management System > Architecture & Trust",
+ "seo_title": "KYC Management System — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for KYC Management System — Agentic AI Orchestration Platform from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Swarm — Architecture & Trust delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
+   "x": "KYC Management System — Architecture & Trust delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Swarm — plane and service layers",
+   "title": "KYC Management System — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Swarm — deployment topology and flow",
+   "title": "KYC Management System — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -107,7 +107,7 @@
   },
   {
    "t": "p",
-   "x": "Every claim about Dataq Swarm — Architecture & Trust lives inside a measured envelope — what it holds at load, where it degrades first, and what the rollback path costs."
+   "x": "Every claim about KYC Management System — Architecture & Trust lives inside a measured envelope — what it holds at load, where it degrades first, and what the rollback path costs."
   },
   {
    "t": "h2",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -161,7 +161,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Swarm — Architecture & Trust runs on the same delivery standard as the rest of the portfolio: measure first, gate honestly, and let the evidence decide what scales."
+   "x": "KYC Management System — Architecture & Trust runs on the same delivery standard as the rest of the portfolio: measure first, gate honestly, and let the evidence decide what scales."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
  "words": 475,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Swarm",
+ "l2": "KYC Management System",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Swarm",
+   "name": "KYC Management System",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/swarm/architecture/"
+   "url": "/platforms/kyc/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Swarm — Overview",
-   "url": "/platforms/swarm/",
+   "title": "KYC Management System — Overview",
+   "url": "/platforms/kyc/",
    "desc": "Agentic AI Orchestration Platform"
   },
   {
-   "title": "Dataq Swarm — Architecture & Trust",
-   "url": "/platforms/swarm/architecture/",
+   "title": "KYC Management System — Architecture & Trust",
+   "url": "/platforms/kyc/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Swarm — Industry Use Cases",
-   "url": "/platforms/swarm/use-cases/",
+   "title": "KYC Management System — Industry Use Cases",
+   "url": "/platforms/kyc/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

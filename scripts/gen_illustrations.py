@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the Dataq Software brand illustration system.
+"""Generate the Achala IT Solutions brand illustration system.
 22 animated SVG artworks (deep-navy canvas, brand orange, SMIL animations
 so they animate inside <img> tags without JS). Flat, professional,
 deep-tech motifs. Deterministic output -> public/images/.
@@ -9,10 +9,10 @@ import os
 OUT = "/home/z/my-project/site/public/images"
 W, H = 1260, 480
 
-ORANGE = "#FE5722"
-ORANGE_SOFT = "#FF9A62"
+ORANGE = "#d20000"
+ORANGE_SOFT = "#ff8a7c"
 ORANGE_PALE = "#FFC5A6"
-NAVY = "#18142D"
+NAVY = "#2b5672"
 NAVY_DEEP = "#0C0918"
 WHITE = "#FFFFFF"
 

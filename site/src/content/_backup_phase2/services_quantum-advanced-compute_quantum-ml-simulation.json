@@ -4,8 +4,8 @@
  "url": "/services/quantum-advanced-compute/quantum-ml-simulation/",
  "template": "service_page",
  "breadcrumb": "Services > Quantum & Advanced Compute > Quantum Machine Learning & Simulation",
- "seo_title": "Quantum Machine Learning & Simulation | Dataq Software",
- "meta_description": "Quantum Machine Learning & Simulation from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Quantum Machine Learning & Simulation | Achala IT Solutions",
+ "meta_description": "Quantum Machine Learning & Simulation from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "Quantum Machine Learning & Simulation follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Quantum Machine Learning & Simulation follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

@@ -1,15 +1,15 @@
 {
  "id": "PLT-nexus-ov",
- "title": "Dataq Nexus — Overview",
- "url": "/platforms/nexus/",
+ "title": "EEMS Platform — Overview",
+ "url": "/platforms/eems/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Nexus > Overview",
- "seo_title": "Dataq Nexus — Overview | Dataq Software",
+ "breadcrumb": "Platforms > EEMS Platform > Overview",
+ "seo_title": "EEMS Platform — Overview | Achala IT Solutions",
  "meta_description": "Enterprise decisions in milliseconds — with the evidence to defend every one.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Dataq Nexus — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of EEMS Platform — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Nexus is the decision infrastructure for high-volume enterprise choices: credit, claims, pricing, triage, fraud, routing. It combines predictive models, business rules and agentic reasoning behind one governed decision API, with champion-challenger testing and full decision replay — so any decision can be reconstructed months later for an auditor, a customer or a court."
+   "x": "EEMS Platform is the decision infrastructure for high-volume enterprise choices: credit, claims, pricing, triage, fraud, routing. It combines predictive models, business rules and agentic reasoning behind one governed decision API, with champion-challenger testing and full decision replay — so any decision can be reconstructed months later for an auditor, a customer or a court."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Nexus — control and evidence planes",
+   "title": "EEMS Platform — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "The reference pattern behind Dataq Nexus — Overview is boring on purpose: contracts at every boundary, an owner per component, and evidence captured where the work happens. Boring architecture is what survives contact with an audit."
+   "x": "The reference pattern behind EEMS Platform — Overview is boring on purpose: contracts at every boundary, an owner per component, and evidence captured where the work happens. Boring architecture is what survives contact with an audit."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "In practice, Dataq Nexus — Overview enters a program at the decision layer: the systems keep their jobs, the decisions get a contract, an owner and a trail."
+   "x": "In practice, EEMS Platform — Overview enters a program at the decision layer: the systems keep their jobs, the decisions get a contract, an owner and a trail."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 616,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Nexus",
+ "l2": "EEMS Platform",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Nexus",
+   "name": "EEMS Platform",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/nexus/"
+   "url": "/platforms/eems/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Nexus — Overview",
-   "url": "/platforms/nexus/",
+   "title": "EEMS Platform — Overview",
+   "url": "/platforms/eems/",
    "desc": "Decision Intelligence Hub"
   },
   {
-   "title": "Dataq Nexus — Architecture & Trust",
-   "url": "/platforms/nexus/architecture/",
+   "title": "EEMS Platform — Architecture & Trust",
+   "url": "/platforms/eems/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Nexus — Industry Use Cases",
-   "url": "/platforms/nexus/use-cases/",
+   "title": "EEMS Platform — Industry Use Cases",
+   "url": "/platforms/eems/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

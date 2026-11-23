@@ -7,9 +7,9 @@ import { CtaBand } from "@/components/site/PagePieces";
 import { PATENTS } from "@/lib/patents";
 
 export const metadata: Metadata = {
-  title: "Patented Intelligence — the methods behind DataQ Soft delivery",
+  title: "Patented Intelligence — the methods behind Achala IT Solutions delivery",
   description:
-    "Eight patented method families — graph-native contextual intelligence, quantum-inspired optimization, federated trust, validated ethical decisions, generative workflow orchestration — power every DataQ Soft engagement.",
+    "Eight patented method families — graph-native contextual intelligence, quantum-inspired optimization, federated trust, validated ethical decisions, generative workflow orchestration — power every Achala IT Solutions engagement.",
   alternates: { canonical: "/patented-intelligence/" },
 };
 
@@ -38,7 +38,7 @@ export default function PatentedIntelligencePage() {
             </h1>
             <p className="mt-4 text-[15px] leading-relaxed text-white/70">
               {PATENTS.length} patent families filed by Strategemist Global Private Limited
-              (Hyderabad) — the IP foundation of the DataQ platform portfolio. Each method below is
+              (Hyderabad) — the IP foundation of the Achala platform portfolio. Each method below is
               not slideware: it runs inside named platforms, under named controls, measured at every
               delivery gate.
             </p>
@@ -75,7 +75,7 @@ export default function PatentedIntelligencePage() {
               <ShieldCheck className="mt-0.5 h-4 w-4 shrink-0 text-brand-deep" aria-hidden="true" />
               Patent families are filed in India under The Patents Act, 1970 by Strategemist
               Global Private Limited, Hyderabad (applicant of record), the IP foundation of the
-              DataQ Soft delivery system. Full specifications are available to clients under NDA
+              Achala IT Solutions delivery system. Full specifications are available to clients under NDA
               for technical due diligence.
             </div>
           </Reveal>

@@ -21,8 +21,8 @@ const CL = {
   stroke: "rgba(255,255,255,0.26)",
   edge: "rgba(255,255,255,0.20)",
   hot: "#2c1e2d",
-  hotStroke: "rgba(254,87,34,0.75)",
-  orange: "#FE5722",
+  hotStroke: "rgba(210, 0, 0,0.75)",
+  orange: "#d20000",
   txt: "rgba(255,255,255,0.95)",
   dim: "rgba(255,255,255,0.60)",
   lane: "rgba(255,255,255,0.05)",
@@ -163,7 +163,7 @@ export function ArchGraph({
                   y={36}
                   fontSize={10.5}
                   fontWeight={800}
-                  fill="rgba(254,87,34,0.9)"
+                  fill="rgba(210, 0, 0,0.9)"
                   textAnchor="middle"
                   letterSpacing="0.14em"
                 >
@@ -252,7 +252,7 @@ export function ArchGraph({
                       x={p.x + NODE_W / 2}
                       y={p.y + 36 + k * 10.5}
                       fontSize={8}
-                      fill="rgba(254,87,34,0.9)"
+                      fill="rgba(210, 0, 0,0.9)"
                       textAnchor="middle"
                     >
                       {sl}
@@ -345,7 +345,7 @@ export function MetricsDash({
                         className="block h-full rounded-full"
                         style={{
                           width: `${Math.max(4, Math.min(100, g.pct))}%`,
-                          background: i === gates.length - 1 ? CL.orange : "rgba(254,87,34,0.55)",
+                          background: i === gates.length - 1 ? CL.orange : "rgba(210, 0, 0,0.55)",
                           animation: `dash-bar 0.9s ${0.25 + 0.15 * i}s both`,
                         }}
                       />
@@ -431,7 +431,7 @@ export function ChartPanel({
   caption?: string;
 }) {
   const maxV = yMax ?? Math.max(...series.flatMap((s) => s.points)) * 1.12;
-  const colors = ["#FE5722", "rgba(255,255,255,0.85)", "rgba(254,87,34,0.55)", "rgba(255,255,255,0.45)"];
+  const colors = ["#d20000", "rgba(255,255,255,0.85)", "rgba(210, 0, 0,0.55)", "rgba(255,255,255,0.45)"];
   const legend = (
     <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1">
       {series.map((s, i) => (
@@ -553,7 +553,7 @@ function LineChart({
           const area = `${d} L ${x(s.points.length - 1).toFixed(1)},${(PT + ih).toFixed(1)} L ${PL},${PT + ih} Z`;
           return (
             <g key={s.name}>
-              {si === 0 && <path d={area} fill="rgba(254,87,34,0.10)" stroke="none" />}
+              {si === 0 && <path d={area} fill="rgba(210, 0, 0,0.10)" stroke="none" />}
               <path
                 d={d}
                 fill="none"
@@ -701,7 +701,7 @@ function RadarChart({
           <g key={s.name}>
             <polygon
               points={s.points.map((v, i) => pt(i, v)).join(" ")}
-              fill={si === 0 ? "rgba(254,87,34,0.16)" : "rgba(255,255,255,0.07)"}
+              fill={si === 0 ? "rgba(210, 0, 0,0.16)" : "rgba(255,255,255,0.07)"}
               stroke={colors[si % colors.length]}
               strokeWidth={si === 0 ? 2 : 1.4}
               style={{ animation: `dash-in 0.8s ${0.2 + si * 0.2}s both`, transformBox: "fill-box", transformOrigin: "center" }}
@@ -747,8 +747,8 @@ function AreaChart({
     <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label={series.map((s) => s.name).join(", ")}>
       <defs>
         <linearGradient id="dv-area-fill" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stopColor="rgba(254,87,34,0.38)" />
-          <stop offset="100%" stopColor="rgba(254,87,34,0.04)" />
+          <stop offset="0%" stopColor="rgba(210, 0, 0,0.38)" />
+          <stop offset="100%" stopColor="rgba(210, 0, 0,0.04)" />
         </linearGradient>
       </defs>
       {ticks.map((tv, i) => {
@@ -822,7 +822,7 @@ function DonutChart({
   const total = vals.reduce((a, b) => a + b, 0) || 1;
   const centerText =
     center && center.length <= 16 ? center : unit ? `${total} ${unit}` : String(total);
-  const PALETTE = ["#FE5722", "rgba(254,135,80,0.92)", "#7C6FF0", "rgba(255,255,255,0.75)", "rgba(254,87,34,0.5)", "#3ECFB2", "rgba(255,255,255,0.4)", "#F0B429"];
+  const PALETTE = ["#d20000", "rgba(254,135,80,0.92)", "#7C6FF0", "rgba(255,255,255,0.75)", "rgba(210, 0, 0,0.5)", "#3ECFB2", "rgba(255,255,255,0.4)", "#F0B429"];
   const CX = 150;
   const CY = 110;
   const R = 72;
@@ -904,7 +904,7 @@ function FunnelChart({
         const nextHalf = i < vals.length - 1 ? halfTop * Math.max(0.16, Math.sqrt(vals[i + 1] / top)) : half;
         const yBot = yTop + ROW;
         const poly = `${CXm - half},${yTop} ${CXm + half},${yTop} ${CXm + nextHalf},${yBot} ${CXm - nextHalf},${yBot}`;
-        const fill = i === 0 ? "rgba(254,87,34,0.85)" : `rgba(254,87,34,${Math.max(0.28, 0.7 - i * 0.09)})`;
+        const fill = i === 0 ? "rgba(210, 0, 0,0.85)" : `rgba(210, 0, 0,${Math.max(0.28, 0.7 - i * 0.09)})`;
         return (
           <g key={cats[i] ?? i}>
             <polygon points={poly} fill={fill} style={{ animation: `dash-in 0.5s ${0.15 + i * 0.12}s both` }} />
@@ -981,7 +981,7 @@ function HeatmapChart({
                     width={CW - 6}
                     height={RH - 6}
                     rx={5}
-                    fill={`rgba(254,87,34,${shade(v)})`}
+                    fill={`rgba(210, 0, 0,${shade(v)})`}
                     stroke="rgba(255,255,255,0.10)"
                     style={{ animation: `dash-in 0.4s ${(ri * series.length + ci) * 0.02}s both` }}
                   />
@@ -1039,7 +1039,7 @@ function GaugeChart({
         <path
           d={arc(a0, av)}
           fill="none"
-          stroke="#FE5722"
+          stroke="#d20000"
           strokeWidth={20}
           strokeLinecap="round"
           pathLength={1}
@@ -1047,7 +1047,7 @@ function GaugeChart({
         />
         <line x1={CX} y1={CY} x2={needle[0]} y2={needle[1]} stroke="rgba(255,255,255,0.9)" strokeWidth={2.5} strokeLinecap="round"
           style={{ animation: "dash-in 0.6s 1.3s both", transformOrigin: `${CX}px ${CY}px` }} />
-        <circle cx={CX} cy={CY} r={5.5} fill="#FE5722" />
+        <circle cx={CX} cy={CY} r={5.5} fill="#d20000" />
         <text x={CX} y={CY - 26} textAnchor="middle" fontSize="26" fontWeight="800" fill="white">
           {v.toLocaleString()}
           <tspan fontSize="12" fill="rgba(255,255,255,0.55)">{unit ? ` ${unit}` : ""}</tspan>
@@ -1106,8 +1106,8 @@ function NetworkChart({
               cx={px(n.x)}
               cy={py(n.y)}
               r={r}
-              fill={n.hub ? "rgba(254,87,34,0.22)" : "rgba(255,255,255,0.06)"}
-              stroke={n.hub ? "rgba(254,87,34,0.85)" : "rgba(255,255,255,0.4)"}
+              fill={n.hub ? "rgba(210, 0, 0,0.22)" : "rgba(255,255,255,0.06)"}
+              stroke={n.hub ? "rgba(210, 0, 0,0.85)" : "rgba(255,255,255,0.4)"}
               strokeWidth={n.hub ? 1.8 : 1.1}
             />
             <text x={px(n.x)} y={py(n.y) + 3} textAnchor="middle" fontSize={n.hub ? 10 : 8.5} fontWeight="700" fill="rgba(255,255,255,0.9)">

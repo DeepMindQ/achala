@@ -4,8 +4,8 @@
  "url": "/services/quantum-advanced-compute/",
  "template": "tower_hub",
  "breadcrumb": "Services > Quantum & Advanced Compute",
- "seo_title": "Quantum & Advanced Compute | Dataq Software",
- "meta_description": "Quantum & Advanced Compute services from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Quantum & Advanced Compute | Achala IT Solutions",
+ "meta_description": "Quantum & Advanced Compute services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -70,7 +70,7 @@
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
+     "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
     ],
     [
      "Quantum Machine Learning & Simulation",
@@ -78,7 +78,7 @@
     ],
     [
      "HPC & Simulation Engineering",
-     "What HPC & Simulation Engineering means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
+     "What HPC & Simulation Engineering means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
     ],
     [
      "Neuromorphic & Emerging Compute Advisory",

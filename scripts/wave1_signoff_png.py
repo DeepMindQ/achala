@@ -2,7 +2,7 @@
 """CHG-042 — Side-by-side pixel-match sign-off sheet.
 
 Renders the implemented SVG lockup (site/public/logo.svg, built from the same
-path data as Logo.tsx) against the supplied reference (upload/dataq_logo.png)
+path data as Logo.tsx) against the supplied reference (upload/achala_logo.png)
 at 100% zoom and a 3x detail strip, then composes a sign-off PNG.
 
 Output: /home/z/my-project/download/Wave1_Logo_PixelMatch_Signoff.png
@@ -11,10 +11,10 @@ import cairosvg, io
 from PIL import Image, ImageDraw, ImageFont
 
 SITE = "/home/z/my-project/site"
-REF = "/home/z/my-project/upload/dataq_logo.png"
+REF = "/home/z/my-project/upload/achala_logo.png"
 OUT = "/home/z/my-project/download/Wave1_Logo_PixelMatch_Signoff.png"
-NAVY = (24, 20, 45)
-ORANGE = (254, 87, 34)
+NAVY = (43, 86, 114)
+ORANGE = (210, 0, 0)
 GREY = (110, 115, 130)
 
 svg = open(f"{SITE}/public/logo.svg", "rb").read()
@@ -60,7 +60,7 @@ rows.append(("sep", 2))
 rows.append(label_img("1 · Header render (100%) — implemented", row_w, 20, ORANGE))
 rows.append(on_white(impl_hdr))
 rows.append(("sep", 12))
-rows.append(label_img("2 · Reference at native size (100%) — supplied dataq_logo.png", row_w, 20, ORANGE))
+rows.append(label_img("2 · Reference at native size (100%) — supplied achala_logo.png", row_w, 20, ORANGE))
 ref_nat = ref_img.resize((impl_hdr.size[0], int(ref_img.size[1] * impl_hdr.size[0] / ref_img.size[0])), Image.LANCZOS)
 rows.append(on_white(ref_nat))
 rows.append(("sep", 12))

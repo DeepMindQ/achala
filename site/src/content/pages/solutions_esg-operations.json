@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Forge",
+     "label": "Fleet Management System",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Twinverse",
+     "label": "BI & Analytics Platform",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "ESG Reporting & Sustainable Operations composes Dataq Forge, Dataq Twinverse — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Energy & Utilities, Manufacturing & Industrial, Retail & Consumer Goods, Public Sector & Government."
+   "x": "ESG Reporting & Sustainable Operations composes Fleet Management System, BI & Analytics Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Energy & Utilities, Manufacturing & Industrial, Retail & Consumer Goods, Public Sector & Government."
   },
   {
    "t": "h2",

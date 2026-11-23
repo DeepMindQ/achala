@@ -23,13 +23,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.dataqsoft.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.achalasolutions.com"),
   title: {
-    default: "DataQ Soft | IT Services & Consulting for the Intelligence Era",
+    default: "Achala IT Solutions | IT Services & Consulting for the Intelligence Era",
     template: "%s",
   },
   description:
-    "DataQ Soft engineers the intelligence layer of the enterprise — applied AI, agentic automation, data platforms, cybersecurity and emerging compute.",
+    "Achala IT Solutions engineers the intelligence layer of the enterprise — applied AI, agentic automation, data platforms, cybersecurity and emerging compute.",
   robots: { index: true, follow: true },
   manifest: "/manifest.json",
   icons: {
@@ -41,8 +41,8 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    siteName: "DataQ Soft",
-    images: [{ url: "/og-default.png", width: 1200, height: 630, alt: "DataQ Soft — Intelligence, engineered for outcomes." }],
+    siteName: "Achala IT Solutions",
+    images: [{ url: "/og-default.png", width: 1200, height: 630, alt: "Achala IT Solutions — Intelligence, engineered for outcomes." }],
   },
   twitter: {
     card: "summary_large_image",
@@ -53,8 +53,8 @@ export const metadata: Metadata = {
 /* Mobile browser chrome carries the brand (CHG-006 / CHG-039). */
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#18142D" },
-    { media: "(prefers-color-scheme: dark)", color: "#0F0C20" },
+    { media: "(prefers-color-scheme: light)", color: "#2b5672" },
+    { media: "(prefers-color-scheme: dark)", color: "#0e2230" },
   ],
 };
 

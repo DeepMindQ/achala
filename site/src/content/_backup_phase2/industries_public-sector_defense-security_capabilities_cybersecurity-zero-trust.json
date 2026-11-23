@@ -5,7 +5,7 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Defense & National Security > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Defense & National Security",
- "meta_description": "Cyber & Zero-Trust for Defense & National Security: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Cyber & Zero-Trust for Defense & National Security: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -78,11 +78,11 @@
     ],
     [
      "Compliance, Audit & Digital Trust",
-     "What Compliance, Audit & Digital Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Compliance, Audit & Digital Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ]
    ]
   },
@@ -218,7 +218,7 @@
   },
   {
    "t": "p",
-   "x": "Cyber & Zero-Trust for Defense & National Security follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Cyber & Zero-Trust for Defense & National Security follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

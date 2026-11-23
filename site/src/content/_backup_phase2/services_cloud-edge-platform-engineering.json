@@ -4,8 +4,8 @@
  "url": "/services/cloud-edge-platform-engineering/",
  "template": "tower_hub",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering",
- "seo_title": "Cloud, Edge & Platform Engineering | Dataq Software",
- "meta_description": "Cloud, Edge & Platform Engineering services from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Cloud, Edge & Platform Engineering | Achala IT Solutions",
+ "meta_description": "Cloud, Edge & Platform Engineering services from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -82,7 +82,7 @@
     ],
     [
      "FinOps & Sustainable Computing",
-     "The Dataq Software build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
+     "The Achala IT Solutions build of FinOps & Sustainable Computing: concrete interfaces at core systems, measured movement on cloud unit cost, and a delivery."
     ],
     [
      "High-Performance & Mission-Critical Systems",
@@ -196,7 +196,7 @@
   },
   {
    "t": "p",
-   "x": "Cloud, Edge & Platform Engineering follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Cloud, Edge & Platform Engineering follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

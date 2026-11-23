@@ -4,8 +4,8 @@
  "url": "/services/cybersecurity-zero-trust/identity-access-modernization/",
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Identity & Access Modernization",
- "seo_title": "Identity & Access Modernization | Dataq Software",
- "meta_description": "Identity & Access Modernization from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Identity & Access Modernization | Achala IT Solutions",
+ "meta_description": "Identity & Access Modernization from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -249,7 +249,7 @@
    "items": [
     [
      "Cloud Security & Posture Management",
-     "What Cloud Security & Posture Management means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
+     "What Cloud Security & Posture Management means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and."
     ],
     [
      "AI Security & Model Protection",
@@ -282,7 +282,7 @@
    "items": [
     [
      "Zero-Trust Architecture & Implementation",
-     "What Zero-Trust Architecture & Implementation means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight."
+     "What Zero-Trust Architecture & Implementation means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight."
     ],
     [
      "AI Security & Model Protection",

@@ -4,12 +4,12 @@
  "url": "/industries/public-sector/defense-security/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Public Sector & Government > Defense & National Security",
- "seo_title": "Defense & National Security | Dataq Software",
+ "seo_title": "Defense & National Security | Achala IT Solutions",
  "meta_description": "Defense-adjacent programs run at the highest assurance bars: air-gapped estates, classified data flows, supply-chain scrutiny and PQ timelines.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Defense-adjacent programs run at the highest assurance bars: air-gapped estates, classified data flows, supply-chain scrutiny and PQ timelines. Dataq Software brings evidence-grade engineering and security-first architecture to missions where failure is not survivable. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Defense-adjacent programs run at the highest assurance bars: air-gapped estates, classified data flows, supply-chain scrutiny and PQ timelines. Achala IT Solutions brings evidence-grade engineering and security-first architecture to missions where failure is not survivable. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
   },
   {
    "t": "h2",

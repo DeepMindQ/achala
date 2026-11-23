@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Phase-0 quantitative audit of the Dataq site (read-only)."""
+"""Phase-0 quantitative audit of the Achala site (read-only)."""
 import glob, json, os, re, collections, statistics, html as htmlmod
 
 ROOT = "/home/z/my-project/site"
@@ -111,7 +111,7 @@ def sents(d):
                     for s in sent_re.findall(v):
                         s2 = re.sub(r"\s+", " ", s).strip().lower()
                         # normalize page-name interpolation
-                        s2 = re.sub(r"\b(fraud & financial crime decisioning|dataq software)\b", "X", s2)
+                        s2 = re.sub(r"\b(fraud & financial crime decisioning|Achala IT Solutions)\b", "X", s2)
                         if 40 < len(s2) < 400:
                             out.add(s2)
     return out

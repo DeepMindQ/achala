@@ -1,104 +1,106 @@
 {
- "name": "Dataq Software",
- "legalName": "Dataq Software Corporation",
- "tagline": "Intelligence, Engineered for Outcomes.",
- "positioning": "Dataq Software is a global IT services and consulting company that builds the AI and data systems enterprises run on: applied AI, agentic automation, data platforms, cybersecurity and advanced compute, delivered through eight proprietary platforms and engagements tied to named metrics.",
- "promise": "Every engagement anchored to a named business metric, a named control owner and a named risk budget.",
+ "name": "Achala IT Solutions",
+ "legalName": "Achala IT Solutions Private Limited",
+ "tagline": "Transforming industries through AI acceleration",
+ "positioning": "Achala IT Solutions is an AI-first, platform-driven engineering company offering full-cycle software product engineering — from POC to industrialization — for Fortune 500 enterprises, SMEs and startups across mobility, healthcare, manufacturing and financial services.",
+ "promise": "AI acceleration you can measure: every solution lands with named outcomes, production-grade engineering and 24x7 operations support.",
  "stats": [
   {
-   "value": "350+",
-   "label": "enterprise engagements delivered"
+   "value": "300+",
+   "label": "projects delivered across mobility, healthcare, BFSI and manufacturing"
   },
   {
-   "value": "40+",
-   "label": "countries served from 4 global delivery centers"
+   "value": "95%",
+   "label": "client retention across long-run engagements"
   },
   {
-   "value": "2,400+",
-   "label": "engineers, data scientists and domain specialists"
+   "value": "50,000+",
+   "label": "daily emergency cases handled by the EEMS platform across 9 states"
   },
   {
-   "value": "8",
-   "label": "proprietary platforms in production with clients"
+   "value": "200+",
+   "label": "IT specialists in engineering, data, AI and quality"
   },
   {
-   "value": "8",
-   "label": "proprietary method families developed by our research programme"
+   "value": "24x7",
+   "label": "operations and support for mission-critical systems"
   },
   {
-   "value": "630+",
-   "label": "published delivery playbooks across industries and capabilities"
+   "value": "2009",
+   "label": "founded in Hyderabad — global delivery from India, Germany and Bulgaria"
   }
  ],
  "credentials": [
-  "SOC 2 Type II",
-  "ISO 27001",
-  "ISO 9001",
-  "GDPR & CCPA aligned",
-  "HIPAA-ready delivery pods",
-  "PCI DSS assessment support",
-  "EU AI Act conformity tooling",
-  "NIST AI RMF aligned"
+  "ISO/IEC 27001",
+  "TISAX",
+  "GDPR-aligned delivery",
+  "NASSCOM AI Game Changers 2021 — Innovators",
+  "T-AIM (Telangana AI Mission) — first cohort",
+  "Sulzer GmbH strategic partnership"
  ],
  "offices": [
   {
-   "title": "United States — Global Headquarters",
-   "city": "Tysons Corner, Virginia, USA",
-   "desc": "Strategic leadership, board advisory, quantum and advanced compute practices."
+   "title": "India — Headquarters",
+   "city": "Financial District, Nanakramguda, Hyderabad",
+   "desc": "Engineering core, AI labs and global delivery management."
   },
   {
-   "title": "United Kingdom — European Hub",
-   "city": "London, United Kingdom",
-   "desc": "European delivery, DORA and regulatory programs, financial services practice."
+   "title": "Germany — European Hub",
+   "city": "Munich (c/o Sulzer GmbH)",
+   "desc": "Automotive and manufacturing delivery for European clients."
   },
   {
-   "title": "India — Global Execution Core",
-   "city": "India — Global Execution Core",
-   "desc": "Engineering depth: data, platform, agentic and delivery factories at scale."
-  },
-  {
-   "title": "Kingdom of Saudi Arabia — Growth Engine",
-   "city": "Riyadh (KAFD), Saudi Arabia",
-   "desc": "Vision 2030 programs, sovereign delivery, smart-city and energy practices."
+   "title": "Bulgaria — EU Delivery Center",
+   "city": "Sofia (Achala Sulzer Ltd.)",
+   "desc": "European shoring model with Sulzer GmbH partnership."
   }
  ],
  "emails": {
-  "general": "info@dataqsoft.com",
-  "press": "press@dataqsoft.com",
-  "careers": "careers@dataqsoft.com"
+  "general": "info@achalasolutions.com",
+  "press": "info@achalasolutions.com",
+  "careers": "info@achalasolutions.com"
  },
- "site": "https://www.dataqsoft.com",
+ "phones": {
+  "inquiries": "+91 7337444922",
+  "hr": "+91 9030015539"
+ },
+ "social": {
+  "linkedin": "https://www.linkedin.com/company/achala-it-solutions-pvt-ltd/",
+  "facebook": "https://www.facebook.com/Achala-it-Solutions-Pvt-Ltd-2009-100557234648701/",
+  "twitter": "https://twitter.com/AchalaIt",
+  "instagram": "https://www.instagram.com/achala_itsolutions/"
+ },
+ "site": "https://www.achalasolutions.com",
  "brandTokens": {
   "palette": {
-   "brand": "#FE5722",
-   "brandHover": "#E04A17",
-   "brandDeep": "#C2410C",
-   "brandTextOnDark": "#FE9C77",
-   "brandTint": "#FFF3EE",
-   "navy950": "#0F0C20",
-   "navy900": "#14102A",
-   "navy800": "#18142D",
-   "navy700": "#221D3A",
-   "navy600": "#2C2648",
-   "navy500": "#3A3358",
-   "mist": "#F6F7FB",
-   "line": "#E5E7F0",
-   "body": "#46425A"
+   "brand": "#d20000",
+   "brandHover": "#a80000",
+   "brandDeep": "#8f0000",
+   "brandTextOnDark": "#ff9d96",
+   "brandTint": "#fdecec",
+   "steel950": "#0e2230",
+   "steel900": "#16334a",
+   "steel800": "#2b5672",
+   "steel700": "#3a6983",
+   "steel600": "#477a95",
+   "steel500": "#568aa6",
+   "mist": "#f5f8fa",
+   "line": "#e3e8ec",
+   "body": "#4a5a66"
   },
   "logoAssets": {
-   "full": "/logo.svg",
-   "reversed": "/logo-white.svg",
-   "mono": "/logo-mono.svg",
+   "full": "/achala-logo.png",
+   "reversed": "/achala-logo-white.png",
+   "mono": "/achala-logo-mono.png",
    "favicon": "/icon.svg",
    "ogImage": "/og-default.png"
   },
   "usageRules": [
-   "Orange is the accent: keep to roughly 10% of any view",
-   "On white, orange text only via brandDeep #C2410C at 18px+ bold; body-safe orange on navy is #FE9C77",
-   "Primary buttons: solid orange with white bold label; hover #E04A17",
-   "Dark surfaces always use the navy ramp — never gray-charcoal",
-   "Cyan/teal (#22D3EE, #1B6B7A, #0E7490) are prohibited legacy tokens",
-   "Logo: lowercase always; clearspace = block height; min width 120px; never recolor, stretch, shadow or rotate"
+   "Brand red #d20000 is the accent: keep to roughly 10% of any view",
+   "On white, red text only via brandDeep #8f0000 at 18px+ bold; body-safe red on steel blue is #ff9d96",
+   "Primary buttons: solid brand red with white bold label; hover #a80000",
+   "Dark surfaces use the steel-blue ramp (#0e2230 - #568aa6)",
+   "Logo: use the approved artwork as provided; never recolor, stretch, shadow or rotate"
   ]
  }
 }

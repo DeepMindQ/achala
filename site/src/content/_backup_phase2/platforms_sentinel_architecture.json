@@ -1,15 +1,15 @@
 {
  "id": "PLT-sentinel-ar",
- "title": "Dataq Sentinel — Architecture & Trust",
- "url": "/platforms/sentinel/architecture/",
+ "title": "Tele Medicine Platform — Architecture & Trust",
+ "url": "/platforms/telemedicine/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Sentinel > Architecture & Trust",
- "seo_title": "Dataq Sentinel — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Sentinel — Zero-Trust & AI Security Platform from Dataq Software.",
+ "breadcrumb": "Platforms > Tele Medicine Platform > Architecture & Trust",
+ "seo_title": "Tele Medicine Platform — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Tele Medicine Platform — Zero-Trust & AI Security Platform from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The contract behind Dataq Sentinel — Architecture & Trust: signed baseline in week two, working slice by week eight, industrialized controls by week twelve, and evidence flowing to your control owner throughout."
+   "x": "The contract behind Tele Medicine Platform — Architecture & Trust: signed baseline in week two, working slice by week eight, industrialized controls by week twelve, and evidence flowing to your control owner throughout."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Sentinel — plane and service layers",
+   "title": "Tele Medicine Platform — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Sentinel — deployment topology and flow",
+   "title": "Tele Medicine Platform — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -107,7 +107,7 @@
   },
   {
    "t": "p",
-   "x": "The performance envelope for Dataq Sentinel — Architecture & Trust is published: latency, quality and cost bands the system is engineered to hold, with breaches treated as incidents, not as rounding."
+   "x": "The performance envelope for Tele Medicine Platform — Architecture & Trust is published: latency, quality and cost bands the system is engineered to hold, with breaches treated as incidents, not as rounding."
   },
   {
    "t": "h2",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -161,7 +161,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Sentinel — Architecture & Trust runs on the same delivery standard as the rest of the portfolio: measure first, gate honestly, and let the evidence decide what scales."
+   "x": "Tele Medicine Platform — Architecture & Trust runs on the same delivery standard as the rest of the portfolio: measure first, gate honestly, and let the evidence decide what scales."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
  "words": 466,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Sentinel",
+ "l2": "Tele Medicine Platform",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Sentinel",
+   "name": "Tele Medicine Platform",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/sentinel/architecture/"
+   "url": "/platforms/telemedicine/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Sentinel — Overview",
-   "url": "/platforms/sentinel/",
+   "title": "Tele Medicine Platform — Overview",
+   "url": "/platforms/telemedicine/",
    "desc": "Zero-Trust & AI Security Platform"
   },
   {
-   "title": "Dataq Sentinel — Architecture & Trust",
-   "url": "/platforms/sentinel/architecture/",
+   "title": "Tele Medicine Platform — Architecture & Trust",
+   "url": "/platforms/telemedicine/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Sentinel — Industry Use Cases",
-   "url": "/platforms/sentinel/use-cases/",
+   "title": "Tele Medicine Platform — Industry Use Cases",
+   "url": "/platforms/telemedicine/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

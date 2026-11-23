@@ -4,16 +4,16 @@
  "url": "/values-culture/",
  "template": "company_page",
  "breadcrumb": "About Us > Values & Culture",
- "seo_title": "Values & Culture | Dataq Software",
- "meta_description": "The operating culture behind Dataq Software: evidence rituals, no-go discipline, zero-exposure security.",
+ "seo_title": "Values & Culture | Achala IT Solutions",
+ "meta_description": "The operating culture behind Achala IT Solutions: evidence rituals, no-go discipline, zero-exposure security.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Culture at Dataq Software is an operating system, not a poster."
+   "x": "Culture at Achala IT Solutions is an operating system, not a poster."
   },
   {
    "t": "p",
-   "x": "Culture at Dataq Software is an operating system, not a poster. It is encoded in how engagements start (pre-agreed criteria), how claims are made (benchmarks with baselines), how autonomy is granted (policy envelopes) and how failures are treated (documented negatives that save the next client money)."
+   "x": "Culture at Achala IT Solutions is an operating system, not a poster. It is encoded in how engagements start (pre-agreed criteria), how claims are made (benchmarks with baselines), how autonomy is granted (policy envelopes) and how failures are treated (documented negatives that save the next client money)."
   },
   {
    "t": "p",
@@ -83,7 +83,7 @@
   },
   {
    "t": "p",
-   "x": "The values are contractual, not decorative: outcome-linked fees only exist because 'outcomes over output' is enforced; zero-exposure architecture only survives sales pressure because it is a term of engagement. Culture at Dataq Software is what makes the commercial model safe to sign."
+   "x": "The values are contractual, not decorative: outcome-linked fees only exist because 'outcomes over output' is enforced; zero-exposure architecture only survives sales pressure because it is a term of engagement. Culture at Achala IT Solutions is what makes the commercial model safe to sign."
   }
  ],
  "words": 338,
@@ -104,13 +104,13 @@
  ],
  "related": [
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": ""
   },
   {
-   "title": "Why Dataq Software — The Dataq Edge",
-   "url": "/why-dataq/",
+   "title": "Why Achala IT Solutions — The Achala Edge",
+   "url": "/why-achala/",
    "desc": ""
   },
   {
@@ -124,7 +124,7 @@
    "desc": ""
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "desc": ""
   },
@@ -139,7 +139,7 @@
    "desc": ""
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing or a value assessment."
   }

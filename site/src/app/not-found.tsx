@@ -12,7 +12,7 @@ export default function NotFound() {
     { label: "Case studies & evidence", url: "/case-studies/" },
     { label: "Patented intelligence", url: "/patented-intelligence/" },
     { label: "Insights library", url: "/insights/" },
-    { label: "About Dataq Software", url: "/about-us/" },
+    { label: "About Achala IT Solutions", url: "/about-us/" },
     { label: "Contact & briefings", url: "/contact/" },
   ];
   return (

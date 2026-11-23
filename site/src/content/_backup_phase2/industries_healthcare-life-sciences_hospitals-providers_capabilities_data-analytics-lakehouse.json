@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Hospitals & Provider Networks > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Hospitals & Provider Networks",
- "meta_description": "Data & Lakehouse for Hospitals & Provider Networks: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Data & Lakehouse for Hospitals & Provider Networks: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Data & Lakehouse for Hospitals & Provider Networks means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 patients outcomes measured against your audited baseline."
+   "x": "What Data & Lakehouse for Hospitals & Provider Networks means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 patients outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Master Data, Governance & Cataloging",
-     "The Dataq Software build of Master Data, Governance & Cataloging: concrete interfaces at core systems, measured movement on duplicate record rates."
+     "The Achala IT Solutions build of Master Data, Governance & Cataloging: concrete interfaces at core systems, measured movement on duplicate record rates."
     ],
     [
      "Advanced Risk & Predictive Analytics",
@@ -82,7 +82,7 @@
     ],
     [
      "Data Monetization & Analytics Products",
-     "The Dataq Software build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
+     "The Achala IT Solutions build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
     ]
    ]
   },
@@ -218,7 +218,7 @@
   },
   {
    "t": "p",
-   "x": "Data & Lakehouse for Hospitals & Provider Networks follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Data & Lakehouse for Hospitals & Provider Networks follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

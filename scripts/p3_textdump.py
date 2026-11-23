@@ -42,8 +42,8 @@ def textify(s):
 def clean_noise(t):
     """Drop obvious chrome repeated on every page."""
     noise_starts = [
-        "Maintained by the Dataq Software practice council",
-        "CONTACT DATAQ SOFTWARE",
+        "Maintained by the Achala IT Solutions practice council",
+        "CONTACT ACHALA IT SOLUTIONS",
         "Book an executive briefing — 45 minutes",
     ]
     for ns in noise_starts:

@@ -4,7 +4,7 @@
  "url": "/case-studies/ins-01/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Insurance & Risk > A top-5 global P&C insurer",
- "seo_title": "A top-5 global P&C insurer | Case Study | Dataq Software",
+ "seo_title": "A top-5 global P&C insurer | Case Study | Achala IT Solutions",
  "meta_description": "Claims triage in minutes — 55% faster cycle times with document intelligence.",
  "blocks": [
   {
@@ -42,11 +42,11 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
-   "x": "We deployed the claims decision pipeline: document intelligence (classification, extraction, validation) feeding Dataq Nexus decision policies with confidence-threshold routing, network fraud analytics scoring claims pre-settlement, and a portfolio lakehouse unifying exposure and claims for steering. Adjusters work a review queue of pre-assembled cases with citations."
+   "x": "We deployed the claims decision pipeline: document intelligence (classification, extraction, validation) feeding EEMS Platform decision policies with confidence-threshold routing, network fraud analytics scoring claims pre-settlement, and a portfolio lakehouse unifying exposure and claims for steering. Adjusters work a review queue of pre-assembled cases with citations."
   },
   {
    "t": "h2",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "A top-5 global P&C insurer uses the standard Dataq delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
+   "x": "A top-5 global P&C insurer uses the standard Achala delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
   },
   {
    "t": "h2",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: Agentic AI & Hyperautomation, Applied AI & Generative AI, Data, Analytics & Lakehouse. Platforms: Dataq Swarm, Dataq Nexus, Dataq Forge."
+   "x": "Towers: Agentic AI & Hyperautomation, Applied AI & Generative AI, Data, Analytics & Lakehouse. Platforms: KYC Management System, EEMS Platform, Fleet Management System."
   },
   {
    "t": "h2",

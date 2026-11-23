@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/databricks/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Databricks",
- "seo_title": "Databricks Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Databricks: Lakehouse engineering, MLops and real-time analytics on Databricks.",
+ "seo_title": "Databricks Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Databricks: Lakehouse engineering, MLops and real-time analytics on Databricks.",
  "words": 179,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Databricks: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Databricks: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",

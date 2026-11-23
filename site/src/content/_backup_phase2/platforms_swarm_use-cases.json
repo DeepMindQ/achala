@@ -1,15 +1,15 @@
 {
  "id": "PLT-swarm-uc",
- "title": "Dataq Swarm — Industry Use Cases",
- "url": "/platforms/swarm/use-cases/",
+ "title": "KYC Management System — Industry Use Cases",
+ "url": "/platforms/kyc/use-cases/",
  "template": "platform_usecases",
- "breadcrumb": "Platforms > Dataq Swarm > Industry Use Cases",
- "seo_title": "Dataq Swarm — Industry Use Cases | Dataq Software",
- "meta_description": "How Dataq Swarm is deployed across industries: banking, insurance, telecom, logistics and more.",
+ "breadcrumb": "Platforms > KYC Management System > Industry Use Cases",
+ "seo_title": "KYC Management System — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How KYC Management System is deployed across industries: banking, insurance, telecom, logistics and more.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Dataq Swarm — Industry Use Cases delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
+   "x": "KYC Management System — Industry Use Cases delivered as an operating capability for the enterprise, not a slide deck — durable runtime, policy-checked actions, and telemetry your auditors can read without translation."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Swarm across industries",
+   "caption": "KYC Management System across industries",
    "headers": [
     "Industry",
     "Pattern",
@@ -63,7 +63,7 @@
   {
    "t": "diagram",
    "kind": "pipeline",
-   "title": "Dataq Swarm — reference flow in production",
+   "title": "KYC Management System — reference flow in production",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,7 +80,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the Dataq Swarm platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 4 tower services, the KYC Management System platform for rails, and your estate at core systems for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "bullets",
@@ -117,7 +117,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Swarm — Industry Use Cases integrates through contracts, not through point-to-point goodwill — each connection has a schema, an owner and a failure policy agreed before it goes live."
+   "x": "KYC Management System — Industry Use Cases integrates through contracts, not through point-to-point goodwill — each connection has a schema, an owner and a failure policy agreed before it goes live."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Swarm — Industry Use Cases follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "KYC Management System — Industry Use Cases follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "cta",
@@ -202,7 +202,7 @@
  "words": 492,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Swarm",
+ "l2": "KYC Management System",
  "l3": "Industry Use Cases",
  "l4": "",
  "crumbs": [
@@ -211,28 +211,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Swarm",
+   "name": "KYC Management System",
    "url": null
   },
   {
    "name": "Industry Use Cases",
-   "url": "/platforms/swarm/use-cases/"
+   "url": "/platforms/kyc/use-cases/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Swarm — Overview",
-   "url": "/platforms/swarm/",
+   "title": "KYC Management System — Overview",
+   "url": "/platforms/kyc/",
    "desc": "Agentic AI Orchestration Platform"
   },
   {
-   "title": "Dataq Swarm — Architecture & Trust",
-   "url": "/platforms/swarm/architecture/",
+   "title": "KYC Management System — Architecture & Trust",
+   "url": "/platforms/kyc/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Swarm — Industry Use Cases",
-   "url": "/platforms/swarm/use-cases/",
+   "title": "KYC Management System — Industry Use Cases",
+   "url": "/platforms/kyc/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

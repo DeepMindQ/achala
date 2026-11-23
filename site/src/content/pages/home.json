@@ -4,12 +4,12 @@
  "url": "/",
  "template": "home",
  "breadcrumb": "Home",
- "seo_title": "Dataq Software — IT services & consulting with patented IP | AI, cloud, data, security, ERP",
- "meta_description": "Dataq Software is a global IT services, consulting and business solutions partner — from ERP and cloud to AI and data — powered by patented delivery IP and gated on signed metrics. SOC 2 · ISO 27001.",
+ "seo_title": "Achala IT Solutions | AI-Driven IT Solutions & Digital Engineering",
+ "meta_description": "Achala IT Solutions is an AI-first, platform-driven engineering company — transforming industries through AI acceleration for mobility, healthcare, manufacturing and financial services. 300+ projects · 95% client retention · ISO/IEC 27001.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ambition, engineered. Outcomes, proven. Dataq Software is a global IT services, consulting and business solutions partner. We consult, build and run the technology your business depends on — from ERP and cloud to AI and data — powered by our own patented methods and platforms, with every program measured on a metric your board already tracks."
+   "x": "Ambition, engineered. Outcomes, proven. Achala IT Solutions is a global IT services, consulting and business solutions partner. We consult, build and run the technology your business depends on — from ERP and cloud to AI and data — powered by our own patented methods and platforms, with every program measured on a metric your board already tracks."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Software is a global IT services, consulting and business solutions partner, with a worldwide team of engineers, consultants and domain specialists backed by dedicated delivery centers across three continents. We consult on strategy, build and modernize the systems that run your business, and operate them day to day — always with named owners, signed baselines and evidence your auditors can walk."
+   "x": "Achala IT Solutions is a global IT services, consulting and business solutions partner, with a worldwide team of engineers, consultants and domain specialists backed by dedicated delivery centers across three continents. We consult on strategy, build and modernize the systems that run your business, and operate them day to day — always with named owners, signed baselines and evidence your auditors can walk."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "What separates us is the intellectual property we bring on day one. Patented method families developed by our research programme arrive pre-configured inside our proprietary platforms, so programs start from a configured baseline and the budget goes to the work that is genuinely yours."
+   "x": "What separates us is the intellectual property we bring on day one. proprietary method families developed by our research programme arrive pre-configured inside our proprietary platforms, so programs start from a configured baseline and the budget goes to the work that is genuinely yours."
   },
   {
    "t": "h2",
@@ -107,7 +107,7 @@
   },
   {
    "t": "p",
-   "x": "Most engagements elsewhere start from a blank page and a staffing plan. Ours start from configured intellectual property: the patented method families arrive as platform baselines, teams start near full readiness, and the gates prove the delta against your signed baseline. Commercially it flexes to the deal — license, embed or co-develop, with co-ownership terms available on accelerators built specifically for you."
+   "x": "Most engagements elsewhere start from a blank page and a staffing plan. Ours start from configured intellectual property: the proprietary method families arrive as platform baselines, teams start near full readiness, and the gates prove the delta against your signed baseline. Commercially it flexes to the deal — license, embed or co-develop, with co-ownership terms available on accelerators built specifically for you."
   },
   {
    "t": "p",
@@ -152,11 +152,11 @@
   },
   {
    "t": "h2",
-   "x": "Dataq Software in numbers"
+   "x": "Achala IT Solutions in numbers"
   },
   {
    "t": "table",
-   "caption": "Dataq Software at a glance",
+   "caption": "Achala IT Solutions at a glance",
    "headers": [
     "Proof point",
     "What it means"
@@ -171,7 +171,7 @@
      "countries served from 4 global delivery centers"
     ],
     [
-     "2,400+",
+     "300+",
      "engineers, consultants, data scientists and domain specialists"
     ],
     [
@@ -180,7 +180,7 @@
     ],
     [
      "8",
-     "patented method families — the IP differential in every engagement"
+     "proprietary method families — the IP differential in every engagement"
     ],
     [
      "630+",
@@ -235,36 +235,28 @@
  "extras": {
   "stats": [
    {
-    "value": "1.9M",
-    "label": "decisions/day under management — reference program"
+    "value": "300+",
+    "label": "projects delivered across mobility, healthcare, BFSI and manufacturing"
    },
    {
-    "value": "148 ms",
-    "label": "decision p95, within SLO — reference program"
+    "value": "95%",
+    "label": "client retention across long-run engagements"
    },
    {
-    "value": "100%",
-    "label": "of releases gated on signed evidence"
+    "value": "50,000+",
+    "label": "daily emergency cases handled by the EEMS platform across 9 states"
    },
    {
-    "value": "350+",
-    "label": "enterprise engagements delivered, measured against signed baselines"
+    "value": "200+",
+    "label": "IT specialists in engineering, data, AI and quality"
    },
    {
-    "value": "40+",
-    "label": "countries served from 4 global delivery centers"
+    "value": "24x7",
+    "label": "operations and support for mission-critical systems"
    },
    {
-    "value": "8",
-    "label": "proprietary platforms — the productized form of the patented methods"
-   },
-   {
-    "value": "8",
-    "label": "patented method families — the IP differential in every engagement"
-   },
-   {
-    "value": "2,400+",
-    "label": "engineers, consultants, data scientists and domain specialists"
+    "value": "2009",
+    "label": "founded in Hyderabad — global delivery from India, Germany and Bulgaria"
    }
   ],
   "domains": [
@@ -273,7 +265,7 @@
     "url": "/services/data-analytics-lakehouse/",
     "desc": "Pipelines, lakehouse and governance: reports that reconcile, lineage you can trace, access under control.",
     "metric": "99.4% freshness SLA · 0 metric disputes",
-    "plat": "Dataq Forge",
+    "plat": "Fleet Management System",
     "start": true
    },
    {
@@ -281,7 +273,7 @@
     "url": "/services/agentic-ai-hyperautomation/",
     "desc": "Digital workers with defined roles, budgets and human checkpoints. Every action logged and reversible.",
     "metric": "78% portfolio containment · 216 automations governed",
-    "plat": "Dataq Swarm",
+    "plat": "KYC Management System",
     "start": true
    },
    {
@@ -289,7 +281,7 @@
     "url": "/services/applied-ai-generative-ai/",
     "desc": "Strategy, model selection, retrieval, evaluation and production operations. AI measured on the P&L.",
     "metric": "87% eval coverage · 68% PoC kill rate enforced",
-    "plat": "Dataq Nexus",
+    "plat": "EEMS Platform",
     "start": false
    },
    {
@@ -297,7 +289,7 @@
     "url": "/services/cybersecurity-zero-trust/",
     "desc": "Identity-first architecture for people, machines and models, with detection and response in one program.",
     "metric": "97.4% evidence freshness · drill RTO 9.5 h vs 12 h target",
-    "plat": "Dataq Sentinel",
+    "plat": "Tele Medicine Platform",
     "start": false
    },
    {
@@ -305,7 +297,7 @@
     "url": "/services/cloud-edge-platform-engineering/",
     "desc": "Hybrid and edge estates engineered for reliability and cost per workload, with platforms teams adopt.",
     "metric": "23.4% waste eliminated · 38% legacy surface retired",
-    "plat": "Dataq Forge",
+    "plat": "Fleet Management System",
     "start": false
    },
    {
@@ -313,7 +305,7 @@
     "url": "/services/iot-digital-twin-robotics/",
     "desc": "Sensor integration, digital twins and robotics: see, simulate and act on physical assets in one loop.",
     "metric": "1,842 assets instrumented · −58% unplanned downtime",
-    "plat": "Dataq Twinverse",
+    "plat": "BI & Analytics Platform",
     "start": false
    },
    {
@@ -321,7 +313,7 @@
     "url": "/services/blockchain-digital-trust/",
     "desc": "Permissioned networks, tokenization and verifiable credentials with the reporting supervisors expect.",
     "metric": "0 reconciliation deltas · 412k credentials issued",
-    "plat": "Dataq Ledger",
+    "plat": "Patient Priority Portal",
     "start": false
    },
    {
@@ -329,7 +321,7 @@
     "url": "/services/quantum-advanced-compute/",
     "desc": "Optimization, simulation and PQC migration where the mathematics pays back, benchmarked against classical methods.",
     "metric": "82% parallel efficiency · 100% benchmark honesty",
-    "plat": "Dataq Quanta",
+    "plat": "Token Management System",
     "start": false
    }
   ],
@@ -443,44 +435,44 @@
   ],
   "platforms": [
    {
-    "name": "Dataq Nexus",
-    "url": "/platforms/nexus/",
-    "desc": "Decision Intelligence Hub"
+    "name": "EEMS Platform",
+    "url": "/platforms/eems/",
+    "desc": "AI-powered emergency response platform — dispatch, fleet readiness and field coordination for 50,000+ daily cases across 9 states."
    },
    {
-    "name": "Dataq Forge",
-    "url": "/platforms/forge/",
-    "desc": "Data & Lakehouse Engineering Platform"
+    "name": "Fleet Management System",
+    "url": "/platforms/fms/",
+    "desc": "Real-time tracking, predictive maintenance, telematics and compliance management — keeping mission-critical fleets ready."
    },
    {
-    "name": "Dataq Swarm",
-    "url": "/platforms/swarm/",
-    "desc": "Agentic AI Orchestration Platform"
+    "name": "KYC Management System",
+    "url": "/platforms/kyc/",
+    "desc": "Document verification and face recognition that onboard customers in 5 minutes — 60% faster than manual cycles."
    },
    {
-    "name": "Dataq Sentinel",
-    "url": "/platforms/sentinel/",
-    "desc": "Zero-Trust & AI Security Platform"
+    "name": "Tele Medicine Platform",
+    "url": "/platforms/telemedicine/",
+    "desc": "AI-driven remote evaluation, diagnosis and treatment — one platform for virtual care at scale."
    },
    {
-    "name": "Dataq Twinverse",
-    "url": "/platforms/twinverse/",
-    "desc": "Digital Twin & IoT Intelligence Platform"
+    "name": "BI & Analytics Platform",
+    "url": "/platforms/bi-analytics/",
+    "desc": "150+ built-in dashboards for hospital operations — 25% operational-efficiency lift at KIMS Hospitals."
    },
    {
-    "name": "Dataq Quanta",
-    "url": "/platforms/quanta/",
-    "desc": "Quantum & Advanced Compute Suite"
+    "name": "Token Management System",
+    "url": "/platforms/token-management/",
+    "desc": "AI-led queue and token management that cut laboratory queues by 20-30% at AIG Hospitals."
    },
    {
-    "name": "Dataq Ledger",
-    "url": "/platforms/ledger/",
-    "desc": "Distributed Trust & Tokenization Platform"
+    "name": "Patient Priority Portal",
+    "url": "/platforms/patient-portal/",
+    "desc": "Self-service patient journeys — registration, pre-assessment and lab-report dispatch without the queues."
    },
    {
-    "name": "Dataq Compass",
-    "url": "/platforms/compass/",
-    "desc": "Responsible AI & Governance Platform"
+    "name": "Driisti — Smart Vision Glasses",
+    "url": "/platforms/driisti/",
+    "desc": "AI-enabled smart vision glasses for the visually challenged, and assistive devices for elderly care."
    }
   ]
  }

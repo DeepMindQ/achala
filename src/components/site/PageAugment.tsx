@@ -122,12 +122,12 @@ export function OutputTelemetry({ page }: { page: PageData }) {
     return wrap(
       <div className="mt-6 grid gap-4 lg:grid-cols-2">
         <BarChart
-          title="Baseline vs. DataQ delivery — 90-day gate review"
+          title="Baseline vs. Achala delivery — 90-day gate review"
           caption="Measured delta"
           labels={kpi.names}
           series={[
             { name: "Baseline (diagnosis)", values: base },
-            { name: "With DataQ (day 90)", values: after, color: "#FE5722" },
+            { name: "With Achala (day 90)", values: after, color: "#d20000" },
           ]}
           dark={dark}
         />
@@ -152,7 +152,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
           labels={kpi.names}
           series={[
             { name: "Baseline", values: base },
-            { name: "Post-delivery", values: after, color: "#FE5722" },
+            { name: "Post-delivery", values: after, color: "#d20000" },
           ]}
         />
         <Radar
@@ -160,8 +160,8 @@ export function OutputTelemetry({ page }: { page: PageData }) {
           caption="5-point scale ×20"
           axes={["Speed", "Precision", "Resilience", "Governance", "Scale"]}
           series={[
-            { name: "Typical starting position", values: [38, 42, 35, 30, 45], color: "#3A3358" },
-            { name: "After DataQ engagement", values: [82, 78, 86, 90, 76], color: "#FE5722" },
+            { name: "Typical starting position", values: [38, 42, 35, 30, 45], color: "#568aa6" },
+            { name: "After Achala engagement", values: [82, 78, 86, 90, 76], color: "#d20000" },
           ]}
         />
       </div>,
@@ -175,7 +175,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
           title="Platform capability scorecard"
           caption="Reference deployment"
           axes={["Throughput", "Precision", "Resilience", "Governance", "Time-to-value"]}
-          series={[{ name: "Platform benchmark", values: [84, 80, 88, 92, 74], color: "#FE5722" }]}
+          series={[{ name: "Platform benchmark", values: [84, 80, 88, 92, 74], color: "#d20000" }]}
         />
         <LineArea
           title="Decision volume supported — first 12 weeks"
@@ -233,7 +233,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
           dark
           series={[
             { name: "Baseline", values: base },
-            { name: "Delivered", values: after, color: "#FE5722" },
+            { name: "Delivered", values: after, color: "#d20000" },
           ]}
         />
         <Donut
@@ -295,7 +295,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
           labels={kpi.names}
           series={[
             { name: "Baseline", values: baselineVsAfter(rng, kpi.names).base },
-            { name: "With solution", values: baselineVsAfter(rng, kpi.names).after, color: "#FE5722" },
+            { name: "With solution", values: baselineVsAfter(rng, kpi.names).after, color: "#d20000" },
           ]}
         />
       </div>,
@@ -329,7 +329,7 @@ export function OutputTelemetry({ page }: { page: PageData }) {
     return wrap(
       <div className="mt-6 grid gap-4 lg:grid-cols-2">
         <ArchitectureFlow
-          title="The DataQ Method — gate structure"
+          title="The Achala Method — gate structure"
           caption="Outcome-linked"
           layers={[
             { name: "Diagnose — metric lock", nodes: ["Named metric", "Baseline audit", "Control owner"] },

@@ -4,8 +4,8 @@
  "url": "/industries/insurance/capabilities/iot-digital-twin-robotics/",
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > IoT, Digital Twin & Robotics",
- "seo_title": "IoT, Twin & Robotics for Insurance & Risk | Dataq Software",
- "meta_description": "IoT, Twin & Robotics for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "seo_title": "IoT, Twin & Robotics for Insurance & Risk | Achala IT Solutions",
+ "meta_description": "IoT, Twin & Robotics for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -74,7 +74,7 @@
    "items": [
     [
      "Industrial IoT & Sensor Fabric",
-     "What Industrial IoT & Sensor Fabric means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
+     "What Industrial IoT & Sensor Fabric means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the."
     ],
     [
      "Digital Twin Platform Engineering",
@@ -86,7 +86,7 @@
     ],
     [
      "Predictive Maintenance & Asset Intelligence",
-     "What Predictive Maintenance & Asset Intelligence means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated."
+     "What Predictive Maintenance & Asset Intelligence means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated."
     ]
    ]
   },
@@ -213,7 +213,7 @@
   },
   {
    "t": "p",
-   "x": "IoT, Twin & Robotics for Insurance & Risk follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "IoT, Twin & Robotics for Insurance & Risk follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",

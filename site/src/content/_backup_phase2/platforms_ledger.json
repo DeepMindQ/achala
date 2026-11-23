@@ -1,15 +1,15 @@
 {
  "id": "PLT-ledger-ov",
- "title": "Dataq Ledger — Overview",
- "url": "/platforms/ledger/",
+ "title": "Patient Priority Portal — Overview",
+ "url": "/platforms/patient-portal/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Ledger > Overview",
- "seo_title": "Dataq Ledger — Overview | Dataq Software",
+ "breadcrumb": "Platforms > Patient Priority Portal > Overview",
+ "seo_title": "Patient Priority Portal — Overview | Achala IT Solutions",
  "meta_description": "Shared truth with regulatory teeth — permissioned networks that survive supervision.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Dataq Ledger — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Patient Priority Portal — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Ledger is the institution-grade DLT platform: permissioned network engineering (Fabric/Besu-class) with governance charters and legal wrappers, tokenization with securities-law discipline, smart contracts built to formal-verification standards, provenance networks for EUDR/DPP-grade traceability, and verifiable-credential ecosystems against eIDAS 2.0 expectations."
+   "x": "Patient Priority Portal is the institution-grade DLT platform: permissioned network engineering (Fabric/Besu-class) with governance charters and legal wrappers, tokenization with securities-law discipline, smart contracts built to formal-verification standards, provenance networks for EUDR/DPP-grade traceability, and verifiable-credential ecosystems against eIDAS 2.0 expectations."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Ledger — control and evidence planes",
+   "title": "Patient Priority Portal — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Ledger — Overview runs on a structure your control owners can interrogate — the decision plane, the evidence plane and the governance plane stay separate in design and reconciled in operation."
+   "x": "Patient Priority Portal — Overview runs on a structure your control owners can interrogate — the decision plane, the evidence plane and the governance plane stay separate in design and reconciled in operation."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Teams adopt Dataq Ledger — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
+   "x": "Teams adopt Patient Priority Portal — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 556,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Ledger",
+ "l2": "Patient Priority Portal",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Ledger",
+   "name": "Patient Priority Portal",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/ledger/"
+   "url": "/platforms/patient-portal/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Ledger — Overview",
-   "url": "/platforms/ledger/",
+   "title": "Patient Priority Portal — Overview",
+   "url": "/platforms/patient-portal/",
    "desc": "Distributed Trust & Tokenization Platform"
   },
   {
-   "title": "Dataq Ledger — Architecture & Trust",
-   "url": "/platforms/ledger/architecture/",
+   "title": "Patient Priority Portal — Architecture & Trust",
+   "url": "/platforms/patient-portal/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Ledger — Industry Use Cases",
-   "url": "/platforms/ledger/use-cases/",
+   "title": "Patient Priority Portal — Industry Use Cases",
+   "url": "/platforms/patient-portal/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

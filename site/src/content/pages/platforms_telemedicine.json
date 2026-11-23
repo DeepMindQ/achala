@@ -1,0 +1,258 @@
+{
+ "id": "PLT-sentinel-ov",
+ "title": "Tele Medicine Platform",
+ "url": "/platforms/telemedicine/",
+ "template": "platform_overview",
+ "breadcrumb": "Platforms > Tele Medicine Platform > Overview",
+ "seo_title": "Tele Medicine Platform | Achala IT Solutions",
+ "meta_description": "Security architecture you can evidence — for humans, machines and models.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "AI-driven remote evaluation, diagnosis and treatment — one platform for virtual care at scale."
+  },
+  {
+   "t": "h2",
+   "x": "What it is"
+  },
+  {
+   "t": "p",
+   "x": "Tele Medicine Platform unifies our security delivery: zero-trust enforcement points (identity, posture, segmentation, workload identity), detection-as-code with ATT&CK coverage, cloud posture guardrails, and the AI-specific layer — prompt-injection defense, agent containment, shadow-AI discovery and model security cards. Sentinel is engineered for the evidence economy: controls mapped across SOC 2, ISO 27001, NIST 800-207, DORA and AI regimes, tested continuously, exported to auditors. Boards get measured trust reduction, not adjectives."
+  },
+  {
+   "t": "h2",
+   "x": "What goes live, and in what order"
+  },
+  {
+   "t": "p",
+   "x": "Tele Medicine Platform: the build decomposes into named pieces, each with an owner and a gate,"
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Zero-trust enforcement",
+     "identity, posture, segmentation, workload identity"
+    ],
+    [
+     "Detection-as-code",
+     "versioned rules with CI testing"
+    ],
+    [
+     "Posture guardrails",
+     "policy-as-code with fix-the-pipeline flows"
+    ],
+    [
+     "AI defense layer",
+     "injection filtering, containment, red-teaming"
+    ],
+    [
+     "Identity plane",
+     "workforce/CIAM/machine lifecycle"
+    ],
+    [
+     "Evidence exports",
+     "multi-framework control mapping"
+    ]
+   ]
+  },
+  {
+   "t": "arch",
+   "title": "Tele Medicine Platform — module topology",
+   "lanes": [
+    "Ingest",
+    "Core",
+    "Delivery",
+    "Trust"
+   ],
+   "nodes": [
+    {
+     "id": "in1",
+     "lane": 0,
+     "label": "Adapters & contracts",
+     "hot": false
+    },
+    {
+     "id": "in2",
+     "lane": 0,
+     "label": "SIEM/XDR",
+     "hot": false
+    },
+    {
+     "id": "c1",
+     "lane": 1,
+     "label": "Zero-trust enforcement",
+     "hot": true
+    },
+    {
+     "id": "c2",
+     "lane": 1,
+     "label": "Detection-as-code",
+     "hot": false
+    },
+    {
+     "id": "d1",
+     "lane": 2,
+     "label": "Posture guardrails",
+     "hot": false
+    },
+    {
+     "id": "d2",
+     "lane": 2,
+     "label": "AI defense layer",
+     "hot": false
+    },
+    {
+     "id": "t1",
+     "lane": 3,
+     "label": "Evidence packs",
+     "hot": false
+    },
+    {
+     "id": "t2",
+     "lane": 3,
+     "label": "Purple-team validated",
+     "hot": false
+    }
+   ],
+   "edges": [
+    {
+     "a": "in1",
+     "b": "c1"
+    },
+    {
+     "a": "in2",
+     "b": "c1"
+    },
+    {
+     "a": "c1",
+     "b": "c2"
+    },
+    {
+     "a": "c1",
+     "b": "d1"
+    },
+    {
+     "a": "c2",
+     "b": "d2"
+    },
+    {
+     "a": "d1",
+     "b": "t1"
+    },
+    {
+     "a": "d2",
+     "b": "t2"
+    }
+   ],
+   "note": "Modules are the platform's named components; trust lane is what the audit reads."
+  },
+  {
+   "t": "h2",
+   "x": "The security posture"
+  },
+  {
+   "t": "p",
+   "x": "Sentinel assumes breach and designs for audit: purple-team validation of segmentation, restore-tested backups, AI red-team suites with findings-to-fix tracking. The platform's own controls are ISO/IEC 27001 audited and ISO 27001 certified."
+  },
+  {
+   "t": "bullets",
+   "items": [
+    [
+     "Purple-team validated",
+     "segmentation proven in exercises"
+    ],
+    [
+     "AI red-teaming",
+     "OWASP LLM Top 10 mapped suites"
+    ],
+    [
+     "Continuous evidence",
+     "auditor-ready on demand"
+    ],
+    [
+     "AI asset registry",
+     "shadow-AI discovery included"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "In delivery, sector by sector"
+  },
+  {
+   "t": "p",
+   "x": "Tele Medicine Platform runs under NDA in Banking & Financial Services, Healthcare & Life Sciences, Energy & Utilities, Public Sector & Government, Technology & SaaS. Deployments stay private; the architecture and control packs are the part we can show."
+  },
+  {
+   "t": "h2",
+   "x": "The technology choices, justified"
+  },
+  {
+   "t": "p",
+   "x": "Connects to: SIEM/XDR, SPIFFE/SPIRE, OPA, IdPs/IGA, CNAPP tooling. Adapters are versioned and contract-tested, so upgrades stop being incidents."
+  },
+  {
+   "t": "cta",
+   "x": "The next step is small and real: one working session on Tele Medicine Platform, your data, and a written feasibility read you can circulate."
+  }
+ ],
+ "words": 304,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Tele Medicine Platform",
+ "l3": "Overview",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Tele Medicine Platform",
+   "url": null
+  },
+  {
+   "name": "Overview",
+   "url": "/platforms/telemedicine/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Tele Medicine Platform — Overview",
+   "url": "/platforms/telemedicine/",
+   "desc": "Zero-Trust & AI Security Platform"
+  },
+  {
+   "title": "Tele Medicine Platform — Architecture & Trust",
+   "url": "/platforms/telemedicine/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Tele Medicine Platform — Industry Use Cases",
+   "url": "/platforms/telemedicine/use-cases/",
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A tier-1 US bank",
+   "url": "/case-studies/bank-03/",
+   "desc": "DORA-grade resilience posture — third-party and incident evidence automated"
+  },
+  {
+   "title": "A European TSO-DSO group",
+   "url": "/case-studies/en-01/",
+   "desc": "Forecast error down 31% — imbalance cost recovered across three control zones"
+  },
+  {
+   "title": "A national tax administration",
+   "url": "/case-studies/pub-02/",
+   "desc": "Fraud and error capture up 26% — cross-source analytics with investigator case packs"
+  },
+  {
+   "title": "A metropolitan city government",
+   "url": "/case-studies/pub-03/",
+   "desc": "Fault-to-fix down 63% and street-light energy down 22% — urban asset platform"
+  }
+ ],
+ "cards": []
+}

@@ -4,8 +4,8 @@
  "url": "/industries/education-research/",
  "template": "industry_hub",
  "breadcrumb": "Industries > Education & Research",
- "seo_title": "Education & Research | Industry | Dataq Software",
- "meta_description": "Dataq Software programs for Education & Research: priority use cases, regulatory posture and delivery model.",
+ "seo_title": "Education & Research | Industry | Achala IT Solutions",
+ "meta_description": "Achala IT Solutions programs for Education & Research: priority use cases, regulatory posture and delivery model.",
  "blocks": [
   {
    "t": "hero",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The constraints are real: student-privacy regimes (FERPA/GDPR-K class), accessibility mandates, academic-integrity governance, research-data ethics, and budget cycles that punish stranded investments. Technology must respect pedagogy and governance, not bulldoze them — which is why Dataq Software co-designs every deployment with faculty governance and student bodies."
+   "x": "The constraints are real: student-privacy regimes (FERPA/GDPR-K class), accessibility mandates, academic-integrity governance, research-data ethics, and budget cycles that punish stranded investments. Technology must respect pedagogy and governance, not bulldoze them — which is why Achala IT Solutions co-designs every deployment with faculty governance and student bodies."
   },
   {
    "t": "h2",

@@ -4,8 +4,8 @@
  "url": "/services/data-analytics-lakehouse/lakehouse-architecture/",
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Lakehouse Architecture & Migration",
- "seo_title": "Lakehouse Architecture & Migration | Dataq Software",
- "meta_description": "Lakehouse Architecture & Migration from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Lakehouse Architecture & Migration | Achala IT Solutions",
+ "meta_description": "Lakehouse Architecture & Migration from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -249,7 +249,7 @@
    "items": [
     [
      "Data Monetization & Analytics Products",
-     "The Dataq Software build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
+     "The Achala IT Solutions build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
     ],
     [
      "Data Engineering & Pipeline Modernization",
@@ -257,7 +257,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ]
    ]
   },
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "Lakehouse Architecture & Migration follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Lakehouse Architecture & Migration follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",
@@ -286,7 +286,7 @@
     ],
     [
      "Data Monetization & Analytics Products",
-     "The Dataq Software build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
+     "The Achala IT Solutions build of Data Monetization & Analytics Products: concrete interfaces at core systems, measured movement on new revenue line, and a."
     ],
     [
      "Contact Center & Conversational Transformation",

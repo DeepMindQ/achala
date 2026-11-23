@@ -1,15 +1,15 @@
 {
  "id": "PLT-forge-uc",
- "title": "Dataq Forge — Industry Use Cases",
- "url": "/platforms/forge/use-cases/",
+ "title": "Fleet Management System — Industry Use Cases",
+ "url": "/platforms/fms/use-cases/",
  "template": "platform_usecases",
- "breadcrumb": "Platforms > Dataq Forge > Industry Use Cases",
- "seo_title": "Dataq Forge — Industry Use Cases | Dataq Software",
- "meta_description": "How Dataq Forge is deployed across industries: banking, insurance, retail, healthcare and more.",
+ "breadcrumb": "Platforms > Fleet Management System > Industry Use Cases",
+ "seo_title": "Fleet Management System — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How Fleet Management System is deployed across industries: banking, insurance, retail, healthcare and more.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The contract behind Dataq Forge — Industry Use Cases: signed baseline in week two, working slice by week eight, industrialized controls by week twelve, and evidence flowing to your control owner throughout."
+   "x": "The contract behind Fleet Management System — Industry Use Cases: signed baseline in week two, working slice by week eight, industrialized controls by week twelve, and evidence flowing to your control owner throughout."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "table",
-   "caption": "Dataq Forge across industries",
+   "caption": "Fleet Management System across industries",
    "headers": [
     "Industry",
     "Pattern",
@@ -63,7 +63,7 @@
   {
    "t": "diagram",
    "kind": "pipeline",
-   "title": "Dataq Forge — reference flow in production",
+   "title": "Fleet Management System — reference flow in production",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -80,7 +80,7 @@
   },
   {
    "t": "p",
-   "x": "The build sequence is deliberate: contracts and identity first, the working decision slice second, the verification harness third — because a Dataq Forge — Industry Use Cases capability without its eval gate is just another unattended automation."
+   "x": "The build sequence is deliberate: contracts and identity first, the working decision slice second, the verification harness third — because a Fleet Management System — Industry Use Cases capability without its eval gate is just another unattended automation."
   },
   {
    "t": "bullets",
@@ -192,7 +192,7 @@
   },
   {
    "t": "p",
-   "x": "We run Dataq Forge — Industry Use Cases in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing."
+   "x": "We run Fleet Management System — Industry Use Cases in gates: each one reviews measured deltas against the signed baseline with your named owners in the room, and each one can stop the program. That is the discipline most enterprise programs are missing."
   },
   {
    "t": "cta",
@@ -202,7 +202,7 @@
  "words": 491,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Forge",
+ "l2": "Fleet Management System",
  "l3": "Industry Use Cases",
  "l4": "",
  "crumbs": [
@@ -211,28 +211,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Forge",
+   "name": "Fleet Management System",
    "url": null
   },
   {
    "name": "Industry Use Cases",
-   "url": "/platforms/forge/use-cases/"
+   "url": "/platforms/fms/use-cases/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Forge — Overview",
-   "url": "/platforms/forge/",
+   "title": "Fleet Management System — Overview",
+   "url": "/platforms/fms/",
    "desc": "Data & Lakehouse Engineering Platform"
   },
   {
-   "title": "Dataq Forge — Architecture & Trust",
-   "url": "/platforms/forge/architecture/",
+   "title": "Fleet Management System — Architecture & Trust",
+   "url": "/platforms/fms/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Forge — Industry Use Cases",
-   "url": "/platforms/forge/use-cases/",
+   "title": "Fleet Management System — Industry Use Cases",
+   "url": "/platforms/fms/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

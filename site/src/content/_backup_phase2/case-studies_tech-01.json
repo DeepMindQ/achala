@@ -4,7 +4,7 @@
  "url": "/case-studies/tech-01/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Technology & SaaS > A B2B SaaS platform (Series D)",
- "seo_title": "A B2B SaaS platform (Series D) | Case Study | Dataq Software",
+ "seo_title": "A B2B SaaS platform (Series D) | Case Study | Achala IT Solutions",
  "meta_description": "Lead time down 58%, AI margin protected — platform engineering plus AI factory.",
  "blocks": [
   {
@@ -42,7 +42,7 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "A B2B SaaS platform (Series D) uses the standard Dataq delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
+   "x": "A B2B SaaS platform (Series D) uses the standard Achala delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
   },
   {
    "t": "h2",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: Cloud, Edge & Platform Engineering, Applied AI & Generative AI, Cybersecurity & Zero-Trust. Platforms: Dataq Forge, Dataq Compass, Dataq Sentinel."
+   "x": "Towers: Cloud, Edge & Platform Engineering, Applied AI & Generative AI, Cybersecurity & Zero-Trust. Platforms: Fleet Management System, Driisti Smart Vision Glasses, Tele Medicine Platform."
   },
   {
    "t": "h2",

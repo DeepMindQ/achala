@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/red-hat/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Red Hat",
- "seo_title": "Red Hat Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on Red Hat: OpenShift platforms, platform engineering and hybrid operations.",
+ "seo_title": "Red Hat Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on Red Hat: OpenShift platforms, platform engineering and hybrid operations.",
  "words": 407,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with Red Hat: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with Red Hat: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Red Hat — joint delivery topology with Dataq Software",
+   "title": "Red Hat — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Industrial Equipment & Machinery > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Industrial Equipment & Machinery",
- "meta_description": "Data & Lakehouse for Industrial Equipment & Machinery: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Data & Lakehouse for Industrial Equipment & Machinery: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Data & Lakehouse for Industrial Equipment & Machinery means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per production line outcomes measured against your audited baseline."
+   "x": "What Data & Lakehouse for Industrial Equipment & Machinery means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per production line outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -82,7 +82,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ]
    ]
   },
@@ -241,7 +241,7 @@
     ],
     [
      "Manufacturing & Industrial",
-     "The Dataq Software build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical."
+     "The Achala IT Solutions build of Manufacturing & Industrial: concrete interfaces at MES layers, measured movement on Unplanned downtime on critical."
     ]
    ]
   },

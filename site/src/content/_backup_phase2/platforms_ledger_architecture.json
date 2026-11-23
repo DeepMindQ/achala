@@ -1,15 +1,15 @@
 {
  "id": "PLT-ledger-ar",
- "title": "Dataq Ledger — Architecture & Trust",
- "url": "/platforms/ledger/architecture/",
+ "title": "Patient Priority Portal — Architecture & Trust",
+ "url": "/platforms/patient-portal/architecture/",
  "template": "platform_architecture",
- "breadcrumb": "Platforms > Dataq Ledger > Architecture & Trust",
- "seo_title": "Dataq Ledger — Architecture & Trust | Dataq Software",
- "meta_description": "Architecture, security posture and compliance evidence for Dataq Ledger — Distributed Trust & Tokenization Platform from Dataq Software.",
+ "breadcrumb": "Platforms > Patient Priority Portal > Architecture & Trust",
+ "seo_title": "Patient Priority Portal — Architecture & Trust | Achala IT Solutions",
+ "meta_description": "Architecture, security posture and compliance evidence for Patient Priority Portal — Distributed Trust & Tokenization Platform from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Dataq Ledger — Architecture & Trust means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
+   "x": "What Patient Priority Portal — Architecture & Trust means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per workflow outcomes measured against your audited baseline."
   },
   {
    "t": "h2",
@@ -22,7 +22,7 @@
   {
    "t": "diagram",
    "kind": "layered-stack",
-   "title": "Dataq Ledger — plane and service layers",
+   "title": "Patient Priority Portal — plane and service layers",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -36,7 +36,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "Dataq Ledger — deployment topology and flow",
+   "title": "Patient Priority Portal — deployment topology and flow",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -146,7 +146,7 @@
      "Deployed inside your tenancy, your keys, your logs — the default for regulated estates."
     ],
     [
-     "Dataq managed",
+     "Achala managed",
      "Operated by us under contract — SLOs published, changes gated, your auditors given a walkthrough path."
     ],
     [
@@ -192,7 +192,7 @@
  "words": 459,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Ledger",
+ "l2": "Patient Priority Portal",
  "l3": "Architecture & Trust",
  "l4": "",
  "crumbs": [
@@ -201,28 +201,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Ledger",
+   "name": "Patient Priority Portal",
    "url": null
   },
   {
    "name": "Architecture & Trust",
-   "url": "/platforms/ledger/architecture/"
+   "url": "/platforms/patient-portal/architecture/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Ledger — Overview",
-   "url": "/platforms/ledger/",
+   "title": "Patient Priority Portal — Overview",
+   "url": "/platforms/patient-portal/",
    "desc": "Distributed Trust & Tokenization Platform"
   },
   {
-   "title": "Dataq Ledger — Architecture & Trust",
-   "url": "/platforms/ledger/architecture/",
+   "title": "Patient Priority Portal — Architecture & Trust",
+   "url": "/platforms/patient-portal/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Ledger — Industry Use Cases",
-   "url": "/platforms/ledger/use-cases/",
+   "title": "Patient Priority Portal — Industry Use Cases",
+   "url": "/platforms/patient-portal/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

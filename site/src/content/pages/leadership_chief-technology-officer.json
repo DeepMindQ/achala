@@ -4,8 +4,8 @@
  "url": "/leadership/chief-technology-officer/",
  "template": "leadership_profile",
  "breadcrumb": "Home > About Us > Leadership > Chief Technology Officer",
- "seo_title": "Chief Technology Officer | Leadership | Dataq Software",
- "meta_description": "Chief Technology Officer at Dataq Software — Owns the eight-platform architecture, engineering standards and the responsible-AI framework.",
+ "seo_title": "Chief Technology Officer | Leadership | Achala IT Solutions",
+ "meta_description": "Chief Technology Officer at Achala IT Solutions — Owns the eight-platform architecture, engineering standards and the responsible-AI framework.",
  "words": 216,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Chief Technology Officer mandate at Dataq Software: keep deliveries predictable, keep evidence honest, and stay personally reachable to the clients those deliveries serve."
+   "x": "The Chief Technology Officer mandate at Achala IT Solutions: keep deliveries predictable, keep evidence honest, and stay personally reachable to the clients those deliveries serve."
   },
   {
    "t": "h2",
@@ -119,15 +119,15 @@
   {
    "title": "Chief Delivery Officer",
    "url": "/leadership/chief-delivery-officer/",
-   "desc": "Runs the four global delivery centers and the first-90-days engagement machinery."
+   "desc": "Runs the global delivery centers in Hyderabad, Munich and Sofia and the first-90-days engagement machinery."
   },
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": "The firm in numbers."
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing."
   }
@@ -140,10 +140,10 @@
    "desc": "Outcomes over output; evidence first; engineered autonomy."
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "tag": "Careers",
-   "desc": "Evidence-based hiring across four delivery centers."
+   "desc": "Evidence-based hiring across global delivery centers in Hyderabad, Munich and Sofia."
   }
  ]
 }

@@ -14,13 +14,13 @@ def find(t, x_sub):
     raise SystemExit(f"not found: {t} / {x_sub[:40]}")
 
 find("hero", "Ambition")["x"] = (
-    "Ambition, engineered. Outcomes, proven. Dataq Software is a global IT services, consulting and business "
+    "Ambition, engineered. Outcomes, proven. Achala IT Solutions is a global IT services, consulting and business "
     "solutions partner. We consult, build and run the technology your business depends on — from ERP and cloud to "
     "AI and data — powered by our own patented methods and platforms, with every program measured on a metric your "
     "board already tracks."
 )
 find("p", "2,400+ engineers")["x"] = (
-    "Dataq Software is a global IT services, consulting and business solutions partner, with a worldwide team of "
+    "Achala IT Solutions is a global IT services, consulting and business solutions partner, with a worldwide team of "
     "engineers, consultants and domain specialists backed by dedicated delivery centers across three continents. We "
     "consult on strategy, build and modernize the systems that run your business, and operate them day to day — "
     "always with named owners, signed baselines and evidence your auditors can walk."
@@ -70,7 +70,7 @@ find("p", "Delivery runs on a")["x"] = (
 )
 
 d["meta_description"] = (
-    "Dataq Software is a global IT services, consulting and business solutions partner — from ERP and cloud to AI "
+    "Achala IT Solutions is a global IT services, consulting and business solutions partner — from ERP and cloud to AI "
     "and data — powered by patented delivery IP and gated on signed metrics. SOC 2 · ISO 27001."
 )
 

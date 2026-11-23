@@ -4,8 +4,8 @@
  "url": "/partner-ecosystem/sap/",
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > SAP",
- "seo_title": "SAP Alliance | Dataq Software",
- "meta_description": "What Dataq Software engineers on SAP: Enterprise-core modernization and RISE-era data programs.",
+ "seo_title": "SAP Alliance | Achala IT Solutions",
+ "meta_description": "What Achala IT Solutions engineers on SAP: Enterprise-core modernization and RISE-era data programs.",
  "words": 404,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software alliance with SAP: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "The Achala IT Solutions alliance with SAP: what is certified, how joint deliveries run, and the scenarios this page can be held to."
   },
   {
    "t": "h2",
@@ -42,7 +42,7 @@
   {
    "t": "diagram",
    "kind": "edge-topology",
-   "title": "SAP — joint delivery topology with Dataq Software",
+   "title": "SAP — joint delivery topology with Achala IT Solutions",
    "labels": [
     "Source systems",
     "Ingest & contracts",

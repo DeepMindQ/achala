@@ -4,12 +4,12 @@
  "url": "/industries/insurance/property-casualty/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Insurance & Risk > Property & Casualty",
- "seo_title": "Property & Casualty | Dataq Software",
+ "seo_title": "Property & Casualty | Achala IT Solutions",
  "meta_description": "P&C economics live in two moments: pricing the risk before the event and handling the claim after it.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Property & Casualty means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 claims outcomes measured against your audited baseline."
+   "x": "What Property & Casualty means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per 1,000 claims outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

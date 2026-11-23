@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Compass",
+     "label": "Driisti Smart Vision Glasses",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Talent, Skills & Workforce Intelligence composes Dataq Nexus, Dataq Compass — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Banking & Financial Services, Education & Research, Healthcare & Life Sciences."
+   "x": "Talent, Skills & Workforce Intelligence composes EEMS Platform, Driisti Smart Vision Glasses — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Technology & SaaS, Banking & Financial Services, Education & Research, Healthcare & Life Sciences."
   },
   {
    "t": "h2",

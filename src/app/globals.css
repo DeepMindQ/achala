@@ -43,21 +43,21 @@
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
 
-  /* ── DataQ Soft brand system (sampled from dataq_logo.png) ─────────────
-     Orange block #FE5722 · navy wordmark #18142D · white.
+  /* ── Achala IT Solutions brand system (sampled from achala_logo.png) ─────────────
+     Orange block #d20000 · navy wordmark #2b5672 · white.
      The invented cyan/teal tokens were removed in Wave 1 (CHG-007).     */
-  --color-brand: #fe5722;          /* DataQ Orange — primary accent       */
-  --color-brand-hover: #e04a17;    /* button hover                        */
-  --color-brand-deep: #c2410c;     /* text-safe orange on white (AA)      */
-  --color-brand-300: #fe9c77;      /* text-safe orange on navy (AA)       */
-  --color-brand-tint: #fff3ee;     /* soft backgrounds / washes           */
+  --color-brand: #d20000;          /* Achala Red — primary accent       */
+  --color-brand-hover: #a80000;    /* button hover                        */
+  --color-brand-deep: #8f0000;     /* text-safe orange on white (AA)      */
+  --color-brand-300: #ff9d96;      /* text-safe orange on navy (AA)       */
+  --color-brand-tint: #fdecec;     /* soft backgrounds / washes           */
 
-  --color-navy-950: #0f0c20;       /* deepest fields, gradient ends       */
-  --color-navy-900: #14102a;       /* footer / utility bars               */
-  --color-navy-800: #18142d;       /* primary dark surface (wordmark)     */
-  --color-navy-700: #221d3a;       /* elevated dark panels, glass cards   */
-  --color-navy-600: #2c2648;       /* borders/dividers on dark            */
-  --color-navy-500: #3a3358;       /* muted dark accents                  */
+  --color-navy-950: #0e2230;       /* deepest fields, gradient ends       */
+  --color-navy-900: #16334a;       /* footer / utility bars               */
+  --color-navy-800: #2b5672;       /* primary dark surface (wordmark)     */
+  --color-navy-700: #3a6983;       /* elevated dark panels, glass cards   */
+  --color-navy-600: #477a95;       /* borders/dividers on dark            */
+  --color-navy-500: #568aa6;       /* muted dark accents                  */
 
   --color-mist: #f6f7fb;           /* alternating light sections          */
   --color-line: #e5e7f0;           /* hairlines and card borders          */
@@ -78,37 +78,37 @@
   /* z-index scale (CHG-090): header 50 · mega 40 · overlay 100 · toast 200 */
   --radius: 0.625rem;
   --background: #ffffff;
-  --foreground: #18142d;
+  --foreground: #2b5672;
   --card: #ffffff;
-  --card-foreground: #18142d;
+  --card-foreground: #2b5672;
   --popover: #ffffff;
-  --popover-foreground: #18142d;
-  --primary: #fe5722;
+  --popover-foreground: #2b5672;
+  --primary: #d20000;
   --primary-foreground: #ffffff;
   --secondary: #f6f7fb;
-  --secondary-foreground: #18142d;
+  --secondary-foreground: #2b5672;
   --muted: #f6f7fb;
   --muted-foreground: #6e6987;
-  --accent: #fff3ee;
-  --accent-foreground: #c2410c;
+  --accent: #fdecec;
+  --accent-foreground: #8f0000;
   --destructive: #dc2626;
   --border: #e5e7f0;
   --input: #e5e7f0;
-  --ring: #fe5722;
+  --ring: #d20000;
   /* chart palette: orange, navy, slate, amber, steel (CHG-028) */
-  --chart-1: #fe5722;
-  --chart-2: #221d3a;
+  --chart-1: #d20000;
+  --chart-2: #3a6983;
   --chart-3: #94a3b8;
   --chart-4: #f59e0b;
   --chart-5: #475569;
   --sidebar: #f6f7fb;
-  --sidebar-foreground: #18142d;
-  --sidebar-primary: #fe5722;
+  --sidebar-foreground: #2b5672;
+  --sidebar-primary: #d20000;
   --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: #fff3ee;
-  --sidebar-accent-foreground: #c2410c;
+  --sidebar-accent: #fdecec;
+  --sidebar-accent-foreground: #8f0000;
   --sidebar-border: #e5e7f0;
-  --sidebar-ring: #fe5722;
+  --sidebar-ring: #d20000;
 }
 
 @layer base {
@@ -189,25 +189,25 @@
 
 /* ── Sanctioned gradients (CHG-035) — ad-hoc gradients prohibited ────── */
 .grad-navy-field {
-  background-image: linear-gradient(160deg, #221d3a 0%, #18142d 55%, #0f0c20 100%);
+  background-image: linear-gradient(160deg, #3a6983 0%, #2b5672 55%, #0e2230 100%);
 }
 .grad-orange-glow {
-  background-image: radial-gradient(58% 85% at 82% 10%, rgba(254, 87, 34, 0.22) 0%, rgba(254, 87, 34, 0) 62%);
+  background-image: radial-gradient(58% 85% at 82% 10%, rgba(210, 0, 0, 0.22) 0%, rgba(210, 0, 0, 0) 62%);
 }
 .grad-orange-glow-soft {
-  background-image: radial-gradient(46% 70% at 12% 88%, rgba(254, 87, 34, 0.13) 0%, rgba(254, 87, 34, 0) 58%);
+  background-image: radial-gradient(46% 70% at 12% 88%, rgba(210, 0, 0, 0.13) 0%, rgba(210, 0, 0, 0) 58%);
 }
 .grad-sweep {
-  background-image: linear-gradient(118deg, rgba(254, 87, 34, 0.16) 0%, rgba(254, 87, 34, 0) 46%);
+  background-image: linear-gradient(118deg, rgba(210, 0, 0, 0.16) 0%, rgba(210, 0, 0, 0) 46%);
 }
 
 /* ── Dark-band pattern library (CHG-089 / CHG-015) ───────────────────── */
 .dot-grid {
-  background-image: radial-gradient(rgba(254, 87, 34, 0.16) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(210, 0, 0, 0.16) 1px, transparent 1px);
   background-size: 22px 22px;
 }
 .dot-grid-light {
-  background-image: radial-gradient(rgba(24, 20, 45, 0.1) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(43, 86, 114, 0.1) 1px, transparent 1px);
   background-size: 22px 22px;
 }
 .pattern-hatch {
@@ -219,7 +219,7 @@
 }
 .pattern-mesh {
   background-image:
-    radial-gradient(42% 60% at 84% 18%, rgba(254, 87, 34, 0.18) 0%, transparent 60%),
+    radial-gradient(42% 60% at 84% 18%, rgba(210, 0, 0, 0.18) 0%, transparent 60%),
     radial-gradient(38% 52% at 8% 86%, rgba(58, 51, 88, 0.55) 0%, transparent 62%);
 }
 .pattern-noise {
@@ -250,13 +250,13 @@
 
 /* ── Elevation tokens, navy-tinted (CHG-050) ─────────────────────────── */
 .shadow-1 {
-  box-shadow: 0 1px 2px rgba(24, 20, 45, 0.06), 0 4px 12px rgba(24, 20, 45, 0.06);
+  box-shadow: 0 1px 2px rgba(43, 86, 114, 0.06), 0 4px 12px rgba(43, 86, 114, 0.06);
 }
 .shadow-2 {
-  box-shadow: 0 10px 28px -14px rgba(24, 20, 45, 0.28);
+  box-shadow: 0 10px 28px -14px rgba(43, 86, 114, 0.28);
 }
 .shadow-3 {
-  box-shadow: 0 24px 60px -16px rgba(24, 20, 45, 0.35);
+  box-shadow: 0 24px 60px -16px rgba(43, 86, 114, 0.35);
 }
 
 /* ── Scroll reveal (unchanged mechanics, brand motion tokens) ────────── */
@@ -391,7 +391,7 @@
 
 /* ── Selection + scrollbar (CHG-014 / CHG-092) ───────────────────────── */
 ::selection {
-  background: rgba(254, 87, 34, 0.28);
+  background: rgba(210, 0, 0, 0.28);
 }
 * {
   scrollbar-width: thin;

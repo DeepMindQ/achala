@@ -4,7 +4,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "src/components/site/Logo.tsx",
   "Change item": "Delete invented cyan hexagon logo mark",
-  "Specification": "Current Logo.tsx renders a self-invented hexagon-with-Q mark in cyan #22D3EE that exists nowhere in the real brand. Remove the whole SVG mark and rebuild from the authentic dataq_logo.png reference.",
+  "Specification": "Current Logo.tsx renders a self-invented hexagon-with-Q mark in cyan #22D3EE that exists nowhere in the real brand. Remove the whole SVG mark and rebuild from the authentic achala_logo.png reference.",
   "Priority": "P0"
  },
  {
@@ -12,7 +12,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "Logo.tsx + public/logo.svg",
   "Change item": "Recreate authentic lockup as crisp SVG",
-  "Specification": "Rebuild the lockup as SVG: orange #FE5722 block with white lowercase 'dataq'; adjacent navy #18142D lowercase 'software' whose 'o' is the same orange dot. Match letterforms, weight and spacing of the supplied PNG.",
+  "Specification": "Rebuild the lockup as SVG: orange #d20000 block with white lowercase 'achala'; adjacent navy #2b5672 lowercase 'software' whose 'o' is the same red dot. Match letterforms, weight and spacing of the supplied PNG.",
   "Priority": "P0"
  },
  {
@@ -44,7 +44,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "layout.tsx metadata",
   "Change item": "Icon links + theme-color",
-  "Specification": "Add icon sizes, apple-touch-icon and theme-color #18142D to metadata so tabs, iOS home screen and browser chrome carry the brand.",
+  "Specification": "Add icon sizes, apple-touch-icon and theme-color #2b5672 to metadata so tabs, iOS home screen and browser chrome carry the brand.",
   "Priority": "P0"
  },
  {
@@ -60,7 +60,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "globals.css",
   "Change item": "Add official orange token ramp",
-  "Specification": "Add --color-brand-orange #FE5722 plus a 12-step ramp (50 #FFF3EE ... 900 #7A1F00) as the primary accent system.",
+  "Specification": "Add --color-brand-orange #d20000 plus a 12-step ramp (50 #fdecec ... 900 #7A1F00) as the primary accent system.",
   "Priority": "P0"
  },
  {
@@ -68,7 +68,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "globals.css",
   "Change item": "Add official navy token ramp",
-  "Specification": "Add --color-brand-navy #18142D plus ramp (900 #0F0C20, 800 #18142D, 700 #221D3A, 600 #2C2648, 500 #3A3358) for all dark surfaces.",
+  "Specification": "Add --color-brand-navy #2b5672 plus ramp (900 #0e2230, 800 #2b5672, 700 #3a6983, 600 #477a95, 500 #568aa6) for all dark surfaces.",
   "Priority": "P0"
  },
  {
@@ -92,7 +92,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "Buttons",
   "Change item": "Primary action becomes orange",
-  "Specification": "All primary CTAs (header, hero, CTA band, forms) switch to solid orange #FE5722; hover deepens to #E04A17; label color per approved contrast pairing matrix.",
+  "Specification": "All primary CTAs (header, hero, CTA band, forms) switch to solid orange #d20000; hover deepens to #a80000; label color per approved contrast pairing matrix.",
   "Priority": "P0"
  },
  {
@@ -100,7 +100,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "Links",
   "Change item": "Accent color rules for links",
-  "Specification": "Inline links navy by default with orange-deep #C2410C hover; active nav marker orange; breadcrumb current page orange-deep for AA contrast on white.",
+  "Specification": "Inline links navy by default with orange-deep #8f0000 hover; active nav marker orange; breadcrumb current page orange-deep for AA contrast on white.",
   "Priority": "P0"
  },
  {
@@ -108,7 +108,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "Selection + focus",
   "Change item": "Recolor selection and focus ring",
-  "Specification": "::selection becomes rgba(254,87,34,0.28); focus-visible ring becomes 2px orange, offset 2. Both are currently cyan.",
+  "Specification": "::selection becomes rgba(210, 0, 0,0.28); focus-visible ring becomes 2px orange, offset 2. Both are currently cyan.",
   "Priority": "P0"
  },
  {
@@ -116,7 +116,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "dot-grid texture",
   "Change item": "Recolor background textures",
-  "Specification": "Radial dot grid on dark bands recolors from cyan to rgba(254,87,34,0.16) on navy; light sections get a navy-dot variant.",
+  "Specification": "Radial dot grid on dark bands recolors from cyan to rgba(210, 0, 0,0.16) on navy; light sections get a navy-dot variant.",
   "Priority": "P1"
  },
  {
@@ -132,7 +132,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "PWA",
   "Change item": "Manifest + installable icons",
-  "Specification": "Add manifest.json with brand name, theme #18142D, background #FFFFFF and the new icon set.",
+  "Specification": "Add manifest.json with brand name, theme #2b5672, background #FFFFFF and the new icon set.",
   "Priority": "P2"
  },
  {
@@ -204,7 +204,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "A11y",
   "Change item": "Logo accessibility",
-  "Specification": "role=img + aria-label 'DataQ Soft home'; decorative sub-text hidden from assistive tech; wrapping link labeled.",
+  "Specification": "role=img + aria-label 'Achala IT Solutions home'; decorative sub-text hidden from assistive tech; wrapping link labeled.",
   "Priority": "P1"
  },
  {
@@ -332,7 +332,7 @@
   "Category": "A - Brand Identity & Logo",
   "Scope": "Approval gate",
   "Change item": "Pixel-match sign-off vs real logo",
-  "Specification": "Side-by-side render of implemented header/footer logo vs dataq_logo.png at 100% zoom for client sign-off before Wave 2 starts.",
+  "Specification": "Side-by-side render of implemented header/footer logo vs achala_logo.png at 100% zoom for client sign-off before Wave 2 starts.",
   "Priority": "P0"
  },
  {
@@ -396,7 +396,7 @@
   "Category": "B - Design System & Tokens",
   "Scope": "Shadows",
   "Change item": "Elevation tokens recolored",
-  "Specification": "Three shadow tokens re-tinted navy rgba(24,20,45,x); current shadows are cyan-tinted rgba(27,107,122,0.4) which reads off-brand.",
+  "Specification": "Three shadow tokens re-tinted navy rgba(43, 86, 114,x); current shadows are cyan-tinted rgba(27,107,122,0.4) which reads off-brand.",
   "Priority": "P0"
  },
  {

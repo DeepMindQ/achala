@@ -4,8 +4,8 @@
  "url": "/leadership/chief-financial-officer/",
  "template": "leadership_profile",
  "breadcrumb": "Home > About Us > Leadership > Chief Financial Officer",
- "seo_title": "Chief Financial Officer | Leadership | Dataq Software",
- "meta_description": "Chief Financial Officer at Dataq Software — Owns group finance, the outcome-linked revenue model and investor reporting.",
+ "seo_title": "Chief Financial Officer | Leadership | Achala IT Solutions",
+ "meta_description": "Chief Financial Officer at Achala IT Solutions — Owns group finance, the outcome-linked revenue model and investor reporting.",
  "words": 199,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "What the Chief Financial Officer office owns at Dataq Software: delivery standards, the quality bar behind every committed metric, and a direct line for client executives."
+   "x": "What the Chief Financial Officer office owns at Achala IT Solutions: delivery standards, the quality bar behind every committed metric, and a direct line for client executives."
   },
   {
    "t": "h2",
@@ -122,12 +122,12 @@
    "desc": "Owns the zero-exposure architecture, security operations and compliance posture."
   },
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": "The firm in numbers."
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing."
   }
@@ -140,7 +140,7 @@
    "desc": "Outcomes over output; evidence first; engineered autonomy."
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "tag": "Careers",
    "desc": "Evidence-based hiring across four delivery centers."

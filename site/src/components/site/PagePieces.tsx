@@ -334,7 +334,7 @@ export function ContentPage({ page }: { page: PageData }) {
             </Link>
           )}
           <p className="mt-8 border-t border-line pt-4 text-[11px] text-slate-body/55">
-            Maintained by the Dataq Software practice council · Last reviewed 2026-11 ·
+            Maintained by the Achala IT Solutions practice council · Last reviewed 2026-11 ·
             {" "}
             <Link href="/html-sitemap/" className="hover:text-brand-deep">
               Sitemap
@@ -391,7 +391,7 @@ function cardsHeading(template: string): string {
     services_hub: "The eight expertise domains",
     industries_hub: "Twelve industries, one operating discipline",
     solutions_hub: "24 outcome-linked solutions",
-    platforms_hub: "The Dataq platform portfolio",
+    platforms_hub: "The Achala platform portfolio",
     cases_hub: "The case index",
     insights_hub: "Insight categories",
     expertise_hub: "Services in this expertise domain",

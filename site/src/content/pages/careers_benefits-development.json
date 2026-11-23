@@ -4,8 +4,8 @@
  "url": "/careers/benefits-development/",
  "template": "careers_page",
  "breadcrumb": "Home > About Us > Careers > Benefits & Development",
- "seo_title": "Benefits & Development | Careers | Dataq Software",
- "meta_description": "Benefits & Development at Dataq Software — Compensation, certification tracks, rotation programs and the skills ladder that treats AI-era capability as.",
+ "seo_title": "Benefits & Development | Careers | Achala IT Solutions",
+ "meta_description": "Benefits & Development at Achala IT Solutions — Compensation, certification tracks, rotation programs and the skills ladder that treats AI-era capability as.",
  "words": 166,
  "section": "Company",
  "l1": "About Us",
@@ -15,7 +15,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Compensation, benefits and the development machinery at Dataq Software — stated plainly, because benefits you cannot understand are benefits you cannot use."
+   "x": "Compensation, benefits and the development machinery at Achala IT Solutions — stated plainly, because benefits you cannot understand are benefits you cannot use."
   },
   {
    "t": "h2",
@@ -51,7 +51,7 @@
   },
   {
    "t": "cta",
-   "x": "Ready when you are: the careers inbox is careers@dataqsoft.com, and every application gets a written reply."
+   "x": "Ready when you are: the careers inbox is careers@achalasolutions.com, and every application gets a written reply."
   }
  ],
  "crumbs": [
@@ -76,7 +76,7 @@
   {
    "title": "Careers — overview",
    "url": "/careers/",
-   "desc": "Evidence-based hiring across four delivery centers."
+   "desc": "Evidence-based hiring across global delivery centers in Hyderabad, Munich and Sofia."
   },
   {
    "title": "Working Here",

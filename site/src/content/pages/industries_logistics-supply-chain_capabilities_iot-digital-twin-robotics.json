@@ -5,7 +5,7 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Logistics & Supply Chain",
- "meta_description": "IoT, Twin & Robotics for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "IoT, Twin & Robotics for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "One more IoT, Twin & Robotics reality in Logistics & Supply Chain: Dataq Software builds the flow stack: event-driven visibility across TMS/WMS/telematics, agentic dispatch and exception resolution, yard and dock orchestration, computer vision for damage and load verification, network twins for scenario planning, and provenance networks for compliance-grade chain-of-custody."
+   "x": "One more IoT, Twin & Robotics reality in Logistics & Supply Chain: Achala IT Solutions builds the flow stack: event-driven visibility across TMS/WMS/telematics, agentic dispatch and exception resolution, yard and dock orchestration, computer vision for damage and load verification, network twins for scenario planning, and provenance networks for compliance-grade chain-of-custody."
   },
   {
    "t": "h2",

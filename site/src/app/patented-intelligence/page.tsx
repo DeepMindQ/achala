@@ -7,9 +7,9 @@ import { CtaBand } from "@/components/site/PagePieces";
 import { PATENTS } from "@/lib/patents";
 
 export const metadata: Metadata = {
-  title: "Patented Intelligence — the methods behind Dataq Software delivery",
+  title: "Accelerators — the methods behind Achala IT Solutions delivery",
   description:
-    "Eight patented method families — graph-native contextual intelligence, quantum-inspired optimization, federated trust, validated ethical decisions, generative workflow orchestration — power every Dataq Software engagement.",
+    "Eight proprietary method families — graph-native contextual intelligence, quantum-inspired optimization, federated trust, validated ethical decisions, generative workflow orchestration — power every Achala IT Solutions engagement.",
   alternates: { canonical: "/patented-intelligence/" },
 };
 
@@ -26,7 +26,7 @@ export default function PatentedIntelligencePage() {
                 <Link href="/" className="hover:text-white/85">Home</Link>
               </li>
               <li aria-hidden="true">›</li>
-              <li className="font-medium text-brand-300">Patented Intelligence</li>
+              <li className="font-medium text-brand-300">Accelerators</li>
             </ol>
           </nav>
           <div className="measure mt-6">
@@ -34,11 +34,11 @@ export default function PatentedIntelligencePage() {
               Intellectual property foundation
             </p>
             <h1 className="text-display-2 mt-2 max-w-3xl text-white">
-              Patented intelligence, hardened in production.
+              Accelerators, hardened in production.
             </h1>
             <p className="mt-4 text-[15px] leading-relaxed text-white/70">
               Eight proprietary method families developed by our research programme form the IP
-              foundation of the Dataq platform portfolio. Each method below is in production use:
+              foundation of the Achala platform portfolio. Each method below is in production use:
               it runs inside named platforms, under named controls, measured at every delivery
               gate.
             </p>
@@ -64,8 +64,8 @@ export default function PatentedIntelligencePage() {
         <Reveal>
           <p className="mx-auto mb-10 max-w-3xl px-4 text-center text-[14px] leading-relaxed text-slate-body/75">
             Every family maps to platforms and service domains you can open directly — the chips under
-            each card link to them. Capability summaries are engineering distillations of the patent
-            specifications; claims language stays with the filings.
+            each card link to them. Capability summaries are engineering distillations of the method
+            families; client-specific extensions are agreed per engagement.
           </p>
         </Reveal>
         <PatentGrid />
@@ -73,8 +73,8 @@ export default function PatentedIntelligencePage() {
           <Reveal>
             <div className="flex items-start gap-2.5 rounded-xl border border-brand/30 bg-brand-tint px-4 py-3 text-[12.5px] leading-relaxed text-slate-body/90">
               <ShieldCheck className="mt-0.5 h-4 w-4 shrink-0 text-brand-deep" aria-hidden="true" />
-              The method families summarized here are protected intellectual property of the
-              Dataq Software research programme. Capability summaries are engineering distillations;
+              The method families summarized here are proprietary intellectual property of the
+              Achala IT Solutions engineering organization. Capability summaries are engineering distillations;
               full technical documentation is available to clients under NDA for due diligence.
             </div>
           </Reveal>

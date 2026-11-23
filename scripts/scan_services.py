@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scan the Services section of the DataQ site: pages, depth, structure."""
+"""Scan the Services section of the Achala site: pages, depth, structure."""
 import os, json, glob, re
 
 SITE = '/home/z/my-project/site'

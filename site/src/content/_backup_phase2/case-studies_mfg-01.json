@@ -4,7 +4,7 @@
  "url": "/case-studies/mfg-01/",
  "template": "case_study",
  "breadcrumb": "Case Studies > Manufacturing & Industrial > A global automotive OEM",
- "seo_title": "A global automotive OEM | Case Study | Dataq Software",
+ "seo_title": "A global automotive OEM | Case Study | Achala IT Solutions",
  "meta_description": "OEE +7.2 points across 14 plants — sensor fabric to scheduling decisions.",
  "blocks": [
   {
@@ -42,7 +42,7 @@
   },
   {
    "t": "h2",
-   "x": "What Dataq Software built"
+   "x": "What Achala IT Solutions built"
   },
   {
    "t": "p",
@@ -54,7 +54,7 @@
   },
   {
    "t": "p",
-   "x": "A global automotive OEM uses the standard Dataq delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
+   "x": "A global automotive OEM uses the standard Achala delivery pattern — nothing bespoke about the governance, everything bespoke about the design. That split is deliberate."
   },
   {
    "t": "h2",
@@ -79,7 +79,7 @@
   },
   {
    "t": "p",
-   "x": "Towers: IoT, Digital Twin & Robotics, Agentic AI & Hyperautomation, Data, Analytics & Lakehouse, Cybersecurity & Zero-Trust. Platforms: Dataq Twinverse, Dataq Swarm, Dataq Forge."
+   "x": "Towers: IoT, Digital Twin & Robotics, Agentic AI & Hyperautomation, Data, Analytics & Lakehouse, Cybersecurity & Zero-Trust. Platforms: BI & Analytics Platform, KYC Management System, Fleet Management System."
   },
   {
    "t": "h2",

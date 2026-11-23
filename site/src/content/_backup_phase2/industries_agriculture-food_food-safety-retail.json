@@ -4,12 +4,12 @@
  "url": "/industries/agriculture-food/food-safety-retail/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Agriculture & Food Systems > Food Safety & Food Retail",
- "seo_title": "Food Safety & Food Retail | Dataq Software",
+ "seo_title": "Food Safety & Food Retail | Achala IT Solutions",
  "meta_description": "Food retail carries the consumer-facing safety duty: fresh-chain quality, supplier verification, recall readiness and waste economics.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Food Safety & Food Retail means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per field outcomes measured against your audited baseline."
+   "x": "What Food Safety & Food Retail means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per field outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

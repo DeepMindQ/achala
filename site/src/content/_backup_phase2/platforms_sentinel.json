@@ -1,15 +1,15 @@
 {
  "id": "PLT-sentinel-ov",
- "title": "Dataq Sentinel — Overview",
- "url": "/platforms/sentinel/",
+ "title": "Tele Medicine Platform — Overview",
+ "url": "/platforms/telemedicine/",
  "template": "platform_overview",
- "breadcrumb": "Platforms > Dataq Sentinel > Overview",
- "seo_title": "Dataq Sentinel — Overview | Dataq Software",
+ "breadcrumb": "Platforms > Tele Medicine Platform > Overview",
+ "seo_title": "Tele Medicine Platform — Overview | Achala IT Solutions",
  "meta_description": "Security architecture you can evidence — for humans, machines and models.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Dataq Software build of Dataq Sentinel — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "The Achala IT Solutions build of Tele Medicine Platform — Overview: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Dataq Sentinel unifies our security delivery: zero-trust enforcement points (identity, posture, segmentation, workload identity), detection-as-code with ATT&CK coverage, cloud posture guardrails, and the AI-specific layer — prompt-injection defense, agent containment, shadow-AI discovery and model security cards."
+   "x": "Tele Medicine Platform unifies our security delivery: zero-trust enforcement points (identity, posture, segmentation, workload identity), detection-as-code with ATT&CK coverage, cloud posture guardrails, and the AI-specific layer — prompt-injection defense, agent containment, shadow-AI discovery and model security cards."
   },
   {
    "t": "h2",
@@ -26,7 +26,7 @@
   {
    "t": "diagram",
    "kind": "decision-fabric",
-   "title": "Dataq Sentinel — control and evidence planes",
+   "title": "Tele Medicine Platform — control and evidence planes",
    "labels": [
     "Source systems",
     "Ingest & contracts",
@@ -39,7 +39,7 @@
   },
   {
    "t": "p",
-   "x": "The reference pattern behind Dataq Sentinel — Overview is boring on purpose: contracts at every boundary, an owner per component, and evidence captured where the work happens. Boring architecture is what survives contact with an audit."
+   "x": "The reference pattern behind Tele Medicine Platform — Overview is boring on purpose: contracts at every boundary, an owner per component, and evidence captured where the work happens. Boring architecture is what survives contact with an audit."
   },
   {
    "t": "h2",
@@ -205,7 +205,7 @@
   },
   {
    "t": "p",
-   "x": "Teams adopt Dataq Sentinel — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
+   "x": "Teams adopt Tele Medicine Platform — Overview one decision at a time — first the one with budget attached, then the neighbors that share its data. The pattern spreads on measured deltas."
   },
   {
    "t": "cta",
@@ -215,7 +215,7 @@
  "words": 553,
  "section": "Platforms",
  "l1": "Platforms",
- "l2": "Dataq Sentinel",
+ "l2": "Tele Medicine Platform",
  "l3": "Overview",
  "l4": "",
  "crumbs": [
@@ -224,28 +224,28 @@
    "url": "/platforms/"
   },
   {
-   "name": "Dataq Sentinel",
+   "name": "Tele Medicine Platform",
    "url": null
   },
   {
    "name": "Overview",
-   "url": "/platforms/sentinel/"
+   "url": "/platforms/telemedicine/"
   }
  ],
  "related": [
   {
-   "title": "Dataq Sentinel — Overview",
-   "url": "/platforms/sentinel/",
+   "title": "Tele Medicine Platform — Overview",
+   "url": "/platforms/telemedicine/",
    "desc": "Zero-Trust & AI Security Platform"
   },
   {
-   "title": "Dataq Sentinel — Architecture & Trust",
-   "url": "/platforms/sentinel/architecture/",
+   "title": "Tele Medicine Platform — Architecture & Trust",
+   "url": "/platforms/telemedicine/architecture/",
    "desc": "Architecture, controls and evidence trails."
   },
   {
-   "title": "Dataq Sentinel — Industry Use Cases",
-   "url": "/platforms/sentinel/use-cases/",
+   "title": "Tele Medicine Platform — Industry Use Cases",
+   "url": "/platforms/telemedicine/use-cases/",
    "desc": "Where the platform is in production."
   },
   {

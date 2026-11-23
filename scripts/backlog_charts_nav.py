@@ -88,7 +88,7 @@ P3 = [
     ("P3", "In-page nav", "Reading progress bar on pages >1500 words; brand-orange 2px under header", "renderer", "Progress tracks scroll; zero CLS", "Low", "S", ""),
     ("P3", "In-page nav", "Back-to-top button appears after 800px scroll; keyboard reachable", "ui-bits", "Works on long pages; no overlap with chat/CTA", "Low", "S", ""),
     ("P3", "Footer", "Mega footer: towers column, industries column, platforms column, company column, contact block with offices + local times", "Footer component", "All 5 columns populated; links = real URLs", "High", "M", ""),
-    ("P3", "Footer", "Footer legal row: (c) Dataq Software Corporation, legal page links, no patent-owner geography anywhere", "Footer", "Banned-token scan green", "High", "S", ""),
+    ("P3", "Footer", "Footer legal row: (c) Achala IT Solutions Corporation, legal page links, no patent-owner geography anywhere", "Footer", "Banned-token scan green", "High", "S", ""),
     ("P3", "Footer", "Office cards: 4 delivery centers with city + focus + local time (client-side hour offset)", "Footer", "Times update on render; no hydration mismatch", "Low", "S", ""),
     ("P3", "Footer", "Certifications strip in footer: SOC 2 / ISO 27001 / ISO 9001 / GDPR+CCPA / HIPAA-ready / PCI / EU AI Act / NIST AI RMF as bordered chips", "Footer", "Chips match brand.json credentials 1:1", "Med", "S", ""),
     ("P3", "Footer", "Newsletter mini-form in footer + success state", "Footer", "Form validated; no duplicate with homepage band logic", "Low", "S", ""),

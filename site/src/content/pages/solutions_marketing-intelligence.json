@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Nexus",
+     "label": "EEMS Platform",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Compass",
+     "label": "Driisti Smart Vision Glasses",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Marketing Intelligence & CX Orchestration composes Dataq Nexus, Dataq Compass — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Telecom, Media & Entertainment, Technology & SaaS, Media."
+   "x": "Marketing Intelligence & CX Orchestration composes EEMS Platform, Driisti Smart Vision Glasses — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Retail & Consumer Goods, Telecom, Media & Entertainment, Technology & SaaS, Media."
   },
   {
    "t": "h2",

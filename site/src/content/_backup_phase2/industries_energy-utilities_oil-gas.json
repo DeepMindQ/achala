@@ -4,12 +4,12 @@
  "url": "/industries/energy-utilities/oil-gas/",
  "template": "subindustry_page",
  "breadcrumb": "Industries > Energy & Utilities > Oil & Gas",
- "seo_title": "Oil & Gas | Dataq Software",
+ "seo_title": "Oil & Gas | Achala IT Solutions",
  "meta_description": "Upstream and downstream operators run hazardous physics under volatile markets: predictive integrity, energy efficiency, trading precision and OT securi.",
  "blocks": [
   {
    "t": "hero",
-   "x": "What Oil & Gas means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per feeder outcomes measured against your audited baseline."
+   "x": "What Oil & Gas means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per feeder outcomes measured against your audited baseline."
   },
   {
    "t": "h2",

@@ -190,20 +190,20 @@ const STEERING_PANELS: { name: string; desc: string; sample: string; owner: stri
 /* A-58: the objections a buyer raises before the final CTA */
 const HOME_FAQ = [
   {
-    q: "What if the provability sprint kills our idea?",
-    a: "Then it worked. Some diagnostics end with a don't-build verdict — that is the sprint doing its job: you get the fail for the price of two weeks, with the evidence that killed it written down and a cheaper alternative path scored. What you never get is a program that drifts for a year before admitting the number is not moving.",
+    q: "How fast can a POC become production?",
+    a: "That is the arc we own end to end. A diagnostic sprint scopes the solution against your real data; the platform layer — EEMS, FMS, KYC, Tele Medicine, BI — arrives configured, not blank-page, so teams start near production readiness. Timelines depend on the estate, but the pattern is proven: hospital token systems, KYC flows and fleet platforms have gone from pilot to industrialized rollout with 24x7 operations behind them.",
   },
   {
-    q: "What do the gates actually block?",
-    a: "Anything that cannot show evidence. A release ships only when its gate metric moves against your signed baseline and the proof pack reconciles — replay parity for decisions, reconciliation deltas for migrations, containment drills for security, eval-harness scores for models. Missing evidence stops the program at the gate, not in production.",
+    q: "What does AI-first mean in an engagement, practically?",
+    a: "AI enters where it measurably helps: document analysis that cut loan processing from 3 days to 2 hours, queue prediction that slashed laboratory queues by 20-30%, telematics analytics that optimized workforce efficiency by up to 40%. Every model ships with its measured delta against your baseline — acceleration you can audit, not a claim.",
   },
   {
-    q: "Who owns the baseline?",
-    a: "Your side does. The baseline is signed by your metric owner in week two and stays in your estate — we report against it every fortnight and never move it. If the metric owner changes, the baseline is re-signed before work continues; the audit trail shows every signature.",
+    q: "Who delivers the work?",
+    a: "Practicing engineers led by the founders. 300+ people — including 200+ IT specialists — deliver from Hyderabad (HQ), Munich and Sofia, with the Achala Sulzer partnership giving European clients a fair-shoring continuity model. The team that scopes your POC is the team that industrializes it.",
   },
   {
-    q: "How does the patented-IP differential work commercially?",
-    a: "The method families and platforms are licensed inside the engagement fee — there is no separate IP purchase to start. You get the pre-configured baseline, the evidence generation and the delivery patterns from day one. Accelerators we build specifically for you can carry co-ownership terms, and your baseline, gates and audit trail stay in your estate throughout.",
+    q: "How do you handle compliance for regulated industries?",
+    a: "Automotive and healthcare clients operate under ISO/IEC 27001 and TISAX with GDPR-aligned delivery. Controls, access and data residency are engineered into the pod from day one — including 24x7 operations with audited SLAs — so audit season reads your evidence instead of reconstructing it.",
   },
 ];
 
@@ -282,7 +282,7 @@ export default function HomeView() {
     { id: "output", label: "Delivery output" },
     { id: "services", label: "Services" },
     { id: "consulting", label: "Consulting" },
-    { id: "patents", label: "IP differential" },
+    { id: "patents", label: "Accelerators" },
     { id: "platforms", label: "Platforms" },
     { id: "evidence", label: "Evidence" },
     { id: "value", label: "Charter" },
@@ -316,34 +316,35 @@ export default function HomeView() {
             <Reveal className="hero-choreo">
               {/* A-02: category chips, TCS-boilerplate vocabulary — the descriptor lives here, not in the H1 */}
               <p className="rise-item text-[12px] font-semibold uppercase tracking-[0.22em] text-brand-300" style={{ ["--rise-delay" as string]: "40ms" }}>
-                IT services · consulting · business solutions
+                AI acceleration · platform-driven delivery · full-cycle engineering
               </p>
               {/* A-01: brand line, not a category sentence — Infosys/TCS pattern (aspiration up top, category below) */}
               <h1 className="text-display-1 mt-4 max-w-3xl text-white">
                 <span className="line-mask block" style={{ ["--rise-delay" as string]: "120ms" }}>
-                  <span className="line-mask-inner block">Ambition, engineered.</span>
+                  <span className="line-mask-inner block">Intelligence, accelerated.</span>
                 </span>
                 <span className="line-mask block" style={{ ["--rise-delay" as string]: "260ms" }}>
                   <span className="line-mask-inner block">
-                    Outcomes, <span className="grad-text">proven</span>.
+                    Industries, <span className="grad-text">transformed</span>.
                   </span>
                 </span>
               </h1>
               {/* A-03: one promise sentence + one proof sentence */}
               <p className="rise-item measure mt-5 text-body-lg leading-relaxed text-white/70" style={{ ["--rise-delay" as string]: "560ms" }}>
-                Dataq Software partners with enterprises to consult, build and run the technology their business
-                depends on — from ERP and cloud to AI and data. Our own patented methods and platforms do the heavy
-                lifting from day one, and every program is measured on a metric your board already tracks.
+                Achala IT Solutions takes AI solutions from proof-of-concept to industrialized production — for Fortune
+                500 enterprises, SMEs and startups across mobility, healthcare, manufacturing and financial services.
+                Our own platforms do the heavy lifting from day one, and every engagement is measured on outcomes your
+                board already tracks.
               </p>
               {/* A-03: the three delivery vignettes, as a rotating proof line */}
               <div className="rise-item" style={{ ["--rise-delay" as string]: "620ms" }}>
                 <RotatingProof
                   lines={[
-                    "Fraud decided in milliseconds — with the evidence attached.",
-                    "ERP rollouts that land process, controls and cutover on one plan.",
-                    "Cloud estates re-platformed without a season of downtime.",
-                    "KYC backlogs cleared by governed agents.",
-                    "Data estates your auditors can walk alone.",
+                    "50,000+ emergency cases a day — dispatched by one AI platform.",
+                    "KYC verified in 5 minutes — not 30 days.",
+                    "Loan processing cut from 3 days to 2 hours.",
+                    "Laboratory queues reduced by 20-30% across hospital OPDs.",
+                    "Workforce efficiency up 40% through telematics analytics.",
                   ]}
                 />
               </div>
@@ -363,13 +364,13 @@ export default function HomeView() {
                 </Link>
               </div>
               <p className="rise-item mt-2 text-[12px] text-white/45" style={{ ["--rise-delay" as string]: "720ms" }}>
-                45 minutes with a practice lead — leave with your gate map scored.
+                45 minutes with a practice lead — leave with your acceleration path scoped.
               </p>
               {/* A-05: outcome proof instead of compliance badges, linking to the evidence */}
               <p className="rise-item mt-6 flex flex-wrap items-center gap-x-4 gap-y-2 text-[12.5px] text-white/65" style={{ ["--rise-delay" as string]: "780ms" }}>
                 <Link href="#evidence" className="inline-flex flex-wrap items-center gap-x-2 gap-y-1 hover:text-brand-300">
                   <ShieldCheck className="h-3.5 w-3.5 text-brand-300" aria-hidden="true" />
-                  <span className="font-semibold text-white/80">38% lower fraud losses · OEE +7.2 pts · 55% faster claims</span>
+                  <span className="font-semibold text-white/80">KYC 60% faster · lab queues −20-30% · loans 3 days → 2 hours</span>
                   <span className="text-white/45">— see the engagements</span>
                 </Link>
                 <span className="rounded-full border border-white/15 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-white/45">
@@ -389,7 +390,7 @@ export default function HomeView() {
         <div className="relative container-dq pb-12">
           <StatsStrip stats={brand.stats} />
           <p className="mt-2 text-right text-[10.5px] text-white/35">
-            Operating metrics from the illustrative reference program · engagement counts are delivery-to-date.
+            Company metrics are delivery-to-date · platform metrics are published client outcomes.
           </p>
         </div>
       </section>
@@ -400,9 +401,9 @@ export default function HomeView() {
           dark
           className="marquee-dark container-dq"
           items={[
-            "SOC 2 Type II", "ISO 27001", "ISO 9001", "GDPR & CCPA aligned", "Evidence-gated releases",
-            "Dataq Nexus", "Dataq Forge", "Dataq Swarm", "Dataq Sentinel", "Dataq Twinverse", "Dataq Quanta", "Dataq Ledger", "Dataq Compass",
-            "Patented method families", "Consulting · build · run", "IP-led delivery", "Global delivery centers",
+            "ISO/IEC 27001", "TISAX", "GDPR-aligned delivery", "NASSCOM AI Game Changers 2021",
+            "EEMS Platform", "Fleet Management System", "KYC Management System", "Tele Medicine Platform", "BI & Analytics Platform", "Token Management System", "Patient Priority Portal", "Driisti Smart Vision Glasses",
+            "POC to industrialization", "AI-first · platform-driven", "Global delivery — India · Germany · Bulgaria", "Sulzer GmbH partnership", "24x7 operations",
           ]}
         />
       </div>
@@ -473,7 +474,7 @@ export default function HomeView() {
                   Decision, action, data, trust, platform, compute, records, field — one of these seams is where your
                   P&amp;L leaks today, and deep-tech programs enter through a domain. Classic-estate work — migration,
                   engineering pods, Azure, ERP, managed operations — enters through consulting. Both tracks run the same
-                  release gates on the same patented platforms.
+                  release gates on the same production platforms.
                 </p>
               </div>
               <div className="flex flex-col items-start gap-1.5">
@@ -534,7 +535,7 @@ export default function HomeView() {
                     {/* A-39: the platform pairing */}
                     {t.plat && (
                       <span className="mt-2 text-[11px] font-medium text-slate-body/55">
-                        Pairs with Dataq {t.plat.replace("Dataq ", "")}
+                        Pairs with {t.plat}
                       </span>
                     )}
                     {/* A-20: count CTA */}
@@ -634,19 +635,19 @@ export default function HomeView() {
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
               <p className="kicker-bar text-[12px] font-semibold uppercase tracking-[0.2em] text-brand-deep">
-                The IP differential
+                The acceleration differential
               </p>
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
-                Patented methods — proven in production before they reach your program
+                AI accelerators — proven in production before they reach your program
               </h2>
               {/* A-32: the platforms named · A-28: the four-of-eight affordance */}
               <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                Ambition is common in this industry; proof is not. Every engagement starts from configured IP, not a
-                blank page and a staffing plan: graph-native contextual intelligence, quantum-inspired optimization,
-                federated trust, validated ethical decisions and self-evolving learning — developed by our research
-                programme and in production inside Nexus, Quanta, Forge, Sentinel and Ledger.{" "}
+                Ambition is common in this industry; production is not. Every engagement starts from configured
+                platforms, not a blank page and a staffing plan: AI-led dispatch and fleet readiness, document
+                intelligence for onboarding, queue prediction for hospital operations, connected-device engineering and
+                data platforms — hardened in production with clients like KIMS, AIG and European automotive groups.{" "}
                 <Link href="/patented-intelligence/" className="link-animated font-semibold text-brand-deep">
-                  A few of the method families are shown here — the method map lists them all with their gates.
+                  A few of the accelerator families are shown here — the acceleration map lists them all.
                 </Link>
               </p>
             </div>
@@ -727,12 +728,13 @@ export default function HomeView() {
                 Platforms
               </p>
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
-                The platforms that put the patented methods to work
+                The platforms that put the AI accelerators to work
               </h2>
               {/* A-37: the role line under the row */}
               <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
-                Nexus runs decisions · Forge runs data · Swarm runs agents · Sentinel guards access · Twinverse mirrors
-                operations · Quanta readies compute · Ledger anchors trust · Compass keeps AI inspectable.
+                EEMS runs emergency response · FMS keeps fleets ready · KYC onboards customers in minutes ·
+                Tele Medicine extends care · BI turns operations into decisions · Token Management clears queues ·
+                Patient Priority Portal personalizes care · Driisti restores sight.
               </p>
             </div>
             <Link
@@ -985,9 +987,9 @@ export default function HomeView() {
       {/* A-46: a client voice, anonymized from a published engagement note */}
       <section className="container-dq pt-12">
         <Quote
-          text="The gate map went into our audit pack unchanged."
-          attribution="COO, European retail bank"
-          role="Published engagement note — real-time fraud decisioning on instant rails"
+          text="Queues became visible, predictable and shorter — patients noticed within a quarter."
+          attribution="Operations lead, multi-speciality hospital group"
+          role="Published engagement note — AI-led token management across hospital OPDs"
         />
       </section>
 
@@ -1023,7 +1025,7 @@ export default function HomeView() {
 
       {/* closing CTA */}
       <section className="container-dq pb-16 pt-12">
-        <CtaBand message="Bring the metric you need to move — we will show you the method, the platform and the baseline we would sign." />
+        <CtaBand message="Bring the outcome you need — we will show you the accelerator, the platform and the plan we would sign." />
       </section>
     </>
   );

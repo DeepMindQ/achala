@@ -5,7 +5,7 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Water, Waste & City Utilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Water, Waste & City Utilities",
- "meta_description": "Data & Lakehouse for Water, Waste & City Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Data & Lakehouse for Water, Waste & City Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -78,7 +78,7 @@
     ],
     [
      "Real-Time Streaming & Event-Driven Decisioning",
-     "The Dataq Software build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
+     "The Achala IT Solutions build of Real-Time Streaming & Event-Driven Decisioning: concrete interfaces at core systems, measured movement on event-to-action."
     ],
     [
      "Enterprise BI & Executive Analytics",
@@ -241,7 +241,7 @@
     ],
     [
      "Energy & Utilities",
-     "The Dataq Software build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
+     "The Achala IT Solutions build of Energy & Utilities: concrete interfaces at SCADA / EMS cores, measured movement on Forecast error (wind/solar/demand)."
     ]
    ]
   },

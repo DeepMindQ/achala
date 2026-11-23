@@ -4,7 +4,7 @@
  "url": "/solutions/regulatory-compliance-automation/",
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Regulatory Compliance Automation",
- "seo_title": "Regulatory Compliance Automation | Solution | Dataq Software",
+ "seo_title": "Regulatory Compliance Automation | Solution | Achala IT Solutions",
  "meta_description": "Regulatory Compliance Automation — composed architecture, platform stack and the metric the program answers to.",
  "blocks": [
   {
@@ -104,13 +104,13 @@
     {
      "id": "p0",
      "lane": 2,
-     "label": "Dataq Compass",
+     "label": "Driisti Smart Vision Glasses",
      "hot": true
     },
     {
      "id": "p1",
      "lane": 2,
-     "label": "Dataq Sentinel",
+     "label": "Tele Medicine Platform",
      "hot": true
     },
     {
@@ -166,7 +166,7 @@
   },
   {
    "t": "p",
-   "x": "Regulatory Compliance Automation composes Dataq Compass, Dataq Sentinel — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Healthcare & Life Sciences, Technology & SaaS."
+   "x": "Regulatory Compliance Automation composes Driisti Smart Vision Glasses, Tele Medicine Platform — platforms with documented controls and evidence packs, so governance is part of the runtime. The pattern is in delivery now in Banking & Financial Services, Insurance & Risk, Healthcare & Life Sciences, Technology & SaaS."
   },
   {
    "t": "h2",

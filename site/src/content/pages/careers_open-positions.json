@@ -4,8 +4,8 @@
  "url": "/careers/open-positions/",
  "template": "careers_page",
  "breadcrumb": "Home > About Us > Careers > Open Positions",
- "seo_title": "Open Positions | Careers | Dataq Software",
- "meta_description": "Open Positions at Dataq Software — Roles across the eight domains, four delivery centers and the platform groups — with the hiring bar stated in.",
+ "seo_title": "Open Positions | Careers | Achala IT Solutions",
+ "meta_description": "Open Positions at Achala IT Solutions — Roles across the eight domains, four delivery centers and the platform groups — with the hiring bar stated in.",
  "words": 190,
  "section": "Company",
  "l1": "About Us",
@@ -15,7 +15,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Open roles at Dataq Software — delivery engineering across applied AI, data platforms, security, edge and cloud. Every listing names the team, the stack and the interview loop before you apply."
+   "x": "Open roles at Achala IT Solutions — delivery engineering across applied AI, data platforms, security, edge and cloud. Every listing names the team, the stack and the interview loop before you apply."
   },
   {
    "t": "h2",
@@ -51,7 +51,7 @@
   },
   {
    "t": "cta",
-   "x": "If the way we work reads like the way you work, careers@dataqsoft.com is the door — bring an artifact, not a cover letter."
+   "x": "If the way we work reads like the way you work, careers@achalasolutions.com is the door — bring an artifact, not a cover letter."
   }
  ],
  "crumbs": [
@@ -76,7 +76,7 @@
   {
    "title": "Careers — overview",
    "url": "/careers/",
-   "desc": "Evidence-based hiring across four delivery centers."
+   "desc": "Evidence-based hiring across global delivery centers in Hyderabad, Munich and Sofia."
   },
   {
    "title": "Working Here",

@@ -1,4 +1,4 @@
-// Generate: Dataq Website Content Audit & Change Register (.docx)
+// Generate: Achala Website Content Audit & Change Register (.docx)
 // Cover recipe R2 (Double-Rule Frame) per docx skill design-system.
 const {
   Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell,
@@ -13,7 +13,7 @@ const { C } = require("./audit_data_2.js");
 const { DS, E } = require("./audit_data_3.js");
 const { DP } = require("./audit_data_4.js");
 
-// ── Brand palette (DataQ: orange FE5722 + deep navy 18142D + white) ──
+// ── Brand palette (Achala: orange FE5722 + deep navy 18142D + white) ──
 const P = {
   bg: "18142D", accent: "FE5722",
   primary: "18142D", body: "1A1A1A", secondary: "5A5F6B",
@@ -459,7 +459,7 @@ function docHeader() {
     children: [new Paragraph({
       alignment: AlignmentType.RIGHT,
       border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: P.table.innerLine, space: 4 } },
-      children: [new TextRun({ text: "Dataq Software \u2014 Homepage & Services Content Audit", size: 16, color: P.secondary, font: EN })],
+      children: [new TextRun({ text: "Achala IT Solutions \u2014 Homepage & Services Content Audit", size: 16, color: P.secondary, font: EN })],
     })],
   });
 }
@@ -483,7 +483,7 @@ const frontMatter = [
 
 // ── Document ──
 const doc = new Document({
-  creator: "Dataq Software",
+  creator: "Achala IT Solutions",
   title: "Homepage & Services Content Audit \u2014 Change Register",
   styles: {
     default: {
@@ -513,7 +513,7 @@ const doc = new Document({
           "Homepage \u00b7 Services hub \u00b7 8 expertise hubs \u00b7 54 practice pages",
           "Phase 3 review gate \u2014 for approval before implementation",
         ],
-        footerRight: "Dataq Software \u00b7 November 2026",
+        footerRight: "Achala IT Solutions \u00b7 November 2026",
       }),
     },
     { // front matter
@@ -546,7 +546,7 @@ const doc = new Document({
 });
 
 Packer.toBuffer(doc).then((buf) => {
-  const out = "/home/z/my-project/download/Dataq_Content_Audit_Change_Register.docx";
+  const out = "/home/z/my-project/download/Achala_Content_Audit_Change_Register.docx";
   fs.writeFileSync(out, buf);
   console.log("written", out, (buf.length / 1024).toFixed(1) + " KB");
   const total = A.length + B.length + C.length + DS.length + DP.length + E.length;

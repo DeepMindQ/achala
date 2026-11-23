@@ -5,7 +5,7 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Last-Mile & Urban Logistics > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Last-Mile & Urban Logistics",
- "meta_description": "Quantum & Advanced Compute for Last-Mile & Urban Logistics: delivery pattern, compliance frame, platforms and committed outcomes from Dataq Software.",
+ "meta_description": "Quantum & Advanced Compute for Last-Mile & Urban Logistics: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
  "blocks": [
   {
    "t": "hero",
@@ -63,7 +63,7 @@
   },
   {
    "t": "p",
-   "x": "Under the hood the pattern is a composition, not a monolith: 3 tower services, the Dataq Forge platform for rails, and your estate at TMS execution for truth. Every boundary is a contract; every contract has an SLO and an owner."
+   "x": "Under the hood the pattern is a composition, not a monolith: 3 tower services, the Fleet Management System platform for rails, and your estate at TMS execution for truth. Every boundary is a contract; every contract has an SLO and an owner."
   },
   {
    "t": "h2",
@@ -78,7 +78,7 @@
     ],
     [
      "Post-Quantum Cryptography Migration",
-     "The Dataq Software build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
+     "The Achala IT Solutions build of Post-Quantum Cryptography Migration: concrete interfaces at core systems, measured movement on crypto inventory coverage."
     ],
     [
      "Quantum Machine Learning & Simulation",

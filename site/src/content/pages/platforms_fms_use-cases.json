@@ -1,0 +1,138 @@
+{
+ "id": "PLT-forge-uc",
+ "title": "Fleet Management System — Industry Use Cases",
+ "url": "/platforms/fms/use-cases/",
+ "template": "platform_usecases",
+ "breadcrumb": "Platforms > Fleet Management System > Industry Use Cases",
+ "seo_title": "Fleet Management System — Industry Use Cases | Achala IT Solutions",
+ "meta_description": "How Fleet Management System is deployed across industries: banking, insurance, retail, healthcare and more.",
+ "blocks": [
+  {
+   "t": "hero",
+   "x": "Where Fleet Management System earns its keep, industry by industry — the decision each sector routes through it, and what the deployment adds."
+  },
+  {
+   "t": "h2",
+   "x": "The workflows that feel it"
+  },
+  {
+   "t": "table",
+   "caption": "Fleet Management System — where it runs and what it does there",
+   "headers": [
+    "Industry",
+    "The decision routed through the platform",
+    "What the deployment adds"
+   ],
+   "rows": [
+    [
+     "Banking",
+     "One customer view across deposits, cards and loans",
+     "Certified definitions that end metric disputes"
+    ],
+    [
+     "Healthcare",
+     "Clinical, claims and operational data under one spine",
+     "PHI-safe pipelines with lineage to the field level"
+    ],
+    [
+     "Manufacturing",
+     "Plant telemetry and quality data unified",
+     "Freshness SLAs the operations floor trusts"
+    ],
+    [
+     "Retail",
+     "Demand, supply and loyalty data as one asset",
+     "Contract-governed quality before analytics runs"
+    ],
+    [
+     "Telecom",
+     "Network and customer data joined for decisioning",
+     "Cost-aware storage that survives the CFO"
+    ],
+    [
+     "Public sector",
+     "Cross-agency data under strict governance",
+     "Lineage that answers the transparency request"
+    ]
+   ]
+  },
+  {
+   "t": "h2",
+   "x": "What the weeks look like"
+  },
+  {
+   "t": "p",
+   "x": "Each Fleet Management System deployment starts with one decision class in production — not a program of twenty. The evidence pack grows with the rollout, so by the time the third use case goes live, the audit story is already routine."
+  },
+  {
+   "t": "h2",
+   "x": "How the operation actually works"
+  },
+  {
+   "t": "p",
+   "x": "Operators see Fleet Management System as one more decision surface with one difference: every recommendation carries its evidence, and every override is logged with a reason. The rollout order differs by industry; the operator experience does not — fewer surprises, faster answers, and a trail that makes the post-incident review short."
+  },
+  {
+   "t": "cta",
+   "x": "Talk to the team that runs a working session on Fleet Management System in production — the briefing is technical by design, and the first one costs nothing but the hour."
+  }
+ ],
+ "words": 254,
+ "section": "Platforms",
+ "l1": "Platforms",
+ "l2": "Fleet Management System",
+ "l3": "Industry Use Cases",
+ "l4": "",
+ "crumbs": [
+  {
+   "name": "Platforms",
+   "url": "/platforms/"
+  },
+  {
+   "name": "Fleet Management System",
+   "url": null
+  },
+  {
+   "name": "Industry Use Cases",
+   "url": "/platforms/fms/use-cases/"
+  }
+ ],
+ "related": [
+  {
+   "title": "Fleet Management System — Overview",
+   "url": "/platforms/fms/",
+   "desc": "Data & Lakehouse Engineering Platform"
+  },
+  {
+   "title": "Fleet Management System — Architecture & Trust",
+   "url": "/platforms/fms/architecture/",
+   "desc": "Architecture, controls and evidence trails."
+  },
+  {
+   "title": "Fleet Management System — Industry Use Cases",
+   "url": "/platforms/fms/use-cases/",
+   "desc": "Where the platform is in production."
+  },
+  {
+   "title": "A top-10 European retail bank",
+   "url": "/case-studies/bank-01/",
+   "desc": "Real-time fraud decisioning on instant rails — 38% lower fraud losses at a higher approval rate"
+  },
+  {
+   "title": "A multinational corporate bank",
+   "url": "/case-studies/bank-02/",
+   "desc": "KYC refresh backlog cleared — 70% faster cycles with agentic file assembly"
+  },
+  {
+   "title": "A top-5 global P&C insurer",
+   "url": "/case-studies/ins-01/",
+   "desc": "Claims triage in minutes — 55% faster cycle times with document intelligence"
+  },
+  {
+   "title": "A leading life insurer (North America)",
+   "url": "/case-studies/ins-02/",
+   "desc": "Underwriting evidence assembled in hours — case cycle time down 44%"
+  }
+ ],
+ "cards": []
+}

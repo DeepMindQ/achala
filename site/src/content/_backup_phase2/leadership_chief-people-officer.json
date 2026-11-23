@@ -4,8 +4,8 @@
  "url": "/leadership/chief-people-officer/",
  "template": "leadership_profile",
  "breadcrumb": "Home > About Us > Leadership > Chief People Officer",
- "seo_title": "Chief People Officer | Leadership | Dataq Software",
- "meta_description": "Chief People Officer at Dataq Software — Builds the talent system: hiring bars, guilds, and the AI-era skills ladder.",
+ "seo_title": "Chief People Officer | Leadership | Achala IT Solutions",
+ "meta_description": "Chief People Officer at Achala IT Solutions — Builds the talent system: hiring bars, guilds, and the AI-era skills ladder.",
  "words": 203,
  "section": "Company",
  "l1": "About Us",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Chief People Officer mandate at Dataq Software: keep deliveries predictable, keep evidence honest, and stay personally reachable to the clients those deliveries serve."
+   "x": "The Chief People Officer mandate at Achala IT Solutions: keep deliveries predictable, keep evidence honest, and stay personally reachable to the clients those deliveries serve."
   },
   {
    "t": "h2",
@@ -41,7 +41,7 @@
   },
   {
    "t": "p",
-   "x": "This office works with clients the way every Dataq delivery works: named teams, signed baselines, gates with evidence — with regional time zones covered by the pod, not by heroics."
+   "x": "This office works with clients the way every Achala delivery works: named teams, signed baselines, gates with evidence — with regional time zones covered by the pod, not by heroics."
   },
   {
    "t": "h2",
@@ -122,12 +122,12 @@
    "desc": "Owns the zero-exposure architecture, security operations and compliance posture."
   },
   {
-   "title": "About Dataq Software",
+   "title": "About Achala IT Solutions",
    "url": "/about-us/",
    "desc": "The firm in numbers."
   },
   {
-   "title": "Contact Dataq Software",
+   "title": "Contact Achala IT Solutions",
    "url": "/contact/",
    "desc": "Book a briefing."
   }
@@ -140,7 +140,7 @@
    "desc": "Outcomes over output; evidence first; engineered autonomy."
   },
   {
-   "title": "Careers at Dataq Software",
+   "title": "Careers at Achala IT Solutions",
    "url": "/careers/",
    "tag": "Careers",
    "desc": "Evidence-based hiring across four delivery centers."

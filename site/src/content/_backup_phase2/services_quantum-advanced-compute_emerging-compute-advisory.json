@@ -4,8 +4,8 @@
  "url": "/services/quantum-advanced-compute/emerging-compute-advisory/",
  "template": "service_page",
  "breadcrumb": "Services > Quantum & Advanced Compute > Neuromorphic & Emerging Compute Advisory",
- "seo_title": "Neuromorphic & Emerging Compute Advisory | Dataq Software",
- "meta_description": "Neuromorphic & Emerging Compute Advisory from Dataq Software: scope, delivery pattern, platforms and committed outcomes.",
+ "seo_title": "Neuromorphic & Emerging Compute Advisory | Achala IT Solutions",
+ "meta_description": "Neuromorphic & Emerging Compute Advisory from Achala IT Solutions: scope, delivery pattern, platforms and committed outcomes.",
  "blocks": [
   {
    "t": "hero",
@@ -253,7 +253,7 @@
     ],
     [
      "HPC & Simulation Engineering",
-     "What HPC & Simulation Engineering means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
+     "What HPC & Simulation Engineering means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
     ],
     [
      "Quantum Readiness & Strategy",
@@ -267,7 +267,7 @@
   },
   {
    "t": "p",
-   "x": "Neuromorphic & Emerging Compute Advisory follows the same delivery pattern as every Dataq program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
+   "x": "Neuromorphic & Emerging Compute Advisory follows the same delivery pattern as every Achala program — baseline, bounded pilot, gate review, then scale. The difference from a traditional program is that each step produces evidence your auditors can walk."
   },
   {
    "t": "h2",
@@ -282,7 +282,7 @@
    "items": [
     [
      "HPC & Simulation Engineering",
-     "What HPC & Simulation Engineering means at Dataq Software: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
+     "What HPC & Simulation Engineering means at Achala IT Solutions: the scope we sign, the architecture we ship, the evidence generated in-flight, and the per."
     ],
     [
      "Quantum Machine Learning & Simulation",

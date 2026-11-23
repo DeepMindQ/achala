@@ -589,7 +589,7 @@ export function ContentPage({ page }: { page: PageData }) {
               </Link>
             )}
             <p className="mt-8 border-t border-line pt-4 text-[11px] text-slate-body/55">
-              Maintained by the DataQ Soft practice council · Last reviewed 2026-11 ·
+              Maintained by the Achala IT Solutions practice council · Last reviewed 2026-11 ·
               {" "}
               <Link href="/html-sitemap/" className="hover:text-brand-deep">
                 Sitemap
@@ -640,7 +640,7 @@ function cardsHeading(template: string): string {
     services_hub: "Eight deep technology towers",
     industries_hub: "Twelve industries, one operating discipline",
     solutions_hub: "24 outcome-linked solutions",
-    platforms_hub: "The DataQ platform portfolio",
+    platforms_hub: "The Achala platform portfolio",
     cases_hub: "36 anonymized engagements",
     insights_hub: "Insight categories",
     tower_hub: "Services in this tower",
