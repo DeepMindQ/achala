@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Power Generation & Grid",
- "meta_description": "IoT, Twin & Robotics for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Power Generation & Grid in Energy & Utilities: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics answers Energy & Utilities pressure where it lands in Power Generation & Grid: CIP/62443 compliance load, week after week. The architectural answer: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Power Generation & Grid in Energy & Utilities: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the power generation & grid reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Power Generation & Grid, the recurring pressure points:"
+   "x": "Inside Power Generation & Grid, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring IoT, Twin & Robotics for Power Generation & Grid to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 460,
+ "words": 525,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

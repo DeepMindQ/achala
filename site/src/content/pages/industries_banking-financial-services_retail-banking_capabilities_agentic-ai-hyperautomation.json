@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Retail & Consumer Banking > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Retail & Consumer Banking",
- "meta_description": "Agentic AI & Hyperautomation for Retail & Consumer Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Banking in Banking & Financial Services: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Retail & Consumer Banking meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Retail & Consumer Banking, this is the standard the build is held to."
+   "x": "Retail & Consumer Banking in Banking & Financial Services: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the retail & consumer banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Retail & Consumer Banking, the queues and waits that come up first:"
+   "x": "Inside Retail & Consumer Banking, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -236,7 +236,7 @@
    "x": "Bring Agentic AI & Hyperautomation for Retail & Consumer Banking to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 587,
+ "words": 622,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

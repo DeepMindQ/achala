@@ -5,8 +5,8 @@
  "template": "newsroom_article",
  "breadcrumb": "Home > About Us > Newsroom > Achala IT Solutions launches its new digital platform",
  "seo_title": "Achala IT Solutions launches its new digital platform | Newsroom",
- "meta_description": "The new achalasolutions.com goes live with 600+ pages of industry- and service-aligned engineering content, reflecting the firm's eight technology domains.",
- "words": 220,
+ "meta_description": "Achala IT Solutions launches its new digital platform — official Achala IT Solutions newsroom.",
+ "words": 245,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
@@ -16,7 +16,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Company release from Achala IT Solutions: Achala IT Solutions launches its new digital platform. What shipped, why now, and what it means for active engagements."
+   "x": "Achala IT Solutions launches its new digital platform — official Achala IT Solutions newsroom. Announcements here reflect what has shipped or been certified, with dates and sources, in the company's own words."
   },
   {
    "t": "h2",

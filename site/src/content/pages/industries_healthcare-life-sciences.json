@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Healthcare & Life Sciences",
  "seo_title": "Healthcare & Life Sciences | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Healthcare & Life Sciences: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Healthcare technology has to be fast and defensible at the same time.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Healthcare generates the most consequential data in the economy and spends most of it unread. Radiology backlogs, prior-authorization ping-pong, coding leakage, clinical trial recruitment shortfalls, each is an information problem wearing an operational costume. The organizations improving outcomes are the ones treating data interoperability (FHIR, TEFCA-style exchange) and clinical-grade AI governance as infrastructure, not innovation theater."
+   "x": "Healthcare technology has to be fast and defensible at the same time. Achala's programs for Healthcare & Life Sciences run at state scale today: emergency response for 50,000+ daily cases, patient portals that cut laboratory queues 20-30%, telemedicine and assistive devices — all under HIPAA-grade and GxP-aware delivery."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "If programs in Healthcare & Life Sciences is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 521,
+ "words": 532,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

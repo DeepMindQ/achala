@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Process Industries & Chemicals > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Process Industries & Chemicals",
- "meta_description": "Data & Lakehouse for Process Industries & Chemicals: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Process Industries & Chemicals in Manufacturing & Industrial: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse is how Process Industries & Chemicals operations could run APC/advanced control without the process drift costs yield tax. The build: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Process Industries & Chemicals in Manufacturing & Industrial: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the process industries & chemicals reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Process Industries & Chemicals: the recurring pressure points,"
+   "x": "Inside Process Industries & Chemicals, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse for Process Industries & Chemicals baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 495,
+ "words": 549,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

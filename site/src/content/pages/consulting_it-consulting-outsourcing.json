@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "IT Consulting & Managed Capacity — Consulting | Achala IT Solutions",
- "meta_description": "IT Consulting & Managed Capacity: Senior capacity with accountability — scoped, governed and measurable. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "IT Consulting & Managed Capacity from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IT Consulting & Managed Capacity: Senior capacity with accountability, scoped, governed and measurable. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "IT Consulting & Managed Capacity from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Staff augmentation fails when the client carries all the management overhead. Our consulting and capacity model delivers senior engineers, architects and program leads inside a governed structure: named engagements with outcomes, a delivery lead accountable for the whole team, and knowledge transfer engineered into the rhythm rather than promised at the end. You buy outcomes and accountability; we carry the management load."
+   "x": "IT Consulting & Managed Capacity runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -208,7 +208,7 @@
    "x": "Book a IT Consulting & Managed Capacity briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 323,
+ "words": 333,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "IT Consulting & Managed Capacity",

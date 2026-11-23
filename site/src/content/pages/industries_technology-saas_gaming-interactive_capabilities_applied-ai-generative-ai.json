@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > Gaming & Interactive Media > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Gaming & Interactive Media",
- "meta_description": "Applied AI & GenAI for Gaming & Interactive Media: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Gaming & Interactive Media in Technology & SaaS: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Gaming & Interactive Media lives inside Player analytics, Live-ops and Trust & safety, paths that all carry decisions now. The work: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own. For Gaming & Interactive Media, this is the standard the build is held to."
+   "x": "Gaming & Interactive Media in Technology & SaaS: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the gaming & interactive media reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Gaming & Interactive Media: the places value leaks,"
+   "x": "Inside Gaming & Interactive Media, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Applied AI & GenAI for Gaming & Interactive Media, measured against your baseline, in two weeks."
   }
  ],
- "words": 479,
+ "words": 524,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Property & Casualty > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Property & Casualty",
- "meta_description": "Agentic AI & Hyperautomation for Property & Casualty: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Property & Casualty in Insurance & Risk: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Property & Casualty is how FNOL and claims triage and Estimate review and leakage control stop leaning on manual work, both decide the margin. The build: we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. That is the engineering behind Property & Casualty."
+   "x": "Property & Casualty in Insurance & Risk: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the property & casualty reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the places value leaks, Property & Casualty edition:"
+   "x": "Inside Property & Casualty, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -210,7 +210,7 @@
    "x": "Bring Agentic AI & Hyperautomation for Property & Casualty to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 525,
+ "words": 564,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

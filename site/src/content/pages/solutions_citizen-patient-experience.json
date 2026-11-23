@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Workforce & Experience > Citizen & Patient Experience Orchestration",
  "seo_title": "Citizen & Patient Experience Orchestration | Solution",
- "meta_description": "Citizen & Patient Experience Orchestration — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Citizen & Patient Experience Orchestration — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Citizen & Patient Experience Orchestration exists because a specific failure keeps repeating: citizens and patients repeat themselves across channels; journeys fragment at handoffs; accessibility and inclusion retrofit late."
+   "x": "Citizen & Patient Experience Orchestration — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "one working session on Citizen & Patient Experience Orchestration, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 354,
+ "words": 393,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Workforce & Experience",

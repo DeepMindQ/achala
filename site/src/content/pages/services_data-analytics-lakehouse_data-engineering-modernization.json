@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Data Engineering & Pipeline Modernization",
  "seo_title": "Data Engineering & Pipeline Modernization | Achala IT Solutions",
- "meta_description": "Pipeline modernization by strangler, not rewrite: parity-gated retirements, honest dual-run economics, recovered legacy logic and consumers managed as part of the program.",
+ "meta_description": "Data Engineering & Pipeline Modernization is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Legacy pipelines rebuilt as typed, contract-gated, observable jobs, moved on a strangler pattern that retires the old estate in waves, with dual-run diffs proving parity before every retirement."
+   "x": "Data Engineering & Pipeline Modernization is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Legacy data estates fail the same way: undocumented transformations, silent schema drift, weekend crashes with tribal fixes. Modernization is not lifting jobs into the cloud; it is re-contracting them, typed inputs, tested transforms, observable runs, and an owner per pipeline, while the old estate keeps serving under a strangler plan."
+   "x": "Data Engineering & Pipeline Modernization is delivered by an Achala practice team that stays through industrialization. Achala builds lakehouses with data contracts: producers and consumers agree on schema and quality, breaks are caught at the boundary, and every table carries an owner and a freshness target. Decisions downstream become defensible. Who this is for: CDOs and finance leaders who need numbers both sides sign, and teams tired of disputed data."
   },
   {
    "t": "p",
@@ -1502,10 +1502,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the pipeline nobody dares touch. The diagnostic will price its move with dual-run diffs included, and tell you what retirement would actually require."
+   "x": "Bring one data domain to an Achala briefing. We will show the contract, the pipeline design and the cost picture it would run under. The first session costs nothing but the hour."
   }
  ],
- "words": 1036,
+ "words": 1425,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

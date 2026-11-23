@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Public Safety & Justice | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Public Safety & Justice: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Safety & Justice in Public Sector & Government: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI against video triage overwhelming in Public Safety & Justice: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Public Safety & Justice in Public Sector & Government: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the public safety & justice reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Public Safety & Justice, named from the floor, not from a framework:"
+   "x": "Inside Public Safety & Justice, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Applied AI & GenAI for Public Safety & Justice, measured against your baseline, in two weeks."
   }
  ],
- "words": 483,
+ "words": 534,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

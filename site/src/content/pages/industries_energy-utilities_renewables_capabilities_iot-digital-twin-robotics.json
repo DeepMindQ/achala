@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Renewable Energy > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Renewable Energy | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Renewable Energy in Energy & Utilities: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Renewable Energy answers a daily gap: Fleet maintenance and Generation forecasting produce data faster than decisions. The structured answer: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "Renewable Energy in Energy & Utilities: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the renewable energy reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Renewable Energy: named from the floor, not from a framework,"
+   "x": "Inside Renewable Energy, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on IoT, Twin & Robotics for Renewable Energy, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 437,
+ "words": 483,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

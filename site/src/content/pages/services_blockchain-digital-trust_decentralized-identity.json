@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Blockchain & Digital Trust > Decentralized Identity & Verifiable Credentials",
  "seo_title": "Decentralized Identity & Verifiable Credentials | Achala IT Solutions",
- "meta_description": "Decentralized identity that works offline: governed issuers, wallets people keep, 150–260ms verification and a trust charter that prevents issuer lock-in and cold-start failure.",
+ "meta_description": "Decentralized Identity & Verifiable Credentials from Achala IT Solutions: shared-record networks and tokenized assets with governance your regulators can inspect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "DIDs and verifiable credentials that work offline: issuers governed by charter, holder wallets people keep using, selective disclosure that shares less, and revocation that actually propagates in minutes, verification in 210ms, without a phone call."
+   "x": "Decentralized Identity & Verifiable Credentials from Achala IT Solutions: shared-record networks and tokenized assets with governance your regulators can inspect. Part of the Blockchain & Digital Trust domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Decentralized identity delivers results when verification works without calling home: a credential presented offline, checked against cryptographic proofs, with selective disclosure so the holder shares the attribute and not the whole file. The engineering is the trust triangle done properly, issuer governance, holder experience, verifier SDKs."
+   "x": "Decentralized Identity & Verifiable Credentials is delivered by an Achala practice team that stays through industrialization. Achala runs permissioned networks where every participant sees the same truth and no one can change it alone. Consensus rules, key ceremonies and inspection exports are documented from day one — shared trust that survives an audit. Who this is for: CFOs and operations heads reconciling across organizations, and the regulators who demand inspection views."
   },
   {
    "t": "p",
@@ -1383,10 +1383,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the credential your sector keeps reinventing on paper. The diagnostic will draft the issuer charter and price what offline-verifiable credentials cost on your trust framework."
+   "x": "Bring one shared-record problem to an Achala briefing. We will show the network design, the consensus rules and the regulator views it produces."
   }
  ],
- "words": 945,
+ "words": 1327,
  "section": "Services",
  "l1": "Services",
  "l2": "Blockchain & Digital Trust",

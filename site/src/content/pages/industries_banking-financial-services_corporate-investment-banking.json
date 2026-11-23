@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Banking & Financial Services > Corporate & Investment Banking",
  "seo_title": "Corporate & Investment Banking | Achala IT Solutions",
- "meta_description": "CIB margins compress while deal complexity grows: origination research, credit memos, trade documentation and risk reporting all consume expensive analy.",
+ "meta_description": "Corporate & Investment Banking in Banking & Financial Services — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "CIB margins compress while deal complexity grows: origination research, credit memos, trade documentation and risk reporting all consume expensive analyst hours that agentic systems can compress, with the control discipline investment banks cannot compromise. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Corporate & Investment Banking in Banking & Financial Services — an Achala sector brief. every decision is regulated, every millisecond is margin, and every audit trail has to be complete This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in credit memo production, trade document handling, intraday risk aggregation, with client onboarding (institutional) close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Corporate & Investment Banking through the banking & financial services program stack: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "Start with the diagnostic, not the contract: operations in Corporate & Investment Banking baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 455,
+ "words": 475,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

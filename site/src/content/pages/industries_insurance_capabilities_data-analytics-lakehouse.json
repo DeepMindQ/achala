@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Insurance & Risk | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Insurance & Risk: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Insurance & Risk operators recognize the pattern: claims, policy and exposure data fragmented, quarter after quarter. Data & Lakehouse reaches the root: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Insurance & Risk: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Insurance & Risk: the recurring pressure points,"
+   "x": "Data, Analytics & Lakehouse in Insurance & Risk is delivered by an Achala practice team that stays through industrialization: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Bring Data & Lakehouse in Insurance & Risk to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 560,
+ "words": 622,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

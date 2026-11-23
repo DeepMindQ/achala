@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Retail & Consumer Goods",
- "meta_description": "IoT, Twin & Robotics for Retail & Consumer Goods: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Goods: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Retail & Consumer Goods operators recognize the pattern: shelf truth unknown, quarter after quarter. IoT, Twin & Robotics reaches the root: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board. That is the engineering behind Retail & Consumer Goods."
+   "x": "Retail & Consumer Goods: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points, Retail & Consumer Goods edition:"
+   "x": "IoT, Digital Twin & Robotics in Retail & Consumer Goods is delivered by an Achala practice team that stays through industrialization: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: IoT, Twin & Robotics in Retail & Consumer Goods, measured against your baseline, in two weeks."
   }
  ],
- "words": 549,
+ "words": 608,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

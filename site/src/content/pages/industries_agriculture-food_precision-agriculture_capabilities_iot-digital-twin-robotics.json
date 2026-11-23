@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Precision Agriculture & Agronomy > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Precision Agriculture & Agronomy",
- "meta_description": "IoT, Twin & Robotics for Precision Agriculture & Agronomy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Precision Agriculture & Agronomy in Agriculture & Food Systems: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics treats field sensing patchy in Precision Agriculture & Agronomy as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Precision Agriculture & Agronomy in Agriculture & Food Systems: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the precision agriculture & agronomy reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Precision Agriculture & Agronomy, the recurring pressure points:"
+   "x": "Inside Precision Agriculture & Agronomy, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Talk to the team that runs IoT, Twin & Robotics for Precision Agriculture & Agronomy in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 437,
+ "words": 506,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

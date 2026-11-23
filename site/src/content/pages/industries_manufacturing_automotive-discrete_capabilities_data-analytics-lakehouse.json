@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Automotive & Discrete Manufacturing > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Automotive & Discrete Manufacturing",
- "meta_description": "Data & Lakehouse for Automotive & Discrete Manufacturing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Automotive & Discrete Manufacturing lives inside Line changeover sequencing, Vision inspection and Predictive maintenance, paths that all carry decisions now. The work: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the automotive & discrete manufacturing reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Automotive & Discrete Manufacturing, where the friction concentrates:"
+   "x": "Inside Automotive & Discrete Manufacturing, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Data & Lakehouse for Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 530,
+ "words": 567,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

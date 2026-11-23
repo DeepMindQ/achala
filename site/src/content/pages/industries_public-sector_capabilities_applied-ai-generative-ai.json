@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Public Sector & Government > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Public Sector & Government",
- "meta_description": "Applied AI & GenAI for Public Sector & Government: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Sector & Government: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Public Sector & Government does not chase announcements; it delivers audited change, which means the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. Public Sector & Government is where this discipline pays."
+   "x": "Public Sector & Government: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Public Sector & Government: the recurring pressure points,"
+   "x": "Applied AI & Generative AI in Public Sector & Government is delivered by an Achala practice team that stays through industrialization: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "Bring Applied AI & GenAI in Public Sector & Government to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 554,
+ "words": 618,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

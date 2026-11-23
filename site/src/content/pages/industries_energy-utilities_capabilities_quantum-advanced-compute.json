@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Energy & Utilities",
- "meta_description": "Quantum & Advanced Compute for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Energy & Utilities: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what PQC over infrastructure lifetimes costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Energy & Utilities: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Energy & Utilities, the queues and waits that come up first:"
+   "x": "Quantum & Advanced Compute in Energy & Utilities is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Quantum & Advanced Compute in Energy & Utilities, measured against your baseline, in two weeks."
   }
  ],
- "words": 505,
+ "words": 557,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

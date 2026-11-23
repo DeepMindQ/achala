@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Corporate & Investment Banking > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Corporate & Investment Banking",
- "meta_description": "Data & Lakehouse for Corporate & Investment Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Corporate & Investment Banking in Banking & Financial Services: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Corporate & Investment Banking targets a specific gap: systems exist, but no governed path connects them, which is why analyst hours on document assembly still costs what it costs. The build closes it: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. For Corporate & Investment Banking, this is the standard the build is held to."
+   "x": "Corporate & Investment Banking in Banking & Financial Services: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the corporate & investment banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework, Corporate & Investment Banking edition:"
+   "x": "Inside Corporate & Investment Banking, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Corporate & Investment Banking, measured against your baseline, in two weeks."
   }
  ],
- "words": 611,
+ "words": 634,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

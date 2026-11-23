@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Food Safety & Food Retail > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Food Safety & Food Retail",
- "meta_description": "IoT, Twin & Robotics for Food Safety & Food Retail: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Food Safety & Food Retail in Agriculture & Food Systems: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics teams in Food Safety & Food Retail open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Food Safety & Food Retail in Agriculture & Food Systems: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the food safety & food retail reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Food Safety & Food Retail edition:"
+   "x": "Inside Food Safety & Food Retail, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If IoT, Twin & Robotics for Food Safety & Food Retail is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 423,
+ "words": 493,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

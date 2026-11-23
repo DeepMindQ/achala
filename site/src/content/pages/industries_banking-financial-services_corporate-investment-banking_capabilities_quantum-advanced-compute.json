@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Corporate & Investment Banking > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Corporate & Investment…",
- "meta_description": "Quantum & Advanced Compute for Corporate & Investment Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Corporate & Investment Banking in Banking & Financial Services: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute responds where Corporate & Investment Banking hurts most: risk aggregation lag lands near the top of every operator list. The structured response: we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Corporate & Investment Banking in Banking & Financial Services: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the corporate & investment banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks, Corporate & Investment Banking edition:"
+   "x": "Inside Corporate & Investment Banking, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Quantum & Advanced Compute for Corporate & Investment Banking, measured against your baseline, in two weeks."
   }
  ],
- "words": 529,
+ "words": 588,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

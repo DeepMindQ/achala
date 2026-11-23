@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Defense & National Security > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Defense & National Security",
- "meta_description": "Quantum & Advanced Compute for Defense & National Security: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Defense & National Security in Public Sector & Government: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute against AI trust barrier in Defense & National Security: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Defense & National Security in Public Sector & Government: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the defense & national security reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, Defense & National Security edition:"
+   "x": "Inside Defense & National Security, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Quantum & Advanced Compute for Defense & National Security, measured against your baseline, in two weeks."
   }
  ],
- "words": 506,
+ "words": 549,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

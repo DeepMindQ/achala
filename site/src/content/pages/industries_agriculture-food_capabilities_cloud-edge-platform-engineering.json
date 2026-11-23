@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Agriculture & Food Systems",
- "meta_description": "Cloud, Edge & Platform for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agriculture & Food Systems: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what season peaks break systems costs Agriculture & Food Systems firms in a year and the honest answer is: more than anyone has measured. We measure first, then we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
+   "x": "Agriculture & Food Systems: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Agriculture & Food Systems, where the friction concentrates:"
+   "x": "Cloud, Edge & Platform Engineering in Agriculture & Food Systems is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "one working session on Cloud, Edge & Platform in Agriculture & Food Systems, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 513,
+ "words": 572,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

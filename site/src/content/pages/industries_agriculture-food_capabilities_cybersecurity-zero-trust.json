@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Agriculture & Food Systems",
- "meta_description": "Cyber & Zero-Trust for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agriculture & Food Systems: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Agriculture & Food Systems does not chase announcements; it delivers audited change, which means security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. That is the engineering behind Agriculture & Food Systems."
+   "x": "Agriculture & Food Systems: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Agriculture & Food Systems, named from the floor, not from a framework:"
+   "x": "Cybersecurity & Zero-Trust in Agriculture & Food Systems is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -243,7 +243,7 @@
    "x": "If Cyber & Zero-Trust in Agriculture & Food Systems is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 563,
+ "words": 624,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Threat Intelligence & Managed SOC",
  "seo_title": "Threat Intelligence & Managed SOC | Achala IT Solutions",
- "meta_description": "Managed SOC where coverage is measured per attack technique: purple-team validation, false-positive budgets as release gates, rehearsed containment and an anti-theater metrics layer.",
+ "meta_description": "Threat Intelligence & Managed SOC is one of the 54 Achala practices in the Cybersecurity & Zero-Trust domain: zero-trust controls deployed with the evidence pack attached.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Detection engineering with measured coverage: threat-informed detection mapped to the techniques that actually target your sector, purple-teamed quarterly, and run by a SOC whose speed is measured from first signal to containment, not from alert to acknowledgement."
+   "x": "Threat Intelligence & Managed SOC is one of the 54 Achala practices in the Cybersecurity & Zero-Trust domain: zero-trust controls deployed with the evidence pack attached. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A SOC earns trust with two numbers: how fast it contains what matters, and how much of the attacker playbook it can actually see. We run detection engineering against threat-informed attack paths, validate coverage with purple-team drills, and measure everything from first signal to containment."
+   "x": "Threat Intelligence & Managed SOC is delivered by an Achala practice team that stays through industrialization. Achala implements security your auditors can walk alone: control tests that run continuously, findings filed automatically, frameworks mapped to ISO 27001, SOC 2, TISAX and NIS2. Security posture becomes something you show, not something you claim. Who this is for: CISOs and audit committees, and program owners facing TISAX, HIPAA or NIS2 scrutiny."
   },
   {
    "t": "p",
@@ -1394,10 +1394,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask your SOC to state its detect-to-contain from first signal, by threat class. If the answer is a maturity score, bring the telemetry to a briefing, we will measure it for real."
+   "x": "Bring one threat model to an Achala briefing. We will show the control set, the test regime and the evidence pack it generates. The first session costs nothing but the hour."
   }
  ],
- "words": 1000,
+ "words": 1356,
  "section": "Services",
  "l1": "Services",
  "l2": "Cybersecurity & Zero-Trust",

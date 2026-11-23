@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Education & Research > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Education & Research | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Education & Research: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Education & Research: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Education & Research has one job: move a named number, estates flying blind included, and prove it moved. The engineering that does it: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "Education & Research: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, Education & Research edition:"
+   "x": "IoT, Digital Twin & Robotics in Education & Research is delivered by an Achala practice team that stays through industrialization: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: IoT, Twin & Robotics in Education & Research, measured against your baseline, in two weeks."
   }
  ],
- "words": 513,
+ "words": 572,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

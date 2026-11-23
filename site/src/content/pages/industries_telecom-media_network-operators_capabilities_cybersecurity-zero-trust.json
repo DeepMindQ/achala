@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Network Operators (CSPs) > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Network Operators (CSPs) | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Network Operators (CSPs): delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Network Operators (CSPs) in Telecom, Media & Entertainment: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust answers Telecom, Media & Entertainment pressure where it lands in Network Operators (CSPs): NOC reactive, week after week. The architectural answer: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
+   "x": "Network Operators (CSPs) in Telecom, Media & Entertainment: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the network operators (csps) reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, Network Operators (CSPs) edition:"
+   "x": "Inside Network Operators (CSPs), Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 466,
+ "words": 507,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

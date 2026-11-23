@@ -5,8 +5,8 @@
  "template": "newsroom_article",
  "breadcrumb": "Home > About Us > Newsroom > EEMS Platform reaches general availability for decision intelligence",
  "seo_title": "EEMS Platform reaches general availability for decision…",
- "meta_description": "The decision-intelligence hub behind real-time credit, claims, pricing and fraud decisions is now generally available with replay, champion-challenger and.",
- "words": 203,
+ "meta_description": "EEMS Platform reaches general availability for decision intelligence — official Achala IT Solutions newsroom.",
+ "words": 232,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
@@ -16,7 +16,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Achala IT Solutions EEMS Platform reaches general availability for decision intelligence, the announcement, what changes for clients, and where to go next."
+   "x": "EEMS Platform reaches general availability for decision intelligence — official Achala IT Solutions newsroom. Announcements here reflect what has shipped or been certified, with dates and sources, in the company's own words."
   },
   {
    "t": "h2",

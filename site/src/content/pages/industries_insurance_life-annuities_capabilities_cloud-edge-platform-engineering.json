@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Life & Annuities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Life & Annuities | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for Life & Annuities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Life & Annuities in Insurance & Risk: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform responds where Life & Annuities hurts most: surrender and service queues lands near the top of every operator list. The structured response: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. For Life & Annuities, this is the standard the build is held to."
+   "x": "Life & Annuities in Insurance & Risk: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the life & annuities reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Life & Annuities, as operators describe it:"
+   "x": "Inside Life & Annuities, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "one working session on Cloud, Edge & Platform for Life & Annuities, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 547,
+ "words": 581,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

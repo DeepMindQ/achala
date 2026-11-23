@@ -426,7 +426,7 @@ export function PlatformTabs({
             <p className="mt-3 flex flex-wrap items-center gap-2 text-[12.5px] font-semibold text-navy-800">
               <span className="rounded-md bg-navy-800 px-2 py-1 font-display text-[11.5px] text-white">{extra.facts}</span>
               <span className="rounded-full border border-line bg-mist/70 px-2 py-0.5 text-[9.5px] font-bold uppercase tracking-[0.12em] text-slate-body/60">
-                Illustrative · reference program
+                Achala program — illustrative
               </span>
             </p>
           )}

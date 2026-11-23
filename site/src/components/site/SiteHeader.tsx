@@ -360,7 +360,7 @@ export default function SiteHeader({ nav, brand }: { nav: Nav; brand: Brand }) {
     <header className="sticky top-0 z-50">
       <SkipLink />
       {/* announcement bar (CHG-381) */}
-      <AnnouncementBar message="EEMS, FMS and KYC platforms run in production every day. See how" href="/platforms/" />
+      <AnnouncementBar message="8 patented accelerator families align Achala platforms and services. Explore the acceleration map" href="/patented-intelligence/" />
       {/* utility bar — brand navy (CHG-010) */}
       <div className="bg-navy-900 text-white/70 text-[11.5px]">
         <div className="container-dq flex h-8 items-center justify-between">

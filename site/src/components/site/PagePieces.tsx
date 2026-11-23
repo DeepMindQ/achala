@@ -264,7 +264,7 @@ export function ContentPage({ page }: { page: PageData }) {
             removed — they produced the term-paper structure the redesign bans.
             Section wayfinding = breadcrumbs (hero) + hover anchors (headings)
             + the related/next-step rails at the end. */}
-        <article className="dq-article mx-auto w-full max-w-[1080px]">
+        <article className="dq-article mx-auto w-full">
           <Blocks blocks={page.blocks} skip={["hero"]} />
 
           {/* in-narrative exploration cards ("Services in this expertise", hubs…) */}

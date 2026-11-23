@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Insurance & Risk | Achala IT Solutions",
- "meta_description": "Blockchain & Digital Trust for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Insurance & Risk: Blockchain & Digital Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Insurance & Risk has one job: move a named number, claims, policy and exposure data fragmented included, and prove it moved. The engineering that does it: we put the record on rails, immutable event history, selective disclosure, and integrations your counterparties' auditors accept. That is the engineering behind Insurance & Risk."
+   "x": "Insurance & Risk: Blockchain & Digital Trust that ships. Achala runs Blockchain & Digital Trust as a production discipline for this sector — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Insurance & Risk: as operators describe it,"
+   "x": "Blockchain & Digital Trust in Insurance & Risk is delivered by an Achala practice team that stays through industrialization: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -127,7 +127,7 @@
    "x": "Talk to the team that runs Blockchain & Digital Trust in Insurance & Risk in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 662,
+ "words": 715,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

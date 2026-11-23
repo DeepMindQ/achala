@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Precision Agriculture & Agronomy > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Precision Agriculture &…",
- "meta_description": "Agentic AI & Hyperautomation for Precision Agriculture & Agronomy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Precision Agriculture & Agronomy in Agriculture & Food Systems: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation responds where Precision Agriculture & Agronomy hurts most: agronomy data siloed lands near the top of every operator list. The structured response: we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them."
+   "x": "Precision Agriculture & Agronomy in Agriculture & Food Systems: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the precision agriculture & agronomy reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Precision Agriculture & Agronomy: as operators describe it,"
+   "x": "Inside Precision Agriculture & Agronomy, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -236,7 +236,7 @@
    "x": "Bring Agentic AI & Hyperautomation for Precision Agriculture & Agronomy to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 463,
+ "words": 517,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

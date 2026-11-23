@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Agriculture & Food Systems > Food Safety & Food Retail",
  "seo_title": "Food Safety & Food Retail | Achala IT Solutions",
- "meta_description": "Food retail carries the consumer-facing safety duty: fresh-chain quality, supplier verification, recall readiness and waste economics.",
+ "meta_description": "Food Safety & Food Retail in Agriculture & Food Systems — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Food retail carries the consumer-facing safety duty: fresh-chain quality, supplier verification, recall readiness and waste economics. Telemetry and traceability turn compliance cost into customer trust and margin. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Food Safety & Food Retail in Agriculture & Food Systems — an Achala sector brief. seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in cold-chain management, supplier verification, recall response, with fresh ordering close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Food Safety & Food Retail through the agriculture & food systems program stack: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "one working session on operations in Food Safety & Food Retail, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 327,
+ "words": 354,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

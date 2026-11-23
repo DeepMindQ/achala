@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Medical Devices & MedTech > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Medical Devices & MedTech",
- "meta_description": "Cloud, Edge & Platform for Medical Devices & MedTech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Medical Devices & MedTech in Healthcare & Life Sciences: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against device fleets unconnected in Medical Devices & MedTech: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Medical Devices & MedTech in Healthcare & Life Sciences: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the medical devices & medtech reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Medical Devices & MedTech: where the friction concentrates,"
+   "x": "Inside Medical Devices & MedTech, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "one working session on Cloud, Edge & Platform for Medical Devices & MedTech, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 491,
+ "words": 545,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

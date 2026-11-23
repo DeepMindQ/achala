@@ -5,8 +5,8 @@
  "template": "newsroom_article",
  "breadcrumb": "Home > About Us > Newsroom > Responsible AI Framework version 2.0 published",
  "seo_title": "Responsible AI Framework version 2.0 published | Newsroom",
- "meta_description": "The framework now covers agentic systems end-to-end: policy envelopes, authority gates, evaluation evidence and drift response.",
- "words": 146,
+ "meta_description": "Responsible AI Framework version 2.0 published — official Achala IT Solutions newsroom.",
+ "words": 169,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
@@ -16,7 +16,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Company release from Achala IT Solutions: Responsible AI Framework version 2.0 published. What shipped, why now, and what it means for active engagements."
+   "x": "Responsible AI Framework version 2.0 published — official Achala IT Solutions newsroom. Announcements here reflect what has shipped or been certified, with dates and sources, in the company's own words."
   },
   {
    "t": "h2",

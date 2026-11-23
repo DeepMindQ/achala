@@ -5,11 +5,11 @@
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > The Achala Method",
  "seo_title": "The Achala Method | Achala IT Solutions",
- "meta_description": "Five phases with named gates — Diagnose, Design, Prove, Industrialize, Compound.",
+ "meta_description": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Five phases, each with named gates, engineered to convert strategy into audited production outcomes."
+   "x": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program. One standard, all domains."
   },
   {
    "t": "p",
@@ -93,7 +93,7 @@
    "x": "The briefing is a working review of your current program against this method, gates, evidence and where yours would stop."
   }
  ],
- "words": 332,
+ "words": 362,
  "section": "Approach",
  "l1": "About Us",
  "l2": "Our Approach",

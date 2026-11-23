@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Regulatory Compliance Automation",
  "seo_title": "Regulatory Compliance Automation | Solution | Achala IT Solutions",
- "meta_description": "Regulatory Compliance Automation — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Regulatory Compliance Automation — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulatory Compliance Automation exists because a specific failure keeps repeating: controls live in spreadsheets; evidence is assembled in panic; every framework audit restarts from zero; DORA/PCI/AI-Act expectations keep growing."
+   "x": "Regulatory Compliance Automation — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Regulatory Compliance Automation, measured against your baseline, in two weeks."
   }
  ],
- "words": 389,
+ "words": 437,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Risk & Resilience",

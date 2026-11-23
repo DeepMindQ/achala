@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Banking & Financial Services",
- "meta_description": "IoT, Twin & Robotics for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Banking & Financial Services: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics as we run it in Banking & Financial Services inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Banking & Financial Services: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Banking & Financial Services edition:"
+   "x": "IoT, Digital Twin & Robotics in Banking & Financial Services is delivered by an Achala practice team that stays through industrialization: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -265,7 +265,7 @@
    "x": "Start with the diagnostic, not the contract: IoT, Twin & Robotics in Banking & Financial Services baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 647,
+ "words": 708,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

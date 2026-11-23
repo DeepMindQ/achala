@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Supply Chain Risk & Continuity",
  "seo_title": "Supply Chain Risk & Continuity | Solution | Achala IT Solutions",
- "meta_description": "Supply Chain Risk & Continuity — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Supply Chain Risk & Continuity — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Supply Chain Risk & Continuity exists because a specific failure keeps repeating: multi-tier supply is opaque; disruptions surface as missed deliveries; re-planning takes weeks; ESG/provenance obligations add evidence duties."
+   "x": "Supply Chain Risk & Continuity — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "Start with the diagnostic, not the contract: Supply Chain Risk & Continuity baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 373,
+ "words": 418,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Risk & Resilience",

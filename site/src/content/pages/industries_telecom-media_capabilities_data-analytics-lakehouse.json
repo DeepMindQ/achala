@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Telecom, Media & Entertainment",
- "meta_description": "Data & Lakehouse for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Telecom, Media & Entertainment: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Telecom, Media & Entertainment operators recognize the pattern: network telemetry underused, quarter after quarter. Data & Lakehouse reaches the root: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. For Telecom, Media & Entertainment, this is the standard the build is held to."
+   "x": "Telecom, Media & Entertainment: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Telecom, Media & Entertainment, as operators describe it:"
+   "x": "Data, Analytics & Lakehouse in Telecom, Media & Entertainment is delivered by an Achala practice team that stays through industrialization: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -245,7 +245,7 @@
    "x": "If Data & Lakehouse in Telecom, Media & Entertainment is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 539,
+ "words": 588,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

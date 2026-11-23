@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > FinTech & Digital Natives > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for FinTech & Digital Natives",
- "meta_description": "Cyber & Zero-Trust for FinTech & Digital Natives: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "FinTech & Digital Natives in Technology & SaaS: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in FinTech & Digital Natives meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. FinTech & Digital Natives is where this discipline pays."
+   "x": "FinTech & Digital Natives in Technology & SaaS: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the fintech & digital natives reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the places value leaks, FinTech & Digital Natives edition:"
+   "x": "Inside FinTech & Digital Natives, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -204,7 +204,7 @@
    "x": "If Cyber & Zero-Trust for FinTech & Digital Natives is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 451,
+ "words": 499,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

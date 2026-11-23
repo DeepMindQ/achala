@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Agri-Food Processing > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Agri-Food Processing | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Agri-Food Processing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agri-Food Processing in Agriculture & Food Systems: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Agri-Food Processing targets a specific gap: systems exist, but no governed path connects them, which is why intake grading manual still costs what it costs. The build closes it: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Agri-Food Processing in Agriculture & Food Systems: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the agri-food processing reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "named from the floor, not from a framework, Agri-Food Processing edition:"
+   "x": "Inside Agri-Food Processing, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -250,7 +250,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse for Agri-Food Processing baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 430,
+ "words": 479,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

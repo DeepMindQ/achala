@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Logistics & Supply Chain",
- "meta_description": "Agentic AI & Hyperautomation for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Logistics & Supply Chain: Agentic AI & Hyperautomation that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Logistics & Supply Chain: the operating one and the regulatory one. Agentic AI & Hyperautomation is built to survive both: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "Logistics & Supply Chain: Agentic AI & Hyperautomation that ships. Achala runs Agentic AI & Hyperautomation as a production discipline for this sector — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Logistics & Supply Chain, named from the floor, not from a framework:"
+   "x": "Agentic AI & Hyperautomation in Logistics & Supply Chain is delivered by an Achala practice team that stays through industrialization: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Agentic AI & Hyperautomation in Logistics & Supply Chain in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 541,
+ "words": 589,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

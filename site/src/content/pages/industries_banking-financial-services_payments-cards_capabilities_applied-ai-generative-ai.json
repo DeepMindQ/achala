@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Payments & Cards > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Payments & Cards | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Payments & Cards: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Payments & Cards in Banking & Financial Services: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI responds where Payments & Cards hurts most: PCI DSS 4.0 evidence load lands near the top of every operator list. The structured response: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Payments & Cards in Banking & Financial Services: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the payments & cards reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Payments & Cards: where the friction concentrates,"
+   "x": "Inside Payments & Cards, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Applied AI & GenAI for Payments & Cards, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 524,
+ "words": 582,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

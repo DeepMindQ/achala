@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > Gaming & Interactive Media > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Gaming & Interactive Media",
- "meta_description": "Cyber & Zero-Trust for Gaming & Interactive Media: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Gaming & Interactive Media in Technology & SaaS: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust teams in Gaming & Interactive Media open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
+   "x": "Gaming & Interactive Media in Technology & SaaS: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the gaming & interactive media reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Gaming & Interactive Media edition:"
+   "x": "Inside Gaming & Interactive Media, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -204,7 +204,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Gaming & Interactive Media in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 420,
+ "words": 472,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

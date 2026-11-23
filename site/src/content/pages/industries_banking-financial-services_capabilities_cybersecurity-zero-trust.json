@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Banking & Financial Services",
- "meta_description": "Cyber & Zero-Trust for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Banking & Financial Services: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Banking & Financial Services operators recognize the pattern: genAI stuck between pilot and policy, quarter after quarter. Cyber & Zero-Trust reaches the root: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. For Banking & Financial Services, this is the standard the build is held to."
+   "x": "Banking & Financial Services: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Banking & Financial Services: the places value leaks,"
+   "x": "Cybersecurity & Zero-Trust in Banking & Financial Services is delivered by an Achala practice team that stays through industrialization: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -141,7 +141,7 @@
    "x": "If Cyber & Zero-Trust in Banking & Financial Services is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 628,
+ "words": 679,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

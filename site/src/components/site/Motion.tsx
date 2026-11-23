@@ -31,16 +31,24 @@ export function useInView<T extends HTMLElement>(threshold = 0.25, margin = "0px
 
 /* ── Count-up on scroll (CHG-105/126) — renders the final value server-side
    (SEO + no-JS safe), animates from the start value only after mount.      */
-function parseStat(value: string): { prefix: string; num: number; suffix: string; decimals: number } {
+function parseStat(value: string): { prefix: string; num: number; suffix: string; decimals: number; group: boolean } {
   const m = value.match(/^([^\d.,]*)([\d.,]+)(.*)$/);
-  if (!m) return { prefix: "", num: 0, suffix: value, decimals: 0 };
+  if (!m) return { prefix: "", num: 0, suffix: value, decimals: 0, group: false };
   const raw = m[2].replace(/,/g, "");
   const decimals = raw.includes(".") ? raw.split(".")[1].length : 0;
-  return { prefix: m[1], num: parseFloat(raw) || 0, suffix: m[3], decimals };
+  // group thousands only when the source string groups them (or 5+ digits);
+  // keeps years like 2009 from rendering as 2,009
+  const num = parseFloat(raw) || 0;
+  const group = m[2].includes(",") || (decimals === 0 && num >= 10000);
+  return { prefix: m[1], num, suffix: m[3], decimals, group };
 }
 
-function fmt(n: number, decimals: number): string {
-  return n.toLocaleString("en-US", { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
+function fmt(n: number, decimals: number, group = true): string {
+  return n.toLocaleString("en-US", {
+    minimumFractionDigits: decimals,
+    maximumFractionDigits: decimals,
+    useGrouping: group,
+  });
 }
 
 export function CountUp({
@@ -53,9 +61,9 @@ export function CountUp({
   duration?: number;
 }) {
   const { ref, inView } = useInView<HTMLSpanElement>(0.4);
-  const { prefix, num, suffix, decimals } = parseStat(value);
+  const { prefix, num, suffix, decimals, group } = parseStat(value);
   // initial render: number part only (prefix/suffix are added by the wrapper)
-  const [shown, setShown] = useState(() => fmt(num, decimals));
+  const [shown, setShown] = useState(() => fmt(num, decimals, group));
   const started = useRef(false);
   useEffect(() => {
     const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -66,7 +74,7 @@ export function CountUp({
     const tick = (t: number) => {
       const p = Math.min(1, (t - t0) / duration);
       const eased = 1 - Math.pow(1 - p, 3);
-      setShown(fmt(num * eased, decimals));
+      setShown(fmt(num * eased, decimals, group));
       if (p < 1) raf = requestAnimationFrame(tick);
     };
     raf = requestAnimationFrame(tick);

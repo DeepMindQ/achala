@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Logistics & Supply Chain > Maritime, Ports & Shipping",
  "seo_title": "Maritime, Ports & Shipping | Achala IT Solutions",
- "meta_description": "Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity.",
+ "meta_description": "Maritime, Ports & Shipping in Logistics & Supply Chain — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ports and carriers orchestrate billion-dollar physics: berth planning, crane productivity, vessel scheduling and cargo integrity. Telemetry-to-decision loops (berth windows, yard flows, maintenance) decide throughput on the same infrastructure, pure intelligence arbitrage. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Maritime, Ports & Shipping in Logistics & Supply Chain — an Achala sector brief. margin hides in routing, dwell time and fleet utilization — and never sits still This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in berth/vessel planning, yard/gate orchestration, crane/equipment maintenance, with cargo integrity close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Maritime, Ports & Shipping through the logistics & supply chain program stack: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "If operations in Maritime, Ports & Shipping is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 347,
+ "words": 367,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Food Safety & Food Retail > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Food Safety & Food Retail | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Food Safety & Food Retail: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Food Safety & Food Retail in Agriculture & Food Systems: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse against fresh demand guessing in Food Safety & Food Retail: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Food Safety & Food Retail in Agriculture & Food Systems: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the food safety & food retail reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the recurring pressure points, Food Safety & Food Retail edition:"
+   "x": "Inside Food Safety & Food Retail, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "one working session on Data & Lakehouse for Food Safety & Food Retail, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 427,
+ "words": 492,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

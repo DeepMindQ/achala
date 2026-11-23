@@ -5,11 +5,11 @@
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > Global Delivery Model",
  "seo_title": "Global Delivery Model | Achala IT Solutions",
- "meta_description": "Four delivery centers, named pods, follow-the-sun operations.",
+ "meta_description": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Four centers, named pods, follow-the-sun for operations, single accountability per program."
+   "x": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program. One standard, all domains."
   },
   {
    "t": "p",
@@ -86,7 +86,7 @@
    "x": "Test the method against your program: a briefing walks the gates and the evidence each one demands."
   }
  ],
- "words": 267,
+ "words": 306,
  "section": "Approach",
  "l1": "About Us",
  "l2": "Our Approach",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Medical Devices & MedTech > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Medical Devices & MedTech | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Medical Devices & MedTech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Medical Devices & MedTech in Healthcare & Life Sciences: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Medical Devices & MedTech targets a specific gap: systems exist, but no governed path connects them, which is why device security rising bar still costs what it costs. The build closes it: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. Medical Devices & MedTech is where this discipline pays."
+   "x": "Medical Devices & MedTech in Healthcare & Life Sciences: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the medical devices & medtech reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Medical Devices & MedTech: where the friction concentrates,"
+   "x": "Inside Medical Devices & MedTech, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Medical Devices & MedTech, measured against your baseline, in two weeks."
   }
  ],
- "words": 515,
+ "words": 556,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Automotive & Discrete Manufacturing > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Automotive & Discrete…",
- "meta_description": "Agentic AI & Hyperautomation for Automotive & Discrete Manufacturing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation responds where Automotive & Discrete Manufacturing hurts most: traceability by paperwork lands near the top of every operator list. The structured response: we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them. For Automotive & Discrete Manufacturing, this is the standard the build is held to."
+   "x": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the automotive & discrete manufacturing reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Automotive & Discrete Manufacturing, as operators describe it:"
+   "x": "Inside Automotive & Discrete Manufacturing, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -210,7 +210,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Agentic AI & Hyperautomation for Automotive & Discrete Manufacturing, measured against your baseline, in two weeks."
   }
  ],
- "words": 511,
+ "words": 547,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

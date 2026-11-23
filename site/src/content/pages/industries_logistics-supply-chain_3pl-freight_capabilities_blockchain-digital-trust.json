@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > 3PL & Freight Forwarding > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for 3PL & Freight Forwarding",
- "meta_description": "Blockchain & Digital Trust for 3PL & Freight Forwarding: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "3PL & Freight Forwarding in Logistics & Supply Chain: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in 3PL & Freight Forwarding answers a daily gap: Quoting and booking and Shipment visibility produce data faster than decisions. The structured answer: the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify. That is the engineering behind 3PL & Freight Forwarding."
+   "x": "3PL & Freight Forwarding in Logistics & Supply Chain: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the 3pl & freight forwarding reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "3PL & Freight Forwarding: the places value leaks,"
+   "x": "Inside 3PL & Freight Forwarding, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring Blockchain & Digital Trust for 3PL & Freight Forwarding to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 474,
+ "words": 532,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

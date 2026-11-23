@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Healthcare & Life Sciences",
- "meta_description": "Quantum & Advanced Compute for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Healthcare & Life Sciences: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Healthcare & Life Sciences has one job: move a named number, genomic and longitudinal data exposure included, and prove it moved. The engineering that does it: the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both. Healthcare & Life Sciences is where this discipline pays."
+   "x": "Healthcare & Life Sciences: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Healthcare & Life Sciences: the places value leaks,"
+   "x": "Quantum & Advanced Compute in Healthcare & Life Sciences is delivered by an Achala practice team that stays through industrialization: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Quantum & Advanced Compute in Healthcare & Life Sciences, measured against your baseline, in two weeks."
   }
  ],
- "words": 550,
+ "words": 601,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

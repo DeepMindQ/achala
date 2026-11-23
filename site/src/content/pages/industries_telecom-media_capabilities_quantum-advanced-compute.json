@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Telecom, Media &…",
- "meta_description": "Quantum & Advanced Compute for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Telecom, Media & Entertainment: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Telecom, Media & Entertainment does not chase announcements; it delivers audited change, which means we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Telecom, Media & Entertainment: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Telecom, Media & Entertainment edition:"
+   "x": "Quantum & Advanced Compute in Telecom, Media & Entertainment is delivered by an Achala practice team that stays through industrialization: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "Bring Quantum & Advanced Compute in Telecom, Media & Entertainment to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 496,
+ "words": 549,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

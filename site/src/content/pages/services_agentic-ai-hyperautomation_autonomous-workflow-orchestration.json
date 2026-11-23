@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Autonomous Workflow Orchestration",
  "seo_title": "Autonomous Workflow Orchestration | Achala IT Solutions",
- "meta_description": "Durable workflow orchestration that survives partial failure: first-class timers, coded compensation, chaos-drill release gates and a hash-linked audit trail for every case.",
+ "meta_description": "Autonomous Workflow Orchestration from Achala IT Solutions: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Long-running workflows with durable state, recovery by design and escalation choreography: orchestration that survives partial failure, duplicate triggers and the Tuesday afternoon when the third-party API goes down mid-process."
+   "x": "Autonomous Workflow Orchestration from Achala IT Solutions: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. Part of the Agentic AI & Hyperautomation domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A workflow that spans days, onboarding, claims, order-to-cash exceptions, is not a function call; it is a state machine that must survive restarts, token expiries, downstream outages and people going on holiday. The engineering is durable execution: every step idempotent, every state persisted, every failure path drawn before the happy path is celebrated."
+   "x": "Autonomous Workflow Orchestration is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1446,10 +1446,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the workflow that currently fails quietly at month-end. The diagnostic will map its zombie cases and escalation holes, then price what recovery-by-design would cost."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against."
   }
  ],
- "words": 1118,
+ "words": 1531,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

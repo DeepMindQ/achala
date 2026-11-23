@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Corporate & Investment Banking > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Corporate & Investment Banking",
- "meta_description": "Applied AI & GenAI for Corporate & Investment Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Corporate & Investment Banking in Banking & Financial Services: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI teams in Corporate & Investment Banking open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Corporate & Investment Banking in Banking & Financial Services: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the corporate & investment banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Corporate & Investment Banking, the places value leaks:"
+   "x": "Inside Corporate & Investment Banking, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Corporate & Investment Banking in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 606,
+ "words": 648,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

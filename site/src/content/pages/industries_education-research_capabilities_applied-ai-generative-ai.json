@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Education & Research > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Education & Research | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Education & Research: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Education & Research: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Education & Research; competition sets the pace. Applied AI & GenAI is how we hold both: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Education & Research: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Education & Research, the places value leaks:"
+   "x": "Applied AI & Generative AI in Education & Research is delivered by an Achala practice team that stays through industrialization: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -245,7 +245,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI in Education & Research in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 541,
+ "words": 605,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

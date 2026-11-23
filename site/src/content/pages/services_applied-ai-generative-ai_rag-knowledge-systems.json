@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > RAG & Enterprise Knowledge Systems",
  "seo_title": "RAG & Enterprise Knowledge Systems | Achala IT Solutions",
- "meta_description": "Permission-aware RAG that cites or refuses: corpus engineering, versioned adversarial eval suites, citation precision you can audit and retrieval that respects your ACLs.",
+ "meta_description": "RAG & Enterprise Knowledge Systems is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Retrieval that cites or refuses: permission-aware RAG over your regulated document estate, where every answer carries its sources, its freshness and its permission lineage, and where the corpus contracts that make that possible are built first, not last."
+   "x": "RAG & Enterprise Knowledge Systems is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Retrieval-augmented generation done properly is corpus engineering wearing a chat interface. The model is the easy ten percent; the ninety percent is deciding what counts as truth in your estate, who may see it, how fresh it must be, and how an answer proves where it came from."
+   "x": "RAG & Enterprise Knowledge Systems is delivered by an Achala practice team that stays through industrialization. Achala ships applied AI with its evidence attached: evaluation harnesses, drift monitoring and measured deltas against your baseline. If a model does not beat the baseline, we say so — that honesty is why clients keep the programs running. Who this is for: product and business leaders with a P&L line to move, and CDOs consolidating AI governance."
   },
   {
    "t": "p",
@@ -1482,10 +1482,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring your worst document estate, the duplicated portals, the stale wikis, the ACLs nobody trusts. The two-week diagnostic will tell you exactly what grounded answers would cost there, and which gates you would fail today."
+   "x": "Bring one AI use case to an Achala briefing. We will show the evaluation plan, the reference architecture and the metric it would move. The first session costs nothing but the hour."
   }
  ],
- "words": 1325,
+ "words": 1721,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

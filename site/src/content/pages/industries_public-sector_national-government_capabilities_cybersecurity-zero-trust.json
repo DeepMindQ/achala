@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > National Government & Digital Services > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for National Government & Digital…",
- "meta_description": "Cyber & Zero-Trust for National Government & Digital Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "National Government & Digital Services in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust answers Public Sector & Government pressure where it lands in National Government & Digital Services: state-grade threats, week after week. The architectural answer: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind National Government & Digital Services."
+   "x": "National Government & Digital Services in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the national government & digital services reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In National Government & Digital Services, the places value leaks:"
+   "x": "Inside National Government & Digital Services, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Cyber & Zero-Trust for National Government & Digital Services is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 462,
+ "words": 511,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

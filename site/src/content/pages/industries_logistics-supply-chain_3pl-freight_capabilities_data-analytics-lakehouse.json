@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > 3PL & Freight Forwarding > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for 3PL & Freight Forwarding | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for 3PL & Freight Forwarding: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "3PL & Freight Forwarding in Logistics & Supply Chain: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in 3PL & Freight Forwarding meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind 3PL & Freight Forwarding."
+   "x": "3PL & Freight Forwarding in Logistics & Supply Chain: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the 3pl & freight forwarding reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In 3PL & Freight Forwarding, where the friction concentrates:"
+   "x": "Inside 3PL & Freight Forwarding, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Data & Lakehouse for 3PL & Freight Forwarding is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 435,
+ "words": 489,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

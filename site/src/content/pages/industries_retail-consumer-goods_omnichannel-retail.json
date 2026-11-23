@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Retail & Consumer Goods > Omnichannel Retail",
  "seo_title": "Omnichannel Retail | Achala IT Solutions",
- "meta_description": "Omnichannel retail wins on promise-keeping: availability, delivery promise, price consistency and service resolution across channels.",
+ "meta_description": "Omnichannel Retail in Retail & Consumer Goods — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Omnichannel retail wins on promise-keeping: availability, delivery promise, price consistency and service resolution across channels. The decision infrastructure behind those promises, demand sensing, allocation, pricing, decides margin before marketing spends a cent. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Omnichannel Retail in Retail & Consumer Goods — an Achala sector brief. pricing, availability and experience decisions repeat thousands of times a day, per store This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in demand sensing and pricing, allocation/replenishment, order promise and fulfillment, with shelf operations close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Omnichannel Retail through the retail & consumer goods program stack: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "Talk to the team that runs operations in Omnichannel Retail in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 393,
+ "words": 401,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

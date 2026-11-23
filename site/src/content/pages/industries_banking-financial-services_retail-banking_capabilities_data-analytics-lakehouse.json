@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Retail & Consumer Banking > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Retail & Consumer Banking | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Retail & Consumer Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Banking in Banking & Financial Services: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse treats account-takeover industrialized in Retail & Consumer Banking as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Retail & Consumer Banking in Banking & Financial Services: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the retail & consumer banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Retail & Consumer Banking edition:"
+   "x": "Inside Retail & Consumer Banking, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "If Data & Lakehouse for Retail & Consumer Banking is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 591,
+ "words": 641,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

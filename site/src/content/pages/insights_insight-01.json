@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Applied AI & Generative AI > The retrieval layer is the moat, not the model",
  "seo_title": "The retrieval layer is the moat, not the model | Insight",
- "meta_description": "Foundation models are converging on capability; the durable advantage sits in retrieval, permissions and freshness.",
+ "meta_description": "The retrieval layer is the moat, not the model — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Foundation models are converging on capability; the durable advantage sits in retrieval, permissions and freshness."
+   "x": "The retrieval layer is the moat, not the model — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Start with the diagnostic, not the contract: retrieval is the moat, not the model baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 273,
+ "words": 305,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Applied AI & Generative AI",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Grocery & Convenience > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Grocery & Convenience | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Grocery & Convenience: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Grocery & Convenience in Retail & Consumer Goods: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust responds where Grocery & Convenience hurts most: ordering by habit lands near the top of every operator list. The structured response: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Grocery & Convenience in Retail & Consumer Goods: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the grocery & convenience reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Grocery & Convenience edition:"
+   "x": "Inside Grocery & Convenience, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cyber & Zero-Trust for Grocery & Convenience, measured against your baseline, in two weeks."
   }
  ],
- "words": 489,
+ "words": 529,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

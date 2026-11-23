@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Retail & Consumer Goods",
  "seo_title": "Retail & Consumer Goods | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Retail & Consumer Goods: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Retail decisions repeat thousands of times a day per store: price, replenish, staff, promote.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Retail margin is decided in thousands of small decisions a day: the price on the tag, the fill rate on the shelf, the offer in the app, the allocation behind the promotion. Winners industrialize those decisions on live data, demand sensing, price elasticity, availability telemetry, and losers discover the loss later in the margin bridge, unwritten."
+   "x": "Retail decisions repeat thousands of times a day per store: price, replenish, staff, promote. Achala's programs for Retail & Consumer Goods build the decision systems behind those repeats — pricing, assortment, store operations and loyalty — under PCI DSS, measured on margin."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "Bring programs in Retail & Consumer Goods to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 469,
+ "words": 472,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

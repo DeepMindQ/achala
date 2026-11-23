@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Power Generation & Grid | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Power Generation & Grid in Energy & Utilities: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust against flexibility orchestration manual in Power Generation & Grid: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Power Generation & Grid in Energy & Utilities: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the power generation & grid reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Power Generation & Grid edition:"
+   "x": "Inside Power Generation & Grid, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Cyber & Zero-Trust for Power Generation & Grid, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 447,
+ "words": 488,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

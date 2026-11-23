@@ -5,11 +5,11 @@
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > Outcome-Linked Engagements",
  "seo_title": "Outcome-Linked Engagements | Achala IT Solutions",
- "meta_description": "Commercial models aligned to the metric: outcome pilots, value-linked fees, platform subscriptions.",
+ "meta_description": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Commercial models that put our economics next to the metric we move."
+   "x": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program. One standard, all domains."
   },
   {
    "t": "p",
@@ -111,7 +111,7 @@
    "x": "The briefing is a working review of your current program against this method, gates, evidence and where yours would stop."
   }
  ],
- "words": 379,
+ "words": 426,
  "section": "Approach",
  "l1": "About Us",
  "l2": "Our Approach",

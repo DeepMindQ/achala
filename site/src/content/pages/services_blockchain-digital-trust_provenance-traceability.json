@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Blockchain & Digital Trust > Provenance, Traceability & Supply Chain Trust",
  "seo_title": "Provenance, Traceability & Supply Chain Trust | Achala IT Solutions",
- "meta_description": "Supply-chain provenance that survives a recall drill: capture coverage signed per partner tier, event provenance at every handoff, anchored documents and recall-time as the console headline.",
+ "meta_description": "Provenance, Traceability & Supply Chain Trust is one of the 54 Achala practices in the Blockchain & Digital Trust domain: shared-record networks and tokenized assets with governance your regulators can inspect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "End-to-end supply-chain evidence: anchored document hashes, event provenance at every handoff, capture coverage that reaches your partners, and recall drills that resolve the affected batch in minutes, not days of spreadsheet archaeology."
+   "x": "Provenance, Traceability & Supply Chain Trust is one of the 54 Achala practices in the Blockchain & Digital Trust domain: shared-record networks and tokenized assets with governance your regulators can inspect. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Provenance is the practice of proving where a thing came from and what happened to it, across suppliers, plants, logistics and regulators. The engineering is evidence capture at handoffs (not storytelling after the fact), anchoring of document hashes to a ledger, and a query layer that reconstructs any item's history on demand."
+   "x": "Provenance, Traceability & Supply Chain Trust is delivered by an Achala practice team that stays through industrialization. Achala runs permissioned networks where every participant sees the same truth and no one can change it alone. Consensus rules, key ceremonies and inspection exports are documented from day one — shared trust that survives an audit. Who this is for: CFOs and operations heads reconciling across organizations, and the regulators who demand inspection views."
   },
   {
    "t": "p",
@@ -1367,10 +1367,10 @@
   },
   {
    "t": "cta",
-   "x": "Time your last mock recall, or admit there wasn't one. The diagnostic will measure capture coverage across your partner network and drill the recall path until it resolves in minutes."
+   "x": "Bring one shared-record problem to an Achala briefing. We will show the network design, the consensus rules and the regulator views it produces. The first session costs nothing but the hour."
   }
  ],
- "words": 986,
+ "words": 1396,
  "section": "Services",
  "l1": "Services",
  "l2": "Blockchain & Digital Trust",

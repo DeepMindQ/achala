@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Identity & Access Modernization",
  "seo_title": "Identity & Access Modernization | Achala IT Solutions",
- "meta_description": "Identity modernization measured at revocation: HR-event-driven lifecycle, rotation on SLA across every identity class, stale credentials at or below 2% and auditors satisfied first.",
+ "meta_description": "Identity & Access Modernization from Achala IT Solutions: zero-trust controls deployed with the evidence pack attached.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Identity lifecycle done properly: joiner-mover-leaver automation that revokes on the leaver SLA, privileged access in vaults instead of spreadsheets, standing admin accounts driven to zero, and MFA that people actually complete."
+   "x": "Identity & Access Modernization from Achala IT Solutions: zero-trust controls deployed with the evidence pack attached. Part of the Cybersecurity & Zero-Trust domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Identity is where most breaches begin and where most programs under-invest: accounts outlive their owners, service accounts share passwords, and privileged access is granted with a ticket and forgotten. Modernization is lifecycle engineering, every identity born with an owner, moved with re-attestation, and killed on schedule."
+   "x": "Identity & Access Modernization is delivered by an Achala practice team that stays through industrialization. Achala implements security your auditors can walk alone: control tests that run continuously, findings filed automatically, frameworks mapped to ISO 27001, SOC 2, TISAX and NIS2. Security posture becomes something you show, not something you claim. Who this is for: CISOs and audit committees, and program owners facing TISAX, HIPAA or NIS2 scrutiny."
   },
   {
    "t": "p",
@@ -1413,10 +1413,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask how fast your last leaver actually lost access, then ask who verified it. The diagnostic will measure your real revocation SLA and vault your privilege before your auditor asks."
+   "x": "Bring one threat model to an Achala briefing. We will show the control set, the test regime and the evidence pack it generates."
   }
  ],
- "words": 983,
+ "words": 1329,
  "section": "Services",
  "l1": "Services",
  "l2": "Cybersecurity & Zero-Trust",

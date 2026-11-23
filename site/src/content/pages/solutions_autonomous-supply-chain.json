@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Autonomous Supply Chain Control Tower",
  "seo_title": "Autonomous Supply Chain Control Tower | Solution",
- "meta_description": "Autonomous Supply Chain Control Tower — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Autonomous Supply Chain Control Tower — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Autonomous Supply Chain Control Tower exists because a specific failure keeps repeating: planning runs on batch snapshots; exceptions consume planners; network re-optimization takes weeks; visibility is stitched from portals."
+   "x": "Autonomous Supply Chain Control Tower — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "one working session on Autonomous Supply Chain Control Tower, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 386,
+ "words": 425,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Operational Excellence",

@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation | Achala IT Solutions",
- "meta_description": "Agentic AI & Hyperautomation delivered as workforce design: seven practices on one execution spine — mined candidates, policy-bounded agents, replayable evidence. Six gates, twelve sector playbooks, one fleet console.",
+ "meta_description": "Achala's Agentic AI & Hyperautomation domain turns validated AI agents into a governed digital workforce.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Hyperautomation succeeds as workforce design, not as tool rollout. Agentic AI & Hyperautomation runs seven practices that mine the work, prove the ROI before the build, deploy role-scoped agents under policy bounds, and manage the resulting digital workforce with the same discipline, capacity, shifts, versioning, retirement, you apply to people."
+   "x": "Achala's Agentic AI & Hyperautomation domain turns validated AI agents into a governed digital workforce. Eight practices cover the full path — from decision intelligence and process orchestration to document operations — each one landing agents into production under explicit grants, budgets and audit trails."
   },
   {
    "t": "p",
@@ -1306,7 +1306,7 @@
    "x": "Bring the process your CFO calls expensive and your auditors call fragile, the two-week diagnostic will rank what should be automated, what should not, and what the checkpoint design would look like."
   }
  ],
- "words": 948,
+ "words": 1465,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

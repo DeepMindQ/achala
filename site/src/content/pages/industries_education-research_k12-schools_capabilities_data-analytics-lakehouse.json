@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > K-12 & School Systems > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for K-12 & School Systems | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for K-12 & School Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "K-12 & School Systems in Education & Research: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse teams in K-12 & School Systems open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "K-12 & School Systems in Education & Research: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the k-12 & school systems reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "K-12 & School Systems: the queues and waits that come up first,"
+   "x": "Inside K-12 & School Systems, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for K-12 & School Systems, measured against your baseline, in two weeks."
   }
  ],
- "words": 467,
+ "words": 507,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

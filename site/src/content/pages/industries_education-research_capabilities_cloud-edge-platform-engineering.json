@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Education & Research > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Education & Research | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for Education & Research: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Education & Research: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Education & Research operators recognize the pattern: research computing fragmented, quarter after quarter. Cloud, Edge & Platform reaches the root: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Education & Research: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Education & Research edition:"
+   "x": "Cloud, Edge & Platform Engineering in Education & Research is delivered by an Achala practice team that stays through industrialization: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cloud, Edge & Platform in Education & Research, measured against your baseline, in two weeks."
   }
  ],
- "words": 472,
+ "words": 542,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

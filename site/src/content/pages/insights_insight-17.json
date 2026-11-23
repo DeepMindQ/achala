@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Quantum & Advanced Compute > Solver tournaments beat quantum hype",
  "seo_title": "Solver tournaments beat quantum hype | Insight | Achala IT Solutions",
- "meta_description": "Benchmark classical, quantum-inspired and hybrid solvers on your problem — and publish the verdict either way.",
+ "meta_description": "Solver tournaments beat quantum hype — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Benchmark classical, quantum-inspired and hybrid solvers on your problem, and publish the verdict either way."
+   "x": "Solver tournaments beat quantum hype — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Bring solver tournaments beat quantum hype to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 236,
+ "words": 271,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Quantum & Advanced Compute",

@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Telecom, Media & Entertainment",
- "meta_description": "Cyber & Zero-Trust for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Telecom, Media & Entertainment: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Telecom, Media & Entertainment does not chase announcements; it delivers audited change, which means the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. That is the engineering behind Telecom, Media & Entertainment."
+   "x": "Telecom, Media & Entertainment: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Telecom, Media & Entertainment: where the friction concentrates,"
+   "x": "Cybersecurity & Zero-Trust in Telecom, Media & Entertainment is delivered by an Achala practice team that stays through industrialization: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust in Telecom, Media & Entertainment baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 510,
+ "words": 563,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

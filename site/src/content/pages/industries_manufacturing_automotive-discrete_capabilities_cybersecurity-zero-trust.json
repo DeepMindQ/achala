@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Automotive & Discrete Manufacturing > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing",
- "meta_description": "Cyber & Zero-Trust for Automotive & Discrete Manufacturing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust earns its place in Automotive & Discrete Manufacturing only when it changes what Line changeover sequencing costs or what Vision inspection returns. The engagement is built around one measurable path: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Automotive & Discrete Manufacturing."
+   "x": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the automotive & discrete manufacturing reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Automotive & Discrete Manufacturing, named from the floor, not from a framework:"
+   "x": "Inside Automotive & Discrete Manufacturing, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 506,
+ "words": 528,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

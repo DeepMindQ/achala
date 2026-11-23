@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Master Data, Governance & Cataloging",
  "seo_title": "Master Data, Governance & Cataloging | Achala IT Solutions",
- "meta_description": "Master data that ends metric arguments: golden records with signed survivorship, defended and reversible merges, steward workflow where trust is lowest, and duplicates measured per domain.",
+ "meta_description": "Master Data, Governance & Cataloging from Achala IT Solutions: data platforms your finance team, your risk team and your auditors all trust.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Golden records with owners, survivorship rules and a catalog people actually trust: master data as engineering, match logic that is measurable, stewardship with SLAs, and duplicate rates that fall on a schedule instead of in a slide deck."
+   "x": "Master Data, Governance & Cataloging from Achala IT Solutions: data platforms your finance team, your risk team and your auditors all trust. Part of the Data, Analytics & Lakehouse domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Master data is the part of the estate everyone depends on and nobody owns: the customer that exists seven times, the product with three SKUs, the supplier with two bank accounts. The fix is unglamorous, matching rules with survivorship, stewardship workflows with SLAs, and a catalog that records ownership and lineage so people trust what they find."
+   "x": "Master Data, Governance & Cataloging is delivered by an Achala practice team that stays through industrialization. Achala builds lakehouses with data contracts: producers and consumers agree on schema and quality, breaks are caught at the boundary, and every table carries an owner and a freshness target. Decisions downstream become defensible. Who this is for: CDOs and finance leaders who need numbers both sides sign, and teams tired of disputed data."
   },
   {
    "t": "p",
@@ -1474,10 +1474,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the two systems that disagree about your customers. The diagnostic will measure match precision on your real records, and price what one trusted golden record would cost."
+   "x": "Bring one data domain to an Achala briefing. We will show the contract, the pipeline design and the cost picture it would run under."
   }
  ],
- "words": 1047,
+ "words": 1385,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

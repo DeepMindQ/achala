@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Manufacturing & Industrial",
- "meta_description": "Applied AI & GenAI for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Manufacturing & Industrial operators recognize the pattern: quality escapes and manual inspection, quarter after quarter. Applied AI & GenAI reaches the root: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Manufacturing & Industrial: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Manufacturing & Industrial: as operators describe it,"
+   "x": "Applied AI & Generative AI in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "one working session on Applied AI & GenAI in Manufacturing & Industrial, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 577,
+ "words": 636,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

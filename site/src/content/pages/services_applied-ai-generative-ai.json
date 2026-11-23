@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > Applied AI & Generative AI",
  "seo_title": "Applied AI & Generative AI | Achala IT Solutions",
- "meta_description": "Applied AI & Generative AI as governed production systems: seven practices behind one eval harness — retrieval that cites, tuning that cannot regress silently, vision wired into operations. Six gates, twelve sector playbooks.",
+ "meta_description": "Achala's Applied AI & Generative AI domain takes AI from promising demo to dependable production.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Language is now an engineering surface. Applied AI & Generative AI runs seven practices that turn models into governed production systems, retrieval that cites its sources, tuning that never regresses silently, vision that feeds systems of record, and one platform that keeps every model call observable, bounded and affordable."
+   "x": "Achala's Applied AI & Generative AI domain takes AI from promising demo to dependable production. Eight practices span strategy, GenAI platform engineering, retrieval systems and multimodal products — every deployment carrying its own evaluation record and business metric."
   },
   {
    "t": "p",
@@ -1324,7 +1324,7 @@
    "x": "Bring one metric you own to a briefing, we will show you which practice carries it, which gates you would fail today, and what the first funded slice would look like."
   }
  ],
- "words": 1048,
+ "words": 1399,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

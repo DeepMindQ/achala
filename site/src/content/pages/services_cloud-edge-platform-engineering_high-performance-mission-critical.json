@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > High-Performance & Mission-Critical Systems",
  "seo_title": "High-Performance & Mission-Critical Systems | Achala IT Solutions",
- "meta_description": "Mission-critical systems run on budgeted tails: p99 allocated per hop, failover timed and evidenced in drills, and release gates that read the evidence before traffic moves.",
+ "meta_description": "High-Performance & Mission-Critical Systems is one of the 54 Achala practices in the Cloud, Edge & Platform Engineering domain: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Low-latency, high-availability tiers with proofs: latency budgets engineered down the stack, failover rehearsed with clocks running, capacity planned from load models, availability measured on rolling windows that include the bad days."
+   "x": "High-Performance & Mission-Critical Systems is one of the 54 Achala practices in the Cloud, Edge & Platform Engineering domain: estates that move to cloud without breaking anything — and run measurably cheaper once there. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Mission-critical is a contract: payments clear, trading windows hold, clinical systems respond, with availability and latency targets that carry regulatory or revenue consequences. The engineering is unromantic: latency budgets allocated per hop and measured in production, redundancy that fails over in drills, and capacity modeled against the worst credible day."
+   "x": "High-Performance & Mission-Critical Systems is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1391,10 +1391,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask when your failover was last rehearsed with production-like volume. If the answer is 'never', bring the tier to a briefing, the first drill is complimentary, the outage is not."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces. The first session costs nothing but the hour."
   }
  ],
- "words": 965,
+ "words": 1345,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

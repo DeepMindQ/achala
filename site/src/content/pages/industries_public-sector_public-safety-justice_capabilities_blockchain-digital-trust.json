@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Public Safety & Justice",
- "meta_description": "Blockchain & Digital Trust for Public Safety & Justice: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Safety & Justice in Public Sector & Government: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Public Safety & Justice is how Dispatch and coordination and Evidence management stop leaning on manual work, both decide the margin. The build: the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify."
+   "x": "Public Safety & Justice in Public Sector & Government: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the public safety & justice reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Public Safety & Justice, the recurring pressure points:"
+   "x": "Inside Public Safety & Justice, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Blockchain & Digital Trust for Public Safety & Justice, measured against your baseline, in two weeks."
   }
  ],
- "words": 471,
+ "words": 522,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

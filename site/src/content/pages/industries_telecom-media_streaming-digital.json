@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Streaming & Digital Platforms",
  "seo_title": "Streaming & Digital Platforms | Achala IT Solutions",
- "meta_description": "Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn).",
+ "meta_description": "Streaming & Digital Platforms in Telecom, Media & Entertainment — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Streaming platforms live on two curves: engagement (personalization, discovery, retention) and unit economics (encoding, delivery, churn). Both are decision engines, and both run better on governed telemetry, evaluation-driven ML and cost telemetry. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Streaming & Digital Platforms in Telecom, Media & Entertainment — an Achala sector brief. subscriber experience is decided in milliseconds, at national scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in personalization/discovery, subscriber lifecycle, delivery cost management, with experimentation close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Streaming & Digital Platforms through the telecom, media & entertainment program stack: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "Bring operations in Streaming & Digital Platforms to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 379,
+ "words": 391,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

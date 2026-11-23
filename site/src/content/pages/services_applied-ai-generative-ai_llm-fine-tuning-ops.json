@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > LLM Fine-Tuning & Model Operations",
  "seo_title": "LLM Fine-Tuning & Model Operations | Achala IT Solutions",
- "meta_description": "LLM fine-tuning as a factory, not a notebook: decontaminated datasets, multi-task eval gates that block silent regressions, distillation economics and canary-gated promotion.",
+ "meta_description": "LLM Fine-Tuning & Model Operations is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "A tuning factory, not a notebook: decontaminated datasets, multi-task eval gates that block silent regressions, distillation that keeps quality while cutting serving cost, and canary rollout with a rehearsed rollback path."
+   "x": "LLM Fine-Tuning & Model Operations is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Fine-tuning is a data engineering program that occasionally involves a GPU. The wins come from dataset construction, decontamination, label consistency, hard-negative mining, and the losses come from skipping the eval design and discovering regressions in front of users."
+   "x": "LLM Fine-Tuning & Model Operations is delivered by an Achala practice team that stays through industrialization. Achala ships applied AI with its evidence attached: evaluation harnesses, drift monitoring and measured deltas against your baseline. If a model does not beat the baseline, we say so — that honesty is why clients keep the programs running. Who this is for: product and business leaders with a P&L line to move, and CDOs consolidating AI governance."
   },
   {
    "t": "p",
@@ -1490,10 +1490,10 @@
   },
   {
    "t": "cta",
-   "x": "If your tuned model's last regression was discovered by a user, the eval gate is missing, not the talent. Bring the model inventory to a briefing and we will map your promotion path onto the factory."
+   "x": "Bring one AI use case to an Achala briefing. We will show the evaluation plan, the reference architecture and the metric it would move. The first session costs nothing but the hour."
   }
  ],
- "words": 1180,
+ "words": 1592,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

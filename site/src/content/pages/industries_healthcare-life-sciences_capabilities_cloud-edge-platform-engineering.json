@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Healthcare & Life Sciences",
- "meta_description": "Cloud, Edge & Platform for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Healthcare & Life Sciences: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Healthcare & Life Sciences has one job: move a named number, validated-environment rigidity included, and prove it moved. The engineering that does it: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
+   "x": "Healthcare & Life Sciences: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Healthcare & Life Sciences, as operators describe it:"
+   "x": "Cloud, Edge & Platform Engineering in Healthcare & Life Sciences is delivered by an Achala practice team that stays through industrialization: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Bring Cloud, Edge & Platform in Healthcare & Life Sciences to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 540,
+ "words": 606,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

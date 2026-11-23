@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Energy & Utilities",
- "meta_description": "Blockchain & Digital Trust for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Energy & Utilities: Blockchain & Digital Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what GO/REC certificate integrity costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we put the record on rails, immutable event history, selective disclosure, and integrations your counterparties' auditors accept."
+   "x": "Energy & Utilities: Blockchain & Digital Trust that ships. Achala runs Blockchain & Digital Trust as a production discipline for this sector — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Energy & Utilities: named from the floor, not from a framework,"
+   "x": "Blockchain & Digital Trust in Energy & Utilities is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "If Blockchain & Digital Trust in Energy & Utilities is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 493,
+ "words": 560,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

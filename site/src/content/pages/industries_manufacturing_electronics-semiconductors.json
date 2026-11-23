@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Manufacturing & Industrial > Electronics & Semiconductors",
  "seo_title": "Electronics & Semiconductors | Achala IT Solutions",
- "meta_description": "Semis and electronics fabrication run the tightest quality-latency loops in industry: yield analytics, tool matching and cleanroom reliability decided b.",
+ "meta_description": "Electronics & Semiconductors in Manufacturing & Industrial — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Semis and electronics fabrication run the tightest quality-latency loops in industry: yield analytics, tool matching and cleanroom reliability decided by telemetry at nanometer stakes. The fabs that win industrialize root-cause analytics and predictive tool health end to end. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Electronics & Semiconductors in Manufacturing & Industrial — an Achala sector brief. the plant floor punishes latency twice: once in throughput, once in quality This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in yield analytics/excursion rca, defect classification, predictive tool maintenance, with fab dispatch scheduling close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Electronics & Semiconductors through the manufacturing & industrial program stack: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "If operations in Electronics & Semiconductors is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 374,
+ "words": 379,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

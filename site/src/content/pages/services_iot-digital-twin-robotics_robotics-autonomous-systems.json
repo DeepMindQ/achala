@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics > Robotics & Autonomous Systems Integration",
  "seo_title": "Robotics & Autonomous Systems Integration | Achala IT Solutions",
- "meta_description": "Robotics integration where the safety case grants autonomy: envelope-checked missions, honest utilization with blocked-time causes, and incident readiness rehearsed per zone.",
+ "meta_description": "Robotics & Autonomous Systems Integration is one of the 54 Achala practices in the IoT, Digital Twin & Robotics domain: sensor data turned into operational decisions, with the safety discipline physical systems demand.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Robot fleets with safety cases: autonomy bounded by signed envelopes, incident-ready telemetry on every platform, utilization measured honestly including blocked time, and dock congestion engineered away instead of normalized."
+   "x": "Robotics & Autonomous Systems Integration is one of the 54 Achala practices in the IoT, Digital Twin & Robotics domain: sensor data turned into operational decisions, with the safety discipline physical systems demand. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A robot fleet is staffed with machines: shift scheduling, task allocation, charging logistics, and the safety case that says what each robot may do unattended. The engineering spans fleet orchestration, mission autonomy with bounded loops, and the telemetry that reconstructs any incident frame by frame."
+   "x": "Robotics & Autonomous Systems Integration is delivered by an Achala practice team that stays through industrialization. Achala connects devices, twins and control loops with rollback built in: firmware staged and signed, actuation authorized and logged, model drift measured against reality. Physical operations get software-grade discipline. Who this is for: plant, fleet and device operations leaders, and engineering heads accountable for safe actuation."
   },
   {
    "t": "p",
@@ -1432,10 +1432,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask who signed the autonomy level for your busiest robot zone, and when it was last re-validated. The diagnostic will wire envelope monitors and honest utilization before the fleet grows."
+   "x": "Bring one production line or asset class to an Achala briefing. We will show the twin, the control loop and the safety gates it runs behind. The first session costs nothing but the hour."
   }
  ],
- "words": 1008,
+ "words": 1408,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",

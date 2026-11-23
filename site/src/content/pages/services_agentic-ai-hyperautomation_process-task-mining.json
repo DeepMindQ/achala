@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Process & Task Mining",
  "seo_title": "Process & Task Mining | Achala IT Solutions",
- "meta_description": "Process mining that survives audit: join-proof event-log forensics, variant-ranked candidates priced on reconciled data, and a kill-reason ledger that makes the pipeline defensible.",
+ "meta_description": "Process & Task Mining from Achala IT Solutions: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Event-log forensics that turn system footprints into a defensible automation pipeline: conformance-checked, variant-ranked, ROI-screened, with kill reasons logged so the backlog your board funds is the backlog reality earned."
+   "x": "Process & Task Mining from Achala IT Solutions: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. Part of the Agentic AI & Hyperautomation domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Process mining is evidence gathering, not workshop theater. The systems already record the truth: timestamps in the ERP, states in the ITSM tool, messages on the bus. We reconstruct the actual process from those logs, measure where time and rework concentrate, and price the automation candidates against the mined baseline rather than a manager's estimate."
+   "x": "Process & Task Mining is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1471,10 +1471,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring two quarters of event logs and one contested backlog. The mining cycle will tell you which candidates survive conformance, and which pet automation ideas the evidence kills."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against."
   }
  ],
- "words": 1152,
+ "words": 1553,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

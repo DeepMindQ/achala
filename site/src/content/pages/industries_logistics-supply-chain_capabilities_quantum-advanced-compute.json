@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Logistics & Supply Chain",
- "meta_description": "Quantum & Advanced Compute for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Logistics & Supply Chain: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Logistics & Supply Chain operators recognize the pattern: routing at combinatorial scale, quarter after quarter. Quantum & Advanced Compute reaches the root: the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both."
+   "x": "Logistics & Supply Chain: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Logistics & Supply Chain edition:"
+   "x": "Quantum & Advanced Compute in Logistics & Supply Chain is delivered by an Achala practice team that stays through industrialization: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "one working session on Quantum & Advanced Compute in Logistics & Supply Chain, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 530,
+ "words": 587,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

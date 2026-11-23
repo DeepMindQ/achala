@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Omnichannel Retail > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Omnichannel Retail | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Omnichannel Retail: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Omnichannel Retail in Retail & Consumer Goods: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics answers Retail & Consumer Goods pressure where it lands in Omnichannel Retail: allocation and replenishment heuristics, week after week. The architectural answer: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Omnichannel Retail in Retail & Consumer Goods: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the omnichannel retail reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Omnichannel Retail: as operators describe it,"
+   "x": "Inside Omnichannel Retail, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "If IoT, Twin & Robotics for Omnichannel Retail is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 487,
+ "words": 539,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Payments & Cards > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Payments & Cards | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Payments & Cards: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Payments & Cards in Banking & Financial Services: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust answers Banking & Financial Services pressure where it lands in Payments & Cards: authorization latency ceiling, week after week. The architectural answer: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. Payments & Cards is where this discipline pays."
+   "x": "Payments & Cards in Banking & Financial Services: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the payments & cards reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Payments & Cards, the places value leaks:"
+   "x": "Inside Payments & Cards, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cyber & Zero-Trust for Payments & Cards, measured against your baseline, in two weeks."
   }
  ],
- "words": 520,
+ "words": 565,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

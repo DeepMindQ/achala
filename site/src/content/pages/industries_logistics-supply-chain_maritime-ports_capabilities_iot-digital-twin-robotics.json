@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Maritime, Ports & Shipping > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Maritime, Ports & Shipping",
- "meta_description": "IoT, Twin & Robotics for Maritime, Ports & Shipping: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Maritime, Ports & Shipping in Logistics & Supply Chain: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics treats port systems exposed in Maritime, Ports & Shipping as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Maritime, Ports & Shipping in Logistics & Supply Chain: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the maritime, ports & shipping reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Maritime, Ports & Shipping, the recurring pressure points:"
+   "x": "Inside Maritime, Ports & Shipping, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: IoT, Twin & Robotics for Maritime, Ports & Shipping, measured against your baseline, in two weeks."
   }
  ],
- "words": 455,
+ "words": 515,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

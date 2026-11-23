@@ -5,11 +5,11 @@
  "template": "company_page",
  "breadcrumb": "About Us > Values & Culture",
  "seo_title": "Values & Culture | Achala IT Solutions",
- "meta_description": "The operating culture behind Achala IT Solutions: evidence rituals, no-go discipline, zero-exposure security.",
+ "meta_description": "The values Achala hires on and reviews against: delivery ownership, evidence over claims, client data protected as if it were our own, and respect across a 300+ person, three-country team.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Culture at Achala IT Solutions is an operating system, not a poster."
+   "x": "The values Achala hires on and reviews against: delivery ownership, evidence over claims, client data protected as if it were our own, and respect across a 300+ person, three-country team."
   },
   {
    "t": "p",
@@ -86,7 +86,7 @@
    "x": "The values are contractual, not decorative: outcome-linked fees only exist because 'outcomes over output' is enforced; zero-exposure architecture only survives sales pressure because it is a term of engagement. Culture at Achala IT Solutions is what makes the commercial model safe to sign."
   }
  ],
- "words": 338,
+ "words": 370,
  "section": "Company",
  "l1": "About Us",
  "l2": "Values & Culture",

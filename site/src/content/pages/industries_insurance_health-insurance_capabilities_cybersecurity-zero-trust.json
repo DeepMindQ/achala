@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Health Insurance & Benefits > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Health Insurance & Benefits",
- "meta_description": "Cyber & Zero-Trust for Health Insurance & Benefits: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Health Insurance & Benefits in Insurance & Risk: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust answers Insurance & Risk pressure where it lands in Health Insurance & Benefits: PHI estate target value, week after week. The architectural answer: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Health Insurance & Benefits in Insurance & Risk: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the health insurance & benefits reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Health Insurance & Benefits, named from the floor, not from a framework:"
+   "x": "Inside Health Insurance & Benefits, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Health Insurance & Benefits in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 555,
+ "words": 586,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

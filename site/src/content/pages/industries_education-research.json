@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Education & Research",
  "seo_title": "Education & Research | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Education & Research: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Education runs on calendars, not quarters: enrolment peaks, exam cycles and grant deadlines decide everything.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Education institutions run two businesses on one budget: teaching and knowledge production. Both are being reshaped by AI, adaptive learning and assessment automation on one side, research acceleration from literature synthesis to simulation on the other, while both face an integrity crisis that generic tooling makes worse. The institutions that thrive will industrialize the boring (operations, admissions, estate management) to fund the essential (teaching quality, research depth)."
+   "x": "Education runs on calendars, not quarters: enrolment peaks, exam cycles and grant deadlines decide everything. Achala's programs for Education & Research deliver student portals, learning platforms and research data infrastructure that hold up at term-start scale, under GDPR-aligned delivery."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "Bring programs in Education & Research to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 440,
+ "words": 429,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Pharmaceuticals & Biotech",
  "seo_title": "Pharmaceuticals & Biotech | Achala IT Solutions",
- "meta_description": "Pharma's frontier is acceleration under validation: discovery simulation, trial design, recruitment and pharmacovigilance all carry GxP duty.",
+ "meta_description": "Pharmaceuticals & Biotech in Healthcare & Life Sciences — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Pharma's frontier is acceleration under validation: discovery simulation, trial design, recruitment and pharmacovigilance all carry GxP duty. Companies that industrialize evidence pipelines compress the costly middle of the pipeline without compromising the audit. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Pharmaceuticals & Biotech in Healthcare & Life Sciences — an Achala sector brief. patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in discovery screening, protocol eligibility matching, pharmacovigilance intake, with rwe assembly close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Pharmaceuticals & Biotech through the healthcare & life sciences program stack: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "one working session on operations in Pharmaceuticals & Biotech, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 386,
+ "words": 399,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

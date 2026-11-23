@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Banking & Financial Services",
- "meta_description": "Applied AI & GenAI for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Banking & Financial Services: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Banking & Financial Services; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. That is the engineering behind Banking & Financial Services."
+   "x": "Banking & Financial Services: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Banking & Financial Services, the recurring pressure points:"
+   "x": "Applied AI & Generative AI in Banking & Financial Services is delivered by an Achala practice team that stays through industrialization: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -141,7 +141,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI in Banking & Financial Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 623,
+ "words": 687,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

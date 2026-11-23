@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Predictive Maintenance & Asset Performance",
  "seo_title": "Predictive Maintenance & Asset Performance | Solution",
- "meta_description": "Predictive Maintenance & Asset Performance — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Predictive Maintenance & Asset Performance — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Predictive Maintenance & Asset Performance exists because a specific failure keeps repeating: assets run to failure on calendar PMs; telemetry exists but doesn't reach planning; predictions that aren't trusted get ignored."
+   "x": "Predictive Maintenance & Asset Performance — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "Bring Predictive Maintenance & Asset Performance to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 367,
+ "words": 413,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Operational Excellence",

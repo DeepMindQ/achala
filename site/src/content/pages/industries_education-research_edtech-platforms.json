@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Education & Research > EdTech & Learning Platforms",
  "seo_title": "EdTech & Learning Platforms | Achala IT Solutions",
- "meta_description": "EdTech companies sell learning outcomes and must prove them: engagement-to-evidence loops, content ops at scale, assessment integrity and institutional.",
+ "meta_description": "EdTech & Learning Platforms in Education & Research — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "EdTech companies sell learning outcomes and must prove them: engagement-to-evidence loops, content ops at scale, assessment integrity and institutional procurement gates. Product velocity matters, but evidence velocity closes renewals. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "EdTech & Learning Platforms in Education & Research — an Achala sector brief. student experience and research output both depend on systems that simply work at term-start scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in learning analytics, content operations, assessment integrity, with institutional compliance close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers EdTech & Learning Platforms through the education & research program stack: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "If operations in EdTech & Learning Platforms is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 338,
+ "words": 361,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

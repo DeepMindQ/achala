@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > EdTech & Learning Platforms > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for EdTech & Learning Platforms",
- "meta_description": "Cloud, Edge & Platform for EdTech & Learning Platforms: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "EdTech & Learning Platforms in Education & Research: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform is how EdTech & Learning Platforms operations could run Learning analytics without the content production slow tax. The build: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind EdTech & Learning Platforms."
+   "x": "EdTech & Learning Platforms in Education & Research: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the edtech & learning platforms reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, EdTech & Learning Platforms edition:"
+   "x": "Inside EdTech & Learning Platforms, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Cloud, Edge & Platform for EdTech & Learning Platforms is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 451,
+ "words": 507,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

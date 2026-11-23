@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Public Sector & Government > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Public Sector & Government",
- "meta_description": "Cyber & Zero-Trust for Public Sector & Government: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Sector & Government: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Public Sector & Government; competition sets the pace. Cyber & Zero-Trust is how we hold both: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Public Sector & Government."
+   "x": "Public Sector & Government: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Public Sector & Government: named from the floor, not from a framework,"
+   "x": "Cybersecurity & Zero-Trust in Public Sector & Government is delivered by an Achala practice team that stays through industrialization: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -243,7 +243,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust in Public Sector & Government in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 512,
+ "words": 557,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

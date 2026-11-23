@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Manufacturing & Industrial",
- "meta_description": "IoT, Twin & Robotics for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what quality escapes and manual inspection costs Manufacturing & Industrial firms in a year and the honest answer is: more than anyone has measured. We measure first, then the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality. That is the engineering behind Manufacturing & Industrial."
+   "x": "Manufacturing & Industrial: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the recurring pressure points, Manufacturing & Industrial edition:"
+   "x": "IoT, Digital Twin & Robotics in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -257,7 +257,7 @@
    "x": "Talk to the team that runs IoT, Twin & Robotics in Manufacturing & Industrial in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 568,
+ "words": 615,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

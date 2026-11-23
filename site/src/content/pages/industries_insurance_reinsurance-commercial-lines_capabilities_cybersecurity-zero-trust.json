@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Reinsurance & Commercial Lines > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Reinsurance & Commercial Lines",
- "meta_description": "Cyber & Zero-Trust for Reinsurance & Commercial Lines: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Reinsurance & Commercial Lines in Insurance & Risk: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Reinsurance & Commercial Lines gets concrete fast: Counterparty data exchange exposure names a real queue, a real wait, a real cost. What we build to end it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. That is the engineering behind Reinsurance & Commercial Lines."
+   "x": "Reinsurance & Commercial Lines in Insurance & Risk: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the reinsurance & commercial lines reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Reinsurance & Commercial Lines, as operators describe it:"
+   "x": "Inside Reinsurance & Commercial Lines, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Bring Cyber & Zero-Trust for Reinsurance & Commercial Lines to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 528,
+ "words": 561,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

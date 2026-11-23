@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Corporate & Investment Banking > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Corporate & Investment Banking",
- "meta_description": "Cloud, Edge & Platform for Corporate & Investment Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Corporate & Investment Banking in Banking & Financial Services: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform teams in Corporate & Investment Banking open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Corporate & Investment Banking in Banking & Financial Services: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the corporate & investment banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the places value leaks, Corporate & Investment Banking edition:"
+   "x": "Inside Corporate & Investment Banking, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: Cloud, Edge & Platform for Corporate & Investment Banking baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 529,
+ "words": 592,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

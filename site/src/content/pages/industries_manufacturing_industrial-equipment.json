@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Manufacturing & Industrial > Industrial Equipment & Machinery",
  "seo_title": "Industrial Equipment & Machinery | Achala IT Solutions",
- "meta_description": "Equipment makers pivot to outcome businesses: connected machines, service contracts and uptime guarantees replace box sales.",
+ "meta_description": "Industrial Equipment & Machinery in Manufacturing & Industrial — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Equipment makers pivot to outcome businesses: connected machines, service contracts and uptime guarantees replace box sales. The pivot is an engineering program, fleet connectivity, service intelligence and outcome pricing, built once, monetized for decades. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Industrial Equipment & Machinery in Manufacturing & Industrial — an Achala sector brief. the plant floor punishes latency twice: once in throughput, once in quality This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in fleet connectivity/ota, service dispatch and parts, outcome/uptime contracts, with warranty analytics close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Industrial Equipment & Machinery through the manufacturing & industrial program stack: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "If operations in Industrial Equipment & Machinery is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 390,
+ "words": 399,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

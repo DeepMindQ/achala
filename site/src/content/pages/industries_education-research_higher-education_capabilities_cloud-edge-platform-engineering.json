@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Higher Education & Universities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Higher Education & Universities",
- "meta_description": "Cloud, Edge & Platform for Higher Education & Universities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Higher Education & Universities in Education & Research: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform earns its place in Higher Education & Universities only when it changes what Student success/advising costs or what Research computing returns. The engagement is built around one measurable path: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident. That is the engineering behind Higher Education & Universities."
+   "x": "Higher Education & Universities in Education & Research: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the higher education & universities reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Higher Education & Universities, the places value leaks:"
+   "x": "Inside Higher Education & Universities, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "If Cloud, Edge & Platform for Higher Education & Universities is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 504,
+ "words": 540,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

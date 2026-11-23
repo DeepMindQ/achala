@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice",
  "seo_title": "Public Safety & Justice | Achala IT Solutions",
- "meta_description": "Police, fire, EMS and courts coordinate under minutes-matter constraints and the strictest accountability: evidence integrity, proportionality and priva.",
+ "meta_description": "Public Safety & Justice in Public Sector & Government — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Police, fire, EMS and courts coordinate under minutes-matter constraints and the strictest accountability: evidence integrity, proportionality and privacy. Achala IT Solutions engineers the intelligence layer with auditability as a design primitive, not a feature. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Public Safety & Justice in Public Sector & Government — an Achala sector brief. citizen services run at population scale under procurement and audit rules that exclude improvisation This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in dispatch and coordination, evidence management, report generation, with court scheduling close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Public Safety & Justice through the public sector & government program stack: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "If operations in Public Safety & Justice is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 354,
+ "words": 370,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

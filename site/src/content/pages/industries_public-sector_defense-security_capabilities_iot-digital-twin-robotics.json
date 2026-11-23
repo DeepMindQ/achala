@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Defense & National Security > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Defense & National Security",
- "meta_description": "IoT, Twin & Robotics for Defense & National Security: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Defense & National Security in Public Sector & Government: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Defense & National Security meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "Defense & National Security in Public Sector & Government: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the defense & national security reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Defense & National Security: the queues and waits that come up first,"
+   "x": "Inside Defense & National Security, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Bring IoT, Twin & Robotics for Defense & National Security to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 486,
+ "words": 534,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

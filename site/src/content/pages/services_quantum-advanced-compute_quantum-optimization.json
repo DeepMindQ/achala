@@ -5,15 +5,15 @@
  "template": "service_page",
  "breadcrumb": "Services > Quantum & Advanced Compute > Quantum Optimization for Enterprise Problems",
  "seo_title": "Quantum Optimization for Enterprise Problems | Achala IT Solutions",
- "meta_description": "Quantum optimization with verified wins only: hybrid bake-offs against production solvers, encoding review before hardware, component-priced gains and an instance ledger finance can audit.",
+ "meta_description": "Quantum Optimization for Enterprise Problems is one of the 54 Achala practices in the Quantum & Advanced Compute domain: advanced compute evaluated honestly against the best classical baseline, before you commit budget.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Hybrid optimization on real problems: QUBO formulations that respect encoding limits, annealer and gate-model access behind one benchmarking harness, classical polish on every quantum candidate, and advantage claimed only where the signed baseline says so."
+   "x": "Quantum Optimization for Enterprise Problems is one of the 54 Achala practices in the Quantum & Advanced Compute domain: advanced compute evaluated honestly against the best classical baseline, before you commit budget. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "p",
-   "x": "Optimization is quantum's most credible near-term lane: routing, scheduling, portfolio construction, bin packing, problems that formalize as QUBO or Ising and where good-enough-fast beats perfect-slow. The work is formulation discipline: encoding your problem without blowing up variable count, choosing annealer vs gate model honestly, and always finishing with classical polish."
+   "x": "Quantum Optimization for Enterprise Problems is delivered by an Achala practice team that stays through industrialization. Achala benchmarks every candidate method against a tuned classical solver on your data, and publishes the ledger — result, hardware, cost. Where quantum wins, you invest with confidence; where it does not, you know before the money is spent. Who this is for: strategy and innovation leaders evaluating emerging compute, and CFOs who want evidence before spend."
   },
   {
    "t": "p",
@@ -1378,10 +1378,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring your hardest scheduling or routing instance. The bake-off will score quantum and classical on the same signed baseline, and either way you keep the reproducible result."
+   "x": "Bring one optimization problem to an Achala briefing. We will show the benchmark plan, the baseline and the go/no-go criteria. The first session costs nothing but the hour."
   }
  ],
- "words": 967,
+ "words": 1322,
  "section": "Services",
  "l1": "Services",
  "l2": "Quantum & Advanced Compute",

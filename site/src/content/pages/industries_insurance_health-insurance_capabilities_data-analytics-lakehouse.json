@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Health Insurance & Benefits > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Health Insurance & Benefits",
- "meta_description": "Data & Lakehouse for Health Insurance & Benefits: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Health Insurance & Benefits in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Health Insurance & Benefits is how Prior authorization and Claims coding integrity stop leaning on manual work, both decide the margin. The build: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Health Insurance & Benefits in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the health insurance & benefits reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Health Insurance & Benefits, named from the floor, not from a framework:"
+   "x": "Inside Health Insurance & Benefits, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse for Health Insurance & Benefits baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 544,
+ "words": 594,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

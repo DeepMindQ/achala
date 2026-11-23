@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Network Operators (CSPs) > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Network Operators (CSPs) | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Network Operators (CSPs): delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Network Operators (CSPs) in Telecom, Media & Entertainment: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI across Telecom, Media & Entertainment repeats one pattern in Network Operators (CSPs): pressure on Network operations (NOC), pressure on Retention/save offers, a fix improvised at the desk. This page is the engineered version: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Network Operators (CSPs) in Telecom, Media & Entertainment: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the network operators (csps) reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Network Operators (CSPs), as operators describe it:"
+   "x": "Inside Network Operators (CSPs), Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -250,7 +250,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 501,
+ "words": 538,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

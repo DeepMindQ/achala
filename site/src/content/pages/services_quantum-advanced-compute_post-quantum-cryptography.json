@@ -5,15 +5,15 @@
  "template": "service_page",
  "breadcrumb": "Services > Quantum & Advanced Compute > Post-Quantum Cryptography Migration",
  "seo_title": "Post-Quantum Cryptography Migration | Achala IT Solutions",
- "meta_description": "PQC migration as engineering: endpoint-level crypto inventory, harvest-risk-scored waves, hybrid modes where risk demands and vendor roadmaps governed as named risks.",
+ "meta_description": "Post-Quantum Cryptography Migration from Achala IT Solutions: advanced compute evaluated honestly against the best classical baseline, before you commit budget.",
  "blocks": [
   {
    "t": "hero",
-   "x": "PQC migration as engineering: crypto inventory with endpoint-level truth instead of questionnaire guesses, hybrid deployments where standards allow, migration waves sequenced by harvest-risk, and embedded orphans hunted until the inventory is honest."
+   "x": "Post-Quantum Cryptography Migration from Achala IT Solutions: advanced compute evaluated honestly against the best classical baseline, before you commit budget. Part of the Quantum & Advanced Compute domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "p",
-   "x": "The one quantum deadline that is real is cryptographic: adversaries harvest encrypted traffic today to decrypt when quantum computers mature. PQC migration is not a research topic, it is an estate-wide engineering program: find every use of cryptography, classify it, and migrate the long-lived secrets first."
+   "x": "Post-Quantum Cryptography Migration is delivered by an Achala practice team that stays through industrialization. Achala benchmarks every candidate method against a tuned classical solver on your data, and publishes the ledger — result, hardware, cost. Where quantum wins, you invest with confidence; where it does not, you know before the money is spent. Who this is for: strategy and innovation leaders evaluating emerging compute, and CFOs who want evidence before spend."
   },
   {
    "t": "p",
@@ -1388,10 +1388,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask what percentage of your estate's crypto you can actually name today. The discovery sprint will produce the honest inventory, and sequence the waves that close your harvest risk first."
+   "x": "Bring one optimization problem to an Achala briefing. We will show the benchmark plan, the baseline and the go/no-go criteria."
   }
  ],
- "words": 925,
+ "words": 1305,
  "section": "Services",
  "l1": "Services",
  "l2": "Quantum & Advanced Compute",

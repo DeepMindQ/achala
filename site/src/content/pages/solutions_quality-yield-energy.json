@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Quality, Yield & Energy Intelligence",
  "seo_title": "Quality, Yield & Energy Intelligence | Solution | Achala IT Solutions",
- "meta_description": "Quality, Yield & Energy Intelligence — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Quality, Yield & Energy Intelligence — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quality, Yield & Energy Intelligence exists because a specific failure keeps repeating: quality escapes are discovered by customers; yield losses accepted as normal; energy lacks per-unit truth; root cause takes weeks."
+   "x": "Quality, Yield & Energy Intelligence — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "one working session on Quality, Yield & Energy Intelligence, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 359,
+ "words": 399,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Operational Excellence",

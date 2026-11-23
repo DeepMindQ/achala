@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Banking & Financial Services > Payments & Cards",
  "seo_title": "Payments & Cards | Achala IT Solutions",
- "meta_description": "Payments is a real-time decision business wearing a compliance uniform: instant rails compress fraud windows to seconds, authorization economics reward.",
+ "meta_description": "Payments & Cards in Banking & Financial Services — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Payments is a real-time decision business wearing a compliance uniform: instant rails compress fraud windows to seconds, authorization economics reward millisecond latency, and every innovation (click-to-pay, tokenized wallets) inherits the same decision spine. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Payments & Cards in Banking & Financial Services — an Achala sector brief. every decision is regulated, every millisecond is margin, and every audit trail has to be complete This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in authorization decisioning, chargeback/dispute handling, scheme settlement reconciliation, with token lifecycle management close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Payments & Cards through the banking & financial services program stack: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -261,7 +261,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: operations in Payments & Cards, measured against your baseline, in two weeks."
   }
  ],
- "words": 425,
+ "words": 448,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

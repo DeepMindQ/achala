@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Retail & Consumer Banking > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Retail & Consumer Banking",
- "meta_description": "Cyber & Zero-Trust for Retail & Consumer Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Banking in Banking & Financial Services: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Retail & Consumer Banking targets a specific gap: systems exist, but no governed path connects them, which is why onboarding abandonment still costs what it costs. The build closes it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Retail & Consumer Banking in Banking & Financial Services: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the retail & consumer banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Retail & Consumer Banking, as operators describe it:"
+   "x": "Inside Retail & Consumer Banking, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -230,7 +230,7 @@
    "x": "If Cyber & Zero-Trust for Retail & Consumer Banking is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 549,
+ "words": 592,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

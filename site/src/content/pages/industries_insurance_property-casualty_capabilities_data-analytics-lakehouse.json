@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Property & Casualty > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Property & Casualty | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Property & Casualty: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Property & Casualty in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Property & Casualty targets a specific gap: systems exist, but no governed path connects them, which is why claims packets unstructured still costs what it costs. The build closes it: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. For Property & Casualty, this is the standard the build is held to."
+   "x": "Property & Casualty in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the property & casualty reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Property & Casualty: the places value leaks,"
+   "x": "Inside Property & Casualty, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Data & Lakehouse for Property & Casualty, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 546,
+ "words": 571,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

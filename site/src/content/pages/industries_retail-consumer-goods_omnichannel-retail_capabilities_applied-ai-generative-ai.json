@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Omnichannel Retail > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Omnichannel Retail | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Omnichannel Retail: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Omnichannel Retail in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI responds where Omnichannel Retail hurts most: allocation and replenishment heuristics lands near the top of every operator list. The structured response: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. Omnichannel Retail is where this discipline pays."
+   "x": "Omnichannel Retail in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the omnichannel retail reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the recurring pressure points, Omnichannel Retail edition:"
+   "x": "Inside Omnichannel Retail, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "one working session on Applied AI & GenAI for Omnichannel Retail, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 554,
+ "words": 583,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

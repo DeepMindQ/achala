@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Education & Research > Higher Education & Universities",
  "seo_title": "Higher Education & Universities | Achala IT Solutions",
- "meta_description": "Universities balance teaching quality, research output and financial sustainability: student-success analytics, research computing, administrative autom.",
+ "meta_description": "Higher Education & Universities in Education & Research — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Universities balance teaching quality, research output and financial sustainability: student-success analytics, research computing, administrative automation and campus economics. The constraint is governance, faculty senate, ethics boards and student privacy all bind. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Higher Education & Universities in Education & Research — an Achala sector brief. student experience and research output both depend on systems that simply work at term-start scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in student success/advising, research computing, accreditation evidence, with enrollment management close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Higher Education & Universities through the education & research program stack: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Talk to the team that runs operations in Higher Education & Universities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 358,
+ "words": 377,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

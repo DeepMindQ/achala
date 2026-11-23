@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Media & Entertainment > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Media & Entertainment | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Media & Entertainment in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse across Telecom, Media & Entertainment repeats one pattern in Media & Entertainment: pressure on Commissioning and audience analysis, pressure on Content localization/ops, a fix improvised at the desk. This page is the engineered version: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Media & Entertainment in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the media & entertainment reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Media & Entertainment, as operators describe it:"
+   "x": "Inside Media & Entertainment, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "one working session on Data & Lakehouse for Media & Entertainment, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 504,
+ "words": 531,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

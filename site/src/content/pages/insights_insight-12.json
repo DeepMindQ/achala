@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Cybersecurity & Zero-Trust > Compliance-as-code ends audit theater",
  "seo_title": "Compliance-as-code ends audit theater | Insight | Achala IT Solutions",
- "meta_description": "Controls tested continuously with automated evidence change audits from panic to sampling.",
+ "meta_description": "Compliance-as-code ends audit theater — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Controls tested continuously with automated evidence change audits from panic to sampling."
+   "x": "Compliance-as-code ends audit theater — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: compliance-as-code ends audit theater, measured against your baseline, in two weeks."
   }
  ],
- "words": 247,
+ "words": 283,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cybersecurity & Zero-Trust",

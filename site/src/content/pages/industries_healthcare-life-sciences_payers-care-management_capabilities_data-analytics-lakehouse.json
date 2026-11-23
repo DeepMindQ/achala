@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Care Management & Population Health > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Care Management & Population Health",
- "meta_description": "Data & Lakehouse for Care Management & Population Health: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Care Management & Population Health in Healthcare & Life Sciences: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse teams in Care Management & Population Health open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Care Management & Population Health in Healthcare & Life Sciences: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the care management & population health reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Care Management & Population Health, the queues and waits that come up first:"
+   "x": "Inside Care Management & Population Health, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Data & Lakehouse for Care Management & Population Health, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 498,
+ "words": 541,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

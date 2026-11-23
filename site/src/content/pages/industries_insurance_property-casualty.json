@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Insurance & Risk > Property & Casualty",
  "seo_title": "Property & Casualty | Achala IT Solutions",
- "meta_description": "P&C economics live in two moments: pricing the risk before the event and handling the claim after it.",
+ "meta_description": "Property & Casualty in Insurance & Risk — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "P&C economics live in two moments: pricing the risk before the event and handling the claim after it. Both are decision factories, rate against exposure and catastrophe models, settle against policy language and fraud signals, and both reward carriers whose document and data machinery is industrialized. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Property & Casualty in Insurance & Risk — an Achala sector brief. pricing, claims and capital decisions all need model governance that Solvency II reviewers accept This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in fnol and claims triage, estimate review and leakage control, commercial risk surveying, with pricing/filing analytics close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Property & Casualty through the insurance & risk program stack: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -261,7 +261,7 @@
    "x": "one working session on operations in Property & Casualty, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 442,
+ "words": 429,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Pharmaceuticals & Biotech > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Pharmaceuticals & Biotech",
- "meta_description": "Agentic AI & Hyperautomation for Pharmaceuticals & Biotech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Pharmaceuticals & Biotech in Healthcare & Life Sciences: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation is how Pharmaceuticals & Biotech operations could run Discovery screening without the discovery simulation costs tax. The build: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. For Pharmaceuticals & Biotech, this is the standard the build is held to."
+   "x": "Pharmaceuticals & Biotech in Healthcare & Life Sciences: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the pharmaceuticals & biotech reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Pharmaceuticals & Biotech, the places value leaks:"
+   "x": "Inside Pharmaceuticals & Biotech, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "one working session on Agentic AI & Hyperautomation for Pharmaceuticals & Biotech, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 569,
+ "words": 600,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > Multimodal AI & Vision-Language Systems",
  "seo_title": "Multimodal AI & Vision-Language Systems | Achala IT Solutions",
- "meta_description": "Multimodal vision wired into systems of record: per-field confidence gates, ledger reconciliation, correction capture and audit-ready extraction — posting is the deliverable.",
+ "meta_description": "Multimodal AI & Vision-Language Systems is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Document and scene understanding wired into the systems of record: extraction with per-field confidence, ledger reconciliation that catches what models miss, and evidence trails that let auditors verify every posted value without leaving the console."
+   "x": "Multimodal AI & Vision-Language Systems is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Vision in the enterprise is document understanding first, scene understanding second: extraction that feeds a system of record, QA that catches what humans miss, and safety monitoring that has to work at 2am without a person watching."
+   "x": "Multimodal AI & Vision-Language Systems is delivered by an Achala practice team that stays through industrialization. Achala ships applied AI with its evidence attached: evaluation harnesses, drift monitoring and measured deltas against your baseline. If a model does not beat the baseline, we say so — that honesty is why clients keep the programs running. Who this is for: product and business leaders with a P&L line to move, and CDOs consolidating AI governance."
   },
   {
    "t": "p",
@@ -1443,10 +1443,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the document class your back office dreads most. The four-week provability sprint will show you the straight-through rate it can honestly reach, with the review load priced in."
+   "x": "Bring one AI use case to an Achala briefing. We will show the evaluation plan, the reference architecture and the metric it would move. The first session costs nothing but the hour."
   }
  ],
- "words": 1201,
+ "words": 1606,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

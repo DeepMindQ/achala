@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Data, Analytics & Lakehouse > The lakehouse is the AI program's foundation — literally",
  "seo_title": "The lakehouse is the AI program's foundation — literally",
- "meta_description": "Retrieval, features and BI belong on one governed estate, or none of them is trustworthy.",
+ "meta_description": "The lakehouse is the AI program's foundation — literally — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Retrieval, features and BI belong on one governed estate, or none of them is trustworthy."
+   "x": "The lakehouse is the AI program's foundation — literally — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Start with the diagnostic, not the contract: the lakehouse is the AI program's foundation, literally baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 256,
+ "words": 292,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Data, Analytics & Lakehouse",

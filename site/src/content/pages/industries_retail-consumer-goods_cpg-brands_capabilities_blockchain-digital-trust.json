@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > CPG & Brands > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for CPG & Brands | Achala IT Solutions",
- "meta_description": "Blockchain & Digital Trust for CPG & Brands: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "CPG & Brands in Retail & Consumer Goods: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in CPG & Brands meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "CPG & Brands in Retail & Consumer Goods: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the cpg & brands reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In CPG & Brands, the recurring pressure points:"
+   "x": "Inside CPG & Brands, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: Blockchain & Digital Trust for CPG & Brands baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 474,
+ "words": 525,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

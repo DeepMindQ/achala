@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Logistics & Supply Chain",
  "seo_title": "Logistics & Supply Chain | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Logistics & Supply Chain: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Logistics margin hides in routing, dwell and utilization, and it never sits still.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Logistics is where operations research was born, and it is where agentic AI pays fastest: routes, loads, docks, yards and exceptions are decision fields with measurable physics. The winners run control towers that see events as they happen, re-plan autonomously within policy, and treat every exception as data, compounding an execution advantage that price discounting cannot buy."
+   "x": "Logistics margin hides in routing, dwell and utilization, and it never sits still. Achala's programs for Logistics & Supply Chain cover fleet telematics with up to 40% efficiency gains, warehouse decision systems and cross-border visibility under C-TPAT — measured per route, per shift."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: programs in Logistics & Supply Chain, measured against your baseline, in two weeks."
   }
  ],
- "words": 452,
+ "words": 457,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

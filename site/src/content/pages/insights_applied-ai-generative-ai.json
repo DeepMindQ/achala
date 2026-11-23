@@ -5,11 +5,11 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Applied AI & Generative AI",
  "seo_title": "Insights: Applied AI & GenAI | Insights | Achala IT Solutions",
- "meta_description": "Achala IT Solutions perspectives on Applied AI & Generative AI: engineering notes, market views and delivery lessons.",
+ "meta_description": "Applied AI & Generative AI — viewpoints from the Achala delivery floor.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Insights: Applied AI & GenAI: what this page covers, written the way we deliver it, plainly, with the trade-offs named."
+   "x": "Applied AI & Generative AI — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
   },
   {
    "t": "h2",
@@ -66,7 +66,7 @@
    "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
   }
  ],
- "words": 172,
+ "words": 196,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Applied AI & Generative AI",

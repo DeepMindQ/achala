@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Digital Twin & Robotics | Achala IT Solutions",
- "meta_description": "IoT, Digital Twin & Robotics for physical operations: sensor fabrics that survive partitions, edge AI on deadline, honest twins, robot fleets with safety cases. Seven practices, fidelity-gated end to end.",
+ "meta_description": "Achala's IoT, Digital Twin & Robotics domain closes the loop between sensors and action.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Digital Twin & Robotics turns physical operations into self-monitoring systems: sensor fabrics that survive partitions, edge AI that meets its deadlines, twins that stay honest against reality, and robot fleets with safety cases, the operations stack where fidelity to the physical world is the metric that gates everything else."
+   "x": "Achala's IoT, Digital Twin & Robotics domain closes the loop between sensors and action. Eight practices cover industrial IoT fabrics, twin platforms, vision systems and connected devices — engineered for plants, fleets and hospitals where actuation must be safe."
   },
   {
    "t": "p",
@@ -1212,7 +1212,7 @@
    "x": "Bring the asset class whose failures cost the most and whose data nobody trusts. The two-week diagnostic will baseline capture fidelity, and price what honest sensing, twinning and prediction would cost on it."
   }
  ],
- "words": 854,
+ "words": 1167,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Network Operators (CSPs) > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Network Operators (CSPs) | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Network Operators (CSPs): delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Network Operators (CSPs) in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Network Operators (CSPs) is how Network operations (NOC) and Retention/save offers stop leaning on manual work, both decide the margin. The build: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Network Operators (CSPs) in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the network operators (csps) reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Network Operators (CSPs), where the friction concentrates:"
+   "x": "Inside Network Operators (CSPs), Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Talk to the team that runs Data & Lakehouse for Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 479,
+ "words": 523,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

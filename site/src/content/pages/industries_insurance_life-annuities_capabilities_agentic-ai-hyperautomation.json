@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Life & Annuities > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Life & Annuities",
- "meta_description": "Agentic AI & Hyperautomation for Life & Annuities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Life & Annuities in Insurance & Risk: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation answers Insurance & Risk pressure where it lands in Life & Annuities: surrender and service queues, week after week. The architectural answer: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. Life & Annuities is where this discipline pays."
+   "x": "Life & Annuities in Insurance & Risk: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the life & annuities reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Life & Annuities, the queues and waits that come up first:"
+   "x": "Inside Life & Annuities, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Agentic AI & Hyperautomation for Life & Annuities, measured against your baseline, in two weeks."
   }
  ],
- "words": 501,
+ "words": 547,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

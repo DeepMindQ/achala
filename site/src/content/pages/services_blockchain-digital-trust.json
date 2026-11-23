@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust | Achala IT Solutions",
- "meta_description": "Blockchain & Digital Trust as boring infrastructure: chartered networks, audited contracts, offline-verifiable identity, provenance that survives recalls. Six practices, five gates, twelve sector playbooks.",
+ "meta_description": "Achala's Blockchain & Digital Trust domain builds the record-sharing layer between organizations.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust is delivered as boring infrastructure: permissioned networks with real governance, contracts that pass audits at zero highs, identity that works offline, provenance that survives recalls, the verifiable record regulators accept, built with consensus nobody has to adore."
+   "x": "Achala's Blockchain & Digital Trust domain builds the record-sharing layer between organizations. Eight practices cover consortium design, tokenization, provenance and audit chains — production networks where trading partners, regulators and auditors all read the same history."
   },
   {
    "t": "p",
@@ -1254,7 +1254,7 @@
    "x": "Bring the record-keeping problem your auditors and your trading partners both distrust. The two-week diagnostic will draft the charter and price what verifiable evidence costs on your network."
   }
  ],
- "words": 799,
+ "words": 1141,
  "section": "Services",
  "l1": "Services",
  "l2": "Blockchain & Digital Trust",

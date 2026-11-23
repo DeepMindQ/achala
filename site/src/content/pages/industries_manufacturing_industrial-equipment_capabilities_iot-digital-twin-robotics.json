@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Industrial Equipment & Machinery > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Industrial Equipment & Machinery",
- "meta_description": "IoT, Twin & Robotics for Industrial Equipment & Machinery: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Industrial Equipment & Machinery in Manufacturing & Industrial: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against installed base disconnected in Industrial Equipment & Machinery: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "Industrial Equipment & Machinery in Manufacturing & Industrial: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the industrial equipment & machinery reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework, Industrial Equipment & Machinery edition:"
+   "x": "Inside Industrial Equipment & Machinery, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Bring IoT, Twin & Robotics for Industrial Equipment & Machinery to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 511,
+ "words": 552,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

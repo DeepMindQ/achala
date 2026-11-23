@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Retail & Consumer Goods > Fashion & Luxury",
  "seo_title": "Fashion & Luxury | Achala IT Solutions",
- "meta_description": "Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency.",
+ "meta_description": "Fashion & Luxury in Retail & Consumer Goods — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Fashion and luxury sell scarcity, story and service: assortment risk (the size-curve problem), authenticity, clienteling quality and channel consistency. Technology must be invisible, but the intelligence beneath it decides which drops pay. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Fashion & Luxury in Retail & Consumer Goods — an Achala sector brief. pricing, availability and experience decisions repeat thousands of times a day, per store This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in assortment and buy planning, boutique allocation, clienteling and crm, with authenticity services close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Fashion & Luxury through the retail & consumer goods program stack: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: operations in Fashion & Luxury, measured against your baseline, in two weeks."
   }
  ],
- "words": 363,
+ "words": 372,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

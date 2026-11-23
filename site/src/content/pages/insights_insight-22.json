@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > IoT, Digital Twin & Robotics > Retrofit first, rip-and-replace never",
  "seo_title": "Retrofit first, rip-and-replace never | Insight | Achala IT Solutions",
- "meta_description": "The sensor fabric that pays is the one that mounts on live assets without stopping them.",
+ "meta_description": "Retrofit first, rip-and-replace never — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The sensor fabric that pays is the one that mounts on live assets without stopping them."
+   "x": "Retrofit first, rip-and-replace never — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Start with the diagnostic, not the contract: retrofit first, rip-and-replace never baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 239,
+ "words": 272,
  "section": "Insights",
  "l1": "Insights",
  "l2": "IoT, Digital Twin & Robotics",

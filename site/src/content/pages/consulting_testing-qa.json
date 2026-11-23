@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "Testing & Quality Engineering — Consulting | Achala IT Solutions",
- "meta_description": "Testing & Quality Engineering: Quality engineered in — measurable coverage, honest gate criteria, fewer escapes. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "Testing & Quality Engineering from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Testing & Quality Engineering: Quality engineered in, measurable coverage, honest gate criteria, fewer escapes. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "Testing & Quality Engineering from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Testing is not a phase; it is the evidence system for delivery. We build quality engineering functions that prove what works and find what does not: risk-based test strategies tied to real failure data, automation pyramids that run in minutes instead of nights, and performance models that simulate production load rather than guessing at it. Escapes are analyzed to the root, and every analysis changes a gate."
+   "x": "Testing & Quality Engineering runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -198,7 +198,7 @@
    "x": "Book a Testing & Quality Engineering briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 357,
+ "words": 358,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "Testing & Quality Engineering",

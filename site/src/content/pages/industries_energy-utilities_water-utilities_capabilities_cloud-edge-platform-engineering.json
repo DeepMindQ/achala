@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Water, Waste & City Utilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Water, Waste & City Utilities",
- "meta_description": "Cloud, Edge & Platform for Water, Waste & City Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Water, Waste & City Utilities in Energy & Utilities: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against non-revenue water invisible in Water, Waste & City Utilities: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. For Water, Waste & City Utilities, this is the standard the build is held to."
+   "x": "Water, Waste & City Utilities in Energy & Utilities: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the water, waste & city utilities reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Water, Waste & City Utilities, the places value leaks:"
+   "x": "Inside Water, Waste & City Utilities, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Cloud, Edge & Platform for Water, Waste & City Utilities, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 479,
+ "words": 515,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

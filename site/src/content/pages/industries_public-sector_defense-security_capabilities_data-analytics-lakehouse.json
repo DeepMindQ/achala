@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Defense & National Security > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Defense & National Security",
- "meta_description": "Data & Lakehouse for Defense & National Security: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Defense & National Security in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse across Public Sector & Government repeats one pattern in Defense & National Security: pressure on Mission data fusion, pressure on Accreditation evidence, a fix improvised at the desk. This page is the engineered version: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Defense & National Security in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the defense & national security reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the places value leaks, Defense & National Security edition:"
+   "x": "Inside Defense & National Security, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Defense & National Security, measured against your baseline, in two weeks."
   }
  ],
- "words": 456,
+ "words": 501,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

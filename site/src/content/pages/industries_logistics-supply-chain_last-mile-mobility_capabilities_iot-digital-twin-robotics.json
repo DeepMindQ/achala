@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Last-Mile & Urban Logistics > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Last-Mile & Urban Logistics",
- "meta_description": "IoT, Twin & Robotics for Last-Mile & Urban Logistics: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Last-Mile & Urban Logistics in Logistics & Supply Chain: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics responds where Last-Mile & Urban Logistics hurts most: fleet and parcel blind lands near the top of every operator list. The structured response: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control. That is the engineering behind Last-Mile & Urban Logistics."
+   "x": "Last-Mile & Urban Logistics in Logistics & Supply Chain: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the last-mile & urban logistics reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Last-Mile & Urban Logistics, the recurring pressure points:"
+   "x": "Inside Last-Mile & Urban Logistics, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: IoT, Twin & Robotics for Last-Mile & Urban Logistics baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 488,
+ "words": 537,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

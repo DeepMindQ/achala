@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust",
  "seo_title": "Cybersecurity & Zero-Trust | Achala IT Solutions",
- "meta_description": "Cybersecurity & Zero-Trust as one control surface: identity, detection, posture, resilience, compliance and AI-model protection on one evidence register. Time and evidence are the currencies — both are measured.",
+ "meta_description": "Achala's Cybersecurity & Zero-Trust domain protects people, machines and models.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cybersecurity & Zero-Trust runs as one control surface, not seven disconnected services: identity, detection, posture, resilience, compliance and AI security share one evidence model, so a control proven once is trusted everywhere, and audit becomes a reading exercise instead of a fire drill."
+   "x": "Achala's Cybersecurity & Zero-Trust domain protects people, machines and models. Eight practices cover zero-trust architecture, AI security, governance and testing — controls deployed with continuous evidence, built for regulated estates from banking to automotive supply chains."
   },
   {
    "t": "p",
@@ -1222,7 +1222,7 @@
    "x": "Bring the control your auditor doubts most. The two-week diagnostic will measure its real coverage and evidence trail, and tell you what passing would take, in named owners and hours."
   }
  ],
- "words": 871,
+ "words": 1219,
  "section": "Services",
  "l1": "Services",
  "l2": "Cybersecurity & Zero-Trust",

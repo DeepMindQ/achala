@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Warehousing & Fulfillment > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Warehousing & Fulfillment",
- "meta_description": "Agentic AI & Hyperautomation for Warehousing & Fulfillment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Warehousing & Fulfillment in Logistics & Supply Chain: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Warehousing & Fulfillment is how Slotting and pick-path and Wave/order batching stop leaning on manual work, both decide the margin. The build: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "Warehousing & Fulfillment in Logistics & Supply Chain: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the warehousing & fulfillment reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Warehousing & Fulfillment edition:"
+   "x": "Inside Warehousing & Fulfillment, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -210,7 +210,7 @@
    "x": "Start with the diagnostic, not the contract: Agentic AI & Hyperautomation for Warehousing & Fulfillment baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 418,
+ "words": 475,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

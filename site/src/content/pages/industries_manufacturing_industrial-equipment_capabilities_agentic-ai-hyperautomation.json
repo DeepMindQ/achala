@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Industrial Equipment & Machinery > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Industrial Equipment &…",
- "meta_description": "Agentic AI & Hyperautomation for Industrial Equipment & Machinery: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Industrial Equipment & Machinery in Manufacturing & Industrial: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation is how Industrial Equipment & Machinery operations could run Fleet connectivity/OTA without the service dispatch manual tax. The build: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why."
+   "x": "Industrial Equipment & Machinery in Manufacturing & Industrial: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the industrial equipment & machinery reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Industrial Equipment & Machinery: named from the floor, not from a framework,"
+   "x": "Inside Industrial Equipment & Machinery, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -210,7 +210,7 @@
    "x": "Talk to the team that runs Agentic AI & Hyperautomation for Industrial Equipment & Machinery in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 488,
+ "words": 534,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

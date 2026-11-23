@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Smart Cities & Infrastructure > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Smart Cities &…",
- "meta_description": "Agentic AI & Hyperautomation for Smart Cities & Infrastructure: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Smart Cities & Infrastructure in Public Sector & Government: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Smart Cities & Infrastructure targets a specific gap: systems exist, but no governed path connects them, which is why service ops reactive still costs what it costs. The build closes it: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Smart Cities & Infrastructure, this is the standard the build is held to."
+   "x": "Smart Cities & Infrastructure in Public Sector & Government: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the smart cities & infrastructure reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Smart Cities & Infrastructure, named from the floor, not from a framework:"
+   "x": "Inside Smart Cities & Infrastructure, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -210,7 +210,7 @@
    "x": "Bring Agentic AI & Hyperautomation for Smart Cities & Infrastructure to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 485,
+ "words": 510,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

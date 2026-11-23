@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Energy & Utilities > Renewable Energy",
  "seo_title": "Renewable Energy | Achala IT Solutions",
- "meta_description": "Renewable operators industrialize asset performance: turbine and inverter health, generation forecasting, PPA settlement and hybrid-plant optimization.",
+ "meta_description": "Renewable Energy in Energy & Utilities — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Renewable operators industrialize asset performance: turbine and inverter health, generation forecasting, PPA settlement and hybrid-plant optimization. Margins live in availability percentage points and forecast accuracy, both telemetry problems. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Renewable Energy in Energy & Utilities — an Achala sector brief. the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in fleet maintenance, generation forecasting, ppa/go settlement, with hybrid optimization close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Renewable Energy through the energy & utilities program stack: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: operations in Renewable Energy, measured against your baseline, in two weeks."
   }
  ],
- "words": 326,
+ "words": 346,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

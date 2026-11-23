@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Agri-Food Processing > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Agri-Food Processing | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Agri-Food Processing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agri-Food Processing in Agriculture & Food Systems: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust is how Agri-Food Processing operations could run Intake grading without the provenance claims unverifiable tax. The build: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour. For Agri-Food Processing, this is the standard the build is held to."
+   "x": "Agri-Food Processing in Agriculture & Food Systems: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the agri-food processing reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first, Agri-Food Processing edition:"
+   "x": "Inside Agri-Food Processing, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Agri-Food Processing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 506,
+ "words": 540,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Energy & Utilities | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Energy & Utilities: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Energy & Utilities: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Energy & Utilities: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Energy & Utilities, as operators describe it:"
+   "x": "Applied AI & Generative AI in Energy & Utilities is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -243,7 +243,7 @@
    "x": "If Applied AI & GenAI in Energy & Utilities is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 612,
+ "words": 684,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

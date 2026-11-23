@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Manufacturing & Industrial > Process Industries & Chemicals",
  "seo_title": "Process Industries & Chemicals | Achala IT Solutions",
- "meta_description": "Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry.",
+ "meta_description": "Process Industries & Chemicals in Manufacturing & Industrial — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Process industries run on continuous physics: yields, energy and safety windows decided by process telemetry. Advanced process control plus predictive maintenance plus energy intelligence is the classic compounding stack, now with agentic planning on top. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Process Industries & Chemicals in Manufacturing & Industrial — an Achala sector brief. the plant floor punishes latency twice: once in throughput, once in quality This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in apc/advanced control, predictive maintenance, batch genealogy/investigation, with energy optimization close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Process Industries & Chemicals through the manufacturing & industrial program stack: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "If operations in Process Industries & Chemicals is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 406,
+ "words": 417,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

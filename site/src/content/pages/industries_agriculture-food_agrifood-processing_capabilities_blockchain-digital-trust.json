@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Agri-Food Processing > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Agri-Food Processing",
- "meta_description": "Blockchain & Digital Trust for Agri-Food Processing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agri-Food Processing in Agriculture & Food Systems: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust treats traceability slow in Agri-Food Processing as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. For Agri-Food Processing, this is the standard the build is held to."
+   "x": "Agri-Food Processing in Agriculture & Food Systems: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the agri-food processing reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Agri-Food Processing, the places value leaks:"
+   "x": "Inside Agri-Food Processing, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: Blockchain & Digital Trust for Agri-Food Processing baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 436,
+ "words": 482,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

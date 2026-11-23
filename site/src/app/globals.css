@@ -426,10 +426,9 @@
 
 /* ── Prose measure (CHG-088) ──────────────────────────────────────────── */
 .measure {
-  /* content-fill fix (2026-11-20): 68ch inside the 960px main column left a
-     ~260px blank margin on every internal page. 78ch fills the column while
-     staying inside the 75-90ch professional readability ceiling. */
-  max-width: 78ch;
+  /* 2026-11-23: full-width body copy per client direction — paragraphs fill
+     the container (max 1360px) with no artificial measure */
+  max-width: none;
 }
 .measure-none {
   max-width: none;

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Reinsurance & Commercial Lines > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Reinsurance & Commercial Lines",
- "meta_description": "Applied AI & GenAI for Reinsurance & Commercial Lines: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Reinsurance & Commercial Lines in Insurance & Risk: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI across Insurance & Risk repeats one pattern in Reinsurance & Commercial Lines: pressure on Bordereaux intake/reconciliation, pressure on Treaty settlement, a fix improvised at the desk. This page is the engineered version: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Reinsurance & Commercial Lines in Insurance & Risk: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the reinsurance & commercial lines reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Reinsurance & Commercial Lines edition:"
+   "x": "Inside Reinsurance & Commercial Lines, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -224,7 +224,7 @@
    "x": "Start with the diagnostic, not the contract: Applied AI & GenAI for Reinsurance & Commercial Lines baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 498,
+ "words": 547,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

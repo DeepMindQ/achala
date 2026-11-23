@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Pharmaceuticals & Biotech > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Pharmaceuticals & Biotech",
- "meta_description": "Quantum & Advanced Compute for Pharmaceuticals & Biotech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Pharmaceuticals & Biotech in Healthcare & Life Sciences: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Pharmaceuticals & Biotech lives inside Discovery screening, Protocol eligibility matching and Pharmacovigilance intake, paths that all carry decisions now. The work: where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing."
+   "x": "Pharmaceuticals & Biotech in Healthcare & Life Sciences: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the pharmaceuticals & biotech reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Pharmaceuticals & Biotech edition:"
+   "x": "Inside Pharmaceuticals & Biotech, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring Quantum & Advanced Compute for Pharmaceuticals & Biotech to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 456,
+ "words": 512,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

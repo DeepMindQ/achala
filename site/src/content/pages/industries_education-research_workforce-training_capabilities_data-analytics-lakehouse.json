@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Workforce & Vocational Training > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Workforce & Vocational Training",
- "meta_description": "Data & Lakehouse for Workforce & Vocational Training: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Workforce & Vocational Training in Education & Research: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse is the layer between the systems Workforce & Vocational Training owns and the decisions leadership needs. That layer is the work: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. That is the engineering behind Workforce & Vocational Training."
+   "x": "Workforce & Vocational Training in Education & Research: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the workforce & vocational training reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Workforce & Vocational Training, where the friction concentrates:"
+   "x": "Inside Workforce & Vocational Training, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Data & Lakehouse for Workforce & Vocational Training, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 456,
+ "words": 493,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

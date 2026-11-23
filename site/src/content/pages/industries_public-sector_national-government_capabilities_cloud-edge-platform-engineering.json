@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > National Government & Digital Services > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for National Government & Digital…",
- "meta_description": "Cloud, Edge & Platform for National Government & Digital Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "National Government & Digital Services in Public Sector & Government: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against agency silos persist in National Government & Digital Services: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "National Government & Digital Services in Public Sector & Government: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the national government & digital services reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "named from the floor, not from a framework, National Government & Digital Services edition:"
+   "x": "Inside National Government & Digital Services, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Bring Cloud, Edge & Platform for National Government & Digital Services to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 461,
+ "words": 511,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

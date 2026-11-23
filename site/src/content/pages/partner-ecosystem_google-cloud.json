@@ -5,8 +5,8 @@
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > Google Cloud",
  "seo_title": "Google Cloud Alliance | Achala IT Solutions",
- "meta_description": "What Achala IT Solutions engineers on Google Cloud: Analytics, AI and multi-cloud data platforms on Google Cloud.",
- "words": 179,
+ "meta_description": "Google Cloud Alliance — validated in delivery with Achala.",
+ "words": 194,
  "section": "Company",
  "l1": "About Us",
  "l2": "Partner Ecosystem",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Achala IT Solutions alliance with Google Cloud: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "Google Cloud Alliance — validated in delivery with Achala. Alliance programs earn their place by working inside Achala engagements: joint reference architectures, shared support paths and results clients can check."
   },
   {
    "t": "h2",

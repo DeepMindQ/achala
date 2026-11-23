@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "ERP Services & Enterprise Core — Consulting | Achala IT Solutions",
- "meta_description": "ERP Services & Enterprise Core: ERP programs that land process, data and controls — not just software. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "ERP Services & Enterprise Core from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "ERP Services & Enterprise Core: ERP programs that land process, data and controls, not just software. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "ERP Services & Enterprise Core from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "ERP programs fail at the seams: the customizations nobody documented, the master data nobody owns, and the controls the auditors test that the implementers never saw. We run ERP programs as enterprise engineering, S/4HANA and Dynamics 365 implementations, finance and supply-chain transformations, and the integration fabric that keeps the core synchronized with everything around it."
+   "x": "ERP Services & Enterprise Core runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -202,7 +202,7 @@
    "x": "Book a ERP Services & Enterprise Core briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 323,
+ "words": 336,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "ERP Services & Enterprise Core",

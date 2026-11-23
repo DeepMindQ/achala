@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Insurance & Risk > Health Insurance & Benefits",
  "seo_title": "Health Insurance & Benefits | Achala IT Solutions",
- "meta_description": "Health payers sit between clinical reality and administrative machinery: prior authorization, coding integrity, quality programs and member experience a.",
+ "meta_description": "Health Insurance & Benefits in Insurance & Risk — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Health payers sit between clinical reality and administrative machinery: prior authorization, coding integrity, quality programs and member experience all hinge on reading clinical evidence quickly and acting on it consistently, at HIPAA-grade privacy. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Health Insurance & Benefits in Insurance & Risk — an Achala sector brief. pricing, claims and capital decisions all need model governance that Solvency II reviewers accept This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in prior authorization, claims coding integrity, quality/hedis reporting, with member service resolution close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Health Insurance & Benefits through the insurance & risk program stack: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: operations in Health Insurance & Benefits, measured against your baseline, in two weeks."
   }
  ],
- "words": 428,
+ "words": 441,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

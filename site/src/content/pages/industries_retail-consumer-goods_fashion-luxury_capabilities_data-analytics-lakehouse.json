@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Fashion & Luxury > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Fashion & Luxury | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Fashion & Luxury: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Fashion & Luxury in Retail & Consumer Goods: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Fashion & Luxury gets concrete fast: Clienteling inconsistent names a real queue, a real wait, a real cost. What we build to end it: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. That is the engineering behind Fashion & Luxury."
+   "x": "Fashion & Luxury in Retail & Consumer Goods: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the fashion & luxury reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Fashion & Luxury: where the friction concentrates,"
+   "x": "Inside Fashion & Luxury, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Fashion & Luxury, measured against your baseline, in two weeks."
   }
  ],
- "words": 504,
+ "words": 539,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

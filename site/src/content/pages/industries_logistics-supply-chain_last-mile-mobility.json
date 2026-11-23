@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Logistics & Supply Chain > Last-Mile & Urban Logistics",
  "seo_title": "Last-Mile & Urban Logistics | Achala IT Solutions",
- "meta_description": "Last mile is the costliest mile: route density, delivery promise, failed-delivery economics and urban access rules.",
+ "meta_description": "Last-Mile & Urban Logistics in Logistics & Supply Chain — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Last mile is the costliest mile: route density, delivery promise, failed-delivery economics and urban access rules. Dynamic routing, fleet telemetry and micro-hub orchestration decide whether the final mile makes money. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Last-Mile & Urban Logistics in Logistics & Supply Chain — an Achala sector brief. margin hides in routing, dwell time and fleet utilization — and never sits still This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in dynamic routing, delivery promise management, failed-delivery recovery, with micro-hub operations close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Last-Mile & Urban Logistics through the logistics & supply chain program stack: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Bring operations in Last-Mile & Urban Logistics to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 347,
+ "words": 363,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

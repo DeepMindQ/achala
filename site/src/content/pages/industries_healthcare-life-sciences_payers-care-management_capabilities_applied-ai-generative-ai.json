@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Care Management & Population Health > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Care Management & Population Health",
- "meta_description": "Applied AI & GenAI for Care Management & Population Health: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Care Management & Population Health in Healthcare & Life Sciences: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Care Management & Population Health meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Care Management & Population Health in Healthcare & Life Sciences: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the care management & population health reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the places value leaks, Care Management & Population Health edition:"
+   "x": "Inside Care Management & Population Health, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Applied AI & GenAI for Care Management & Population Health is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 496,
+ "words": 557,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

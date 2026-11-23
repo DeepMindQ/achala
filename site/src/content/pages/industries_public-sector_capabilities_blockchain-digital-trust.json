@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Public Sector & Government > Capabilities > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Public Sector & Government",
- "meta_description": "Blockchain & Digital Trust for Public Sector & Government: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Sector & Government: Blockchain & Digital Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Public Sector & Government has one job: move a named number, records integrity under dispute included, and prove it moved. The engineering that does it: we put the record on rails, immutable event history, selective disclosure, and integrations your counterparties' auditors accept."
+   "x": "Public Sector & Government: Blockchain & Digital Trust that ships. Achala runs Blockchain & Digital Trust as a production discipline for this sector — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Public Sector & Government: the queues and waits that come up first,"
+   "x": "Blockchain & Digital Trust in Public Sector & Government is delivered by an Achala practice team that stays through industrialization: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "If Blockchain & Digital Trust in Public Sector & Government is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 528,
+ "words": 584,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

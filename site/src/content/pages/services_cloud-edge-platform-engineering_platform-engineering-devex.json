@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > Platform Engineering & Developer Experience",
  "seo_title": "Platform Engineering & Developer Experience | Achala IT Solutions",
- "meta_description": "Platform engineering where adoption is the metric: golden paths as versioned APIs, lead-time deltas published on the console, and deviations signed like product decisions.",
+ "meta_description": "Platform Engineering & Developer Experience from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The platform as a product with developers as customers: golden paths published as versioned APIs, scaffolds that carry SLOs and budgets by default, bypass reasons logged and answered, adoption earned through experience, never mandated."
+   "x": "Platform Engineering & Developer Experience from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there. Part of the Cloud, Edge & Platform Engineering domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Platform engineering exists to make the right thing the easy thing: a new service should inherit observability, security defaults, SLOs and cost budgets because it rode a golden path, not because a hero wired them by hand. The platform team runs this as a product with a roadmap, SLAs and customers: your engineers."
+   "x": "Platform Engineering & Developer Experience is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1410,10 +1410,10 @@
   },
   {
    "t": "cta",
-   "x": "Count the services created last quarter and ask which ran the paved road. The diagnostic will score adoption with bypass reasons attached, and turn the top two into the platform roadmap."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces."
   }
  ],
- "words": 1026,
+ "words": 1399,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

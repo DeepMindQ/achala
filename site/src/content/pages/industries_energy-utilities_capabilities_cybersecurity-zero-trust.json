@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Energy & Utilities | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Energy & Utilities: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Energy & Utilities has one job: move a named number, OT estate exposed by convergence included, and prove it moved. The engineering that does it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Energy & Utilities: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks, Energy & Utilities edition:"
+   "x": "Cybersecurity & Zero-Trust in Energy & Utilities is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -243,7 +243,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust in Energy & Utilities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 523,
+ "words": 569,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

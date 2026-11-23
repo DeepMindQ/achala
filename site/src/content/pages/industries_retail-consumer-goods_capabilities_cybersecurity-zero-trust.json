@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Retail & Consumer Goods | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Retail & Consumer Goods: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Goods: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Retail & Consumer Goods does not chase announcements; it delivers audited change, which means we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. Retail & Consumer Goods is where this discipline pays."
+   "x": "Retail & Consumer Goods: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Retail & Consumer Goods: as operators describe it,"
+   "x": "Cybersecurity & Zero-Trust in Retail & Consumer Goods is delivered by an Achala practice team that stays through industrialization: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -233,7 +233,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cyber & Zero-Trust in Retail & Consumer Goods, measured against your baseline, in two weeks."
   }
  ],
- "words": 560,
+ "words": 614,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

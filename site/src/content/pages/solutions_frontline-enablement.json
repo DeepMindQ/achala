@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Workforce & Experience > Frontline Mobile & Field Enablement",
  "seo_title": "Frontline Mobile & Field Enablement | Solution | Achala IT Solutions",
- "meta_description": "Frontline Mobile & Field Enablement — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Frontline Mobile & Field Enablement — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Frontline Mobile & Field Enablement exists because a specific failure keeps repeating: frontline teams juggle paper, portals and WhatsApp; task lists are static; expertise is unreachable; compliance evidence is manual."
+   "x": "Frontline Mobile & Field Enablement — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "one working session on Frontline Mobile & Field Enablement, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 380,
+ "words": 422,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Workforce & Experience",

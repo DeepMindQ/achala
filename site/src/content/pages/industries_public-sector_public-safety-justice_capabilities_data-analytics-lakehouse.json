@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Public Safety & Justice | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Public Safety & Justice: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Safety & Justice in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Public Safety & Justice gets concrete fast: Systems targeted names a real queue, a real wait, a real cost. What we build to end it: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Public Safety & Justice in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the public safety & justice reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Public Safety & Justice edition:"
+   "x": "Inside Public Safety & Justice, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "If Data & Lakehouse for Public Safety & Justice is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 452,
+ "words": 503,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

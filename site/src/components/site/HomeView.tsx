@@ -7,7 +7,6 @@ import {
   SpotlightSlider,
   IndustryFinder,
   PlatformTabs,
-  RotatingProof,
   SectionRail,
   DomainRouter,
   EvidenceGrid,
@@ -21,6 +20,7 @@ import NewsletterForm from "./NewsletterForm";
 import { CtaBand, Quote, StatsStrip } from "@/components/site/PagePieces";
 import { readPage, fileForUrl, pageIndex, type PageData } from "@/lib/content";
 import OpsConsole from "@/components/site/OpsConsole";
+import HeroSlider, { type HeroSlide } from "./HeroSlider";
 
 /* ── A-01..A-58 homepage rebuild (Wave 1 of the change register) ────────── */
 
@@ -35,6 +35,37 @@ const HUB_BY_SLUG: Record<string, string> = {
   "agentic-ai-hyperautomation": "Agentic AI & Hyperautomation",
   "blockchain-digital-trust": "Blockchain & Digital Trust",
 };
+
+/* the three hero stories — services, platforms, global delivery */
+const HERO_SLIDES: HeroSlide[] = [
+  {
+    kicker: "AI services · Platforms · Consulting",
+    l1: "Enterprise AI solutions,",
+    l2a: "from proof of concept to",
+    l2grad: "production",
+    sub: "Achala IT Solutions builds AI platforms and engineering services that take enterprise programs from first pilot to industrialized production. Our own platforms process millions of transactions a day, and every engagement is measured against a business metric you sign before delivery starts.",
+    proof: "50,000+ emergency cases a day, dispatched by one Achala platform.",
+    aria: "AI services and consulting story",
+  },
+  {
+    kicker: "Platform suite · R&D programme",
+    l1: "Sixteen Achala platforms,",
+    l2a: "eight licensed from our",
+    l2grad: "R&D programme",
+    sub: "Nexus for decisions, Forge for data, Swarm for agents, Sentinel for security, Twinverse for operations, Quanta for advanced compute, Ledger for trust and Compass for governance. Each arrives configured, runs under NDA on your infrastructure, and produces the evidence your auditors expect.",
+    proof: "8 patented accelerator families, aligned across platforms and services.",
+    aria: "Platform suite story",
+  },
+  {
+    kicker: "Global delivery · ISO/IEC 27001",
+    l1: "300+ engineers, three countries,",
+    l2a: "one",
+    l2grad: "delivery standard",
+    sub: "Hyderabad headquarters with delivery teams in Munich and Sofia. ISO/IEC 27001-certified, TISAX-audited, GDPR-aligned programs for mobility, healthcare, manufacturing and financial services clients — with the Achala Sulzer partnership giving European clients fair-shoring continuity.",
+    proof: "95% client retention across long-run engagements.",
+    aria: "Global delivery story",
+  },
+];
 
 /* the eight platform-suite cards — licensed products from our R&D programme */
 const SUITE_CARDS = [
@@ -326,38 +357,8 @@ export default function HomeView() {
         <div className="relative container-dq grid gap-10 pb-14 pt-16 sm:pt-24 lg:grid-cols-[minmax(0,7fr)_minmax(0,5fr)] lg:items-center">
           <div>
             <Reveal className="hero-choreo">
-              {/* A-02: category chips, TCS-boilerplate vocabulary — the descriptor lives here, not in the H1 */}
-              <p className="rise-item text-[12px] font-semibold uppercase tracking-[0.22em] text-brand-300" style={{ ["--rise-delay" as string]: "40ms" }}>
-                AI services · Platforms · Consulting
-              </p>
-              <h1 className="text-display-1 mt-4 max-w-3xl text-white">
-                <span className="line-mask block" style={{ ["--rise-delay" as string]: "120ms" }}>
-                  <span className="line-mask-inner block">Enterprise AI solutions,</span>
-                </span>
-                <span className="line-mask block" style={{ ["--rise-delay" as string]: "260ms" }}>
-                  <span className="line-mask-inner block">
-                    from proof of concept to <span className="grad-text">production</span>.
-                  </span>
-                </span>
-              </h1>
-              <p className="rise-item measure mt-5 text-body-lg leading-relaxed text-white/70" style={{ ["--rise-delay" as string]: "560ms" }}>
-                Achala IT Solutions builds AI platforms and engineering services that take enterprise programs from
-                first pilot to industrialized production. Our own platforms process millions of transactions a day,
-                and every engagement is measured against a business metric you sign before delivery starts.
-              </p>
-              {/* A-03: the three delivery vignettes, as a rotating proof line */}
-              <div className="rise-item" style={{ ["--rise-delay" as string]: "620ms" }}>
-                <RotatingProof
-                  lines={[
-                    "50,000+ emergency cases a day, dispatched by one AI platform.",
-                    "KYC verified in 5 minutes, not 30 days.",
-                    "Loan processing cut from 3 days to 2 hours.",
-                    "Laboratory queues down 20-30% across hospital OPDs.",
-                    "Workforce efficiency up 40% through telematics analytics.",
-                  ]}
-                />
-              </div>
-              {/* A-04: the ask, with what the buyer leaves with */}
+              <HeroSlider slides={HERO_SLIDES} />
+              {/* the ask, with what the buyer leaves with */}
               <div className="rise-item mt-8 flex flex-wrap items-center gap-3" style={{ ["--rise-delay" as string]: "680ms" }}>
                 <Link
                   href="/book-a-briefing/"
@@ -431,7 +432,7 @@ export default function HomeView() {
             <h2 className="text-display-3 mt-1 max-w-4xl text-white sm:text-[28px]">
               Your program reports the numbers leadership signed off on — every fortnight, against the baseline
             </h2>
-            <p className="mt-2 max-w-4xl text-[14.5px] leading-relaxed text-white/65">
+            <p className="mt-2 text-[14.5px] leading-relaxed text-white/65">
               One panel per program surface, generated from your estate, so week two already reflects your business. A
               sample row, illustrative reference program:{" "}
               <span className="rounded-md border border-white/20 bg-white/[0.07] px-2 py-0.5 font-mono text-[11.5px] text-white/85">
@@ -475,7 +476,7 @@ export default function HomeView() {
                 <h2 className="text-display-3 mt-1 max-w-4xl text-navy-800 sm:text-[30px]">
                   Eight expertise domains, 54 practices, one delivery standard
                 </h2>
-                <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
+                <p className="mt-2 text-[14.5px] text-slate-body/75">
                   Deep-tech programs enter through one of eight domains, from AI and data to cloud, security and IoT.
                   Classic-estate work — migration, engineering pods, Azure, ERP, managed operations — enters through
                   consulting. Both tracks run the same release gates on the same production platforms.
@@ -568,7 +569,7 @@ export default function HomeView() {
                 <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
                   Consulting that ends in a delivered system
                 </h2>
-                <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
+                <p className="mt-2 text-[14.5px] text-slate-body/75">
                   Transformation programs, migration factories, engineering pods, quality engineering, Azure estates,
                   ERP cores, managed operations and end-user support. The team that advises you is the team that
                   builds — with the same two-week diagnostic, signed baseline and evidence-gated delivery as every
@@ -642,7 +643,7 @@ export default function HomeView() {
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
                 AI accelerators proven in production before they reach your program
               </h2>
-              <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
+              <p className="mt-2 text-[14.5px] text-slate-body/75">
                 Most providers can promise this; fewer can show it running. Every engagement starts from configured
                 platforms rather than a blank page: AI-led dispatch and fleet readiness, document intelligence for
                 onboarding, queue prediction for hospital operations and data platforms, hardened with clients like
@@ -731,7 +732,7 @@ export default function HomeView() {
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
                 Platforms built in-house, proven in production
               </h2>
-              <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
+              <p className="mt-2 text-[14.5px] text-slate-body/75">
                 Eight licensed products from our R&amp;D programme, from decision intelligence to AI governance, and
                 eight platforms running client operations today — emergency response, fleet management, KYC,
                 telemedicine and more.
@@ -768,7 +769,7 @@ export default function HomeView() {
         </div>
         <Reveal>
           <p className="mt-12 font-display text-[19px] font-semibold text-navy-800">In production today</p>
-          <p className="mt-1 max-w-2xl text-[13.5px] text-slate-body/70">
+          <p className="mt-1 text-[13.5px] text-slate-body/70">
             Platforms running client operations every day, each with a published result.
           </p>
         </Reveal>
@@ -790,7 +791,7 @@ export default function HomeView() {
                 <h2 className="text-display-3 mt-1 text-white sm:text-[28px]">
                   Client numbers, published with the method behind them
                 </h2>
-                <p className="mt-2 max-w-2xl text-[14.5px] text-white/65">
+                <p className="mt-2 text-[14.5px] text-white/65">
                   Every published engagement note carries the measured result, the system that produced it and the
                   gates that governed the build.
                 </p>
@@ -912,7 +913,7 @@ export default function HomeView() {
                 <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
                   Built where you operate, under the rules you are held to
                 </h2>
-                <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
+                <p className="mt-2 text-[14.5px] text-slate-body/75">
                   Each sector brief maps the industry&rsquo;s regulations and daily workflows to our expertise domains,
                   with named systems of record and published engagement notes.
                 </p>
@@ -973,7 +974,7 @@ export default function HomeView() {
               <h2 className="text-display-3 mt-1 text-navy-800 sm:text-[28px]">
                 From the delivery floor
               </h2>
-              <p className="mt-2 max-w-2xl text-[14.5px] text-slate-body/75">
+              <p className="mt-2 text-[14.5px] text-slate-body/75">
                 Practical writing on retrieval, decision systems and the economics of GenAI, with the vendor questions
                 you should be asking.
               </p>

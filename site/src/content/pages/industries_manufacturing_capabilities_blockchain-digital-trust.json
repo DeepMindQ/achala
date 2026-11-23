@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Manufacturing & Industrial",
- "meta_description": "Blockchain & Digital Trust for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: Blockchain & Digital Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Manufacturing & Industrial does not chase announcements; it delivers audited change, which means the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. Manufacturing & Industrial is where this discipline pays."
+   "x": "Manufacturing & Industrial: Blockchain & Digital Trust that ships. Achala runs Blockchain & Digital Trust as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Manufacturing & Industrial edition:"
+   "x": "Blockchain & Digital Trust in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -149,7 +149,7 @@
    "x": "If Blockchain & Digital Trust in Manufacturing & Industrial is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 596,
+ "words": 648,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

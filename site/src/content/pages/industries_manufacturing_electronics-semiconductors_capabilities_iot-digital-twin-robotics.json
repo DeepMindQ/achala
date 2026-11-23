@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Electronics & Semiconductors > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Electronics & Semiconductors",
- "meta_description": "IoT, Twin & Robotics for Electronics & Semiconductors: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Electronics & Semiconductors in Manufacturing & Industrial: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics answers Manufacturing & Industrial pressure where it lands in Electronics & Semiconductors: defect classification manual, week after week. The architectural answer: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Electronics & Semiconductors in Manufacturing & Industrial: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the electronics & semiconductors reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Electronics & Semiconductors, the places value leaks:"
+   "x": "Inside Electronics & Semiconductors, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring IoT, Twin & Robotics for Electronics & Semiconductors to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 462,
+ "words": 524,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

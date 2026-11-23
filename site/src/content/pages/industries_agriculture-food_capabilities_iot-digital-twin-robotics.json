@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Agriculture & Food Systems",
- "meta_description": "IoT, Twin & Robotics for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agriculture & Food Systems: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Agriculture & Food Systems has one job: move a named number, field data gap included, and prove it moved. The engineering that does it: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "Agriculture & Food Systems: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Agriculture & Food Systems, the recurring pressure points:"
+   "x": "IoT, Digital Twin & Robotics in Agriculture & Food Systems is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "If IoT, Twin & Robotics in Agriculture & Food Systems is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 500,
+ "words": 563,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

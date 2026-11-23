@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Agriculture & Food Systems | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agriculture & Food Systems: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agriculture & Food Systems operators recognize the pattern: chain data broken at every handoff, quarter after quarter. Data & Lakehouse reaches the root: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Agriculture & Food Systems: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Agriculture & Food Systems edition:"
+   "x": "Data, Analytics & Lakehouse in Agriculture & Food Systems is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -141,7 +141,7 @@
    "x": "Bring Data & Lakehouse in Agriculture & Food Systems to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 514,
+ "words": 580,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

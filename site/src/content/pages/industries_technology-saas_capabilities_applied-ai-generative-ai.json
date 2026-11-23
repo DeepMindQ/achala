@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Technology & SaaS > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Technology & SaaS | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Technology & SaaS: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Technology & SaaS: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Technology & SaaS: the operating one and the regulatory one. Applied AI & GenAI is built to survive both: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Technology & SaaS: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Technology & SaaS, the recurring pressure points:"
+   "x": "Applied AI & Generative AI in Technology & SaaS is delivered by an Achala practice team that stays through industrialization: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "Start with the diagnostic, not the contract: Applied AI & GenAI in Technology & SaaS baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 511,
+ "words": 568,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

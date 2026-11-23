@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Decision Intelligence Systems",
  "seo_title": "Decision Intelligence Systems | Achala IT Solutions",
- "meta_description": "Decision intelligence with challenger panels, reason-code coverage and fairness monitoring — decisions a regulator can read and a risk committee can challenge.",
+ "meta_description": "Decision Intelligence Systems from Achala IT Solutions: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Decision models wrapped in policy bounds, challenger benchmarks and explainable outputs: decisions a regulator can read, a panel can challenge, and a board can defend, with defer-to-human paths that are designed, not improvised."
+   "x": "Decision Intelligence Systems from Achala IT Solutions: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. Part of the Agentic AI & Hyperautomation domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Decision intelligence is where analytics stops advising and starts acting: credit lines, fraud holds, service credits, triage priorities. That step from report to action is governed differently, the decision needs a defined policy limit, a challenger, an explanation shape and an appeal path before it earns the right to act."
+   "x": "Decision Intelligence Systems is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1496,10 +1496,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the decision your regulator keeps asking about. The diagnostic will show where the challenger panel, reason codes and deferral design would sit, and what evidence you could produce tomorrow."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against."
   }
  ],
- "words": 1081,
+ "words": 1458,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

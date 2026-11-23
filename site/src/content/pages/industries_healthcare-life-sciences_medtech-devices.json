@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Medical Devices & MedTech",
  "seo_title": "Medical Devices & MedTech | Achala IT Solutions",
- "meta_description": "MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-marke.",
+ "meta_description": "Medical Devices & MedTech in Healthcare & Life Sciences — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "MedTech sells outcomes and must prove them: connected devices generate telemetry that feeds service revenue, clinical evidence and regulatory post-market surveillance. The device-to-evidence loop is an engineering product, and EU MDR/CRA raise its bar. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Medical Devices & MedTech in Healthcare & Life Sciences — an Achala sector brief. patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in device provisioning/ota, service dispatch, vigilance reporting, with clinical evidence assembly close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Medical Devices & MedTech through the healthcare & life sciences program stack: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "If operations in Medical Devices & MedTech is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 385,
+ "words": 402,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

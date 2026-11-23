@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Health Insurance & Benefits > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Health Insurance & Benefits",
- "meta_description": "Agentic AI & Hyperautomation for Health Insurance & Benefits: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Health Insurance & Benefits in Insurance & Risk: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation teams in Health Insurance & Benefits open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. For Health Insurance & Benefits, this is the standard the build is held to."
+   "x": "Health Insurance & Benefits in Insurance & Risk: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the health insurance & benefits reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, Health Insurance & Benefits edition:"
+   "x": "Inside Health Insurance & Benefits, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Start with the diagnostic, not the contract: Agentic AI & Hyperautomation for Health Insurance & Benefits baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 580,
+ "words": 599,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

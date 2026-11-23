@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Manufacturing & Industrial > Automotive & Discrete Manufacturing",
  "seo_title": "Automotive & Discrete Manufacturing | Achala IT Solutions",
- "meta_description": "Automotive and discrete plants chase three numbers — OEE, escapes and launch time.",
+ "meta_description": "Automotive & Discrete Manufacturing in Manufacturing & Industrial — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Automotive and discrete plants chase three numbers, OEE, escapes and launch time. Sensor fabric, vision inspection and scheduling intelligence move all three simultaneously, while IATF traceability and IT/OT security raise the baseline every program must respect. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Automotive & Discrete Manufacturing in Manufacturing & Industrial — an Achala sector brief. the plant floor punishes latency twice: once in throughput, once in quality This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in line changeover sequencing, vision inspection, predictive maintenance, with iatf traceability close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Automotive & Discrete Manufacturing through the manufacturing & industrial program stack: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Talk to the team that runs operations in Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 405,
+ "words": 410,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

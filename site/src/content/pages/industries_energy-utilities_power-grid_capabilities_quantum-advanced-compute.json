@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Power Generation & Grid",
- "meta_description": "Quantum & Advanced Compute for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Power Generation & Grid in Energy & Utilities: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Power Generation & Grid lives inside Forecasting and dispatch, Asset condition management and DER/flexibility orchestration, paths that all carry decisions now. The work: where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing. For Power Generation & Grid, this is the standard the build is held to."
+   "x": "Power Generation & Grid in Energy & Utilities: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the power generation & grid reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Power Generation & Grid, as operators describe it:"
+   "x": "Inside Power Generation & Grid, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: Quantum & Advanced Compute for Power Generation & Grid baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 497,
+ "words": 532,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

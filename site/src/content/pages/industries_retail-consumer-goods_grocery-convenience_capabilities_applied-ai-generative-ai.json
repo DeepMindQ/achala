@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Grocery & Convenience > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Grocery & Convenience | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Grocery & Convenience: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Grocery & Convenience in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI teams in Grocery & Convenience open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own. That is the engineering behind Grocery & Convenience."
+   "x": "Grocery & Convenience in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the grocery & convenience reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Grocery & Convenience, the recurring pressure points:"
+   "x": "Inside Grocery & Convenience, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -250,7 +250,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Grocery & Convenience in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 489,
+ "words": 521,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

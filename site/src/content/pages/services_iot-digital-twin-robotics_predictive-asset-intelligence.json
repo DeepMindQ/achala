@@ -5,15 +5,15 @@
  "template": "service_page",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics > Predictive Maintenance & Asset Intelligence",
  "seo_title": "Predictive Maintenance & Asset Intelligence | Achala IT Solutions",
- "meta_description": "Predictive maintenance that changes the work order: precision and lead time signed per failure mode, verified outcomes in a truth ledger, and planner reliance gated on evidence.",
+ "meta_description": "Predictive Maintenance & Asset Intelligence from Achala IT Solutions: sensor data turned into operational decisions, with the safety discipline physical systems demand.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Maintenance scheduled by evidence: failure-mode-driven models instead of anomaly soup, work-order integration that closes the action gap, and verified outcomes that pay down truth debt, predictions that the maintenance team actually schedule against."
+   "x": "Predictive Maintenance & Asset Intelligence from Achala IT Solutions: sensor data turned into operational decisions, with the safety discipline physical systems demand. Part of the IoT, Digital Twin & Robotics domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "p",
-   "x": "Predictive maintenance works when it is failure-mode engineering: for each asset class, the physical failure modes (bearing wear, winding insulation, cavitation), the signals that precede them, and a model per mode with a lead-time target. The value is measured in one number, unplanned downtime, and one honesty metric: how many predictions were true, false, or simply never checked."
+   "x": "Predictive Maintenance & Asset Intelligence is delivered by an Achala practice team that stays through industrialization. Achala connects devices, twins and control loops with rollback built in: firmware staged and signed, actuation authorized and logged, model drift measured against reality. Physical operations get software-grade discipline. Who this is for: plant, fleet and device operations leaders, and engineering heads accountable for safe actuation."
   },
   {
    "t": "p",
@@ -1428,10 +1428,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask what fraction of last quarter's predictions were verified against reality. The diagnostic will build the truth ledger for your worst asset class, and show what evidence-led maintenance would save."
+   "x": "Bring one production line or asset class to an Achala briefing. We will show the twin, the control loop and the safety gates it runs behind."
   }
  ],
- "words": 983,
+ "words": 1307,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",

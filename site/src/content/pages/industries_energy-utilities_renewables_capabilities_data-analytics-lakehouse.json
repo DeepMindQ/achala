@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Renewable Energy > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Renewable Energy | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Renewable Energy in Energy & Utilities: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Renewable Energy gets concrete fast: O&M planning manual names a real queue, a real wait, a real cost. What we build to end it: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Renewable Energy in Energy & Utilities: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the renewable energy reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Renewable Energy edition:"
+   "x": "Inside Renewable Energy, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Data & Lakehouse for Renewable Energy is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 407,
+ "words": 467,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

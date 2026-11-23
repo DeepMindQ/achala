@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Agriculture & Food Systems > AgriFinance & Commodity Markets",
  "seo_title": "AgriFinance & Commodity Markets | Achala IT Solutions",
- "meta_description": "Agri-finance prices practice, not just history: lenders, insurers and traders need verified agronomic data for credit scoring, parametric products and p.",
+ "meta_description": "AgriFinance & Commodity Markets in Agriculture & Food Systems — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agri-finance prices practice, not just history: lenders, insurers and traders need verified agronomic data for credit scoring, parametric products and physical trading. Verified field data is the new collateral. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "AgriFinance & Commodity Markets in Agriculture & Food Systems — an Achala sector brief. seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in credit scoring, parametric insurance, commodity trading, with subsidy verification close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers AgriFinance & Commodity Markets through the agriculture & food systems program stack: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "Bring operations in AgriFinance & Commodity Markets to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 321,
+ "words": 348,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Lakehouse Architecture & Migration",
  "seo_title": "Lakehouse Architecture & Migration | Achala IT Solutions",
- "meta_description": "Lakehouse architecture as a governance decision: gated promotion from immutable bronze to accountable gold, freshness and cost on one console, and formats signed per estate.",
+ "meta_description": "Lakehouse Architecture & Migration is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Bronze to silver to gold on open table formats: a promotion path with quality gates between layers, time travel for every audit question, and storage economics signed with finance, instead of a swamp with dashboards on top."
+   "x": "Lakehouse Architecture & Migration is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "The lakehouse is not a product; it is a discipline of layers. Bronze keeps the truth as it arrived, silver makes it conform and trustworthy, gold models it for the business, and each promotion is a gated, testable transformation. When the layers blur, you get a swamp; when they hold, you get a platform where a bad feed is quarantined in minutes instead of corrupting a warehouse silently."
+   "x": "Lakehouse Architecture & Migration is delivered by an Achala practice team that stays through industrialization. Achala builds lakehouses with data contracts: producers and consumers agree on schema and quality, breaks are caught at the boundary, and every table carries an owner and a freshness target. Decisions downstream become defensible. Who this is for: CDOs and finance leaders who need numbers both sides sign, and teams tired of disputed data."
   },
   {
    "t": "p",
@@ -1467,10 +1467,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the table everyone quotes and nobody trusts. The diagnostic will score your promotion path, and show what a gold-tier SLA would cost on your real estate."
+   "x": "Bring one data domain to an Achala briefing. We will show the contract, the pipeline design and the cost picture it would run under. The first session costs nothing but the hour."
   }
  ],
- "words": 1087,
+ "words": 1442,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Manufacturing & Industrial | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse against mES/ERP/quality data silos in Manufacturing & Industrial, the structural pressure will not be solved by another dashboard. It gets solved underneath: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. For Manufacturing & Industrial, this is the standard the build is held to."
+   "x": "Manufacturing & Industrial: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, Manufacturing & Industrial edition:"
+   "x": "Data, Analytics & Lakehouse in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse in Manufacturing & Industrial baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 535,
+ "words": 585,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

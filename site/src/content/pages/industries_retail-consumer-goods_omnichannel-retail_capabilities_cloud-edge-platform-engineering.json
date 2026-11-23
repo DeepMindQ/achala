@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Omnichannel Retail > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Omnichannel Retail | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for Omnichannel Retail: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Omnichannel Retail in Retail & Consumer Goods: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Omnichannel Retail gets concrete fast: Peak economics unmanaged names a real queue, a real wait, a real cost. What we build to end it: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Omnichannel Retail in Retail & Consumer Goods: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the omnichannel retail reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Omnichannel Retail: where the friction concentrates,"
+   "x": "Inside Omnichannel Retail, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Bring Cloud, Edge & Platform for Omnichannel Retail to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 470,
+ "words": 517,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

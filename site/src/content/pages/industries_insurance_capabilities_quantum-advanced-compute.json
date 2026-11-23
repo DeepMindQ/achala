@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Insurance & Risk | Achala IT Solutions",
- "meta_description": "Quantum & Advanced Compute for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Insurance & Risk: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what long-tail data under PQ risk costs Insurance & Risk firms in a year and the honest answer is: more than anyone has measured. We measure first, then where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing."
+   "x": "Insurance & Risk: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Insurance & Risk: where the friction concentrates,"
+   "x": "Quantum & Advanced Compute in Insurance & Risk is delivered by an Achala practice team that stays through industrialization: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Talk to the team that runs Quantum & Advanced Compute in Insurance & Risk in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 526,
+ "words": 587,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

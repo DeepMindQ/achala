@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Blockchain & Digital Trust > Tokenization is a legal program with a cryptographic runtime",
  "seo_title": "Tokenization is a legal program with a cryptographic runtime",
- "meta_description": "Instruments, transfer restrictions and custody decide success — not chain choice.",
+ "meta_description": "Tokenization is a legal program with a cryptographic runtime — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Instruments, transfer restrictions and custody decide success, not chain choice."
+   "x": "Tokenization is a legal program with a cryptographic runtime — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Talk to the team that runs tokenization is a legal program with a cryptographic runtime in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 252,
+ "words": 296,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Blockchain & Digital Trust",

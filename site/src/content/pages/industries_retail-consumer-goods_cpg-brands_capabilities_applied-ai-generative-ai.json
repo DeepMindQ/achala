@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > CPG & Brands > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for CPG & Brands | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for CPG & Brands: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "CPG & Brands in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in CPG & Brands answers a daily gap: Trade promotion management and Demand planning produce data faster than decisions. The structured answer: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. For CPG & Brands, this is the standard the build is held to."
+   "x": "CPG & Brands in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the cpg & brands reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For CPG & Brands, named from the floor, not from a framework:"
+   "x": "Inside CPG & Brands, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Applied AI & GenAI for CPG & Brands, measured against your baseline, in two weeks."
   }
  ],
- "words": 525,
+ "words": 559,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

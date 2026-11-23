@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > FinOps & Sustainable Computing",
  "seo_title": "FinOps & Sustainable Computing | Achala IT Solutions",
- "meta_description": "FinOps that reaches the decision: every invoice line attributed, unit cost per work type, carbon reported alongside and commitments gated on coverage and zombie evidence.",
+ "meta_description": "FinOps & Sustainable Computing from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cost and carbon as engineering inputs: unit economics per workload with allocation coverage that reaches the invoice, rightsizing with teeth, zombie estates hunted on schedule, and sustainability reported from meters, not multipliers."
+   "x": "FinOps & Sustainable Computing from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there. Part of the Cloud, Edge & Platform Engineering domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Cloud cost fails as a monthly surprise. FinOps here is engineering: unit economics (cost per customer, per order, per model call) as first-class metrics, budgets wired into deployment paths, and rightsizing driven by measured utilization rather than quarterly panic."
+   "x": "FinOps & Sustainable Computing is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1383,10 +1383,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring last month's invoice unexplained variance. The diagnostic will reach 97% allocation on your estate, and name the zombies, the rightsizing candidates and the unit-cost trend your CFO has been asking for."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces."
   }
  ],
- "words": 968,
+ "words": 1346,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

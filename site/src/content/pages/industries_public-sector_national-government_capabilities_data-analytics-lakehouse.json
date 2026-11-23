@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > National Government & Digital Services > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for National Government & Digital Services",
- "meta_description": "Data & Lakehouse for National Government & Digital Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "National Government & Digital Services in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse responds where National Government & Digital Services hurts most: casework backlogs lands near the top of every operator list. The structured response: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. For National Government & Digital Services, this is the standard the build is held to."
+   "x": "National Government & Digital Services in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the national government & digital services reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks, National Government & Digital Services edition:"
+   "x": "Inside National Government & Digital Services, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Data & Lakehouse for National Government & Digital Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 475,
+ "words": 511,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

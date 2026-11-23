@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Public Sector & Government > Capabilities > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Public Sector & Government",
- "meta_description": "Agentic AI & Hyperautomation for Public Sector & Government: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Sector & Government: Agentic AI & Hyperautomation that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Public Sector & Government: the operating one and the regulatory one. Agentic AI & Hyperautomation is built to survive both: we automate the path end to end, mining the process first, then building the agents and keeping human checkpoints wherever the risk register expects them."
+   "x": "Public Sector & Government: Agentic AI & Hyperautomation that ships. Achala runs Agentic AI & Hyperautomation as a production discipline for this sector — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Public Sector & Government, the queues and waits that come up first:"
+   "x": "Agentic AI & Hyperautomation in Public Sector & Government is delivered by an Achala practice team that stays through industrialization: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "Start with the diagnostic, not the contract: Agentic AI & Hyperautomation in Public Sector & Government baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 510,
+ "words": 560,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

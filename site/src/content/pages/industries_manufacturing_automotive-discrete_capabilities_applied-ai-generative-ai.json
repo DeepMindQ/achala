@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Automotive & Discrete Manufacturing > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Automotive & Discrete Manufacturing",
- "meta_description": "Applied AI & GenAI for Automotive & Discrete Manufacturing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI responds where Automotive & Discrete Manufacturing hurts most: manual inspection stations lands near the top of every operator list. The structured response: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "Automotive & Discrete Manufacturing in Manufacturing & Industrial: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the automotive & discrete manufacturing reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Automotive & Discrete Manufacturing: named from the floor, not from a framework,"
+   "x": "Inside Automotive & Discrete Manufacturing, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Automotive & Discrete Manufacturing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 515,
+ "words": 560,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

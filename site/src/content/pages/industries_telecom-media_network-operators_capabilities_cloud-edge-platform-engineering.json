@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Network Operators (CSPs) > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Network Operators (CSPs)",
- "meta_description": "Cloud, Edge & Platform for Network Operators (CSPs): delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Network Operators (CSPs) in Telecom, Media & Entertainment: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform earns its place in Network Operators (CSPs) only when it changes what Network operations (NOC) costs or what Retention/save offers returns. The engagement is built around one measurable path: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Network Operators (CSPs) in Telecom, Media & Entertainment: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the network operators (csps) reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Network Operators (CSPs), named from the floor, not from a framework:"
+   "x": "Inside Network Operators (CSPs), Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Cloud, Edge & Platform for Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 506,
+ "words": 536,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

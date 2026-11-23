@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > Edge Computing & Distributed Infrastructure",
  "seo_title": "Edge Computing & Distributed Infrastructure | Achala IT Solutions",
- "meta_description": "Edge infrastructure designed for the partition: regional clusters with store-and-forward, autonomy budgets per site class, rehearsed reconciliation and rollout waves with drill evidence.",
+ "meta_description": "Edge Computing & Distributed Infrastructure from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Compute and delivery close to users and devices: regional clusters with store-and-forward resilience, fleet operations across heterogeneous hardware, rollout waves that respect site windows, and monitors that notice when a site goes silent instead of assuming it is fine."
+   "x": "Edge Computing & Distributed Infrastructure from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there. Part of the Cloud, Edge & Platform Engineering domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Edge is where the cloud's assumptions break: networks partition, power flickers, hardware is diverse, and nobody is there to reboot the box. Edge infrastructure is fleet engineering, regional clusters with autonomous degradation, store-and-forward data paths, and deployment tooling that treats a hundred sites like one release train."
+   "x": "Edge Computing & Distributed Infrastructure is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1425,10 +1425,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask how long your quietest site ran without anyone noticing. The diagnostic will wire heartbeats, worst-site metrics and partition drills, and price what fleet-honest operations costs."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces."
   }
  ],
- "words": 1006,
+ "words": 1386,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

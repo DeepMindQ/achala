@@ -5,8 +5,8 @@
  "template": "newsroom_article",
  "breadcrumb": "Home > About Us > Newsroom > KYC Management System release adds governed agent fleets at enterprise scale",
  "seo_title": "KYC Management System release adds governed agent fleets at…",
- "meta_description": "The agentic-automation platform's latest release introduces fleet budgets, authority gates and cross-agent replay as standard controls.",
- "words": 194,
+ "meta_description": "KYC Management System release adds governed agent fleets at enterprise scale — official Achala IT Solutions newsroom.",
+ "words": 219,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
@@ -16,7 +16,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Company release from Achala IT Solutions: KYC Management System release adds governed agent fleets at enterprise scale. What shipped, why now, and what it means for active engagements."
+   "x": "KYC Management System release adds governed agent fleets at enterprise scale — official Achala IT Solutions newsroom. Announcements here reflect what has shipped or been certified, with dates and sources, in the company's own words."
   },
   {
    "t": "h2",

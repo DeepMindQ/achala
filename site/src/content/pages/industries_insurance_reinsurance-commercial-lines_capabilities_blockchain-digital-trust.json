@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Reinsurance & Commercial Lines > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Reinsurance & Commercial…",
- "meta_description": "Blockchain & Digital Trust for Reinsurance & Commercial Lines: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Reinsurance & Commercial Lines in Insurance & Risk: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust answers Insurance & Risk pressure where it lands in Reinsurance & Commercial Lines: settlement evidence bilateral, week after week. The architectural answer: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly. Reinsurance & Commercial Lines is where this discipline pays."
+   "x": "Reinsurance & Commercial Lines in Insurance & Risk: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the reinsurance & commercial lines reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Reinsurance & Commercial Lines, named from the floor, not from a framework:"
+   "x": "Inside Reinsurance & Commercial Lines, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Blockchain & Digital Trust for Reinsurance & Commercial Lines in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 525,
+ "words": 562,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

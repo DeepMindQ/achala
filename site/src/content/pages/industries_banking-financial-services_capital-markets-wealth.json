@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Banking & Financial Services > Capital Markets & Wealth Management",
  "seo_title": "Capital Markets & Wealth Management | Achala IT Solutions",
- "meta_description": "Wealth and capital-markets clients buy judgment and pay for experience: advisors need research and portfolio context in minutes, operations need settlem.",
+ "meta_description": "Capital Markets & Wealth Management in Banking & Financial Services — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Wealth and capital-markets clients buy judgment and pay for experience: advisors need research and portfolio context in minutes, operations need settlement and reconciliation without firefights, and compliance needs evidence without expeditions. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Capital Markets & Wealth Management in Banking & Financial Services — an Achala sector brief. every decision is regulated, every millisecond is margin, and every audit trail has to be complete This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in advisor research and prep, reconciliation and breaks, client reporting, with suitability and disclosure close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Capital Markets & Wealth Management through the banking & financial services program stack: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "one working session on operations in Capital Markets & Wealth Management, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 424,
+ "words": 443,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

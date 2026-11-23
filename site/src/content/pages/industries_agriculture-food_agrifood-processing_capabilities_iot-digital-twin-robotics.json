@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Agri-Food Processing > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Agri-Food Processing | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Agri-Food Processing: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agri-Food Processing in Agriculture & Food Systems: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against cold chain unverified in Agri-Food Processing: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "Agri-Food Processing in Agriculture & Food Systems: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the agri-food processing reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, Agri-Food Processing edition:"
+   "x": "Inside Agri-Food Processing, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Talk to the team that runs IoT, Twin & Robotics for Agri-Food Processing in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 410,
+ "words": 480,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

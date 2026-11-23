@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Public Sector & Government > Smart Cities & Infrastructure",
  "seo_title": "Smart Cities & Infrastructure | Achala IT Solutions",
- "meta_description": "Cities orchestrate mobility, energy, safety and services on shared telemetry — with privacy-by-design as the non-negotiable.",
+ "meta_description": "Smart Cities & Infrastructure in Public Sector & Government — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cities orchestrate mobility, energy, safety and services on shared telemetry, with privacy-by-design as the non-negotiable. The platform pattern (open data contracts, event fabric, measured outcomes) beats vendor lock-in domains every time. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Smart Cities & Infrastructure in Public Sector & Government — an Achala sector brief. citizen services run at population scale under procurement and audit rules that exclude improvisation This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in urban asset management, mobility optimization, public-space governance, with vendor/data integration close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Smart Cities & Infrastructure through the public sector & government program stack: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Bring operations in Smart Cities & Infrastructure to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 349,
+ "words": 366,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

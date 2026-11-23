@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > 3PL & Freight Forwarding > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for 3PL & Freight Forwarding",
- "meta_description": "Cloud, Edge & Platform for 3PL & Freight Forwarding: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "3PL & Freight Forwarding in Logistics & Supply Chain: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform across Logistics & Supply Chain repeats one pattern in 3PL & Freight Forwarding: pressure on Quoting and booking, pressure on Shipment visibility, a fix improvised at the desk. This page is the engineered version: we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident. For 3PL & Freight Forwarding, this is the standard the build is held to."
+   "x": "3PL & Freight Forwarding in Logistics & Supply Chain: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the 3pl & freight forwarding reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, 3PL & Freight Forwarding edition:"
+   "x": "Inside 3PL & Freight Forwarding, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cloud, Edge & Platform for 3PL & Freight Forwarding, measured against your baseline, in two weeks."
   }
  ],
- "words": 553,
+ "words": 571,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

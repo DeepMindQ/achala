@@ -5,8 +5,8 @@
  "template": "newsroom_article",
  "breadcrumb": "Home > About Us > Newsroom > Client engagement rating holds at 4.9 across 350+ engagements",
  "seo_title": "Client engagement rating holds at 4.9 across 350+…",
- "meta_description": "The firm's half-year engagement review reports a 4.9/5 average rating and outcome-linked fees now standard across transformation programs.",
- "words": 203,
+ "meta_description": "Client engagement rating holds at 4.9 across 350+ engagements — official Achala IT Solutions newsroom.",
+ "words": 231,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
@@ -16,7 +16,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Achala IT Solutions Client engagement rating holds at 4.9 across 350+ engagements, the announcement, what changes for clients, and where to go next."
+   "x": "Client engagement rating holds at 4.9 across 350+ engagements — official Achala IT Solutions newsroom. Announcements here reflect what has shipped or been certified, with dates and sources, in the company's own words."
   },
   {
    "t": "h2",

@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Workforce & Experience > Contact Center & Conversational Transformation",
  "seo_title": "Contact Center & Conversational Transformation | Solution",
- "meta_description": "Contact Center & Conversational Transformation — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Contact Center & Conversational Transformation — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Contact Center & Conversational Transformation exists because a specific failure keeps repeating: iVR trees deflect; context dies at transfer; compliance transcript duties unmet; cost per contact climbs while CSAT falls."
+   "x": "Contact Center & Conversational Transformation — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "one working session on Contact Center & Conversational Transformation, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 364,
+ "words": 403,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Workforce & Experience",

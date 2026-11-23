@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Care Management & Population Health > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Care Management &…",
- "meta_description": "Agentic AI & Hyperautomation for Care Management & Population Health: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Care Management & Population Health in Healthcare & Life Sciences: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Care Management & Population Health is how Risk stratification and Care outreach and scheduling stop leaning on manual work, both decide the margin. The build: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. That is the engineering behind Care Management & Population Health."
+   "x": "Care Management & Population Health in Healthcare & Life Sciences: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the care management & population health reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Care Management & Population Health edition:"
+   "x": "Inside Care Management & Population Health, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -210,7 +210,7 @@
    "x": "one working session on Agentic AI & Hyperautomation for Care Management & Population Health, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 497,
+ "words": 542,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

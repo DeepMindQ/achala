@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Public Sector & Government > National Government & Digital Services",
  "seo_title": "National Government & Digital Services | Achala IT Solutions",
- "meta_description": "National digital government builds shared rails — identity, data exchange, notification, payments — and industrializes citizen services on top.",
+ "meta_description": "National Government & Digital Services in Public Sector & Government — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "National digital government builds shared rails, identity, data exchange, notification, payments, and industrializes citizen services on top. Success is measured in take-up, resolution and trust; failure modes are silos, legacy cores and unaccountable AI. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "National Government & Digital Services in Public Sector & Government — an Achala sector brief. citizen services run at population scale under procurement and audit rules that exclude improvisation This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in citizen service delivery, benefits/licensing casework, interagency data exchange, with fraud/error control close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers National Government & Digital Services through the public sector & government program stack: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "Talk to the team that runs operations in National Government & Digital Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 367,
+ "words": 379,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

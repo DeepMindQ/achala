@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Oil & Gas > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Oil & Gas | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Oil & Gas: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Oil & Gas in Energy & Utilities: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust across Energy & Utilities repeats one pattern in Oil & Gas: pressure on Integrity management, pressure on Turnaround scheduling, a fix improvised at the desk. This page is the engineered version: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Oil & Gas in Energy & Utilities: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the oil & gas reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Oil & Gas, as operators describe it:"
+   "x": "Inside Oil & Gas, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cyber & Zero-Trust for Oil & Gas, measured against your baseline, in two weeks."
   }
  ],
- "words": 535,
+ "words": 566,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

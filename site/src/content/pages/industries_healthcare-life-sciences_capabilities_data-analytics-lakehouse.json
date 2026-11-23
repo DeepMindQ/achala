@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Healthcare & Life Sciences | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Healthcare & Life Sciences: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Healthcare & Life Sciences operators recognize the pattern: trial recruitment and RWE pipelines manual, quarter after quarter. Data & Lakehouse reaches the root: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Healthcare & Life Sciences: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first, Healthcare & Life Sciences edition:"
+   "x": "Data, Analytics & Lakehouse in Healthcare & Life Sciences is delivered by an Achala practice team that stays through industrialization: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -267,7 +267,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse in Healthcare & Life Sciences baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 528,
+ "words": 586,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

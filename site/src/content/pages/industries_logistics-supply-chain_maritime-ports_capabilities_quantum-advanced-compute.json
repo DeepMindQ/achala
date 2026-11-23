@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Maritime, Ports & Shipping > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Maritime, Ports & Shipping",
- "meta_description": "Quantum & Advanced Compute for Maritime, Ports & Shipping: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Maritime, Ports & Shipping in Logistics & Supply Chain: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Maritime, Ports & Shipping gets concrete fast: Stowage/berth optimization names a real queue, a real wait, a real cost. What we build to end it: we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read."
+   "x": "Maritime, Ports & Shipping in Logistics & Supply Chain: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the maritime, ports & shipping reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Maritime, Ports & Shipping: the places value leaks,"
+   "x": "Inside Maritime, Ports & Shipping, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Quantum & Advanced Compute for Maritime, Ports & Shipping, measured against your baseline, in two weeks."
   }
  ],
- "words": 452,
+ "words": 500,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

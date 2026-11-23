@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Logistics & Supply Chain > Warehousing & Fulfillment",
  "seo_title": "Warehousing & Fulfillment | Achala IT Solutions",
- "meta_description": "Fulfillment is throughput economics: pick rates, dock scheduling, labor allocation and inventory truth.",
+ "meta_description": "Warehousing & Fulfillment in Logistics & Supply Chain — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Fulfillment is throughput economics: pick rates, dock scheduling, labor allocation and inventory truth. Orchestrated robots, vision-verified quality and agentic labor planning compound into cost-per-order leadership. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Warehousing & Fulfillment in Logistics & Supply Chain — an Achala sector brief. margin hides in routing, dwell time and fleet utilization — and never sits still This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in slotting and pick-path, wave/order batching, labor planning, with dock scheduling close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Warehousing & Fulfillment through the logistics & supply chain program stack: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "one working session on operations in Warehousing & Fulfillment, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 335,
+ "words": 355,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

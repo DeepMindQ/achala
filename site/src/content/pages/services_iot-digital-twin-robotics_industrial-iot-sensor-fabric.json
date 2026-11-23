@@ -5,15 +5,15 @@
  "template": "service_page",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics > Industrial IoT & Sensor Fabric",
  "seo_title": "Industrial IoT & Sensor Fabric | Achala IT Solutions",
- "meta_description": "Industrial IoT built on capture fidelity: device classes with signed buffer autonomy, integrity monitors that catch failing sensors early, and honest fidelity numbers per class.",
+ "meta_description": "Industrial IoT & Sensor Fabric is one of the 54 Achala practices in the IoT, Digital Twin & Robotics domain: sensor data turned into operational decisions, with the safety discipline physical systems demand.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Instrumentation as infrastructure: versioned schemas per device class, store-and-forward capture that survives partitions, heartbeat monitoring that catches zombie devices, wired into brownfield PLCs and protocols that were never meant to interoperate."
+   "x": "Industrial IoT & Sensor Fabric is one of the 54 Achala practices in the IoT, Digital Twin & Robotics domain: sensor data turned into operational decisions, with the safety discipline physical systems demand. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "p",
-   "x": "Sensor fabric is the difference between an IoT program and a box of dashboards: every device class speaks a versioned schema, every gateway survives disconnection, and every device has an owner, a firmware version and an end-of-life date. The unglamorous parts, provisioning, OTA, schema registries, are the program."
+   "x": "Industrial IoT & Sensor Fabric is delivered by an Achala practice team that stays through industrialization. Achala connects devices, twins and control loops with rollback built in: firmware staged and signed, actuation authorized and logged, model drift measured against reality. Physical operations get software-grade discipline. Who this is for: plant, fleet and device operations leaders, and engineering heads accountable for safe actuation."
   },
   {
    "t": "p",
@@ -1411,10 +1411,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the production line whose data nobody fully trusts. The diagnostic will baseline capture fidelity by device class, and price what honest instrumentation costs on your brownfield estate."
+   "x": "Bring one production line or asset class to an Achala briefing. We will show the twin, the control loop and the safety gates it runs behind. The first session costs nothing but the hour."
   }
  ],
- "words": 949,
+ "words": 1314,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",

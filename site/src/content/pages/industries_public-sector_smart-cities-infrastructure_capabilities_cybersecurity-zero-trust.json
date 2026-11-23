@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Smart Cities & Infrastructure > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Smart Cities & Infrastructure",
- "meta_description": "Cyber & Zero-Trust for Smart Cities & Infrastructure: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Smart Cities & Infrastructure in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Smart Cities & Infrastructure gets concrete fast: Citizen privacy risk names a real queue, a real wait, a real cost. What we build to end it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Smart Cities & Infrastructure in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the smart cities & infrastructure reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Smart Cities & Infrastructure, the places value leaks:"
+   "x": "Inside Smart Cities & Infrastructure, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -230,7 +230,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Smart Cities & Infrastructure in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 466,
+ "words": 507,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

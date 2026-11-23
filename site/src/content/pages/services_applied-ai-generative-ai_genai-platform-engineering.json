@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > Generative AI Platform Engineering",
  "seo_title": "Generative AI Platform Engineering | Achala IT Solutions",
- "meta_description": "One governed door for every model call: gateway, registry, prompt CI, guardrails, caching and spend controls — platform economics designed in before the first invoice lands.",
+ "meta_description": "Generative AI Platform Engineering is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "One governed door for every model call in the enterprise: the gateway, registry, prompt CI, guardrails, caching and spend controls that let fifty use cases share infrastructure without sharing incidents, or budgets."
+   "x": "Generative AI Platform Engineering is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "The GenAI platform is the layer that makes every model call in the enterprise observable, bounded and cheap enough to survive finance. Gateway, registry, prompt CI, guardrails, caching, spend controls, none of it is glamorous, all of it decides whether the fifty use cases on the roadmap become real."
+   "x": "Generative AI Platform Engineering is delivered by an Achala practice team that stays through industrialization. Achala ships applied AI with its evidence attached: evaluation harnesses, drift monitoring and measured deltas against your baseline. If a model does not beat the baseline, we say so — that honesty is why clients keep the programs running. Who this is for: product and business leaders with a P&L line to move, and CDOs consolidating AI governance."
   },
   {
    "t": "p",
@@ -1490,10 +1490,10 @@
   },
   {
    "t": "cta",
-   "x": "If every team is wiring its own model calls today, the platform decision is already late. Bring the use-case inventory to a briefing and we will price the governed door against the sprawl you are currently funding."
+   "x": "Bring one AI use case to an Achala briefing. We will show the evaluation plan, the reference architecture and the metric it would move. The first session costs nothing but the hour."
   }
  ],
- "words": 1248,
+ "words": 1652,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

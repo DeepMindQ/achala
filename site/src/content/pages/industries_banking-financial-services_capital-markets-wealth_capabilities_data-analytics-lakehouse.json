@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capital Markets & Wealth Management > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Capital Markets & Wealth Management",
- "meta_description": "Data & Lakehouse for Capital Markets & Wealth Management: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Capital Markets & Wealth Management in Banking & Financial Services: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse treats advisor research friction in Capital Markets & Wealth Management as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Capital Markets & Wealth Management in Banking & Financial Services: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the capital markets & wealth management reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Capital Markets & Wealth Management, named from the floor, not from a framework:"
+   "x": "Inside Capital Markets & Wealth Management, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "one working session on Data & Lakehouse for Capital Markets & Wealth Management, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 525,
+ "words": 572,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

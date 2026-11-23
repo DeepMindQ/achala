@@ -5,8 +5,8 @@
  "template": "partner_page",
  "breadcrumb": "Home > About Us > Partner Ecosystem > NVIDIA",
  "seo_title": "NVIDIA Alliance | Achala IT Solutions",
- "meta_description": "What Achala IT Solutions engineers on NVIDIA: Accelerated computing for AI factories and inference at scale.",
- "words": 174,
+ "meta_description": "NVIDIA Alliance — validated in delivery with Achala.",
+ "words": 189,
  "section": "Company",
  "l1": "About Us",
  "l2": "Partner Ecosystem",
@@ -25,7 +25,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "The Achala IT Solutions alliance with NVIDIA: what is certified, how joint deliveries run, and the scenarios this page can be held to."
+   "x": "NVIDIA Alliance — validated in delivery with Achala. Alliance programs earn their place by working inside Achala engagements: joint reference architectures, shared support paths and results clients can check."
   },
   {
    "t": "h2",

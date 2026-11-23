@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Streaming & Digital Platforms > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Streaming & Digital Platforms",
- "meta_description": "Cloud, Edge & Platform for Streaming & Digital Platforms: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Streaming & Digital Platforms in Telecom, Media & Entertainment: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against delivery unit economics opaque in Streaming & Digital Platforms: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Streaming & Digital Platforms in Telecom, Media & Entertainment: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the streaming & digital platforms reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the recurring pressure points, Streaming & Digital Platforms edition:"
+   "x": "Inside Streaming & Digital Platforms, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Talk to the team that runs Cloud, Edge & Platform for Streaming & Digital Platforms in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 449,
+ "words": 507,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

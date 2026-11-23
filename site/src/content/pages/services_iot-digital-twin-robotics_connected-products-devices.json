@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics > Connected Products & Smart Devices",
  "seo_title": "Connected Products & Smart Devices | Achala IT Solutions",
- "meta_description": "Connected products run as one fleet system: signed OTA waves with auto-revert, firmware currency as a headline metric, support seeing device truth, and legacy lines priced honestly.",
+ "meta_description": "Connected Products & Smart Devices from Achala IT Solutions: sensor data turned into operational decisions, with the safety discipline physical systems demand.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Product fleets in the field managed as products: OTA updates that never brick, telemetry that earns its bandwidth, support APIs your service desk can actually use, and firmware attack surfaces treated with the same gates as your cloud."
+   "x": "Connected Products & Smart Devices from Achala IT Solutions: sensor data turned into operational decisions, with the safety discipline physical systems demand. Part of the IoT, Digital Twin & Robotics domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A connected product is a fleet you promised to keep working: the coffee machine in 40,000 kitchens, the charger in 200 supermarkets, the pump at 900 sites. The engineering is fleet product management, OTA with staged waves and rollback, telemetry budgets that earn their bandwidth, and diagnostics deep enough that support resolves cases before the customer finishes the call."
+   "x": "Connected Products & Smart Devices is delivered by an Achala practice team that stays through industrialization. Achala connects devices, twins and control loops with rollback built in: firmware staged and signed, actuation authorized and logged, model drift measured against reality. Physical operations get software-grade discipline. Who this is for: plant, fleet and device operations leaders, and engineering heads accountable for safe actuation."
   },
   {
    "t": "p",
@@ -1432,10 +1432,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask what percentage of your fleet runs current firmware, and what updating the rest would risk. The diagnostic will wire signed waves with auto-revert and make currency boring."
+   "x": "Bring one production line or asset class to an Achala briefing. We will show the twin, the control loop and the safety gates it runs behind."
   }
  ],
- "words": 1009,
+ "words": 1332,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",

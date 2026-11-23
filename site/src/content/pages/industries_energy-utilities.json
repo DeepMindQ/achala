@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Energy & Utilities",
  "seo_title": "Energy & Utilities | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Energy & Utilities: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Energy and utilities balance physics, regulation and margin in real time.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The energy transition rewires the operating model: distributed renewables make supply stochastic, demand flexibility becomes an asset class, and the grid's control philosophy shifts from dispatchable certainty to probabilistic orchestration. Every actor in the value chain, generation, TSO/DSO, retail, trading, oil & gas, now competes on how fast it can turn telemetry into decisions and decisions into money."
+   "x": "Energy and utilities balance physics, regulation and margin in real time. Achala's programs for Energy & Utilities cover grid forecasting, asset health, field workforce systems and NERC CIP-aligned security — AI with physical consequences, engineered to be defensible."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "Talk to the team that runs programs in Energy & Utilities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 505,
+ "words": 502,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

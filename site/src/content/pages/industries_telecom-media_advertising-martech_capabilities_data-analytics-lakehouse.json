@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Advertising & MarTech > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Advertising & MarTech | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Advertising & MarTech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Advertising & MarTech in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Advertising & MarTech gets concrete fast: Creative production slow names a real queue, a real wait, a real cost. What we build to end it: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Advertising & MarTech in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the advertising & martech reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the recurring pressure points, Advertising & MarTech edition:"
+   "x": "Inside Advertising & MarTech, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -224,7 +224,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Advertising & MarTech, measured against your baseline, in two weeks."
   }
  ],
- "words": 432,
+ "words": 479,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

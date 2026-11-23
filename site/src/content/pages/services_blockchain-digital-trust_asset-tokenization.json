@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Blockchain & Digital Trust > Asset Tokenization & Digital Assets",
  "seo_title": "Asset Tokenization & Digital Assets | Achala IT Solutions",
- "meta_description": "Regulated asset tokenization with the legal wrapper designed first: transfer restrictions enforced in code, 1–2 day settlement cycles and reconciliation the asset-ops team can defend.",
+ "meta_description": "Asset Tokenization & Digital Assets from Achala IT Solutions: shared-record networks and tokenized assets with governance your regulators can inspect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulated token designs: legal-wrapper-first architecture, transfer controls that enforce restrictions in code, ledger and cap-table reconciliation at zero delta, and every lifecycle event from issuance to redemption designed before the token exists."
+   "x": "Asset Tokenization & Digital Assets from Achala IT Solutions: shared-record networks and tokenized assets with governance your regulators can inspect. Part of the Blockchain & Digital Trust domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Tokenization succeeds or fails on the legal design: what is the token legally, who may hold it, how do transfers respect securities law, and what happens in a default? The engineering implements the lawyers' decisions as transfer controls, allow-lists, lockups, jurisdiction checks, enforced in code, not in prospectus fine print."
+   "x": "Asset Tokenization & Digital Assets is delivered by an Achala practice team that stays through industrialization. Achala runs permissioned networks where every participant sees the same truth and no one can change it alone. Consensus rules, key ceremonies and inspection exports are documented from day one — shared trust that survives an audit. Who this is for: CFOs and operations heads reconciling across organizations, and the regulators who demand inspection views."
   },
   {
    "t": "p",
@@ -1360,10 +1360,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the asset your firm wants to tokenize. The design sprint will architect the legal wrapper, the transfer controls and the lifecycle, before anyone mentions a token standard."
+   "x": "Bring one shared-record problem to an Achala briefing. We will show the network design, the consensus rules and the regulator views it produces."
   }
  ],
- "words": 969,
+ "words": 1360,
  "section": "Services",
  "l1": "Services",
  "l2": "Blockchain & Digital Trust",

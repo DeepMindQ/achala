@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Power Generation & Grid | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Power Generation & Grid in Energy & Utilities: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse is how Power Generation & Grid operations could run Forecasting and dispatch without the forecasting under intermittency tax. The build: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Power Generation & Grid in Energy & Utilities: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the power generation & grid reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Power Generation & Grid, the recurring pressure points:"
+   "x": "Inside Power Generation & Grid, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Data & Lakehouse for Power Generation & Grid in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 504,
+ "words": 551,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

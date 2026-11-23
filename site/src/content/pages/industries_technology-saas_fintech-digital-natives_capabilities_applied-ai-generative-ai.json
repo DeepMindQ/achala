@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > FinTech & Digital Natives > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for FinTech & Digital Natives",
- "meta_description": "Applied AI & GenAI for FinTech & Digital Natives: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "FinTech & Digital Natives in Technology & SaaS: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI answers Technology & SaaS pressure where it lands in FinTech & Digital Natives: kYC/doc friction, week after week. The architectural answer: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "FinTech & Digital Natives in Technology & SaaS: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the fintech & digital natives reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "FinTech & Digital Natives: as operators describe it,"
+   "x": "Inside FinTech & Digital Natives, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Applied AI & GenAI for FinTech & Digital Natives, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 466,
+ "words": 510,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

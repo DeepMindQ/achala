@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Cloud, Edge & Platform Engineering > Platform engineering is the highest-apply hire you will make",
  "seo_title": "Platform engineering is the highest-apply hire you…",
- "meta_description": "Golden paths turn engineering months into days — and make the secure path the easy path.",
+ "meta_description": "Platform engineering is the highest-draw on hire you will make — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Golden paths turn engineering months into days, and make the secure path the easy path."
+   "x": "Platform engineering is the highest-draw on hire you will make — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Start with the diagnostic, not the contract: platform engineering is the highest-leverage hire you will make baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 252,
+ "words": 294,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cloud, Edge & Platform Engineering",

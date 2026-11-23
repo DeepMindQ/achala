@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Technology & SaaS > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Technology & SaaS | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Technology & SaaS: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Technology & SaaS: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Technology & SaaS; competition sets the pace. Cyber & Zero-Trust is how we hold both: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
+   "x": "Technology & SaaS: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Technology & SaaS, where the friction concentrates:"
+   "x": "Cybersecurity & Zero-Trust in Technology & SaaS is delivered by an Achala practice team that stays through industrialization: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "one working session on Cyber & Zero-Trust in Technology & SaaS, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 494,
+ "words": 556,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

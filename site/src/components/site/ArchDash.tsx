@@ -304,7 +304,7 @@ export function MetricsDash({
             <p className="ml-2 text-[12.5px] font-semibold text-white">{title}</p>
           </div>
           <span className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/[0.06] px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-[0.14em] text-white/60">
-            Illustrative · reference program
+            Achala program — illustrative
           </span>
         </div>
         <div className="px-5 py-4">
@@ -470,7 +470,7 @@ export function ChartPanel({
           </span>
           {/* E-05: provenance chip on every chart panel */}
           <span className="rounded-full border border-white/15 bg-white/[0.06] px-2.5 py-0.5 text-[9.5px] font-bold uppercase tracking-[0.14em] text-white/60">
-            Illustrative · reference program
+            Achala program — illustrative
           </span>
         </div>
 

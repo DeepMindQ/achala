@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Insurance & Risk | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Insurance & Risk: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Insurance & Risk does not chase announcements; it delivers audited change, which means we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
+   "x": "Insurance & Risk: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks, Insurance & Risk edition:"
+   "x": "Cloud, Edge & Platform Engineering in Insurance & Risk is delivered by an Achala practice team that stays through industrialization: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cloud, Edge & Platform in Insurance & Risk, measured against your baseline, in two weeks."
   }
  ],
- "words": 548,
+ "words": 618,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

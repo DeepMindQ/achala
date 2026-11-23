@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Applied AI & Generative AI > GenAI unit economics: the metric nobody tracks",
  "seo_title": "GenAI unit economics: the metric nobody tracks | Insight",
- "meta_description": "Cost per resolved task — not per token — is the real unit of GenAI economics.",
+ "meta_description": "GenAI unit economics: the metric nobody tracks — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cost per resolved task, not per token, is the real unit of GenAI economics."
+   "x": "GenAI unit economics: the metric nobody tracks — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Talk to the team that runs genAI unit economics: the metric nobody tracks in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 268,
+ "words": 303,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Applied AI & Generative AI",

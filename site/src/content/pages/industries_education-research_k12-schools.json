@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Education & Research > K-12 & School Systems",
  "seo_title": "K-12 & School Systems | Achala IT Solutions",
- "meta_description": "School systems serve every child under public scrutiny: learning analytics, special-education compliance, safeguarding and parental communication.",
+ "meta_description": "K-12 & School Systems in Education & Research — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "School systems serve every child under public scrutiny: learning analytics, special-education compliance, safeguarding and parental communication. Technology must be privacy-strict (minors), accessibility-complete and teacher-time-respecting. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "K-12 & School Systems in Education & Research — an Achala sector brief. student experience and research output both depend on systems that simply work at term-start scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in learning analytics, safeguarding case management, special-ed compliance, with parent communication close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers K-12 & School Systems through the education & research program stack: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Talk to the team that runs operations in K-12 & School Systems in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 334,
+ "words": 360,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

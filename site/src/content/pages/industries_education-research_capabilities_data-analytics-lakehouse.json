@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Education & Research > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Education & Research | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Education & Research: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Education & Research: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Education & Research does not chase announcements; it delivers audited change, which means we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. For Education & Research, this is the standard the build is held to."
+   "x": "Education & Research: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, Education & Research edition:"
+   "x": "Data, Analytics & Lakehouse in Education & Research is delivered by an Achala practice team that stays through industrialization: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "one working session on Data & Lakehouse in Education & Research, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 514,
+ "words": 563,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

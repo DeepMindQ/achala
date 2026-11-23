@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Streaming & Digital Platforms > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Streaming & Digital Platforms",
- "meta_description": "Cyber & Zero-Trust for Streaming & Digital Platforms: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Streaming & Digital Platforms in Telecom, Media & Entertainment: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust is how Streaming & Digital Platforms operations could run Personalization/discovery without the delivery unit economics opaque tax. The build: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Streaming & Digital Platforms in Telecom, Media & Entertainment: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the streaming & digital platforms reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Streaming & Digital Platforms edition:"
+   "x": "Inside Streaming & Digital Platforms, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "If Cyber & Zero-Trust for Streaming & Digital Platforms is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 478,
+ "words": 519,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

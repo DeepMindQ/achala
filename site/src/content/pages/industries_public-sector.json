@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Public Sector & Government",
  "seo_title": "Public Sector & Government | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Public Sector & Government: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Public-sector technology runs at population scale under rules that exclude improvisation.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Governments face a delivery paradox: citizen expectations are set by the best private digital experiences, while estates run on legacy systems, procurement cycles and risk cultures that penalize innovation. The administrations breaking the paradox do three things well, they build shared digital infrastructure (identity, payments, notification), they industrialize service delivery on data, and they deploy AI under frameworks citizens can actually inspect."
+   "x": "Public-sector technology runs at population scale under rules that exclude improvisation. Achala's programs for Public Sector & Government deliver citizen service platforms and emergency response systems — one deployment handles 50,000+ daily cases across 9 states — with audit discipline throughout."
   },
   {
    "t": "h2",

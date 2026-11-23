@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid",
  "seo_title": "Power Generation & Grid | Achala IT Solutions",
- "meta_description": "Grid operators balance physics, markets and regulation in real time: forecasting under intermittency, substation reliability, flexibility orchestration.",
+ "meta_description": "Power Generation & Grid in Energy & Utilities — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Grid operators balance physics, markets and regulation in real time: forecasting under intermittency, substation reliability, flexibility orchestration and CIP-grade security. The telemetry-to-decision loop is the core competency of the transition era. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Power Generation & Grid in Energy & Utilities — an Achala sector brief. the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in forecasting and dispatch, asset condition management, der/flexibility orchestration, with cip compliance close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Power Generation & Grid through the energy & utilities program stack: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Bring operations in Power Generation & Grid to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 351,
+ "words": 369,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

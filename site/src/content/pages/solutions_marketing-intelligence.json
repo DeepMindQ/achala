@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Growth & Revenue > Marketing Intelligence & CX Orchestration",
  "seo_title": "Marketing Intelligence & CX Orchestration | Solution",
- "meta_description": "Marketing Intelligence & CX Orchestration — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Marketing Intelligence & CX Orchestration — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Marketing Intelligence & CX Orchestration exists because a specific failure keeps repeating: attribution wars persist because measurement infrastructure doesn't exist; creative production bottlenecks on manual cycles; CX signals from service and product never join the marketing loop."
+   "x": "Marketing Intelligence & CX Orchestration — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "Bring Marketing Intelligence & CX Orchestration to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 373,
+ "words": 412,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Growth & Revenue",

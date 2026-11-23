@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Cloud, Edge & Platform Engineering > FinOps is unit economics, not cost cutting",
  "seo_title": "FinOps is unit economics, not cost cutting | Insight",
- "meta_description": "Cost per transaction, per customer, per inference — engineering metrics with P&L consequences.",
+ "meta_description": "FinOps is unit economics, not cost cutting — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cost per transaction, per customer, per inference, engineering metrics with P&L consequences."
+   "x": "FinOps is unit economics, not cost cutting — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "one working session on finOps is unit economics, not cost cutting, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 236,
+ "words": 271,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cloud, Edge & Platform Engineering",

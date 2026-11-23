@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Hyperautomation & Systems Integration",
  "seo_title": "Hyperautomation & Systems Integration | Achala IT Solutions",
- "meta_description": "Contract-first integration seams for automation: typed contracts, exactly-once writes with receipts, drift monitors and month-end rehearsals that prove the close holds.",
+ "meta_description": "Hyperautomation & Systems Integration is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The contracted seams that make automation real: typed contracts across ERP, CRM, ITSM and comms, replayable failure handling, rate-limit aware traffic shaping and monitors that catch API drift before the month-end close does."
+   "x": "Hyperautomation & Systems Integration is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Integration is where hyperautomation programs actually die: not in the models, but in the seam where an agent writes to an ERP that changed its API on Thursday. We treat every seam as a contract with direction, schema, identity, rate limits, failure behavior and a drift monitor, and the contract is versioned like code."
+   "x": "Hyperautomation & Systems Integration is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1483,10 +1483,10 @@
   },
   {
    "t": "cta",
-   "x": "Map the seams your last close depended on, then count how many have owners and contracts. The diagnostic will score every one, and price what boring month-ends cost."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against. The first session costs nothing but the hour."
   }
  ],
- "words": 1077,
+ "words": 1517,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

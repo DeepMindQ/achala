@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > IoT, Digital Twin & Robotics > The twin is a decision instrument, not a 3D screenshot",
  "seo_title": "The twin is a decision instrument, not a 3D screenshot",
- "meta_description": "Twins earn budget by improving named decisions against named baselines.",
+ "meta_description": "The twin is a decision instrument, not a 3D screenshot — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Twins earn budget by improving named decisions against named baselines."
+   "x": "The twin is a decision instrument, not a 3D screenshot — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: the twin is a decision instrument, not a 3D screenshot, measured against your baseline, in two weeks."
   }
  ],
- "words": 261,
+ "words": 305,
  "section": "Insights",
  "l1": "Insights",
  "l2": "IoT, Digital Twin & Robotics",

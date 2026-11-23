@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > CPG & Brands > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for CPG & Brands | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for CPG & Brands: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "CPG & Brands in Retail & Consumer Goods: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse earns its place in CPG & Brands only when it changes what Trade promotion management costs or what Demand planning returns. The engagement is built around one measurable path: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "CPG & Brands in Retail & Consumer Goods: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the cpg & brands reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In CPG & Brands, the places value leaks:"
+   "x": "Inside CPG & Brands, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse for CPG & Brands baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 461,
+ "words": 514,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Maritime, Ports & Shipping > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Maritime, Ports & Shipping",
- "meta_description": "Cyber & Zero-Trust for Maritime, Ports & Shipping: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Maritime, Ports & Shipping in Logistics & Supply Chain: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust for Maritime, Ports & Shipping starts at the yard and gate orchestration manual queue, pricing it honestly, then the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
+   "x": "Maritime, Ports & Shipping in Logistics & Supply Chain: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the maritime, ports & shipping reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points, Maritime, Ports & Shipping edition:"
+   "x": "Inside Maritime, Ports & Shipping, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Cyber & Zero-Trust for Maritime, Ports & Shipping is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 442,
+ "words": 504,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

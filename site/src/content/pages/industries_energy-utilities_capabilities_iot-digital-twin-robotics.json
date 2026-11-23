@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Energy & Utilities | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Energy & Utilities: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what asset fleets uninstrumented costs Energy & Utilities firms in a year and the honest answer is: more than anyone has measured. We measure first, then we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "Energy & Utilities: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Energy & Utilities, as operators describe it:"
+   "x": "IoT, Digital Twin & Robotics in Energy & Utilities is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Bring IoT, Twin & Robotics in Energy & Utilities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 523,
+ "words": 586,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

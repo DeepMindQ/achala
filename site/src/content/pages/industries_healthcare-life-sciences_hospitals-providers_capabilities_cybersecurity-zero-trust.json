@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Hospitals & Provider Networks > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Hospitals & Provider Networks",
- "meta_description": "Cyber & Zero-Trust for Hospitals & Provider Networks: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Hospitals & Provider Networks in Healthcare & Life Sciences: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust is how Hospitals & Provider Networks operations could run Clinical documentation without the ransomware shutdown risk tax. The build: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Hospitals & Provider Networks in Healthcare & Life Sciences: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the hospitals & provider networks reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Hospitals & Provider Networks, named from the floor, not from a framework:"
+   "x": "Inside Hospitals & Provider Networks, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust for Hospitals & Provider Networks baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 484,
+ "words": 543,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

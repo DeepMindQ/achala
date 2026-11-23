@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Public Sector & Government > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Public Sector & Government",
- "meta_description": "IoT, Twin & Robotics for Public Sector & Government: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Sector & Government: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Public Sector & Government operators recognize the pattern: urban assets unmanaged, quarter after quarter. IoT, Twin & Robotics reaches the root: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Public Sector & Government: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Public Sector & Government, the places value leaks:"
+   "x": "IoT, Digital Twin & Robotics in Public Sector & Government is delivered by an Achala practice team that stays through industrialization: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Bring IoT, Twin & Robotics in Public Sector & Government to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 505,
+ "words": 577,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

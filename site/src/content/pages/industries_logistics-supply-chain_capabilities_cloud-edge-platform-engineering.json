@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Logistics & Supply Chain",
- "meta_description": "Cloud, Edge & Platform for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Logistics & Supply Chain: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Logistics & Supply Chain has one job: move a named number, peak surges break planning included, and prove it moved. The engineering that does it: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Logistics & Supply Chain: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Logistics & Supply Chain: the recurring pressure points,"
+   "x": "Cloud, Edge & Platform Engineering in Logistics & Supply Chain is delivered by an Achala practice team that stays through industrialization: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cloud, Edge & Platform in Logistics & Supply Chain, measured against your baseline, in two weeks."
   }
  ],
- "words": 522,
+ "words": 581,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

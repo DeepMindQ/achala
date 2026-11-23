@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Logistics & Supply Chain | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Logistics & Supply Chain: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Logistics & Supply Chain; competition sets the pace. Cyber & Zero-Trust is how we hold both: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees."
+   "x": "Logistics & Supply Chain: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the recurring pressure points, Logistics & Supply Chain edition:"
+   "x": "Cybersecurity & Zero-Trust in Logistics & Supply Chain is delivered by an Achala practice team that stays through industrialization: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "If Cyber & Zero-Trust in Logistics & Supply Chain is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 516,
+ "words": 578,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

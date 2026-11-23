@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Pharmaceuticals & Biotech > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Pharmaceuticals & Biotech",
- "meta_description": "Applied AI & GenAI for Pharmaceuticals & Biotech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Pharmaceuticals & Biotech in Healthcare & Life Sciences: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI earns its place in Pharmaceuticals & Biotech only when it changes what Discovery screening costs or what Protocol eligibility matching returns. The engagement is built around one measurable path: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns. Pharmaceuticals & Biotech is where this discipline pays."
+   "x": "Pharmaceuticals & Biotech in Healthcare & Life Sciences: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the pharmaceuticals & biotech reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Pharmaceuticals & Biotech edition:"
+   "x": "Inside Pharmaceuticals & Biotech, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Pharmaceuticals & Biotech in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 553,
+ "words": 581,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

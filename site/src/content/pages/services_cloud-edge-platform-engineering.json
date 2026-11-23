@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform Engineering | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform Engineering as one estate system: golden paths carrying SLOs and budgets, placement by policy, edge that survives partitions, unit costs on a signed trend. Seven practices, five gates.",
+ "meta_description": "Achala's Cloud, Edge & Platform Engineering domain modernizes the estate your business runs on.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform Engineering runs the estate as an economic and reliability system: hybrid placement by policy, golden paths that carry SLOs and budgets by default, edge fleets that survive partitions, and unit costs that fall on a signed trend line, across clouds, without tribal dialects."
+   "x": "Achala's Cloud, Edge & Platform Engineering domain modernizes the estate your business runs on. Eight practices cover hybrid multicloud, edge fleets, cloud-native rebuilds, SRE discipline and mission-critical systems — every move gated by reconciliation, every platform owned."
   },
   {
    "t": "p",
@@ -1198,7 +1198,7 @@
    "x": "Bring the workload whose unit cost nobody can state and whose SLO nobody signed. The two-week diagnostic will baseline both, and price what golden paths would change on your estate."
   }
  ],
- "words": 838,
+ "words": 1234,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

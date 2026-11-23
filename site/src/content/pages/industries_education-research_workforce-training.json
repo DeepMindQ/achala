@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Education & Research > Workforce & Vocational Training",
  "seo_title": "Workforce & Vocational Training | Achala IT Solutions",
- "meta_description": "Corporate learning and vocational systems are judged on capability transfer: skills taxonomy, personalized pathways, credential portability and employer.",
+ "meta_description": "Workforce & Vocational Training in Education & Research — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Corporate learning and vocational systems are judged on capability transfer: skills taxonomy, personalized pathways, credential portability and employer verification. The systems that prove skill deltas win the budget conversation. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Workforce & Vocational Training in Education & Research — an Achala sector brief. student experience and research output both depend on systems that simply work at term-start scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in skills taxonomy management, pathway personalization, assessment/verification, with credential issuance close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Workforce & Vocational Training through the education & research program stack: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Talk to the team that runs operations in Workforce & Vocational Training in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 330,
+ "words": 350,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

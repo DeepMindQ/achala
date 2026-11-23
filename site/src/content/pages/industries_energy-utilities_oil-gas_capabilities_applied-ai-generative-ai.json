@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Oil & Gas > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Oil & Gas | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Oil & Gas: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Oil & Gas in Energy & Utilities: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI against trading decisions lag in Oil & Gas: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "Oil & Gas in Energy & Utilities: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the oil & gas reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Oil & Gas, the places value leaks:"
+   "x": "Inside Oil & Gas, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring Applied AI & GenAI for Oil & Gas to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 440,
+ "words": 496,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

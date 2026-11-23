@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Zero-Trust Architecture & Implementation",
  "seo_title": "Zero-Trust Architecture & Implementation | Achala IT Solutions",
- "meta_description": "Zero trust as a decision architecture: one policy decision surface, coverage you can defend, bypass detections that fall each wave and exceptions that carry expiries.",
+ "meta_description": "Zero-Trust Architecture & Implementation is one of the 54 Achala practices in the Cybersecurity & Zero-Trust domain: zero-trust controls deployed with the evidence pack attached.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Per-request policy decisions on identity, device and context: network location stops being a privilege, critical paths reach measured coverage, and the latency objection is answered with a p95 number instead of an argument."
+   "x": "Zero-Trust Architecture & Implementation is one of the 54 Achala practices in the Cybersecurity & Zero-Trust domain: zero-trust controls deployed with the evidence pack attached. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Zero trust is an architecture of decisions, not a product purchase. Every request is evaluated against identity, device posture and context, and the engineering work is making that evaluation fast, consistent and universal on the paths that matter. Perimeter firewalls remain; they just stop being the security model."
+   "x": "Zero-Trust Architecture & Implementation is delivered by an Achala practice team that stays through industrialization. Achala implements security your auditors can walk alone: control tests that run continuously, findings filed automatically, frameworks mapped to ISO 27001, SOC 2, TISAX and NIS2. Security posture becomes something you show, not something you claim. Who this is for: CISOs and audit committees, and program owners facing TISAX, HIPAA or NIS2 scrutiny."
   },
   {
    "t": "p",
@@ -1401,10 +1401,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask for the coverage number your current diagram can't prove. The diagnostic will measure critical-path coverage on real requests, bypasses, exceptions and latency included."
+   "x": "Bring one threat model to an Achala briefing. We will show the control set, the test regime and the evidence pack it generates. The first session costs nothing but the hour."
   }
  ],
- "words": 1028,
+ "words": 1406,
  "section": "Services",
  "l1": "Services",
  "l2": "Cybersecurity & Zero-Trust",

@@ -5,8 +5,8 @@
  "template": "newsroom_article",
  "breadcrumb": "Home > About Us > Newsroom > Quanta practice opens quantum-readiness lab for PQC migration",
  "seo_title": "Quanta practice opens quantum-readiness lab for PQC…",
- "meta_description": "The lab benchmarks post-quantum migration paths for regulated estates: crypto-agility audits, HSM inventories and harvest-now-decrypt-later.",
- "words": 177,
+ "meta_description": "Quanta practice opens quantum-readiness lab for PQC migration — official Achala IT Solutions newsroom.",
+ "words": 201,
  "section": "Company",
  "l1": "About Us",
  "l2": "Newsroom",
@@ -16,7 +16,7 @@
  "blocks": [
   {
    "t": "hero",
-   "x": "Achala IT Solutions Quanta practice opens quantum-readiness lab for PQC migration, the announcement, what changes for clients, and where to go next."
+   "x": "Quanta practice opens quantum-readiness lab for PQC migration — official Achala IT Solutions newsroom. Announcements here reflect what has shipped or been certified, with dates and sources, in the company's own words."
   },
   {
    "t": "h2",

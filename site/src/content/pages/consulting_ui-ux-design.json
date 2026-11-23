@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "UI/UX Design & Product Experience — Consulting | Achala IT Solutions",
- "meta_description": "UI/UX Design & Product Experience: Interfaces your customers finish — designed from evidence, built for accessibility. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "UI/UX Design & Product Experience from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "UI/UX Design & Product Experience: Interfaces your customers finish, designed from evidence, built for accessibility. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "UI/UX Design & Product Experience from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Experience work at Achala IT Solutions starts with evidence: session analytics, support tickets, task-completion data and field research, not opinions in a conference room. We design journeys around the jobs users are actually trying to finish, prototype in code where it matters, and test with real users before a single component is committed to the design system."
+   "x": "UI/UX Design & Product Experience runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -210,7 +210,7 @@
    "x": "Book a UI/UX Design & Product Experience briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 335,
+ "words": 349,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "UI/UX Design & Product Experience",

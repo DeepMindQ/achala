@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Workforce & Vocational Training > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Workforce & Vocational…",
- "meta_description": "Blockchain & Digital Trust for Workforce & Vocational Training: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Workforce & Vocational Training in Education & Research: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust in Workforce & Vocational Training targets a specific gap: systems exist, but no governed path connects them, which is why administration heavy still costs what it costs. The build closes it: the design question is what needs shared truth; the engineering answer is a governed ledger with the boring parts done properly."
+   "x": "Workforce & Vocational Training in Education & Research: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the workforce & vocational training reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Workforce & Vocational Training, where the friction concentrates:"
+   "x": "Inside Workforce & Vocational Training, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Blockchain & Digital Trust for Workforce & Vocational Training in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 453,
+ "words": 497,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

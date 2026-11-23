@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Intelligent Document Processing",
  "seo_title": "Intelligent Document Processing | Achala IT Solutions",
- "meta_description": "Intelligent document processing wired into the process: confidence-gated extraction, provable posting, captured corrections and a queue that shrinks on a signed monthly curve.",
+ "meta_description": "Intelligent Document Processing is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Extraction and adjudication inside the process, not beside it: documents become decisions with confidence gates, per-field evidence and a human queue that shrinks by design, because the root causes of the queue are fixed, not just staffed."
+   "x": "Intelligent Document Processing is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "IDP inside hyperautomation is different from standalone extraction: the output is not a spreadsheet, it is a process decision, an invoice matched, a claim registered, a contract clause routed. That means confidence gates tuned per field class, adjudication queues that feed the process, and evidence that satisfies the audit two years later."
+   "x": "Intelligent Document Processing is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1496,10 +1496,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the queue your team works nights to clear. The sprint will decompose it by root cause and price what straight-through would honestly cost, hold rates included."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against. The first session costs nothing but the hour."
   }
  ],
- "words": 1105,
+ "words": 1514,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

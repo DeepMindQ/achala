@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics > Digital Twin Platform Engineering",
  "seo_title": "Digital Twin Platform Engineering | Achala IT Solutions",
- "meta_description": "Digital twin platforms where fidelity is measured and authority is earned: sync lag 1–5s by asset class, fidelity-gated decision rights, and simulations that carry their evidence.",
+ "meta_description": "Digital Twin Platform Engineering is one of the 54 Achala practices in the IoT, Digital Twin & Robotics domain: sensor data turned into operational decisions, with the safety discipline physical systems demand.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Twins that stay honest: state synchronization with fidelity scores verified against physical reality, simulation tiers for what-ifs, conflict rules that resolve ambiguity, and structure drift caught before the twin quietly stops describing the asset it was built for."
+   "x": "Digital Twin Platform Engineering is one of the 54 Achala practices in the IoT, Digital Twin & Robotics domain: sensor data turned into operational decisions, with the safety discipline physical systems demand. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A digital twin is a promise: the model reflects reality close enough to act on. The engineering is synchronization, state deltas from the fabric, conflict resolution when the physical and modeled worlds disagree, and fidelity metrics that tell you when the twin is lying. The simulation tier runs what-ifs on the synced state, never on stale guesses."
+   "x": "Digital Twin Platform Engineering is delivered by an Achala practice team that stays through industrialization. Achala connects devices, twins and control loops with rollback built in: firmware staged and signed, actuation authorized and logged, model drift measured against reality. Physical operations get software-grade discipline. Who this is for: plant, fleet and device operations leaders, and engineering heads accountable for safe actuation."
   },
   {
    "t": "p",
@@ -1425,10 +1425,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask when your twin last disagreed with the asset and who noticed. The diagnostic will wire fidelity probes and conflict rules, until the twin earns its decision authority."
+   "x": "Bring one production line or asset class to an Achala briefing. We will show the twin, the control loop and the safety gates it runs behind. The first session costs nothing but the hour."
   }
  ],
- "words": 1003,
+ "words": 1376,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",

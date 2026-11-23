@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Power Generation & Grid > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Power Generation & Grid",
- "meta_description": "Agentic AI & Hyperautomation for Power Generation & Grid: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Power Generation & Grid in Energy & Utilities: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation earns its place in Power Generation & Grid only when it changes what Forecasting and dispatch costs or what Asset condition management returns. The engagement is built around one measurable path: the build is a governed agent fleet: policies that bound what each agent may do, telemetry that shows what it did, and replay for when anyone asks why. Power Generation & Grid is where this discipline pays."
+   "x": "Power Generation & Grid in Energy & Utilities: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the power generation & grid reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Power Generation & Grid, the places value leaks:"
+   "x": "Inside Power Generation & Grid, Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Agentic AI & Hyperautomation for Power Generation & Grid in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 552,
+ "words": 571,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Renewable Energy > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Renewable Energy | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for Renewable Energy: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Renewable Energy in Energy & Utilities: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform answers Energy & Utilities pressure where it lands in Renewable Energy: fleet health reactive, week after week. The architectural answer: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Renewable Energy in Energy & Utilities: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the renewable energy reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, Renewable Energy edition:"
+   "x": "Inside Renewable Energy, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Cloud, Edge & Platform for Renewable Energy, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 424,
+ "words": 474,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

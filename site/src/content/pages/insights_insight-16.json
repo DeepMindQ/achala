@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Quantum & Advanced Compute > Harvest now, decrypt later is a 2026 procurement question",
  "seo_title": "Harvest now, decrypt later is a 2026 procurement question",
- "meta_description": "Long-lived secrets are being collected today; PQC migration is the response with a deadline.",
+ "meta_description": "Harvest now, decrypt later is a 2026 procurement question — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Long-lived secrets are being collected today; PQC migration is the response with a deadline."
+   "x": "Harvest now, decrypt later is a 2026 procurement question — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "one working session on harvest now, decrypt later is a 2026 procurement question, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 249,
+ "words": 284,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Quantum & Advanced Compute",

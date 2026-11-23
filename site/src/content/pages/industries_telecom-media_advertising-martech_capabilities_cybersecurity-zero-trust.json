@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Advertising & MarTech > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Advertising & MarTech | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Advertising & MarTech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Advertising & MarTech in Telecom, Media & Entertainment: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust is how Advertising & MarTech operations could run Identity resolution without the ad-fraud drains budgets tax. The build: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. For Advertising & MarTech, this is the standard the build is held to."
+   "x": "Advertising & MarTech in Telecom, Media & Entertainment: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the advertising & martech reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Advertising & MarTech edition:"
+   "x": "Inside Advertising & MarTech, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust for Advertising & MarTech baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 461,
+ "words": 500,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

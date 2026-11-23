@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Life & Annuities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Life & Annuities | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Life & Annuities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Life & Annuities in Insurance & Risk: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust treats underwriting evidence assembly in Life & Annuities as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Life & Annuities in Insurance & Risk: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the life & annuities reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Life & Annuities, as operators describe it:"
+   "x": "Inside Life & Annuities, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Cyber & Zero-Trust for Life & Annuities, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 532,
+ "words": 570,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

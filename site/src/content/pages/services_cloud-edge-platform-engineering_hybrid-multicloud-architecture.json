@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > Hybrid & Multicloud Architecture",
  "seo_title": "Hybrid & Multicloud Architecture | Achala IT Solutions",
- "meta_description": "Hybrid and multicloud run by policy: placement decisions with economics trails, parity gates before any move, one identity seam and sovereign workloads enforced at placement time.",
+ "meta_description": "Hybrid & Multicloud Architecture is one of the 54 Achala practices in the Cloud, Edge & Platform Engineering domain: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "One operating model across clouds and on-premises: workload placement by signed policy, portable patterns instead of dialects, egress budgets that hold, and identity seams that work, so the estate behaves like one system, not three vendors' territories."
+   "x": "Hybrid & Multicloud Architecture is one of the 54 Achala practices in the Cloud, Edge & Platform Engineering domain: estates that move to cloud without breaking anything — and run measurably cheaper once there. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Multicloud done badly is three estates, three security models and three bills. Done well, it is a placement policy, workloads run where latency, data gravity and cost say they should, on top of portable patterns: containers, IaC, and a control plane that treats the clouds as fleets, not countries."
+   "x": "Hybrid & Multicloud Architecture is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1410,10 +1410,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the workload everyone is afraid to move. The diagnostic will price its placement by policy, and show what portability would cost versus what the current dialect costs every month."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces. The first session costs nothing but the hour."
   }
  ],
- "words": 1000,
+ "words": 1366,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Electronics & Semiconductors > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Electronics & Semiconductors",
- "meta_description": "Data & Lakehouse for Electronics & Semiconductors: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Electronics & Semiconductors in Manufacturing & Industrial: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse against fab IP targeted in Electronics & Semiconductors: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Electronics & Semiconductors in Manufacturing & Industrial: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the electronics & semiconductors reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Electronics & Semiconductors: as operators describe it,"
+   "x": "Inside Electronics & Semiconductors, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Electronics & Semiconductors, measured against your baseline, in two weeks."
   }
  ],
- "words": 481,
+ "words": 529,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

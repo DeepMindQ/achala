@@ -5,11 +5,11 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Data, Analytics & Lakehouse",
  "seo_title": "Insights: Data & Lakehouse | Insights | Achala IT Solutions",
- "meta_description": "Achala IT Solutions perspectives on Data, Analytics & Lakehouse: engineering notes, market views and delivery lessons.",
+ "meta_description": "Data, Analytics & Lakehouse — viewpoints from the Achala delivery floor.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Insights: Data & Lakehouse page, plain language, named owners, and the details most pages leave out."
+   "x": "Data, Analytics & Lakehouse — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
   },
   {
    "t": "h2",
@@ -66,7 +66,7 @@
    "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
   }
  ],
- "words": 164,
+ "words": 191,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Data, Analytics & Lakehouse",

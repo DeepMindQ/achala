@@ -5,11 +5,11 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Cloud, Edge & Platform Engineering",
  "seo_title": "Insights: Cloud, Edge & Platform | Insights | Achala IT Solutions",
- "meta_description": "Achala IT Solutions perspectives on Cloud, Edge & Platform Engineering: engineering notes, market views and delivery lessons.",
+ "meta_description": "Cloud, Edge & Platform Engineering — viewpoints from the Achala delivery floor.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The Achala IT Solutions build of Insights: Cloud, Edge & Platform: concrete interfaces at core systems, measured movement on primary metric, and a delivery rhythm your control owners can plan around from week one."
+   "x": "Cloud, Edge & Platform Engineering — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
   },
   {
    "t": "h2",
@@ -66,7 +66,7 @@
    "x": "Read the viewpoints, then argue with them, the briefing exists for the arguments that survive."
   }
  ],
- "words": 178,
+ "words": 191,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cloud, Edge & Platform Engineering",

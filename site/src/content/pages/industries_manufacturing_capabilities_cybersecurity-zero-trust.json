@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Manufacturing & Industrial",
- "meta_description": "Cyber & Zero-Trust for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Manufacturing & Industrial has one job: move a named number, IT/OT convergence exposure included, and prove it moved. The engineering that does it: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Manufacturing & Industrial: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points, Manufacturing & Industrial edition:"
+   "x": "Cybersecurity & Zero-Trust in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "Bring Cyber & Zero-Trust in Manufacturing & Industrial to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 564,
+ "words": 615,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

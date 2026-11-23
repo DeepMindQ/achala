@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Banking & Financial Services",
- "meta_description": "Cloud, Edge & Platform for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Banking & Financial Services: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform as we run it in Banking & Financial Services inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "Banking & Financial Services: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks, Banking & Financial Services edition:"
+   "x": "Cloud, Edge & Platform Engineering in Banking & Financial Services is delivered by an Achala practice team that stays through industrialization: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "If Cloud, Edge & Platform in Banking & Financial Services is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 574,
+ "words": 639,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

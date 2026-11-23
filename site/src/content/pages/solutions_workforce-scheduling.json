@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Workforce Scheduling & Field Orchestration",
  "seo_title": "Workforce Scheduling & Field Orchestration | Solution",
- "meta_description": "Workforce Scheduling & Field Orchestration — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Workforce Scheduling & Field Orchestration — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Workforce Scheduling & Field Orchestration exists because a specific failure keeps repeating: field and shift operations run on static rosters; demand waves miss capacity; first-time-fix suffers; compliance (hours, certifications) is manual."
+   "x": "Workforce Scheduling & Field Orchestration — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "Start with the diagnostic, not the contract: Workforce Scheduling & Field Orchestration baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 377,
+ "words": 422,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Operational Excellence",

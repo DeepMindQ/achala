@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > Semiconductors & Hardware > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Semiconductors & Hardware",
- "meta_description": "Cyber & Zero-Trust for Semiconductors & Hardware: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Semiconductors & Hardware in Technology & SaaS: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Semiconductors & Hardware answers a daily gap: Design/simulation and Supply-chain visibility produce data faster than decisions. The structured answer: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Semiconductors & Hardware in Technology & SaaS: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the semiconductors & hardware reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Semiconductors & Hardware: the queues and waits that come up first,"
+   "x": "Inside Semiconductors & Hardware, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust for Semiconductors & Hardware baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 418,
+ "words": 471,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

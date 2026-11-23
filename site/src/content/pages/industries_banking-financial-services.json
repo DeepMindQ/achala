@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Banking & Financial Services",
  "seo_title": "Banking & Financial Services | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Banking & Financial Services: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Banking runs on trust and milliseconds.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Banking runs on decisions made under regulatory scrutiny at transaction speed. Credit limits, fraud interdiction, liquidity buffers, KYC refreshes, each is a decision that must be explainable months later, yet taken in milliseconds. The institutions pulling ahead have rebuilt the machinery beneath those decisions: governed data estates, decision hubs with replay, and AI programs whose controls were designed for the audit, not bolted on after it."
+   "x": "Banking runs on trust and milliseconds. Achala's programs for Banking & Financial Services cover instant-payment decisioning, fraud control, KYC onboarding in about 5 minutes and regulated reporting — built for DORA and model-risk expectations, with decision replay that satisfies the regulator in minutes."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "Talk to the team that runs programs in Banking & Financial Services in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 658,
+ "words": 649,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

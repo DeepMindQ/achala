@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Health Insurance & Benefits > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Health Insurance & Benefits",
- "meta_description": "Applied AI & GenAI for Health Insurance & Benefits: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Health Insurance & Benefits in Insurance & Risk: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI is the layer between the systems Health Insurance & Benefits owns and the decisions leadership needs. That layer is the work: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. That is the engineering behind Health Insurance & Benefits."
+   "x": "Health Insurance & Benefits in Insurance & Risk: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the health insurance & benefits reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the places value leaks, Health Insurance & Benefits edition:"
+   "x": "Inside Health Insurance & Benefits, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: Applied AI & GenAI for Health Insurance & Benefits baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 535,
+ "words": 582,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

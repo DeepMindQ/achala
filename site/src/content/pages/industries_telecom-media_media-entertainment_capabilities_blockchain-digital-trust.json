@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Media & Entertainment > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Media & Entertainment",
- "meta_description": "Blockchain & Digital Trust for Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Media & Entertainment in Telecom, Media & Entertainment: Blockchain & Digital Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Blockchain & Digital Trust against content ops manual in Media & Entertainment: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify. For Media & Entertainment, this is the standard the build is held to."
+   "x": "Media & Entertainment in Telecom, Media & Entertainment: Blockchain & Digital Trust as a production discipline. Achala tailors Blockchain & Digital Trust to the media & entertainment reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "named from the floor, not from a framework, Media & Entertainment edition:"
+   "x": "Inside Media & Entertainment, Achala runs Blockchain & Digital Trust under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Bring Blockchain & Digital Trust for Media & Entertainment to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 496,
+ "words": 524,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

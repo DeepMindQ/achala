@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > EdTech & Learning Platforms > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for EdTech & Learning Platforms",
- "meta_description": "Data & Lakehouse for EdTech & Learning Platforms: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "EdTech & Learning Platforms in Education & Research: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse responds where EdTech & Learning Platforms hurts most: assessment integrity lands near the top of every operator list. The structured response: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "EdTech & Learning Platforms in Education & Research: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the edtech & learning platforms reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For EdTech & Learning Platforms, as operators describe it:"
+   "x": "Inside EdTech & Learning Platforms, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -224,7 +224,7 @@
    "x": "one working session on Data & Lakehouse for EdTech & Learning Platforms, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 420,
+ "words": 478,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

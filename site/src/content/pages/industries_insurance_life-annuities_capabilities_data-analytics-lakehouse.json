@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Life & Annuities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Life & Annuities | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Life & Annuities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Life & Annuities in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Life & Annuities targets a specific gap: systems exist, but no governed path connects them, which is why surrender and service queues still costs what it costs. The build closes it: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not. Life & Annuities is where this discipline pays."
+   "x": "Life & Annuities in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the life & annuities reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Life & Annuities: the recurring pressure points,"
+   "x": "Inside Life & Annuities, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Bring Data & Lakehouse for Life & Annuities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 580,
+ "words": 602,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

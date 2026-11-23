@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Higher Education & Universities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Higher Education & Universities",
- "meta_description": "Data & Lakehouse for Higher Education & Universities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Higher Education & Universities in Education & Research: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Higher Education & Universities lives inside Student success/advising, Research computing and Accreditation evidence, paths that all carry decisions now. The work: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears. That is the engineering behind Higher Education & Universities."
+   "x": "Higher Education & Universities in Education & Research: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the higher education & universities reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Higher Education & Universities: as operators describe it,"
+   "x": "Inside Higher Education & Universities, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -250,7 +250,7 @@
    "x": "Talk to the team that runs Data & Lakehouse for Higher Education & Universities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 481,
+ "words": 526,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

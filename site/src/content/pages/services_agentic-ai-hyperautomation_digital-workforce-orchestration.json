@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Digital Workforce & Multi-Agent Orchestration",
  "seo_title": "Digital Workforce & Multi-Agent Orchestration | Achala IT Solutions",
- "meta_description": "Agent-fleet management run like workforce management: demand-planned capacity, shift and version discipline, state-honest utilization and a retirement gate for every agent.",
+ "meta_description": "Digital Workforce & Multi-Agent Orchestration is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agent-fleet management run like workforce management: capacity plans against demand curves, shift and version discipline, credential rotation, utilization that is measured honestly, and SLAs that hold while the fleet upgrades underneath the business."
+   "x": "Digital Workforce & Multi-Agent Orchestration is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Once you have a dozen agents, you have a workforce, and workforces need management. Capacity planning against demand curves, version upgrades without breaking in-flight work, retirement of agents whose roles have changed, utilization measurement that is honest about idle time."
+   "x": "Digital Workforce & Multi-Agent Orchestration is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1464,10 +1464,10 @@
   },
   {
    "t": "cta",
-   "x": "If your agent count is growing and nobody owns the fleet, the next incident is already scheduled. Bring the inventory to a briefing and we will price the management layer against the sprawl."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against. The first session costs nothing but the hour."
   }
  ],
- "words": 1059,
+ "words": 1514,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

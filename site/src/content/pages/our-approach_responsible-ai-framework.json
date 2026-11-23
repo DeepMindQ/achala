@@ -5,11 +5,11 @@
  "template": "approach_page",
  "breadcrumb": "About Us > Our Approach > Responsible AI Framework",
  "seo_title": "Responsible AI Framework | Achala IT Solutions",
- "meta_description": "Five control layers mapped to NIST AI RMF, ISO 42001 and the EU AI Act.",
+ "meta_description": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Five layers of control from policy to assurance, mapped to NIST AI RMF, ISO/IEC 42001 and the EU AI Act."
+   "x": "The Achala delivery method, page by page: the diagnostic that makes cost visible, the baseline both sides sign, the gates that bind every move and the evidence that travels with the program. One standard, all domains."
   },
   {
    "t": "p",
@@ -103,7 +103,7 @@
    "x": "Bring a live program to the table; we will map it to the gates and show what the evidence trail would have caught."
   }
  ],
- "words": 355,
+ "words": 389,
  "section": "Approach",
  "l1": "About Us",
  "l2": "Our Approach",

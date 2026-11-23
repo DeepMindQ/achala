@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Warehousing & Fulfillment > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Warehousing & Fulfillment",
- "meta_description": "Quantum & Advanced Compute for Warehousing & Fulfillment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Warehousing & Fulfillment in Logistics & Supply Chain: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute earns its place in Warehousing & Fulfillment only when it changes what Slotting and pick-path costs or what Wave/order batching returns. The engagement is built around one measurable path: where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing."
+   "x": "Warehousing & Fulfillment in Logistics & Supply Chain: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the warehousing & fulfillment reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Warehousing & Fulfillment: the places value leaks,"
+   "x": "Inside Warehousing & Fulfillment, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Quantum & Advanced Compute for Warehousing & Fulfillment is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 431,
+ "words": 484,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

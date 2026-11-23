@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capital Markets & Wealth Management > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Capital Markets & Wealth Management",
- "meta_description": "Cyber & Zero-Trust for Capital Markets & Wealth Management: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Capital Markets & Wealth Management in Banking & Financial Services: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust is the layer between the systems Capital Markets & Wealth Management owns and the decisions leadership needs. That layer is the work: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Capital Markets & Wealth Management in Banking & Financial Services: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the capital markets & wealth management reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Capital Markets & Wealth Management edition:"
+   "x": "Inside Capital Markets & Wealth Management, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Capital Markets & Wealth Management in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 530,
+ "words": 585,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

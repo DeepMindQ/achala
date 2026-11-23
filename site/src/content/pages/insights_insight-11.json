@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Cybersecurity & Zero-Trust > Your AI estate is an attack surface. Inventory it.",
  "seo_title": "Your AI estate is an attack surface. Inventory it. | Insight",
- "meta_description": "Prompt injection, poisoning and shadow AI expand the threat model faster than programs respond.",
+ "meta_description": "Your AI estate is an attack surface.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Prompt injection, poisoning and shadow AI expand the threat model faster than programs respond."
+   "x": "Your AI estate is an attack surface. Inventory it. — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "If your AI estate is an attack surface. Inventory it. is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 260,
+ "words": 300,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cybersecurity & Zero-Trust",

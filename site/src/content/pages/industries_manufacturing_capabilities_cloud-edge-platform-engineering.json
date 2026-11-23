@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Manufacturing & Industrial",
- "meta_description": "Cloud, Edge & Platform for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Manufacturing & Industrial does not chase announcements; it delivers audited change, which means we engineer the estate the workload runs on, landing zones, edge capacity, SRE discipline, so scaling never becomes the incident."
+   "x": "Manufacturing & Industrial: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Manufacturing & Industrial: where the friction concentrates,"
+   "x": "Cloud, Edge & Platform Engineering in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "Start with the diagnostic, not the contract: Cloud, Edge & Platform in Manufacturing & Industrial baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 557,
+ "words": 625,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

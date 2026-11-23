@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Telecom, Media & Entertainment",
- "meta_description": "IoT, Twin & Robotics for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Telecom, Media & Entertainment: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what network telemetry underused costs Telecom, Media & Entertainment firms in a year and the honest answer is: more than anyone has measured. We measure first, then the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "Telecom, Media & Entertainment: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Telecom, Media & Entertainment: the recurring pressure points,"
+   "x": "IoT, Digital Twin & Robotics in Telecom, Media & Entertainment is delivered by an Achala practice team that stays through industrialization: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -265,7 +265,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: IoT, Twin & Robotics in Telecom, Media & Entertainment, measured against your baseline, in two weeks."
   }
  ],
- "words": 548,
+ "words": 603,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

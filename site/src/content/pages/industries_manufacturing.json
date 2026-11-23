@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Manufacturing & Industrial",
  "seo_title": "Manufacturing & Industrial | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Manufacturing & Industrial: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Manufacturing punishes latency twice: throughput first, quality second.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Manufacturing's competitive frontier has moved from automation of motion to automation of judgment: inspection decisions, scheduling trade-offs, maintenance windows, quality escapes. The plants compounding advantage run governed telemetry into physics-informed models into closed loops, and their workers trust the system because it predicts, explains and hands off cleanly when it is wrong."
+   "x": "Manufacturing punishes latency twice: throughput first, quality second. Achala's programs for Manufacturing & Industrial connect plant data to decisions — digital twins, vision-based quality systems, predictive maintenance — deployed under IEC 62443 discipline with actuation that can be rolled back."
   },
   {
    "t": "h2",

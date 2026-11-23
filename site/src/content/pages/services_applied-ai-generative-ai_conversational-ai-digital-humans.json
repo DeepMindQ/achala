@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > Conversational AI & Digital Humans",
  "seo_title": "Conversational AI & Digital Humans | Achala IT Solutions",
- "meta_description": "Conversational AI where containment and trust are one metric: grounded answers with citations, dignified handoffs that carry context, and voice that meets its latency budget.",
+ "meta_description": "Conversational AI & Digital Humans from Achala IT Solutions: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Voice and chat agents that resolve more without losing trust: grounded answers, dignified handoffs that carry full context, streaming voice inside real-time budgets, and nightly dialog evaluation that measures containment honestly."
+   "x": "Conversational AI & Digital Humans from Achala IT Solutions: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect. Part of the Applied AI & Generative AI domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Conversational systems are judged on containment and trust at the same time: resolve more without human help, and never strand a customer mid-issue. The build is dialogue design, retrieval grounding, handoff choreography and voice engineering, with the metrics wired before the first transcript."
+   "x": "Conversational AI & Digital Humans is delivered by an Achala practice team that stays through industrialization. Achala ships applied AI with its evidence attached: evaluation harnesses, drift monitoring and measured deltas against your baseline. If a model does not beat the baseline, we say so — that honesty is why clients keep the programs running. Who this is for: product and business leaders with a P&L line to move, and CDOs consolidating AI governance."
   },
   {
    "t": "p",
@@ -1447,10 +1447,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the intent family your contact center handles worst. The sprint will measure honest containment and the CSAT cost of chasing it, before you commit the channel."
+   "x": "Bring one AI use case to an Achala briefing. We will show the evaluation plan, the reference architecture and the metric it would move."
   }
  ],
- "words": 1164,
+ "words": 1572,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

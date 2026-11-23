@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Insurance & Risk | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Insurance & Risk: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against claims intake drowning in documents in Insurance & Risk, the structural pressure will not be solved by another dashboard. It gets solved underneath: the physical layer gets wired to the decision loop, sensor fabric, edge processing, and digital twins that stay synchronized with reality."
+   "x": "Insurance & Risk: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Insurance & Risk, where the friction concentrates:"
+   "x": "IoT, Digital Twin & Robotics in Insurance & Risk is delivered by an Achala practice team that stays through industrialization: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -265,7 +265,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: IoT, Twin & Robotics in Insurance & Risk, measured against your baseline, in two weeks."
   }
  ],
- "words": 627,
+ "words": 683,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

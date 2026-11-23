@@ -123,21 +123,21 @@ export default function OpsConsole() {
           <span className="h-2.5 w-2.5 rounded-full bg-white/15" />
           <span className="h-2.5 w-2.5 rounded-full bg-white/15" />
           <span className="h-2.5 w-2.5 rounded-full bg-brand/80" />
-          <p className="ml-2 text-[12px] font-semibold text-white/85">Reference program view — decision operations</p>
+          <p className="ml-2 text-[12px] font-semibold text-white/85">Achala delivery console — decision operations</p>
         </div>
         {/* E-04: provenance badge — honest about what this panel is */}
         <span
           id="prov"
           className="inline-flex items-center gap-1.5 rounded-full border border-white/20 bg-white/[0.06] px-2.5 py-0.5 text-[9.5px] font-bold uppercase tracking-[0.14em] text-white/60"
         >
-          Illustrative — reference program
+          Achala program
         </span>
       </div>
 
       <div className="px-4 py-3.5">
         {/* A-06: one-line caption under the title — what this panel is */}
         <p className="mb-2.5 text-[11px] leading-relaxed text-white/45">
-          The leadership panel every Achala program ships — sample from a fraud-decisioning program.
+          The leadership panel every Achala program ships — illustrative sample from a fraud-decisioning program.
         </p>
 
         {/* KPI tiles — A-06 tooltips + A-51 tour target */}

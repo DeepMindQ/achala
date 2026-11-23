@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Fashion & Luxury > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Fashion & Luxury | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for Fashion & Luxury: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Fashion & Luxury in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI answers Retail & Consumer Goods pressure where it lands in Fashion & Luxury: size-curve risk unmanaged, week after week. The architectural answer: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns."
+   "x": "Fashion & Luxury in Retail & Consumer Goods: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the fashion & luxury reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Fashion & Luxury, where the friction concentrates:"
+   "x": "Inside Fashion & Luxury, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Fashion & Luxury in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 474,
+ "words": 520,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

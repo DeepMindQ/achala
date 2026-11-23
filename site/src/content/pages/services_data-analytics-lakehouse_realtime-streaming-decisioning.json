@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Real-Time Streaming & Event-Driven Decisioning",
  "seo_title": "Real-Time Streaming & Event-Driven Decisioning | Achala IT Solutions",
- "meta_description": "Real-time decisioning as a budget: 150ms across six hops with p99 headroom measured, exactly-once actions proven by replay, and decisions auditable hop by hop.",
+ "meta_description": "Real-Time Streaming & Event-Driven Decisioning from Achala IT Solutions: data platforms your finance team, your risk team and your auditors all trust.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Sub-second decision paths on streams: exactly-once state, replay semantics and latency budgets measured hop by hop, because a decision path that cannot state its own latency is guessing, and a guess is not a control."
+   "x": "Real-Time Streaming & Event-Driven Decisioning from Achala IT Solutions: data platforms your finance team, your risk team and your auditors all trust. Part of the Data, Analytics & Lakehouse domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Streaming decisioning is where data stops being a report and becomes a reflex: fraud holds in milliseconds, personalization on the next request, pricing that adapts mid-session. The engineering is stateful stream processing with honest semantics, exactly-once state, replayable events, and latency budgets per hop that are measured in production, not hoped for in the design doc."
+   "x": "Real-Time Streaming & Event-Driven Decisioning is delivered by an Achala practice team that stays through industrialization. Achala builds lakehouses with data contracts: producers and consumers agree on schema and quality, breaks are caught at the boundary, and every table carries an owner and a freshness target. Decisions downstream become defensible. Who this is for: CDOs and finance leaders who need numbers both sides sign, and teams tired of disputed data."
   },
   {
    "t": "p",
@@ -1548,10 +1548,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the decision your traders or operators say is too slow. The diagnostic will budget your path hop by hop, and show exactly where the p99 promise breaks."
+   "x": "Bring one data domain to an Achala briefing. We will show the contract, the pipeline design and the cost picture it would run under."
   }
  ],
- "words": 1081,
+ "words": 1433,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

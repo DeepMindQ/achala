@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Applied AI & Generative AI > AI Proof-of-Concept & Value Validation",
  "seo_title": "AI Proof-of-Concept & Value Validation | Achala IT Solutions",
- "meta_description": "A four-week AI PoC that ends in a fund-or-kill verdict: signed baseline, real data path, integration probe and eval gates — decision-grade evidence, not demo-ware.",
+ "meta_description": "AI Proof-of-Concept & Value Validation is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The four-week sprint that ends in a fund-or-kill verdict with auditable numbers: baseline signed before week one ends, a real data path instead of a demo set, and a written verdict your CFO can take to the bank."
+   "x": "AI Proof-of-Concept & Value Validation is one of the 54 Achala practices in the Applied AI & Generative AI domain: models that earn their place on the P&L, deployed with the evaluation discipline regulators and boards expect. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "A PoC exists to produce a decision, not a demo. Four weeks, one metric, a real data path, and a written kill-or-fund verdict with the evidence attached. The discipline is saying no fast: most ideas die at the provability screen, and that is the program saving money."
+   "x": "AI Proof-of-Concept & Value Validation is delivered by an Achala practice team that stays through industrialization. Achala ships applied AI with its evidence attached: evaluation harnesses, drift monitoring and measured deltas against your baseline. If a model does not beat the baseline, we say so — that honesty is why clients keep the programs running. Who this is for: product and business leaders with a P&L line to move, and CDOs consolidating AI governance."
   },
   {
    "t": "p",
@@ -1418,10 +1418,10 @@
   },
   {
    "t": "cta",
-   "x": "Pick the idea your board keeps asking about. Four weeks, one metric, a real data path, and a verdict with numbers attached, whichever way it lands."
+   "x": "Bring one AI use case to an Achala briefing. We will show the evaluation plan, the reference architecture and the metric it would move. The first session costs nothing but the hour."
   }
  ],
- "words": 1174,
+ "words": 1626,
  "section": "Services",
  "l1": "Services",
  "l2": "Applied AI & Generative AI",

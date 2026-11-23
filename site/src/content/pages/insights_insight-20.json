@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Blockchain & Digital Trust > EUDR made provenance a compliance deadline",
  "seo_title": "EUDR made provenance a compliance deadline | Insight",
- "meta_description": "Chain-of-custody evidence is becoming a market-access requirement, not a marketing story.",
+ "meta_description": "EUDR made provenance a compliance deadline — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Chain-of-custody evidence is becoming a market-access requirement, not a marketing story."
+   "x": "EUDR made provenance a compliance deadline — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "If EUDR made provenance a compliance deadline is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 234,
+ "words": 274,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Blockchain & Digital Trust",

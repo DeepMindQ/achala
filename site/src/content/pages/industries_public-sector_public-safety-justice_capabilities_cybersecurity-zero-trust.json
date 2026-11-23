@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Public Safety & Justice > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Public Safety & Justice | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Public Safety & Justice: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Safety & Justice in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust earns its place in Public Safety & Justice only when it changes what Dispatch and coordination costs or what Evidence management returns. The engagement is built around one measurable path: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Public Safety & Justice in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the public safety & justice reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Public Safety & Justice: the recurring pressure points,"
+   "x": "Inside Public Safety & Justice, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust for Public Safety & Justice baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 510,
+ "words": 545,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

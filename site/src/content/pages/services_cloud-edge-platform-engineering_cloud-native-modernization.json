@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > Cloud-Native & Legacy Modernization",
  "seo_title": "Cloud-Native & Legacy Modernization | Achala IT Solutions",
- "meta_description": "Cloud-native modernization measured in retirements: strangler waves with parity and chaos gates, a shrinking VM estate on the console and unit cost that falls with every wave.",
+ "meta_description": "Cloud-Native & Legacy Modernization from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Workloads rebuilt for cloud-native operations, containerized, observable, resilient by default, moved on a strangler plan that escapes the lift-and-shift trap, retires the VM estate in waves, and shows the cost per workload falling with each one."
+   "x": "Cloud-Native & Legacy Modernization from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there. Part of the Cloud, Edge & Platform Engineering domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Modernization is not 'lift and shift' (which moves your problems and adds a bill) or 'rewrite everything' (which never ships). It is wave-based refactoring: containerize, externalize state, adopt managed services where they remove undifferentiated work, and retire VMs on evidence, one workload class at a time."
+   "x": "Cloud-Native & Legacy Modernization is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1431,10 +1431,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the monolith everyone protects and nobody loves. The diagnostic will price its wave with chaos gates included, and tell you what its retirement date actually requires."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces."
   }
  ],
- "words": 956,
+ "words": 1367,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

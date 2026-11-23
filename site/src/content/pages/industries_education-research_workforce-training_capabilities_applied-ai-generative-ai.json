@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Workforce & Vocational Training > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Workforce & Vocational Training",
- "meta_description": "Applied AI & GenAI for Workforce & Vocational Training: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Workforce & Vocational Training in Education & Research: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in Workforce & Vocational Training targets a specific gap: systems exist, but no governed path connects them, which is why credentials unportable still costs what it costs. The build closes it: the work is model and retrieval engineering with evaluation wired in from the first sprint, grounded answers, cited sources, and a cost line somebody actually owns. That is the engineering behind Workforce & Vocational Training."
+   "x": "Workforce & Vocational Training in Education & Research: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the workforce & vocational training reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Workforce & Vocational Training, the recurring pressure points:"
+   "x": "Inside Workforce & Vocational Training, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Workforce & Vocational Training in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 480,
+ "words": 510,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

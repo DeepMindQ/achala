@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Smart Cities & Infrastructure > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Smart Cities & Infrastructure",
- "meta_description": "Data & Lakehouse for Smart Cities & Infrastructure: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Smart Cities & Infrastructure in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Smart Cities & Infrastructure answers a daily gap: Urban asset management and Mobility optimization produce data faster than decisions. The structured answer: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Smart Cities & Infrastructure in Public Sector & Government: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the smart cities & infrastructure reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, Smart Cities & Infrastructure edition:"
+   "x": "Inside Smart Cities & Infrastructure, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Start with the diagnostic, not the contract: Data & Lakehouse for Smart Cities & Infrastructure baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 480,
+ "words": 526,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

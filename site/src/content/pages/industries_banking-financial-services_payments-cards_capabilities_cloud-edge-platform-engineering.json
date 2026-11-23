@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Payments & Cards > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Payments & Cards | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for Payments & Cards: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Payments & Cards in Banking & Financial Services: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Payments & Cards meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. For Payments & Cards, this is the standard the build is held to."
+   "x": "Payments & Cards in Banking & Financial Services: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the payments & cards reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Payments & Cards, the places value leaks:"
+   "x": "Inside Payments & Cards, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Cloud, Edge & Platform for Payments & Cards, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 530,
+ "words": 576,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

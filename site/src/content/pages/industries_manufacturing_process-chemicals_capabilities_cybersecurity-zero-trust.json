@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Process Industries & Chemicals > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Process Industries & Chemicals",
- "meta_description": "Cyber & Zero-Trust for Process Industries & Chemicals: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Process Industries & Chemicals in Manufacturing & Industrial: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Process Industries & Chemicals meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Process Industries & Chemicals in Manufacturing & Industrial: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the process industries & chemicals reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Process Industries & Chemicals, the recurring pressure points:"
+   "x": "Inside Process Industries & Chemicals, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring Cyber & Zero-Trust for Process Industries & Chemicals to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 457,
+ "words": 510,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

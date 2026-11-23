@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > AgriFinance & Commodity Markets > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for AgriFinance & Commodity Markets",
- "meta_description": "Data & Lakehouse for AgriFinance & Commodity Markets: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "AgriFinance & Commodity Markets in Agriculture & Food Systems: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse treats practice data absent in AgriFinance & Commodity Markets as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "AgriFinance & Commodity Markets in Agriculture & Food Systems: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the agrifinance & commodity markets reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "AgriFinance & Commodity Markets: named from the floor, not from a framework,"
+   "x": "Inside AgriFinance & Commodity Markets, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for AgriFinance & Commodity Markets, measured against your baseline, in two weeks."
   }
  ],
- "words": 436,
+ "words": 498,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

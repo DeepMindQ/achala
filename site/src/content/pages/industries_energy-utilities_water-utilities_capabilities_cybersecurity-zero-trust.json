@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Water, Waste & City Utilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Water, Waste & City Utilities",
- "meta_description": "Cyber & Zero-Trust for Water, Waste & City Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Water, Waste & City Utilities in Energy & Utilities: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Water, Waste & City Utilities gets concrete fast: OT estates exposed names a real queue, a real wait, a real cost. What we build to end it: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Water, Waste & City Utilities in Energy & Utilities: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the water, waste & city utilities reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework, Water, Waste & City Utilities edition:"
+   "x": "Inside Water, Waste & City Utilities, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Bring Cyber & Zero-Trust for Water, Waste & City Utilities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 449,
+ "words": 498,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

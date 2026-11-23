@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > Defense & National Security > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Defense & National Security",
- "meta_description": "Cyber & Zero-Trust for Defense & National Security: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Defense & National Security in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust treats HNDL at state scale in Defense & National Security as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. Defense & National Security is where this discipline pays."
+   "x": "Defense & National Security in Public Sector & Government: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the defense & national security reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Where the friction concentrates, Defense & National Security edition:"
+   "x": "Inside Defense & National Security, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -204,7 +204,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust for Defense & National Security in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 447,
+ "words": 495,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

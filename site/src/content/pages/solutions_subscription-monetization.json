@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Growth & Revenue > Subscription & Monetization Platforms",
  "seo_title": "Subscription & Monetization Platforms | Solution",
- "meta_description": "Subscription & Monetization Platforms — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Subscription & Monetization Platforms — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Subscription & Monetization Platforms exists because a specific failure keeps repeating: billing systems resist product change; churn is discovered at cancellation; usage-based pricing is unmeasured, so monetization innovations stall."
+   "x": "Subscription & Monetization Platforms — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "If Subscription & Monetization Platforms is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 367,
+ "words": 413,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Growth & Revenue",

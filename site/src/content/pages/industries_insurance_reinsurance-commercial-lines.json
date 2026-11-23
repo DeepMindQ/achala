@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Insurance & Risk > Reinsurance & Commercial Lines",
  "seo_title": "Reinsurance & Commercial Lines | Achala IT Solutions",
- "meta_description": "Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization.",
+ "meta_description": "Reinsurance & Commercial Lines in Insurance & Risk — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Reinsurance and specialty commercial books trade in complexity: treaty structures, cat exposure, bordereaux reconciliation and capital optimization. The data flows between cedants, reinsurers and brokers are still largely spreadsheets, which is why settlement cycles and model confidence suffer. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Reinsurance & Commercial Lines in Insurance & Risk — an Achala sector brief. pricing, claims and capital decisions all need model governance that Solvency II reviewers accept This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in bordereaux intake/reconciliation, treaty settlement, retro/capacity optimization, with specialty underwriting close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Reinsurance & Commercial Lines through the insurance & risk program stack: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "one working session on operations in Reinsurance & Commercial Lines, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 405,
+ "words": 411,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

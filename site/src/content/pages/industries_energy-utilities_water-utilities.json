@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Energy & Utilities > Water, Waste & City Utilities",
  "seo_title": "Water, Waste & City Utilities | Achala IT Solutions",
- "meta_description": "Water and waste utilities run essential services on aging assets and thin margins: leak detection, network telemetry, customer analytics and regulatory.",
+ "meta_description": "Water, Waste & City Utilities in Energy & Utilities — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Water and waste utilities run essential services on aging assets and thin margins: leak detection, network telemetry, customer analytics and regulatory evidence. Non-revenue water alone often pays for the entire instrumented program. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Water, Waste & City Utilities in Energy & Utilities — an Achala sector brief. the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in leak detection, network monitoring, field operations, with demand management close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Water, Waste & City Utilities through the energy & utilities program stack: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Talk to the team that runs operations in Water, Waste & City Utilities in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 356,
+ "words": 374,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

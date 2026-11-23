@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Oil & Gas > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Oil & Gas | Achala IT Solutions",
- "meta_description": "IoT, Twin & Robotics for Oil & Gas: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Oil & Gas in Energy & Utilities: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against process optimization static in Oil & Gas: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Oil & Gas in Energy & Utilities: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the oil & gas reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Oil & Gas edition:"
+   "x": "Inside Oil & Gas, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: IoT, Twin & Robotics for Oil & Gas, measured against your baseline, in two weeks."
   }
  ],
- "words": 488,
+ "words": 542,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > CPG & Brands > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for CPG & Brands | Achala IT Solutions",
- "meta_description": "Cloud, Edge & Platform for CPG & Brands: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "CPG & Brands in Retail & Consumer Goods: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in CPG & Brands meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "CPG & Brands in Retail & Consumer Goods: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the cpg & brands reality — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "the queues and waits that come up first, CPG & Brands edition:"
+   "x": "Inside CPG & Brands, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "one working session on Cloud, Edge & Platform for CPG & Brands, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 462,
+ "words": 509,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

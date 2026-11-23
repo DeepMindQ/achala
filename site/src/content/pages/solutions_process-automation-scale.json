@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Operational Excellence > Intelligent Process Automation at Scale",
  "seo_title": "Intelligent Process Automation at Scale | Solution",
- "meta_description": "Intelligent Process Automation at Scale — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Intelligent Process Automation at Scale — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Intelligent Process Automation at Scale exists because a specific failure keeps repeating: rPA estates fragment across kingdoms; agents arrive ungoverned; nobody knows which automation did what; conformance drifts."
+   "x": "Intelligent Process Automation at Scale — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "one working session on Intelligent Process Automation at Scale, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 371,
+ "words": 414,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Operational Excellence",

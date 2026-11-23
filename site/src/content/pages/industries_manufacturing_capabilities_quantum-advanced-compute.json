@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Manufacturing & Industrial",
- "meta_description": "Quantum & Advanced Compute for Manufacturing & Industrial: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Manufacturing & Industrial: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Manufacturing & Industrial; competition sets the pace. Quantum & Advanced Compute is how we hold both: where quantum-inspired methods genuinely pay, routing, scheduling, allocation, we deploy them; where they do not, we say so in writing. For Manufacturing & Industrial, this is the standard the build is held to."
+   "x": "Manufacturing & Industrial: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Manufacturing & Industrial: the queues and waits that come up first,"
+   "x": "Quantum & Advanced Compute in Manufacturing & Industrial is delivered by an Achala practice team that stays through industrialization: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Talk to the team that runs Quantum & Advanced Compute in Manufacturing & Industrial in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 536,
+ "words": 586,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

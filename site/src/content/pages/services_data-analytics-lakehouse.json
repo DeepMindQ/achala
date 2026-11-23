@@ -5,11 +5,11 @@
  "template": "expertise_hub",
  "breadcrumb": "Services > Data, Analytics & Lakehouse",
  "seo_title": "Data, Analytics & Lakehouse | Achala IT Solutions",
- "meta_description": "Data, Analytics & Lakehouse on contract-first engineering: versioned schemas with owners, typed SLAs, promotion gates from bronze to gold. Seven practices from ingest to monetized product, six gates, twelve sector playbooks.",
+ "meta_description": "Achala's Data, Analytics & Lakehouse domain turns scattered data estates into decision-grade platforms.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data is the substrate every other domain stands on. Data, Analytics & Lakehouse runs seven practices built on contract-first engineering: schemas are versioned agreements with owners, SLAs are typed and measured, and every table, metric and model carries the governance that makes it usable in front of an auditor."
+   "x": "Achala's Data, Analytics & Lakehouse domain turns scattered data estates into decision-grade platforms. Eight practices cover lakehouse architecture, streaming, migration factories and decision products — governed so well that finance signs the numbers without a meeting."
   },
   {
    "t": "p",
@@ -1288,7 +1288,7 @@
    "x": "Bring the metric nobody trusts and the pipeline nobody owns. The two-week diagnostic will score your estate's contracts, and show which gates you would fail today, in front of your own auditors."
   }
  ],
- "words": 896,
+ "words": 1260,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

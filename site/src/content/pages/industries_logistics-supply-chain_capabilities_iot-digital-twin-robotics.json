@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Logistics & Supply Chain",
- "meta_description": "IoT, Twin & Robotics for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Logistics & Supply Chain: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Logistics & Supply Chain operators recognize the pattern: fleet and yard telemetry gaps, quarter after quarter. IoT, Twin & Robotics reaches the root: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Logistics & Supply Chain: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Logistics & Supply Chain, as operators describe it:"
+   "x": "IoT, Digital Twin & Robotics in Logistics & Supply Chain is delivered by an Achala practice team that stays through industrialization: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "If IoT, Twin & Robotics in Logistics & Supply Chain is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 527,
+ "words": 597,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

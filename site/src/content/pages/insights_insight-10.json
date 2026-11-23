@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Cybersecurity & Zero-Trust > Zero-trust is an architecture, not a purchase",
  "seo_title": "Zero-trust is an architecture, not a purchase | Insight",
- "meta_description": "Products enforce; architecture decides where trust dies.",
+ "meta_description": "Zero-trust is an architecture, not a purchase — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Products enforce; architecture decides where trust dies."
+   "x": "Zero-trust is an architecture, not a purchase — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Bring zero-trust is an architecture, not a purchase to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 246,
+ "words": 292,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cybersecurity & Zero-Trust",

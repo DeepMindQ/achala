@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > Semiconductors & Hardware > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Semiconductors & Hardware | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Semiconductors & Hardware: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Semiconductors & Hardware in Technology & SaaS: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse responds where Semiconductors & Hardware hurts most: design simulation costs lands near the top of every operator list. The structured response: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it. For Semiconductors & Hardware, this is the standard the build is held to."
+   "x": "Semiconductors & Hardware in Technology & SaaS: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the semiconductors & hardware reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Semiconductors & Hardware, the recurring pressure points:"
+   "x": "Inside Semiconductors & Hardware, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "If Data & Lakehouse for Semiconductors & Hardware is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 504,
+ "words": 533,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

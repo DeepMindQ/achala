@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Agriculture & Food Systems",
- "meta_description": "Quantum & Advanced Compute for Agriculture & Food Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Agriculture & Food Systems: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute as we run it in Agriculture & Food Systems inverts the predictable failures, the baseline nobody signed, the scope nobody bounded, the evidence nobody can find: the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both."
+   "x": "Agriculture & Food Systems: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Agriculture & Food Systems, the places value leaks:"
+   "x": "Quantum & Advanced Compute in Agriculture & Food Systems is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Start with the diagnostic, not the contract: Quantum & Advanced Compute in Agriculture & Food Systems baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 507,
+ "words": 569,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

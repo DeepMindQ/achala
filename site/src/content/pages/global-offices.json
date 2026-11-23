@@ -5,11 +5,11 @@
  "template": "company_page",
  "breadcrumb": "About Us > Global Offices",
  "seo_title": "Global Offices | Achala IT Solutions",
- "meta_description": "Achala IT Solutions delivers from Hyderabad (India HQ), Munich (Germany) and Sofia (Bulgaria). Contact: +91 7337444922 · info@achalasolutions.com.",
+ "meta_description": "Achala IT Solutions delivers from Hyderabad (India), Munich (Germany) and Sofia (Bulgaria) — one delivery standard across three countries, with the Achala Sulzer partnership giving European clients fair-shoring continuity.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Four delivery centers, one accountability chain, strategy in the US, execution around the sun."
+   "x": "Achala IT Solutions delivers from Hyderabad (India), Munich (Germany) and Sofia (Bulgaria) — one delivery standard across three countries, with the Achala Sulzer partnership giving European clients fair-shoring continuity."
   },
   {
    "t": "p",
@@ -113,7 +113,7 @@
    ]
   }
  ],
- "words": 270,
+ "words": 364,
  "section": "Company",
  "l1": "About Us",
  "l2": "Global Offices",

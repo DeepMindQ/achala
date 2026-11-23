@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Capabilities > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Healthcare & Life Sciences",
- "meta_description": "IoT, Twin & Robotics for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Healthcare & Life Sciences: IoT, Digital Twin & Robotics that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics against genomic and longitudinal data exposure in Healthcare & Life Sciences, the structural pressure will not be solved by another dashboard. It gets solved underneath: the work spans the stack: devices and gateways in the field, perception models in the middle, actuation plans on the board."
+   "x": "Healthcare & Life Sciences: IoT, Digital Twin & Robotics that ships. Achala runs IoT, Digital Twin & Robotics as a production discipline for this sector — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Healthcare & Life Sciences, the recurring pressure points:"
+   "x": "IoT, Digital Twin & Robotics in Healthcare & Life Sciences is delivered by an Achala practice team that stays through industrialization: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -265,7 +265,7 @@
    "x": "If IoT, Twin & Robotics in Healthcare & Life Sciences is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 573,
+ "words": 636,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

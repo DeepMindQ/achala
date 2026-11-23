@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Workforce & Vocational Training > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Workforce & Vocational Training",
- "meta_description": "Cloud, Edge & Platform for Workforce & Vocational Training: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Workforce & Vocational Training in Education & Research: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform across Education & Research repeats one pattern in Workforce & Vocational Training: pressure on Skills taxonomy management, pressure on Pathway personalization, a fix improvised at the desk. This page is the engineered version: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. That is the engineering behind Workforce & Vocational Training."
+   "x": "Workforce & Vocational Training in Education & Research: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the workforce & vocational training reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Workforce & Vocational Training: named from the floor, not from a framework,"
+   "x": "Inside Workforce & Vocational Training, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Cloud, Edge & Platform for Workforce & Vocational Training in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 522,
+ "words": 548,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

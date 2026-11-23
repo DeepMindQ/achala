@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Insurance & Risk > Reinsurance & Commercial Lines > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Reinsurance & Commercial Lines",
- "meta_description": "Data & Lakehouse for Reinsurance & Commercial Lines: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Reinsurance & Commercial Lines in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Reinsurance & Commercial Lines is how Bordereaux intake/reconciliation and Treaty settlement stop leaning on manual work, both decide the margin. The build: we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Reinsurance & Commercial Lines in Insurance & Risk: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the reinsurance & commercial lines reality — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Reinsurance & Commercial Lines: the queues and waits that come up first,"
+   "x": "Inside Reinsurance & Commercial Lines, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Reinsurance & Commercial Lines, measured against your baseline, in two weeks."
   }
  ],
- "words": 461,
+ "words": 518,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

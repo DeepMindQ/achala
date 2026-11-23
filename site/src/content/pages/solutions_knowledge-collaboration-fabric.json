@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Workforce & Experience > Knowledge & Collaboration Fabric",
  "seo_title": "Knowledge & Collaboration Fabric | Solution | Achala IT Solutions",
- "meta_description": "Knowledge & Collaboration Fabric — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Knowledge & Collaboration Fabric — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Knowledge & Collaboration Fabric exists because a specific failure keeps repeating: documents sprawl across systems; answers are tribal; permissions inconsistent; freshness SLAs nonexistent, trust dies in month three."
+   "x": "Knowledge & Collaboration Fabric — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Knowledge & Collaboration Fabric, measured against your baseline, in two weeks."
   }
  ],
- "words": 362,
+ "words": 407,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Workforce & Experience",

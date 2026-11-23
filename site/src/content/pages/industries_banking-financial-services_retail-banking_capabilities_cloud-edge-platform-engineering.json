@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Retail & Consumer Banking > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Retail & Consumer Banking",
- "meta_description": "Cloud, Edge & Platform for Retail & Consumer Banking: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Banking in Banking & Financial Services: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform teams in Retail & Consumer Banking open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload. Retail & Consumer Banking is where this discipline pays."
+   "x": "Retail & Consumer Banking in Banking & Financial Services: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the retail & consumer banking reality — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The places value leaks, Retail & Consumer Banking edition:"
+   "x": "Inside Retail & Consumer Banking, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "If Cloud, Edge & Platform for Retail & Consumer Banking is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 618,
+ "words": 660,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Agriculture & Food Systems > Agri-Food Processing",
  "seo_title": "Agri-Food Processing | Achala IT Solutions",
- "meta_description": "Food processors live on quality, yield and traceability: intake grading, process yield, food-safety evidence and provenance claims.",
+ "meta_description": "Agri-Food Processing in Agriculture & Food Systems — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Food processors live on quality, yield and traceability: intake grading, process yield, food-safety evidence and provenance claims. Vision grading, yield analytics and chain-of-custody convert commodity margin into brand margin. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Agri-Food Processing in Agriculture & Food Systems — an Achala sector brief. seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in intake grading, process yield analytics, lot traceability, with cold-chain monitoring close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Agri-Food Processing through the agriculture & food systems program stack: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "one working session on operations in Agri-Food Processing, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 317,
+ "words": 337,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

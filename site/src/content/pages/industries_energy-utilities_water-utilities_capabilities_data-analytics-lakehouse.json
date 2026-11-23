@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Energy & Utilities > Water, Waste & City Utilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Water, Waste & City Utilities",
- "meta_description": "Data & Lakehouse for Water, Waste & City Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Water, Waste & City Utilities in Energy & Utilities: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse for Water, Waste & City Utilities starts at the non-revenue water invisible queue, pricing it honestly, then the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Water, Waste & City Utilities in Energy & Utilities: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the water, waste & city utilities reality — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first, Water, Waste & City Utilities edition:"
+   "x": "Inside Water, Waste & City Utilities, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -250,7 +250,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse for Water, Waste & City Utilities, measured against your baseline, in two weeks."
   }
  ],
- "words": 450,
+ "words": 507,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

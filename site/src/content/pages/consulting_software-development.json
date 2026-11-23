@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "Software Development & Engineering Pods — Consulting | Achala IT Solutions",
- "meta_description": "Software Development & Engineering Pods: Product-grade engineering pods that ship into your controls, not around them. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "Software Development & Engineering Pods from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Software Development & Engineering Pods: Product-grade engineering pods that ship into your controls, not around them. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "Software Development & Engineering Pods from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Our engineering pods build the systems the business actually runs on: transactional platforms, customer portals, integration fabrics and the internal tools operations depends on. Pods arrive with a delivery system, not just developers, trunk-based development, contract-tested APIs, progressive delivery and evidence-producing pipelines are the default, because software that cannot be audited is a liability no matter how well it demos."
+   "x": "Software Development & Engineering Pods runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -220,7 +220,7 @@
    "x": "Book a Software Development & Engineering Pods briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 364,
+ "words": 374,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "Software Development & Engineering Pods",

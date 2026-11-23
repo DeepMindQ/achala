@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Telecom, Media & Entertainment",
  "seo_title": "Telecom, Media & Entertainment | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Telecom, Media & Entertainment: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Telecom and media decisions happen in milliseconds at national scale: capacity, credit control, personalization, content delivery.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Telcos run the most demanding real-time estate in the private sector, and monetize a fraction of its intelligence. Network telemetry predicts failures before customers notice; usage and experience data predict churn quarters ahead; edge infrastructure positions operators as compute providers, not bit pipes. The gap between what the network knows and what the business acts on is the strategic opportunity."
+   "x": "Telecom and media decisions happen in milliseconds at national scale: capacity, credit control, personalization, content delivery. Achala's programs for Telecom, Media & Entertainment build those decision systems under NIS2 — latency-bounded, subscriber-aware and measurable."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "Talk to the team that runs programs in Telecom, Media & Entertainment in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 493,
+ "words": 482,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

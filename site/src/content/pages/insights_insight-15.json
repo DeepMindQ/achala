@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Cloud, Edge & Platform Engineering > Edge is where latency becomes revenue",
  "seo_title": "Edge is where latency becomes revenue | Insight | Achala IT Solutions",
- "meta_description": "The millisecond between sensing and actuation is where plants, stores and grids win or lose.",
+ "meta_description": "Edge is where latency becomes revenue — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The millisecond between sensing and actuation is where plants, stores and grids win or lose."
+   "x": "Edge is where latency becomes revenue — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "Talk to the team that runs edge is where latency becomes revenue in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 229,
+ "words": 267,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Cloud, Edge & Platform Engineering",

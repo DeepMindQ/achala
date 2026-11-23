@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Retail & Consumer Goods > CPG & Brands",
  "seo_title": "CPG & Brands | Achala IT Solutions",
- "meta_description": "CPG brands compete on shelf, on shelf-image and on data: trade spend efficiency, retail execution truth, demand signal quality and now provenance claims.",
+ "meta_description": "CPG & Brands in Retail & Consumer Goods — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "CPG brands compete on shelf, on shelf-image and on data: trade spend efficiency, retail execution truth, demand signal quality and now provenance claims. The brands that win industrialize the sell-side data relationship with retailers. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "CPG & Brands in Retail & Consumer Goods — an Achala sector brief. pricing, availability and experience decisions repeat thousands of times a day, per store This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in trade promotion management, demand planning, retail execution, with provenance claims close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers CPG & Brands through the retail & consumer goods program stack: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Start with the diagnostic, not the contract: operations in CPG & Brands baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 359,
+ "words": 372,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

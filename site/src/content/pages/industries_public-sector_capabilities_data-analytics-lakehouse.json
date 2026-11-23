@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Public Sector & Government > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Public Sector & Government | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Public Sector & Government: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Public Sector & Government: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Public Sector & Government operators recognize the pattern: agency data islands, quarter after quarter. Data & Lakehouse reaches the root: the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Public Sector & Government: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "named from the floor, not from a framework, Public Sector & Government edition:"
+   "x": "Data, Analytics & Lakehouse in Public Sector & Government is delivered by an Achala practice team that stays through industrialization: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse in Public Sector & Government, measured against your baseline, in two weeks."
   }
  ],
- "words": 527,
+ "words": 597,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

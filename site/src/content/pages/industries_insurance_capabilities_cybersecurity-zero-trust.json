@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Insurance & Risk > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Insurance & Risk | Achala IT Solutions",
- "meta_description": "Cyber & Zero-Trust for Insurance & Risk: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Insurance & Risk: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Insurance & Risk operators recognize the pattern: sensitive data estate under pressure, quarter after quarter. Cyber & Zero-Trust reaches the root: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone. For Insurance & Risk, this is the standard the build is held to."
+   "x": "Insurance & Risk: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — pricing, claims and capital decisions all need model governance that Solvency II reviewers accept."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Insurance & Risk, the places value leaks:"
+   "x": "Cybersecurity & Zero-Trust in Insurance & Risk is delivered by an Achala practice team that stays through industrialization: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -243,7 +243,7 @@
    "x": "one working session on Cyber & Zero-Trust in Insurance & Risk, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 545,
+ "words": 582,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

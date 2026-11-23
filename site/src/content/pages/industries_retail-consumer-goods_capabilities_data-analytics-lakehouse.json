@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Retail & Consumer Goods | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Retail & Consumer Goods: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Goods: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Retail & Consumer Goods does not chase announcements; it delivers audited change, which means the work is pipeline and lakehouse engineering, modeled once, certified once, reused everywhere the decision appears."
+   "x": "Retail & Consumer Goods: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "As operators describe it, Retail & Consumer Goods edition:"
+   "x": "Data, Analytics & Lakehouse in Retail & Consumer Goods is delivered by an Achala practice team that stays through industrialization: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -257,7 +257,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse in Retail & Consumer Goods, measured against your baseline, in two weeks."
   }
  ],
- "words": 484,
+ "words": 550,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

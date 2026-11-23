@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cloud, Edge & Platform Engineering > SRE & Reliability Engineering",
  "seo_title": "SRE & Reliability Engineering | Achala IT Solutions",
- "meta_description": "SRE where error budgets are a currency: SLOs gated at release, automatic burn freezes, MTTR halved by drill craft and a console that shows the numbers the review reads.",
+ "meta_description": "SRE & Reliability Engineering from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there.",
  "blocks": [
   {
    "t": "hero",
-   "x": "SLOs with teeth: error budgets that actually gate releases, chaos exercises that prove recovery instead of assuming it, and incident craft that turns every postmortem into a reliability deposit, not a lesson plan nobody reads."
+   "x": "SRE & Reliability Engineering from Achala IT Solutions: estates that move to cloud without breaking anything — and run measurably cheaper once there. Part of the Cloud, Edge & Platform Engineering domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Reliability is an engineering discipline with a currency: the error budget. SLOs are signed contracts with the business, budgets gate releases without politics, and chaos drills prove recovery paths work before reality tests them. When incidents happen, the response is a rehearsed system, roles, ladders and a decision log."
+   "x": "SRE & Reliability Engineering is delivered by an Achala practice team that stays through industrialization. Achala stages every migration with reconciliation gates: the old system and the new one run side by side until the numbers match. Rollback plans are written before cutover, not after incidents. Who this is for: CTOs and infrastructure leads carrying estate cost, and program boards that cannot afford a failed migration."
   },
   {
    "t": "p",
@@ -1412,10 +1412,10 @@
   },
   {
    "t": "cta",
-   "x": "Ask which release was frozen by an error budget last quarter. If none, the gate is decorative, bring the SLO inventory to a briefing and we will wire the teeth."
+   "x": "Bring one estate challenge to an Achala briefing. We will show the migration sequence, the reconciliation plan and the cost curve it produces."
   }
  ],
- "words": 978,
+ "words": 1361,
  "section": "Services",
  "l1": "Services",
  "l2": "Cloud, Edge & Platform Engineering",

@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Banking & Financial Services",
- "meta_description": "Data & Lakehouse for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Banking & Financial Services: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what fraud and AML decisions too slow costs Banking & Financial Services firms in a year and the honest answer is: more than anyone has measured. We measure first, then we make the source systems agree: one governed definition per metric, streaming where the decision is time-critical, batch where it is not."
+   "x": "Banking & Financial Services: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Banking & Financial Services: where the friction concentrates,"
+   "x": "Data, Analytics & Lakehouse in Banking & Financial Services is delivered by an Achala practice team that stays through industrialization: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -245,7 +245,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Data & Lakehouse in Banking & Financial Services, measured against your baseline, in two weeks."
   }
  ],
- "words": 613,
+ "words": 681,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

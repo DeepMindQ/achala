@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Network Operators (CSPs)",
  "seo_title": "Network Operators (CSPs) | Achala IT Solutions",
- "meta_description": "Operators monetize networks that already know everything: telemetry into predictive ops, experience data into churn saves, energy telemetry into cost co.",
+ "meta_description": "Network Operators (CSPs) in Telecom, Media & Entertainment — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Operators monetize networks that already know everything: telemetry into predictive ops, experience data into churn saves, energy telemetry into cost control, and edge assets into compute products. The intelligence layer is the strategy. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Network Operators (CSPs) in Telecom, Media & Entertainment — an Achala sector brief. subscriber experience is decided in milliseconds, at national scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in network operations (noc), retention/save offers, field workforce dispatch, with energy management close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Network Operators (CSPs) through the telecom, media & entertainment program stack: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "Talk to the team that runs operations in Network Operators (CSPs) in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 354,
+ "words": 364,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Insurance & Risk > Life & Annuities",
  "seo_title": "Life & Annuities | Achala IT Solutions",
- "meta_description": "Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity a.",
+ "meta_description": "Life & Annuities in Insurance & Risk — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Life books run on decades-long promises: underwriting quality at issue, servicing responsiveness across 30-year relationships, and actuarial integrity across regime changes (IFRS 17/LDTI). The machinery deciding those outcomes is data and document heavy, ideal ground for governed automation. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Life & Annuities in Insurance & Risk — an Achala sector brief. pricing, claims and capital decisions all need model governance that Solvency II reviewers accept This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in underwriting evidence assembly, policy servicing transactions, claims/beneficiary processing, with actuarial valuation data prep close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Life & Annuities through the insurance & risk program stack: Achala builds claims triage, pricing and underwriting platforms with model-risk documentation built in — Solvency II-aligned, with decisions auditors can walk alone. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -261,7 +261,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: operations in Life & Annuities, measured against your baseline, in two weeks."
   }
  ],
- "words": 432,
+ "words": 436,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

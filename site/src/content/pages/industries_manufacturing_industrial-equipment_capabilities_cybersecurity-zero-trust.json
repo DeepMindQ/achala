@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Industrial Equipment & Machinery > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Industrial Equipment & Machinery",
- "meta_description": "Cyber & Zero-Trust for Industrial Equipment & Machinery: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Industrial Equipment & Machinery in Manufacturing & Industrial: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust teams in Industrial Equipment & Machinery open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Industrial Equipment & Machinery in Manufacturing & Industrial: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the industrial equipment & machinery reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Industrial Equipment & Machinery, the queues and waits that come up first:"
+   "x": "Inside Industrial Equipment & Machinery, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Bring Cyber & Zero-Trust for Industrial Equipment & Machinery to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 541,
+ "words": 563,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

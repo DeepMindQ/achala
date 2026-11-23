@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Warehousing & Fulfillment > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Warehousing & Fulfillment",
- "meta_description": "Cyber & Zero-Trust for Warehousing & Fulfillment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Warehousing & Fulfillment in Logistics & Supply Chain: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust in Warehousing & Fulfillment is how Slotting and pick-path and Wave/order batching stop leaning on manual work, both decide the margin. The build: security here is architecture, not product sprawl, identity-first controls, segmented networks, and telemetry your SOC can act on the same hour."
+   "x": "Warehousing & Fulfillment in Logistics & Supply Chain: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the warehousing & fulfillment reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Warehousing & Fulfillment: the recurring pressure points,"
+   "x": "Inside Warehousing & Fulfillment, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Cyber & Zero-Trust for Warehousing & Fulfillment, measured against your baseline, in two weeks."
   }
  ],
- "words": 447,
+ "words": 503,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Medical Devices & MedTech > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Medical Devices & MedTech",
- "meta_description": "Cyber & Zero-Trust for Medical Devices & MedTech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Medical Devices & MedTech in Healthcare & Life Sciences: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust answers Healthcare & Life Sciences pressure where it lands in Medical Devices & MedTech: device fleets unconnected, week after week. The architectural answer: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Medical Devices & MedTech in Healthcare & Life Sciences: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the medical devices & medtech reality — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Medical Devices & MedTech, the queues and waits that come up first:"
+   "x": "Inside Medical Devices & MedTech, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust for Medical Devices & MedTech baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 505,
+ "words": 551,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

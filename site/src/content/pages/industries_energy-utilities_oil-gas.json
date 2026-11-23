@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Energy & Utilities > Oil & Gas",
  "seo_title": "Oil & Gas | Achala IT Solutions",
- "meta_description": "Upstream and downstream operators run hazardous physics under volatile markets: predictive integrity, energy efficiency, trading precision and OT securi.",
+ "meta_description": "Oil & Gas in Energy & Utilities — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Upstream and downstream operators run hazardous physics under volatile markets: predictive integrity, energy efficiency, trading precision and OT security decide both margin and license to operate. Every program must respect process-safety culture from day one. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Oil & Gas in Energy & Utilities — an Achala sector brief. the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in integrity management, turnaround scheduling, trading and scheduling, with emissions monitoring close behind. Each of these paths produces data faster than decisions, and the gap between the two is where cost and risk accumulate."
+   "x": "Achala covers Oil & Gas through the energy & utilities program stack: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Start with the diagnostic, not the contract: operations in Oil & Gas baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 378,
+ "words": 393,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

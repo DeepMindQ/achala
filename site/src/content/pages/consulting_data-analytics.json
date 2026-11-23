@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "Data Analytics & Decision Products — Consulting | Achala IT Solutions",
- "meta_description": "Data Analytics & Decision Products: From dashboards people tolerate to decisions people trust. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "Data Analytics & Decision Products from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data Analytics & Decision Products: From dashboards people tolerate to decisions people trust. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "Data Analytics & Decision Products from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Most analytics estates produce dashboards and call it insight. We build the layer beneath: certified metric definitions with owners, semantic models that answer questions the same way every time, and decision products that push the answer into the workflow where the decision happens. Analysis is engineered for reuse, one governed definition per metric, tested like code, served wherever it is needed."
+   "x": "Data Analytics & Decision Products runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -214,7 +214,7 @@
    "x": "Book a Data Analytics & Decision Products briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 335,
+ "words": 345,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "Data Analytics & Decision Products",

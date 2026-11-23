@@ -5,11 +5,11 @@
  "template": "solution_page",
  "breadcrumb": "Solutions > Risk & Resilience > Enterprise Risk & Scenario Intelligence",
  "seo_title": "Enterprise Risk & Scenario Intelligence | Solution",
- "meta_description": "Enterprise Risk & Scenario Intelligence — composed architecture, platform stack and the metric the program answers to.",
+ "meta_description": "Enterprise Risk & Scenario Intelligence — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Enterprise Risk & Scenario Intelligence exists because a specific failure keeps repeating: risk models live in separate estates with manual scenario assembly; stress tests consume quarters; early-warning arrives with the loss."
+   "x": "Enterprise Risk & Scenario Intelligence — an Achala packaged solution: a named business problem, a composed architecture from two to four service domains, and a value case written in units a CFO recognizes. Sized and piloted in weeks, measured on the metric it exists to move."
   },
   {
    "t": "h2",
@@ -206,7 +206,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: Enterprise Risk & Scenario Intelligence, measured against your baseline, in two weeks."
   }
  ],
- "words": 381,
+ "words": 426,
  "section": "Solutions",
  "l1": "Solutions",
  "l2": "Risk & Resilience",

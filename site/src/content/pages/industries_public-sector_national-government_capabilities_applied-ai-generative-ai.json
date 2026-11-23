@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Public Sector & Government > National Government & Digital Services > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for National Government & Digital…",
- "meta_description": "Applied AI & GenAI for National Government & Digital Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "National Government & Digital Services in Public Sector & Government: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI against AI accountability gap in National Government & Digital Services: the same tension every team carries, speed demanded, scrutiny rising. We break the trade-off: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. National Government & Digital Services is where this discipline pays."
+   "x": "National Government & Digital Services in Public Sector & Government: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the national government & digital services reality — citizen services run at population scale under procurement and audit rules that exclude improvisation."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The queues and waits that come up first, National Government & Digital Services edition:"
+   "x": "Inside National Government & Digital Services, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala delivers citizen-facing platforms and emergency systems at state scale — 50,000+ daily cases in production — under FedRAMP-style audit discipline. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "If Applied AI & GenAI for National Government & Digital Services is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 545,
+ "words": 580,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Public Sector & Government",

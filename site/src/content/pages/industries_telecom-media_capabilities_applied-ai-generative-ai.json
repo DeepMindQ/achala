@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Capabilities > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Telecom, Media & Entertainment",
- "meta_description": "Applied AI & GenAI for Telecom, Media & Entertainment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Telecom, Media & Entertainment: Applied AI & Generative AI that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Regulation sets the floor in Telecom, Media & Entertainment; competition sets the pace. Applied AI & GenAI is how we hold both: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Telecom, Media & Entertainment: Applied AI & Generative AI that ships. Achala runs Applied AI & Generative AI as a production discipline for this sector — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, Telecom, Media & Entertainment edition:"
+   "x": "Applied AI & Generative AI in Telecom, Media & Entertainment is delivered by an Achala practice team that stays through industrialization: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "If Applied AI & GenAI in Telecom, Media & Entertainment is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 549,
+ "words": 613,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

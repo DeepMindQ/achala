@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Banking & Financial Services > Retail & Consumer Banking",
  "seo_title": "Retail & Consumer Banking | Achala IT Solutions",
- "meta_description": "Retail banks fight on experience and cost per account: onboarding friction, service resolution and cross-sell precision decide share of wallet.",
+ "meta_description": "Retail & Consumer Banking in Banking & Financial Services — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Retail banks fight on experience and cost per account: onboarding friction, service resolution and cross-sell precision decide share of wallet. The machinery underneath, decisioning, document intelligence, contact platforms, is where Achala IT Solutions engineers advantage. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Retail & Consumer Banking in Banking & Financial Services — an Achala sector brief. every decision is regulated, every millisecond is margin, and every audit trail has to be complete This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in account opening and kyc, payment disputes and exceptions, contact-center resolution, with collections and hardship close behind. Volume grows on every path; the decision layer has not kept up. That gap is measurable, and it is the work."
+   "x": "Achala covers Retail & Consumer Banking through the banking & financial services program stack: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "one working session on operations in Retail & Consumer Banking, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 480,
+ "words": 492,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

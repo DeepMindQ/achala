@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "IT Support & End-User Services — Consulting | Achala IT Solutions",
- "meta_description": "IT Support & End-User Services: Support that measures resolution, not tickets closed. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "IT Support & End-User Services from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IT Support & End-User Services: Support that measures resolution, not tickets closed. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "IT Support & End-User Services from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Support metrics that count tickets hide the truth. We run end-user services against outcomes: time-to-resolution by business impact, first-contact quality, and the avoidance curve, how many tickets never happen because the underlying cause was engineered out. Knowledge is managed as a product, with articles tested against real incidents and retired when they stop earning their place."
+   "x": "IT Support & End-User Services runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -202,7 +202,7 @@
    "x": "Book a IT Support & End-User Services briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 332,
+ "words": 349,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "IT Support & End-User Services",

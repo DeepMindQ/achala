@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Banking & Financial Services > Capabilities > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Banking & Financial Services",
- "meta_description": "Quantum & Advanced Compute for Banking & Financial Services: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Banking & Financial Services: Quantum & Advanced Compute that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Banking & Financial Services operators recognize the pattern: harvest-now-decrypt-later exposure, quarter after quarter. Quantum & Advanced Compute reaches the root: the discipline is formulation: express the decision as an optimization problem, solve it with the best classical or quantum-inspired method, and benchmark honestly against both."
+   "x": "Banking & Financial Services: Quantum & Advanced Compute that ships. Achala runs Quantum & Advanced Compute as a production discipline for this sector — every decision is regulated, every millisecond is margin, and every audit trail has to be complete."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "For Banking & Financial Services, where the friction concentrates:"
+   "x": "Quantum & Advanced Compute in Banking & Financial Services is delivered by an Achala practice team that stays through industrialization: Achala builds for DORA-era banking: decision platforms, KYC in about 5 minutes, fraud and credit models with replay — evidence that satisfies the regulator in minutes, not weeks. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -253,7 +253,7 @@
    "x": "Start with the diagnostic, not the contract: Quantum & Advanced Compute in Banking & Financial Services baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 563,
+ "words": 633,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Banking & Financial Services",

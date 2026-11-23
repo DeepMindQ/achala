@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Healthcare & Life Sciences > Capabilities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Healthcare & Life Sciences",
- "meta_description": "Cyber & Zero-Trust for Healthcare & Life Sciences: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Healthcare & Life Sciences: Cybersecurity & Zero-Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Ask what PHI concentration and ransomware exposure costs Healthcare & Life Sciences firms in a year and the honest answer is: more than anyone has measured. We measure first, then the design assumes breach: blast radii contained, lateral movement priced, and detection tuned to the attacks your sector actually sees. For Healthcare & Life Sciences, this is the standard the build is held to."
+   "x": "Healthcare & Life Sciences: Cybersecurity & Zero-Trust that ships. Achala runs Cybersecurity & Zero-Trust as a production discipline for this sector — patient outcomes and regulatory scrutiny arrive together, so every system has to be fast and defensible."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Healthcare & Life Sciences, as operators describe it:"
+   "x": "Cybersecurity & Zero-Trust in Healthcare & Life Sciences is delivered by an Achala practice team that stays through industrialization: Achala runs hospital-scale platforms under HIPAA-grade discipline — emergency response at 50,000+ daily cases, laboratory queues down 20-30%, telemedicine and patient portals in production. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "Talk to the team that runs Cyber & Zero-Trust in Healthcare & Life Sciences in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 603,
+ "words": 652,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Healthcare & Life Sciences",

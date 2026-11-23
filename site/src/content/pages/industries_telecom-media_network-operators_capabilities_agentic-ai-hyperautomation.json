@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Network Operators (CSPs) > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Network Operators (CSPs)",
- "meta_description": "Agentic AI & Hyperautomation for Network Operators (CSPs): delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Network Operators (CSPs) in Telecom, Media & Entertainment: Agentic AI & Hyperautomation as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation teams in Network Operators (CSPs) open with one question: where does the number you report come from, and who trusts it? The answer shapes the build: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised."
+   "x": "Network Operators (CSPs) in Telecom, Media & Entertainment: Agentic AI & Hyperautomation as a production discipline. Achala tailors Agentic AI & Hyperautomation to the network operators (csps) reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Network Operators (CSPs): the queues and waits that come up first,"
+   "x": "Inside Network Operators (CSPs), Achala runs Agentic AI & Hyperautomation under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -236,7 +236,7 @@
    "x": "Start with the diagnostic, not the contract: Agentic AI & Hyperautomation for Network Operators (CSPs) baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 461,
+ "words": 502,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

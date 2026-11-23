@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Streaming & Digital Platforms > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Streaming & Digital Platforms",
- "meta_description": "Data & Lakehouse for Streaming & Digital Platforms: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Streaming & Digital Platforms in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data & Lakehouse in Streaming & Digital Platforms lives inside Personalization/discovery, Subscriber lifecycle and Delivery cost management, paths that all carry decisions now. The work: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Streaming & Digital Platforms in Telecom, Media & Entertainment: Data, Analytics & Lakehouse as a production discipline. Achala tailors Data, Analytics & Lakehouse to the streaming & digital platforms reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Streaming & Digital Platforms: the recurring pressure points,"
+   "x": "Inside Streaming & Digital Platforms, Achala runs Data, Analytics & Lakehouse under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -111,7 +111,7 @@
    "x": "Bring Data & Lakehouse for Streaming & Digital Platforms to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 490,
+ "words": 533,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Industrial Equipment & Machinery > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Industrial Equipment & Machinery",
- "meta_description": "Applied AI & GenAI for Industrial Equipment & Machinery: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Industrial Equipment & Machinery in Manufacturing & Industrial: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI answers Manufacturing & Industrial pressure where it lands in Industrial Equipment & Machinery: service economics opaque, week after week. The architectural answer: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use."
+   "x": "Industrial Equipment & Machinery in Manufacturing & Industrial: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the industrial equipment & machinery reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Industrial Equipment & Machinery, as operators describe it:"
+   "x": "Inside Industrial Equipment & Machinery, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for Industrial Equipment & Machinery in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 488,
+ "words": 538,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Advertising & MarTech > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Advertising & MarTech",
- "meta_description": "Cloud, Edge & Platform for Advertising & MarTech: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Advertising & MarTech in Telecom, Media & Entertainment: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform in Advertising & MarTech meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore. That is the engineering behind Advertising & MarTech."
+   "x": "Advertising & MarTech in Telecom, Media & Entertainment: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the advertising & martech reality — subscriber experience is decided in milliseconds, at national scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Advertising & MarTech: the recurring pressure points,"
+   "x": "Inside Advertising & MarTech, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "one working session on Cloud, Edge & Platform for Advertising & MarTech, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 458,
+ "words": 502,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

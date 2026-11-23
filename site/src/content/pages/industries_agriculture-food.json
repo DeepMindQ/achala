@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Agriculture & Food Systems",
  "seo_title": "Agriculture & Food Systems | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Agriculture & Food Systems: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Agriculture and food businesses run on narrow windows: sow, spray, harvest, ship.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Food systems sit under simultaneous pressure: feed more with less input, prove sustainability claims to regulators and buyers, absorb climate volatility, and keep margins across a chain famous for thinning them. The technology response spans the chain, sensing and agronomy models in the field, traceability and EUDR-grade provenance through the chain, yield and quality intelligence in processing, and provenance premium capture at retail."
+   "x": "Agriculture and food businesses run on narrow windows: sow, spray, harvest, ship. Achala's programs for Agriculture & Food Systems put data and AI behind those windows — input cost decisions, precision agronomy at cooperative scale, cold-chain visibility and food-safety compliance — with published results like input cost per hectare down 14%."
   },
   {
    "t": "h2",
@@ -132,7 +132,7 @@
    "x": "A value assessment prices the delta in your estate before anything is signed: programs in Agriculture & Food Systems, measured against your baseline, in two weeks."
   }
  ],
- "words": 433,
+ "words": 440,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

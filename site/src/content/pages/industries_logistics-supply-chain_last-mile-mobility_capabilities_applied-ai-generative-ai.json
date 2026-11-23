@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Last-Mile & Urban Logistics > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for Last-Mile & Urban Logistics",
- "meta_description": "Applied AI & GenAI for Last-Mile & Urban Logistics: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Last-Mile & Urban Logistics in Logistics & Supply Chain: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI treats routing at density in Last-Mile & Urban Logistics as an engineering target, baseline, gate, owner, not a permanent feature of the terrain: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "Last-Mile & Urban Logistics in Logistics & Supply Chain: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the last-mile & urban logistics reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "The recurring pressure points, Last-Mile & Urban Logistics edition:"
+   "x": "Inside Last-Mile & Urban Logistics, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -240,7 +240,7 @@
    "x": "Bring Applied AI & GenAI for Last-Mile & Urban Logistics to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 480,
+ "words": 529,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

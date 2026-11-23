@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "Cloud Development & Azure Services — Consulting | Achala IT Solutions",
- "meta_description": "Cloud Development & Azure Services: Azure estates engineered end to end — landing zones to AI workloads. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "Cloud Development & Azure Services from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud Development & Azure Services: Azure estates engineered end to end, landing zones to AI workloads. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "Cloud Development & Azure Services from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Cloud programs stall between the landing zone and the workload that proves the model. As a Microsoft-aligned partner we deliver both ends: enterprise landing zones with policy-as-code and cost guardrails, and the workloads that earn the cloud its keep, data platforms on Fabric and Databricks, GenAI systems on Azure OpenAI with private networking, and modernized applications on AKS with progressive delivery."
+   "x": "Cloud Development & Azure Services runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -208,7 +208,7 @@
    "x": "Book a Cloud Development & Azure Services briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 351,
+ "words": 357,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "Cloud Development & Azure Services",

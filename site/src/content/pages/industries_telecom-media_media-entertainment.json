@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Telecom, Media & Entertainment > Media & Entertainment",
  "seo_title": "Media & Entertainment | Achala IT Solutions",
- "meta_description": "Media economics are attention economics: commissioning, scheduling, promotion and rights all price against predicted engagement.",
+ "meta_description": "Media & Entertainment in Telecom, Media & Entertainment — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Media economics are attention economics: commissioning, scheduling, promotion and rights all price against predicted engagement. Studios and broadcasters that industrialize audience intelligence and content-operations automation compound catalog value instead of renting it. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Media & Entertainment in Telecom, Media & Entertainment — an Achala sector brief. subscriber experience is decided in milliseconds, at national scale This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in commissioning and audience analysis, content localization/ops, rights/royalty accounting, with ad trafficking close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Media & Entertainment through the telecom, media & entertainment program stack: Achala builds network-adjacent decision systems and subscriber platforms under NIS2 — personalization, credit control and capacity decisions at streaming speed. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -265,7 +265,7 @@
    "x": "Bring operations in Media & Entertainment to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 353,
+ "words": 364,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Telecom, Media & Entertainment",

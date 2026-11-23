@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "Digital Transformation Programs — Consulting | Achala IT Solutions",
- "meta_description": "Digital Transformation Programs: Transformation that changes the operating model, not just the org chart font. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "Digital Transformation Programs from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Digital Transformation Programs: Transformation that changes the operating model, not just the org chart font. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "Digital Transformation Programs from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Transformation programs fail at the seam between strategy and operations. We run them from both ends: the strategy end sequences a portfolio against the P&L with funding gates that can stop a program, and the operations end engineers the delivery system, platforms, pods, evidence cadence, that turns decisions into production systems. Between the two sits an operating model that names who decides what, at which gate, with which evidence."
+   "x": "Digital Transformation Programs runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -214,7 +214,7 @@
    "x": "Book a Digital Transformation Programs briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 329,
+ "words": 326,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "Digital Transformation Programs",

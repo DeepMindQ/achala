@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Agriculture & Food Systems > AgriFinance & Commodity Markets > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for AgriFinance & Commodity Markets",
- "meta_description": "Applied AI & GenAI for AgriFinance & Commodity Markets: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "AgriFinance & Commodity Markets in Agriculture & Food Systems: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in AgriFinance & Commodity Markets meets two truths at once, volume keeps growing, and the old way stopped scaling. The structured response: the engineering is unglamorous on purpose: governed retrieval, guarded generation, measured quality, shipped into the tools people already use. That is the engineering behind AgriFinance & Commodity Markets."
+   "x": "AgriFinance & Commodity Markets in Agriculture & Food Systems: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the agrifinance & commodity markets reality — seasonality leaves no room for guesswork: input costs, yields and quality decisions all land in a narrow window."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In AgriFinance & Commodity Markets, as operators describe it:"
+   "x": "Inside AgriFinance & Commodity Markets, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala brings production AI to the farm gate — from input planning and precision agronomy to cold-chain and compliance — with results measured per hectare. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -250,7 +250,7 @@
    "x": "Start with the diagnostic, not the contract: Applied AI & GenAI for AgriFinance & Commodity Markets baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 473,
+ "words": 526,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Agriculture & Food Systems",

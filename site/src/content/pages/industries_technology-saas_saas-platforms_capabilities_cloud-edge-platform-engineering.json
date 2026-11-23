@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Technology & SaaS > SaaS & Platform Companies > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for SaaS & Platform Companies",
- "meta_description": "Cloud, Edge & Platform for SaaS & Platform Companies: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "SaaS & Platform Companies in Technology & SaaS: Cloud, Edge & Platform Engineering as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform is the layer between the systems SaaS & Platform Companies owns and the decisions leadership needs. That layer is the work: infrastructure is treated as a product: versioned, observable, costed, and handed to your team with runbooks rather than folklore."
+   "x": "SaaS & Platform Companies in Technology & SaaS: Cloud, Edge & Platform Engineering as a production discipline. Achala tailors Cloud, Edge & Platform Engineering to the saas & platform companies reality — release velocity is the business model, so platform reliability is a revenue line."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In SaaS & Platform Companies, where the friction concentrates:"
+   "x": "Inside SaaS & Platform Companies, Achala runs Cloud, Edge & Platform Engineering under the same delivery standard as every engagement: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "Start with the diagnostic, not the contract: Cloud, Edge & Platform for SaaS & Platform Companies baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 442,
+ "words": 508,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

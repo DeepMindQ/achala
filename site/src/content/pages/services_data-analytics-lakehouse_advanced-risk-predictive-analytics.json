@@ -5,15 +5,15 @@
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Advanced Risk & Predictive Analytics",
  "seo_title": "Advanced Risk & Predictive Analytics | Achala IT Solutions",
- "meta_description": "Predictive analytics that is falsifiable by design: skill measured against signed baselines horizon by horizon, holdout governance, and an action loop that makes forecasts accountable.",
+ "meta_description": "Advanced Risk & Predictive Analytics is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Risk and forecasting models with signed baselines, time-based holdouts and governance that survives the quarter they are judged in: predictions built to be checked, not presentations built to be believed."
+   "x": "Advanced Risk & Predictive Analytics is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "p",
-   "x": "Predictive analytics fails quietly: the model was good in the notebook, decent at launch, and three quarters later nobody knows it drifted. We build risk and forecasting with the decision-domain's discipline, signed baselines, time-based holdouts, champion-challenger on live data, because a prediction that cannot be scored against reality is an opinion."
+   "x": "Advanced Risk & Predictive Analytics is delivered by an Achala practice team that stays through industrialization. Achala builds lakehouses with data contracts: producers and consumers agree on schema and quality, breaks are caught at the boundary, and every table carries an owner and a freshness target. Decisions downstream become defensible. Who this is for: CDOs and finance leaders who need numbers both sides sign, and teams tired of disputed data."
   },
   {
    "t": "p",
@@ -1421,10 +1421,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the forecast that embarrasses itself every quarter. The diagnostic will baseline it honestly, screen the features for leakage, and price what real skill would cost."
+   "x": "Bring one data domain to an Achala briefing. We will show the contract, the pipeline design and the cost picture it would run under. The first session costs nothing but the hour."
   }
  ],
- "words": 1004,
+ "words": 1405,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

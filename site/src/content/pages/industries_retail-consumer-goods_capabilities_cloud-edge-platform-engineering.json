@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Retail & Consumer Goods > Capabilities > Cloud, Edge & Platform Engineering",
  "seo_title": "Cloud, Edge & Platform for Retail & Consumer Goods",
- "meta_description": "Cloud, Edge & Platform for Retail & Consumer Goods: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Retail & Consumer Goods: Cloud, Edge & Platform Engineering that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cloud, Edge & Platform against peak-season elasticity unmanaged in Retail & Consumer Goods, the structural pressure will not be solved by another dashboard. It gets solved underneath: the platform work decides the unit economics: right-sized runtimes, automated environments, and FinOps telemetry from the first workload."
+   "x": "Retail & Consumer Goods: Cloud, Edge & Platform Engineering that ships. Achala runs Cloud, Edge & Platform Engineering as a production discipline for this sector — pricing, availability and experience decisions repeat thousands of times a day, per store."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "In Retail & Consumer Goods, named from the floor, not from a framework:"
+   "x": "Cloud, Edge & Platform Engineering in Retail & Consumer Goods is delivered by an Achala practice team that stays through industrialization: Achala builds pricing, assortment and store-operations decision systems under PCI DSS — decisions per store, per day, measured on margin. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -231,7 +231,7 @@
    "x": "Talk to the team that runs Cloud, Edge & Platform in Retail & Consumer Goods in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 547,
+ "words": 609,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Retail & Consumer Goods",

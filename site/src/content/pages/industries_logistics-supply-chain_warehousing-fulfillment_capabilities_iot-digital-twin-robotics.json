@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Warehousing & Fulfillment > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Warehousing & Fulfillment",
- "meta_description": "IoT, Twin & Robotics for Warehousing & Fulfillment: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Warehousing & Fulfillment in Logistics & Supply Chain: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics is how Warehousing & Fulfillment operations could run Slotting and pick-path without the pick-path and slotting stale tax. The build: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "Warehousing & Fulfillment in Logistics & Supply Chain: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the warehousing & fulfillment reality — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "named from the floor, not from a framework, Warehousing & Fulfillment edition:"
+   "x": "Inside Warehousing & Fulfillment, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If IoT, Twin & Robotics for Warehousing & Fulfillment is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 437,
+ "words": 502,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

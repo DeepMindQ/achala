@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Energy & Utilities > Capabilities > Agentic AI & Hyperautomation",
  "seo_title": "Agentic AI & Hyperautomation for Energy & Utilities",
- "meta_description": "Agentic AI & Hyperautomation for Energy & Utilities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Energy & Utilities: Agentic AI & Hyperautomation that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agentic AI & Hyperautomation in Energy & Utilities has one job: move a named number, trading and scheduling decisions at market speed included, and prove it moved. The engineering that does it: orchestration is the discipline, dozens of small automations running as one auditable workforce, with escalations designed rather than improvised. For Energy & Utilities, this is the standard the build is held to."
+   "x": "Energy & Utilities: Agentic AI & Hyperautomation that ships. Achala runs Agentic AI & Hyperautomation as a production discipline for this sector — the grid does not forgive latency: forecasting, balancing and asset decisions all carry physical consequences."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Energy & Utilities: where the friction concentrates,"
+   "x": "Agentic AI & Hyperautomation in Energy & Utilities is delivered by an Achala practice team that stays through industrialization: Achala brings production AI to grid forecasting, asset health and field operations under NERC CIP discipline — decisions with physical consequences, made defensibly. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -249,7 +249,7 @@
    "x": "Bring Agentic AI & Hyperautomation in Energy & Utilities to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 514,
+ "words": 555,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Energy & Utilities",

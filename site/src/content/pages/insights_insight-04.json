@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Agentic AI & Hyperautomation > The policy envelope is the product",
  "seo_title": "The policy envelope is the product | Insight | Achala IT Solutions",
- "meta_description": "Agents earn autonomy in tiers: what they may do alone, with approval, never.",
+ "meta_description": "The policy envelope is the product — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Agents earn autonomy in tiers: what they may do alone, with approval, never."
+   "x": "The policy envelope is the product — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "If the defined policy limit is the product is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 251,
+ "words": 296,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Agentic AI & Hyperautomation",

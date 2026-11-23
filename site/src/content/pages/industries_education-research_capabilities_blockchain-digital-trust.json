@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Education & Research > Capabilities > Blockchain & Digital Trust",
  "seo_title": "Blockchain & Digital Trust for Education & Research",
- "meta_description": "Blockchain & Digital Trust for Education & Research: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Education & Research: Blockchain & Digital Trust that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Two clocks run in Education & Research: the operating one and the regulatory one. Blockchain & Digital Trust is built to survive both: the trust layer is engineered, not asserted: signed events, permissioned consensus, and a provenance graph every participant can verify."
+   "x": "Education & Research: Blockchain & Digital Trust that ships. Achala runs Blockchain & Digital Trust as a production discipline for this sector — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Education & Research: named from the floor, not from a framework,"
+   "x": "Blockchain & Digital Trust in Education & Research is delivered by an Achala practice team that stays through industrialization: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -265,7 +265,7 @@
    "x": "one working session on Blockchain & Digital Trust in Education & Research, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 491,
+ "words": 547,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

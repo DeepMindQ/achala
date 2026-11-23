@@ -5,11 +5,11 @@
  "template": "insights_category",
  "breadcrumb": "Insights > Agentic AI & Hyperautomation",
  "seo_title": "Insights: Agentic AI & Hyperautomation | Insights",
- "meta_description": "Achala IT Solutions perspectives on Agentic AI & Hyperautomation: engineering notes, market views and delivery lessons.",
+ "meta_description": "Agentic AI & Hyperautomation — viewpoints from the Achala delivery floor.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Insights: Agentic AI & Hyperautomation. Written for the people who will actually run the work, not for a brochure."
+   "x": "Agentic AI & Hyperautomation — viewpoints from the Achala delivery floor. Each piece takes a position, shows where it breaks in practice and names the questions to ask any vendor, including us."
   },
   {
    "t": "h2",
@@ -66,7 +66,7 @@
    "x": "Subscribe to the briefing or book one, both start from the same evidence-first view of the category."
   }
  ],
- "words": 166,
+ "words": 191,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Agentic AI & Hyperautomation",

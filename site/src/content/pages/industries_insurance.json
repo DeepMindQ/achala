@@ -5,11 +5,11 @@
  "template": "industry_hub",
  "breadcrumb": "Industries > Insurance & Risk",
  "seo_title": "Insurance & Risk | Industry | Achala IT Solutions",
- "meta_description": "Achala IT Solutions programs for Insurance & Risk: priority use cases, regulatory posture and delivery model.",
+ "meta_description": "Insurance decisions compound: pricing shapes the book, claims shape the loss ratio, and both need governance Solvency II reviewers accept.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Insurance is a decision business wrapped in a promise: price the risk correctly, honor the claim quickly, hold the reserves honestly. All three now depend on machinery most carriers have underinvested in, pricing models that see the portfolio's drift, claims pipelines that read documents instead of waiting for humans, and reserving analytics that reconcile actuarial judgment with live experience data."
+   "x": "Insurance decisions compound: pricing shapes the book, claims shape the loss ratio, and both need governance Solvency II reviewers accept. Achala's programs for Insurance & Risk cover claims triage, pricing platforms, fraud detection and model governance — decision platforms with the documentation already in them."
   },
   {
    "t": "h2",
@@ -157,7 +157,7 @@
    "x": "one working session on programs in Insurance & Risk, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 627,
+ "words": 622,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Insurance & Risk",

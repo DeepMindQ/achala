@@ -5,11 +5,11 @@
  "template": "insight_article",
  "breadcrumb": "Insights > Applied AI & Generative AI > Fine-tuning is a governance decision, not a modeling one",
  "seo_title": "Fine-tuning is a governance decision, not a modeling one",
- "meta_description": "The question is not whether to fine-tune but who owns the resulting model risk.",
+ "meta_description": "Fine-tuning is a governance decision, not a modeling one — an Achala delivery-floor perspective.",
  "blocks": [
   {
    "t": "hero",
-   "x": "The question is not whether to fine-tune but who owns the resulting model risk."
+   "x": "Fine-tuning is a governance decision, not a modeling one — an Achala delivery-floor perspective. Written by the practice that ran the work: what shipped, what scaled and the vendor questions worth asking before you commit."
   },
   {
    "t": "h2",
@@ -56,7 +56,7 @@
    "x": "one working session on fine-tuning is a governance decision, not a modeling one, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 272,
+ "words": 304,
  "section": "Insights",
  "l1": "Insights",
  "l2": "Applied AI & Generative AI",

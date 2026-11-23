@@ -5,11 +5,11 @@
  "template": "subindustry_page",
  "breadcrumb": "Industries > Technology & SaaS > Gaming & Interactive Media",
  "seo_title": "Gaming & Interactive Media | Achala IT Solutions",
- "meta_description": "Gaming economics run on retention, live-ops velocity and trust: player analytics into content decisions, live-ops automation, fraud/cheating defense and.",
+ "meta_description": "Gaming & Interactive Media in Technology & SaaS — an Achala sector brief.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Gaming economics run on retention, live-ops velocity and trust: player analytics into content decisions, live-ops automation, fraud/cheating defense and community safety. Live-service titles are decision engines running at player scale. This page is the operating picture: what runs, what strains, and which capabilities move the numbers that decide the margin."
+   "x": "Gaming & Interactive Media in Technology & SaaS — an Achala sector brief. release velocity is the business model, so platform reliability is a revenue line This page maps the workflows, systems of record and Achala capabilities that apply here."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "The work concentrates in player analytics, live-ops, trust & safety, with economy monitoring close behind. The paths are busy; the decisions are late. Closing that delay is worth more than any single tool purchase."
+   "x": "Achala covers Gaming & Interactive Media through the technology & saas program stack: Achala builds the platforms and SRE discipline product companies sell on — SOC 2 and ISO 27001 aligned, release-safe by design. The capability pages below take you one level deeper."
   },
   {
    "t": "h2",
@@ -275,7 +275,7 @@
    "x": "If operations in Gaming & Interactive Media is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 342,
+ "words": 361,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Technology & SaaS",

@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > Higher Education & Universities > Cybersecurity & Zero-Trust",
  "seo_title": "Cyber & Zero-Trust for Higher Education & Universities",
- "meta_description": "Cyber & Zero-Trust for Higher Education & Universities: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Higher Education & Universities in Education & Research: Cybersecurity & Zero-Trust as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Cyber & Zero-Trust answers Education & Research pressure where it lands in Higher Education & Universities: research computing fragmented, week after week. The architectural answer: we harden the paths the work takes: workload identity, least-privilege access, encrypted data in use, and an evidence trail the auditor can walk alone."
+   "x": "Higher Education & Universities in Education & Research: Cybersecurity & Zero-Trust as a production discipline. Achala tailors Cybersecurity & Zero-Trust to the higher education & universities reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "as operators describe it, Higher Education & Universities edition:"
+   "x": "Inside Higher Education & Universities, Achala runs Cybersecurity & Zero-Trust under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Start with the diagnostic, not the contract: Cyber & Zero-Trust for Higher Education & Universities baselined in two weeks, and a scoped proposal only if the delta justifies it."
   }
  ],
- "words": 508,
+ "words": 546,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

@@ -5,11 +5,11 @@
  "template": "industry_capability",
  "breadcrumb": "Industries > Logistics & Supply Chain > Capabilities > Data, Analytics & Lakehouse",
  "seo_title": "Data & Lakehouse for Logistics & Supply Chain | Achala IT Solutions",
- "meta_description": "Data & Lakehouse for Logistics & Supply Chain: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Logistics & Supply Chain: Data, Analytics & Lakehouse that ships.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Logistics & Supply Chain operators recognize the pattern: visibility stitched from portals, quarter after quarter. Data & Lakehouse reaches the root: underneath it sits the data spine: contracts, lineage and freshness SLAs that make the number trustworthy before anyone models it."
+   "x": "Logistics & Supply Chain: Data, Analytics & Lakehouse that ships. Achala runs Data, Analytics & Lakehouse as a production discipline for this sector — margin hides in routing, dwell time and fleet utilization — and never sits still."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Logistics & Supply Chain: where the friction concentrates,"
+   "x": "Data, Analytics & Lakehouse in Logistics & Supply Chain is delivered by an Achala practice team that stays through industrialization: Achala builds routing, telematics and warehouse decision systems with measured utilization gains — up to 40% workforce efficiency in published fleet deployments. The baseline is signed before delivery starts, and the gates evidence every move."
   },
   {
    "t": "bullets",
@@ -115,7 +115,7 @@
    "x": "Bring Data & Lakehouse in Logistics & Supply Chain to a 45-minute briefing with the practice lead, your metric, our method, and an honest read on feasibility."
   }
  ],
- "words": 511,
+ "words": 583,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Logistics & Supply Chain",

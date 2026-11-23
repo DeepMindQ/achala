@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Process Industries & Chemicals > IoT, Digital Twin & Robotics",
  "seo_title": "IoT, Twin & Robotics for Process Industries & Chemicals",
- "meta_description": "IoT, Twin & Robotics for Process Industries & Chemicals: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Process Industries & Chemicals in Manufacturing & Industrial: IoT, Digital Twin & Robotics as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "IoT, Twin & Robotics in Process Industries & Chemicals gets concrete fast: Critical assets uninstrumented names a real queue, a real wait, a real cost. What we build to end it: we connect machines, fleets and facilities into one operational picture, then close the loop into maintenance, scheduling and control."
+   "x": "Process Industries & Chemicals in Manufacturing & Industrial: IoT, Digital Twin & Robotics as a production discipline. Achala tailors IoT, Digital Twin & Robotics to the process industries & chemicals reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "where the friction concentrates, Process Industries & Chemicals edition:"
+   "x": "Inside Process Industries & Chemicals, Achala runs IoT, Digital Twin & Robotics under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "one working session on IoT, Twin & Robotics for Process Industries & Chemicals, your data, and a written feasibility read you can circulate."
   }
  ],
- "words": 543,
+ "words": 576,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

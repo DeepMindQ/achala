@@ -5,11 +5,11 @@
  "template": "consulting_service",
  "breadcrumb": "Consulting",
  "seo_title": "Data Migration & Platform Moves — Consulting | Achala IT Solutions",
- "meta_description": "Data Migration & Platform Moves: Move estates without losing a row, an audit trail or a night's sleep. Method, toolchain and delivered artifacts — engineered under outcome-gated engagement.",
+ "meta_description": "Data Migration & Platform Moves from Achala IT Solutions: advisory that ends in a delivered system.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Data Migration & Platform Moves: Move estates without losing a row, an audit trail or a night's sleep. This page is the practice as it works, method, toolchain, artifacts and the architecture we deploy."
+   "x": "Data Migration & Platform Moves from Achala IT Solutions: advisory that ends in a delivered system. The team that recommends is the team that builds — one two-week diagnostic, one signed baseline, delivery under the same gates as every Achala expertise domain."
   },
   {
    "t": "h2",
@@ -17,7 +17,7 @@
   },
   {
    "t": "p",
-   "x": "Data migration fails in the planning, not the pipeline. Estates that look simple on a slide hold decades of undocumented logic: spreadsheets that became systems, triggers nobody owns, and reference data that three applications interpret three different ways. We start every migration with discovery that reads the estate the way the estate actually behaves, dependency mapping at column level, profile-driven data quality baselines, and a reconciliation contract agreed before anything moves."
+   "x": "Data Migration & Platform Moves runs on a fixed rhythm at Achala: a two-week diagnostic that makes the cost visible, a baseline both sides sign, and delivery through the same evidence gates as our platform programs. No advice without ownership of the outcome."
   },
   {
    "t": "p",
@@ -220,7 +220,7 @@
    "x": "Book a Data Migration & Platform Moves briefing, 45 minutes with the practice lead, your estate, and a straight answer on feasibility."
   }
  ],
- "words": 376,
+ "words": 371,
  "section": "Consulting",
  "l1": "Consulting",
  "l2": "Data Migration & Platform Moves",

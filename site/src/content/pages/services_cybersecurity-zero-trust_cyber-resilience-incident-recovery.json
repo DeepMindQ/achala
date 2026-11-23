@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Cybersecurity & Zero-Trust > Cyber Resilience & Incident Recovery",
  "seo_title": "Cyber Resilience & Incident Recovery | Achala IT Solutions",
- "meta_description": "Cyber resilience measured by rehearsal: immutable and isolated backups, restore drills that beat the signed RTO with headroom, and a console where the drill is the evidence of record.",
+ "meta_description": "Cyber Resilience & Incident Recovery from Achala IT Solutions: zero-trust controls deployed with the evidence pack attached.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Recovery that is rehearsed, not documented: immutable backups with integrity checks, clean-room restores that prove the RTO, and a command structure that has already survived its worst day, on a schedule, with evidence."
+   "x": "Cyber Resilience & Incident Recovery from Achala IT Solutions: zero-trust controls deployed with the evidence pack attached. Part of the Cybersecurity & Zero-Trust domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Resilience is measured in one moment: the day ransomware lands, can you restore the business service faster than the signed RTO? Everything else, the runbooks, the immutability, the clean rooms, exists to make that answer yes without improvisation."
+   "x": "Cyber Resilience & Incident Recovery is delivered by an Achala practice team that stays through industrialization. Achala implements security your auditors can walk alone: control tests that run continuously, findings filed automatically, frameworks mapped to ISO 27001, SOC 2, TISAX and NIS2. Security posture becomes something you show, not something you claim. Who this is for: CISOs and audit committees, and program owners facing TISAX, HIPAA or NIS2 scrutiny."
   },
   {
    "t": "p",
@@ -1369,10 +1369,10 @@
   },
   {
    "t": "cta",
-   "x": "Set a date: the next restore drill on your crown-jewel service, in a clean room, with the clock running. We will bring the harness, and publish the findings with owners."
+   "x": "Bring one threat model to an Achala briefing. We will show the control set, the test regime and the evidence pack it generates."
   }
  ],
- "words": 977,
+ "words": 1347,
  "section": "Services",
  "l1": "Services",
  "l2": "Cybersecurity & Zero-Trust",

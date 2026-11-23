@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Manufacturing & Industrial > Electronics & Semiconductors > Quantum & Advanced Compute",
  "seo_title": "Quantum & Advanced Compute for Electronics & Semiconductors",
- "meta_description": "Quantum & Advanced Compute for Electronics & Semiconductors: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "Electronics & Semiconductors in Manufacturing & Industrial: Quantum & Advanced Compute as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Quantum & Advanced Compute in Electronics & Semiconductors gets concrete fast: Tool health reactive names a real queue, a real wait, a real cost. What we build to end it: we treat advanced compute as a tool with a contract, bounded problem classes, measured speedups, and a classical baseline the CFO can read. For Electronics & Semiconductors, this is the standard the build is held to."
+   "x": "Electronics & Semiconductors in Manufacturing & Industrial: Quantum & Advanced Compute as a production discipline. Achala tailors Quantum & Advanced Compute to the electronics & semiconductors reality — the plant floor punishes latency twice: once in throughput, once in quality."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Electronics & Semiconductors: named from the floor, not from a framework,"
+   "x": "Inside Electronics & Semiconductors, Achala runs Quantum & Advanced Compute under the same delivery standard as every engagement: Achala connects plant data to decisions under IEC 62443 discipline — twin-based optimization, vision quality systems and maintenance prediction in production. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -214,7 +214,7 @@
    "x": "If Quantum & Advanced Compute for Electronics & Semiconductors is on your agenda this year, a briefing will tell you in 45 minutes whether this pattern fits your estate."
   }
  ],
- "words": 499,
+ "words": 533,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Manufacturing & Industrial",

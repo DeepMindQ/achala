@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Agentic AI & Hyperautomation > Agentic Process Automation",
  "seo_title": "Agentic Process Automation | Achala IT Solutions",
- "meta_description": "Agentic process automation with policy-bounded agents: role-scoped grants, risk-placed checkpoints, 100% replay coverage and task economics you can defend to finance.",
+ "meta_description": "Agentic Process Automation is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Role-scoped agents that execute process steps under explicit policy bounds: permissions derived from the role, checkpoints placed by risk, replay for every action, and an exception queue designed for humans, not a chat window bolted to an RPA bot."
+   "x": "Agentic Process Automation is one of the 54 Achala practices in the Agentic AI & Hyperautomation domain: agents that execute real process steps under explicit grants, with the supervision layer your risk team signs off. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "An agent in a business process is a junior employee with perfect memory and no judgment, until you give it judgment-shaped tools, at which point it also needs supervision. We design agents as roles: explicit responsibilities, explicit tool grants, explicit escalation paths, and a supervisor loop that inspects work before it commits."
+   "x": "Agentic Process Automation is delivered by an Achala practice team that stays through industrialization. Achala builds this as production infrastructure, not a pilot: every agent is versioned, every permission is scoped, every handoff to a person is logged. The result is automation your operations and compliance teams can both stand behind. Who this is for: COOs and operations leads carrying process cost, and the risk officers who must approve what the agents touch."
   },
   {
    "t": "p",
@@ -1503,10 +1503,10 @@
   },
   {
    "t": "cta",
-   "x": "Pick the process where the exception queue eats your best people. The sprint will show the straight-through rate agents can honestly reach there, with checkpoints designed by risk, not by pressure."
+   "x": "Bring one process to a 45-minute Achala briefing. We will show the agent design, the supervision model and the baseline it would be measured against. The first session costs nothing but the hour."
   }
  ],
- "words": 1164,
+ "words": 1647,
  "section": "Services",
  "l1": "Services",
  "l2": "Agentic AI & Hyperautomation",

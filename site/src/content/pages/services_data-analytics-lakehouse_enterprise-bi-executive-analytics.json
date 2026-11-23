@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > Data, Analytics & Lakehouse > Enterprise BI & Executive Analytics",
  "seo_title": "Enterprise BI & Executive Analytics | Achala IT Solutions",
- "meta_description": "Enterprise BI built on metric contracts: certified coverage measured per dashboard class, a dispute ledger that settles versions of the truth, and a semantic layer executives can read.",
+ "meta_description": "Enterprise BI & Executive Analytics is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Decision-grade reporting with one truth per metric: certified datasets, metric contracts with owners, and an executive layer fast enough that nobody rebuilds the number in a spreadsheet before the board meeting."
+   "x": "Enterprise BI & Executive Analytics is one of the 54 Achala practices in the Data, Analytics & Lakehouse domain: data platforms your finance team, your risk team and your auditors all trust. The team that scopes your program is the team that industrializes it — under the same delivery standard as every Achala engagement."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Executive analytics fails as a numbers argument: three dashboards, five versions of revenue, a meeting spent reconciling spreadsheets. The cure is metric contracts, one definition, one certified dataset, one owner, and a semantic layer that makes the contract executable rather than a wiki page."
+   "x": "Enterprise BI & Executive Analytics is delivered by an Achala practice team that stays through industrialization. Achala builds lakehouses with data contracts: producers and consumers agree on schema and quality, breaks are caught at the boundary, and every table carries an owner and a freshness target. Decisions downstream become defensible. Who this is for: CDOs and finance leaders who need numbers both sides sign, and teams tired of disputed data."
   },
   {
    "t": "p",
@@ -1448,10 +1448,10 @@
   },
   {
    "t": "cta",
-   "x": "Count the spreadsheets that rebuild the same metric. The diagnostic will score your estate's certified coverage, and price what one trusted number, served fast, would cost."
+   "x": "Bring one data domain to an Achala briefing. We will show the contract, the pipeline design and the cost picture it would run under. The first session costs nothing but the hour."
   }
  ],
- "words": 1000,
+ "words": 1386,
  "section": "Services",
  "l1": "Services",
  "l2": "Data, Analytics & Lakehouse",

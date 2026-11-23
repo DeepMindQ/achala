@@ -5,11 +5,11 @@
  "template": "sub_capability",
  "breadcrumb": "Industries > Education & Research > K-12 & School Systems > Applied AI & Generative AI",
  "seo_title": "Applied AI & GenAI for K-12 & School Systems | Achala IT Solutions",
- "meta_description": "Applied AI & GenAI for K-12 & School Systems: delivery pattern, compliance frame, platforms and committed outcomes from Achala IT Solutions.",
+ "meta_description": "K-12 & School Systems in Education & Research: Applied AI & Generative AI as a production discipline.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Applied AI & GenAI in K-12 & School Systems is how Learning analytics and Safeguarding case management stop leaning on manual work, both decide the margin. The build: we build the assistants, classifiers and retrieval systems that carry the decision, then hold them to an eval set your reviewers recognize as their own."
+   "x": "K-12 & School Systems in Education & Research: Applied AI & Generative AI as a production discipline. Achala tailors Applied AI & Generative AI to the k-12 & school systems reality — student experience and research output both depend on systems that simply work at term-start scale."
   },
   {
    "t": "p",
@@ -25,7 +25,7 @@
   },
   {
    "t": "p",
-   "x": "Named from the floor, not from a framework, K-12 & School Systems edition:"
+   "x": "Inside K-12 & School Systems, Achala runs Applied AI & Generative AI under the same delivery standard as every engagement: Achala supports universities and EdTech platforms with systems that survive enrolment peaks — portals, analytics and AI services under GDPR-aligned delivery. The baseline is signed before delivery starts."
   },
   {
    "t": "bullets",
@@ -137,7 +137,7 @@
    "x": "Talk to the team that runs Applied AI & GenAI for K-12 & School Systems in production. The briefing is technical by design, and the first one costs nothing but the hour."
   }
  ],
- "words": 520,
+ "words": 553,
  "section": "Industries",
  "l1": "Industries",
  "l2": "Education & Research",

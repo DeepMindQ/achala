@@ -5,11 +5,11 @@
  "template": "service_page",
  "breadcrumb": "Services > IoT, Digital Twin & Robotics > Computer Vision & Edge AI",
  "seo_title": "Computer Vision & Edge AI | Achala IT Solutions",
- "meta_description": "Computer vision on the line where the deadline is the contract: accuracy, p99 latency and power signed per SKU, drift drills on the floor, and model ops that re-earn the deadline on target hardware.",
+ "meta_description": "Computer Vision & Edge AI from Achala IT Solutions: sensor data turned into operational decisions, with the safety discipline physical systems demand.",
  "blocks": [
   {
    "t": "hero",
-   "x": "Inference at the edge with model ops: quantized models deployed on constrained hardware, drift monitors on live feeds, thermal budgets respected, and decision p99 measured at the line, because a quality gate that misses its deadline is a scrap event."
+   "x": "Computer Vision & Edge AI from Achala IT Solutions: sensor data turned into operational decisions, with the safety discipline physical systems demand. Part of the IoT, Digital Twin & Robotics domain — 54 practices, one delivery standard, every engagement measured against a signed business baseline."
   },
   {
    "t": "h2",
@@ -18,7 +18,7 @@
   },
   {
    "t": "p",
-   "x": "Edge AI is model engineering under hardware tyranny: 15 watts, no cloud, and a decision deadline. The practice covers model selection and optimization for the target silicon, the deployment pipeline (canary, rollback, fleet), and the operational loop, drift monitors on live feeds, hard-case capture for retraining, and the interlock rule that keeps model outputs advisory to safety systems."
+   "x": "Computer Vision & Edge AI is delivered by an Achala practice team that stays through industrialization. Achala connects devices, twins and control loops with rollback built in: firmware staged and signed, actuation authorized and logged, model drift measured against reality. Physical operations get software-grade discipline. Who this is for: plant, fleet and device operations leaders, and engineering heads accountable for safe actuation."
   },
   {
    "t": "p",
@@ -1428,10 +1428,10 @@
   },
   {
    "t": "cta",
-   "x": "Bring the inspection your line does by eye because the model kept missing deadlines. The lab-to-line sprint will quantize, validate on-device and prove the p99, before the first scrap event."
+   "x": "Bring one production line or asset class to an Achala briefing. We will show the twin, the control loop and the safety gates it runs behind."
   }
  ],
- "words": 1017,
+ "words": 1380,
  "section": "Services",
  "l1": "Services",
  "l2": "IoT, Digital Twin & Robotics",
