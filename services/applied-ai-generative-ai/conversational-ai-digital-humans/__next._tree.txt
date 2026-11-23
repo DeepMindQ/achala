@@ -1,7 +1,8 @@
-:HL["/DataQ/_next/static/chunks/1y_9e1cs5fjkr.css","style"]
-:HL["/DataQ/_next/static/chunks/14fe64y984hu8.css","style"]
-:HL["/DataQ/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/DataQ/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/1y_9e1cs5fjkr.css","style"]
+:HL["/_next/static/chunks/35vwgcai2kmty.css","style"]
+:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/achala-logo-white.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"oc","k":"services/applied-ai-generative-ai/conversational-ai-digital-humans","s":["patented-intelligence","search","style-guide"]},"h":65600,"c":"$Q2"}]]
-0:{"b":"Z9p3mwCcHhdiSNO7ZuM4C","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"cosDR0weMojLBM5QnLyGa","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

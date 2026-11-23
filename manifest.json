@@ -1,11 +1,11 @@
 {
-  "name": "Dataq Software",
-  "short_name": "Dataq",
-  "description": "Dataq Software engineers the intelligence layer of the enterprise.",
+  "name": "Achala IT Solutions",
+  "short_name": "Achala",
+  "description": "Achala IT Solutions \u2014 transforming industries through AI acceleration.",
   "start_url": "/",
   "display": "browser",
   "background_color": "#FFFFFF",
-  "theme_color": "#18142D",
+  "theme_color": "#2b5672",
   "icons": [
     {
       "src": "/icon-512.png",
