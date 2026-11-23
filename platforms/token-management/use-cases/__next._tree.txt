@@ -1,8 +1,6 @@
-:HL["/achala/_next/static/chunks/1y_9e1cs5fjkr.css","style"]
-:HL["/achala/_next/static/chunks/1_g-1rus0prl2.css","style"]
-:HL["/achala/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/achala/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/achala/_next/static/chunks/551f21cfa1f68dc9.css","style"]
+:HL["/achala/_next/static/chunks/876e9e9d0e685f51.css","style"]
+:HL["/achala/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/achala/_next/static/media/c41ca59f1c34ba31-s.p.e20f337c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/achala/achala-logo-white.png","image"]
-2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":{"n":"slug","t":"oc","k":"platforms/token-management/use-cases","s":["patented-intelligence","search","style-guide"]},"h":65600,"c":"$Q2"}]]
-0:{"b":"sMhl2RepdXv5i8e3psi3Z","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"buildId":"YUXD3JrHde_GbnH5o_knL","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"oc","paramKey":"platforms/token-management/use-cases","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
