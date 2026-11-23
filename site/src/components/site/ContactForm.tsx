@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { CheckCircle2, Loader2, AlertCircle } from "lucide-react";
+import { BP } from "@/lib/bp";
 
 const INTERESTS = [
   "Applied AI & Generative AI",
@@ -151,7 +152,7 @@ export default function ContactForm({ compact = false }: { compact?: boolean }) 
         />
         <label htmlFor="cf-consent" className="text-[11.5px] leading-snug text-slate-body/70">
           I consent to Achala IT Solutions storing this message to respond to my inquiry, in line with the{" "}
-          <a href="/privacy-policy/" className="underline hover:text-navy-800">
+          <a href={`${BP}/privacy-policy/`} className="underline hover:text-navy-800">
             Privacy Policy
           </a>
           . Client data is never used for model training.

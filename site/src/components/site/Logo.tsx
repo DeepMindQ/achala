@@ -1,4 +1,5 @@
 import type { CSSProperties } from "react";
+import { BP } from "@/lib/bp";
 
 /*
  * Achala IT Solutions lockup — the approved artwork from www.achalasolutions.com
@@ -8,9 +9,9 @@ import type { CSSProperties } from "react";
  * to the lockup height on all sides; never recolor, stretch, shadow or rotate.
  */
 const LOGOS: Record<"full" | "reversed" | "mono", string> = {
-  full: "/achala-logo.png",
-  reversed: "/achala-logo-white.png",
-  mono: "/achala-logo-mono.png",
+  full: `${BP}/achala-logo.png`,
+  reversed: `${BP}/achala-logo-white.png`,
+  mono: `${BP}/achala-logo-mono.png`,
 };
 
 type LogoProps = {

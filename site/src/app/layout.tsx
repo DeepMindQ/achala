@@ -8,6 +8,7 @@ import CookieConsent from "@/components/site/CookieConsent";
 import { ScrollProgress, BackToTop } from "@/components/site/Motion";
 import MotionRuntime from "@/components/site/MotionRuntime";
 import { brandData, navData } from "@/lib/content";
+import { BP } from "@/lib/bp";
 
 /* Self-hosted variable fonts with preload + display swap (Wave 1, CHG-099). */
 const sora = Sora({
@@ -32,13 +33,15 @@ export const metadata: Metadata = {
   description:
     "Achala IT Solutions is an AI-first, platform-driven engineering company — taking solutions from POC to industrialization for mobility, healthcare, manufacturing and financial services. ISO/IEC 27001 · TISAX · GDPR-aligned.",
   robots: { index: true, follow: true },
-  manifest: "/manifest.json",
+  /* Browser-fetched same-origin assets get the base path (gh-pages preview);
+   * og:image stays metadataBase-resolved (production domain, crawler-side). */
+  manifest: `${BP}/manifest.json`,
   icons: {
     icon: [
-      { url: "/icon.svg", type: "image/svg+xml" },
-      { url: "/favicon.ico", sizes: "48x48", type: "image/x-icon" },
+      { url: `${BP}/icon.svg`, type: "image/svg+xml" },
+      { url: `${BP}/favicon.ico`, sizes: "48x48", type: "image/x-icon" },
     ],
-    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180" }],
+    apple: [{ url: `${BP}/apple-touch-icon.png`, sizes: "180x180" }],
   },
   openGraph: {
     type: "website",

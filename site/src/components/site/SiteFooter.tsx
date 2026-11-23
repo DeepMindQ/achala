@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Mail, MapPin, ShieldCheck, Linkedin, Twitter, Facebook, Instagram, Rss } from "lucide-react";
 import Logo from "./Logo";
+import { BP } from "@/lib/bp";
 import Reveal from "./Reveal";
 import ContactForm from "./ContactForm";
 import NewsletterForm from "./NewsletterForm";
@@ -129,7 +130,7 @@ export default function SiteFooter({ brand, footer }: { brand: Brand; footer: Fo
                 { icon: Twitter, label: "X (Twitter)", href: "https://twitter.com/AchalaIt" },
                 { icon: Facebook, label: "Facebook", href: "https://www.facebook.com/Achala-it-Solutions-Pvt-Ltd-2009-100557234648701/" },
                 { icon: Instagram, label: "Instagram", href: "https://www.instagram.com/achala_itsolutions/" },
-                { icon: Rss, label: "RSS", href: "/insights/" },
+                { icon: Rss, label: "RSS", href: `${BP}/insights/` },
               ].map(({ icon: Icon, label, href }) => (
                 <a
                   key={label}

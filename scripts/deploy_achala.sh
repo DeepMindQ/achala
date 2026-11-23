@@ -20,8 +20,13 @@ EOF
 chmod 700 /tmp/ghcred.sh
 git config --local credential.helper /tmp/ghcred.sh
 
-# 2. build out-gh with basePath /achala
+# 2. fresh export build with basePath /achala
+#    Next 16 writes the export into distDir (.next-export) — mirror it to out/
+#    so a stale no-basePath out/ can never reach gh-pages (2026-11-23 outage).
 cd site
+rm -rf out .next-export out-gh
+NEXT_STATIC_EXPORT=1 GHPAGES=1 NEXT_TELEMETRY_DISABLED=1 npx next build
+mv .next-export out
 rm -rf out-gh
 cp -r out out-gh
 python3 ../scripts/postbuild.py out-gh
